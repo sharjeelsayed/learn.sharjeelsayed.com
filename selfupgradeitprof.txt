@@ -5,17 +5,15 @@ https://thepiratebay-proxylist.org/
 https://cse.google.com/cse/home?cx=000661023013169144559:a1-kkiboeco
 https://cse.google.com/cse/publicurl?cx=001639227550064093264:dznewka3cca
 https://opentrackers.org/downloading-ebooks-textbooks/
-https://pinboard.in/u:sharjeelsayed/t:ebooks
 http://findlectures.com/
+https://pinboard.in/u:sharjeelsayed/t:ebooks
 https://pinboard.in/u:sharjeelsayed/t:cs/
 https://pinboard.in/u:sharjeelsayed/t:learn/
 https://pinboard.in/u:sharjeelsayed/t:course/
-http://www.reddit.com/r/Piracy/comments/hgpzl/hard_to_find_ebooks/
 https://www.reddit.com/r/DataHoarder/comments/5xqnc6/uc_berkeley_courses_time_to_seed/
 https://github.com/vhf/free-programming-books
 
 References :
-
 http://serverfault.com/questions/1046/what-is-the-single-most-influential-book-every-sysadmin-should-read
 http://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read
 https://teachyourselfcs.com/
@@ -24,29 +22,30 @@ https://github.com/donnemartin/system-design-primer
 https://github.com/chassing/linux-sysadmin-interview-questions
 https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer
 https://github.com/prakhar1989/awesome-courses
+https://github.com/sindresorhus/awesome
+https://github.com/braydie/HowToBeAProgrammer
 https://news.ycombinator.com/item?id=10644518 (Ask HN: What's your favorite online course?)
-https://www.goodreads.com/user/show/36136296-sharjeel-sayed
 https://news.ycombinator.com/item?id=14037313 (Questions to ask at the end of a technical interview)
 https://news.ycombinator.com/item?id=13406638 (Ask HN: What's the best computer science book you've read recently?)
 https://news.ycombinator.com/item?id=13867016 (Ask HN: Which Berkeley Courses Should I Archive?)
-https://news.ycombinator.com/item?id=13747563 (Ask HN: What are your favorite tech podcasts?)
-https://news.ycombinator.com/item?id=9207360 (Ask HN: Favorite podcasts?)
-https://podcastrank.co/
-https://news.ycombinator.com/item?id=13574916 (Ask HN: What are some 'must watch' talks?)
-https://alexvermeer.com/8760hours/ (8,760 Hours: How to get the most out of next year)
-http://ramiro.org/vis/hn-most-linked-books-unique-users/
 https://news.ycombinator.com/item?id=12702651 (	Ask HN: What is your favorite YouTube channel for developers?)
 https://news.ycombinator.com/item?id=11209066 (Why you probably don't need an MBA )
 https://news.ycombinator.com/item?id=12718102 (Programming books you might want to consider reading)
-http://www.dev-books.com/ (The most mentioned books on Stack Overflow )
+https://news.ycombinator.com/item?id=13574916 (Ask HN: What are some 'must watch' talks?)
+https://news.ycombinator.com/item?id=13747563 (Ask HN: What are your favorite tech podcasts?)
+https://news.ycombinator.com/item?id=9207360 (Ask HN: Favorite podcasts?)
 https://news.ycombinator.com/item?id=13597949 (The most mentioned books on Stack Overflow )
 https://www.reddit.com/r/AskReddit/comments/34m5n6/reddit_what_are_some_must_read_books/
-https://www.scotthyoung.com/blog/myprojects/mit-challenge-2/
 https://www.reddit.com/r/AskReddit/comments/4q91g9/what_free_things_online_should_everyone_take/d4r8foy/
+https://podcastrank.co/
+https://alexvermeer.com/8760hours/ (8,760 Hours: How to get the most out of next year)
+http://ramiro.org/vis/hn-most-linked-books-unique-users/
+http://www.dev-books.com/ (The most mentioned books on Stack Overflow )
+https://www.scotthyoung.com/blog/myprojects/mit-challenge-2/
 https://mva.microsoft.com/
 https://www.cybrary.it/
-https://github.com/sindresorhus/awesome
-https://github.com/braydie/HowToBeAProgrammer
+
+https://www.goodreads.com/user/show/36136296-sharjeel-sayed
 
 Operating Systems:
 
@@ -120,6 +119,14 @@ http://www.amazon.com/Data-Center-Fundamentals-Mauricio-Arregoces/dp/1587050234
 
 Programming:
 
+Concepts:
+
+Structure and Interpretation of Computer Programs - 2nd Edition
+https://www.amazon.com/Structure-Interpretation-Computer-Programs-Engineering/dp/0262510871
+
+Computer Science 61A, 001 - Spring 2011
+https://www.youtube.com/playlist?list=PL3E89002AA9B9879E
+
 Python:
 
 1) http://docs.python.org/py3k/tutorial/index.html
@@ -162,7 +169,6 @@ Java Container:
 1) Tomcat
 Tomcat: The Definitive Guide
 http://www.amazon.com/Tomcat-Definitive-Guide-Jason-Brittain/dp/0596101066
-
 
 Vim:
 
