@@ -211,6 +211,19 @@ AWS:
 Amazon Web Services in Action 1st Edition
 https://www.amazon.com/Amazon-Services-Action-Andreas-Wittig/dp/1617292885
 
+Docker:
+
+Docker for Beginners
+https://prakhar.me/docker-curriculum/
+
+VMware
+
+CBT Nuggets VMware vSphere 6
+https://fastpiratebay.co.uk/torrent/13449737/CBT_Nuggets_VMware_vSphere_6
+
+Mastering VMware vSphere 6 1st Edition
+https://www.amazon.com/Mastering-VMware-vSphere-Nick-Marshall/dp/1118925157
+
 Hardware:
 
 The Elements of Computing Systems: Building a Modern Computer from First Principles 
