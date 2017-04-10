@@ -2,18 +2,18 @@ IT Professional Self Up Gradation
 
 Operating Systems:
 
-1) Operating Systems: Three Easy Pieces 
+Operating Systems: Three Easy Pieces 
 http://pages.cs.wisc.edu/~remzi/OSTEP/
 
-2) Computer Science 162, 001 - Spring 2015. Operating Systems and System Programming - John Kubiatowicz UCBerkeley
+Computer Science 162, 001 - Spring 2015. Operating Systems and System Programming - John Kubiatowicz UCBerkeley
 https://www.youtube.com/playlist?list=PL-XXv-cvA_iBDyz-ba4yDskqMDY6A1w_c
 
 Additional Material:
 
-1) Operating System Concepts , 9th Edition
+Operating System Concepts , 9th Edition
 https://www.amazon.com/dp/1118063333/
 
-2) Modern Operating Systems , 4th Edition
+Modern Operating Systems , 4th Edition
 https://www.amazon.com/dp/013359162X/
 
 Linux:
@@ -27,16 +27,16 @@ http://www.amazon.com/gp/bestsellers/books/3778/
 http://www.amazon.com/gp/bestsellers/books/3849/
 https://www.reddit.com/r/linuxadmin/comments/2s924h/how_did_you_get_your_start/cnnw1ma/
 
-1) UNIX and Linux System Administration Handbook (4th Edition)
+UNIX and Linux System Administration Handbook (4th Edition)
 http://www.amazon.com/UNIX-Linux-System-Administration-Handbook/dp/0131480057
 
-2) How Linux Works: What Every Superuser Should Know Second Edition
+How Linux Works: What Every Superuser Should Know Second Edition
 http://www.amazon.com/How-Linux-Works-Superuser-Should/dp/1593275676
 
-3) RHCSA & RHCE Red Hat Enterprise Linux 7: Training and Exam Preparation Guide (EX200 and EX300), Third Edition
+RHCSA & RHCE Red Hat Enterprise Linux 7: Training and Exam Preparation Guide (EX200 and EX300), Third Edition
 http://www.amazon.com/RHCSA-RHCE-Red-Enterprise-Linux/dp/1495148203/
 
-Additional:
+Additional Material:
 
 Unix Power Tools,Third Edition
 http://www.amazon.com/Power-Tools-Third-Shelley-Powers/dp/0596003307
@@ -51,18 +51,18 @@ Networking:
 References:
 https://www.reddit.com/r/sysadmin/comments/4ux166/do_you_know_a_site_to_learn_more_about_networking/
 
-1) Computer Networking: A Top-Down Approach (7th Edition)
+Computer Networking: A Top-Down Approach (7th Edition)
 https://www.amazon.com/Computer-Networking-Top-Down-Approach-7th/dp/0133594149
 
-2) CS144 Introduction to Computer Networking Stanford University
+CS144 Introduction to Computer Networking Stanford University
 https://suclass.stanford.edu/courses/course-v1:Engineering+CS144+Fall2016/courseware
 
-Additional:
+Additional Material:
 
-3) Eli The Computer Guy Youtube 
+Eli The Computer Guy Youtube 
 https://www.youtube.com/playlist?list=PLF360ED1082F6F2A5
 
-4) Load Balancing Servers, Firewalls, and Caches
+Load Balancing Servers, Firewalls, and Caches
 http://www.amazon.com/Load-Balancing-Servers-Firewalls-Caches/dp/0471415502
 
 DataCenter:
@@ -79,6 +79,14 @@ https://www.amazon.com/Structure-Interpretation-Computer-Programs-Engineering/dp
 
 Computer Science 61A, 001 - Spring 2011
 https://www.youtube.com/playlist?list=PL3E89002AA9B9879E
+
+Alogrithms:
+
+The Algorithm Design Manual 2nd Edition
+https://www.amazon.com/gp/product/1848000693
+
+Steven Skiena Dept. of Computer Science Stony Brook University Video Lectures
+http://www3.cs.stonybrook.edu/~algorith/video-lectures/
 
 Python:
 
@@ -204,6 +212,9 @@ Amazon Web Services in Action 1st Edition
 https://www.amazon.com/Amazon-Services-Action-Andreas-Wittig/dp/1617292885
 
 Hardware:
+
+The Elements of Computing Systems: Building a Modern Computer from First Principles 
+https://www.amazon.com/Elements-Computing-Systems-Building-Principles/dp/0262640686
 
 Professor Messer’s CompTIA 220-901 and 220-902 A+ Training Videos (These are completely free and have a running time of 17 hours 26 minutes)
 http://www.professormesser.com/free-a-plus-training/220-901/comptia-220-900-course/
