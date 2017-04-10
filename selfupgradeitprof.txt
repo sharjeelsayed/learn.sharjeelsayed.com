@@ -44,7 +44,6 @@ http://www.dev-books.com/ (The most mentioned books on Stack Overflow )
 https://www.scotthyoung.com/blog/myprojects/mit-challenge-2/
 https://mva.microsoft.com/
 https://www.cybrary.it/
-
 https://www.goodreads.com/user/show/36136296-sharjeel-sayed
 
 Operating Systems:
