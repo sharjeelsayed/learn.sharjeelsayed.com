@@ -1,4 +1,4 @@
-Computer Engineering Self Learn 
+Computer Engineering Self Study Guide 
 
 Operating Systems:
 
@@ -45,6 +45,9 @@ Windows:
 
 Mastering Windows Server 2012 R2
 http://www.amazon.com/Mastering-Windows-Server-2012-R2/dp/1118289420
+
+Windows Server Courses from Microsoft Viryual Academy
+https://mva.microsoft.com/product-training/windows-server#!index=3&jobf=IT%20Pros&lang=1033
 
 Networking:
 
@@ -229,7 +232,7 @@ Hardware:
 The Elements of Computing Systems: Building a Modern Computer from First Principles 
 https://www.amazon.com/Elements-Computing-Systems-Building-Principles/dp/0262640686
 
-Professor Messer’s CompTIA 220-901 and 220-902 A+ Training Videos (These are completely free and have a running time of 17 hours 26 minutes)
+Professor Messer’s CompTIA 220-901 and 220-902 A+ Training Videos
 http://www.professormesser.com/free-a-plus-training/220-901/comptia-220-900-course/
 
 Management:
@@ -269,6 +272,46 @@ https://pinboard.in/u:sharjeelsayed/t:course/
 https://www.reddit.com/r/DataHoarder/comments/5xqnc6/uc_berkeley_courses_time_to_seed/
 https://github.com/vhf/free-programming-books
 
+Job Portals:
+
+https://www.linkedin.com/jobs/
+https://www.naukri.com/
+https://www.indeed.co.in/
+http://www.timesjobs.com/
+https://www.shine.com/
+http://www.monsterindia.com/
+https://Glassdoor.com
+http://www.careesma.in/
+Note: Update your resume on the above sites every Sunday post 12 AM (IST).
+ 
+Job Search Engines:
+
+http://Indeed.co.in
+http://Simplyhired.co.in
+http://India.Recruit.net
+ 
+Company and Salary Reviews:
+
+https://careernavigator.naukri.com/
+https://www.glassdoor.co.in/Salaries/india-salary-SRCH_IL.0,5_IN115.htm
+http://www.payscale.com/research/IN/Country=India/Salary
+
+Freelancer:
+
+https://www.upwork.com
+https://www.freelancer.com/
+http://www.guru.com/
+ 
+Interview Guides:
+
+https://pinboard.in/u:sharjeelsayed/t:interview
+https://pinboard.in/u:sharjeelsayed/t:jobs/
+https://pinboard.in/u:sharjeelsayed/t:ebooks
+ 
+Resume Improvement:
+
+https://pinboard.in/u:sharjeelsayed/t:resume
+
 References :
 http://serverfault.com/questions/1046/what-is-the-single-most-influential-book-every-sysadmin-should-read
 http://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read
@@ -291,6 +334,8 @@ https://news.ycombinator.com/item?id=13574916 (Ask HN: What are some 'must watch
 https://news.ycombinator.com/item?id=13747563 (Ask HN: What are your favorite tech podcasts?)
 https://news.ycombinator.com/item?id=9207360 (Ask HN: Favorite podcasts?)
 https://news.ycombinator.com/item?id=13597949 (The most mentioned books on Stack Overflow )
+https://news.ycombinator.com/item?id=14086259 (Ask HN: Mailing lists that HN readers ought to know about?)
+https://news.ycombinator.com/item?id=13207268 (	Ask HN: How do I get freelance developer jobs?)
 https://www.reddit.com/r/AskReddit/comments/34m5n6/reddit_what_are_some_must_read_books/
 https://www.reddit.com/r/AskReddit/comments/4q91g9/what_free_things_online_should_everyone_take/d4r8foy/
 https://podcastrank.co/
@@ -301,3 +346,5 @@ https://www.scotthyoung.com/blog/myprojects/mit-challenge-2/
 https://mva.microsoft.com/
 https://www.cybrary.it/
 https://www.goodreads.com/user/show/36136296-sharjeel-sayed
+https://www.reddit.com/user/sharjeelsayed/upvoted/
+https://news.ycombinator.com/favorites?id=sharjeelsayed
