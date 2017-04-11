@@ -1,4 +1,4 @@
-Computer Engineer Self Study and Job Hunting Guide 
+Curated list of Self Study and Job Hunting Guide for Computer Engineers
 
 Operating Systems:
 
@@ -225,7 +225,7 @@ Docker:
 Docker for Beginners
 https://prakhar.me/docker-curriculum/
 
-VMware
+VMware:
 
 CBT Nuggets VMware vSphere 6
 https://fastpiratebay.co.uk/torrent/13449737/CBT_Nuggets_VMware_vSphere_6
@@ -240,6 +240,11 @@ https://www.amazon.com/Elements-Computing-Systems-Building-Principles/dp/0262640
 
 Professor Messer’s CompTIA 220-901 and 220-902 A+ Training Videos
 http://www.professormesser.com/free-a-plus-training/220-901/comptia-220-900-course/
+
+Microsoft Excel:
+
+Excel 2016 Bible 1st Edition
+https://www.amazon.com/Excel-2016-Bible-John-Walkenbach/dp/1119067510/
 
 Management:
 
@@ -358,6 +363,7 @@ https://mva.microsoft.com/
 https://www.cybrary.it/
 https://www.amazon.com/Best-Sellers-Books-Computer-Science/zgbs/books/468204
 https://www.google.com/about/careers/students/guide-to-technical-development.html
+https://www.reddit.com/r/excel/comments/2e28s3/rexcel_advice_thread_repository/
 http://booksreddit.com/
 https://www.goodreads.com/user/show/36136296-sharjeel-sayed
 https://www.reddit.com/user/sharjeelsayed/upvoted/
