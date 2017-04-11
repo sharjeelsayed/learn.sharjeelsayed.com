@@ -335,6 +335,7 @@ https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer
 https://github.com/prakhar1989/awesome-courses
 https://github.com/sindresorhus/awesome
 https://github.com/braydie/HowToBeAProgrammer
+https://github.com/jwasham/coding-interview-university
 https://news.ycombinator.com/item?id=10644518 (Ask HN: What's your favorite online course?)
 https://news.ycombinator.com/item?id=14037313 (Questions to ask at the end of a technical interview)
 https://news.ycombinator.com/item?id=13406638 (Ask HN: What's the best computer science book you've read recently?)
@@ -365,6 +366,7 @@ https://www.amazon.com/Best-Sellers-Books-Computer-Science/zgbs/books/468204
 https://www.google.com/about/careers/students/guide-to-technical-development.html
 https://www.reddit.com/r/excel/comments/2e28s3/rexcel_advice_thread_repository/
 http://booksreddit.com/
+https://pinboard.in/u:sharjeelsayed
 https://www.goodreads.com/user/show/36136296-sharjeel-sayed
 https://www.reddit.com/user/sharjeelsayed/upvoted/
 https://news.ycombinator.com/favorites?id=sharjeelsayed
