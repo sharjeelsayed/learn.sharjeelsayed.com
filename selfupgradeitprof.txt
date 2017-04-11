@@ -93,9 +93,9 @@ http://www3.cs.stonybrook.edu/~algorith/video-lectures/
 
 Python:
 
-1) http://docs.python.org/py3k/tutorial/index.html
+http://docs.python.org/py3k/tutorial/index.html
 
-2) Learn Python the Hard Way , 4th Edition
+Learn Python the Hard Way , 4th Edition
 https://learnpythonthehardway.org/python3/
 
 Bash:
@@ -122,17 +122,22 @@ http://stackoverflow.com/questions/194812/list-of-freely-available-programming-b
 http://stackoverflow.com/questions/2482639/which-is-the-best-book-for-learning-java-servlets-and-jsp
 http://www.amazon.com/gp/bestsellers/books/173561
 
-1) Head First Java 2nd Edition 
+Head First Java 2nd Edition 
 http://www.amazon.com/Head-First-Java-Kathy-Sierra/dp/0596009208
 
-2) Murach's Java Servlets and JSP
+Murach's Java Servlets and JSP
 http://www.amazon.com/Murachs-Java-Servlets-JSP-2nd/dp/1890774448
 
 Java Container:
 
-1) Tomcat
+Tomcat
 Tomcat: The Definitive Guide
 http://www.amazon.com/Tomcat-Definitive-Guide-Jason-Brittain/dp/0596101066
+
+Git:
+
+Pro Git
+https://git-scm.com/book/en/v2
 
 Vim:
 
@@ -148,8 +153,6 @@ http://nginx.org/en/docs/
 Apache:
 
 http://httpd.apache.org/docs/
-
-IIS
 
 Email:
 
@@ -173,22 +176,22 @@ https://pinboard.in/u:sharjeelsayed/t:db
 
 Concepts:
 
-1) Architecture of a Database System
+Architecture of a Database System
 http://db.cs.berkeley.edu/papers/fntdb07-architecture.pdf
 
-2) Computer Science 186, 001 - Spring 2015 UCBerkeley Introduction to Database Systems - Joseph Hellerstein
+Computer Science 186, 001 - Spring 2015 UCBerkeley Introduction to Database Systems - Joseph Hellerstein
 https://www.youtube.com/playlist?list=PL-XXv-cvA_iBVK2QzAV-R7NMA1ZkaiR2y
 
 SQL:
 
-1) Stanford DB5 Course on SQL
+Stanford DB5 Course on SQL
 https://lagunita.stanford.edu/courses/DB/SQL/SelfPaced/about
 
-2) http://sqlzoo.net/
+http://sqlzoo.net/
 
-3) https://www.sqlteaching.com/
+https://www.sqlteaching.com/
 
-4) https://www.w3schools.com/sql/default.asp
+https://www.w3schools.com/sql/default.asp
 
 MySQL:
 
@@ -316,6 +319,7 @@ References :
 http://serverfault.com/questions/1046/what-is-the-single-most-influential-book-every-sysadmin-should-read
 http://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read
 https://teachyourselfcs.com/
+https://learnxinyminutes.com/
 https://github.com/Developer-Y/cs-video-courses
 https://github.com/donnemartin/system-design-primer
 https://github.com/chassing/linux-sysadmin-interview-questions
@@ -338,6 +342,7 @@ https://news.ycombinator.com/item?id=14086259 (Ask HN: Mailing lists that HN rea
 https://news.ycombinator.com/item?id=13207268 (	Ask HN: How do I get freelance developer jobs?)
 https://www.reddit.com/r/AskReddit/comments/34m5n6/reddit_what_are_some_must_read_books/
 https://www.reddit.com/r/AskReddit/comments/4q91g9/what_free_things_online_should_everyone_take/d4r8foy/
+https://www.reddit.com/r/cscareerquestions/comments/5bsg82/whats_the_single_most_useful_csrelated_link_you/
 https://podcastrank.co/
 https://alexvermeer.com/8760hours/ (8,760 Hours: How to get the most out of next year)
 http://ramiro.org/vis/hn-most-linked-books-unique-users/
