@@ -46,7 +46,7 @@ Windows:
 Mastering Windows Server 2012 R2
 http://www.amazon.com/Mastering-Windows-Server-2012-R2/dp/1118289420
 
-Windows Server Courses from Microsoft Viryual Academy
+Windows Server Courses from Microsoft Virtual Academy
 https://mva.microsoft.com/product-training/windows-server#!index=3&jobf=IT%20Pros&lang=1033
 
 Networking:
@@ -155,7 +155,8 @@ Apache:
 
 http://httpd.apache.org/docs/
 
-IIS
+HAProxy
+https://www.digitalocean.com/community/tutorials/an-introduction-to-haproxy-and-load-balancing-concepts
 
 Email:
 
