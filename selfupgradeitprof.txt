@@ -299,9 +299,10 @@ Note: Update your resume on the above sites every Sunday post 12 AM (IST).
 Job Search Engines:
 
 http://Indeed.co.in
+https://whoishiring.io
 http://Simplyhired.co.in
 http://India.Recruit.net
- 
+
 Company and Salary Reviews:
 
 https://careernavigator.naukri.com/
@@ -313,6 +314,7 @@ Freelancer:
 https://www.upwork.com
 https://www.freelancer.com/
 http://www.guru.com/
+https://nomadprojects.io/
  
 Interview Guides:
 
@@ -351,6 +353,7 @@ https://news.ycombinator.com/item?id=13597949 (The most mentioned books on Stack
 https://news.ycombinator.com/item?id=14086259 (Ask HN: Mailing lists that HN readers ought to know about?)
 https://news.ycombinator.com/item?id=13207268 (	Ask HN: How do I get freelance developer jobs?)
 https://news.ycombinator.com/item?id=14087880 (Ask HN: What are some great “Free” services provided by IBM, Amazon, etc.?)
+https://news.ycombinator.com/item?id=13014900 (	Ask HN: What are the bibles of Computer Science?)
 https://www.reddit.com/r/AskReddit/comments/34m5n6/reddit_what_are_some_must_read_books/
 https://www.reddit.com/r/AskReddit/comments/4q91g9/what_free_things_online_should_everyone_take/d4r8foy/
 https://www.reddit.com/r/cscareerquestions/comments/5bsg82/whats_the_single_most_useful_csrelated_link_you/
@@ -367,7 +370,10 @@ https://www.amazon.com/Best-Sellers-Books-Computer-Science/zgbs/books/468204
 https://www.google.com/about/careers/students/guide-to-technical-development.html
 https://www.reddit.com/r/excel/comments/2e28s3/rexcel_advice_thread_repository/
 http://booksreddit.com/
+https://www.reddit.com/r/learnprogramming
+https://www.reddit.com/r/cscareerquestions/
 https://pinboard.in/u:sharjeelsayed
+https://github.com/sharjeelsayed?tab=stars
 https://www.goodreads.com/user/show/36136296-sharjeel-sayed
 https://www.reddit.com/user/sharjeelsayed/upvoted/
 https://news.ycombinator.com/favorites?id=sharjeelsayed
