@@ -56,6 +56,7 @@ https://www.reddit.com/r/sysadmin/comments/4ux166/do_you_know_a_site_to_learn_mo
 
 Computer Networking: A Top-Down Approach (7th Edition)
 https://www.amazon.com/Computer-Networking-Top-Down-Approach-7th/dp/0133594149
+https://fastpiratebay.co.uk/torrent/11060421/computer_networking_a_top-down_approach_lecture (Lecture Videos based on the book)
 
 CS144 Introduction to Computer Networking Stanford University
 https://suclass.stanford.edu/courses/course-v1:Engineering+CS144+Fall2016/courseware/ac9d1eef5aaa4bb5bcfe4d42f51f0f5b/c5c384e648cf404c837d05497c6e36b0/
@@ -273,8 +274,8 @@ How to find free Ebooks:
 
 http://libgen.io/
 https://thepiratebay-proxylist.org/
-https://cse.google.com/cse/home?cx=000661023013169144559:a1-kkiboeco
-https://cse.google.com/cse/publicurl?cx=001639227550064093264:dznewka3cca
+https://cse.google.com/cse/home?cx=000661023013169144559:a1-kkiboeco (Ebooks Search Engine)
+https://cse.google.com/cse/publicurl?cx=001639227550064093264:dznewka3cca (Ebooks Search Engine)
 https://opentrackers.org/downloading-ebooks-textbooks/
 http://findlectures.com/
 https://pinboard.in/u:sharjeelsayed/t:ebooks
@@ -354,11 +355,14 @@ https://news.ycombinator.com/item?id=14086259 (Ask HN: Mailing lists that HN rea
 https://news.ycombinator.com/item?id=13207268 (	Ask HN: How do I get freelance developer jobs?)
 https://news.ycombinator.com/item?id=14087880 (Ask HN: What are some great “Free” services provided by IBM, Amazon, etc.?)
 https://news.ycombinator.com/item?id=13014900 (	Ask HN: What are the bibles of Computer Science?)
+https://www.reddit.com/r/learnprogramming
+https://www.reddit.com/r/cscareerquestions/
 https://www.reddit.com/r/AskReddit/comments/34m5n6/reddit_what_are_some_must_read_books/
 https://www.reddit.com/r/AskReddit/comments/4q91g9/what_free_things_online_should_everyone_take/d4r8foy/
 https://www.reddit.com/r/cscareerquestions/comments/5bsg82/whats_the_single_most_useful_csrelated_link_you/
 https://www.reddit.com/r/compsci/comments/1kcal2/algorithims_everyone_should_know/
 https://www.reddit.com/r/compsci/comments/20vbaw/what_book_made_you_a_better_computer_scientist/
+https://www.reddit.com/r/excel/comments/2e28s3/rexcel_advice_thread_repository/
 https://podcastrank.co/
 https://alexvermeer.com/8760hours/ (8,760 Hours: How to get the most out of next year)
 http://ramiro.org/vis/hn-most-linked-books-unique-users/
@@ -368,12 +372,12 @@ https://mva.microsoft.com/
 https://www.cybrary.it/
 https://www.amazon.com/Best-Sellers-Books-Computer-Science/zgbs/books/468204
 https://www.google.com/about/careers/students/guide-to-technical-development.html
-https://www.reddit.com/r/excel/comments/2e28s3/rexcel_advice_thread_repository/
 http://booksreddit.com/
-https://www.reddit.com/r/learnprogramming
-https://www.reddit.com/r/cscareerquestions/
+http://www.bookadvice.co/
 https://pinboard.in/u:sharjeelsayed
 https://github.com/sharjeelsayed?tab=stars
 https://www.goodreads.com/user/show/36136296-sharjeel-sayed
 https://www.reddit.com/user/sharjeelsayed/upvoted/
 https://news.ycombinator.com/favorites?id=sharjeelsayed
+https://cse.google.com/cse/publicurl?cx=013208504250323700475:mqurmsvnc8k (Google Custom Search Engine for Sharjeel's Bookmarks)
+https://cse.google.com/cse/publicurl?cx=013208504250323700475:s10mdnqcv0e (Google Custom Search Engine for Sharjeel's Reading List)
