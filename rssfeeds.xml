@@ -25,6 +25,7 @@
       <outline text="Technology : Top scoring links " title="Technology : Top scoring links " type="rss" xmlUrl="http://smithsdownunder.com/reddit_rss/?rss=https%3A%2F%2Fwww.reddit.com%2Fr%2Ftechnology%2Ftop%2F.rss" htmlUrl="https://www.reddit.com/r/technology/top/?date=20170118183107"/>
       <outline text="Gadgets : Top scoring links" title="Gadgets : Top scoring links" type="rss" xmlUrl="http://smithsdownunder.com/reddit_rss/?rss=https%3A%2F%2Fwww.reddit.com%2Fr%2Fgadgets%2Ftop%2F.rss" htmlUrl="https://www.reddit.com/r/gadgets/top/?date=20170119054543"/>
       <outline text="Hacker News: Front Page" title="Hacker News: Front Page" type="rss" xmlUrl="https://hnrss.org/frontpage" htmlUrl="https://news.ycombinator.com/"/>
+      <outline text="Computer Science: Theory and Application" title="Computer Science: Theory and Application" type="rss" xmlUrl="https://www.reddit.com/r/compsci/.rss" htmlUrl="https://www.reddit.com/r/compsci/"/>
       <outline text="Science : Top scoring links" title="Science : Top scoring links" type="rss" xmlUrl="http://smithsdownunder.com/reddit_rss/?rss=https%3A%2F%2Fwww.reddit.com%2Fr%2Fscience%2Ftop%2F.rss" htmlUrl="https://www.reddit.com/r/science/top/?date=20170118181037"/>
       <outline text="Hacker News" title="Hacker News" type="rss" xmlUrl="http://news.ycombinator.com/rss" htmlUrl="https://news.ycombinator.com/"/>
       <outline text="Slashdot" title="Slashdot" type="rss" xmlUrl="http://rss.slashdot.org/slashdot/classic" htmlUrl="http://slashdot.org/"/>
