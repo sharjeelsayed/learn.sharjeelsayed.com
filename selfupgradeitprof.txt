@@ -1,5 +1,51 @@
 Curated list of Self Study and Job Hunting Guide for Computer Engineers
 
+Topics:
+
+Operating Systems
+Linux
+Windows
+Docker
+Networking
+Storage
+VMware
+Data Center
+AWS
+WebServers
+	NginX
+	Apache
+	HAProxy
+Email
+	Postfix
+DNS
+	djbdns
+Database
+SQL
+MySQL
+PostgreSQL
+Programming
+Bash
+Python
+C
+Java
+Java Container
+	Tomcat
+Regex
+Git
+Vim
+Hardware
+Microsoft Excel
+Management
+Money
+How to find free Ebooks
+Job Portals
+Job Search Engines
+Company and Salary Reviews
+Freelancer
+Interview Guides
+Resume Improvement
+References
+
 Operating Systems:
 
 Operating Systems: Three Easy Pieces 
@@ -49,6 +95,11 @@ http://www.amazon.com/Mastering-Windows-Server-2012-R2/dp/1118289420
 Windows Server Courses from Microsoft Virtual Academy
 https://mva.microsoft.com/product-training/windows-server#!index=3&jobf=IT%20Pros&lang=1033
 
+Docker:
+
+Docker for Beginners
+https://prakhar.me/docker-curriculum/
+
 Networking:
 
 References:
@@ -69,86 +120,31 @@ https://www.youtube.com/playlist?list=PLF360ED1082F6F2A5
 Load Balancing Servers, Firewalls, and Caches
 http://www.amazon.com/Load-Balancing-Servers-Firewalls-Caches/dp/0471415502
 
-DataCenter:
+Storage:
+
+Data Storage Networking: Real World Skills for the CompTIA Storage+ Certification and Beyond 1st Edition
+https://www.amazon.com/Data-Storage-Networking-CompTIA-Certification/dp/1118679210
+
+VMware:
+
+CBT Nuggets VMware vSphere 6
+https://fastpiratebay.co.uk/torrent/13449737/CBT_Nuggets_VMware_vSphere_6
+
+Mastering VMware vSphere 6 1st Edition
+https://www.amazon.com/Mastering-VMware-vSphere-Nick-Marshall/dp/1118925157
+Data Center:
 
 Data Center Fundamentals
 http://www.amazon.com/Data-Center-Fundamentals-Mauricio-Arregoces/dp/1587050234
 
-Programming:
+AWS:
 
-Concepts:
-
-Structure and Interpretation of Computer Programs - 2nd Edition
-https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-4.html
-http://sarabander.github.io/sicp/
-
-Computer Science 61A, 001 - Spring 2011
-https://www.youtube.com/playlist?list=PL3E89002AA9B9879E
-
-Alogrithms:
-
-The Algorithm Design Manual 2nd Edition
-https://www.amazon.com/gp/product/1848000693
-
-Steven Skiena Dept. of Computer Science Stony Brook University Video Lectures
-http://www3.cs.stonybrook.edu/~algorith/video-lectures/
-
-Python:
-
-http://docs.python.org/py3k/tutorial/index.html
-
-Learn Python the Hard Way , 4th Edition
-https://learnpythonthehardway.org/python3/
-
-Bash:
-
-ABS Guide
-http://tldp.org/LDP/abs/html/
-
-Powershell:
-
-Learn Windows PowerShell in a Month of Lunches 3rd Edition
-https://www.amazon.com/Learn-Windows-PowerShell-Month-Lunches/dp/1617294160
-
-C:
-
-The C Programming Language 2nd Edition
-http://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628
-
-Java:
-
-References: 
-http://www.amazon.com/gp/bestsellers/books/3608/
-http://stackoverflow.com/questions/75102/best-java-book-you-have-read-so-far
-http://stackoverflow.com/questions/194812/list-of-freely-available-programming-books
-http://stackoverflow.com/questions/2482639/which-is-the-best-book-for-learning-java-servlets-and-jsp
-http://www.amazon.com/gp/bestsellers/books/173561
-
-Head First Java 2nd Edition 
-http://www.amazon.com/Head-First-Java-Kathy-Sierra/dp/0596009208
-
-Murach's Java Servlets and JSP
-http://www.amazon.com/Murachs-Java-Servlets-JSP-2nd/dp/1890774448
-
-Java Container:
-
-Tomcat
-Tomcat: The Definitive Guide
-http://www.amazon.com/Tomcat-Definitive-Guide-Jason-Brittain/dp/0596101066
-
-Git:
-
-Pro Git
-https://git-scm.com/book/en/v2
-
-Vim:
-
-Practical Vim: Edit Text at the Speed of Thought , 2nd Edition
-https://www.amazon.com/Practical-Vim-Edit-Speed-Thought/dp/1680501275/
+Amazon Web Services in Action 1st Edition
+https://www.amazon.com/Amazon-Services-Action-Andreas-Wittig/dp/1617292885
 
 WebServers:
 
-Nginx:
+NGINX:
 
 http://nginx.org/en/docs/
 
@@ -168,7 +164,7 @@ http://www.amazon.com/Book-Postfix-State---Art-Transport/dp/1593270011
 
 DNS:
 
-DJBDNS:
+djbdns:
 
 http://cr.yp.to/djbdns.html
 
@@ -207,33 +203,82 @@ PostgreSQL:
 https://www.postgresql.org/docs/9.3/static/index.html
 https://pgexercises.com/
 
+Programming:
+
+Concepts:
+
+Structure and Interpretation of Computer Programs - 2nd Edition
+https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-4.html
+http://sarabander.github.io/sicp/
+
+Computer Science 61A, 001 - Spring 2011
+https://www.youtube.com/playlist?list=PL3E89002AA9B9879E
+
+Alogrithms:
+
+The Algorithm Design Manual 2nd Edition
+https://www.amazon.com/gp/product/1848000693
+
+Steven Skiena Dept. of Computer Science Stony Brook University Video Lectures
+http://www3.cs.stonybrook.edu/~algorith/video-lectures/
+
+Bash:
+
+ABS Guide
+http://tldp.org/LDP/abs/html/
+
+Python:
+
+http://docs.python.org/py3k/tutorial/index.html
+
+Learn Python the Hard Way , 4th Edition
+https://learnpythonthehardway.org/python3/
+
+Powershell:
+
+Learn Windows PowerShell in a Month of Lunches 3rd Edition
+https://www.amazon.com/Learn-Windows-PowerShell-Month-Lunches/dp/1617294160
+
+C:
+
+The C Programming Language 2nd Edition
+http://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628
+
+Java:
+
+References: 
+http://www.amazon.com/gp/bestsellers/books/3608/
+http://stackoverflow.com/questions/75102/best-java-book-you-have-read-so-far
+http://stackoverflow.com/questions/194812/list-of-freely-available-programming-books
+http://stackoverflow.com/questions/2482639/which-is-the-best-book-for-learning-java-servlets-and-jsp
+http://www.amazon.com/gp/bestsellers/books/173561
+
+Head First Java 2nd Edition 
+http://www.amazon.com/Head-First-Java-Kathy-Sierra/dp/0596009208
+
+Murach's Java Servlets and JSP
+http://www.amazon.com/Murachs-Java-Servlets-JSP-2nd/dp/1890774448
+
+Java Container:
+
+Tomcat
+Tomcat: The Definitive Guide
+http://www.amazon.com/Tomcat-Definitive-Guide-Jason-Brittain/dp/0596101066
+
 Regex:
 
 Regular Expressions Cookbook: Detailed Solutions in Eight Programming Languages 2nd Edition
 https://www.amazon.com/Regular-Expressions-Cookbook-Solutions-Programming/dp/1449319432
 
-Storage:
+Git:
 
-Data Storage Networking: Real World Skills for the CompTIA Storage+ Certification and Beyond 1st Edition
-https://www.amazon.com/Data-Storage-Networking-CompTIA-Certification/dp/1118679210
+Pro Git
+https://git-scm.com/book/en/v2
 
-AWS:
+Vim:
 
-Amazon Web Services in Action 1st Edition
-https://www.amazon.com/Amazon-Services-Action-Andreas-Wittig/dp/1617292885
-
-Docker:
-
-Docker for Beginners
-https://prakhar.me/docker-curriculum/
-
-VMware:
-
-CBT Nuggets VMware vSphere 6
-https://fastpiratebay.co.uk/torrent/13449737/CBT_Nuggets_VMware_vSphere_6
-
-Mastering VMware vSphere 6 1st Edition
-https://www.amazon.com/Mastering-VMware-vSphere-Nick-Marshall/dp/1118925157
+Practical Vim: Edit Text at the Speed of Thought , 2nd Edition
+https://www.amazon.com/Practical-Vim-Edit-Speed-Thought/dp/1680501275/
 
 Hardware:
 
