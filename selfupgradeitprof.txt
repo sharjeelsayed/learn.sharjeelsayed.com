@@ -17,6 +17,7 @@ HAProxy
 Postfix
 djbdns
 Database Concepts
+Alogrithms
 SQL
 MySQL
 PostgreSQL
