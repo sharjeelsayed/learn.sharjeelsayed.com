@@ -2,7 +2,7 @@ Curated list of Self Study and Job Hunting Guide for Computer Engineers
 
 Topics:
 
-Operating Systems
+Operating Systems Concepts
 Linux
 Windows
 Docker
@@ -11,25 +11,21 @@ Storage
 VMware
 Data Center
 AWS
-WebServers
-	NginX
-	Apache
-	HAProxy
-Email
-	Postfix
-DNS
-	djbdns
+NginX
+Apache
+HAProxy
+Postfix
+djbdns
 Database
 SQL
 MySQL
 PostgreSQL
-Programming
+Programming Concepts
 Bash
 Python
 C
 Java
-Java Container
-	Tomcat
+Tomcat
 Regex
 Git
 Vim
@@ -37,7 +33,7 @@ Hardware
 Microsoft Excel
 Management
 Money
-How to find free Ebooks
+Ebooks
 Job Portals
 Job Search Engines
 Company and Salary Reviews
@@ -46,7 +42,7 @@ Interview Guides
 Resume Improvement
 References
 
-Operating Systems:
+Operating Systems Concepts:
 
 Operating Systems: Three Easy Pieces 
 http://pages.cs.wisc.edu/~remzi/OSTEP/
@@ -100,7 +96,7 @@ Docker:
 Docker for Beginners
 https://prakhar.me/docker-curriculum/
 
-Networking:
+Networking :
 
 References:
 https://www.reddit.com/r/sysadmin/comments/4ux166/do_you_know_a_site_to_learn_more_about_networking/
@@ -142,8 +138,6 @@ AWS:
 Amazon Web Services in Action 1st Edition
 https://www.amazon.com/Amazon-Services-Action-Andreas-Wittig/dp/1617292885
 
-WebServers:
-
 NGINX:
 
 http://nginx.org/en/docs/
@@ -155,27 +149,21 @@ http://httpd.apache.org/docs/
 HAProxy
 https://www.digitalocean.com/community/tutorials/an-introduction-to-haproxy-and-load-balancing-concepts
 
-Email:
-
 Postfix:
 
 The Book of Postfix: State-of-the-Art Message Transport
 http://www.amazon.com/Book-Postfix-State---Art-Transport/dp/1593270011
 
-DNS:
-
 djbdns:
 
 http://cr.yp.to/djbdns.html
 
-Database:
+Database Concepts:
 
 References:
 http://stackoverflow.com/questions/718282/best-books-in-database-design-and-optimization
 http://www.amazon.com/gp/bestsellers/books/549646/ref=pd_zg_hrsr_b_1_3_last#1
 https://pinboard.in/u:sharjeelsayed/t:db
-
-Concepts:
 
 Architecture of a Database System
 http://db.cs.berkeley.edu/papers/fntdb07-architecture.pdf
@@ -203,9 +191,7 @@ PostgreSQL:
 https://www.postgresql.org/docs/9.3/static/index.html
 https://pgexercises.com/
 
-Programming:
-
-Concepts:
+Programming Concepts:
 
 Structure and Interpretation of Computer Programs - 2nd Edition
 https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-4.html
@@ -258,8 +244,6 @@ http://www.amazon.com/Head-First-Java-Kathy-Sierra/dp/0596009208
 
 Murach's Java Servlets and JSP
 http://www.amazon.com/Murachs-Java-Servlets-JSP-2nd/dp/1890774448
-
-Java Container:
 
 Tomcat
 Tomcat: The Definitive Guide
@@ -315,7 +299,7 @@ https://www.amazon.com/Basic-Economics-Thomas-Sowell/dp/0465060730
 The Intelligent Investor
 https://www.amazon.com/Intelligent-Investor-Definitive-Investing-Essentials/dp/0060555661
 
-How to find free Ebooks:
+Ebooks:
 
 http://libgen.io/
 https://thepiratebay-proxylist.org/
