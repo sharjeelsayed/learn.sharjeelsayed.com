@@ -17,11 +17,11 @@ HAProxy
 Postfix
 djbdns
 Database Concepts
-Alogrithms
 SQL
 MySQL
 PostgreSQL
 Programming Concepts
+Alogrithms
 Bash
 Python
 C
