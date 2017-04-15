@@ -360,7 +360,7 @@ https://pinboard.in/u:sharjeelsayed/t:resume
 
 News:
 
-Import this OPML file into http://www.inoreader.com/ to get the latest tech and world news.
+Import this OPML file into http://www.inoreader.com/ (http://blog.inoreader.com/2014/04/opml-import-additions.html) to get the latest tech and world news.
 https://sharjeelsayed.github.io/inoreader_sharjeelsayed_subscriptions.xml
 
 References :
