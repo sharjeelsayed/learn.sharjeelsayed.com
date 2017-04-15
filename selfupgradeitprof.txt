@@ -41,6 +41,7 @@ Company and Salary Reviews
 Freelancer
 Interview Guides
 Resume Improvement
+News
 References
 
 Operating Systems Concepts:
@@ -357,6 +358,11 @@ Resume Improvement:
 
 https://pinboard.in/u:sharjeelsayed/t:resume
 
+News:
+
+Import this file into http://www.inoreader.com/ to get the latest tech and world news.
+https://sharjeelsayed.github.io/inoreader_sharjeelsayed_subscriptions.xml
+
 References :
 http://serverfault.com/questions/1046/what-is-the-single-most-influential-book-every-sysadmin-should-read
 http://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read
@@ -393,6 +399,7 @@ https://www.reddit.com/r/cscareerquestions/comments/5bsg82/whats_the_single_most
 https://www.reddit.com/r/compsci/comments/1kcal2/algorithims_everyone_should_know/
 https://www.reddit.com/r/compsci/comments/20vbaw/what_book_made_you_a_better_computer_scientist/
 https://www.reddit.com/r/excel/comments/2e28s3/rexcel_advice_thread_repository/
+https://www.reddit.com/r/sysadmin/comments/4oxxgv/your_favorite_scripts_you_have_stolen_or_made/
 https://podcastrank.co/
 https://alexvermeer.com/8760hours/ (8,760 Hours: How to get the most out of next year)
 http://ramiro.org/vis/hn-most-linked-books-unique-users/
