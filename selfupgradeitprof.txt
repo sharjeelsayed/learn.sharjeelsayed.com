@@ -42,6 +42,8 @@ Freelancer
 Interview Guides
 Resume Improvement
 News
+Foreign Language
+Chess
 References
 
 Operating Systems Concepts:
@@ -362,6 +364,16 @@ News:
 
 Import this OPML file into the inoreader.com web/mobile client (instructions at http://blog.inoreader.com/2014/04/opml-import-additions.html) to get the latest tech and world news. 
 https://sharjeelsayed.github.io/inoreader_sharjeelsayed_subscriptions.xml
+
+Foreign Language:
+
+https://www.duolingo.com/
+https://www.memrise.com/
+http://www.rosettastone.eu/
+
+Chess:
+
+https://pinboard.in/u:sharjeelsayed/t:chess
 
 References :
 http://serverfault.com/questions/1046/what-is-the-single-most-influential-book-every-sysadmin-should-read
