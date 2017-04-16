@@ -270,6 +270,9 @@ https://www.amazon.com/Practical-Vim-Edit-Speed-Thought/dp/1680501275/
 
 Hardware:
 
+References:
+https://news.ycombinator.com/item?id=14123394
+
 The Elements of Computing Systems: Building a Modern Computer from First Principles 
 https://www.amazon.com/Elements-Computing-Systems-Building-Principles/dp/0262640686
 
@@ -364,6 +367,23 @@ News:
 
 Import this OPML file into the inoreader.com web/mobile client (instructions at http://blog.inoreader.com/2014/04/opml-import-additions.html) to get the latest tech and world news. 
 https://sharjeelsayed.github.io/inoreader_sharjeelsayed_subscriptions.xml
+
+Science:
+
+What If?: Serious Scientific Answers to Absurd Hypothetical Questions
+https://www.amazon.com/What-If-Scientific-Hypothetical-Questions-ebook/dp/B00IYUYF4A
+
+Thing Explainer: Complicated Stuff in Simple Words
+https://www.amazon.com/Thing-Explainer-Complicated-Stuff-Simple-ebook/dp/B00XJYVF44
+
+The Selfish Gene
+https://www.amazon.com/Selfish-Gene-Anniversary-Landmark-Science/dp/0198788606/
+
+Design:
+
+The Design of Everyday Things
+https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654/
+
 
 Foreign Language:
 
