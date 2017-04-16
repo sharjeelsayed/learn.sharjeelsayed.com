@@ -2,6 +2,7 @@ Curated list of Self Study and Job Hunting Guides for Computer Engineers
 
 Topics:
 
+Computer Architecture
 Operating Systems Concepts
 Linux
 Windows
@@ -47,6 +48,14 @@ Foreign Language
 Chess
 References
 
+Computer Architecture:
+
+The Elements of Computing Systems: Building a Modern Computer from First Principles 
+https://www.amazon.com/Elements-Computing-Systems-Building-Principles/dp/0262640686
+
+Computer Science 61C, UCBerkeley 001 - Spring 2015 Youtube
+https://www.youtube.com/playlist?list=PL-XXv-cvA_iCl2-D-FS5mk0jFF6cYSJs_
+
 Operating Systems Concepts:
 
 Operating Systems: Three Easy Pieces 
@@ -84,6 +93,12 @@ RHCSA & RHCE Red Hat Enterprise Linux 7: Training and Exam Preparation Guide (EX
 http://www.amazon.com/RHCSA-RHCE-Red-Enterprise-Linux/dp/1495148203/
 
 Additional Material:
+
+Linux From Scratch!
+http://www.linuxfromscratch.org/index.html
+
+The Linux Programming Interface: A Linux and UNIX System Programming Handbook
+https://www.amazon.com/Linux-Programming-Interface-System-Handbook/dp/1593272200/
 
 Unix Power Tools,Third Edition
 http://www.amazon.com/Power-Tools-Third-Shelley-Powers/dp/0596003307
@@ -201,6 +216,10 @@ Programming Concepts:
 Structure and Interpretation of Computer Programs - 2nd Edition
 https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-4.html
 http://sarabander.github.io/sicp/
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/index.htm
+https://www.youtube.com/playlist?list=PLE18841CABEA24090
+https://www.youtube.com/playlist?list=PL7BcsI5ueSNFPCEisbaoQ0kXIDX9rR5FF
+http://www.composingprograms.com/
 
 Computer Science 61A, 001 - Spring 2011
 https://www.youtube.com/playlist?list=PL3E89002AA9B9879E
@@ -274,8 +293,6 @@ Hardware:
 References:
 https://news.ycombinator.com/item?id=14123394
 
-The Elements of Computing Systems: Building a Modern Computer from First Principles 
-https://www.amazon.com/Elements-Computing-Systems-Building-Principles/dp/0262640686
 
 Professor Messer’s CompTIA 220-901 and 220-902 A+ Training Videos
 http://www.professormesser.com/free-a-plus-training/220-901/comptia-220-900-course/
@@ -415,6 +432,8 @@ https://github.com/prakhar1989/awesome-courses
 https://github.com/sindresorhus/awesome
 https://github.com/braydie/HowToBeAProgrammer
 https://github.com/jwasham/coding-interview-university
+https://github.com/open-source-society/computer-science
+https://github.com/MaximAbramchuck/awesome-interview-questions
 https://news.ycombinator.com/item?id=10644518 (Ask HN: What's your favorite online course?)
 https://news.ycombinator.com/item?id=14037313 (Questions to ask at the end of a technical interview)
 https://news.ycombinator.com/item?id=13406638 (Ask HN: What's the best computer science book you've read recently?)
@@ -430,6 +449,7 @@ https://news.ycombinator.com/item?id=14086259 (Ask HN: Mailing lists that HN rea
 https://news.ycombinator.com/item?id=13207268 (	Ask HN: How do I get freelance developer jobs?)
 https://news.ycombinator.com/item?id=14087880 (Ask HN: What are some great “Free” services provided by IBM, Amazon, etc.?)
 https://news.ycombinator.com/item?id=13014900 (	Ask HN: What are the bibles of Computer Science?)
+https://news.ycombinator.com/item?id=13918465 (Beautiful Online SICP)
 https://www.reddit.com/r/learnprogramming
 https://www.reddit.com/r/cscareerquestions/
 https://www.reddit.com/r/AskReddit/comments/34m5n6/reddit_what_are_some_must_read_books/
@@ -451,7 +471,7 @@ https://www.google.com/about/careers/students/guide-to-technical-development.htm
 http://booksreddit.com/
 http://www.bookadvice.co/
 https://pinboard.in/u:sharjeelsayed
-https://github.com/sharjeelsayed?tab=stars
+https://github.com/sharjeelsayed?direction=desc&sort=stars&tab=stars
 https://www.goodreads.com/user/show/36136296-sharjeel-sayed
 https://www.reddit.com/user/sharjeelsayed/upvoted/
 https://news.ycombinator.com/favorites?id=sharjeelsayed
