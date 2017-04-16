@@ -32,6 +32,7 @@ Git
 Vim
 Hardware
 Microsoft Excel
+Electronics
 Management
 Money
 Ebooks
@@ -283,6 +284,12 @@ Microsoft Excel:
 
 Excel 2016 Bible 1st Edition
 https://www.amazon.com/Excel-2016-Bible-John-Walkenbach/dp/1119067510/
+
+Electronics:
+
+The Art of Electronics 3rd Edition
+https://www.amazon.com/Art-Electronics-Paul-Horowitz/dp/0521809266
+
 
 Management:
 
