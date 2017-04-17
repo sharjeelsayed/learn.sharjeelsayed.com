@@ -5,7 +5,9 @@ Topics:
 Computer Architecture
 Operating Systems Concepts
 Linux
+Bash
 Windows
+Powershell
 Docker
 Networking
 Storage
@@ -23,7 +25,6 @@ MySQL
 PostgreSQL
 Programming Concepts
 Alogrithms
-Bash
 Python
 C
 Java
@@ -104,6 +105,11 @@ https://www.amazon.com/Linux-Programming-Interface-System-Handbook/dp/1593272200
 Unix Power Tools,Third Edition
 http://www.amazon.com/Power-Tools-Third-Shelley-Powers/dp/0596003307
 
+Bash:
+
+ABS Guide
+http://tldp.org/LDP/abs/html/
+
 Windows:
 
 Mastering Windows Server 2012 R2
@@ -111,6 +117,12 @@ http://www.amazon.com/Mastering-Windows-Server-2012-R2/dp/1118289420
 
 Windows Server Courses from Microsoft Virtual Academy
 https://mva.microsoft.com/product-training/windows-server#!index=3&jobf=IT%20Pros&lang=1033
+
+Powershell:
+
+Learn Windows PowerShell in a Month of Lunches 3rd Edition
+https://www.amazon.com/Learn-Windows-PowerShell-Month-Lunches/dp/1617294160
+https://www.youtube.com/playlist?list=PL6D474E721138865A
 
 Docker:
 
@@ -233,22 +245,19 @@ https://www.amazon.com/gp/product/1848000693
 Steven Skiena Dept. of Computer Science Stony Brook University Video Lectures
 http://www3.cs.stonybrook.edu/~algorith/video-lectures/
 
-Bash:
-
-ABS Guide
-http://tldp.org/LDP/abs/html/
-
 Python:
 
+References:
+http://pybit.es/python-resources.html
+https://www.reddit.com/r/Python/
+https://www.reddit.com/r/learnpython/top/
+https://www.reddit.com/r/learnpython/comments/53z5p4/how_to_start_learning_python_the_complete_guide/
+
+The Python Tutorial
 http://docs.python.org/py3k/tutorial/index.html
 
 Learn Python the Hard Way , 4th Edition
 https://learnpythonthehardway.org/python3/
-
-Powershell:
-
-Learn Windows PowerShell in a Month of Lunches 3rd Edition
-https://www.amazon.com/Learn-Windows-PowerShell-Month-Lunches/dp/1617294160
 
 C:
 
@@ -454,6 +463,7 @@ https://news.ycombinator.com/item?id=13207268 (	Ask HN: How do I get freelance d
 https://news.ycombinator.com/item?id=14087880 (Ask HN: What are some great “Free” services provided by IBM, Amazon, etc.?)
 https://news.ycombinator.com/item?id=13014900 (	Ask HN: What are the bibles of Computer Science?)
 https://news.ycombinator.com/item?id=13918465 (Beautiful Online SICP)
+https://news.ycombinator.com/item?id=5325012 (Show HN: Increase your productivity with ambient noise (coffitivity.com))
 https://www.reddit.com/r/learnprogramming
 https://www.reddit.com/r/cscareerquestions/
 https://www.reddit.com/r/AskReddit/comments/34m5n6/reddit_what_are_some_must_read_books/
@@ -475,6 +485,8 @@ https://www.amazon.com/Best-Sellers-Books-Computer-Science/zgbs/books/468204
 https://www.google.com/about/careers/students/guide-to-technical-development.html
 http://booksreddit.com/
 http://www.bookadvice.co/
+http://www.flyingmachinestudios.com/programming/learn-programming-languages-efficiently/
+https://www.reddit.com/r/sysadmin/comments/65u70f/sysadmins_what_are_some_good_it_youtube_channels/
 https://pinboard.in/u:sharjeelsayed
 https://github.com/sharjeelsayed?direction=desc&sort=stars&tab=stars
 https://www.goodreads.com/user/show/36136296-sharjeel-sayed
