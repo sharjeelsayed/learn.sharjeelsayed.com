@@ -1,4 +1,4 @@
-Curated list of Self Study and Job Hunting Guides for Computer Engineers
+Curated list of Self Study and Career Guides for Computer Engineers
 
 Topics:
 
@@ -8,9 +8,9 @@ Linux
 Bash
 Windows
 Powershell
-Docker
 Networking
 Storage
+Docker
 VMware
 Data Center
 AWS
@@ -124,11 +124,6 @@ Learn Windows PowerShell in a Month of Lunches 3rd Edition
 https://www.amazon.com/Learn-Windows-PowerShell-Month-Lunches/dp/1617294160
 https://www.youtube.com/playlist?list=PL6D474E721138865A
 
-Docker:
-
-Docker for Beginners
-https://prakhar.me/docker-curriculum/
-
 Networking :
 
 References:
@@ -153,6 +148,11 @@ Storage:
 
 Data Storage Networking: Real World Skills for the CompTIA Storage+ Certification and Beyond 1st Edition
 https://www.amazon.com/Data-Storage-Networking-CompTIA-Certification/dp/1118679210
+
+Docker:
+
+Docker for Beginners
+https://prakhar.me/docker-curriculum/
 
 VMware:
 
@@ -303,7 +303,6 @@ Hardware:
 References:
 https://news.ycombinator.com/item?id=14123394
 
-
 Professor Messer’s CompTIA 220-901 and 220-902 A+ Training Videos
 http://www.professormesser.com/free-a-plus-training/220-901/comptia-220-900-course/
 
@@ -316,7 +315,6 @@ Electronics:
 
 The Art of Electronics 3rd Edition
 https://www.amazon.com/Art-Electronics-Paul-Horowitz/dp/0521809266
-
 
 Management:
 
