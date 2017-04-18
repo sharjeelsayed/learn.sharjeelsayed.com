@@ -25,6 +25,7 @@ MySQL
 PostgreSQL
 Programming Concepts
 Alogrithms
+Mathematics for Computer Science
 Python
 C
 Java
@@ -245,6 +246,21 @@ https://www.amazon.com/gp/product/1848000693
 Steven Skiena Dept. of Computer Science Stony Brook University Video Lectures
 http://www3.cs.stonybrook.edu/~algorith/video-lectures/
 
+Mathematics for Computer Science:
+
+Lecture notes by László Lovász
+http://www.cs.elte.hu/~lovasz/dmbook.ps
+
+Mathematics for Computer Science
+https://courses.csail.mit.edu/6.042/spring17/mcs.pdf
+https://www.youtube.com/playlist?list=PLUl4u3cNGP60UlabZBeeqOuoLuj_KNphQ (MIT 6.042J Mathematics for Computer Science, Spring 2015 YouTube)
+
+Essence of linear algebra
+https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
+
+Introduction to Linear Algebra, Fifth Edition
+https://www.amazon.com/Introduction-Linear-Algebra-Gilbert-Strang/dp/0980232775
+
 Python:
 
 References:
@@ -255,6 +271,9 @@ https://www.reddit.com/r/learnpython/comments/53z5p4/how_to_start_learning_pytho
 
 The Python Tutorial
 http://docs.python.org/py3k/tutorial/index.html
+
+A Gentle Introduction to Programming Using Python
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/
 
 Learn Python the Hard Way , 4th Edition
 https://learnpythonthehardway.org/python3/
@@ -416,7 +435,6 @@ Design:
 The Design of Everyday Things
 https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654/
 
-
 Foreign Language:
 
 https://www.duolingo.com/
@@ -434,6 +452,7 @@ References :
 http://serverfault.com/questions/1046/what-is-the-single-most-influential-book-every-sysadmin-should-read
 http://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read
 https://teachyourselfcs.com/
+https://cs50.harvard.edu/
 https://learnxinyminutes.com/
 https://github.com/Developer-Y/cs-video-courses
 https://github.com/donnemartin/system-design-primer
