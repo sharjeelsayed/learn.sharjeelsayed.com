@@ -1,4 +1,4 @@
-Curated list of Self Study and Career Resources for Devops and Sysadmins
+Curated list of Self Study and Career Resources for DevOps and SysAdmins
 
 Topics:
 
