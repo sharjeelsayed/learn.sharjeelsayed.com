@@ -1,4 +1,4 @@
-Curated list of Self Study and Career Guides for Computer Engineers
+Curated list of Self Study and Career Resources for Devops
 
 Topics:
 
@@ -144,6 +144,14 @@ https://www.youtube.com/playlist?list=PLF360ED1082F6F2A5
 
 Load Balancing Servers, Firewalls, and Caches
 http://www.amazon.com/Load-Balancing-Servers-Firewalls-Caches/dp/0471415502
+
+Ansible:
+
+Ansible for DevOps
+https://leanpub.com/ansible-for-devops                        
+
+Ansible Videos
+https://www.ansible.com/videos
 
 Storage:
 
