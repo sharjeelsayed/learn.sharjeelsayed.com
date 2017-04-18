@@ -1,4 +1,4 @@
-Curated list of Self Study and Career Resources for Devops
+Curated list of Self Study and Career Resources for Devops and Sysadmins
 
 Topics:
 
@@ -23,6 +23,7 @@ Database Concepts
 SQL
 MySQL
 PostgreSQL
+Ansible
 Programming Concepts
 Alogrithms
 Mathematics for Computer Science
@@ -145,14 +146,6 @@ https://www.youtube.com/playlist?list=PLF360ED1082F6F2A5
 Load Balancing Servers, Firewalls, and Caches
 http://www.amazon.com/Load-Balancing-Servers-Firewalls-Caches/dp/0471415502
 
-Ansible:
-
-Ansible for DevOps
-https://leanpub.com/ansible-for-devops                        
-
-Ansible Videos
-https://www.ansible.com/videos
-
 Storage:
 
 Data Storage Networking: Real World Skills for the CompTIA Storage+ Certification and Beyond 1st Edition
@@ -232,6 +225,14 @@ PostgreSQL:
 
 https://www.postgresql.org/docs/9.3/static/index.html
 https://pgexercises.com/
+
+Ansible:
+
+Ansible for DevOps
+https://leanpub.com/ansible-for-devops                        
+
+Ansible Videos
+https://www.ansible.com/videos
 
 Programming Concepts:
 
