@@ -83,8 +83,6 @@ References :
 http://stackoverflow.com/questions/143184/which-book-would-you-recommend-for-a-linux-sysadmin
 http://stackoverflow.com/questions/236838/what-are-good-linuxunix-books-for-an-advancing-user
 http://stackoverflow.com/questions/851980/linux-programming-book
-http://www.amazon.com/gp/bestsellers/books/3778/
-http://www.amazon.com/gp/bestsellers/books/3849/
 https://www.reddit.com/r/linuxadmin/comments/2s924h/how_did_you_get_your_start/cnnw1ma/
 
 UNIX and Linux System Administration Handbook (4th Edition)
@@ -197,7 +195,6 @@ Database Concepts:
 
 References:
 http://stackoverflow.com/questions/718282/best-books-in-database-design-and-optimization
-http://www.amazon.com/gp/bestsellers/books/549646/ref=pd_zg_hrsr_b_1_3_last#1
 https://pinboard.in/u:sharjeelsayed/t:db
 
 Architecture of a Database System
@@ -295,11 +292,9 @@ http://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628
 Java:
 
 References: 
-http://www.amazon.com/gp/bestsellers/books/3608/
 http://stackoverflow.com/questions/75102/best-java-book-you-have-read-so-far
-http://stackoverflow.com/questions/194812/list-of-freely-available-programming-books
 http://stackoverflow.com/questions/2482639/which-is-the-best-book-for-learning-java-servlets-and-jsp
-http://www.amazon.com/gp/bestsellers/books/173561
+
 
 Head First Java 2nd Edition 
 http://www.amazon.com/Head-First-Java-Kathy-Sierra/dp/0596009208
@@ -500,6 +495,7 @@ https://www.reddit.com/r/compsci/comments/20vbaw/what_book_made_you_a_better_com
 https://www.reddit.com/r/excel/comments/2e28s3/rexcel_advice_thread_repository/
 https://www.reddit.com/r/sysadmin/comments/4oxxgv/your_favorite_scripts_you_have_stolen_or_made/
 https://www.reddit.com/r/compsci/comments/40mq3q/what_are_the_canon_books_in_computer_science/
+https://www.reddit.com/r/sysadmin/comments/65u70f/sysadmins_what_are_some_good_it_youtube_channels/
 https://podcastrank.co/
 https://alexvermeer.com/8760hours/ (8,760 Hours: How to get the most out of next year)
 http://ramiro.org/vis/hn-most-linked-books-unique-users/
@@ -512,7 +508,6 @@ https://www.google.com/about/careers/students/guide-to-technical-development.htm
 http://booksreddit.com/
 http://www.bookadvice.co/
 http://www.flyingmachinestudios.com/programming/learn-programming-languages-efficiently/
-https://www.reddit.com/r/sysadmin/comments/65u70f/sysadmins_what_are_some_good_it_youtube_channels/
 https://pinboard.in/u:sharjeelsayed
 https://github.com/sharjeelsayed?direction=desc&sort=stars&tab=stars
 https://www.goodreads.com/user/show/36136296-sharjeel-sayed
