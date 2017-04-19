@@ -5,37 +5,36 @@
   </head>
   <body>
     <outline text="MustRead" title="MustRead">
+      <outline text="Top Stories - Google News" title="Top Stories - Google News" type="rss" xmlUrl="http://news.google.co.in/news?cf=all&amp;hl=en&amp;pz=1&amp;ned=in&amp;topic=h&amp;num=3&amp;output=rss" htmlUrl="http://news.google.co.in/news?hl=en&amp;pz=1&amp;ned=in&amp;num=3&amp;topic=h"/>
       <outline text="posts from netsec, InfoSecNews, security, crypto, pwned" title="posts from netsec, InfoSecNews, security, crypto, pwned" type="rss" xmlUrl="http://smithsdownunder.com/reddit_rss/?rss=https%3A%2F%2Fwww.reddit.com%2Fr%2FInfoSecNews%2Bcrypto%2Bnetsec%2Bpwned%2Bsecurity%2F.rss" htmlUrl="https://www.reddit.com/r/InfoSecNews+crypto+netsec+pwned+security/?date=20170202140837"/>
       <outline text="Hacker News: Front Page" title="Hacker News: Front Page" type="rss" xmlUrl="https://hnrss.org/frontpage" htmlUrl="https://news.ycombinator.com/"/>
-      <outline text="Top Stories - Google News" title="Top Stories - Google News" type="rss" xmlUrl="http://news.google.co.in/news?cf=all&amp;hl=en&amp;pz=1&amp;ned=in&amp;topic=h&amp;num=3&amp;output=rss" htmlUrl="http://news.google.co.in/news?hl=en&amp;pz=1&amp;ned=in&amp;num=3&amp;topic=h"/>
       <outline text="Slashdot" title="Slashdot" type="rss" xmlUrl="http://rss.slashdot.org/slashdot/classic" htmlUrl="http://slashdot.org/"/>
       <outline text="Techmeme" title="Techmeme" type="rss" xmlUrl="http://www.techmeme.com/index.xml" htmlUrl="http://www.techmeme.com/"/>
     </outline>
     <outline text="news" title="news">
-      <outline text="india : Top scoring links " title="india : Top scoring links " type="rss" xmlUrl="http://smithsdownunder.com/reddit_rss/?rss=https%3A%2F%2Fwww.reddit.com%2Fr%2Findia%2Ftop%2F.rss" htmlUrl="https://www.reddit.com/r/india/top/?date=20170119172959"/>
-      <outline text="Reddit.com : Top scoring links " title="Reddit.com : Top scoring links " type="rss" xmlUrl="http://smithsdownunder.com/reddit_rss/?rss=https%3A%2F%2Fwww.reddit.com%2Ftop%2F.rss" htmlUrl="https://www.reddit.com/top/?date=20170118184454"/>
       <outline text="WorldNews : Top scoring links" title="WorldNews : Top scoring links" type="rss" xmlUrl="http://smithsdownunder.com/reddit_rss/?rss=https%3A%2F%2Fwww.reddit.com%2Fr%2Fworldnews%2Ftop%2F.rss" htmlUrl="https://www.reddit.com/r/worldnews/top/?date=20170118194301"/>
       <outline text="Top Stories - Google News" title="Top Stories - Google News" type="rss" xmlUrl="http://news.google.co.in/news?cf=all&amp;hl=en&amp;pz=1&amp;ned=in&amp;topic=h&amp;num=3&amp;output=rss" htmlUrl="http://news.google.co.in/news?hl=en&amp;pz=1&amp;ned=in&amp;num=3&amp;topic=h"/>
+      <outline text="india : Top scoring links " title="india : Top scoring links " type="rss" xmlUrl="http://smithsdownunder.com/reddit_rss/?rss=https%3A%2F%2Fwww.reddit.com%2Fr%2Findia%2Ftop%2F.rss" htmlUrl="https://www.reddit.com/r/india/top/?date=20170119172959"/>
+      <outline text="Reddit.com : Top scoring links " title="Reddit.com : Top scoring links " type="rss" xmlUrl="http://smithsdownunder.com/reddit_rss/?rss=https%3A%2F%2Fwww.reddit.com%2Ftop%2F.rss" htmlUrl="https://www.reddit.com/top/?date=20170118184454"/>
     </outline>
     <outline text="bookmarks" title="bookmarks">
       <outline text="Pinboard (popular bookmarks)" title="Pinboard (popular bookmarks)" type="rss" xmlUrl="http://feeds.pinboard.in/rss/popular/" htmlUrl="https://pinboard.in/popular/"/>
       <outline text="Pinboard (sharjeelsayed)" title="Pinboard (sharjeelsayed)" type="rss" xmlUrl="http://feeds.pinboard.in/rss/secret:4a34677e77291488e93c/u:sharjeelsayed/" htmlUrl="https://pinboard.in/u:sharjeelsayed/"/>
     </outline>
     <outline text="technology" title="technology">
+      <outline text="Gadgets : Top scoring links" title="Gadgets : Top scoring links" type="rss" xmlUrl="http://smithsdownunder.com/reddit_rss/?rss=https%3A%2F%2Fwww.reddit.com%2Fr%2Fgadgets%2Ftop%2F.rss" htmlUrl="https://www.reddit.com/r/gadgets/top/?date=20170119054543"/>
       <outline text="Hacker News: Front Page" title="Hacker News: Front Page" type="rss" xmlUrl="https://hnrss.org/frontpage" htmlUrl="https://news.ycombinator.com/"/>
       <outline text="Science : Top scoring links" title="Science : Top scoring links" type="rss" xmlUrl="http://smithsdownunder.com/reddit_rss/?rss=https%3A%2F%2Fwww.reddit.com%2Fr%2Fscience%2Ftop%2F.rss" htmlUrl="https://www.reddit.com/r/science/top/?date=20170118181037"/>
       <outline text="Technology : Top scoring links " title="Technology : Top scoring links " type="rss" xmlUrl="http://smithsdownunder.com/reddit_rss/?rss=https%3A%2F%2Fwww.reddit.com%2Fr%2Ftechnology%2Ftop%2F.rss" htmlUrl="https://www.reddit.com/r/technology/top/?date=20170118183107"/>
-      <outline text="Gadgets : Top scoring links" title="Gadgets : Top scoring links" type="rss" xmlUrl="http://smithsdownunder.com/reddit_rss/?rss=https%3A%2F%2Fwww.reddit.com%2Fr%2Fgadgets%2Ftop%2F.rss" htmlUrl="https://www.reddit.com/r/gadgets/top/?date=20170119054543"/>
-      <outline text="Hacker News" title="Hacker News" type="rss" xmlUrl="http://news.ycombinator.com/rss" htmlUrl="https://news.ycombinator.com/"/>
       <outline text="Slashdot" title="Slashdot" type="rss" xmlUrl="http://rss.slashdot.org/slashdot/classic" htmlUrl="http://slashdot.org/"/>
       <outline text="Lifehacker" title="Lifehacker" type="rss" xmlUrl="http://lifehacker.com/index.xml" htmlUrl="http://lifehacker.com/"/>
       <outline text="Techmeme" title="Techmeme" type="rss" xmlUrl="http://www.techmeme.com/index.xml" htmlUrl="http://www.techmeme.com/"/>
     </outline>
     <outline text="Sysadmin" title="Sysadmin">
-      <outline text="NetSec : Top scoring links" title="NetSec : Top scoring links" type="rss" xmlUrl="http://smithsdownunder.com/reddit_rss/?rss=https%3A%2F%2Fwww.reddit.com%2Fr%2Fnetsec%2Ftop%2F.rss" htmlUrl="https://www.reddit.com/r/netsec/top/?date=20170118191427"/>
-      <outline text="posts from netsec, InfoSecNews, security, crypto, pwned" title="posts from netsec, InfoSecNews, security, crypto, pwned" type="rss" xmlUrl="http://smithsdownunder.com/reddit_rss/?rss=https%3A%2F%2Fwww.reddit.com%2Fr%2FInfoSecNews%2Bcrypto%2Bnetsec%2Bpwned%2Bsecurity%2F.rss" htmlUrl="https://www.reddit.com/r/InfoSecNews+crypto+netsec+pwned+security/?date=20170202140837"/>
       <outline text="Sysadmin : Top scoring links" title="Sysadmin : Top scoring links" type="rss" xmlUrl="http://smithsdownunder.com/reddit_rss/?rss=https%3A%2F%2Fwww.reddit.com%2Fr%2Fsysadmin%2Ftop%2F.rss" htmlUrl="https://www.reddit.com/r/sysadmin/top/?date=20170118185608"/>
       <outline text="Apple : Top scoring links " title="Apple : Top scoring links " type="rss" xmlUrl="http://smithsdownunder.com/reddit_rss/?rss=https%3A%2F%2Fwww.reddit.com%2Fr%2Fapple%2Ftop%2F.rss" htmlUrl="https://www.reddit.com/r/apple/top/?date=20170118190955"/>
+      <outline text="NetSec : Top scoring links" title="NetSec : Top scoring links" type="rss" xmlUrl="http://smithsdownunder.com/reddit_rss/?rss=https%3A%2F%2Fwww.reddit.com%2Fr%2Fnetsec%2Ftop%2F.rss" htmlUrl="https://www.reddit.com/r/netsec/top/?date=20170118191427"/>
+      <outline text="posts from netsec, InfoSecNews, security, crypto, pwned" title="posts from netsec, InfoSecNews, security, crypto, pwned" type="rss" xmlUrl="http://smithsdownunder.com/reddit_rss/?rss=https%3A%2F%2Fwww.reddit.com%2Fr%2FInfoSecNews%2Bcrypto%2Bnetsec%2Bpwned%2Bsecurity%2F.rss" htmlUrl="https://www.reddit.com/r/InfoSecNews+crypto+netsec+pwned+security/?date=20170202140837"/>
       <outline text="Microsoft Security Bulletins" title="Microsoft Security Bulletins" type="rss" xmlUrl="http://www.microsoft.com/technet/security/bulletin/secrss.aspx" htmlUrl="https://technet.microsoft.com/en-us/security/bulletin"/>
     </outline>
     <outline text="fun" title="fun">
