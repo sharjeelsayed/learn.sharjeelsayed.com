@@ -77,6 +77,14 @@ https://www.amazon.com/Elements-Computing-Systems-Building-Principles/dp/0262640
 Computer Science 61C, UCBerkeley 001 - Spring 2015 Youtube
 https://www.youtube.com/playlist?list=PL-XXv-cvA_iCl2-D-FS5mk0jFF6cYSJs_
 
+Alogrithms and Data Structures:
+
+The Algorithm Design Manual 2nd Edition
+https://www.amazon.com/gp/product/1848000693
+
+Steven Skiena Dept. of Computer Science Stony Brook University Video Lectures
+http://www3.cs.stonybrook.edu/~algorith/video-lectures/
+
 Operating Systems Concepts:
 
 Operating Systems: Three Easy Pieces 
@@ -126,13 +134,7 @@ http://db.cs.berkeley.edu/papers/fntdb07-architecture.pdf
 Computer Science 186, 001 - Spring 2015 UCBerkeley Introduction to Database Systems - Joseph Hellerstein
 https://www.youtube.com/playlist?list=PL-XXv-cvA_iBVK2QzAV-R7NMA1ZkaiR2y
 
-Alogrithms:
 
-The Algorithm Design Manual 2nd Edition
-https://www.amazon.com/gp/product/1848000693
-
-Steven Skiena Dept. of Computer Science Stony Brook University Video Lectures
-http://www3.cs.stonybrook.edu/~algorith/video-lectures/
 
 Mathematics for Computer Science:
 
