@@ -1,4 +1,4 @@
-Curated list of Self Study and Career Resources for DevOps
+Curated list of Computer Science and DevOps Self Study Guides and Career Resources
 
 Topics:
 
@@ -41,6 +41,7 @@ Hardware
 Microsoft Excel
 Electronics
 
+Career:
 Management
 Money
 Ebooks
@@ -53,7 +54,10 @@ Resume Improvement
 News
 Foreign Language
 Chess
-Music for Study
+Music for Study and Productivity
+Science
+Design
+
 References
 
 Programming Concepts:
@@ -84,6 +88,21 @@ https://www.amazon.com/gp/product/1848000693
 
 Steven Skiena Dept. of Computer Science Stony Brook University Video Lectures
 http://www3.cs.stonybrook.edu/~algorith/video-lectures/
+
+Mathematics for Computer Science:
+
+Lecture notes by László Lovász
+http://www.cs.elte.hu/~lovasz/dmbook.ps
+
+Mathematics for Computer Science
+https://courses.csail.mit.edu/6.042/spring17/mcs.pdf
+https://www.youtube.com/playlist?list=PLUl4u3cNGP60UlabZBeeqOuoLuj_KNphQ (MIT 6.042J Mathematics for Computer Science, Spring 2015 YouTube)
+
+Essence of linear algebra
+https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
+
+Introduction to Linear Algebra, Fifth Edition
+https://www.amazon.com/Introduction-Linear-Algebra-Gilbert-Strang/dp/0980232775
 
 Operating Systems Concepts:
 
@@ -121,7 +140,6 @@ https://www.youtube.com/playlist?list=PLF360ED1082F6F2A5
 Load Balancing Servers, Firewalls, and Caches
 http://www.amazon.com/Load-Balancing-Servers-Firewalls-Caches/dp/0471415502
 
-
 Database Concepts:
 
 References:
@@ -133,28 +151,6 @@ http://db.cs.berkeley.edu/papers/fntdb07-architecture.pdf
 
 Computer Science 186, 001 - Spring 2015 UCBerkeley Introduction to Database Systems - Joseph Hellerstein
 https://www.youtube.com/playlist?list=PL-XXv-cvA_iBVK2QzAV-R7NMA1ZkaiR2y
-
-
-
-Mathematics for Computer Science:
-
-Lecture notes by László Lovász
-http://www.cs.elte.hu/~lovasz/dmbook.ps
-
-Mathematics for Computer Science
-https://courses.csail.mit.edu/6.042/spring17/mcs.pdf
-https://www.youtube.com/playlist?list=PLUl4u3cNGP60UlabZBeeqOuoLuj_KNphQ (MIT 6.042J Mathematics for Computer Science, Spring 2015 YouTube)
-
-Essence of linear algebra
-https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
-
-Introduction to Linear Algebra, Fifth Edition
-https://www.amazon.com/Introduction-Linear-Algebra-Gilbert-Strang/dp/0980232775
-
-Electronics:
-
-The Art of Electronics 3rd Edition
-https://www.amazon.com/Art-Electronics-Paul-Horowitz/dp/0521809266
 
 Linux:
 
@@ -221,6 +217,7 @@ https://fastpiratebay.co.uk/torrent/13449737/CBT_Nuggets_VMware_vSphere_6
 
 Mastering VMware vSphere 6 1st Edition
 https://www.amazon.com/Mastering-VMware-vSphere-Nick-Marshall/dp/1118925157
+
 Data Center:
 
 Data Center Fundamentals
@@ -260,8 +257,6 @@ djbdns:
 
 http://cr.yp.to/djbdns.html
 
-
-
 SQL:
 
 Stanford DB5 Course on SQL
@@ -290,10 +285,6 @@ https://leanpub.com/ansible-for-devops
 Ansible Videos
 https://www.ansible.com/videos
 
-
-
-
-
 Python:
 
 References:
@@ -321,7 +312,6 @@ Java:
 References: 
 http://stackoverflow.com/questions/75102/best-java-book-you-have-read-so-far
 http://stackoverflow.com/questions/2482639/which-is-the-best-book-for-learning-java-servlets-and-jsp
-
 
 Head First Java 2nd Edition 
 http://www.amazon.com/Head-First-Java-Kathy-Sierra/dp/0596009208
@@ -361,7 +351,10 @@ Microsoft Excel:
 Excel 2016 Bible 1st Edition
 https://www.amazon.com/Excel-2016-Bible-John-Walkenbach/dp/1119067510/
 
+Electronics:
 
+The Art of Electronics 3rd Edition
+https://www.amazon.com/Art-Electronics-Paul-Horowitz/dp/0521809266
 
 Management:
 
@@ -447,6 +440,20 @@ News:
 Import this OPML file into the inoreader.com web/mobile client (instructions at http://blog.inoreader.com/2014/04/opml-import-additions.html) to get the latest tech and world news. 
 https://sharjeelsayed.github.io/inoreader_sharjeelsayed_subscriptions.xml
 
+Foreign Language:
+
+https://www.duolingo.com/
+https://www.memrise.com/
+http://www.rosettastone.eu/
+
+Chess:
+
+https://pinboard.in/u:sharjeelsayed/t:chess
+
+Music for Study and Productivity:
+
+https://pinboard.in/u:sharjeelsayed/t:music+study
+
 Science:
 
 What If?: Serious Scientific Answers to Absurd Hypothetical Questions
@@ -462,19 +469,6 @@ Design:
 
 The Design of Everyday Things
 https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654/
-
-Foreign Language:
-
-https://www.duolingo.com/
-https://www.memrise.com/
-http://www.rosettastone.eu/
-
-Chess:
-
-https://pinboard.in/u:sharjeelsayed/t:chess
-
-Music for Study :
-https://pinboard.in/u:sharjeelsayed/t:music+study
 
 References :
 http://serverfault.com/questions/1046/what-is-the-single-most-influential-book-every-sysadmin-should-read
