@@ -3,14 +3,13 @@ Curated list of Self Study and Career Resources for DevOps
 Topics:
 
 Computer Science:
+Programming Concepts
 Computer Architecture
+Alogrithms and Data Structures
+Mathematics for Computer Science
 Operating Systems Concepts
 Networking
 Database Concepts
-Programming Concepts
-Alogrithms
-Mathematics for Computer Science
-Electronics
 
 Devops:
 Linux
@@ -40,6 +39,7 @@ Git
 Vim
 Hardware
 Microsoft Excel
+Electronics
 
 Management
 Money
@@ -55,6 +55,19 @@ Foreign Language
 Chess
 Music for Study
 References
+
+Programming Concepts:
+
+Structure and Interpretation of Computer Programs - 2nd Edition
+https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-4.html
+http://sarabander.github.io/sicp/
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/index.htm
+https://www.youtube.com/playlist?list=PLE18841CABEA24090
+https://www.youtube.com/playlist?list=PL7BcsI5ueSNFPCEisbaoQ0kXIDX9rR5FF
+http://www.composingprograms.com/
+
+Computer Science 61A, 001 - Spring 2011
+https://www.youtube.com/playlist?list=PL3E89002AA9B9879E
 
 Computer Architecture:
 
@@ -112,19 +125,6 @@ http://db.cs.berkeley.edu/papers/fntdb07-architecture.pdf
 
 Computer Science 186, 001 - Spring 2015 UCBerkeley Introduction to Database Systems - Joseph Hellerstein
 https://www.youtube.com/playlist?list=PL-XXv-cvA_iBVK2QzAV-R7NMA1ZkaiR2y
-
-Programming Concepts:
-
-Structure and Interpretation of Computer Programs - 2nd Edition
-https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-4.html
-http://sarabander.github.io/sicp/
-https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/index.htm
-https://www.youtube.com/playlist?list=PLE18841CABEA24090
-https://www.youtube.com/playlist?list=PL7BcsI5ueSNFPCEisbaoQ0kXIDX9rR5FF
-http://www.composingprograms.com/
-
-Computer Science 61A, 001 - Spring 2011
-https://www.youtube.com/playlist?list=PL3E89002AA9B9879E
 
 Alogrithms:
 
