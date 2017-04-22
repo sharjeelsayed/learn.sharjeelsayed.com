@@ -59,6 +59,8 @@ Chess
 Music for Study and Productivity
 References
 
+Computer Science:
+
 Programming Concepts:
 
 Structure and Interpretation of Computer Programs - 2nd Edition
@@ -150,6 +152,8 @@ http://db.cs.berkeley.edu/papers/fntdb07-architecture.pdf
 
 Computer Science 186, 001 - Spring 2015 UCBerkeley Introduction to Database Systems - Joseph Hellerstein
 https://www.youtube.com/playlist?list=PL-XXv-cvA_iBVK2QzAV-R7NMA1ZkaiR2y
+
+DevOps:
 
 Linux:
 
@@ -370,6 +374,8 @@ Design:
 
 The Design of Everyday Things
 https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654/
+
+Career:
 
 Management:
 
