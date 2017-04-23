@@ -506,7 +506,6 @@ https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer
 https://github.com/prakhar1989/awesome-courses
 https://github.com/sindresorhus/awesome
 https://github.com/braydie/HowToBeAProgrammer
-https://github.com/jwasham/coding-interview-university
 https://github.com/open-source-society/computer-science
 https://news.ycombinator.com/item?id=10644518 (Ask HN: What's your favorite online course?)
 https://news.ycombinator.com/item?id=14037313 (Questions to ask at the end of a technical interview)
@@ -548,7 +547,6 @@ https://alexvermeer.com/8760hours/ (8,760 Hours: How to get the most out of next
 http://ramiro.org/vis/hn-most-linked-books-unique-users
 http://www.dev-books.com/ (The most mentioned books on Stack Overflow )
 https://www.scotthyoung.com/blog/myprojects/mit-challenge-2
-https://mva.microsoft.com
 https://www.cybrary.it
 https://www.amazon.com/Best-Sellers-Books-Computer-Science/zgbs/books/468204
 https://www.google.com/about/careers/students/guide-to-technical-development.html
