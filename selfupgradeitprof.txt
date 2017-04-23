@@ -1,4 +1,4 @@
-Curated list of Computer Science , DevOps and Career Self Study Guides
+Curated list of Computer Science , DevOps/SRE/Sysadmin and Career Self Study Guides
 
 Topics:
 
@@ -11,7 +11,7 @@ Operating Systems Concepts
 Networking
 Database Concepts
 
-DevOps:
+DevOps/SRE/Sysadmin:
 Linux
 Bash
 Windows
@@ -452,10 +452,29 @@ https://nomadprojects.io
  
 Interview Guides:
 
+References:
 https://pinboard.in/u:sharjeelsayed/t:interview
 https://pinboard.in/u:sharjeelsayed/t:jobs
 https://pinboard.in/u:sharjeelsayed/t:ebooks
- 
+
+Linux System Administrator/DevOps Interview Questions
+https://github.com/chassing/linux-sysadmin-interview-questions
+
+The System Design Primer
+https://github.com/donnemartin/system-design-primer
+
+Awesome Interviews
+https://github.com/MaximAbramchuck/awesome-interview-questions
+
+Coding Interview University
+https://github.com/jwasham/coding-interview-university
+
+Cracking the Coding Interview: 189 Programming Questions and Solutions
+https://www.amazon.com/Cracking-Coding-Interview-6th-Programming/dp/0984782850
+
+Search Interview Questions
+https://www.glassdoor.com/Interview/index.htm
+
 Resume Improvement:
 
 https://pinboard.in/u:sharjeelsayed/t:resume
@@ -483,15 +502,12 @@ https://teachyourselfcs.com
 https://cs50.harvard.edu
 https://learnxinyminutes.com
 https://github.com/Developer-Y/cs-video-courses
-https://github.com/donnemartin/system-design-primer
-https://github.com/chassing/linux-sysadmin-interview-questions
 https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer
 https://github.com/prakhar1989/awesome-courses
 https://github.com/sindresorhus/awesome
 https://github.com/braydie/HowToBeAProgrammer
 https://github.com/jwasham/coding-interview-university
 https://github.com/open-source-society/computer-science
-https://github.com/MaximAbramchuck/awesome-interview-questions
 https://news.ycombinator.com/item?id=10644518 (Ask HN: What's your favorite online course?)
 https://news.ycombinator.com/item?id=14037313 (Questions to ask at the end of a technical interview)
 https://news.ycombinator.com/item?id=13406638 (Ask HN: What's the best computer science book you've read recently?)
