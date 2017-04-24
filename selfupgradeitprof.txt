@@ -1,5 +1,7 @@
 Curated list of Computer Science , DevOps/SRE/Sysadmin and Career Self Study Guides
 
+Note:The most recently updated copy of the page can be found at http://learn.sharjeelsayed.com . Do a custom Google Search of this page and the pages it links to with https://cse.google.com/cse/publicurl?cx=013208504250323700475:s10mdnqcv0e
+
 Topics:
 
 Computer Science:
@@ -382,6 +384,9 @@ Management:
 Site Reliability Engineering: How Google Runs Production Systems
 https://www.amazon.com/Site-Reliability-Engineering-Production-Systems/dp/149192912X
 
+The Practice of System and Network Administration: Volume 1: DevOps and other Best Practices for Enterprise IT (3rd Edition)
+https://www.amazon.com/dp/0321919165
+
 The Personal MBA: Master the Art of Business
 https://www.amazon.com/Personal-MBA-Master-Art-Business/dp/1591845572
 
@@ -561,5 +566,6 @@ https://www.goodreads.com/user/show/36136296-sharjeel-sayed
 https://www.reddit.com/user/sharjeelsayed/upvoted
 https://news.ycombinator.com/favorites?id=sharjeelsayed
 https://www.youtube.com/user/sayedsharjeel
+https://pinboard.in/u:sharjeelsayed/t:sharjeelsayed
 https://cse.google.com/cse/publicurl?cx=013208504250323700475:mqurmsvnc8k (Google Custom Search Engine for Sharjeel's Bookmarks)
 https://cse.google.com/cse/publicurl?cx=013208504250323700475:s10mdnqcv0e (Google Custom Search Engine for Sharjeel's Reading List)
