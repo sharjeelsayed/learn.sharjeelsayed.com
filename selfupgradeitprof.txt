@@ -461,6 +461,7 @@ References:
 https://pinboard.in/u:sharjeelsayed/t:interview
 https://pinboard.in/u:sharjeelsayed/t:jobs
 https://pinboard.in/u:sharjeelsayed/t:ebooks
+https://pinboard.in/u:sharjeelsayed/t:cheatsheet
 
 Linux System Administrator/DevOps Interview Questions
 https://github.com/chassing/linux-sysadmin-interview-questions
