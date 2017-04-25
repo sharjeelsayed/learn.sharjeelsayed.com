@@ -1,4 +1,4 @@
-Curated list of Computer Science and DevOps/SRE/Sysadmin Self Study Guides
+Curated list of Computer Science and DevOps/SRE/SysAdmin Self Study Guides
 
 The most recently updated copy of this page can be found at http://learn.sharjeelsayed.com . Do a custom Google Search of this page and the content it links to with https://cse.google.com/cse/publicurl?cx=013208504250323700475:s10mdnqcv0e
 
@@ -13,7 +13,7 @@ Operating Systems Concepts
 Networking
 Database Concepts
 
-DevOps/SRE/Sysadmin:
+DevOps/SRE/SysAdmin:
 Linux
 Bash
 Windows
@@ -39,6 +39,7 @@ Tomcat
 Regex
 Git
 Vim
+ELK
 Hardware
 Microsoft Excel
 Electronics
@@ -343,6 +344,9 @@ Vim:
 Practical Vim: Edit Text at the Speed of Thought , 2nd Edition
 https://www.amazon.com/Practical-Vim-Edit-Speed-Thought/dp/1680501275
 
+ELK
+https://www.elastic.co/guide/index.html
+
 Hardware:
 
 References:
@@ -392,6 +396,9 @@ https://www.amazon.com/Personal-MBA-Master-Art-Business/dp/1591845572
 
 The Art Of War
 https://www.amazon.com/Art-War-Sun-Tzu/dp/1599869772
+
+How to Win Friends & Influence People
+https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034
 
 The Power Broker: Robert Moses and the Fall of New York
 https://www.amazon.com/Power-Broker-Robert-Moses-Fall/dp/0394720245
@@ -561,6 +568,7 @@ http://www.bookadvice.co
 http://www.flyingmachinestudios.com/programming/learn-programming-languages-efficiently
 https://begriffs.com/posts/2017-04-13-longterm-computing-reading.html
 https://collegeinfogeek.com/spaced-repetition-memory-technique
+https://80000hours.org/career-guide/how-to-be-successful/
 https://pinboard.in/u:sharjeelsayed
 https://github.com/sharjeelsayed?direction=desc&sort=stars&tab=stars
 https://www.goodreads.com/user/show/36136296-sharjeel-sayed
