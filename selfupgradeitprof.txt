@@ -1,4 +1,4 @@
-Curated list of Computer Science , DevOps/SRE/Sysadmin and Career Self Study Guides
+Curated list of Computer Science and DevOps/SRE/Sysadmin Self Study Guides
 
 The most recently updated copy of this page can be found at http://learn.sharjeelsayed.com . Do a custom Google Search of this page and the content it links to with https://cse.google.com/cse/publicurl?cx=013208504250323700475:s10mdnqcv0e
 
