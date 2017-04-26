@@ -1,6 +1,6 @@
 Curated list of Computer Science and DevOps/SRE/SysAdmin Self Study Guides
 
-The most recently updated copy of this page can be found at http://learn.sharjeelsayed.com .A custom Google Search of this page and the content it links to is possible at https://cse.google.com/cse/publicurl?cx=013208504250323700475:s10mdnqcv0e
+The most recently updated copy of this page can be found at http://learn.sharjeelsayed.com .A custom Google Search of this page and the linked content is possible at https://cse.google.com/cse/publicurl?cx=013208504250323700475:s10mdnqcv0e
 
 Topics:
 
