@@ -40,6 +40,7 @@ Regex
 Git
 Vim
 ELK
+Security
 Hardware
 Microsoft Excel
 Electronics
@@ -347,6 +348,19 @@ https://www.amazon.com/Practical-Vim-Edit-Speed-Thought/dp/1680501275
 ELK
 https://www.elastic.co/guide/index.html
 
+Security
+
+References:
+https://www.reddit.com/r/netsec/wiki/start
+https://www.reddit.com/r/netsecstudents/top/?sort=top&t=all
+https://xapax.github.io/blog/2017/01/14/OSCP.html
+
+Offensive Computer Security Spring 2014 Homepage Florida State University
+http://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/
+
+Offensive Security Certified Professional
+https://www.offensive-security.com/information-security-certifications/oscp-offensive-security-certified-professional
+
 Hardware:
 
 References:
@@ -565,6 +579,7 @@ https://www.amazon.com/Best-Sellers-Books-Computer-Science/zgbs/books/468204
 https://www.google.com/about/careers/students/guide-to-technical-development.html
 http://booksreddit.com
 http://www.bookadvice.co
+https://www.freecodecamp.com
 http://www.flyingmachinestudios.com/programming/learn-programming-languages-efficiently
 https://begriffs.com/posts/2017-04-13-longterm-computing-reading.html
 https://collegeinfogeek.com/spaced-repetition-memory-technique
