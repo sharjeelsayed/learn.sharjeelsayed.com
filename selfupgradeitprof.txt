@@ -608,21 +608,3 @@ https://www.youtube.com/user/sayedsharjeel
 https://pinboard.in/u:sharjeelsayed/t:sharjeelsayed
 https://cse.google.com/cse/publicurl?cx=013208504250323700475:mqurmsvnc8k (Google Custom Search Engine for Sharjeel's Bookmarks)
 https://cse.google.com/cse/publicurl?cx=013208504250323700475:s10mdnqcv0e (Google Custom Search Engine for Sharjeel's Reading List)
-
-Miscellaneous:
-Kafka
-node.js
-
-Hard to find Ebooks
-
-1) Computer Networking: A Top-Down Approach (7th Edition)
-https://www.amazon.com/Computer-Networking-Top-Down-Approach-7th/dp/0133594149
-
-2)Professional Microsoft SQL Server 2014 Administration
-https://www.amazon.com/Professional-Microsoft-Server-2014-Administration/dp/1118859138
-
-3) Sip: Understanding the Session Initiation Protocol, Fourth Edition
-https://www.amazon.com/Sip-Understanding-Session-Initiation-Protocol/dp/1608078639
-
-4) ITIL Foundation Essentials: The Exam Facts You Need
-https://www.amazon.com/ITIL-Foundation-Essentials-Exam-Facts/dp/1849283990
