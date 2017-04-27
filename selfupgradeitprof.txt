@@ -195,8 +195,8 @@ http://tldp.org/LDP/abs/html
 
 Windows:
 
-Mastering Windows Server 2012 R2
-http://www.amazon.com/Mastering-Windows-Server-2012-R2/dp/1118289420
+Windows Server 2016 - TechNet - Microsoft
+https://docs.microsoft.com/en-us/windows-server/windows-server-2016
 
 Windows Server Courses from Microsoft Virtual Academy
 https://mva.microsoft.com/product-training/windows-server#!index=3&jobf=IT%20Pros&lang=1033
@@ -579,6 +579,7 @@ https://www.amazon.com/Best-Sellers-Books-Computer-Science/zgbs/books/468204
 https://www.google.com/about/careers/students/guide-to-technical-development.html
 http://booksreddit.com
 http://www.bookadvice.co
+http://hackernewsbooks.com/
 https://www.freecodecamp.com
 http://www.flyingmachinestudios.com/programming/learn-programming-languages-efficiently
 https://begriffs.com/posts/2017-04-13-longterm-computing-reading.html
