@@ -20,6 +20,7 @@ Windows
 Powershell
 Storage
 Docker
+Kubernetes
 VMware
 Data Center
 AWS
@@ -216,6 +217,14 @@ Docker:
 
 Docker for Beginners
 https://prakhar.me/docker-curriculum
+
+Kubernetes
+
+An Introduction to Kubernetes
+https://www.digitalocean.com/community/tutorials/an-introduction-to-kubernetes
+
+Kubernetes official tutorials
+https://github.com/kubernetes/kubernetes
 
 VMware:
 
@@ -590,9 +599,11 @@ https://www.reddit.com/r/compsci/comments/1kcal2/algorithims_everyone_should_kno
 https://www.reddit.com/r/compsci/comments/20vbaw/what_book_made_you_a_better_computer_scientist
 https://www.reddit.com/r/compsci/comments/40mq3q/what_are_the_canon_books_in_computer_science
 https://www.reddit.com/r/cscareerquestions
+https://www.reddit.com/r/cscareerquestions/comments/4ce2s3/resource_interview_questions_my_massive/
 https://www.reddit.com/r/cscareerquestions/comments/5bsg82/whats_the_single_most_useful_csrelated_link_you
 https://www.reddit.com/r/excel/comments/2e28s3/rexcel_advice_thread_repository
 https://www.reddit.com/r/learnprogramming
+https://www.reddit.com/r/linuxadmin/comments/65vb8s/advice_if_you_are_wanting_to_go_into_devops/
 https://www.reddit.com/r/sysadmin/comments/4oxxgv/your_favorite_scripts_you_have_stolen_or_made
 https://www.reddit.com/r/sysadmin/comments/65u70f/sysadmins_what_are_some_good_it_youtube_channels
 https://www.reddit.com/r/sysadmin/comments/65wdum/whats_your_favorite_selfstudy_resource_paid_free
