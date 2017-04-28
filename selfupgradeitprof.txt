@@ -163,7 +163,6 @@ DevOps/SRE/SysAdmin:
 Linux:
 
 References :
-
 http://stackoverflow.com/questions/143184/which-book-would-you-recommend-for-a-linux-sysadmin
 http://stackoverflow.com/questions/236838/what-are-good-linuxunix-books-for-an-advancing-user
 http://stackoverflow.com/questions/851980/linux-programming-book
