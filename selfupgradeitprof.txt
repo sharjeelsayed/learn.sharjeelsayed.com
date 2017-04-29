@@ -419,6 +419,29 @@ https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654
 
 Career:
 
+Ebooks:
+
+http://libgen.io
+https://torrentz2.eu
+https://thepiratebay-proxylist.org
+https://cse.google.com/cse/home?cx=000661023013169144559:a1-kkiboeco (Google Custom Search Engine for Ebooks)
+https://cse.google.com/cse/publicurl?cx=001639227550064093264:dznewka3cca (Google Custom Search Engine for Ebooks)
+https://opentrackers.org/downloading-ebooks-textbooks
+http://findlectures.com
+https://pinboard.in/u:sharjeelsayed/t:ebooks
+https://pinboard.in/u:sharjeelsayed/t:cs
+https://pinboard.in/u:sharjeelsayed/t:learn
+https://pinboard.in/u:sharjeelsayed/t:course
+https://www.reddit.com/r/DataHoarder/comments/5xqnc6/uc_berkeley_courses_time_to_seed
+https://github.com/vhf/free-programming-books
+
+MOOC:
+https://www.coursera.org/browse/computer-science
+https://www.edx.org/course/subject/computer-science
+https://www.udacity.com/courses/all
+https://www.class-central.com/subject/cs
+https://www.coursebuffet.com/sub/computer-science
+
 Management:
 
 Site Reliability Engineering: How Google Runs Production Systems
@@ -446,29 +469,6 @@ https://www.amazon.com/Basic-Economics-Thomas-Sowell/dp/0465060730
 
 The Intelligent Investor
 https://www.amazon.com/Intelligent-Investor-Definitive-Investing-Essentials/dp/0060555661
-
-Ebooks:
-
-http://libgen.io
-https://torrentz2.eu
-https://thepiratebay-proxylist.org
-https://cse.google.com/cse/home?cx=000661023013169144559:a1-kkiboeco (Google Custom Search Engine for Ebooks)
-https://cse.google.com/cse/publicurl?cx=001639227550064093264:dznewka3cca (Google Custom Search Engine for Ebooks)
-https://opentrackers.org/downloading-ebooks-textbooks
-http://findlectures.com
-https://pinboard.in/u:sharjeelsayed/t:ebooks
-https://pinboard.in/u:sharjeelsayed/t:cs
-https://pinboard.in/u:sharjeelsayed/t:learn
-https://pinboard.in/u:sharjeelsayed/t:course
-https://www.reddit.com/r/DataHoarder/comments/5xqnc6/uc_berkeley_courses_time_to_seed
-https://github.com/vhf/free-programming-books
-
-MOOC:
-https://www.coursera.org/browse/computer-science
-https://www.edx.org/course/subject/computer-science
-https://www.udacity.com/courses/all
-https://www.class-central.com/subject/cs
-https://www.coursebuffet.com/sub/computer-science
 
 Job Portals:
 
