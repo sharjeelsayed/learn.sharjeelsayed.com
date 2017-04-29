@@ -594,6 +594,7 @@ https://news.ycombinator.com/item?id=14161876 (Calculus Made Easy (1914) )
 https://news.ycombinator.com/item?id=14163905 (Ask HN: Which companies have the best blogs written by their engineering team?)
 https://news.ycombinator.com/item?id=14169760 (Resources on creating programming languages) 
 https://news.ycombinator.com/item?id=14218408 (Ask HN: How do you keep improving?)
+https://news.ycombinator.com/item?id=14218559 (How to talk about yourself in a developer interview)
 https://news.ycombinator.com/item?id=5325012 (Show HN: Increase your productivity with ambient noise (coffitivity.com))
 https://news.ycombinator.com/item?id=9207360 (Ask HN: Favorite podcasts?)
 https://podcastrank.co
