@@ -53,6 +53,7 @@ Career:
 Management
 Money
 Ebooks
+MOOC
 Job Portals
 Job Search Engines
 Company and Salary Reviews
@@ -462,6 +463,13 @@ https://pinboard.in/u:sharjeelsayed/t:course
 https://www.reddit.com/r/DataHoarder/comments/5xqnc6/uc_berkeley_courses_time_to_seed
 https://github.com/vhf/free-programming-books
 
+MOOC:
+https://www.coursera.org/browse/computer-science
+https://www.edx.org/course/subject/computer-science
+https://www.udacity.com/courses/all
+https://www.class-central.com/subject/cs
+https://www.coursebuffet.com/sub/computer-science
+
 Job Portals:
 
 https://www.linkedin.com/jobs
@@ -585,6 +593,7 @@ https://news.ycombinator.com/item?id=14087880 (Ask HN: What are some great “Fr
 https://news.ycombinator.com/item?id=14161876 (Calculus Made Easy (1914) )
 https://news.ycombinator.com/item?id=14163905 (Ask HN: Which companies have the best blogs written by their engineering team?)
 https://news.ycombinator.com/item?id=14169760 (Resources on creating programming languages) 
+https://news.ycombinator.com/item?id=14218408 (Ask HN: How do you keep improving?)
 https://news.ycombinator.com/item?id=5325012 (Show HN: Increase your productivity with ambient noise (coffitivity.com))
 https://news.ycombinator.com/item?id=9207360 (Ask HN: Favorite podcasts?)
 https://podcastrank.co
