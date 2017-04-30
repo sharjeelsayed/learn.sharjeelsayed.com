@@ -49,21 +49,24 @@ Electronics
 Science
 Design
 
-Career:
+Study Tools:
 Ebooks
 MOOC
+Interview Guides
+Ambient Music
+
+Career:
 Management
 Money
 Job Portals
 Job Search Engines
 Company and Salary Reviews
 Freelancer
-Interview Guides
 Resume Improvement
 News
 Foreign Language
 Chess
-Music for Study and Productivity
+
 References
 
 Computer Science:
@@ -417,7 +420,7 @@ Design:
 The Design of Everyday Things
 https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654
 
-Career:
+Study Tools:
 
 Ebooks:
 
@@ -436,11 +439,44 @@ https://www.reddit.com/r/DataHoarder/comments/5xqnc6/uc_berkeley_courses_time_to
 https://github.com/vhf/free-programming-books
 
 MOOC:
+
 https://www.coursera.org/browse/computer-science
 https://www.edx.org/course/subject/computer-science
 https://www.udacity.com/courses/all
 https://www.class-central.com/subject/cs
 https://www.coursebuffet.com/sub/computer-science
+
+Interview Guides:
+
+References:
+https://pinboard.in/u:sharjeelsayed/t:interview
+https://pinboard.in/u:sharjeelsayed/t:jobs
+https://pinboard.in/u:sharjeelsayed/t:ebooks
+https://pinboard.in/u:sharjeelsayed/t:cheatsheet
+
+Linux System Administrator/DevOps Interview Questions
+https://github.com/chassing/linux-sysadmin-interview-questions
+
+The System Design Primer
+https://github.com/donnemartin/system-design-primer
+
+Awesome Interviews
+https://github.com/MaximAbramchuck/awesome-interview-questions
+
+Coding Interview University
+https://github.com/jwasham/coding-interview-university
+
+Cracking the Coding Interview: 189 Programming Questions and Solutions
+https://www.amazon.com/Cracking-Coding-Interview-6th-Programming/dp/0984782850
+
+Search Interview Questions
+https://www.glassdoor.com/Interview/index.htm
+
+Ambient Music:
+
+https://pinboard.in/u:sharjeelsayed/t:music+study
+
+Career:
 
 Management:
 
@@ -505,32 +541,6 @@ https://www.freelancer.com
 http://www.guru.com
 https://nomadprojects.io
  
-Interview Guides:
-
-References:
-https://pinboard.in/u:sharjeelsayed/t:interview
-https://pinboard.in/u:sharjeelsayed/t:jobs
-https://pinboard.in/u:sharjeelsayed/t:ebooks
-https://pinboard.in/u:sharjeelsayed/t:cheatsheet
-
-Linux System Administrator/DevOps Interview Questions
-https://github.com/chassing/linux-sysadmin-interview-questions
-
-The System Design Primer
-https://github.com/donnemartin/system-design-primer
-
-Awesome Interviews
-https://github.com/MaximAbramchuck/awesome-interview-questions
-
-Coding Interview University
-https://github.com/jwasham/coding-interview-university
-
-Cracking the Coding Interview: 189 Programming Questions and Solutions
-https://www.amazon.com/Cracking-Coding-Interview-6th-Programming/dp/0984782850
-
-Search Interview Questions
-https://www.glassdoor.com/Interview/index.htm
-
 Resume Improvement:
 
 https://pinboard.in/u:sharjeelsayed/t:resume
@@ -548,10 +558,6 @@ http://www.rosettastone.eu
 Chess:
 
 https://pinboard.in/u:sharjeelsayed/t:chess
-
-Music for Study and Productivity:
-
-https://pinboard.in/u:sharjeelsayed/t:music+study
 
 References :
 http://booksreddit.com
