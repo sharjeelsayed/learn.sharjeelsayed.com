@@ -558,7 +558,9 @@ https://pinboard.in/u:sharjeelsayed/t:resume
 
 News:
 
-Import this OPML file , https://sharjeelsayed.github.io/inoreader_sharjeelsayed_subscriptions.xml , into the inoreader.com web/mobile client.Detailed import instructions at http://blog.inoreader.com/2014/04/opml-import-additions.html.Configure notifications for the 'Must Read' folder.Detailed instructions at http://blog.inoreader.com/2015/04/introducing-push-notifications-get-most.html
+Import the OPML file, https://sharjeelsayed.github.io/inoreader_sharjeelsayed_subscriptions.xml ,into inoreader.com .Enable notifications for the 'MustRead' folder.
+Detailed import and notification configuration instructions at http://blog.inoreader.com/2014/04/opml-import-additions.html and http://blog.inoreader.com/2015/04/introducing-push-notifications-get-most.html
+Install the Inoreader Mobile Client from https://play.google.com/store/apps/details?id=com.innologica.inoreader or https://appsto.re/in/wnem1.i
 
 Foreign Language:
 
