@@ -2,7 +2,7 @@ Curated Self Study Guide for Computer Science and DevOps/SRE/SysAdmin
 
 Updated copy of this page is at http://Learn.SharjeelSayed.com . Google Search this page and the linked content at http://Search.SharjeelSayed.com
 
-Topics:
+Index:
 
 Computer Science:
 Programming Concepts
@@ -554,13 +554,12 @@ https://pinboard.in/u:sharjeelsayed/t:resume
 
 News:
 
-Import this OPML file , https://sharjeelsayed.github.io/inoreader_sharjeelsayed_subscriptions.xml , into the inoreader.com web/mobile client to get the latest tech and world news.Detailed instructions at http://blog.inoreader.com/2014/04/opml-import-additions.html
+Import this OPML file , https://sharjeelsayed.github.io/inoreader_sharjeelsayed_subscriptions.xml , into the inoreader.com web/mobile client.Detailed import instructions at http://blog.inoreader.com/2014/04/opml-import-additions.html
 
 Foreign Language:
 
 https://www.duolingo.com
 https://www.memrise.com
-http://www.rosettastone.eu
 
 Chess:
 
