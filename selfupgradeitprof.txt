@@ -77,17 +77,17 @@ Programming Concepts:
 Structure and Interpretation of Computer Programs - 2nd Edition
 https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-4.html
 http://sarabander.github.io/sicp
-https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/index.htm
-https://www.youtube.com/playlist?list=PLE18841CABEA24090
-https://www.youtube.com/playlist?list=PL7BcsI5ueSNFPCEisbaoQ0kXIDX9rR5FF
 http://www.composingprograms.com
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/index.htm
+https://www.youtube.com/playlist?list=PL7BcsI5ueSNFPCEisbaoQ0kXIDX9rR5FF
+https://www.youtube.com/playlist?list=PLE18841CABEA24090
 
 Computer Science 61A, 001 - Spring 2011
 https://www.youtube.com/playlist?list=PL3E89002AA9B9879E
 
 Computer Architecture:
 
-The Elements of Computing Systems: Building a Modern Computer from First Principles 
+The Elements of Computing Systems: Building a Modern Computer from First Principles
 https://www.amazon.com/Elements-Computing-Systems-Building-Principles/dp/0262640686
 
 Computer Science 61C, UCBerkeley 001 - Spring 2015 Youtube
@@ -99,7 +99,7 @@ The Algorithm Design Manual 2nd Edition
 https://www.amazon.com/gp/product/1848000693
 
 Steven Skiena Dept. of Computer Science Stony Brook University Video Lectures
-http://www3.cs.stonybrook.edu/~algorith/video-lectures/
+http://www3.cs.stonybrook.edu/~algorith/video-lectures
 
 Mathematics for Computer Science:
 
@@ -118,7 +118,7 @@ https://www.amazon.com/Introduction-Linear-Algebra-Gilbert-Strang/dp/0980232775
 
 Operating Systems Concepts:
 
-Operating Systems: Three Easy Pieces 
+Operating Systems: Three Easy Pieces
 http://pages.cs.wisc.edu/~remzi/OSTEP
 
 Computer Science 162, 001 - Spring 2015. Operating Systems and System Programming - John Kubiatowicz UCBerkeley
@@ -146,7 +146,7 @@ https://suclass.stanford.edu/courses/course-v1:Engineering+CS144+Fall2016/course
 
 Additional Material:
 
-Eli The Computer Guy Youtube 
+Eli The Computer Guy Youtube
 https://www.youtube.com/playlist?list=PLF360ED1082F6F2A5
 
 Load Balancing Servers, Firewalls, and Caches
@@ -205,7 +205,7 @@ Windows Server 2016 - TechNet - Microsoft
 https://docs.microsoft.com/en-us/windows-server/windows-server-2016
 
 Windows Server Courses from Microsoft Virtual Academy
-https://mva.microsoft.com/product-training/windows-server#!index=3&jobf=IT%20Pros&lang=1033
+https://mva.microsoft.com/LearningPaths.aspx
 
 Powershell:
 
@@ -306,7 +306,7 @@ https://pgexercises.com
 Ansible:
 
 Ansible for DevOps
-https://leanpub.com/ansible-for-devops                        
+https://leanpub.com/ansible-for-devops
 
 Ansible Videos
 https://www.ansible.com/videos
@@ -315,22 +315,22 @@ Python:
 
 References:
 http://pybit.es/python-resources.html
-https://www.reddit.com/r/Python/
-https://www.reddit.com/r/learnpython/top
 https://www.reddit.com/r/learnpython/comments/53z5p4/how_to_start_learning_python_the_complete_guide
-https://www.reddit.com/r/learnpython/comments/609p5x/selftaught_people_how_did_you_learn_python/
+https://www.reddit.com/r/learnpython/comments/609p5x/selftaught_people_how_did_you_learn_python
+https://www.reddit.com/r/learnpython/top
+https://www.reddit.com/r/Python/
 
 The Python Tutorial
 http://docs.python.org/py3k/tutorial/index.html
 
 A Gentle Introduction to Programming Using Python
-https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011
 
 Automate the Boring Stuff with Python
 https://automatetheboringstuff.com
 
 Learn Python the Hard Way
-https://learnpythonthehardway.org/book/
+https://learnpythonthehardway.org/book
 
 C:
 
@@ -339,11 +339,11 @@ http://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628
 
 Java:
 
-References: 
-http://stackoverflow.com/questions/75102/best-java-book-you-have-read-so-far
+References:
 http://stackoverflow.com/questions/2482639/which-is-the-best-book-for-learning-java-servlets-and-jsp
+http://stackoverflow.com/questions/75102/best-java-book-you-have-read-so-far
 
-Head First Java 2nd Edition 
+Head First Java 2nd Edition
 http://www.amazon.com/Head-First-Java-Kathy-Sierra/dp/0596009208
 
 Murach's Java Servlets and JSP
@@ -395,7 +395,7 @@ http://www.professormesser.com/free-a-plus-training/220-901/comptia-220-900-cour
 Microsoft Excel:
 
 References:
-https://www.reddit.com/r/excel/comments/2e28s3/rexcel_advice_thread_repository/
+https://www.reddit.com/r/excel/comments/2e28s3/rexcel_advice_thread_repository
 
 Excel 2016 Bible 1st Edition
 https://www.amazon.com/Excel-2016-Bible-John-Walkenbach/dp/1119067510
@@ -432,12 +432,12 @@ https://cse.google.com/cse/home?cx=000661023013169144559:a1-kkiboeco (Google Cus
 https://cse.google.com/cse/publicurl?cx=001639227550064093264:dznewka3cca (Google Custom Search Engine for Ebooks)
 https://opentrackers.org/downloading-ebooks-textbooks
 http://findlectures.com
-https://pinboard.in/u:sharjeelsayed/t:ebooks
-https://pinboard.in/u:sharjeelsayed/t:cs
-https://pinboard.in/u:sharjeelsayed/t:learn
-https://pinboard.in/u:sharjeelsayed/t:course
-https://www.reddit.com/r/DataHoarder/comments/5xqnc6/uc_berkeley_courses_time_to_seed
 https://github.com/vhf/free-programming-books
+https://pinboard.in/u:sharjeelsayed/t:course
+https://pinboard.in/u:sharjeelsayed/t:cs
+https://pinboard.in/u:sharjeelsayed/t:ebooks
+https://pinboard.in/u:sharjeelsayed/t:learn
+https://www.reddit.com/r/DataHoarder/comments/5xqnc6/uc_berkeley_courses_time_to_seed
 
 MOOC:
 
@@ -446,20 +446,24 @@ https://www.edx.org/course/subject/computer-science
 https://www.udacity.com/courses/all
 https://www.class-central.com/subject/cs
 https://www.coursebuffet.com/sub/computer-science
+https://www.reddit.com/r/learnprogramming/wiki/online
 
 Interview Guides:
 
 References:
+https://pinboard.in/u:sharjeelsayed/t:cheatsheet
+https://pinboard.in/u:sharjeelsayed/t:ebooks
 https://pinboard.in/u:sharjeelsayed/t:interview
 https://pinboard.in/u:sharjeelsayed/t:jobs
-https://pinboard.in/u:sharjeelsayed/t:ebooks
-https://pinboard.in/u:sharjeelsayed/t:cheatsheet
 
 Linux System Administrator/DevOps Interview Questions
 https://github.com/chassing/linux-sysadmin-interview-questions
 
 The System Design Primer
 https://github.com/donnemartin/system-design-primer
+
+Devops Interview Questions
+https://github.com/Leo-G/DevopsWiki/wiki/Devops-Interview-Questions
 
 Awesome Interviews
 https://github.com/MaximAbramchuck/awesome-interview-questions
@@ -526,7 +530,7 @@ http://www.monsterindia.com
 http://www.timesjobs.com
 https://www.fresherslive.com
 Note: Update your resume on the above sites every Sunday post 12 AM (IST).
- 
+
 Job Search Engines:
 
 http://Indeed.co.in
@@ -537,24 +541,24 @@ https://whoishiring.io
 
 Company and Salary Reviews:
 
+http://www.payscale.com/research/IN/Country=India/Salary
 https://careernavigator.naukri.com/
 https://www.glassdoor.co.in/Salaries/india-salary-SRCH_IL.0,5_IN115.htm
-http://www.payscale.com/research/IN/Country=India/Salary
 
 Freelancer:
 
-https://www.upwork.com
-https://www.freelancer.com
 http://www.guru.com
 https://nomadprojects.io
- 
+https://www.freelancer.com
+https://www.upwork.com
+
 Resume Improvement:
 
 https://pinboard.in/u:sharjeelsayed/t:resume
 
 News:
 
-Import this OPML file , https://sharjeelsayed.github.io/inoreader_sharjeelsayed_subscriptions.xml , into the inoreader.com web/mobile client.Detailed import instructions at http://blog.inoreader.com/2014/04/opml-import-additions.html
+Import this OPML file , https://sharjeelsayed.github.io/inoreader_sharjeelsayed_subscriptions.xml , into the inoreader.com web/mobile client.Detailed import instructions at http://blog.inoreader.com/2014/04/opml-import-additions.html.Configure notifications for the 'Must Read' folder.Detailed instructions at http://blog.inoreader.com/2015/04/introducing-push-notifications-get-most.html
 
 Foreign Language:
 
@@ -567,24 +571,25 @@ https://pinboard.in/u:sharjeelsayed/t:chess
 
 References :
 http://booksreddit.com
-http://hackernewsbooks.com/
+http://hackernewsbooks.com
 http://ramiro.org/vis/hn-most-linked-books-unique-users
 http://serverfault.com/questions/1046/what-is-the-single-most-influential-book-every-sysadmin-should-read
 http://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read
 http://www.bookadvice.co
-http://www.dev-books.com/ (The most mentioned books on Stack Overflow )
+http://www.dev-books.com (The most mentioned books on Stack Overflow )
 http://www.flyingmachinestudios.com/programming/learn-programming-languages-efficiently
-https://80000hours.org/career-guide/how-to-be-successful/
-https://alexvermeer.com/8760hours/ (8,760 Hours: How to get the most out of next year)
+https://80000hours.org/career-guide/how-to-be-successful
+https://alexvermeer.com/8760hours (8,760 Hours: How to get the most out of next year)
 https://begriffs.com/posts/2017-04-13-longterm-computing-reading.html
 https://collegeinfogeek.com/spaced-repetition-memory-technique
 https://cs50.harvard.edu
 https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer
 https://github.com/braydie/HowToBeAProgrammer
 https://github.com/Developer-Y/cs-video-courses
+https://github.com/Leo-G/DevopsWiki
 https://github.com/open-source-society/computer-science
 https://github.com/prakhar1989/awesome-courses
-https://github.com/sindresorhus/awesome 
+https://github.com/sindresorhus/awesome
 https://learnxinyminutes.com
 https://news.ycombinator.com/item?id=10644518 (Ask HN: What's your favorite online course?)
 https://news.ycombinator.com/item?id=11209066 (Why you probably don't need an MBA )
@@ -604,7 +609,7 @@ https://news.ycombinator.com/item?id=14086259 (Ask HN: Mailing lists that HN rea
 https://news.ycombinator.com/item?id=14087880 (Ask HN: What are some great “Free” services provided by IBM, Amazon, etc.?)
 https://news.ycombinator.com/item?id=14161876 (Calculus Made Easy (1914) )
 https://news.ycombinator.com/item?id=14163905 (Ask HN: Which companies have the best blogs written by their engineering team?)
-https://news.ycombinator.com/item?id=14169760 (Resources on creating programming languages) 
+https://news.ycombinator.com/item?id=14169760 (Resources on creating programming languages)
 https://news.ycombinator.com/item?id=14218408 (Ask HN: How do you keep improving?)
 https://news.ycombinator.com/item?id=14218559 (How to talk about yourself in a developer interview)
 https://news.ycombinator.com/item?id=5325012 (Show HN: Increase your productivity with ambient noise (coffitivity.com))
@@ -621,16 +626,15 @@ https://www.reddit.com/r/AskReddit/comments/4q91g9/what_free_things_online_shoul
 https://www.reddit.com/r/compsci/comments/1kcal2/algorithims_everyone_should_know
 https://www.reddit.com/r/compsci/comments/20vbaw/what_book_made_you_a_better_computer_scientist
 https://www.reddit.com/r/compsci/comments/40mq3q/what_are_the_canon_books_in_computer_science
-https://www.reddit.com/r/cscareerquestions
-https://www.reddit.com/r/cscareerquestions/comments/4ce2s3/resource_interview_questions_my_massive/
+https://www.reddit.com/r/cscareerquestions/comments/4ce2s3/resource_interview_questions_my_massive
 https://www.reddit.com/r/cscareerquestions/comments/5bsg82/whats_the_single_most_useful_csrelated_link_you
 https://www.reddit.com/r/excel/comments/2e28s3/rexcel_advice_thread_repository
 https://www.reddit.com/r/learnprogramming
-https://www.reddit.com/r/linuxadmin/comments/65vb8s/advice_if_you_are_wanting_to_go_into_devops/
+https://www.reddit.com/r/linuxadmin/comments/65vb8s/advice_if_you_are_wanting_to_go_into_devops
 https://www.reddit.com/r/sysadmin/comments/4oxxgv/your_favorite_scripts_you_have_stolen_or_made
 https://www.reddit.com/r/sysadmin/comments/65u70f/sysadmins_what_are_some_good_it_youtube_channels
 https://www.reddit.com/r/sysadmin/comments/65wdum/whats_your_favorite_selfstudy_resource_paid_free
-https://www.reddit.com/r/sysadminresumes/top/
+https://www.reddit.com/r/sysadminresumes/top
 https://www.scotthyoung.com/blog/myprojects/mit-challenge-2
 https://cse.google.com/cse/publicurl?cx=013208504250323700475:mqurmsvnc8k (Google Custom Search Engine for Sharjeel's Bookmarks)
 https://github.com/sharjeelsayed?direction=desc&sort=stars&tab=stars
