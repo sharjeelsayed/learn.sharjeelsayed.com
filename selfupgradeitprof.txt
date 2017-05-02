@@ -68,7 +68,7 @@ News
 Foreign Language
 Chess
 
-References
+Sources
 
 Computer Science:
 
@@ -134,7 +134,7 @@ https://www.amazon.com/dp/013359162X
 
 Networking :
 
-References:
+Sources:
 https://www.reddit.com/r/sysadmin/comments/4ux166/do_you_know_a_site_to_learn_more_about_networking
 
 Computer Networking: A Top-Down Approach (7th Edition)
@@ -154,7 +154,7 @@ http://www.amazon.com/Load-Balancing-Servers-Firewalls-Caches/dp/0471415502
 
 Database Concepts:
 
-References:
+Sources:
 http://stackoverflow.com/questions/718282/best-books-in-database-design-and-optimization
 https://pinboard.in/u:sharjeelsayed/t:db
 
@@ -168,7 +168,7 @@ DevOps/SRE/SysAdmin:
 
 Linux:
 
-References :
+Sources :
 http://stackoverflow.com/questions/143184/which-book-would-you-recommend-for-a-linux-sysadmin
 http://stackoverflow.com/questions/236838/what-are-good-linuxunix-books-for-an-advancing-user
 http://stackoverflow.com/questions/851980/linux-programming-book
@@ -313,7 +313,7 @@ https://www.ansible.com/videos
 
 Python:
 
-References:
+Sources:
 http://pybit.es/python-resources.html
 https://www.reddit.com/r/learnpython/comments/53z5p4/how_to_start_learning_python_the_complete_guide
 https://www.reddit.com/r/learnpython/comments/609p5x/selftaught_people_how_did_you_learn_python
@@ -339,7 +339,7 @@ http://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628
 
 Java:
 
-References:
+Sources:
 http://stackoverflow.com/questions/2482639/which-is-the-best-book-for-learning-java-servlets-and-jsp
 http://stackoverflow.com/questions/75102/best-java-book-you-have-read-so-far
 
@@ -373,7 +373,7 @@ https://www.elastic.co/guide/index.html
 
 Security
 
-References:
+Sources:
 https://www.reddit.com/r/netsec/wiki/start
 https://www.reddit.com/r/netsecstudents/top/?sort=top&t=all
 https://xapax.github.io/blog/2017/01/14/OSCP.html
@@ -387,7 +387,7 @@ https://www.offensive-security.com/information-security-certifications/oscp-offe
 
 Hardware:
 
-References:
+Sources:
 https://news.ycombinator.com/item?id=14123394
 
 Professor Messer’s CompTIA 220-901 and 220-902 A+ Training Videos
@@ -395,7 +395,7 @@ http://www.professormesser.com/free-a-plus-training/220-901/comptia-220-900-cour
 
 Microsoft Excel:
 
-References:
+Sources:
 https://www.reddit.com/r/excel/comments/2e28s3/rexcel_advice_thread_repository
 
 Excel 2016 Bible 1st Edition
@@ -426,15 +426,15 @@ Study Tools:
 
 Ebooks:
 
-References:
+Sources:
 https://opentrackers.org/downloading-ebooks-textbooks
 https://www.reddit.com/r/Piracy/comments/6583hl/piracy_megathread_v20/
 
 http://libgen.io
 https://torrentz2.eu
-http://torrentproject.se/
+http://torrentproject.se
 https://thepiratebay-proxylist.org
-https://cse.google.com/cse/home?cx=000661023013169144559:a1-kkiboeco (Google Custom Search Engine for Ebooks)
+https://cse.google.com/cse/publicurl?cx=011394183039475424659:5bfyqg89ers (Google Custom Search Engine for Ebooks)
 https://cse.google.com/cse/publicurl?cx=001639227550064093264:dznewka3cca (Google Custom Search Engine for Ebooks)
 http://findlectures.com
 https://github.com/vhf/free-programming-books
@@ -445,16 +445,18 @@ https://pinboard.in/u:sharjeelsayed/t:learn
 
 MOOC:
 
+Sources:
+https://www.reddit.com/r/learnprogramming/wiki/online
+
 https://www.coursera.org/browse/computer-science
 https://www.edx.org/course/subject/computer-science
 https://www.udacity.com/courses/all
 https://www.class-central.com/subject/cs
 https://www.coursebuffet.com/sub/computer-science
-https://www.reddit.com/r/learnprogramming/wiki/online
 
 Interview Guides:
 
-References:
+Sources:
 https://pinboard.in/u:sharjeelsayed/t:cheatsheet
 https://pinboard.in/u:sharjeelsayed/t:ebooks
 https://pinboard.in/u:sharjeelsayed/t:interview
@@ -515,7 +517,7 @@ https://www.amazon.com/Power-Broker-Robert-Moses-Fall/dp/0394720245
 
 Money:
 
-References:
+Sources:
 https://www.reddit.com/r/Economics/wiki/reading
 https://www.amazon.com/gp/bestsellers/books/491584/
 
@@ -579,7 +581,7 @@ Chess:
 
 https://pinboard.in/u:sharjeelsayed/t:chess
 
-References :
+Sources :
 http://booksreddit.com
 http://hackernewsbooks.com
 http://ramiro.org/vis/hn-most-linked-books-unique-users
