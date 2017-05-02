@@ -70,7 +70,25 @@ Chess
 
 Computer Science:
 
+Sources:
+https://cs50.harvard.edu
+https://github.com/open-source-society/computer-science
+https://news.ycombinator.com/item?id=13014900 (	Ask HN: What are the bibles of Computer Science?)
+https://news.ycombinator.com/item?id=13406638 (Ask HN: What's the best computer science book you've read recently?)
+https://news.ycombinator.com/item?id=13862284 (Teach Yourself Computer Science (teachyourselfcs.com))
+https://www.amazon.com/Best-Sellers-Books-Computer-Science/zgbs/books/468204
+https://www.google.com/about/careers/students/guide-to-technical-development.html
+https://www.reddit.com/r/compsci/comments/20vbaw/what_book_made_you_a_better_computer_scientist
+https://www.reddit.com/r/compsci/comments/40mq3q/what_are_the_canon_books_in_computer_science
+https://www.scotthyoung.com/blog/myprojects/mit-challenge-2
+
 Programming Concepts:
+
+Sources:
+http://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read
+https://github.com/braydie/HowToBeAProgrammer
+https://news.ycombinator.com/item?id=12718102 (Programming books you might want to consider reading)
+https://news.ycombinator.com/item?id=13918465 (Beautiful Online SICP)
 
 Structure and Interpretation of Computer Programs - 2nd Edition
 https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-4.html
@@ -93,6 +111,10 @@ https://www.youtube.com/playlist?list=PL-XXv-cvA_iCl2-D-FS5mk0jFF6cYSJs_
 
 Alogrithms and Data Structures:
 
+Sources:
+https://www.reddit.com/r/algorithms
+https://www.reddit.com/r/compsci/comments/1kcal2/algorithims_everyone_should_know
+
 The Algorithm Design Manual 2nd Edition
 https://www.amazon.com/gp/product/1848000693
 
@@ -100,6 +122,9 @@ Steven Skiena Dept. of Computer Science Stony Brook University Video Lectures
 http://www3.cs.stonybrook.edu/~algorith/video-lectures
 
 Mathematics for Computer Science:
+
+Sources:
+https://news.ycombinator.com/item?id=14161876 (Calculus Made Easy (1914) )
 
 Lecture notes by László Lovász
 http://www.cs.elte.hu/~lovasz/dmbook.ps
@@ -163,6 +188,11 @@ Computer Science 186, 001 - Spring 2015 UCBerkeley Introduction to Database Syst
 https://www.youtube.com/playlist?list=PL-XXv-cvA_iBVK2QzAV-R7NMA1ZkaiR2y
 
 DevOps/SRE/SysAdmin:
+
+Sources:
+http://serverfault.com/questions/1046/what-is-the-single-most-influential-book-every-sysadmin-should-read
+https://github.com/Leo-G/DevopsWiki
+https://www.reddit.com/r/linuxadmin/comments/65vb8s/advice_if_you_are_wanting_to_go_into_devops
 
 Linux:
 
@@ -422,10 +452,25 @@ https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654
 
 Study Tools:
 
+Sources:
+http://www.flyingmachinestudios.com/programming/learn-programming-languages-efficiently
+https://80000hours.org/career-guide/how-to-be-successful
+https://alexvermeer.com/8760hours (8,760 Hours: How to get the most out of next year)
+https://begriffs.com/posts/2017-04-13-longterm-computing-reading.html
+https://collegeinfogeek.com/spaced-repetition-memory-technique
+https://news.ycombinator.com/item?id=14218408 (Ask HN: How do you keep improving?)
+
 Ebooks:
 
 Sources:
+http://booksreddit.com
+http://hackernewsbooks.com
+http://ramiro.org/vis/hn-most-linked-books-unique-users
+http://www.bookadvice.co
+http://www.dev-books.com (The most mentioned books on Stack Overflow)
+https://news.ycombinator.com/item?id=13597949 (The most mentioned books on Stack Overflow)
 https://opentrackers.org/downloading-ebooks-textbooks
+https://www.reddit.com/r/AskReddit/comments/34m5n6/reddit_what_are_some_must_read_books
 https://www.reddit.com/r/Piracy/comments/6583hl/piracy_megathread_v20/
 
 http://libgen.io
@@ -444,21 +489,34 @@ https://pinboard.in/u:sharjeelsayed/t:learn
 MOOC:
 
 Sources:
+https://github.com/Developer-Y/cs-video-courses
+https://github.com/prakhar1989/awesome-courses
+https://github.com/sindresorhus/awesome
+https://news.ycombinator.com/item?id=10644518 (Ask HN: What's your favorite online course?)
+https://news.ycombinator.com/item?id=12702651 (	Ask HN: What is your favorite YouTube channel for developers?)
+https://news.ycombinator.com/item?id=13867016 (Ask HN: Which Berkeley Courses Should I Archive?)
 https://www.reddit.com/r/learnprogramming/wiki/online
+https://www.reddit.com/r/sysadmin/comments/65u70f/sysadmins_what_are_some_good_it_youtube_channels
+https://www.reddit.com/r/sysadmin/comments/65wdum/whats_your_favorite_selfstudy_resource_paid_free
 
 https://www.coursera.org/browse/computer-science
 https://www.edx.org/course/subject/computer-science
 https://www.udacity.com/courses/all
 https://www.class-central.com/subject/cs
 https://www.coursebuffet.com/sub/computer-science
+https://www.cybrary.it
+https://www.freecodecamp.com
 
 Interview Guides:
 
 Sources:
+https://news.ycombinator.com/item?id=14037313 (Questions to ask at the end of a technical interview)
+https://news.ycombinator.com/item?id=14218559 (How to talk about yourself in a developer interview)
 https://pinboard.in/u:sharjeelsayed/t:cheatsheet
 https://pinboard.in/u:sharjeelsayed/t:ebooks
 https://pinboard.in/u:sharjeelsayed/t:interview
 https://pinboard.in/u:sharjeelsayed/t:jobs
+https://www.reddit.com/r/cscareerquestions/comments/4ce2s3/resource_interview_questions_my_massive
 
 Linux System Administrator/DevOps Interview Questions
 https://github.com/chassing/linux-sysadmin-interview-questions
@@ -483,6 +541,9 @@ https://www.glassdoor.com/Interview/index.htm
 
 Ambient Music:
 
+Sources:
+https://news.ycombinator.com/item?id=5325012 (Show HN: Increase your productivity with ambient noise (coffitivity.com))
+
 https://pinboard.in/u:sharjeelsayed/t:music+study
 
 Headphones:
@@ -494,6 +555,10 @@ https://www.amazon.com/gp/bestsellers/electronics/172541/ (Best Sellers in Audio
 Career:
 
 Management:
+
+Sources:
+https://news.ycombinator.com/item?id=11209066 (Why you probably don't need an MBA )
+https://news.ycombinator.com/item?id=13207268 (	Ask HN: How do I get freelance developer jobs?)
 
 Site Reliability Engineering: How Google Runs Production Systems
 https://www.amazon.com/Site-Reliability-Engineering-Production-Systems/dp/149192912X
@@ -562,9 +627,19 @@ https://www.upwork.com
 
 Resume Improvement:
 
+Sources:
+https://www.reddit.com/r/sysadminresumes/top
+
 https://pinboard.in/u:sharjeelsayed/t:resume
 
 News:
+
+Sources:
+https://news.ycombinator.com/item?id=13747563 (Ask HN: What are your favorite tech podcasts?)
+https://news.ycombinator.com/item?id=14086259 (Ask HN: Mailing lists that HN readers ought to know about?)
+https://news.ycombinator.com/item?id=14163905 (Ask HN: Which companies have the best blogs written by their engineering team?)
+https://news.ycombinator.com/item?id=9207360 (Ask HN: Favorite podcasts?)
+https://podcastrank.co
 
 Import the OPML file, https://sharjeelsayed.github.io/inoreader_sharjeelsayed_subscriptions.xml ,into inoreader.com .Enable notifications for the 'MustRead' folder.
 Detailed import and notification configuration instructions at http://blog.inoreader.com/2014/04/opml-import-additions.html and http://blog.inoreader.com/2015/04/introducing-push-notifications-get-most.html
@@ -580,72 +655,16 @@ Chess:
 https://pinboard.in/u:sharjeelsayed/t:chess
 
 Sources :
-http://booksreddit.com
-http://hackernewsbooks.com
-http://ramiro.org/vis/hn-most-linked-books-unique-users
-http://serverfault.com/questions/1046/what-is-the-single-most-influential-book-every-sysadmin-should-read
-http://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read
-http://www.bookadvice.co
-http://www.dev-books.com (The most mentioned books on Stack Overflow )
-http://www.flyingmachinestudios.com/programming/learn-programming-languages-efficiently
-https://80000hours.org/career-guide/how-to-be-successful
-https://alexvermeer.com/8760hours (8,760 Hours: How to get the most out of next year)
-https://begriffs.com/posts/2017-04-13-longterm-computing-reading.html
-https://collegeinfogeek.com/spaced-repetition-memory-technique
-https://cs50.harvard.edu
+
 https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer
-https://github.com/braydie/HowToBeAProgrammer
-https://github.com/Developer-Y/cs-video-courses
-https://github.com/Leo-G/DevopsWiki
-https://github.com/open-source-society/computer-science
-https://github.com/prakhar1989/awesome-courses
-https://github.com/sindresorhus/awesome
 https://learnxinyminutes.com
-https://news.ycombinator.com/item?id=10644518 (Ask HN: What's your favorite online course?)
-https://news.ycombinator.com/item?id=11209066 (Why you probably don't need an MBA )
-https://news.ycombinator.com/item?id=12702651 (	Ask HN: What is your favorite YouTube channel for developers?)
-https://news.ycombinator.com/item?id=12718102 (Programming books you might want to consider reading)
-https://news.ycombinator.com/item?id=13014900 (	Ask HN: What are the bibles of Computer Science?)
-https://news.ycombinator.com/item?id=13207268 (	Ask HN: How do I get freelance developer jobs?)
-https://news.ycombinator.com/item?id=13406638 (Ask HN: What's the best computer science book you've read recently?)
 https://news.ycombinator.com/item?id=13574916 (Ask HN: What are some 'must watch' talks?)
-https://news.ycombinator.com/item?id=13597949 (The most mentioned books on Stack Overflow )
-https://news.ycombinator.com/item?id=13747563 (Ask HN: What are your favorite tech podcasts?)
-https://news.ycombinator.com/item?id=13862284 (Teach Yourself Computer Science (teachyourselfcs.com))
-https://news.ycombinator.com/item?id=13867016 (Ask HN: Which Berkeley Courses Should I Archive?)
-https://news.ycombinator.com/item?id=13918465 (Beautiful Online SICP)
-https://news.ycombinator.com/item?id=14037313 (Questions to ask at the end of a technical interview)
-https://news.ycombinator.com/item?id=14086259 (Ask HN: Mailing lists that HN readers ought to know about?)
 https://news.ycombinator.com/item?id=14087880 (Ask HN: What are some great “Free” services provided by IBM, Amazon, etc.?)
-https://news.ycombinator.com/item?id=14161876 (Calculus Made Easy (1914) )
-https://news.ycombinator.com/item?id=14163905 (Ask HN: Which companies have the best blogs written by their engineering team?)
 https://news.ycombinator.com/item?id=14169760 (Resources on creating programming languages)
-https://news.ycombinator.com/item?id=14218408 (Ask HN: How do you keep improving?)
-https://news.ycombinator.com/item?id=14218559 (How to talk about yourself in a developer interview)
-https://news.ycombinator.com/item?id=5325012 (Show HN: Increase your productivity with ambient noise (coffitivity.com))
-https://news.ycombinator.com/item?id=9207360 (Ask HN: Favorite podcasts?)
-https://podcastrank.co
-https://teachyourselfcs.com
-https://www.amazon.com/Best-Sellers-Books-Computer-Science/zgbs/books/468204
-https://www.cybrary.it
-https://www.freecodecamp.com
-https://www.google.com/about/careers/students/guide-to-technical-development.html
-https://www.reddit.com/r/algorithms
-https://www.reddit.com/r/AskReddit/comments/34m5n6/reddit_what_are_some_must_read_books
 https://www.reddit.com/r/AskReddit/comments/4q91g9/what_free_things_online_should_everyone_take/d4r8foy
-https://www.reddit.com/r/compsci/comments/1kcal2/algorithims_everyone_should_know
-https://www.reddit.com/r/compsci/comments/20vbaw/what_book_made_you_a_better_computer_scientist
-https://www.reddit.com/r/compsci/comments/40mq3q/what_are_the_canon_books_in_computer_science
-https://www.reddit.com/r/cscareerquestions/comments/4ce2s3/resource_interview_questions_my_massive
 https://www.reddit.com/r/cscareerquestions/comments/5bsg82/whats_the_single_most_useful_csrelated_link_you
-https://www.reddit.com/r/excel/comments/2e28s3/rexcel_advice_thread_repository
 https://www.reddit.com/r/learnprogramming
-https://www.reddit.com/r/linuxadmin/comments/65vb8s/advice_if_you_are_wanting_to_go_into_devops
 https://www.reddit.com/r/sysadmin/comments/4oxxgv/your_favorite_scripts_you_have_stolen_or_made
-https://www.reddit.com/r/sysadmin/comments/65u70f/sysadmins_what_are_some_good_it_youtube_channels
-https://www.reddit.com/r/sysadmin/comments/65wdum/whats_your_favorite_selfstudy_resource_paid_free
-https://www.reddit.com/r/sysadminresumes/top
-https://www.scotthyoung.com/blog/myprojects/mit-challenge-2
 https://cse.google.com/cse/publicurl?cx=013208504250323700475:mqurmsvnc8k (Google Custom Search Engine for Sharjeel's Bookmarks)
 https://github.com/sharjeelsayed?direction=desc&sort=stars&tab=stars
 https://news.ycombinator.com/favorites?id=sharjeelsayed
