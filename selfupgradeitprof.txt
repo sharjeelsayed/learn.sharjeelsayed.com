@@ -68,8 +68,6 @@ News
 Foreign Language
 Chess
 
-Sources
-
 Computer Science:
 
 Programming Concepts:
