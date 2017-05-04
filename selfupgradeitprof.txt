@@ -88,8 +88,12 @@ Programming Concepts:
 Sources:
 http://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read
 https://github.com/braydie/HowToBeAProgrammer
+https://github.com/Michael0x2a/curated-programming-resources
 https://news.ycombinator.com/item?id=12718102 (Programming books you might want to consider reading)
 https://news.ycombinator.com/item?id=13918465 (Beautiful Online SICP)
+https://www.reddit.com/r/learnprogramming/wiki/books
+https://www.reddit.com/r/learnprogramming/wiki/faq
+https://www.reddit.com/r/learnprogramming/wiki/online
 
 Structure and Interpretation of Computer Programs - 2nd Edition
 https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-4.html
@@ -348,6 +352,7 @@ Python:
 
 Sources:
 http://pybit.es/python-resources.html
+https://www.reddit.com/r/learnprogramming/wiki/online#wiki_python
 https://www.reddit.com/r/learnpython/comments/53z5p4/how_to_start_learning_python_the_complete_guide
 https://www.reddit.com/r/learnpython/comments/609p5x/selftaught_people_how_did_you_learn_python
 https://www.reddit.com/r/learnpython/top
@@ -375,6 +380,7 @@ Java:
 Sources:
 http://stackoverflow.com/questions/2482639/which-is-the-best-book-for-learning-java-servlets-and-jsp
 http://stackoverflow.com/questions/75102/best-java-book-you-have-read-so-far
+https://www.reddit.com/r/learnprogramming/wiki/online#wiki_java
 
 Head First Java 2nd Edition
 http://www.amazon.com/Head-First-Java-Kathy-Sierra/dp/0596009208
