@@ -75,11 +75,12 @@ https://cs50.harvard.edu
 https://github.com/open-source-society/computer-science
 https://news.ycombinator.com/item?id=13014900 (	Ask HN: What are the bibles of Computer Science?)
 https://news.ycombinator.com/item?id=13406638 (Ask HN: What's the best computer science book you've read recently?)
-https://news.ycombinator.com/item?id=13862284 (Teach Yourself Computer Science (teachyourselfcs.com))
+https://news.ycombinator.com/item?id=13862284 (Teach Yourself Computer Science)
 https://www.amazon.com/Best-Sellers-Books-Computer-Science/zgbs/books/468204
 https://www.google.com/about/careers/students/guide-to-technical-development.html
 https://www.reddit.com/r/compsci/comments/20vbaw/what_book_made_you_a_better_computer_scientist
 https://www.reddit.com/r/compsci/comments/40mq3q/what_are_the_canon_books_in_computer_science
+https://www.reddit.com/r/cscareerquestions/comments/5bsg82/whats_the_single_most_useful_csrelated_link_you
 https://www.scotthyoung.com/blog/myprojects/mit-challenge-2
 
 Programming Concepts:
@@ -124,7 +125,7 @@ http://www3.cs.stonybrook.edu/~algorith/video-lectures
 Mathematics for Computer Science:
 
 Sources:
-https://news.ycombinator.com/item?id=14161876 (Calculus Made Easy (1914) )
+https://news.ycombinator.com/item?id=14161876 (Calculus Made Easy (1914))
 
 Lecture notes by László Lovász
 http://www.cs.elte.hu/~lovasz/dmbook.ps
@@ -192,6 +193,7 @@ DevOps/SRE/SysAdmin:
 Sources:
 http://serverfault.com/questions/1046/what-is-the-single-most-influential-book-every-sysadmin-should-read
 https://github.com/Leo-G/DevopsWiki
+https://news.ycombinator.com/item?id=14153545 (What Is ‘Site Reliability Engineering’?)
 https://www.reddit.com/r/linuxadmin/comments/65vb8s/advice_if_you_are_wanting_to_go_into_devops
 
 Linux:
@@ -212,6 +214,9 @@ RHCSA & RHCE Red Hat Enterprise Linux 7: Training and Exam Preparation Guide (EX
 http://www.amazon.com/RHCSA-RHCE-Red-Enterprise-Linux/dp/1495148203
 
 Additional Material:
+
+The Complete Red Hat Linux Course: Beginner to RHCSA!
+https://youtu.be/uXD-Nuguhzc
 
 Linux From Scratch!
 http://www.linuxfromscratch.org/index.html
@@ -558,7 +563,8 @@ Management:
 
 Sources:
 https://news.ycombinator.com/item?id=11209066 (Why you probably don't need an MBA )
-https://news.ycombinator.com/item?id=13207268 (	Ask HN: How do I get freelance developer jobs?)
+https://news.ycombinator.com/item?id=13207268 (Ask HN: How do I get freelance developer jobs?)
+https://news.ycombinator.com/item?id=14146850 (Ask HN: Best business advice for software developers)
 
 Site Reliability Engineering: How Google Runs Production Systems
 https://www.amazon.com/Site-Reliability-Engineering-Production-Systems/dp/149192912X
@@ -607,6 +613,7 @@ Note: Update your resume on the above sites every Sunday post 12 AM (IST).
 Job Search Engines:
 
 http://Indeed.co.in
+http://stackoverflow.com/jobs
 https://www.placementindia.com
 http://India.Recruit.net
 http://Simplyhired.co.in
@@ -662,7 +669,6 @@ https://news.ycombinator.com/item?id=13574916 (Ask HN: What are some 'must watch
 https://news.ycombinator.com/item?id=14087880 (Ask HN: What are some great “Free” services provided by IBM, Amazon, etc.?)
 https://news.ycombinator.com/item?id=14169760 (Resources on creating programming languages)
 https://www.reddit.com/r/AskReddit/comments/4q91g9/what_free_things_online_should_everyone_take/d4r8foy
-https://www.reddit.com/r/cscareerquestions/comments/5bsg82/whats_the_single_most_useful_csrelated_link_you
 https://www.reddit.com/r/learnprogramming
 https://www.reddit.com/r/sysadmin/comments/4oxxgv/your_favorite_scripts_you_have_stolen_or_made
 https://cse.google.com/cse/publicurl?cx=013208504250323700475:mqurmsvnc8k (Google Custom Search Engine for Sharjeel's Bookmarks)
