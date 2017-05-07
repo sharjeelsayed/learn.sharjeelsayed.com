@@ -120,6 +120,7 @@ Alogrithms and Data Structures:
 Sources:
 https://www.reddit.com/r/algorithms
 https://www.reddit.com/r/compsci/comments/1kcal2/algorithims_everyone_should_know
+https://www.reddit.com/r/learnprogramming/comments/379vwn/visually_learning_algorithms/
 
 The Algorithm Design Manual 2nd Edition
 https://www.amazon.com/gp/product/1848000693
