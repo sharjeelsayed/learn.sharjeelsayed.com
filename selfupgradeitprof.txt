@@ -201,6 +201,7 @@ Sources:
 http://serverfault.com/questions/1046/what-is-the-single-most-influential-book-every-sysadmin-should-read
 https://github.com/Leo-G/DevopsWiki
 https://news.ycombinator.com/item?id=14153545 (What Is ‘Site Reliability Engineering’?)
+https://www.reddit.com/r/homelab/wiki/software
 https://www.reddit.com/r/linuxadmin/comments/65vb8s/advice_if_you_are_wanting_to_go_into_devops
 
 Linux:
