@@ -166,6 +166,7 @@ https://www.amazon.com/dp/013359162X
 Networking :
 
 Sources:
+https://news.ycombinator.com/item?id=13983212 (Beej's Guide to Network Programming)
 https://www.reddit.com/r/sysadmin/comments/4ux166/do_you_know_a_site_to_learn_more_about_networking
 
 Computer Networking: A Top-Down Approach (7th Edition)
@@ -187,6 +188,7 @@ Database Concepts:
 
 Sources:
 http://stackoverflow.com/questions/718282/best-books-in-database-design-and-optimization
+https://news.ycombinator.com/item?id=13417326 (Ask HN: What is the best online resource to learn advanced SQL?)
 https://pinboard.in/u:sharjeelsayed/t:db
 
 Architecture of a Database System
@@ -194,6 +196,9 @@ http://db.cs.berkeley.edu/papers/fntdb07-architecture.pdf
 
 Computer Science 186, 001 - Spring 2015 UCBerkeley Introduction to Database Systems - Joseph Hellerstein
 https://www.youtube.com/playlist?list=PL-XXv-cvA_iBVK2QzAV-R7NMA1ZkaiR2y
+
+Database Design for Mere Mortals: A Hands-On Guide to Relational Database Design (3rd Edition)
+https://www.amazon.com/Database-Design-Mere-Mortals-Hands/dp/0321884493
 
 DevOps/SRE/SysAdmin:
 
@@ -299,10 +304,10 @@ https://www.amazon.com/Amazon-Services-Action-Andreas-Wittig/dp/1617292885
 
 NGINX:
 
-nginx documentation
+NGINX documentation
 http://nginx.org/en/docs/
 
-Nginx HTTP Server - Third Edition
+NGINX HTTP Server - Third Edition
 https://www.amazon.com/Nginx-HTTP-Server-Clement-Nedelcu-ebook/dp/B016DPU3JS
 
 Apache:
@@ -371,6 +376,7 @@ https://www.reddit.com/r/learnprogramming/wiki/online#wiki_python
 https://www.reddit.com/r/learnpython/comments/53z5p4/how_to_start_learning_python_the_complete_guide
 https://www.reddit.com/r/learnpython/comments/609p5x/selftaught_people_how_did_you_learn_python
 https://www.reddit.com/r/learnpython/top
+https://www.reddit.com/r/learnpython/wiki/index
 https://www.reddit.com/r/Python/
 
 The Python Tutorial
