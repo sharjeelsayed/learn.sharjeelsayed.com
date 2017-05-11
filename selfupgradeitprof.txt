@@ -214,6 +214,8 @@ https://github.com/Leo-G/DevopsWiki
 https://news.ycombinator.com/item?id=14153545 (What Is ‘Site Reliability Engineering’?)
 https://www.reddit.com/r/homelab/wiki/software
 https://www.reddit.com/r/linuxadmin/comments/65vb8s/advice_if_you_are_wanting_to_go_into_devops
+https://www.reddit.com/r/sysadmin/wiki/bootcamp
+https://www.reddit.com/r/sysadmin/wiki/learn
 
 Linux:
 
@@ -446,7 +448,7 @@ https://xapax.github.io/blog/2017/01/14/OSCP.html
 https://www.reddit.com/r/netsec+privacy+SocialEngineering+onions+ReverseEngineering+crypto+blackhat+security+Malware+pwned+netsecstudents+computerforensics+HackBloc+securityCTF+xss+vrd+rootkit+REMath
 
 Offensive Computer Security Spring 2014 Homepage Florida State University
-http://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/
+http://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity
 
 Offensive Security Certified Professional
 https://www.offensive-security.com/information-security-certifications/oscp-offensive-security-certified-professional
@@ -580,11 +582,11 @@ http://www.geeksforgeeks.org/company-interview-corner
 Technical Interview Questions | CareerCup
 https://www.careercup.com/categories
 
-LeetCode
-https://leetcode.com
-
 Search Interview Questions
 https://www.glassdoor.com/Interview/index.htm
+
+LeetCode
+https://leetcode.com
 
 Ambient Music:
 
@@ -608,6 +610,7 @@ https://news.ycombinator.com/item?id=11209066 (Why you probably don't need an MB
 https://news.ycombinator.com/item?id=13207268 (Ask HN: How do I get freelance developer jobs?)
 https://news.ycombinator.com/item?id=14146850 (Ask HN: Best business advice for software developers)
 https://news.ycombinator.com/item?id=14279870 (Ask HN: Should I create a clone of a popular SaaS with rock-bottom pricing?)
+https://news.ycombinator.com/item?id=14316349 (Ask HN: Freelance Management Services/Apps)
 
 Site Reliability Engineering: How Google Runs Production Systems
 https://www.amazon.com/Site-Reliability-Engineering-Production-Systems/dp/149192912X
@@ -710,6 +713,7 @@ Sources :
 
 https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer
 https://learnxinyminutes.com
+https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#-48.5,-680.3,0
 https://news.ycombinator.com/item?id=13574916 (Ask HN: What are some 'must watch' talks?)
 https://news.ycombinator.com/item?id=14087880 (Ask HN: What are some great “Free” services provided by IBM, Amazon, etc.?)
 https://news.ycombinator.com/item?id=14169760 (Resources on creating programming languages)
