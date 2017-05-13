@@ -511,7 +511,7 @@ http://www.dev-books.com (The most mentioned books on Stack Overflow)
 https://news.ycombinator.com/item?id=13597949 (The most mentioned books on Stack Overflow)
 https://opentrackers.org/downloading-ebooks-textbooks
 https://www.reddit.com/r/AskReddit/comments/34m5n6/reddit_what_are_some_must_read_books
-https://www.reddit.com/r/Piracy/comments/6583hl/piracy_megathread_v20/
+https://www.reddit.com/r/Piracy/comments/6583hl/piracy_megathread_v20
 
 http://libgen.io
 https://torrentz2.eu
@@ -546,6 +546,7 @@ https://www.class-central.com/subject/cs
 https://www.coursebuffet.com/sub/computer-science
 https://www.cybrary.it
 https://www.freecodecamp.com
+https://hackr.io
 
 Interview Guides:
 
@@ -597,9 +598,9 @@ https://pinboard.in/u:sharjeelsayed/t:music+study
 
 Headphones:
 
-http://thewirecutter.com/reviews/best-noise-cancelling-headphones/
+http://thewirecutter.com/reviews/best-noise-cancelling-headphones
 
-https://www.amazon.com/gp/bestsellers/electronics/172541/ (Best Sellers in Audio Headphones)
+https://www.amazon.com/gp/bestsellers/electronics/172541 (Best Sellers in Audio Headphones)
 
 Career:
 
@@ -636,6 +637,8 @@ Sources:
 https://codewithoutrules.com/2016/08/08/living-below-your-means
 https://www.amazon.com/gp/bestsellers/books/491584
 https://www.reddit.com/r/Economics/wiki/reading
+https://www.reddit.com/r/IndiaInvestments/wiki/index
+https://www.reddit.com/r/IndiaInvestments/wiki/new
 
 Basic Economics 5th Edition
 https://www.amazon.com/Basic-Economics-Thomas-Sowell/dp/0465060730
