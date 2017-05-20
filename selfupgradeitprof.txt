@@ -380,6 +380,7 @@ Python:
 
 Sources:
 http://pybit.es/python-resources.html
+https://www.reddit.com/r/learnprogramming/comments/6bxdut/python_for_beginners_complete_series/
 https://www.reddit.com/r/learnprogramming/wiki/online#wiki_python
 https://www.reddit.com/r/learnpython/comments/53z5p4/how_to_start_learning_python_the_complete_guide
 https://www.reddit.com/r/learnpython/comments/609p5x/selftaught_people_how_did_you_learn_python
@@ -446,6 +447,7 @@ https://www.reddit.com/r/netsec/wiki/start
 https://www.reddit.com/r/netsecstudents/top/?sort=top&t=all
 https://xapax.github.io/blog/2017/01/14/OSCP.html
 https://www.reddit.com/r/netsec+privacy+SocialEngineering+onions+ReverseEngineering+crypto+blackhat+security+Malware+pwned+netsecstudents+computerforensics+HackBloc+securityCTF+xss+vrd+rootkit+REMath
+https://room362.com/start/
 
 Offensive Computer Security Spring 2014 Homepage Florida State University
 http://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity
@@ -510,6 +512,7 @@ http://www.bookadvice.co
 http://www.dev-books.com (The most mentioned books on Stack Overflow)
 https://news.ycombinator.com/item?id=13597949 (The most mentioned books on Stack Overflow)
 https://opentrackers.org/downloading-ebooks-textbooks
+https://www.amazon.com/charts
 https://www.reddit.com/r/AskReddit/comments/34m5n6/reddit_what_are_some_must_read_books
 https://www.reddit.com/r/Piracy/comments/6583hl/piracy_megathread_v20
 
@@ -721,6 +724,7 @@ https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#-48.5,-680.3,0
 https://news.ycombinator.com/item?id=13574916 (Ask HN: What are some 'must watch' talks?)
 https://news.ycombinator.com/item?id=14087880 (Ask HN: What are some great “Free” services provided by IBM, Amazon, etc.?)
 https://news.ycombinator.com/item?id=14169760 (Resources on creating programming languages)
+https://news.ycombinator.com/item?id=14378536 (Ask HN: Which websites do you visit?)
 https://www.reddit.com/r/AskReddit/comments/4q91g9/what_free_things_online_should_everyone_take/d4r8foy
 https://www.reddit.com/r/sysadmin/comments/4oxxgv/your_favorite_scripts_you_have_stolen_or_made
 https://cse.google.com/cse/publicurl?cx=013208504250323700475:mqurmsvnc8k (Google Custom Search Engine for Sharjeel's Bookmarks)
