@@ -129,6 +129,11 @@ https://www.amazon.com/gp/product/1848000693
 Steven Skiena Dept. of Computer Science Stony Brook University Video Lectures
 http://www3.cs.stonybrook.edu/~algorith/video-lectures
 
+Additional Material:
+
+Introduction to Algorithms, 3rd Edition
+https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844
+
 Mathematics for Computer Science:
 
 Sources:
@@ -267,6 +272,9 @@ https://docs.microsoft.com/en-us/windows-server/windows-server-2016
 
 Windows Server Courses from Microsoft Virtual Academy
 https://mva.microsoft.com/LearningPaths.aspx
+
+Windows Internals, Part 1: System architecture, processes, threads, memory management, and more (7th Edition)
+https://www.amazon.com/Windows-Internals-Part-architecture-management/dp/0735684189
 
 Powershell:
 
@@ -716,7 +724,7 @@ Chess:
 
 https://pinboard.in/u:sharjeelsayed/t:chess
 
-Sources :
+Additional Sources :
 
 https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer
 https://learnxinyminutes.com
