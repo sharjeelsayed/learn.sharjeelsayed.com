@@ -121,7 +121,8 @@ Alogrithms and Data Structures:
 Sources:
 https://www.reddit.com/r/algorithms
 https://www.reddit.com/r/compsci/comments/1kcal2/algorithims_everyone_should_know
-https://www.reddit.com/r/learnprogramming/comments/379vwn/visually_learning_algorithms/
+https://www.reddit.com/r/learnprogramming/comments/379vwn/visually_learning_algorithms
+https://github.com/karan/Projects
 
 The Algorithm Design Manual 2nd Edition
 https://www.amazon.com/gp/product/1848000693
@@ -645,6 +646,9 @@ https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034
 
 The Power Broker: Robert Moses and the Fall of New York
 https://www.amazon.com/Power-Broker-Robert-Moses-Fall/dp/0394720245
+
+Zero to One: Notes on Start Ups, or How to Build the Future
+https://www.amazon.com/Zero-One-Notes-Start-Future-ebook/dp/B00KHX0II4
 
 Money:
 
