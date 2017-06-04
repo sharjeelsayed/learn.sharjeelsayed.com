@@ -440,6 +440,9 @@ Git:
 Pro Git
 https://git-scm.com/book/en/v2
 
+Learn Git in 20 Minutes
+https://youtu.be/Y9XZQO1n_7c
+
 Vim:
 
 Practical Vim: Edit Text at the Speed of Thought , 2nd Edition
@@ -519,6 +522,7 @@ http://ramiro.org/vis/hn-most-linked-books-unique-users
 http://www.bookadvice.co
 http://www.dev-books.com (The most mentioned books on Stack Overflow)
 https://news.ycombinator.com/item?id=13597949 (The most mentioned books on Stack Overflow)
+https://news.ycombinator.com/item?id=14477851 (Ask HN: Books you wish you had read earlier?)
 https://opentrackers.org/downloading-ebooks-textbooks
 https://www.amazon.com/charts
 https://www.reddit.com/r/AskReddit/comments/34m5n6/reddit_what_are_some_must_read_books
