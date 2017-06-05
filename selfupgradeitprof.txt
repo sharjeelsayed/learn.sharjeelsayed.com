@@ -108,7 +108,7 @@ https://www.youtube.com/playlist?list=PLE18841CABEA24090
 
 Computer Science 61A, 001 - Spring 2011
 https://www.youtube.com/playlist?list=PL3E89002AA9B9879E (Removed)
-https://archive.org/details/ComputerScience61A001Spring2012
+https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E?sort=titleSorter
 
 Computer Architecture:
 
@@ -117,7 +117,7 @@ https://www.amazon.com/Elements-Computing-Systems-Building-Principles/dp/0262640
 
 Computer Science 61C, UCBerkeley 001 - Spring 2015 Youtube
 https://www.youtube.com/playlist?list=PL-XXv-cvA_iCl2-D-FS5mk0jFF6cYSJs_ (Removed)
-https://archive.org/details/ComputerScience61C001Fall2011
+https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iCl2-D-FS5mk0jFF6cYSJs_?sort=titleSorter
 
 Alogrithms and Data Structures:
 
@@ -211,7 +211,8 @@ Architecture of a Database System
 http://db.cs.berkeley.edu/papers/fntdb07-architecture.pdf
 
 Computer Science 186, 001 - Spring 2015 UCBerkeley Introduction to Database Systems - Joseph Hellerstein
-https://www.youtube.com/playlist?list=PL-XXv-cvA_iBVK2QzAV-R7NMA1ZkaiR2y
+https://www.youtube.com/playlist?list=PL-XXv-cvA_iBVK2QzAV-R7NMA1ZkaiR2y (Removed)
+https://archive.org/details/UCBerkeley_Course_Computer_Science_186 
 
 Database Design for Mere Mortals: A Hands-On Guide to Relational Database Design (3rd Edition)
 https://www.amazon.com/Database-Design-Mere-Mortals-Hands/dp/0321884493
@@ -559,14 +560,15 @@ https://www.reddit.com/r/learnprogramming/wiki/online
 https://www.reddit.com/r/sysadmin/comments/65u70f/sysadmins_what_are_some_good_it_youtube_channels
 https://www.reddit.com/r/sysadmin/comments/65wdum/whats_your_favorite_selfstudy_resource_paid_free
 
-https://www.coursera.org/browse/computer-science
-https://www.edx.org/course/subject/computer-science
-https://www.udacity.com/courses/all
+https://archive.org/search.php?query=subject%3A%22UC+Berkeley%22
+https://hackr.io
 https://www.class-central.com/subject/cs
 https://www.coursebuffet.com/sub/computer-science
+https://www.coursera.org/browse/computer-science
 https://www.cybrary.it
+https://www.edx.org/course/subject/computer-science
 https://www.freecodecamp.com
-https://hackr.io
+https://www.udacity.com/courses/all
 
 Interview Guides:
 
