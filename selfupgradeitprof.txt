@@ -93,6 +93,7 @@ https://github.com/braydie/HowToBeAProgrammer
 https://github.com/Michael0x2a/curated-programming-resources
 https://news.ycombinator.com/item?id=12718102 (Programming books you might want to consider reading)
 https://news.ycombinator.com/item?id=13918465 (Beautiful Online SICP)
+https://news.ycombinator.com/item?id=14486657 (Ask HN: What language-agnostic programming books should I read?)
 https://www.reddit.com/r/learnprogramming/wiki/books
 https://www.reddit.com/r/learnprogramming/wiki/faq
 https://www.reddit.com/r/learnprogramming/wiki/online
@@ -106,7 +107,8 @@ https://www.youtube.com/playlist?list=PL7BcsI5ueSNFPCEisbaoQ0kXIDX9rR5FF
 https://www.youtube.com/playlist?list=PLE18841CABEA24090
 
 Computer Science 61A, 001 - Spring 2011
-https://www.youtube.com/playlist?list=PL3E89002AA9B9879E
+https://www.youtube.com/playlist?list=PL3E89002AA9B9879E (Removed)
+https://archive.org/details/ComputerScience61A001Spring2012
 
 Computer Architecture:
 
@@ -114,7 +116,8 @@ The Elements of Computing Systems: Building a Modern Computer from First Princip
 https://www.amazon.com/Elements-Computing-Systems-Building-Principles/dp/0262640686
 
 Computer Science 61C, UCBerkeley 001 - Spring 2015 Youtube
-https://www.youtube.com/playlist?list=PL-XXv-cvA_iCl2-D-FS5mk0jFF6cYSJs_
+https://www.youtube.com/playlist?list=PL-XXv-cvA_iCl2-D-FS5mk0jFF6cYSJs_ (Removed)
+https://archive.org/details/ComputerScience61C001Fall2011
 
 Alogrithms and Data Structures:
 
@@ -159,7 +162,8 @@ Operating Systems: Three Easy Pieces
 http://pages.cs.wisc.edu/~remzi/OSTEP
 
 Computer Science 162, 001 - Spring 2015. Operating Systems and System Programming - John Kubiatowicz UCBerkeley
-https://www.youtube.com/playlist?list=PL-XXv-cvA_iBDyz-ba4yDskqMDY6A1w_c
+https://www.youtube.com/playlist?list=PL-XXv-cvA_iBDyz-ba4yDskqMDY6A1w_c (Removed)
+https://archive.org/details/ComputerScience162001Spring2012
 
 Additional Material:
 
@@ -735,6 +739,7 @@ https://pinboard.in/u:sharjeelsayed/t:chess
 Additional Sources :
 
 https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer
+https://learn-anything.xyz
 https://learnxinyminutes.com
 https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#-48.5,-680.3,0
 https://news.ycombinator.com/item?id=13574916 (Ask HN: What are some 'must watch' talks?)
