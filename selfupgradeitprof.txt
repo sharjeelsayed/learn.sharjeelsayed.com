@@ -212,7 +212,7 @@ http://db.cs.berkeley.edu/papers/fntdb07-architecture.pdf
 
 Computer Science 186, 001 - Spring 2015 UCBerkeley Introduction to Database Systems - Joseph Hellerstein
 https://www.youtube.com/playlist?list=PL-XXv-cvA_iBVK2QzAV-R7NMA1ZkaiR2y (Removed)
-https://archive.org/details/UCBerkeley_Course_Computer_Science_186 
+https://archive.org/details/UCBerkeley_Course_Computer_Science_186
 
 Database Design for Mere Mortals: A Hands-On Guide to Relational Database Design (3rd Edition)
 https://www.amazon.com/Database-Design-Mere-Mortals-Hands/dp/0321884493
