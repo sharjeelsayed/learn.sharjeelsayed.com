@@ -74,6 +74,7 @@ Sources:
 http://blog.agupieware.com/2014/06/online-learning-intensive-bachelors.html
 https://begriffs.com/posts/2017-04-13-longterm-computing-reading.html
 https://cs50.harvard.edu
+https://github.com/nushackers/notes-to-cs-freshmen-from-the-future
 https://github.com/open-source-society/computer-science
 https://news.ycombinator.com/item?id=13014900 (	Ask HN: What are the bibles of Computer Science?)
 https://news.ycombinator.com/item?id=13406638 (Ask HN: What's the best computer science book you've read recently?)
@@ -91,6 +92,7 @@ Sources:
 http://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read
 https://github.com/braydie/HowToBeAProgrammer
 https://github.com/Michael0x2a/curated-programming-resources
+https://github.com/sdmg15/Best-websites-a-programmer-should-visit
 https://news.ycombinator.com/item?id=12718102 (Programming books you might want to consider reading)
 https://news.ycombinator.com/item?id=13918465 (Beautiful Online SICP)
 https://news.ycombinator.com/item?id=14486657 (Ask HN: What language-agnostic programming books should I read?)
@@ -122,10 +124,11 @@ https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iCl2-D-FS5mk0jFF6cYSJs
 Alogrithms and Data Structures:
 
 Sources:
+https://github.com/karan/Projects
+https://projecteuler.net
 https://www.reddit.com/r/algorithms
 https://www.reddit.com/r/compsci/comments/1kcal2/algorithims_everyone_should_know
 https://www.reddit.com/r/learnprogramming/comments/379vwn/visually_learning_algorithms
-https://github.com/karan/Projects
 
 The Algorithm Design Manual 2nd Edition
 https://www.amazon.com/gp/product/1848000693
@@ -213,6 +216,9 @@ http://db.cs.berkeley.edu/papers/fntdb07-architecture.pdf
 Computer Science 186, 001 - Spring 2015 UCBerkeley Introduction to Database Systems - Joseph Hellerstein
 https://www.youtube.com/playlist?list=PL-XXv-cvA_iBVK2QzAV-R7NMA1ZkaiR2y (Removed)
 https://archive.org/details/UCBerkeley_Course_Computer_Science_186
+
+Stanford OpenEdx: DB: Introduction to Databases
+https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about
 
 Database Design for Mere Mortals: A Hands-On Guide to Relational Database Design (3rd Edition)
 https://www.amazon.com/Database-Design-Mere-Mortals-Hands/dp/0321884493
@@ -553,6 +559,7 @@ Sources:
 https://github.com/Developer-Y/cs-video-courses
 https://github.com/prakhar1989/awesome-courses
 https://github.com/sindresorhus/awesome
+https://medium.freecodecamp.com/free-online-courses-cs-programming-june-2017-96a4207bb182
 https://news.ycombinator.com/item?id=10644518 (Ask HN: What's your favorite online course?)
 https://news.ycombinator.com/item?id=12702651 (	Ask HN: What is your favorite YouTube channel for developers?)
 https://news.ycombinator.com/item?id=13867016 (Ask HN: Which Berkeley Courses Should I Archive?)
@@ -634,9 +641,13 @@ https://news.ycombinator.com/item?id=13207268 (Ask HN: How do I get freelance de
 https://news.ycombinator.com/item?id=14146850 (Ask HN: Best business advice for software developers)
 https://news.ycombinator.com/item?id=14279870 (Ask HN: Should I create a clone of a popular SaaS with rock-bottom pricing?)
 https://news.ycombinator.com/item?id=14316349 (Ask HN: Freelance Management Services/Apps)
+https://www.reddit.com/r/cscareerquestions/comments/6fnujy/soft_skills_for_programmers
 
 Site Reliability Engineering: How Google Runs Production Systems
 https://www.amazon.com/Site-Reliability-Engineering-Production-Systems/dp/149192912X
+
+The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win
+https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262509
 
 The Practice of System and Network Administration: Volume 1: DevOps and other Best Practices for Enterprise IT (3rd Edition)
 https://www.amazon.com/dp/0321919165
@@ -741,6 +752,7 @@ https://pinboard.in/u:sharjeelsayed/t:chess
 Additional Sources :
 
 https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer
+https://github.com/jnv/lists
 https://learn-anything.xyz
 https://learnxinyminutes.com
 https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#-48.5,-680.3,0
