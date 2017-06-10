@@ -109,16 +109,18 @@ https://www.youtube.com/playlist?list=PL7BcsI5ueSNFPCEisbaoQ0kXIDX9rR5FF
 https://www.youtube.com/playlist?list=PLE18841CABEA24090
 
 Computer Science 61A, 001 - Spring 2011
-https://www.youtube.com/playlist?list=PL3E89002AA9B9879E (Removed)
 https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E?sort=titleSorter
 
 Computer Architecture:
 
 The Elements of Computing Systems: Building a Modern Computer from First Principles
 https://www.amazon.com/Elements-Computing-Systems-Building-Principles/dp/0262640686
+http://www.nand2tetris.org
 
-Computer Science 61C, UCBerkeley 001 - Spring 2015 Youtube
-https://www.youtube.com/playlist?list=PL-XXv-cvA_iCl2-D-FS5mk0jFF6cYSJs_ (Removed)
+Computer Organization and Design MIPS Edition, Fifth Edition
+https://www.amazon.com/gp/product/0124077269
+
+Computer Science 61C, UCBerkeley 001 - Spring 2015
 https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iCl2-D-FS5mk0jFF6cYSJs_?sort=titleSorter
 
 Alogrithms and Data Structures:
@@ -165,7 +167,6 @@ Operating Systems: Three Easy Pieces
 http://pages.cs.wisc.edu/~remzi/OSTEP
 
 Computer Science 162, 001 - Spring 2015. Operating Systems and System Programming - John Kubiatowicz UCBerkeley
-https://www.youtube.com/playlist?list=PL-XXv-cvA_iBDyz-ba4yDskqMDY6A1w_c (Removed)
 https://archive.org/details/ComputerScience162001Spring2012
 
 Additional Material:
@@ -214,7 +215,6 @@ Architecture of a Database System
 http://db.cs.berkeley.edu/papers/fntdb07-architecture.pdf
 
 Computer Science 186, 001 - Spring 2015 UCBerkeley Introduction to Database Systems - Joseph Hellerstein
-https://www.youtube.com/playlist?list=PL-XXv-cvA_iBVK2QzAV-R7NMA1ZkaiR2y (Removed)
 https://archive.org/details/UCBerkeley_Course_Computer_Science_186
 
 Stanford OpenEdx: DB: Introduction to Databases
