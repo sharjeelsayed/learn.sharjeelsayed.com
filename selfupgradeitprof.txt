@@ -113,6 +113,9 @@ https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E?sort=titleSort
 
 Computer Architecture:
 
+Sources:
+https://news.ycombinator.com/item?id=14526344 (Build a Modern Computer from First Principles: Nand to Tetris Part II)
+
 The Elements of Computing Systems: Building a Modern Computer from First Principles
 https://www.amazon.com/Elements-Computing-Systems-Building-Principles/dp/0262640686
 http://www.nand2tetris.org
@@ -499,6 +502,9 @@ Electronics:
 The Art of Electronics 3rd Edition
 https://www.amazon.com/Art-Electronics-Paul-Horowitz/dp/0521809266
 
+6.002.1x "Circuits and Electronics 1: Basic Circuit Analysis" Based on 6.002 MIT Course
+https://courses.edx.org/courses/course-v1:MITx+6.002.1x_1+2T2016/info
+
 Science:
 
 What If?: Serious Scientific Answers to Absurd Hypothetical Questions
@@ -732,7 +738,9 @@ Sources:
 https://news.ycombinator.com/item?id=13747563 (Ask HN: What are your favorite tech podcasts?)
 https://news.ycombinator.com/item?id=14086259 (Ask HN: Mailing lists that HN readers ought to know about?)
 https://news.ycombinator.com/item?id=14163905 (Ask HN: Which companies have the best blogs written by their engineering team?)
+https://news.ycombinator.com/item?id=14529759 (Ask HN: What podcasts are you listening to?)
 https://news.ycombinator.com/item?id=9207360 (Ask HN: Favorite podcasts?)
+https://news.ycombinator.com/item?id=9836023 (Ask HN: What tech blogs, podcasts do you follow outside of HN?)
 https://podcastrank.co
 https://twitter.com/SharjeelSayed
 
