@@ -759,6 +759,7 @@ https://pinboard.in/u:sharjeelsayed/t:chess
 
 Additional Sources :
 
+http://www.hnfavorites.com
 https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer
 https://github.com/jnv/lists
 https://learn-anything.xyz
