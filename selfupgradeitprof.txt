@@ -781,8 +781,3 @@ https://pinboard.in/u:sharjeelsayed/t:sharjeelsayed
 https://www.goodreads.com/user/show/36136296-sharjeel-sayed
 https://www.reddit.com/user/sharjeelsayed/upvoted
 https://www.youtube.com/user/sayedsharjeel
-
-Miscellaneous:
-Kafka
-node.js
-nftables https://developers.redhat.com/blog/2016/10/28/what-comes-after-iptables-its-successor-of-course-nftables/
