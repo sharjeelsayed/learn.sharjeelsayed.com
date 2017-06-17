@@ -96,6 +96,7 @@ https://github.com/sdmg15/Best-websites-a-programmer-should-visit
 https://news.ycombinator.com/item?id=12718102 (Programming books you might want to consider reading)
 https://news.ycombinator.com/item?id=13918465 (Beautiful Online SICP)
 https://news.ycombinator.com/item?id=14486657 (Ask HN: What language-agnostic programming books should I read?)
+https://www.reddit.com/r/cscareerquestions/comments/6hmlxr/what_are_the_most_indemand_software_skills_right/dizqiie/
 https://www.reddit.com/r/learnprogramming/wiki/books
 https://www.reddit.com/r/learnprogramming/wiki/faq
 https://www.reddit.com/r/learnprogramming/wiki/online
@@ -586,6 +587,7 @@ https://www.udacity.com/courses/all
 Interview Guides:
 
 Sources:
+http://blog.interviewing.io/what-really-matters-in-technical-interviews-we-analyzed-thousands-of-interviews-on-everything-from-language-to-code-style-heres-what-we-found
 https://news.ycombinator.com/item?id=14037313 (Questions to ask at the end of a technical interview)
 https://news.ycombinator.com/item?id=14218559 (How to talk about yourself in a developer interview)
 https://pinboard.in/u:sharjeelsayed/t:cheatsheet
@@ -779,3 +781,8 @@ https://pinboard.in/u:sharjeelsayed/t:sharjeelsayed
 https://www.goodreads.com/user/show/36136296-sharjeel-sayed
 https://www.reddit.com/user/sharjeelsayed/upvoted
 https://www.youtube.com/user/sayedsharjeel
+
+Miscellaneous:
+Kafka
+node.js
+nftables https://developers.redhat.com/blog/2016/10/28/what-comes-after-iptables-its-successor-of-course-nftables/
