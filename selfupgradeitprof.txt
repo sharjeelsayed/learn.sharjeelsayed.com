@@ -151,6 +151,7 @@ Mathematics for Computer Science:
 
 Sources:
 https://news.ycombinator.com/item?id=14161876 (Calculus Made Easy (1914))
+https://news.ycombinator.com/item?id=14581273 (	Georgia Tech's free math textbook collective)
 
 Lecture notes by László Lovász
 http://www.cs.elte.hu/~lovasz/dmbook.ps
@@ -186,6 +187,7 @@ Networking :
 Sources:
 https://news.ycombinator.com/item?id=13983212 (Beej's Guide to Network Programming)
 https://www.reddit.com/r/sysadmin/comments/4ux166/do_you_know_a_site_to_learn_more_about_networking
+https://github.com/mininet/mininet/wiki/Teaching-and-Learning-with-Mininet
 
 Computer Networking: A Top-Down Approach (7th Edition)
 https://www.amazon.com/Computer-Networking-Top-Down-Approach-7th/dp/0133594149
@@ -570,6 +572,7 @@ https://medium.freecodecamp.com/free-online-courses-cs-programming-june-2017-96a
 https://news.ycombinator.com/item?id=10644518 (Ask HN: What's your favorite online course?)
 https://news.ycombinator.com/item?id=12702651 (	Ask HN: What is your favorite YouTube channel for developers?)
 https://news.ycombinator.com/item?id=13867016 (Ask HN: Which Berkeley Courses Should I Archive?)
+https://news.ycombinator.com/item?id=14570002 (Startup School 2017 Presentations (startupschool.org))
 https://www.reddit.com/r/learnprogramming/wiki/online
 https://www.reddit.com/r/sysadmin/comments/65u70f/sysadmins_what_are_some_good_it_youtube_channels
 https://www.reddit.com/r/sysadmin/comments/65wdum/whats_your_favorite_selfstudy_resource_paid_free
@@ -646,9 +649,11 @@ Management:
 Sources:
 https://news.ycombinator.com/item?id=11209066 (Why you probably don't need an MBA )
 https://news.ycombinator.com/item?id=13207268 (Ask HN: How do I get freelance developer jobs?)
+https://news.ycombinator.com/item?id=13855577 (Ask HN: What do you use to align your daily todos with your long term goals?)
 https://news.ycombinator.com/item?id=14146850 (Ask HN: Best business advice for software developers)
 https://news.ycombinator.com/item?id=14279870 (Ask HN: Should I create a clone of a popular SaaS with rock-bottom pricing?)
 https://news.ycombinator.com/item?id=14316349 (Ask HN: Freelance Management Services/Apps)
+https://news.ycombinator.com/item?id=14569154 (Ask HN: Where to find co-developers for side projects?)
 https://www.reddit.com/r/cscareerquestions/comments/6fnujy/soft_skills_for_programmers
 
 Site Reliability Engineering: How Google Runs Production Systems
@@ -674,6 +679,9 @@ https://www.amazon.com/Power-Broker-Robert-Moses-Fall/dp/0394720245
 
 Zero to One: Notes on Start Ups, or How to Build the Future
 https://www.amazon.com/Zero-One-Notes-Start-Future-ebook/dp/B00KHX0II4
+
+Startup School is a free 10-week massively open online course (MOOC)
+https://www.startupschool.org
 
 Money:
 
