@@ -80,6 +80,7 @@ https://itunes.apple.com/us/course/id1191487593 (This is CS50 2016)
 https://news.ycombinator.com/item?id=13014900 (	Ask HN: What are the bibles of Computer Science?)
 https://news.ycombinator.com/item?id=13406638 (Ask HN: What's the best computer science book you've read recently?)
 https://news.ycombinator.com/item?id=13862284 (Teach Yourself Computer Science)
+https://news.ycombinator.com/item?id=5019373 (How Harvard's CS50 Renewed My Hope For Online Education)
 https://www.amazon.com/Best-Sellers-Books-Computer-Science/zgbs/books/468204
 https://www.google.com/about/careers/students/guide-to-technical-development.html
 https://www.reddit.com/r/compsci/comments/20vbaw/what_book_made_you_a_better_computer_scientist
