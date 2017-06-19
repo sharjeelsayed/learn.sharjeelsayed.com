@@ -76,7 +76,6 @@ http://cdn.cs50.net/guide/guide-15.pdf (Unofficial Guide to CS at Harvard)
 https://begriffs.com/posts/2017-04-13-longterm-computing-reading.html
 https://github.com/nushackers/notes-to-cs-freshmen-from-the-future
 https://github.com/open-source-society/computer-science
-https://itunes.apple.com/us/course/id1191487593 (This is CS50 2016)
 https://news.ycombinator.com/item?id=13014900 (	Ask HN: What are the bibles of Computer Science?)
 https://news.ycombinator.com/item?id=13406638 (Ask HN: What's the best computer science book you've read recently?)
 https://news.ycombinator.com/item?id=13862284 (Teach Yourself Computer Science)
@@ -103,6 +102,10 @@ https://www.reddit.com/r/learnprogramming/wiki/books
 https://www.reddit.com/r/learnprogramming/wiki/faq
 https://www.reddit.com/r/learnprogramming/wiki/online
 
+CS50 Introduction to Computer Science Harvard University
+https://www.edx.org/course/introduction-computer-science-harvardx-cs50x
+https://itunes.apple.com/us/course/id1191487593
+
 Structure and Interpretation of Computer Programs - 2nd Edition
 https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-4.html
 http://sarabander.github.io/sicp
@@ -110,9 +113,6 @@ http://www.composingprograms.com
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/index.htm
 https://www.youtube.com/playlist?list=PL7BcsI5ueSNFPCEisbaoQ0kXIDX9rR5FF
 https://www.youtube.com/playlist?list=PLE18841CABEA24090
-
-CS50 Introduction to Computer Science Harvard University
-https://www.edx.org/course/introduction-computer-science-harvardx-cs50x
 
 Computer Science 61A, UCBerkeley 001 - Spring 2011
 https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E?sort=titleSorter
