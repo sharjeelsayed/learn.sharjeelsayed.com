@@ -72,10 +72,11 @@ Computer Science:
 
 Sources:
 http://blog.agupieware.com/2014/06/online-learning-intensive-bachelors.html
+http://cdn.cs50.net/guide/guide-15.pdf (Unofficial Guide to CS at Harvard)
 https://begriffs.com/posts/2017-04-13-longterm-computing-reading.html
-https://cs50.harvard.edu
 https://github.com/nushackers/notes-to-cs-freshmen-from-the-future
 https://github.com/open-source-society/computer-science
+https://itunes.apple.com/us/course/id1191487593 (This is CS50 2016)
 https://news.ycombinator.com/item?id=13014900 (	Ask HN: What are the bibles of Computer Science?)
 https://news.ycombinator.com/item?id=13406638 (Ask HN: What's the best computer science book you've read recently?)
 https://news.ycombinator.com/item?id=13862284 (Teach Yourself Computer Science)
@@ -109,7 +110,10 @@ https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-st
 https://www.youtube.com/playlist?list=PL7BcsI5ueSNFPCEisbaoQ0kXIDX9rR5FF
 https://www.youtube.com/playlist?list=PLE18841CABEA24090
 
-Computer Science 61A, 001 - Spring 2011
+CS50 (Computer Science 50) is an on-campus and online introductory course on computer science from Harvard and, as of 2015, Yale Universities.
+https://cs50.harvard.edu
+
+Computer Science 61A, UCBerkeley 001 - Spring 2011
 https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E?sort=titleSorter
 
 Computer Architecture:
