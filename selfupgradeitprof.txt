@@ -110,8 +110,8 @@ https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-st
 https://www.youtube.com/playlist?list=PL7BcsI5ueSNFPCEisbaoQ0kXIDX9rR5FF
 https://www.youtube.com/playlist?list=PLE18841CABEA24090
 
-CS50 (Computer Science 50) is an on-campus and online introductory course on computer science from Harvard and, as of 2015, Yale Universities.
-https://cs50.harvard.edu
+CS50 Introduction to Computer Science Harvard University
+https://www.edx.org/course/introduction-computer-science-harvardx-cs50x
 
 Computer Science 61A, UCBerkeley 001 - Spring 2011
 https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E?sort=titleSorter
