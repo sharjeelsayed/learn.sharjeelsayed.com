@@ -86,6 +86,7 @@ https://www.reddit.com/r/compsci/comments/20vbaw/what_book_made_you_a_better_com
 https://www.reddit.com/r/compsci/comments/40mq3q/what_are_the_canon_books_in_computer_science
 https://www.reddit.com/r/cscareerquestions/comments/5bsg82/whats_the_single_most_useful_csrelated_link_you
 https://www.scotthyoung.com/blog/myprojects/mit-challenge-2
+https://www.udacity.com/course/intro-to-computer-science--cs101
 
 Programming Concepts:
 
@@ -105,6 +106,9 @@ https://www.reddit.com/r/learnprogramming/wiki/online
 CS50 Introduction to Computer Science Harvard University
 https://www.edx.org/course/introduction-computer-science-harvardx-cs50x
 https://itunes.apple.com/us/course/id1191487593
+
+Introduction to Computer Science and Programming Using Python MIT
+https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10#!
 
 Structure and Interpretation of Computer Programs - 2nd Edition
 https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-4.html
@@ -603,6 +607,7 @@ https://pinboard.in/u:sharjeelsayed/t:ebooks
 https://pinboard.in/u:sharjeelsayed/t:interview
 https://pinboard.in/u:sharjeelsayed/t:jobs
 https://www.reddit.com/r/cscareerquestions/comments/4ce2s3/resource_interview_questions_my_massive
+https://www.reddit.com/r/cscareerquestions/wiki/index
 
 Linux System Administrator/DevOps Interview Questions
 https://github.com/chassing/linux-sysadmin-interview-questions
