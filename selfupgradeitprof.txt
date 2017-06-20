@@ -103,11 +103,11 @@ https://www.reddit.com/r/learnprogramming/wiki/books
 https://www.reddit.com/r/learnprogramming/wiki/faq
 https://www.reddit.com/r/learnprogramming/wiki/online
 
-CS50 Introduction to Computer Science Harvard University
+CS50 Introduction to Computer Science , Harvard University
 https://www.edx.org/course/introduction-computer-science-harvardx-cs50x
 https://itunes.apple.com/us/course/id1191487593
 
-Introduction to Computer Science and Programming Using Python MIT
+Introduction to Computer Science and Programming Using Python , MIT
 https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10#!
 
 Structure and Interpretation of Computer Programs - 2nd Edition
@@ -436,6 +436,9 @@ Learn Python the Hard Way
 https://learnpythonthehardway.org/book
 
 C:
+
+Sources:
+https://stackoverflow.com/questions/562303/the-definitive-c-book-guide-and-list
 
 The C Programming Language 2nd Edition
 http://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628
@@ -791,6 +794,7 @@ https://news.ycombinator.com/item?id=14169760 (Resources on creating programming
 https://news.ycombinator.com/item?id=14378536 (Ask HN: Which websites do you visit?)
 https://www.reddit.com/r/AskReddit/comments/4q91g9/what_free_things_online_should_everyone_take/d4r8foy
 https://www.reddit.com/r/sysadmin/comments/4oxxgv/your_favorite_scripts_you_have_stolen_or_made
+https://bubblehunt.com/@sharjeelsayed
 https://cse.google.com/cse/publicurl?cx=013208504250323700475:mqurmsvnc8k (Google Custom Search Engine for Sharjeel's Bookmarks)
 https://github.com/sharjeelsayed?direction=desc&sort=stars&tab=stars
 https://news.ycombinator.com/favorites?id=sharjeelsayed
