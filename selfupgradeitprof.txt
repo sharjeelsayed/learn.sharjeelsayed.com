@@ -86,7 +86,6 @@ https://www.reddit.com/r/compsci/comments/20vbaw/what_book_made_you_a_better_com
 https://www.reddit.com/r/compsci/comments/40mq3q/what_are_the_canon_books_in_computer_science
 https://www.reddit.com/r/cscareerquestions/comments/5bsg82/whats_the_single_most_useful_csrelated_link_you
 https://www.scotthyoung.com/blog/myprojects/mit-challenge-2
-https://www.udacity.com/course/intro-to-computer-science--cs101
 
 Programming Concepts:
 
@@ -98,10 +97,12 @@ https://github.com/sdmg15/Best-websites-a-programmer-should-visit
 https://news.ycombinator.com/item?id=12718102 (Programming books you might want to consider reading)
 https://news.ycombinator.com/item?id=13918465 (Beautiful Online SICP)
 https://news.ycombinator.com/item?id=14486657 (Ask HN: What language-agnostic programming books should I read?)
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/index.htm
 https://www.reddit.com/r/cscareerquestions/comments/6hmlxr/what_are_the_most_indemand_software_skills_right/dizqiie/
 https://www.reddit.com/r/learnprogramming/wiki/books
 https://www.reddit.com/r/learnprogramming/wiki/faq
 https://www.reddit.com/r/learnprogramming/wiki/online
+https://www.udacity.com/course/intro-to-computer-science--cs101
 
 CS50 Introduction to Computer Science , Harvard University
 https://www.edx.org/course/introduction-computer-science-harvardx-cs50x
