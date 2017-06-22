@@ -652,8 +652,11 @@ Sources:
 https://news.ycombinator.com/item?id=5325012 (Show HN: Increase your productivity with ambient noise (coffitivity.com))
 https://pinboard.in/u:sharjeelsayed/t:music+study
 
-soma fm 's Groove Salad Channel
-http://somafm.com/groovesalad
+soma fm 's Drone Zone Channel
+https://somafm.com/dronezone
+
+Ambeint Music:Studying by Apple Music
+https://itunes.apple.com/in/playlist/ambient-music-studying/idpl.572ed2f13c9c493ea5f303108742b13c
 
 Headphones:
 
@@ -802,6 +805,7 @@ https://news.ycombinator.com/item?id=14169760 (Resources on creating programming
 https://news.ycombinator.com/item?id=14378536 (Ask HN: Which websites do you visit?)
 https://www.reddit.com/r/AskReddit/comments/4q91g9/what_free_things_online_should_everyone_take/d4r8foy
 https://www.reddit.com/r/sysadmin/comments/4oxxgv/your_favorite_scripts_you_have_stolen_or_made
+https://www.theodinproject.com/
 https://bubblehunt.com/@sharjeelsayed
 https://cse.google.com/cse/publicurl?cx=013208504250323700475:mqurmsvnc8k (Google Custom Search Engine for Sharjeel's Bookmarks)
 https://github.com/sharjeelsayed?direction=desc&sort=stars&tab=stars
