@@ -94,6 +94,7 @@ http://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book
 https://github.com/braydie/HowToBeAProgrammer
 https://github.com/Michael0x2a/curated-programming-resources
 https://github.com/sdmg15/Best-websites-a-programmer-should-visit
+https://news.ycombinator.com/item?id=11465234 (	Composing Programs – Python 3 in the tradition of SICP)
 https://news.ycombinator.com/item?id=12718102 (Programming books you might want to consider reading)
 https://news.ycombinator.com/item?id=13918465 (Beautiful Online SICP)
 https://news.ycombinator.com/item?id=14486657 (Ask HN: What language-agnostic programming books should I read?)
@@ -112,9 +113,12 @@ Introduction to Computer Science and Programming Using Python , MIT
 https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10#!
 
 Structure and Interpretation of Computer Programs - 2nd Edition
-https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-4.html
+http://inst.eecs.berkeley.edu/~cs61a/fa16
+http://inst.eecs.berkeley.edu/~cs61a/sp17
 http://sarabander.github.io/sicp
 http://www.composingprograms.com
+https://cs61a.org
+https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-4.html
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/index.htm
 https://www.youtube.com/playlist?list=PL7BcsI5ueSNFPCEisbaoQ0kXIDX9rR5FF
 https://www.youtube.com/playlist?list=PLE18841CABEA24090
@@ -166,7 +170,7 @@ https://news.ycombinator.com/item?id=14581273 (	Georgia Tech's free math textboo
 Lecture notes by László Lovász
 http://www.cs.elte.hu/~lovasz/dmbook.ps
 
-Mathematics for Computer Science
+Mathematics for Computer Science , MIT
 https://courses.csail.mit.edu/6.042/spring17/mcs.pdf
 https://www.youtube.com/playlist?list=PLUl4u3cNGP60UlabZBeeqOuoLuj_KNphQ (MIT 6.042J Mathematics for Computer Science, Spring 2015 YouTube)
 
