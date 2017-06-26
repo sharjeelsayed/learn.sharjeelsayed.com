@@ -98,6 +98,7 @@ https://news.ycombinator.com/item?id=11465234 (	Composing Programs – Python 3 
 https://news.ycombinator.com/item?id=12718102 (Programming books you might want to consider reading)
 https://news.ycombinator.com/item?id=13918465 (Beautiful Online SICP)
 https://news.ycombinator.com/item?id=14486657 (Ask HN: What language-agnostic programming books should I read?)
+https://news.ycombinator.com/item?id=14627137 (CS61A Structure and Interpretation of Computer Programs)
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/index.htm
 https://www.reddit.com/r/cscareerquestions/comments/6hmlxr/what_are_the_most_indemand_software_skills_right/dizqiie/
 https://www.reddit.com/r/learnprogramming/wiki/books
@@ -291,11 +292,17 @@ http://www.amazon.com/Power-Tools-Third-Shelley-Powers/dp/0596003307
 
 Bash:
 
+Sources:
+https://news.ycombinator.com/item?id=14634964 (Ask HN: How can I get better at bash?)
+
 ABS Guide
 http://tldp.org/LDP/abs/html
 
 All commands sorted by votes | commandlinefu.com
 http://www.commandlinefu.com/commands/browse/sort-by-votes
+
+HackerRank Bash Challenges
+https://www.hackerrank.com/domains/shell/bash
 
 Windows:
 
@@ -650,6 +657,9 @@ https://www.glassdoor.com/Interview/index.htm
 LeetCode
 https://leetcode.com
 
+HackerRank
+https://www.hackerrank.com
+
 Ambient Music:
 
 Sources:
@@ -796,7 +806,6 @@ Chess:
 https://pinboard.in/u:sharjeelsayed/t:chess
 
 Additional Sources :
-
 http://www.hnfavorites.com
 https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer
 https://github.com/jnv/lists
@@ -804,14 +813,16 @@ https://hn.algolia.com
 https://learn-anything.xyz
 https://learnxinyminutes.com
 https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#-48.5,-680.3,0
+https://news.ycombinator.com/item?id=12209446 (How to Read a Book [pdf])
 https://news.ycombinator.com/item?id=13574916 (Ask HN: What are some 'must watch' talks?)
 https://news.ycombinator.com/item?id=14087880 (Ask HN: What are some great “Free” services provided by IBM, Amazon, etc.?)
 https://news.ycombinator.com/item?id=14169760 (Resources on creating programming languages)
 https://news.ycombinator.com/item?id=14378536 (Ask HN: Which websites do you visit?)
+https://news.ycombinator.com/item?id=14637859 (Ask HN: What's your process for learning?)
+https://www.coursera.org/learn/learning-how-to-learn
 https://www.reddit.com/r/AskReddit/comments/4q91g9/what_free_things_online_should_everyone_take/d4r8foy
 https://www.reddit.com/r/sysadmin/comments/4oxxgv/your_favorite_scripts_you_have_stolen_or_made
 https://www.theodinproject.com
-https://bubblehunt.com/@sharjeelsayed
 https://cse.google.com/cse/publicurl?cx=013208504250323700475:mqurmsvnc8k (Google Custom Search Engine for Sharjeel's Bookmarks)
 https://github.com/sharjeelsayed?direction=desc&sort=stars&tab=stars
 https://news.ycombinator.com/favorites?id=sharjeelsayed
