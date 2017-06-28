@@ -250,6 +250,7 @@ Sources:
 http://findlectures.com/?p=1&class1=Technology&category_l2_Technology=-DevOps
 http://serverfault.com/questions/1046/what-is-the-single-most-influential-book-every-sysadmin-should-read
 https://github.com/AcalephStorage/awesome-devops
+https://github.com/dastergon/awesome-sre
 https://github.com/Leo-G/DevopsWiki
 https://learn-anything.xyz/programming/software-development/devops
 https://news.ycombinator.com/item?id=14153545 (What Is ‘Site Reliability Engineering’?)
@@ -689,6 +690,7 @@ Career:
 Management:
 
 Sources:
+http://sabok.org (Guide to the Systems Administration Body of Knowledge)
 https://news.ycombinator.com/item?id=11209066 (Why you probably don't need an MBA )
 https://news.ycombinator.com/item?id=13207268 (Ask HN: How do I get freelance developer jobs?)
 https://news.ycombinator.com/item?id=13855577 (Ask HN: What do you use to align your daily todos with your long term goals?)
