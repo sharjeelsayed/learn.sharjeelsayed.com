@@ -704,6 +704,9 @@ https://www.amazon.com/Site-Reliability-Engineering-Production-Systems/dp/149192
 The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win
 https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262509
 
+The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations
+https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002
+
 The Practice of System and Network Administration: Volume 1: DevOps and other Best Practices for Enterprise IT (3rd Edition)
 https://www.amazon.com/dp/0321919165
 
