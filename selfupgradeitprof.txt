@@ -523,6 +523,14 @@ https://news.ycombinator.com/item?id=14123394
 Professor Messer’s CompTIA 220-901 and 220-902 A+ Training Videos
 http://www.professormesser.com/free-a-plus-training/220-901/comptia-220-900-course
 
+Additional:
+
+Modern Microprocessors A 90-Minute Guide! A brief, pulls-no-punches, fast-paced introduction to the main design aspects of modern processor microarchitecture
+http://www.lighterra.com/papers/modernmicroprocessors/
+
+Computer Architecture, Fifth Edition: A Quantitative Approach (The Morgan Kaufmann Series in Computer Architecture and Design) 5th Edition
+https://www.amazon.com/Computer-Architecture-Fifth-Quantitative-Approach/dp/012383872X
+
 Microsoft Excel:
 
 Sources:
