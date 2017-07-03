@@ -658,6 +658,9 @@ https://github.com/jwasham/coding-interview-university
 Cracking the Coding Interview: 189 Programming Questions and Solutions
 https://www.amazon.com/Cracking-Coding-Interview-6th-Programming/dp/0984782850
 
+Elements of Programming Interviews in Python: The Insiders' Guide
+https://www.amazon.com/Elements-Programming-Interviews-Python-Insiders/dp/1537713949
+
 Company Interview Corner - GeeksforGeeks
 http://www.geeksforgeeks.org/company-interview-corner
 
@@ -680,7 +683,7 @@ https://news.ycombinator.com/item?id=5325012 (Show HN: Increase your productivit
 https://pinboard.in/u:sharjeelsayed/t:music+study
 
 soma fm 's Drone Zone Channel
-https://somafm.com/dronezone
+http://somafm.com/player/#/now-playing/dronezone
 
 Ambeint Music:Studying by Apple Music
 https://itunes.apple.com/in/playlist/ambient-music-studying/idpl.572ed2f13c9c493ea5f303108742b13c
@@ -756,6 +759,9 @@ The Intelligent Investor
 https://www.amazon.com/Intelligent-Investor-Definitive-Investing-Essentials/dp/0060555661
 
 Job Portals:
+
+Sources:
+https://news.ycombinator.com/item?id=14686745 (Ask HN: What are some of the best job boards you have seen (any industry)?)
 
 https://www.linkedin.com/jobs
 https://www.naukri.com
