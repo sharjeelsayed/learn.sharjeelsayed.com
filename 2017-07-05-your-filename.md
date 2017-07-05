@@ -1,6 +1,6 @@
 **Curated Self Study Guide for Computer Science and DevOps/SRE/SysAdmin**  
    
- Updated copy of this page is at http://Learn.SharjeelSayed.com . Google Search this page and the linked content at http://Search.SharjeelSayed.com  
+_Updated copy of this page is at http://Learn.SharjeelSayed.com . Google Search this page and the linked content at http://Search.SharjeelSayed.com_
    
  **Contents:**  
    
