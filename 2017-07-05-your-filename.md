@@ -90,7 +90,7 @@ _Updated copy of this page is at http://Learn.SharjeelSayed.com . Google Search 
  https://www.reddit.com/r/learnprogramming/comments/69x0bp/teach_yourself_computer_science  
  https://www.scotthyoung.com/blog/myprojects/mit-challenge-2  
    
- Programming Concepts:  
+ # Programming Concepts:  
    
  Sources:  
  http://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read  
