@@ -212,9 +212,11 @@ https://www.amazon.com/dp/013359162X
 Networking :
 
 Sources:
-https://news.ycombinator.com/item?id=13983212 (Beej's Guide to Network Programming)
-https://www.reddit.com/r/sysadmin/comments/4ux166/do_you_know_a_site_to_learn_more_about_networking
 https://github.com/mininet/mininet/wiki/Teaching-and-Learning-with-Mininet
+https://github.com/saminiir/level-ip
+https://news.ycombinator.com/item?id=13983212 (Beej's Guide to Network Programming)
+https://news.ycombinator.com/item?id=14701199 (Let's Code a TCP/IP Stack: TCP Retransmission (saminiir.com))
+https://www.reddit.com/r/sysadmin/comments/4ux166/do_you_know_a_site_to_learn_more_about_networking
 
 Computer Networking: A Top-Down Approach (7th Edition)
 https://www.amazon.com/Computer-Networking-Top-Down-Approach-7th/dp/0133594149
@@ -591,6 +593,7 @@ https://opentrackers.org/downloading-ebooks-textbooks
 https://www.amazon.com/charts
 https://www.reddit.com/r/AskReddit/comments/34m5n6/reddit_what_are_some_must_read_books
 https://www.reddit.com/r/Piracy/comments/6583hl/piracy_megathread_v20
+https://www.reddit.com/r/Piracy/comments/6ldvos/hard_to_find_ebooks
 
 http://libgen.io
 https://torrentz2.eu
@@ -601,6 +604,7 @@ https://cse.google.com/cse/publicurl?cx=001639227550064093264:dznewka3cca (Googl
 http://b-ok.org
 http://freebookspot.es
 https://avxhm.se
+https://www.myanonamouse.net
 http://findlectures.com
 https://github.com/vhf/free-programming-books
 irc://irc.undernet.org/bookz
@@ -616,11 +620,12 @@ Sources:
 https://github.com/Developer-Y/cs-video-courses
 https://github.com/prakhar1989/awesome-courses
 https://github.com/sindresorhus/awesome
-https://medium.freecodecamp.com/free-online-courses-cs-programming-june-2017-96a4207bb182
+https://medium.freecodecamp.org/a-massive-list-of-free-online-course-providers-from-around-the-world-925766226f46
 https://news.ycombinator.com/item?id=10644518 (Ask HN: What's your favorite online course?)
 https://news.ycombinator.com/item?id=12702651 (	Ask HN: What is your favorite YouTube channel for developers?)
 https://news.ycombinator.com/item?id=13867016 (Ask HN: Which Berkeley Courses Should I Archive?)
 https://news.ycombinator.com/item?id=14570002 (Startup School 2017 Presentations (startupschool.org))
+https://www.class-central.com/collection/top-free-online-courses?utm_source=top-50-course-page
 https://www.reddit.com/r/learnprogramming/wiki/online
 https://www.reddit.com/r/sysadmin/comments/65u70f/sysadmins_what_are_some_good_it_youtube_channels
 https://www.reddit.com/r/sysadmin/comments/65wdum/whats_your_favorite_selfstudy_resource_paid_free
