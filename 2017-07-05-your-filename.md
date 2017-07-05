@@ -4,7 +4,7 @@ _Updated copy of this page is at http://Learn.SharjeelSayed.com . Google Search 
    
  **Contents:**  
    
- - **Computer Science:** 
+ - [**Computer Science:** ](#computer-science)
 -  Programming Concepts  
 -  Computer Architecture  
 -  Alogrithms and Data Structures  
@@ -68,7 +68,7 @@ _Updated copy of this page is at http://Learn.SharjeelSayed.com . Google Search 
 -  Foreign Language  
 -  Chess
    
- Computer Science:  
+ # Computer Science:  
    
  Sources:  
  http://blog.agupieware.com/2014/06/online-learning-intensive-bachelors.html  
