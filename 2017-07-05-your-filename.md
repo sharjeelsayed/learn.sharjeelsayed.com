@@ -5,7 +5,7 @@ _Updated copy of this page is at http://Learn.SharjeelSayed.com . Google Search 
  **Contents:**  
    
  - [**Computer Science:** ](#computer-science)
--  Programming Concepts  
+-  [Programming Concepts  ](#programming-concepts)
 -  Computer Architecture  
 -  Alogrithms and Data Structures  
 -  Mathematics for Computer Science  
