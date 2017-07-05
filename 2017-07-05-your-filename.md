@@ -1,0 +1,882 @@
+**Curated Self Study Guide for Computer Science and DevOps/SRE/SysAdmin**  
+   
+ Updated copy of this page is at http://Learn.SharjeelSayed.com . Google Search this page and the linked content at http://Search.SharjeelSayed.com  
+   
+ **Contents:**  
+   
+ - **Computer Science:** 
+-  Programming Concepts  
+-  Computer Architecture  
+-  Alogrithms and Data Structures  
+-  Mathematics for Computer Science  
+-  Operating Systems Concepts  
+-  Networking  
+-  Database Concepts
+  
+ - **DevOps/SRE/SysAdmin:**  
+-  Linux  
+-  Bash  
+-  Windows  
+-  Powershell  
+-  Storage  
+-  Docker  
+-  Kubernetes  
+-  VMware  
+-  Data Center  
+-  AWS  
+-  NginX  
+-  Apache  
+-  IIS  
+-  HAProxy  
+-  Postfix  
+-  djbdns  
+-  SQL  
+-  MySQL  
+-  PostgreSQL  
+-  Ansible  
+-  Python  
+-  C  
+-  Java  
+-  Tomcat  
+-  Regex  
+-  Git  
+-  Vim  
+-  ELK  
+-  Security  
+-  Hardware  
+-  Microsoft Excel  
+-  Electronics  
+-  Science  
+-  Design
+  
+ - **Study Tools:**  
+-  Ebooks  
+-  MOOC  
+-  Interview Guides  
+-  Ambient Music  
+-  Headphones
+   
+ - **Career:**
+-  Management  
+-  Money  
+-  Job Portals  
+-  Job Search Engines  
+-  Company and Salary Reviews  
+-  Freelancer  
+-  Resume Improvement  
+-  News  
+-  Foreign Language  
+-  Chess
+   
+ Computer Science:  
+   
+ Sources:  
+ http://blog.agupieware.com/2014/06/online-learning-intensive-bachelors.html  
+ http://cdn.cs50.net/guide/guide-15.pdf (Unofficial Guide to CS at Harvard)  
+ http://matt.might.net/articles/what-cs-majors-should-know  
+ https://begriffs.com/posts/2017-04-13-longterm-computing-reading.html  
+ https://github.com/nushackers/notes-to-cs-freshmen-from-the-future  
+ https://github.com/open-source-society/computer-science  
+ https://news.ycombinator.com/item?id=13014900 (	Ask HN: What are the bibles of Computer Science?)  
+ https://news.ycombinator.com/item?id=13406638 (Ask HN: What's the best computer science book you've read recently?)  
+ https://news.ycombinator.com/item?id=13862284 (Teach Yourself Computer Science)  
+ https://news.ycombinator.com/item?id=5019373 (How Harvard's CS50 Renewed My Hope For Online Education)  
+ https://spin.atomicobject.com/2015/05/15/obtaining-thorough-cs-background-online/  
+ https://www.amazon.com/Best-Sellers-Books-Computer-Science/zgbs/books/468204  
+ https://www.google.com/about/careers/students/guide-to-technical-development.html  
+ https://www.reddit.com/r/compsci/comments/20vbaw/what_book_made_you_a_better_computer_scientist  
+ https://www.reddit.com/r/compsci/comments/40mq3q/what_are_the_canon_books_in_computer_science  
+ https://www.reddit.com/r/cscareerquestions/comments/5bsg82/whats_the_single_most_useful_csrelated_link_you  
+ https://www.reddit.com/r/learnprogramming/comments/69x0bp/teach_yourself_computer_science  
+ https://www.scotthyoung.com/blog/myprojects/mit-challenge-2  
+   
+ Programming Concepts:  
+   
+ Sources:  
+ http://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read  
+ https://github.com/braydie/HowToBeAProgrammer  
+ https://github.com/Michael0x2a/curated-programming-resources  
+ https://github.com/sdmg15/Best-websites-a-programmer-should-visit  
+ https://news.ycombinator.com/item?id=11465234 (	Composing Programs – Python 3 in the tradition of SICP)  
+ https://news.ycombinator.com/item?id=12718102 (Programming books you might want to consider reading)  
+ https://news.ycombinator.com/item?id=13918465 (Beautiful Online SICP)  
+ https://news.ycombinator.com/item?id=14486657 (Ask HN: What language-agnostic programming books should I read?)  
+ https://news.ycombinator.com/item?id=14627137 (CS61A Structure and Interpretation of Computer Programs)  
+ https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/index.htm  
+ https://www.reddit.com/r/cscareerquestions/comments/6hmlxr/what_are_the_most_indemand_software_skills_right/dizqiie/  
+ https://www.reddit.com/r/learnprogramming/comments/6l5u8s/what_one_thing_improved_your_skills_the_most  
+ https://www.reddit.com/r/learnprogramming/wiki/books  
+ https://www.reddit.com/r/learnprogramming/wiki/faq  
+ https://www.reddit.com/r/learnprogramming/wiki/online  
+ https://www.udacity.com/course/intro-to-computer-science--cs101  
+   
+ CS50 Introduction to Computer Science , Harvard University  
+ https://www.edx.org/course/introduction-computer-science-harvardx-cs50x  
+ https://itunes.apple.com/us/course/id1191487593  
+   
+ Introduction to Computer Science and Programming Using Python , MIT  
+ https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10#!  
+   
+ Structure and Interpretation of Computer Programs - 2nd Edition  
+ http://inst.eecs.berkeley.edu/~cs61a/fa16  
+ http://inst.eecs.berkeley.edu/~cs61a/sp17  
+ http://sarabander.github.io/sicp  
+ http://www.composingprograms.com  
+ https://cs61a.org  
+ https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-4.html  
+ https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/index.htm  
+ https://www.youtube.com/playlist?list=PL7BcsI5ueSNFPCEisbaoQ0kXIDX9rR5FF  
+ https://www.youtube.com/playlist?list=PLE18841CABEA24090  
+   
+ Computer Science 61A, UCBerkeley 001 - Spring 2011  
+ https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E?sort=titleSorter  
+   
+ Computer Architecture:  
+   
+ Sources:  
+ https://news.ycombinator.com/item?id=14526344 (Build a Modern Computer from First Principles: Nand to Tetris Part II)  
+   
+ The Elements of Computing Systems: Building a Modern Computer from First Principles  
+ https://www.amazon.com/Elements-Computing-Systems-Building-Principles/dp/0262640686  
+ http://www.nand2tetris.org  
+   
+ Computer Organization and Design MIPS Edition, Fifth Edition  
+ https://www.amazon.com/gp/product/0124077269  
+   
+ Computer Science 61C, UCBerkeley 001 - Spring 2015  
+ https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iCl2-D-FS5mk0jFF6cYSJs_?sort=titleSorter  
+   
+ Additional:  
+   
+ Modern Microprocessors A 90-Minute Guide! A brief, pulls-no-punches, fast-paced introduction to the main design aspects of modern processor microarchitecture  
+ http://www.lighterra.com/papers/modernmicroprocessors/  
+   
+ Computer Architecture, Fifth Edition: A Quantitative Approach (The Morgan Kaufmann Series in Computer Architecture and Design) 5th Edition  
+ https://www.amazon.com/Computer-Architecture-Fifth-Quantitative-Approach/dp/012383872X  
+   
+ Alogrithms and Data Structures:  
+   
+ Sources:  
+ https://github.com/karan/Projects  
+ https://projecteuler.net  
+ https://www.reddit.com/r/algorithms  
+ https://www.reddit.com/r/compsci/comments/1kcal2/algorithims_everyone_should_know  
+ https://www.reddit.com/r/learnprogramming/comments/379vwn/visually_learning_algorithms  
+   
+ The Algorithm Design Manual 2nd Edition  
+ https://www.amazon.com/gp/product/1848000693  
+   
+ Steven Skiena Dept. of Computer Science Stony Brook University Video Lectures  
+ http://www3.cs.stonybrook.edu/~algorith/video-lectures  
+   
+ Additional Material:  
+   
+ Introduction to Algorithms, 3rd Edition  
+ https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844  
+   
+ Mathematics for Computer Science:  
+   
+ Sources:  
+ https://news.ycombinator.com/item?id=14161876 (Calculus Made Easy (1914))  
+ https://news.ycombinator.com/item?id=14581273 (	Georgia Tech's free math textbook collective)  
+   
+ Lecture notes by László Lovász  
+ http://www.cs.elte.hu/~lovasz/dmbook.ps  
+   
+ Mathematics for Computer Science , MIT  
+ https://courses.csail.mit.edu/6.042/spring17/mcs.pdf  
+ https://www.youtube.com/playlist?list=PLUl4u3cNGP60UlabZBeeqOuoLuj_KNphQ (MIT 6.042J Mathematics for Computer Science, Spring 2015 YouTube)  
+   
+ Essence of linear algebra  
+ https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab  
+   
+ Introduction to Linear Algebra, Fifth Edition  
+ https://www.amazon.com/Introduction-Linear-Algebra-Gilbert-Strang/dp/0980232775  
+   
+ Operating Systems Concepts:  
+   
+ Operating Systems: Three Easy Pieces  
+ http://pages.cs.wisc.edu/~remzi/OSTEP  
+   
+ Computer Science 162, 001 - Spring 2015. Operating Systems and System Programming - John Kubiatowicz UCBerkeley  
+ https://archive.org/details/ComputerScience162001Spring2012  
+   
+ Additional Material:  
+   
+ Operating System Concepts , 9th Edition  
+ https://www.amazon.com/dp/1118063333  
+   
+ Modern Operating Systems , 4th Edition  
+ https://www.amazon.com/dp/013359162X  
+   
+ Networking :  
+   
+ Sources:  
+ https://news.ycombinator.com/item?id=13983212 (Beej's Guide to Network Programming)  
+ https://www.reddit.com/r/sysadmin/comments/4ux166/do_you_know_a_site_to_learn_more_about_networking  
+ https://github.com/mininet/mininet/wiki/Teaching-and-Learning-with-Mininet  
+   
+ Computer Networking: A Top-Down Approach (7th Edition)  
+ https://www.amazon.com/Computer-Networking-Top-Down-Approach-7th/dp/0133594149  
+ https://fastpiratebay.co.uk/torrent/11060421/computer_networking_a_top-down_approach_lecture (Lecture Videos based on the book)  
+   
+ CS144 Introduction to Computer Networking Stanford University  
+ https://suclass.stanford.edu/courses/course-v1:Engineering+CS144+Fall2016/courseware/ac9d1eef5aaa4bb5bcfe4d42f51f0f5b/c5c384e648cf404c837d05497c6e36b0  
+   
+ Beej's Guide to Network Programming  
+ http://beej.us/guide/bgnet  
+   
+ Unix Network Programming, Volume 1: The Sockets Networking API (3rd Edition)  
+ https://www.amazon.com/Unix-Network-Programming-Sockets-Networking/dp/0131411551  
+   
+ Additional Material:  
+   
+ Eli The Computer Guy Youtube  
+ https://www.youtube.com/playlist?list=PLF360ED1082F6F2A5  
+   
+ Load Balancing Servers, Firewalls, and Caches  
+ http://www.amazon.com/Load-Balancing-Servers-Firewalls-Caches/dp/0471415502  
+   
+ Database Concepts:  
+   
+ Sources:  
+ http://stackoverflow.com/questions/718282/best-books-in-database-design-and-optimization  
+ https://news.ycombinator.com/item?id=13417326 (Ask HN: What is the best online resource to learn advanced SQL?)  
+ https://pinboard.in/u:sharjeelsayed/t:db  
+   
+ Architecture of a Database System  
+ http://db.cs.berkeley.edu/papers/fntdb07-architecture.pdf  
+   
+ Computer Science 186, 001 - Spring 2015 UCBerkeley Introduction to Database Systems - Joseph Hellerstein  
+ https://archive.org/details/UCBerkeley_Course_Computer_Science_186  
+   
+ Stanford OpenEdx: DB: Introduction to Databases  
+ https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about  
+   
+ Database Design for Mere Mortals: A Hands-On Guide to Relational Database Design (3rd Edition)  
+ https://www.amazon.com/Database-Design-Mere-Mortals-Hands/dp/0321884493  
+   
+ DevOps/SRE/SysAdmin:  
+   
+ Sources:  
+ http://findlectures.com/?p=1&class1=Technology&category_l2_Technology=-DevOps  
+ http://serverfault.com/questions/1046/what-is-the-single-most-influential-book-every-sysadmin-should-read  
+ https://github.com/AcalephStorage/awesome-devops  
+ https://github.com/dastergon/awesome-sre  
+ https://github.com/Leo-G/DevopsWiki  
+ https://learn-anything.xyz/programming/software-development/devops  
+ https://news.ycombinator.com/item?id=14153545 (What Is ‘Site Reliability Engineering’?)  
+ https://news.ycombinator.com/item?id=14652993 (Ask HN: DevOps learning resources)  
+ https://www.reddit.com/r/homelab/wiki/software  
+ https://www.reddit.com/r/linuxadmin/comments/65vb8s/advice_if_you_are_wanting_to_go_into_devops  
+ https://www.reddit.com/r/sysadmin/wiki/bootcamp  
+ https://www.reddit.com/r/sysadmin/wiki/learn  
+   
+ Linux:  
+   
+ Sources :  
+ http://stackoverflow.com/questions/143184/which-book-would-you-recommend-for-a-linux-sysadmin  
+ http://stackoverflow.com/questions/236838/what-are-good-linuxunix-books-for-an-advancing-user  
+ http://stackoverflow.com/questions/851980/linux-programming-book  
+ https://news.ycombinator.com/item?id=3257393 (What's the one Linux command you wish you knew years ago?)  
+ https://www.reddit.com/r/linuxadmin/comments/2s924h/how_did_you_get_your_start/cnnw1ma  
+   
+ UNIX and Linux System Administration Handbook (4th Edition)  
+ http://www.amazon.com/UNIX-Linux-System-Administration-Handbook/dp/0131480057  
+   
+ How Linux Works: What Every Superuser Should Know Second Edition  
+ http://www.amazon.com/How-Linux-Works-Superuser-Should/dp/1593275676  
+   
+ RHCSA & RHCE Red Hat Enterprise Linux 7: Training and Exam Preparation Guide (EX200 and EX300), Third Edition  
+ http://www.amazon.com/RHCSA-RHCE-Red-Enterprise-Linux/dp/1495148203  
+   
+ Additional Material:  
+   
+ The Complete Red Hat Linux Course: Beginner to RHCSA!  
+ https://youtu.be/uXD-Nuguhzc  
+   
+ Linux From Scratch!  
+ http://www.linuxfromscratch.org/index.html  
+   
+ Build yourself a Linux  
+ https://github.com/MichielDerhaeg/build-linux  
+   
+ The Linux Programming Interface: A Linux and UNIX System Programming Handbook  
+ https://www.amazon.com/Linux-Programming-Interface-System-Handbook/dp/1593272200  
+   
+ Unix Power Tools,Third Edition  
+ http://www.amazon.com/Power-Tools-Third-Shelley-Powers/dp/0596003307  
+   
+ Bash:  
+   
+ Sources:  
+ https://news.ycombinator.com/item?id=14634964 (Ask HN: How can I get better at bash?)  
+   
+ ABS Guide  
+ http://tldp.org/LDP/abs/html  
+   
+ All commands sorted by votes | commandlinefu.com  
+ http://www.commandlinefu.com/commands/browse/sort-by-votes  
+   
+ HackerRank Bash Challenges  
+ https://www.hackerrank.com/domains/shell/bash  
+   
+ Windows:  
+   
+ Windows Server 2016 - TechNet - Microsoft  
+ https://docs.microsoft.com/en-us/windows-server/windows-server-2016  
+   
+ Windows Server Courses from Microsoft Virtual Academy  
+ https://mva.microsoft.com/LearningPaths.aspx  
+   
+ Windows Internals, Part 1: System architecture, processes, threads, memory management, and more (7th Edition)  
+ https://www.amazon.com/Windows-Internals-Part-architecture-management/dp/0735684189  
+   
+ Powershell:  
+   
+ Learn Windows PowerShell in a Month of Lunches 3rd Edition  
+ https://www.amazon.com/Learn-Windows-PowerShell-Month-Lunches/dp/1617294160  
+ https://www.youtube.com/playlist?list=PL6D474E721138865A  
+   
+ Storage:  
+   
+ Data Storage Networking: Real World Skills for the CompTIA Storage+ Certification and Beyond 1st Edition  
+ https://www.amazon.com/Data-Storage-Networking-CompTIA-Certification/dp/1118679210  
+   
+ Docker:  
+   
+ Docker for Beginners  
+ https://prakhar.me/docker-curriculum  
+   
+ Kubernetes  
+   
+ An Introduction to Kubernetes  
+ https://www.digitalocean.com/community/tutorials/an-introduction-to-kubernetes  
+   
+ Kubernetes official tutorials  
+ https://github.com/kubernetes/kubernetes  
+   
+ VMware:  
+   
+ CBT Nuggets VMware vSphere 6  
+ https://fastpiratebay.co.uk/torrent/13449737/CBT_Nuggets_VMware_vSphere_6  
+   
+ Mastering VMware vSphere 6 1st Edition  
+ https://www.amazon.com/Mastering-VMware-vSphere-Nick-Marshall/dp/1118925157  
+   
+ Data Center:  
+   
+ Data Center Fundamentals  
+ http://www.amazon.com/Data-Center-Fundamentals-Mauricio-Arregoces/dp/1587050234  
+   
+ AWS:  
+   
+ Amazon Web Services in Action 1st Edition  
+ https://www.amazon.com/Amazon-Services-Action-Andreas-Wittig/dp/1617292885  
+   
+ NGINX:  
+   
+ NGINX documentation  
+ http://nginx.org/en/docs/  
+   
+ NGINX HTTP Server - Third Edition  
+ https://www.amazon.com/Nginx-HTTP-Server-Clement-Nedelcu-ebook/dp/B016DPU3JS  
+   
+ Apache:  
+   
+ Apache HTTP Server Documentation  
+ http://httpd.apache.org/docs  
+   
+ IIS  
+   
+ IIS 10.0 - The Official Microsoft IIS Site  
+ https://www.iis.net/learn/get-started/whats-new-in-iis-10  
+   
+ HAProxy:  
+   
+ Load Balancing with HAProxy  
+ https://www.amazon.com/Load-Balancing-HAProxy-availability-infrastructure/dp/1519073844  
+   
+ https://www.digitalocean.com/community/tutorials/an-introduction-to-haproxy-and-load-balancing-concepts  
+   
+ Postfix:  
+   
+ The Book of Postfix: State-of-the-Art Message Transport  
+ http://www.amazon.com/Book-Postfix-State---Art-Transport/dp/1593270011  
+   
+ djbdns:  
+   
+ http://cr.yp.to/djbdns.html  
+   
+ SQL:  
+   
+ Stanford DB5 Course on SQL  
+ https://lagunita.stanford.edu/courses/DB/SQL/SelfPaced/about  
+   
+ http://sqlzoo.net  
+   
+ https://www.sqlteaching.com  
+   
+ https://www.w3schools.com/sql/default.asp  
+   
+ MySQL:  
+   
+ https://dev.mysql.com/doc/refman/5.7/en  
+   
+ SQL Server:  
+   
+ https://docs.microsoft.com/en-us/sql/sql-server/sql-server-technical-documentation  
+   
+ PostgreSQL:  
+   
+ https://www.postgresql.org/docs/9.3/static/index.html  
+ https://pgexercises.com  
+   
+ Ansible:  
+   
+ Ansible for DevOps  
+ https://leanpub.com/ansible-for-devops  
+   
+ Ansible Videos  
+ https://www.ansible.com/videos  
+   
+ Python:  
+   
+ Sources:  
+ http://pybit.es/python-resources.html  
+ https://www.reddit.com/r/learnprogramming/comments/6bxdut/python_for_beginners_complete_series/  
+ https://www.reddit.com/r/learnprogramming/wiki/online#wiki_python  
+ https://www.reddit.com/r/learnpython/comments/53z5p4/how_to_start_learning_python_the_complete_guide  
+ https://www.reddit.com/r/learnpython/comments/609p5x/selftaught_people_how_did_you_learn_python  
+ https://www.reddit.com/r/learnpython/top  
+ https://www.reddit.com/r/learnpython/wiki/index  
+ https://www.reddit.com/r/Python/  
+   
+ The Python Tutorial  
+ http://docs.python.org/py3k/tutorial/index.html  
+   
+ A Gentle Introduction to Programming Using Python  
+ https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011  
+   
+ Automate the Boring Stuff with Python  
+ https://automatetheboringstuff.com  
+   
+ Learn Python the Hard Way  
+ https://learnpythonthehardway.org/book  
+   
+ C:  
+   
+ Sources:  
+ https://stackoverflow.com/questions/562303/the-definitive-c-book-guide-and-list  
+   
+ The C Programming Language 2nd Edition  
+ http://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628  
+   
+ Java:  
+   
+ Sources:  
+ http://stackoverflow.com/questions/2482639/which-is-the-best-book-for-learning-java-servlets-and-jsp  
+ http://stackoverflow.com/questions/75102/best-java-book-you-have-read-so-far  
+ https://www.reddit.com/r/learnprogramming/wiki/online#wiki_java  
+   
+ Head First Java 2nd Edition  
+ http://www.amazon.com/Head-First-Java-Kathy-Sierra/dp/0596009208  
+   
+ Murach's Java Servlets and JSP  
+ http://www.amazon.com/Murachs-Java-Servlets-JSP-2nd/dp/1890774448  
+   
+ Tomcat  
+ Tomcat: The Definitive Guide  
+ http://www.amazon.com/Tomcat-Definitive-Guide-Jason-Brittain/dp/0596101066  
+   
+ Regex:  
+   
+ Regular Expressions Cookbook: Detailed Solutions in Eight Programming Languages 2nd Edition  
+ https://www.amazon.com/Regular-Expressions-Cookbook-Solutions-Programming/dp/1449319432  
+   
+ Git:  
+   
+ Pro Git  
+ https://git-scm.com/book/en/v2  
+   
+ Learn Git in 20 Minutes  
+ https://youtu.be/Y9XZQO1n_7c  
+   
+ Vim:  
+   
+ Practical Vim: Edit Text at the Speed of Thought , 2nd Edition  
+ https://www.amazon.com/Practical-Vim-Edit-Speed-Thought/dp/1680501275  
+   
+ ELK  
+ https://www.elastic.co/guide/index.html  
+   
+ Security  
+   
+ Sources:  
+ https://www.reddit.com/r/netsec/wiki/start  
+ https://www.reddit.com/r/netsecstudents/top/?sort=top&t=all  
+ https://xapax.github.io/blog/2017/01/14/OSCP.html  
+ https://www.reddit.com/r/netsec+privacy+SocialEngineering+onions+ReverseEngineering+crypto+blackhat+security+Malware+pwned+netsecstudents+computerforensics+HackBloc+securityCTF+xss+vrd+rootkit+REMath  
+ https://room362.com/start/  
+   
+ Offensive Computer Security Spring 2014 Homepage Florida State University  
+ http://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity  
+   
+ Offensive Security Certified Professional  
+ https://www.offensive-security.com/information-security-certifications/oscp-offensive-security-certified-professional  
+   
+ Hardware:  
+   
+ Sources:  
+ https://news.ycombinator.com/item?id=14123394  
+   
+ Professor Messer’s CompTIA 220-901 and 220-902 A+ Training Videos  
+ http://www.professormesser.com/free-a-plus-training/220-901/comptia-220-900-course  
+   
+ Microsoft Excel:  
+   
+ Sources:  
+ https://www.reddit.com/r/excel/comments/2e28s3/rexcel_advice_thread_repository  
+   
+ Excel 2016 Bible 1st Edition  
+ https://www.amazon.com/Excel-2016-Bible-John-Walkenbach/dp/1119067510  
+   
+ Electronics:  
+   
+ The Art of Electronics 3rd Edition  
+ https://www.amazon.com/Art-Electronics-Paul-Horowitz/dp/0521809266  
+   
+ 6.002.1x "Circuits and Electronics 1: Basic Circuit Analysis" Based on 6.002 MIT Course  
+ https://courses.edx.org/courses/course-v1:MITx+6.002.1x_1+2T2016/info  
+   
+ Science:  
+   
+ Sources:  
+ http://www.businessinsider.com/bill-gates-favorite-science-books-2017-6  
+   
+ What If?: Serious Scientific Answers to Absurd Hypothetical Questions  
+ https://www.amazon.com/What-If-Scientific-Hypothetical-Questions-ebook/dp/B00IYUYF4A  
+   
+ Thing Explainer: Complicated Stuff in Simple Words  
+ https://www.amazon.com/Thing-Explainer-Complicated-Stuff-Simple-ebook/dp/B00XJYVF44  
+   
+ The Selfish Gene  
+ https://www.amazon.com/Selfish-Gene-Anniversary-Landmark-Science/dp/0198788606  
+   
+ Design:  
+   
+ The Design of Everyday Things  
+ https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654  
+   
+ Study Tools:  
+   
+ Sources:  
+ http://www.flyingmachinestudios.com/programming/learn-programming-languages-efficiently  
+ https://80000hours.org/career-guide/how-to-be-successful  
+ https://alexvermeer.com/8760hours (8,760 Hours: How to get the most out of next year)  
+ https://collegeinfogeek.com/spaced-repetition-memory-technique  
+ https://news.ycombinator.com/item?id=14218408 (Ask HN: How do you keep improving?)  
+   
+ Ebooks:  
+   
+ Sources:  
+ http://booksreddit.com  
+ http://hackernewsbooks.com  
+ http://ramiro.org/vis/hn-most-linked-books-unique-users  
+ http://www.bookadvice.co  
+ http://www.dev-books.com (The most mentioned books on Stack Overflow)  
+ https://news.ycombinator.com/item?id=13597949 (The most mentioned books on Stack Overflow)  
+ https://news.ycombinator.com/item?id=14477851 (Ask HN: Books you wish you had read earlier?)  
+ https://opentrackers.org/downloading-ebooks-textbooks  
+ https://www.amazon.com/charts  
+ https://www.reddit.com/r/AskReddit/comments/34m5n6/reddit_what_are_some_must_read_books  
+ https://www.reddit.com/r/Piracy/comments/6583hl/piracy_megathread_v20  
+   
+ http://libgen.io  
+ https://torrentz2.eu  
+ http://torrentproject.se  
+ https://thepiratebay-proxylist.org  
+ https://cse.google.com/cse/publicurl?cx=011394183039475424659:5bfyqg89ers (Google Custom Search Engine for Ebooks)  
+ https://cse.google.com/cse/publicurl?cx=001639227550064093264:dznewka3cca (Google Custom Search Engine for Ebooks)  
+ http://findlectures.com  
+ https://github.com/vhf/free-programming-books  
+ https://pinboard.in/u:sharjeelsayed/t:course  
+ https://pinboard.in/u:sharjeelsayed/t:cs  
+ https://pinboard.in/u:sharjeelsayed/t:ebooks  
+ https://pinboard.in/u:sharjeelsayed/t:learn  
+   
+ MOOC:  
+   
+ Sources:  
+ https://github.com/Developer-Y/cs-video-courses  
+ https://github.com/prakhar1989/awesome-courses  
+ https://github.com/sindresorhus/awesome  
+ https://medium.freecodecamp.com/free-online-courses-cs-programming-june-2017-96a4207bb182  
+ https://news.ycombinator.com/item?id=10644518 (Ask HN: What's your favorite online course?)  
+ https://news.ycombinator.com/item?id=12702651 (	Ask HN: What is your favorite YouTube channel for developers?)  
+ https://news.ycombinator.com/item?id=13867016 (Ask HN: Which Berkeley Courses Should I Archive?)  
+ https://news.ycombinator.com/item?id=14570002 (Startup School 2017 Presentations (startupschool.org))  
+ https://www.reddit.com/r/learnprogramming/wiki/online  
+ https://www.reddit.com/r/sysadmin/comments/65u70f/sysadmins_what_are_some_good_it_youtube_channels  
+ https://www.reddit.com/r/sysadmin/comments/65wdum/whats_your_favorite_selfstudy_resource_paid_free  
+   
+ https://archive.org/search.php?query=subject%3A%22UC+Berkeley%22  
+ https://hackr.io  
+ https://www.class-central.com/subject/cs  
+ https://www.coursebuffet.com/sub/computer-science  
+ https://www.coursera.org/browse/computer-science  
+ https://www.cybrary.it  
+ https://www.edx.org/course/subject/computer-science  
+ https://www.freecodecamp.com  
+ https://www.udacity.com/courses/all  
+   
+ Interview Guides:  
+   
+ Sources:  
+ http://blog.interviewing.io/what-really-matters-in-technical-interviews-we-analyzed-thousands-of-interviews-on-everything-from-language-to-code-style-heres-what-we-found  
+ https://news.ycombinator.com/item?id=14037313 (Questions to ask at the end of a technical interview)  
+ https://news.ycombinator.com/item?id=14218559 (How to talk about yourself in a developer interview)  
+ https://pinboard.in/u:sharjeelsayed/t:cheatsheet  
+ https://pinboard.in/u:sharjeelsayed/t:interview  
+ https://pinboard.in/u:sharjeelsayed/t:jobs  
+ https://www.reddit.com/r/cscareerquestions/comments/4ce2s3/resource_interview_questions_my_massive  
+ https://www.reddit.com/r/cscareerquestions/wiki/index  
+   
+ Linux System Administrator/DevOps Interview Questions  
+ https://github.com/chassing/linux-sysadmin-interview-questions  
+   
+ The System Design Primer  
+ https://github.com/donnemartin/system-design-primer  
+   
+ Devops Interview Questions  
+ https://github.com/Leo-G/DevopsWiki/wiki/Devops-Interview-Questions  
+   
+ Awesome Interviews  
+ https://github.com/MaximAbramchuck/awesome-interview-questions  
+   
+ Coding Interview University  
+ https://github.com/jwasham/coding-interview-university  
+   
+ Cracking the Coding Interview: 189 Programming Questions and Solutions  
+ https://www.amazon.com/Cracking-Coding-Interview-6th-Programming/dp/0984782850  
+   
+ Elements of Programming Interviews in Python: The Insiders' Guide  
+ https://www.amazon.com/Elements-Programming-Interviews-Python-Insiders/dp/1537713949  
+   
+ Company Interview Corner - GeeksforGeeks  
+ http://www.geeksforgeeks.org/company-interview-corner  
+   
+ Technical Interview Questions | CareerCup  
+ https://www.careercup.com/categories  
+   
+ Search Interview Questions  
+ https://www.glassdoor.com/Interview/index.htm  
+   
+ LeetCode  
+ https://leetcode.com  
+   
+ HackerRank  
+ https://www.hackerrank.com  
+   
+ Ambient Music:  
+   
+ Sources:  
+ https://news.ycombinator.com/item?id=5325012 (Show HN: Increase your productivity with ambient noise (coffitivity.com))  
+ https://pinboard.in/u:sharjeelsayed/t:music+study  
+   
+ soma fm 's Drone Zone Channel  
+ http://somafm.com/player/#/now-playing/dronezone  
+   
+ Ambeint Music:Studying by Apple Music  
+ https://itunes.apple.com/in/playlist/ambient-music-studying/idpl.572ed2f13c9c493ea5f303108742b13c  
+   
+ Headphones:  
+   
+ The Best Noise-Cancelling Headphones  
+ http://thewirecutter.com/reviews/best-noise-cancelling-headphones  
+   
+ Amazon Best Sellers in Audio Headphones  
+ https://www.amazon.com/gp/bestsellers/electronics/172541  
+   
+ Career:  
+   
+ Management:  
+   
+ Sources:  
+ http://sabok.org (Guide to the Systems Administration Body of Knowledge)  
+ https://news.ycombinator.com/item?id=11209066 (Why you probably don't need an MBA )  
+ https://news.ycombinator.com/item?id=13207268 (Ask HN: How do I get freelance developer jobs?)  
+ https://news.ycombinator.com/item?id=13855577 (Ask HN: What do you use to align your daily todos with your long term goals?)  
+ https://news.ycombinator.com/item?id=14146850 (Ask HN: Best business advice for software developers)  
+ https://news.ycombinator.com/item?id=14279870 (Ask HN: Should I create a clone of a popular SaaS with rock-bottom pricing?)  
+ https://news.ycombinator.com/item?id=14316349 (Ask HN: Freelance Management Services/Apps)  
+ https://news.ycombinator.com/item?id=14569154 (Ask HN: Where to find co-developers for side projects?)  
+ https://news.ycombinator.com/item?id=14653564 (Ask HN: As an employee of a company, how do you assess its health?)  
+ https://www.reddit.com/r/cscareerquestions/comments/6fnujy/soft_skills_for_programmers  
+   
+ Site Reliability Engineering: How Google Runs Production Systems  
+ https://www.amazon.com/Site-Reliability-Engineering-Production-Systems/dp/149192912X  
+   
+ The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win  
+ https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262509  
+   
+ The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations  
+ https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002  
+   
+ The Practice of System and Network Administration: Volume 1: DevOps and other Best Practices for Enterprise IT (3rd Edition)  
+ https://www.amazon.com/dp/0321919165  
+   
+ The Personal MBA: Master the Art of Business  
+ https://www.amazon.com/Personal-MBA-Master-Art-Business/dp/1591845572  
+   
+ The Art Of War  
+ https://www.amazon.com/Art-War-Sun-Tzu/dp/1599869772  
+   
+ How to Win Friends & Influence People  
+ https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034  
+   
+ The Power Broker: Robert Moses and the Fall of New York  
+ https://www.amazon.com/Power-Broker-Robert-Moses-Fall/dp/0394720245  
+   
+ Zero to One: Notes on Start Ups, or How to Build the Future  
+ https://www.amazon.com/Zero-One-Notes-Start-Future-ebook/dp/B00KHX0II4  
+   
+ Startup School is a free 10-week massively open online course (MOOC)  
+ https://www.startupschool.org  
+   
+ Money:  
+   
+ Sources:  
+ https://codewithoutrules.com/2016/08/08/living-below-your-means  
+ https://www.amazon.com/gp/bestsellers/books/491584  
+ https://www.reddit.com/r/Economics/wiki/reading  
+ https://www.reddit.com/r/india/comments/6b480c/psa_investing_in_mutual_funds_101/  
+ https://www.reddit.com/r/IndiaInvestments/wiki/index  
+ https://www.reddit.com/r/IndiaInvestments/wiki/new  
+   
+ Basic Economics 5th Edition  
+ https://www.amazon.com/Basic-Economics-Thomas-Sowell/dp/0465060730  
+   
+ The Intelligent Investor  
+ https://www.amazon.com/Intelligent-Investor-Definitive-Investing-Essentials/dp/0060555661  
+   
+ Job Portals:  
+   
+ Sources:  
+ https://news.ycombinator.com/item?id=14686745 (Ask HN: What are some of the best job boards you have seen (any industry)?)  
+   
+ https://www.linkedin.com/jobs  
+ https://www.naukri.com  
+ http://www.freejobalert.com  
+ https://www.indeed.co.in  
+ https://www.shine.com  
+ https://www.glassdoor.co.in  
+ https://www.freshersworld.com  
+ http://www.monsterindia.com  
+ http://www.timesjobs.com  
+ https://www.fresherslive.com  
+ https://angel.co  
+ Note: Update your resume on the above sites every Sunday post 12 AM (IST).  
+   
+ Job Search Engines:  
+   
+ http://Indeed.co.in  
+ http://stackoverflow.com/jobs  
+ https://www.placementindia.com  
+ http://India.Recruit.net  
+ http://Simplyhired.co.in  
+ https://whoishiring.io  
+   
+ Company and Salary Reviews:  
+   
+ http://www.payscale.com/research/IN/Country=India/Salary  
+ https://careernavigator.naukri.com/  
+ https://www.glassdoor.co.in/Salaries/india-salary-SRCH_IL.0,5_IN115.htm  
+   
+ Freelancer:  
+   
+ http://www.guru.com  
+ https://nomadprojects.io  
+ https://www.freelancer.com  
+ https://www.upwork.com  
+   
+ Resume Improvement:  
+   
+ Sources:  
+ https://www.reddit.com/r/sysadminresumes/top  
+   
+ https://pinboard.in/u:sharjeelsayed/t:resume  
+   
+ News:  
+   
+ Sources:  
+ https://docs.google.com/spreadsheets/d/1gIRjeB1Y_AMvtmJsZWl_dNMDJ7lPSIxiVUYyEvrP5P4/htmlview?usp=sharing&sle=true  
+ https://news.ycombinator.com/item?id=13747563 (Ask HN: What are your favorite tech podcasts?)  
+ https://news.ycombinator.com/item?id=14086259 (Ask HN: Mailing lists that HN readers ought to know about?)  
+ https://news.ycombinator.com/item?id=14163905 (Ask HN: Which companies have the best blogs written by their engineering team?)  
+ https://news.ycombinator.com/item?id=14529759 (Ask HN: What podcasts are you listening to?)  
+ https://news.ycombinator.com/item?id=9207360 (Ask HN: Favorite podcasts?)  
+ https://news.ycombinator.com/item?id=9836023 (Ask HN: What tech blogs, podcasts do you follow outside of HN?)  
+ https://podcastrank.co  
+ https://www.reddit.com/r/programming/comments/6l689j/a_manually_curated_list_of_240_popular  
+ https://twitter.com/SharjeelSayed  
+   
+ Import this OPML file, https://sharjeelsayed.github.io/inoreader_sharjeelsayed_subscriptions.xml , into inoreader.com .Enable notifications for the 'MustRead' folder.  
+ Detailed import and notification configuration instructions at http://blog.inoreader.com/2014/04/opml-import-additions.html and http://blog.inoreader.com/2015/04/introducing-push-notifications-get-most.html  
+ Install the Inoreader Mobile Client from https://play.google.com/store/apps/details?id=com.innologica.inoreader or https://appsto.re/in/wnem1.i  
+   
+ Foreign Language:  
+   
+ https://www.duolingo.com  
+ https://www.memrise.com  
+   
+ Chess:  
+   
+ https://pinboard.in/u:sharjeelsayed/t:chess  
+   
+ Additional Sources :  
+ http://www.hnfavorites.com  
+ https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer  
+ https://github.com/jnv/lists  
+ https://hn.algolia.com  
+ https://learn-anything.xyz  
+ https://learnxinyminutes.com  
+ https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#-48.5,-680.3,0  
+ https://news.ycombinator.com/item?id=12209446 (How to Read a Book [pdf])  
+ https://news.ycombinator.com/item?id=13574916 (Ask HN: What are some 'must watch' talks?)  
+ https://news.ycombinator.com/item?id=14087880 (Ask HN: What are some great “Free” services provided by IBM, Amazon, etc.?)  
+ https://news.ycombinator.com/item?id=14169760 (Resources on creating programming languages)  
+ https://news.ycombinator.com/item?id=14378536 (Ask HN: Which websites do you visit?)  
+ https://news.ycombinator.com/item?id=14637859 (Ask HN: What's your process for learning?)  
+ https://www.coursera.org/learn/learning-how-to-learn  
+ https://www.reddit.com/r/AskReddit/comments/4q91g9/what_free_things_online_should_everyone_take/d4r8foy  
+ https://www.reddit.com/r/AskReddit/comments/6k0p7l/what_are_the_best_free_online_certificates_you  
+ https://www.reddit.com/r/sysadmin/comments/4oxxgv/your_favorite_scripts_you_have_stolen_or_made  
+ https://www.theodinproject.com  
+ https://cse.google.com/cse/publicurl?cx=013208504250323700475:mqurmsvnc8k (Google Custom Search Engine for Sharjeel's Bookmarks)  
+ https://github.com/sharjeelsayed?direction=desc&sort=stars&tab=stars  
+ https://news.ycombinator.com/favorites?id=sharjeelsayed  
+ https://pinboard.in/u:sharjeelsayed  
+ https://pinboard.in/u:sharjeelsayed/t:sharjeelsayed  
+ https://www.goodreads.com/user/show/36136296-sharjeel-sayed  
+ https://www.reddit.com/user/sharjeelsayed/upvoted  
+ https://www.youtube.com/user/sayedsharjeel  
+   
+ Miscellaneous:  
+ Kafka  
+ node.js  
+ nftables https://developers.redhat.com/blog/2016/10/28/what-comes-after-iptables-its-successor-of-course-nftables/  
+   
+ Hard to find Ebooks  
+   
+ 1) Computer Networking: A Top-Down Approach (7th Edition)  
+ https://www.amazon.com/Computer-Networking-Top-Down-Approach-7th/dp/0133594149  
+   
+ 2) UNIX and Linux System Administration Handbook (5th Edition)  
+ https://www.amazon.com/UNIX-Linux-System-Administration-Handbook/dp/0134277554  
+   
+ 3) Computer Architecture, Sixth Edition: A Quantitative Approach (The Morgan Kaufmann Series in Computer Architecture and Design) 6th Edition  
+ https://www.amazon.com/Computer-Architecture-Sixth-Quantitative-Approach/dp/0128119055  
+   
+ 4) Elements of Programming Interviews in Python: The Insiders' Guide  
+ https://www.amazon.com/Elements-Programming-Interviews-Python-Insiders/dp/1537713949
