@@ -87,6 +87,7 @@ https://www.google.com/about/careers/students/guide-to-technical-development.htm
 https://www.reddit.com/r/compsci/comments/20vbaw/what_book_made_you_a_better_computer_scientist
 https://www.reddit.com/r/compsci/comments/40mq3q/what_are_the_canon_books_in_computer_science
 https://www.reddit.com/r/cscareerquestions/comments/5bsg82/whats_the_single_most_useful_csrelated_link_you
+https://www.reddit.com/r/learnprogramming/comments/69x0bp/teach_yourself_computer_science
 https://www.scotthyoung.com/blog/myprojects/mit-challenge-2
 
 Programming Concepts:
@@ -103,6 +104,7 @@ https://news.ycombinator.com/item?id=14486657 (Ask HN: What language-agnostic pr
 https://news.ycombinator.com/item?id=14627137 (CS61A Structure and Interpretation of Computer Programs)
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/index.htm
 https://www.reddit.com/r/cscareerquestions/comments/6hmlxr/what_are_the_most_indemand_software_skills_right/dizqiie/
+https://www.reddit.com/r/learnprogramming/comments/6l5u8s/what_one_thing_improved_your_skills_the_most
 https://www.reddit.com/r/learnprogramming/wiki/books
 https://www.reddit.com/r/learnprogramming/wiki/faq
 https://www.reddit.com/r/learnprogramming/wiki/online
@@ -808,6 +810,7 @@ https://pinboard.in/u:sharjeelsayed/t:resume
 News:
 
 Sources:
+https://docs.google.com/spreadsheets/d/1gIRjeB1Y_AMvtmJsZWl_dNMDJ7lPSIxiVUYyEvrP5P4/htmlview?usp=sharing&sle=true
 https://news.ycombinator.com/item?id=13747563 (Ask HN: What are your favorite tech podcasts?)
 https://news.ycombinator.com/item?id=14086259 (Ask HN: Mailing lists that HN readers ought to know about?)
 https://news.ycombinator.com/item?id=14163905 (Ask HN: Which companies have the best blogs written by their engineering team?)
@@ -815,6 +818,7 @@ https://news.ycombinator.com/item?id=14529759 (Ask HN: What podcasts are you lis
 https://news.ycombinator.com/item?id=9207360 (Ask HN: Favorite podcasts?)
 https://news.ycombinator.com/item?id=9836023 (Ask HN: What tech blogs, podcasts do you follow outside of HN?)
 https://podcastrank.co
+https://www.reddit.com/r/programming/comments/6l689j/a_manually_curated_list_of_240_popular
 https://twitter.com/SharjeelSayed
 
 Import this OPML file, https://sharjeelsayed.github.io/inoreader_sharjeelsayed_subscriptions.xml , into inoreader.com .Enable notifications for the 'MustRead' folder.
