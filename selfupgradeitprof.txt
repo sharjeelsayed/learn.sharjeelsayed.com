@@ -97,14 +97,16 @@ http://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book
 https://github.com/braydie/HowToBeAProgrammer
 https://github.com/Michael0x2a/curated-programming-resources
 https://github.com/sdmg15/Best-websites-a-programmer-should-visit
-https://news.ycombinator.com/item?id=11465234 (	Composing Programs – Python 3 in the tradition of SICP)
+https://news.ycombinator.com/item?id=11465234 (Composing Programs – Python 3 in the tradition of SICP)
 https://news.ycombinator.com/item?id=12718102 (Programming books you might want to consider reading)
 https://news.ycombinator.com/item?id=13918465 (Beautiful Online SICP)
 https://news.ycombinator.com/item?id=14486657 (Ask HN: What language-agnostic programming books should I read?)
 https://news.ycombinator.com/item?id=14627137 (CS61A Structure and Interpretation of Computer Programs)
+https://news.ycombinator.com/item?id=14708350 (Ask HN: What habits make a programmer great?)
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/index.htm
 https://www.reddit.com/r/cscareerquestions/comments/6hmlxr/what_are_the_most_indemand_software_skills_right/dizqiie/
 https://www.reddit.com/r/learnprogramming/comments/6l5u8s/what_one_thing_improved_your_skills_the_most
+https://www.reddit.com/r/learnprogramming/comments/6lvvqq/audiobooks_on_programming
 https://www.reddit.com/r/learnprogramming/wiki/books
 https://www.reddit.com/r/learnprogramming/wiki/faq
 https://www.reddit.com/r/learnprogramming/wiki/online
@@ -216,6 +218,7 @@ https://github.com/mininet/mininet/wiki/Teaching-and-Learning-with-Mininet
 https://github.com/saminiir/level-ip
 https://news.ycombinator.com/item?id=13983212 (Beej's Guide to Network Programming)
 https://news.ycombinator.com/item?id=14701199 (Let's Code a TCP/IP Stack: TCP Retransmission (saminiir.com))
+https://www.reddit.com/r/networking/wiki/index
 https://www.reddit.com/r/sysadmin/comments/4ux166/do_you_know_a_site_to_learn_more_about_networking
 
 Computer Networking: A Top-Down Approach (7th Edition)
@@ -463,8 +466,8 @@ https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-189-a-
 Automate the Boring Stuff with Python
 https://automatetheboringstuff.com
 
-Learn Python the Hard Way
-https://learnpythonthehardway.org/book
+Learn Python 3 the Hard Way: A Very Simple Introduction to the Terrifyingly Beautiful World of Computers and Code (Zed Shaw's Hard Way Series) 1st Edition
+https://www.amazon.com/gp/product/0134692888/
 
 C:
 
@@ -858,6 +861,7 @@ https://news.ycombinator.com/item?id=14087880 (Ask HN: What are some great “Fr
 https://news.ycombinator.com/item?id=14169760 (Resources on creating programming languages)
 https://news.ycombinator.com/item?id=14378536 (Ask HN: Which websites do you visit?)
 https://news.ycombinator.com/item?id=14637859 (Ask HN: What's your process for learning?)
+https://news.ycombinator.com/item?id=14724092 (Ask HN: Which sites you visit on a regular basis for knowledge and inspiration?)
 https://www.coursera.org/learn/learning-how-to-learn
 https://www.reddit.com/r/AskReddit/comments/4q91g9/what_free_things_online_should_everyone_take/d4r8foy
 https://www.reddit.com/r/AskReddit/comments/6k0p7l/what_are_the_best_free_online_certificates_you
