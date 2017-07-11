@@ -95,6 +95,7 @@ Programming Concepts:
 Sources:
 http://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read
 https://github.com/braydie/HowToBeAProgrammer
+https://github.com/EbookFoundation/free-programming-books
 https://github.com/Michael0x2a/curated-programming-resources
 https://github.com/sdmg15/Best-websites-a-programmer-should-visit
 https://news.ycombinator.com/item?id=11465234 (Composing Programs – Python 3 in the tradition of SICP)
@@ -609,7 +610,6 @@ http://freebookspot.es
 https://avxhm.se
 https://www.myanonamouse.net
 http://findlectures.com
-https://github.com/vhf/free-programming-books
 irc://irc.undernet.org/bookz
 irc://irc.irchighway.net/ebooks
 https://pinboard.in/u:sharjeelsayed/t:course
@@ -633,6 +633,7 @@ https://www.reddit.com/r/learnprogramming/wiki/online
 https://www.reddit.com/r/sysadmin/comments/65u70f/sysadmins_what_are_some_good_it_youtube_channels
 https://www.reddit.com/r/sysadmin/comments/65wdum/whats_your_favorite_selfstudy_resource_paid_free
 
+http://www.openculture.com/freeonlinecourses#Computer Science Courses
 https://archive.org/search.php?query=subject%3A%22UC+Berkeley%22
 https://hackr.io
 https://www.class-central.com/subject/cs
@@ -641,6 +642,7 @@ https://www.coursera.org/browse/computer-science
 https://www.cybrary.it
 https://www.edx.org/course/subject/computer-science
 https://www.freecodecamp.com
+https://www.masterclass.com
 https://www.udacity.com/courses/all
 
 Interview Guides:
