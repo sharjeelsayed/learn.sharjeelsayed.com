@@ -89,6 +89,7 @@ https://www.reddit.com/r/compsci/comments/40mq3q/what_are_the_canon_books_in_com
 https://www.reddit.com/r/cscareerquestions/comments/5bsg82/whats_the_single_most_useful_csrelated_link_you
 https://www.reddit.com/r/learnprogramming/comments/69x0bp/teach_yourself_computer_science
 https://www.scotthyoung.com/blog/myprojects/mit-challenge-2
+https://pinboard.in/u:sharjeelsayed/t:cs
 
 Programming Concepts:
 
@@ -620,12 +621,14 @@ https://pinboard.in/u:sharjeelsayed/t:learn
 MOOC:
 
 Sources:
+http://lifehacker.com/tag/lifehacker-u
+https://archive.is/D1Ail#selection-21.0-21.27 (UC Berkeley Course Captures)
 https://github.com/Developer-Y/cs-video-courses
 https://github.com/prakhar1989/awesome-courses
 https://github.com/sindresorhus/awesome
 https://medium.freecodecamp.org/a-massive-list-of-free-online-course-providers-from-around-the-world-925766226f46
 https://news.ycombinator.com/item?id=10644518 (Ask HN: What's your favorite online course?)
-https://news.ycombinator.com/item?id=12702651 (	Ask HN: What is your favorite YouTube channel for developers?)
+https://news.ycombinator.com/item?id=12702651 (Ask HN: What is your favorite YouTube channel for developers?)
 https://news.ycombinator.com/item?id=13867016 (Ask HN: Which Berkeley Courses Should I Archive?)
 https://news.ycombinator.com/item?id=14570002 (Startup School 2017 Presentations (startupschool.org))
 https://www.class-central.com/collection/top-free-online-courses?utm_source=top-50-course-page
