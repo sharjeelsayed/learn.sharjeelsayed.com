@@ -451,6 +451,7 @@ Python:
 
 Sources:
 http://pybit.es/python-resources.html
+http://pythonbooks.org
 https://www.reddit.com/r/learnprogramming/comments/6bxdut/python_for_beginners_complete_series/
 https://www.reddit.com/r/learnprogramming/wiki/online#wiki_python
 https://www.reddit.com/r/learnpython/comments/53z5p4/how_to_start_learning_python_the_complete_guide
@@ -611,6 +612,7 @@ http://freebookspot.es
 https://avxhm.se
 https://www.myanonamouse.net
 http://findlectures.com
+http://breue.com/free_programming_books
 irc://irc.undernet.org/bookz
 irc://irc.irchighway.net/ebooks
 https://pinboard.in/u:sharjeelsayed/t:course
@@ -631,6 +633,7 @@ https://news.ycombinator.com/item?id=10644518 (Ask HN: What's your favorite onli
 https://news.ycombinator.com/item?id=12702651 (Ask HN: What is your favorite YouTube channel for developers?)
 https://news.ycombinator.com/item?id=13867016 (Ask HN: Which Berkeley Courses Should I Archive?)
 https://news.ycombinator.com/item?id=14570002 (Startup School 2017 Presentations (startupschool.org))
+https://news.ycombinator.com/item?id=14770521 (Ask HN: Any “bootcamps” or courses for intermediate/advanced people?)
 https://www.class-central.com/collection/top-free-online-courses?utm_source=top-50-course-page
 https://www.reddit.com/r/learnprogramming/wiki/online
 https://www.reddit.com/r/sysadmin/comments/65u70f/sysadmins_what_are_some_good_it_youtube_channels
