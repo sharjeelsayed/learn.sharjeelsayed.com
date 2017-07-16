@@ -124,6 +124,7 @@ https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10#!
 Structure and Interpretation of Computer Programs - 2nd Edition
 http://inst.eecs.berkeley.edu/~cs61a/fa16
 http://inst.eecs.berkeley.edu/~cs61a/sp17
+http://paste.lisp.org/display/313070/raw
 http://sarabander.github.io/sicp
 http://www.composingprograms.com
 https://cs61a.org
@@ -131,6 +132,7 @@ https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-4.html
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/index.htm
 https://www.youtube.com/playlist?list=PL7BcsI5ueSNFPCEisbaoQ0kXIDX9rR5FF
 https://www.youtube.com/playlist?list=PLE18841CABEA24090
+https://xuanji.appspot.com/isicp
 
 Computer Science 61A, UCBerkeley 001 - Spring 2011
 https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E?sort=titleSorter
