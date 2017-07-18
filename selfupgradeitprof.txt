@@ -523,11 +523,12 @@ https://www.elastic.co/guide/index.html
 Security
 
 Sources:
+https://news.ycombinator.com/item?id=14791255 (Cybersecurity Humble Book Bundle)
+https://room362.com/start/
+https://www.reddit.com/r/netsec+privacy+SocialEngineering+onions+ReverseEngineering+crypto+blackhat+security+Malware+pwned+netsecstudents+computerforensics+HackBloc+securityCTF+xss+vrd+rootkit+REMath
 https://www.reddit.com/r/netsec/wiki/start
 https://www.reddit.com/r/netsecstudents/top/?sort=top&t=all
 https://xapax.github.io/blog/2017/01/14/OSCP.html
-https://www.reddit.com/r/netsec+privacy+SocialEngineering+onions+ReverseEngineering+crypto+blackhat+security+Malware+pwned+netsecstudents+computerforensics+HackBloc+securityCTF+xss+vrd+rootkit+REMath
-https://room362.com/start/
 
 Offensive Computer Security Spring 2014 Homepage Florida State University
 http://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity
@@ -735,6 +736,7 @@ https://news.ycombinator.com/item?id=14279870 (Ask HN: Should I create a clone o
 https://news.ycombinator.com/item?id=14316349 (Ask HN: Freelance Management Services/Apps)
 https://news.ycombinator.com/item?id=14569154 (Ask HN: Where to find co-developers for side projects?)
 https://news.ycombinator.com/item?id=14653564 (Ask HN: As an employee of a company, how do you assess its health?)
+https://news.ycombinator.com/item?id=14726130 (Ask HN: How to prepare for an Engineering Manager interview?)
 https://www.reddit.com/r/cscareerquestions/comments/6fnujy/soft_skills_for_programmers
 
 Site Reliability Engineering: How Google Runs Production Systems
@@ -786,6 +788,7 @@ https://www.amazon.com/Intelligent-Investor-Definitive-Investing-Essentials/dp/0
 Job Portals:
 
 Sources:
+https://github.com/lukasz-madon/awesome-remote-job
 https://news.ycombinator.com/item?id=14686745 (Ask HN: What are some of the best job boards you have seen (any industry)?)
 
 https://www.linkedin.com/jobs
