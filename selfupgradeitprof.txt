@@ -28,11 +28,13 @@ NginX
 Apache
 IIS
 HAProxy
+Memcached
 Postfix
 djbdns
 SQL
 MySQL
 PostgreSQL
+Redis
 Ansible
 Python
 C
@@ -408,6 +410,10 @@ https://www.amazon.com/Load-Balancing-HAProxy-availability-infrastructure/dp/151
 
 https://www.digitalocean.com/community/tutorials/an-introduction-to-haproxy-and-load-balancing-concepts
 
+Memcached:
+
+https://github.com/memcached/memcached/wiki
+
 Postfix:
 
 The Book of Postfix: State-of-the-Art Message Transport
@@ -440,6 +446,10 @@ PostgreSQL:
 
 https://www.postgresql.org/docs/9.3/static/index.html
 https://pgexercises.com
+
+Redis:
+
+https://redis.io/documentation
 
 Ansible:
 
