@@ -79,6 +79,7 @@ http://matt.might.net/articles/what-cs-majors-should-know
 https://begriffs.com/posts/2017-04-13-longterm-computing-reading.html
 https://github.com/nushackers/notes-to-cs-freshmen-from-the-future
 https://github.com/open-source-society/computer-science
+https://learn-anything.xyz/computer-science
 https://news.ycombinator.com/item?id=13014900 (	Ask HN: What are the bibles of Computer Science?)
 https://news.ycombinator.com/item?id=13406638 (Ask HN: What's the best computer science book you've read recently?)
 https://news.ycombinator.com/item?id=13862284 (Teach Yourself Computer Science)
@@ -738,6 +739,7 @@ Management:
 
 Sources:
 http://sabok.org (Guide to the Systems Administration Body of Knowledge)
+http://www.toomas.net/2017/07/18/reverse-engineering-a-successful-lifestyle-business-heres-everything-ive-learned-from-reading-indiehackers-com
 https://news.ycombinator.com/item?id=11209066 (Why you probably don't need an MBA )
 https://news.ycombinator.com/item?id=13207268 (Ask HN: How do I get freelance developer jobs?)
 https://news.ycombinator.com/item?id=13855577 (Ask HN: What do you use to align your daily todos with your long term goals?)
