@@ -357,6 +357,9 @@ https://www.amazon.com/Data-Storage-Networking-CompTIA-Certification/dp/11186792
 
 Docker:
 
+Docker Documentation
+https://docs.docker.com
+
 Docker for Beginners
 https://prakhar.me/docker-curriculum
 
@@ -485,6 +488,11 @@ https://automatetheboringstuff.com
 Learn Python 3 the Hard Way: A Very Simple Introduction to the Terrifyingly Beautiful World of Computers and Code (Zed Shaw's Hard Way Series) 1st Edition
 https://www.amazon.com/gp/product/0134692888/
 
+Web Development:
+
+The Web Developer Bootcamp by Colt Steele
+https://www.udemy.com/the-web-developer-bootcamp/
+
 C:
 
 Sources:
@@ -506,7 +514,8 @@ http://www.amazon.com/Head-First-Java-Kathy-Sierra/dp/0596009208
 Murach's Java Servlets and JSP
 http://www.amazon.com/Murachs-Java-Servlets-JSP-2nd/dp/1890774448
 
-Tomcat
+Tomcat:
+
 Tomcat: The Definitive Guide
 http://www.amazon.com/Tomcat-Definitive-Guide-Jason-Brittain/dp/0596101066
 
@@ -749,6 +758,7 @@ https://news.ycombinator.com/item?id=14316349 (Ask HN: Freelance Management Serv
 https://news.ycombinator.com/item?id=14569154 (Ask HN: Where to find co-developers for side projects?)
 https://news.ycombinator.com/item?id=14653564 (Ask HN: As an employee of a company, how do you assess its health?)
 https://news.ycombinator.com/item?id=14726130 (Ask HN: How to prepare for an Engineering Manager interview?)
+https://www.indiehackers.com
 https://www.reddit.com/r/cscareerquestions/comments/6fnujy/soft_skills_for_programmers
 
 Site Reliability Engineering: How Google Runs Production Systems
