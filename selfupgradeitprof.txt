@@ -108,6 +108,7 @@ https://news.ycombinator.com/item?id=13918465 (Beautiful Online SICP)
 https://news.ycombinator.com/item?id=14486657 (Ask HN: What language-agnostic programming books should I read?)
 https://news.ycombinator.com/item?id=14627137 (CS61A Structure and Interpretation of Computer Programs)
 https://news.ycombinator.com/item?id=14708350 (Ask HN: What habits make a programmer great?)
+https://news.ycombinator.com/item?id=14825811 (More Good Programming Quotes (2016))
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/index.htm
 https://www.reddit.com/r/cscareerquestions/comments/6hmlxr/what_are_the_most_indemand_software_skills_right/dizqiie/
 https://www.reddit.com/r/learnprogramming/comments/6l5u8s/what_one_thing_improved_your_skills_the_most
@@ -115,6 +116,7 @@ https://www.reddit.com/r/learnprogramming/comments/6lvvqq/audiobooks_on_programm
 https://www.reddit.com/r/learnprogramming/wiki/books
 https://www.reddit.com/r/learnprogramming/wiki/faq
 https://www.reddit.com/r/learnprogramming/wiki/online
+https://www.theodinproject.com
 https://www.udacity.com/course/intro-to-computer-science--cs101
 
 CS50 Introduction to Computer Science , Harvard University
@@ -125,7 +127,7 @@ Introduction to Computer Science and Programming Using Python , MIT
 https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10#!
 
 Structure and Interpretation of Computer Programs - 2nd Edition
-http://inst.eecs.berkeley.edu/~cs61a/fa16
+http://inst.eecs.berkeley.edu/~cs61a/fa16 (Instructor: John DeNero)
 http://inst.eecs.berkeley.edu/~cs61a/sp17
 http://paste.lisp.org/display/313070/raw
 http://sarabander.github.io/sicp
@@ -904,7 +906,6 @@ https://www.coursera.org/learn/learning-how-to-learn
 https://www.reddit.com/r/AskReddit/comments/4q91g9/what_free_things_online_should_everyone_take/d4r8foy
 https://www.reddit.com/r/AskReddit/comments/6k0p7l/what_are_the_best_free_online_certificates_you
 https://www.reddit.com/r/sysadmin/comments/4oxxgv/your_favorite_scripts_you_have_stolen_or_made
-https://www.theodinproject.com
 https://cse.google.com/cse/publicurl?cx=013208504250323700475:mqurmsvnc8k (Google Custom Search Engine for Sharjeel's Bookmarks)
 https://github.com/sharjeelsayed?direction=desc&sort=stars&tab=stars
 https://news.ycombinator.com/favorites?id=sharjeelsayed
