@@ -39,6 +39,7 @@ Ansible
 Python
 C
 Java
+Web Developement
 Tomcat
 Regex
 Git
@@ -490,11 +491,6 @@ https://automatetheboringstuff.com
 Learn Python 3 the Hard Way: A Very Simple Introduction to the Terrifyingly Beautiful World of Computers and Code (Zed Shaw's Hard Way Series) 1st Edition
 https://www.amazon.com/gp/product/0134692888/
 
-Web Development:
-
-The Web Developer Bootcamp by Colt Steele
-https://www.udemy.com/the-web-developer-bootcamp/
-
 C:
 
 Sources:
@@ -515,6 +511,11 @@ http://www.amazon.com/Head-First-Java-Kathy-Sierra/dp/0596009208
 
 Murach's Java Servlets and JSP
 http://www.amazon.com/Murachs-Java-Servlets-JSP-2nd/dp/1890774448
+
+Web Development:
+
+The Web Developer Bootcamp by Colt Steele
+https://www.udemy.com/the-web-developer-bootcamp
 
 Tomcat:
 
