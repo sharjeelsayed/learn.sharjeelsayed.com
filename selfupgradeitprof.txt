@@ -545,9 +545,11 @@ Security
 Sources:
 https://news.ycombinator.com/item?id=14791255 (Cybersecurity Humble Book Bundle)
 https://room362.com/start/
+https://s3ctur.wordpress.com/2017/06/19/breaking-into-infosec-a-beginners-curriculum
 https://www.reddit.com/r/netsec+privacy+SocialEngineering+onions+ReverseEngineering+crypto+blackhat+security+Malware+pwned+netsecstudents+computerforensics+HackBloc+securityCTF+xss+vrd+rootkit+REMath
 https://www.reddit.com/r/netsec/wiki/start
 https://www.reddit.com/r/netsecstudents/top/?sort=top&t=all
+https://www.reddit.com/r/netsecstudents/wiki
 https://xapax.github.io/blog/2017/01/14/OSCP.html
 
 Offensive Computer Security Spring 2014 Homepage Florida State University
@@ -863,6 +865,7 @@ https://news.ycombinator.com/item?id=13747563 (Ask HN: What are your favorite te
 https://news.ycombinator.com/item?id=14086259 (Ask HN: Mailing lists that HN readers ought to know about?)
 https://news.ycombinator.com/item?id=14163905 (Ask HN: Which companies have the best blogs written by their engineering team?)
 https://news.ycombinator.com/item?id=14529759 (Ask HN: What podcasts are you listening to?)
+https://news.ycombinator.com/item?id=14819798 (Ask HN: What are your favorite podcasts?)
 https://news.ycombinator.com/item?id=9207360 (Ask HN: Favorite podcasts?)
 https://news.ycombinator.com/item?id=9836023 (Ask HN: What tech blogs, podcasts do you follow outside of HN?)
 https://podcastrank.co
