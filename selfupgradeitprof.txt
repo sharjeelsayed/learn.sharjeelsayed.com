@@ -244,6 +244,8 @@ http://beej.us/guide/bgnet
 Unix Network Programming, Volume 1: The Sockets Networking API (3rd Edition)
 https://www.amazon.com/Unix-Network-Programming-Sockets-Networking/dp/0131411551
 
+High Performance Browser Networking
+https://hpbn.co
 Additional Material:
 
 Eli The Computer Guy Youtube
@@ -489,7 +491,8 @@ Automate the Boring Stuff with Python
 https://automatetheboringstuff.com
 
 Learn Python 3 the Hard Way: A Very Simple Introduction to the Terrifyingly Beautiful World of Computers and Code (Zed Shaw's Hard Way Series) 1st Edition
-https://www.amazon.com/gp/product/0134692888/
+https://www.amazon.com/gp/product/0134692888
+https://learnpythonthehardway.org/python3
 
 C:
 
@@ -909,7 +912,7 @@ https://www.reddit.com/r/AskReddit/comments/6k0p7l/what_are_the_best_free_online
 https://www.reddit.com/r/sysadmin/comments/4oxxgv/your_favorite_scripts_you_have_stolen_or_made
 https://cse.google.com/cse/publicurl?cx=013208504250323700475:mqurmsvnc8k (Google Custom Search Engine for Sharjeel's Bookmarks)
 https://github.com/sharjeelsayed?direction=desc&sort=stars&tab=stars
-https://news.ycombinator.com/favorites?id=sharjeelsayed
+https://news.ycombinator.com/user?id=sharjeelsayed
 https://pinboard.in/u:sharjeelsayed
 https://pinboard.in/u:sharjeelsayed/t:sharjeelsayed
 https://www.goodreads.com/user/show/36136296-sharjeel-sayed
