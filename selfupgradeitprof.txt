@@ -110,6 +110,8 @@ https://news.ycombinator.com/item?id=14486657 (Ask HN: What language-agnostic pr
 https://news.ycombinator.com/item?id=14627137 (CS61A Structure and Interpretation of Computer Programs)
 https://news.ycombinator.com/item?id=14708350 (Ask HN: What habits make a programmer great?)
 https://news.ycombinator.com/item?id=14825811 (More Good Programming Quotes (2016))
+https://news.ycombinator.com/item?id=14841939 (Ask HN: What books had the greatest effect on how you structure your code?)
+https://news.ycombinator.com/item?id=14842276 (Ask HN: What programming blogs do you follow?)
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/index.htm
 https://www.reddit.com/r/cscareerquestions/comments/6hmlxr/what_are_the_most_indemand_software_skills_right/dizqiie/
 https://www.reddit.com/r/learnprogramming/comments/6l5u8s/what_one_thing_improved_your_skills_the_most
@@ -190,7 +192,7 @@ Mathematics for Computer Science:
 
 Sources:
 https://news.ycombinator.com/item?id=14161876 (Calculus Made Easy (1914))
-https://news.ycombinator.com/item?id=14581273 (	Georgia Tech's free math textbook collective)
+https://news.ycombinator.com/item?id=14581273 (Georgia Tech's free math textbook collective)
 
 Lecture notes by László Lovász
 http://www.cs.elte.hu/~lovasz/dmbook.ps
@@ -909,6 +911,7 @@ https://news.ycombinator.com/item?id=14724092 (Ask HN: Which sites you visit on 
 https://www.coursera.org/learn/learning-how-to-learn
 https://www.reddit.com/r/AskReddit/comments/4q91g9/what_free_things_online_should_everyone_take/d4r8foy
 https://www.reddit.com/r/AskReddit/comments/6k0p7l/what_are_the_best_free_online_certificates_you
+https://www.reddit.com/r/AskReddit/comments/6q2b8x/reddit_whats_become_clear_to_you_as_youve_gotten
 https://www.reddit.com/r/sysadmin/comments/4oxxgv/your_favorite_scripts_you_have_stolen_or_made
 https://cse.google.com/cse/publicurl?cx=013208504250323700475:mqurmsvnc8k (Google Custom Search Engine for Sharjeel's Bookmarks)
 https://github.com/sharjeelsayed?direction=desc&sort=stars&tab=stars
