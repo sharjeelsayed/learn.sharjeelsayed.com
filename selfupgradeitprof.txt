@@ -696,6 +696,9 @@ https://pinboard.in/u:sharjeelsayed/t:jobs
 https://www.reddit.com/r/cscareerquestions/comments/4ce2s3/resource_interview_questions_my_massive
 https://www.reddit.com/r/cscareerquestions/wiki/index
 
+An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
+https://github.com/alex/what-happens-when
+
 Linux System Administrator/DevOps Interview Questions
 https://github.com/chassing/linux-sysadmin-interview-questions
 
