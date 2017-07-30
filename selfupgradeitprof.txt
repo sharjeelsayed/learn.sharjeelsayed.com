@@ -240,14 +240,15 @@ https://fastpiratebay.co.uk/torrent/11060421/computer_networking_a_top-down_appr
 CS144 Introduction to Computer Networking Stanford University
 https://suclass.stanford.edu/courses/course-v1:Engineering+CS144+Fall2016/courseware/ac9d1eef5aaa4bb5bcfe4d42f51f0f5b/c5c384e648cf404c837d05497c6e36b0
 
+High Performance Browser Networking
+https://hpbn.co
+
 Beej's Guide to Network Programming
 http://beej.us/guide/bgnet
 
 Unix Network Programming, Volume 1: The Sockets Networking API (3rd Edition)
 https://www.amazon.com/Unix-Network-Programming-Sockets-Networking/dp/0131411551
 
-High Performance Browser Networking
-https://hpbn.co
 Additional Material:
 
 Eli The Computer Guy Youtube
