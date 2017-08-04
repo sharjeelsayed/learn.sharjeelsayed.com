@@ -610,6 +610,9 @@ Design:
 The Design of Everyday Things
 https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654
 
+The ultimate guide for mobile developers, who want to design
+https://medium.com/flawless-app-stories/https-medium-com-flawless-app-stories-the-ultimate-guide-for-mobile-developers-who-want-to-design-part1-a2d47c04fd49
+
 Study Tools:
 
 Sources:
@@ -662,6 +665,7 @@ https://archive.is/D1Ail#selection-21.0-21.27 (UC Berkeley Course Captures)
 https://github.com/Developer-Y/cs-video-courses
 https://github.com/prakhar1989/awesome-courses
 https://github.com/sindresorhus/awesome
+https://medium.freecodecamp.org/450-free-online-programming-computer-science-courses-you-can-start-in-august-dbf3cb657274
 https://medium.freecodecamp.org/a-massive-list-of-free-online-course-providers-from-around-the-world-925766226f46
 https://news.ycombinator.com/item?id=10644518 (Ask HN: What's your favorite online course?)
 https://news.ycombinator.com/item?id=12702651 (Ask HN: What is your favorite YouTube channel for developers?)
@@ -696,6 +700,7 @@ https://pinboard.in/u:sharjeelsayed/t:interview
 https://pinboard.in/u:sharjeelsayed/t:jobs
 https://www.reddit.com/r/cscareerquestions/comments/4ce2s3/resource_interview_questions_my_massive
 https://www.reddit.com/r/cscareerquestions/wiki/index
+https://news.ycombinator.com/item?id=11246917 (How to Pass a Programming Interview)
 
 An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
 https://github.com/alex/what-happens-when
