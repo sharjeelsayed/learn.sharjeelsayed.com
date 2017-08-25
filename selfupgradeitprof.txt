@@ -84,6 +84,7 @@ https://learn-anything.xyz/computer-science
 https://news.ycombinator.com/item?id=13014900 (Ask HN: What are the bibles of Computer Science?)
 https://news.ycombinator.com/item?id=13406638 (Ask HN: What's the best computer science book you've read recently?)
 https://news.ycombinator.com/item?id=13862284 (Teach Yourself Computer Science)
+https://news.ycombinator.com/item?id=15089476 (Ask HN: What is your favorite CS paper?)
 https://news.ycombinator.com/item?id=5019373 (How Harvard's CS50 Renewed My Hope For Online Education)
 https://spin.atomicobject.com/2015/05/15/obtaining-thorough-cs-background-online
 https://www.amazon.com/Best-Sellers-Books-Computer-Science/zgbs/books/468204
@@ -629,8 +630,10 @@ Sources:
 http://booksreddit.com
 http://hackernewsbooks.com
 http://ramiro.org/vis/hn-most-linked-books-unique-users
+http://reddittopbooks.com/tech
 http://www.bookadvice.co
 http://www.dev-books.com (The most mentioned books on Stack Overflow)
+http://www.openculture.com/free_textbooks
 https://news.ycombinator.com/item?id=13597949 (The most mentioned books on Stack Overflow)
 https://news.ycombinator.com/item?id=14477851 (Ask HN: Books you wish you had read earlier?)
 https://opentrackers.org/downloading-ebooks-textbooks
@@ -779,6 +782,7 @@ https://news.ycombinator.com/item?id=14316349 (Ask HN: Freelance Management Serv
 https://news.ycombinator.com/item?id=14569154 (Ask HN: Where to find co-developers for side projects?)
 https://news.ycombinator.com/item?id=14653564 (Ask HN: As an employee of a company, how do you assess its health?)
 https://news.ycombinator.com/item?id=14726130 (Ask HN: How to prepare for an Engineering Manager interview?)
+https://news.ycombinator.com/item?id=15039829 (Ask HN: What costly inefficiency do you see at work?)
 https://www.indiehackers.com
 https://www.reddit.com/r/cscareerquestions/comments/6fnujy/soft_skills_for_programmers
 
@@ -920,6 +924,7 @@ https://news.ycombinator.com/item?id=14169760 (Resources on creating programming
 https://news.ycombinator.com/item?id=14378536 (Ask HN: Which websites do you visit?)
 https://news.ycombinator.com/item?id=14637859 (Ask HN: What's your process for learning?)
 https://news.ycombinator.com/item?id=14724092 (Ask HN: Which sites you visit on a regular basis for knowledge and inspiration?)
+https://news.ycombinator.com/item?id=15098066 (Ask HN: What online communities offer a high level of discussion?)
 https://www.coursera.org/learn/learning-how-to-learn
 https://www.reddit.com/r/AskReddit/comments/4q91g9/what_free_things_online_should_everyone_take/d4r8foy
 https://www.reddit.com/r/AskReddit/comments/6k0p7l/what_are_the_best_free_online_certificates_you
