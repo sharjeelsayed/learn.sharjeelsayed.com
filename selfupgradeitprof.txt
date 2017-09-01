@@ -87,6 +87,7 @@ https://news.ycombinator.com/item?id=13862284 (Teach Yourself Computer Science)
 https://news.ycombinator.com/item?id=15089476 (Ask HN: What is your favorite CS paper?)
 https://news.ycombinator.com/item?id=5019373 (How Harvard's CS50 Renewed My Hope For Online Education)
 https://spin.atomicobject.com/2015/05/15/obtaining-thorough-cs-background-online
+https://techdevguide.withgoogle.com
 https://www.amazon.com/Best-Sellers-Books-Computer-Science/zgbs/books/468204
 https://www.google.com/about/careers/students/guide-to-technical-development.html
 https://www.reddit.com/r/compsci/comments/20vbaw/what_book_made_you_a_better_computer_scientist
@@ -639,6 +640,7 @@ https://news.ycombinator.com/item?id=14477851 (Ask HN: Books you wish you had re
 https://opentrackers.org/downloading-ebooks-textbooks
 https://www.amazon.com/charts
 https://www.reddit.com/r/AskReddit/comments/34m5n6/reddit_what_are_some_must_read_books
+https://www.reddit.com/r/cscareerquestions/comments/6w4dej/what_books_should_every_software_engineer_read_to
 https://www.reddit.com/r/Piracy/comments/6583hl/piracy_megathread_v20
 https://www.reddit.com/r/Piracy/comments/6ldvos/hard_to_find_ebooks
 
@@ -925,6 +927,7 @@ https://news.ycombinator.com/item?id=14378536 (Ask HN: Which websites do you vis
 https://news.ycombinator.com/item?id=14637859 (Ask HN: What's your process for learning?)
 https://news.ycombinator.com/item?id=14724092 (Ask HN: Which sites you visit on a regular basis for knowledge and inspiration?)
 https://news.ycombinator.com/item?id=15098066 (Ask HN: What online communities offer a high level of discussion?)
+https://news.ycombinator.com/item?id=15105601 (Ask HN: What are your favourite self hosted tools?)
 https://www.coursera.org/learn/learning-how-to-learn
 https://www.reddit.com/r/AskReddit/comments/4q91g9/what_free_things_online_should_everyone_take/d4r8foy
 https://www.reddit.com/r/AskReddit/comments/6k0p7l/what_are_the_best_free_online_certificates_you
