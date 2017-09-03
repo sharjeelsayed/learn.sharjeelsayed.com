@@ -637,6 +637,7 @@ http://www.dev-books.com (The most mentioned books on Stack Overflow)
 http://www.openculture.com/free_textbooks
 https://news.ycombinator.com/item?id=13597949 (The most mentioned books on Stack Overflow)
 https://news.ycombinator.com/item?id=14477851 (Ask HN: Books you wish you had read earlier?)
+https://news.ycombinator.com/item?id=15155833 (Ask HN: What books have made the biggest impact on your mental models?)
 https://opentrackers.org/downloading-ebooks-textbooks
 https://www.amazon.com/charts
 https://www.reddit.com/r/AskReddit/comments/34m5n6/reddit_what_are_some_must_read_books
@@ -892,6 +893,8 @@ https://news.ycombinator.com/item?id=14163905 (Ask HN: Which companies have the 
 https://news.ycombinator.com/item?id=14529759 (Ask HN: What podcasts are you listening to?)
 https://news.ycombinator.com/item?id=14819798 (Ask HN: What are your favorite podcasts?)
 https://news.ycombinator.com/item?id=14918647 (Ask HN: What is your content discovery daily routine?)
+https://news.ycombinator.com/item?id=15154903 (Ask HN: What are your favourite developer blogs?)
+https://news.ycombinator.com/item?id=15157651 (YouTube Programming Channels)
 https://news.ycombinator.com/item?id=9207360 (Ask HN: Favorite podcasts?)
 https://news.ycombinator.com/item?id=9836023 (Ask HN: What tech blogs, podcasts do you follow outside of HN?)
 https://podcastrank.co
