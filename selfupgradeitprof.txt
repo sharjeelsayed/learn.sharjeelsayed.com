@@ -503,6 +503,8 @@ https://learnpythonthehardway.org/python3
 C:
 
 Sources:
+https://news.ycombinator.com/item?id=11606296 (To become a good C programmer (2011) (fabiensanglard.net))
+https://news.ycombinator.com/item?id=15198093 (Beej's Guide to C Programming (2007))
 https://stackoverflow.com/questions/562303/the-definitive-c-book-guide-and-list
 
 The C Programming Language 2nd Edition
@@ -823,6 +825,7 @@ Money:
 
 Sources:
 https://codewithoutrules.com/2016/08/08/living-below-your-means
+https://news.ycombinator.com/item?id=15222819
 https://www.amazon.com/gp/bestsellers/books/491584
 https://www.reddit.com/r/Economics/wiki/reading
 https://www.reddit.com/r/india/comments/6b480c/psa_investing_in_mutual_funds_101
@@ -895,6 +898,7 @@ https://news.ycombinator.com/item?id=14819798 (Ask HN: What are your favorite po
 https://news.ycombinator.com/item?id=14918647 (Ask HN: What is your content discovery daily routine?)
 https://news.ycombinator.com/item?id=15154903 (Ask HN: What are your favourite developer blogs?)
 https://news.ycombinator.com/item?id=15157651 (YouTube Programming Channels)
+https://news.ycombinator.com/item?id=15170121 (Ask HN: What audio resources can improve my technical skills during my commute?)
 https://news.ycombinator.com/item?id=9207360 (Ask HN: Favorite podcasts?)
 https://news.ycombinator.com/item?id=9836023 (Ask HN: What tech blogs, podcasts do you follow outside of HN?)
 https://podcastrank.co
