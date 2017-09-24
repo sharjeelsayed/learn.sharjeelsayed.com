@@ -115,6 +115,7 @@ https://news.ycombinator.com/item?id=14708350 (Ask HN: What habits make a progra
 https://news.ycombinator.com/item?id=14825811 (More Good Programming Quotes (2016))
 https://news.ycombinator.com/item?id=14841939 (Ask HN: What books had the greatest effect on how you structure your code?)
 https://news.ycombinator.com/item?id=14842276 (Ask HN: What programming blogs do you follow?)
+https://news.ycombinator.com/item?id=15157651 (YouTube Programming Channels)
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/index.htm
 https://www.reddit.com/r/cscareerquestions/comments/6hmlxr/what_are_the_most_indemand_software_skills_right/dizqiie
 https://www.reddit.com/r/learnprogramming/comments/6l5u8s/what_one_thing_improved_your_skills_the_most
@@ -639,6 +640,7 @@ http://www.bookadvice.co
 http://www.dev-books.com (The most mentioned books on Stack Overflow)
 http://www.openculture.com/free_textbooks
 https://news.ycombinator.com/item?id=13597949 (The most mentioned books on Stack Overflow)
+https://news.ycombinator.com/item?id=13803787 (Ask HN: What books fundamentally changed the way you think about the world?)
 https://news.ycombinator.com/item?id=14477851 (Ask HN: Books you wish you had read earlier?)
 https://news.ycombinator.com/item?id=15155833 (Ask HN: What books have made the biggest impact on your mental models?)
 https://opentrackers.org/downloading-ebooks-textbooks
@@ -673,6 +675,7 @@ Sources:
 http://lifehacker.com/tag/lifehacker-u
 https://archive.is/D1Ail#selection-21.0-21.27 (UC Berkeley Course Captures)
 https://github.com/Developer-Y/cs-video-courses
+https://github.com/mvillaloboz/open-source-cs-degree
 https://github.com/prakhar1989/awesome-courses
 https://github.com/sindresorhus/awesome
 https://medium.freecodecamp.org/450-free-online-programming-computer-science-courses-you-can-start-in-august-dbf3cb657274
@@ -683,6 +686,7 @@ https://news.ycombinator.com/item?id=13867016 (Ask HN: Which Berkeley Courses Sh
 https://news.ycombinator.com/item?id=14570002 (Startup School 2017 Presentations (startupschool.org))
 https://news.ycombinator.com/item?id=14770521 (Ask HN: Any “bootcamps” or courses for intermediate/advanced people?)
 https://news.ycombinator.com/item?id=15018002 (Ask HN: Is Georgia Tech's Online Master in CS Worth It?)
+https://ocw.mit.edu/courses/find-by-topic/#cat=engineering&subcat=computerscience
 https://www.class-central.com/collection/top-free-online-courses?utm_source=top-50-course-page
 https://www.reddit.com/r/learnprogramming/wiki/online
 https://www.reddit.com/r/sysadmin/comments/65u70f/sysadmins_what_are_some_good_it_youtube_channels
