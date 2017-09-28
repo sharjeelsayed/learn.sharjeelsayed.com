@@ -614,6 +614,9 @@ https://www.amazon.com/Selfish-Gene-Anniversary-Landmark-Science/dp/0198788606
 
 Design:
 
+Sources:
+https://news.ycombinator.com/item?id=15328992 (Ask HN: Learn Modern web design and CSS)
+
 The Design of Everyday Things
 https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654
 
@@ -865,11 +868,11 @@ Note: Update your resume on the above sites every Sunday post 12 AM (IST).
 
 Job Search Engines:
 
-http://Indeed.co.in
+https://www.indeed.co.in
 http://stackoverflow.com/jobs
 https://www.placementindia.com
-http://India.Recruit.net
-http://Simplyhired.co.in
+http://india.recruit.net
+https://www.simplyhired.co.in
 https://whoishiring.io
 
 Company and Salary Reviews:
@@ -880,7 +883,7 @@ https://www.glassdoor.co.in/Salaries/india-salary-SRCH_IL.0,5_IN115.htm
 
 Freelancer:
 
-http://www.guru.com
+https://www.guru.com
 https://nomadprojects.io
 https://www.freelancer.com
 https://www.upwork.com
