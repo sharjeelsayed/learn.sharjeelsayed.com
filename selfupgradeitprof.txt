@@ -332,6 +332,9 @@ https://www.amazon.com/Linux-Programming-Interface-System-Handbook/dp/1593272200
 Unix Power Tools,Third Edition
 http://www.amazon.com/Power-Tools-Third-Shelley-Powers/dp/0596003307
 
+Linux Journey
+https://linuxjourney.com
+
 Bash:
 
 Sources:
@@ -560,7 +563,7 @@ Security
 
 Sources:
 https://news.ycombinator.com/item?id=14791255 (Cybersecurity Humble Book Bundle)
-https://room362.com/start/
+https://room362.com/start
 https://s3ctur.wordpress.com/2017/06/19/breaking-into-infosec-a-beginners-curriculum
 https://www.reddit.com/r/netsec+privacy+SocialEngineering+onions+ReverseEngineering+crypto+blackhat+security+Malware+pwned+netsecstudents+computerforensics+HackBloc+securityCTF+xss+vrd+rootkit+REMath
 https://www.reddit.com/r/netsec/wiki/start
@@ -573,6 +576,9 @@ http://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity
 
 Offensive Security Certified Professional
 https://www.offensive-security.com/information-security-certifications/oscp-offensive-security-certified-professional
+
+Kali Linux Offensive Security Certified Professional Survival Exam Guide
+https://github.com/frizb/OSCP-Survival-Guide
 
 Hardware:
 
