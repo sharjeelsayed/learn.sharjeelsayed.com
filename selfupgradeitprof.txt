@@ -553,6 +553,10 @@ https://youtu.be/Y9XZQO1n_7c
 
 Vim:
 
+Sources:
+https://news.ycombinator.com/item?id=15400037 (Interactive Vim tutorial)
+https://news.ycombinator.com/item?id=2936670 (Learn Vim Progressively)
+
 Practical Vim: Edit Text at the Speed of Thought , 2nd Edition
 https://www.amazon.com/Practical-Vim-Edit-Speed-Thought/dp/1680501275
 
