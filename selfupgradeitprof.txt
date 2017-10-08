@@ -721,14 +721,15 @@ Interview Guides:
 
 Sources:
 http://blog.interviewing.io/what-really-matters-in-technical-interviews-we-analyzed-thousands-of-interviews-on-everything-from-language-to-code-style-heres-what-we-found
+https://news.ycombinator.com/item?id=11246917 (How to Pass a Programming Interview)
 https://news.ycombinator.com/item?id=14037313 (Questions to ask at the end of a technical interview)
 https://news.ycombinator.com/item?id=14218559 (How to talk about yourself in a developer interview)
 https://pinboard.in/u:sharjeelsayed/t:cheatsheet
 https://pinboard.in/u:sharjeelsayed/t:interview
 https://pinboard.in/u:sharjeelsayed/t:jobs
+https://www.reddit.com/r/AskReddit/comments/74sskj/what_are_some_red_flags_in_a_job_interview
 https://www.reddit.com/r/cscareerquestions/comments/4ce2s3/resource_interview_questions_my_massive
 https://www.reddit.com/r/cscareerquestions/wiki/index
-https://news.ycombinator.com/item?id=11246917 (How to Pass a Programming Interview)
 
 An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
 https://github.com/alex/what-happens-when
@@ -778,8 +779,8 @@ https://pinboard.in/u:sharjeelsayed/t:music+study
 soma fm 's Drone Zone Channel
 http://somafm.com/player/#/now-playing/dronezone
 
-Ambeint Music:Studying by Apple Music
-https://itunes.apple.com/in/playlist/ambient-music-studying/idpl.572ed2f13c9c493ea5f303108742b13c
+Pure Ambient by Apple Music
+https://itunes.apple.com/in/playlist/pure-ambient/idpl.a9bd89e7b22e45cbaac40b58c9d3d09b
 
 Headphones:
 
