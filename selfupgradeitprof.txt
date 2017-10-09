@@ -176,6 +176,8 @@ Alogrithms and Data Structures:
 
 Sources:
 https://github.com/karan/Projects
+https://news.ycombinator.com/item?id=13653669 (Algorithms (khanacademy.org))
+https://news.ycombinator.com/item?id=15423045 (A Comparison of Four Algorithms Textbooks (2016))
 https://projecteuler.net
 https://www.reddit.com/r/algorithms
 https://www.reddit.com/r/compsci/comments/1kcal2/algorithims_everyone_should_know
