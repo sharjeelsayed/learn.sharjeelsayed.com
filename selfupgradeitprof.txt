@@ -568,6 +568,7 @@ https://www.elastic.co/guide/index.html
 Security
 
 Sources:
+https://github.com/vitalysim/Awesome-Hacking-Resources
 https://news.ycombinator.com/item?id=14791255 (Cybersecurity Humble Book Bundle)
 https://room362.com/start
 https://s3ctur.wordpress.com/2017/06/19/breaking-into-infosec-a-beginners-curriculum
