@@ -727,16 +727,18 @@ Interview Guides:
 
 Sources:
 http://blog.interviewing.io/what-really-matters-in-technical-interviews-we-analyzed-thousands-of-interviews-on-everything-from-language-to-code-style-heres-what-we-found
+https://hn.algolia.com/?query=interview&sort=byPopularity&prefix&page=0&dateRange=all&type=story
 https://news.ycombinator.com/item?id=11246917 (How to Pass a Programming Interview)
 https://news.ycombinator.com/item?id=14037313 (Questions to ask at the end of a technical interview)
 https://news.ycombinator.com/item?id=14218559 (How to talk about yourself in a developer interview)
+https://news.ycombinator.com/item?id=15341566 (Technical and non-technical tips for rocking your coding interview)
 https://news.ycombinator.com/item?id=15468786 (Questions to ask in interviews (cternus.net))
-https://pinboard.in/u:sharjeelsayed/t:cheatsheet
-https://pinboard.in/u:sharjeelsayed/t:interview
-https://pinboard.in/u:sharjeelsayed/t:jobs
 https://www.reddit.com/r/AskReddit/comments/74sskj/what_are_some_red_flags_in_a_job_interview
 https://www.reddit.com/r/cscareerquestions/comments/4ce2s3/resource_interview_questions_my_massive
 https://www.reddit.com/r/cscareerquestions/wiki/index
+https://pinboard.in/u:sharjeelsayed/t:cheatsheet
+https://pinboard.in/u:sharjeelsayed/t:interview
+https://pinboard.in/u:sharjeelsayed/t:jobs
 
 An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
 https://github.com/alex/what-happens-when
@@ -755,6 +757,12 @@ https://github.com/MaximAbramchuck/awesome-interview-questions
 
 Coding Interview University
 https://github.com/jwasham/coding-interview-university
+
+Everything you need to prepare for your technical interview
+https://github.com/andreis/interview
+
+Algorithms, front end and behavioral content for rocking your coding interview
+https://github.com/yangshun/tech-interview-handbook
 
 Cracking the Coding Interview: 189 Programming Questions and Solutions
 https://www.amazon.com/Cracking-Coding-Interview-6th-Programming/dp/0984782850
