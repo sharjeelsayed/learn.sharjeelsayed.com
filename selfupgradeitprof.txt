@@ -878,6 +878,7 @@ Job Portals:
 Sources:
 https://github.com/lukasz-madon/awesome-remote-job
 https://news.ycombinator.com/item?id=14686745 (Ask HN: What are some of the best job boards you have seen (any industry)?)
+https://news.ycombinator.com/item?id=15473776 (Ask HN: What do you care about the most in a tech job post?)
 
 https://www.linkedin.com/jobs
 https://www.naukri.com
