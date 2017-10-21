@@ -670,7 +670,6 @@ https://www.reddit.com/r/Piracy/comments/6ldvos/hard_to_find_ebooks
 
 http://libgen.io
 https://torrentz2.eu
-http://torrentproject.se
 https://thepiratebay-proxylist.org
 https://cse.google.com/cse/publicurl?cx=011394183039475424659:5bfyqg89ers (Google Custom Search Engine for Ebooks)
 https://cse.google.com/cse/publicurl?cx=001639227550064093264:dznewka3cca (Google Custom Search Engine for Ebooks)
@@ -763,6 +762,9 @@ https://github.com/andreis/interview
 
 Algorithms, front end and behavioral content for rocking your coding interview
 https://github.com/yangshun/tech-interview-handbook
+
+500 Data Structures and Algorithms practice problems and their solutions
+https://techiedelight.quora.com/500-Data-Structures-and-Algorithms-practice-problems-and-their-solutions
 
 Cracking the Coding Interview: 189 Programming Questions and Solutions
 https://www.amazon.com/Cracking-Coding-Interview-6th-Programming/dp/0984782850
