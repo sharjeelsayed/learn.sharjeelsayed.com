@@ -706,6 +706,7 @@ https://news.ycombinator.com/item?id=15018002 (Ask HN: Is Georgia Tech's Online 
 https://ocw.mit.edu/courses/find-by-topic/#cat=engineering&subcat=computerscience
 https://www.class-central.com/collection/top-free-online-courses?utm_source=top-50-course-page
 https://www.class-central.com/report/mooc-providers-list
+https://www.reddit.com/r/learnprogramming/comments/77g5tw/25_free_online_programming_courses_and_moocs_for
 https://www.reddit.com/r/learnprogramming/wiki/online
 https://www.reddit.com/r/sysadmin/comments/65u70f/sysadmins_what_are_some_good_it_youtube_channels
 https://www.reddit.com/r/sysadmin/comments/65wdum/whats_your_favorite_selfstudy_resource_paid_free
