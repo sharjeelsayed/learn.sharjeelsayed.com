@@ -122,6 +122,7 @@ https://www.reddit.com/r/cscareerquestions/comments/6hmlxr/what_are_the_most_ind
 https://www.reddit.com/r/learnprogramming/comments/6l5u8s/what_one_thing_improved_your_skills_the_most
 https://www.reddit.com/r/learnprogramming/comments/6lvvqq/audiobooks_on_programming
 https://www.reddit.com/r/learnprogramming/comments/75qwen/im_34_and_i_got_my_first_programming_job_after
+https://www.reddit.com/r/learnprogramming/top/
 https://www.reddit.com/r/learnprogramming/wiki/books
 https://www.reddit.com/r/learnprogramming/wiki/faq
 https://www.reddit.com/r/learnprogramming/wiki/online
@@ -310,8 +311,8 @@ http://stackoverflow.com/questions/851980/linux-programming-book
 https://news.ycombinator.com/item?id=3257393 (What's the one Linux command you wish you knew years ago?)
 https://www.reddit.com/r/linuxadmin/comments/2s924h/how_did_you_get_your_start/cnnw1ma
 
-UNIX and Linux System Administration Handbook (4th Edition)
-http://www.amazon.com/UNIX-Linux-System-Administration-Handbook/dp/0131480057
+UNIX and Linux System Administration Handbook (5th Edition)
+https://www.amazon.com/UNIX-Linux-System-Administration-Handbook/dp/0134277554
 
 How Linux Works: What Every Superuser Should Know Second Edition
 http://www.amazon.com/How-Linux-Works-Superuser-Should/dp/1593275676
@@ -669,8 +670,8 @@ https://www.reddit.com/r/Piracy/comments/6583hl/piracy_megathread_v20
 https://www.reddit.com/r/Piracy/comments/6ldvos/hard_to_find_ebooks
 
 http://libgen.io
-https://1337x.to/home
-https://proxybay.one
+https://thepiratebay-proxylist.org
+https://1337x.to
 https://cse.google.com/cse/publicurl?cx=011394183039475424659:5bfyqg89ers (Google Custom Search Engine for Ebooks)
 https://cse.google.com/cse/publicurl?cx=001639227550064093264:dznewka3cca (Google Custom Search Engine for Ebooks)
 http://b-ok.org
