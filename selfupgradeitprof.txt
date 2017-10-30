@@ -815,6 +815,7 @@ Management:
 
 Sources:
 http://sabok.org (Guide to the Systems Administration Body of Knowledge)
+http://startupstash.com
 http://www.toomas.net/2017/07/18/reverse-engineering-a-successful-lifestyle-business-heres-everything-ive-learned-from-reading-indiehackers-com
 https://news.ycombinator.com/item?id=11209066 (Why you probably don't need an MBA )
 https://news.ycombinator.com/item?id=13207268 (Ask HN: How do I get freelance developer jobs?)
@@ -826,6 +827,7 @@ https://news.ycombinator.com/item?id=14569154 (Ask HN: Where to find co-develope
 https://news.ycombinator.com/item?id=14653564 (Ask HN: As an employee of a company, how do you assess its health?)
 https://news.ycombinator.com/item?id=14726130 (Ask HN: How to prepare for an Engineering Manager interview?)
 https://news.ycombinator.com/item?id=15039829 (Ask HN: What costly inefficiency do you see at work?)
+https://news.ycombinator.com/item?id=15579047 (Ask HN: How do you take idea notes / voice memos / reminders to yourself?)
 https://www.indiehackers.com
 https://www.reddit.com/r/cscareerquestions/comments/6fnujy/soft_skills_for_programmers
 
@@ -976,6 +978,7 @@ https://news.ycombinator.com/item?id=14724092 (Ask HN: Which sites you visit on 
 https://news.ycombinator.com/item?id=15098066 (Ask HN: What online communities offer a high level of discussion?)
 https://news.ycombinator.com/item?id=15105601 (Ask HN: What are your favourite self hosted tools?)
 https://www.coursera.org/learn/learning-how-to-learn
+https://www.producthunt.com
 https://www.reddit.com/r/AskReddit/comments/4q91g9/what_free_things_online_should_everyone_take/d4r8foy
 https://www.reddit.com/r/AskReddit/comments/6k0p7l/what_are_the_best_free_online_certificates_you
 https://www.reddit.com/r/AskReddit/comments/6q2b8x/reddit_whats_become_clear_to_you_as_youve_gotten
