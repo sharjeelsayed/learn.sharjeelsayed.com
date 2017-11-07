@@ -706,6 +706,7 @@ https://news.ycombinator.com/item?id=14570002 (Startup School 2017 Presentations
 https://news.ycombinator.com/item?id=14770521 (Ask HN: Any “bootcamps” or courses for intermediate/advanced people?)
 https://news.ycombinator.com/item?id=15018002 (Ask HN: Is Georgia Tech's Online Master in CS Worth It?)
 https://ocw.mit.edu/courses/find-by-topic/#cat=engineering&subcat=computerscience
+https://qz.com/1120344/200-universities-just-launched-600-free-online-courses-heres-the-full-list
 https://www.class-central.com/collection/top-free-online-courses?utm_source=top-50-course-page
 https://www.class-central.com/report/mooc-providers-list
 https://www.reddit.com/r/learnprogramming/comments/77g5tw/25_free_online_programming_courses_and_moocs_for
@@ -886,6 +887,7 @@ Sources:
 https://github.com/lukasz-madon/awesome-remote-job
 https://news.ycombinator.com/item?id=14686745 (Ask HN: What are some of the best job boards you have seen (any industry)?)
 https://news.ycombinator.com/item?id=15473776 (Ask HN: What do you care about the most in a tech job post?)
+https://news.ycombinator.com/item?id=15646550 (Ask HN: What is your favorite place to find work?)
 
 https://www.linkedin.com/jobs
 https://www.naukri.com
