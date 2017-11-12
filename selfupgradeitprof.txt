@@ -608,6 +608,9 @@ https://www.amazon.com/Excel-2016-Bible-John-Walkenbach/dp/1119067510
 
 Electronics:
 
+Sources:
+https://www.reddit.com/r/AskElectronics/wiki/index
+
 The Art of Electronics 3rd Edition
 https://www.amazon.com/Art-Electronics-Paul-Horowitz/dp/0521809266
 
@@ -950,9 +953,11 @@ https://podcastrank.co
 https://www.reddit.com/r/programming/comments/6l689j/a_manually_curated_list_of_240_popular
 https://twitter.com/SharjeelSayed
 
-Import this OPML file, https://sharjeelsayed.github.io/inoreader_sharjeelsayed_subscriptions.xml , into inoreader.com .Enable notifications (Paid Account Only) for the 'MustRead' folder.
-Detailed import and notification configuration instructions at http://blog.inoreader.com/2014/04/opml-import-additions.html and http://blog.inoreader.com/2015/04/introducing-push-notifications-get-most.html
-Install the Inoreader Mobile Client from https://play.google.com/store/apps/details?id=com.innologica.inoreader or https://appsto.re/in/wnem1.i
+Get News that matters the easy way:
+
+Import this OPML file, https://sharjeelsayed.github.io/inoreader_sharjeelsayed_subscriptions.xml , into inoreader.com. Read http://blog.inoreader.com/2014/04/opml-import-additions.html on how to import OPML files.
+
+Install the ifttt.com app on your smartphone and get notifications for all the RSS feeds in the "Must Read" folder from the above OPML file by adding the http://www.rssmix.com/u/8263257/rss.xml feed into https://ifttt.com/applets/456148p-get-rss-feed-notification
 
 Foreign Language:
 
