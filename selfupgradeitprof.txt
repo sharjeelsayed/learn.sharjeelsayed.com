@@ -85,6 +85,7 @@ https://news.ycombinator.com/item?id=13014900 (Ask HN: What are the bibles of Co
 https://news.ycombinator.com/item?id=13406638 (Ask HN: What's the best computer science book you've read recently?)
 https://news.ycombinator.com/item?id=13862284 (Teach Yourself Computer Science)
 https://news.ycombinator.com/item?id=15089476 (Ask HN: What is your favorite CS paper?)
+https://news.ycombinator.com/item?id=15695326 (Ask HN: What are some interesting papers in CS for a beginner?)
 https://news.ycombinator.com/item?id=5019373 (How Harvard's CS50 Renewed My Hope For Online Education)
 https://spin.atomicobject.com/2015/05/15/obtaining-thorough-cs-background-online
 https://techdevguide.withgoogle.com
@@ -955,7 +956,7 @@ https://twitter.com/SharjeelSayed
 
 Get News that matters the easy way:
 
-Import this OPML file, https://sharjeelsayed.github.io/inoreader_sharjeelsayed_subscriptions.xml , into inoreader.com. Read http://blog.inoreader.com/2014/04/opml-import-additions.html on how to import OPML files.
+Import this OPML file, https://sharjeelsayed.github.io/inoreader_sharjeelsayed_subscriptions.xml , into inoreader.com.
 
 Install the ifttt.com app on your smartphone and get notifications for all the RSS feeds in the "Must Read" folder from the above OPML file by adding the http://www.rssmix.com/u/8263257/rss.xml feed into https://ifttt.com/applets/456148p-get-rss-feed-notification
 
