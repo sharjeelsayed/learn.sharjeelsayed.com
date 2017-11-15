@@ -5,12 +5,12 @@
   </head>
   <body>
     <outline text="MustRead" title="MustRead">
+      <outline text="/r/netsec - Information Security News &amp; Discussion" title="/r/netsec - Information Security News &amp; Discussion" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/netsec/.rss" htmlUrl="https://www.reddit.com/r/netsec/?t=20170706082704"/>
       <outline text="The Hacker News" title="The Hacker News" type="rss" xmlUrl="http://thehackernews.com/feeds/posts/default" htmlUrl="http://thehackernews.com/"/>
       <outline text="World News" title="World News" type="rss" xmlUrl="https://www.reddit.com/r/worldnews/.rss" htmlUrl="https://www.reddit.com/r/worldnews/"/>
       <outline text="Hacker News: Front Page" title="Hacker News: Front Page" type="rss" xmlUrl="https://hnrss.org/frontpage" htmlUrl="https://news.ycombinator.com/"/>
       <outline text="Top Stories - Google News" title="Top Stories - Google News" type="rss" xmlUrl="http://news.google.co.in/news?cf=all&amp;hl=en&amp;pz=1&amp;ned=in&amp;topic=h&amp;num=3&amp;output=rss" htmlUrl="http://news.google.co.in/news?hl=en&amp;pz=1&amp;ned=in&amp;num=3&amp;topic=h"/>
-      <outline text="/r/netsec - Information Security News &amp; Discussion" title="/r/netsec - Information Security News &amp; Discussion" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/netsec/.rss" htmlUrl="https://www.reddit.com/r/netsec/?t=20170706082704"/>
-      <outline text="Slashdot" title="Slashdot" type="rss" xmlUrl="http://rss.slashdot.org/slashdot/classic" htmlUrl="http://slashdot.org/"/>
+      <outline text="Slashdot" title="Slashdot" type="rss" xmlUrl="http://rss.slashdot.org/Slashdot/slashdotMain" htmlUrl="http://slashdot.org/"/>
       <outline text="Techmeme" title="Techmeme" type="rss" xmlUrl="http://www.techmeme.com/index.xml" htmlUrl="http://www.techmeme.com/"/>
     </outline>
     <outline text="News" title="News">
@@ -25,10 +25,10 @@
     </outline>
     <outline text="Technology" title="Technology">
       <outline text="reddit gadget guide" title="reddit gadget guide" type="rss" xmlUrl="https://www.reddit.com/r/gadgets/.rss" htmlUrl="https://www.reddit.com/r/gadgets/"/>
+      <outline text="Slashdot" title="Slashdot" type="rss" xmlUrl="http://rss.slashdot.org/Slashdot/slashdotMain" htmlUrl="http://slashdot.org/"/>
       <outline text="The Hacker News" title="The Hacker News" type="rss" xmlUrl="http://thehackernews.com/feeds/posts/default" htmlUrl="http://thehackernews.com/"/>
       <outline text="Apple" title="Apple" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/apple/.rss" htmlUrl="https://www.reddit.com/r/apple/?t=20170511152445"/>
       <outline text="Hacker News: Front Page" title="Hacker News: Front Page" type="rss" xmlUrl="https://hnrss.org/frontpage" htmlUrl="https://news.ycombinator.com/"/>
-      <outline text="Slashdot" title="Slashdot" type="rss" xmlUrl="http://rss.slashdot.org/slashdot/classic" htmlUrl="http://slashdot.org/"/>
       <outline text="Techmeme" title="Techmeme" type="rss" xmlUrl="http://www.techmeme.com/index.xml" htmlUrl="http://www.techmeme.com/"/>
     </outline>
     <outline text="DevOps" title="DevOps">
