@@ -957,9 +957,11 @@ https://twitter.com/SharjeelSayed
 
 Get News that matters the easy way:
 
-Import this OPML file, https://sharjeelsayed.github.io/inoreader_sharjeelsayed_subscriptions.xml , into inoreader.com.
+RSS Reader (Web/iOS/Android):
+Import the OPML file, https://sharjeelsayed.github.io/inoreader_sharjeelsayed_subscriptions.xml , into inoreader.com
 
-Install the ifttt.com app on your smartphone and get notifications for all the RSS feeds in the "Must Read" folder from the above OPML file by adding the http://www.rssmix.com/u/8263257/rss.xml feed into https://ifttt.com/applets/456148p-get-rss-feed-notification
+Mobile Notifications (iOS/Android):
+Configure the http://www.rssmix.com/u/8263712/rss.xml feed into the ifttt.com (https://itunes.apple.com/us/app/ifttt/id660944635?mt=8 , https://play.google.com/store/apps/details?id=com.ifttt.ifttt) app recipe https://ifttt.com/applets/456148p-get-rss-feed-notification
 
 Foreign Language:
 
