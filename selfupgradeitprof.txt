@@ -960,8 +960,8 @@ Get News that matters the easy way:
 RSS Reader (Web/iOS/Android):
 Import the OPML file, https://sharjeelsayed.github.io/inoreader_sharjeelsayed_subscriptions.xml , into inoreader.com
 
-Mobile Notifications (iOS/Android):
-Configure the http://www.rssmix.com/u/8263712/rss.xml feed into the ifttt.com (https://itunes.apple.com/us/app/ifttt/id660944635?mt=8 , https://play.google.com/store/apps/details?id=com.ifttt.ifttt) app recipe https://ifttt.com/applets/456148p-get-rss-feed-notification
+News Notifications (iOS/Android):
+Configure the http://www.rssmix.com/u/8263712/rss.xml feed into the ifttt.com app recipe https://ifttt.com/applets/456148p-get-rss-feed-notification
 
 Foreign Language:
 
