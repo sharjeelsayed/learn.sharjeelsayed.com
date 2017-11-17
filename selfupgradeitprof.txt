@@ -346,6 +346,7 @@ Bash:
 
 Sources:
 https://news.ycombinator.com/item?id=14634964 (Ask HN: How can I get better at bash?)
+https://github.com/jlevy/the-art-of-command-line
 
 ABS Guide
 http://tldp.org/LDP/abs/html
@@ -961,7 +962,7 @@ RSS Reader (Web/iOS/Android):
 Import the OPML file, https://sharjeelsayed.github.io/inoreader_sharjeelsayed_subscriptions.xml , into inoreader.com
 
 News Notifications (iOS/Android):
-Configure the http://www.rssmix.com/u/8263712/rss.xml feed into the ifttt.com app recipe https://ifttt.com/applets/456148p-get-rss-feed-notification
+Add the http://www.rssmix.com/u/8263712/rss.xml feed into the ifttt app recipe https://ifttt.com/applets/456148p-get-rss-feed-notification
 
 Foreign Language:
 
