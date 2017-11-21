@@ -119,6 +119,7 @@ https://news.ycombinator.com/item?id=14841939 (Ask HN: What books had the greate
 https://news.ycombinator.com/item?id=14842276 (Ask HN: What programming blogs do you follow?)
 https://news.ycombinator.com/item?id=15157651 (YouTube Programming Channels)
 https://news.ycombinator.com/item?id=15733745 (Ask HN: How do you read programming books?)
+https://news.ycombinator.com/item?id=15739877 (Stanford Compilers Course (stanford.edu)
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/index.htm
 https://www.reddit.com/r/cscareerquestions/comments/6hmlxr/what_are_the_most_indemand_software_skills_right/dizqiie
 https://www.reddit.com/r/learnprogramming/comments/6l5u8s/what_one_thing_improved_your_skills_the_most
@@ -575,6 +576,7 @@ https://www.elastic.co/guide/index.html
 Security
 
 Sources:
+http://www.fastrls.com/2017/10/30/offensive-security-training-videos
 https://github.com/vitalysim/Awesome-Hacking-Resources
 https://news.ycombinator.com/item?id=14791255 (Cybersecurity Humble Book Bundle)
 https://room362.com/start
@@ -958,7 +960,7 @@ https://podcastrank.co
 https://www.reddit.com/r/programming/comments/6l689j/a_manually_curated_list_of_240_popular
 https://twitter.com/SharjeelSayed
 
-Get News that matters the easy way:
+Curated Tech and World News:
 
 RSS Reader (Web/iOS/Android):
 Import the OPML file, https://sharjeelsayed.github.io/inoreader_sharjeelsayed_subscriptions.xml , into inoreader.com
