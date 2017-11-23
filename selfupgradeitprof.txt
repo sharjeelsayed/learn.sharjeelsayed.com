@@ -967,7 +967,7 @@ RSS Reader (Web/iOS/Android):
 Import the OPML file, https://sharjeelsayed.github.io/inoreader_sharjeelsayed_subscriptions.xml , into inoreader.com
 
 News Notifications (iOS/Android):
-Add the http://www.rssmix.com/u/8263712/rss.xml feed into the ifttt app recipe https://ifttt.com/applets/456148p
+Add the http://www.rssmix.com/u/8264626/rss.xml feed into the ifttt app recipe https://ifttt.com/applets/456148p
 
 Foreign Language:
 
