@@ -967,7 +967,7 @@ RSS Reader (Web/iOS/Android):
 Import https://sharjeelsayed.github.io/inoreader_sharjeelsayed_subscriptions.xml , into inoreader.com
 
 News Notifications (iOS/Android):
-Add http://www.rssmix.com/u/8264717/rss.xml into https://ifttt.com/applets/456148p
+Add http://www.rssmix.com/u/8264717/rss.xml into the Feed URL field in https://ifttt.com/applets/456148p
 
 Foreign Language:
 
