@@ -5,38 +5,40 @@
   </head>
   <body>
     <outline text="MustRead" title="MustRead">
-      <outline text="More Top Stories - Google News" title="More Top Stories - Google News" type="rss" xmlUrl="https://news.google.com/news/rss/?ned=in&amp;gl=IN&amp;hl=en-IN" htmlUrl="https://news.google.coms/rss/?ned=in&amp;gl=IN&amp;hl=en-IN"/>
-      <outline text="World News" title="World News" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/worldnews/.rss" htmlUrl="https://www.reddit.com/r/worldnews/?t=20171123064440"/>
       <outline text="Slashdot" title="Slashdot" type="rss" xmlUrl="http://rss.slashdot.org/Slashdot/slashdotMain" htmlUrl="http://slashdot.org/"/>
       <outline text="/r/netsec - Information Security News &amp; Discussion" title="/r/netsec - Information Security News &amp; Discussion" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/netsec/.rss" htmlUrl="https://www.reddit.com/r/netsec/?t=20170706082704"/>
       <outline text="The Hacker News" title="The Hacker News" type="rss" xmlUrl="http://thehackernews.com/feeds/posts/default" htmlUrl="http://thehackernews.com/"/>
+      <outline text="Mumbai, Maharashtra - Google News" title="Mumbai, Maharashtra - Google News" type="rss" xmlUrl="https://news.google.com/news/rss/local/section/geo/Mumbai/Mumbai,%20Maharashtra?ned=in&amp;hl=en-IN&amp;gl=IN" htmlUrl="https://news.google.coms/rss/local/section/geo/Mumbai/Mumbai,%20Maharashtra?ned=in&amp;hl=en-IN&amp;gl=IN"/>
       <outline text="Hacker News: Front Page" title="Hacker News: Front Page" type="rss" xmlUrl="https://hnrss.org/frontpage" htmlUrl="https://news.ycombinator.com/"/>
+      <outline text="More Top Stories - Google News" title="More Top Stories - Google News" type="rss" xmlUrl="https://news.google.com/news/rss/?ned=in&amp;gl=IN&amp;hl=en-IN&amp;num=3&amp;topic=h" htmlUrl="https://news.google.com/news/rss/?ned=in&amp;gl=IN&amp;hl=en-IN&amp;num=3&amp;topic=h"/>
+      <outline text="World News" title="World News" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/worldnews/.rss" htmlUrl="https://www.reddit.com/r/worldnews/?t=20171123064440"/>
       <outline text="Techmeme" title="Techmeme" type="rss" xmlUrl="http://www.techmeme.com/index.xml" htmlUrl="http://www.techmeme.com/"/>
     </outline>
     <outline text="News" title="News">
-      <outline text="India: United We Stand" title="India: United We Stand" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/india/.rss" htmlUrl="https://www.reddit.com/r/india/?t=20170511151956"/>
-      <outline text="More Top Stories - Google News" title="More Top Stories - Google News" type="rss" xmlUrl="https://news.google.com/news/rss/?ned=in&amp;gl=IN&amp;hl=en-IN" htmlUrl="https://news.google.coms/rss/?ned=in&amp;gl=IN&amp;hl=en-IN"/>
+      <outline text="Mumbai, Maharashtra - Google News" title="Mumbai, Maharashtra - Google News" type="rss" xmlUrl="https://news.google.com/news/rss/local/section/geo/Mumbai/Mumbai,%20Maharashtra?ned=in&amp;hl=en-IN&amp;gl=IN" htmlUrl="https://news.google.coms/rss/local/section/geo/Mumbai/Mumbai,%20Maharashtra?ned=in&amp;hl=en-IN&amp;gl=IN"/>
+      <outline text="More Top Stories - Google News" title="More Top Stories - Google News" type="rss" xmlUrl="https://news.google.com/news/rss/?ned=in&amp;gl=IN&amp;hl=en-IN&amp;num=3&amp;topic=h" htmlUrl="https://news.google.com/news/rss/?ned=in&amp;gl=IN&amp;hl=en-IN&amp;num=3&amp;topic=h"/>
       <outline text="World News" title="World News" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/worldnews/.rss" htmlUrl="https://www.reddit.com/r/worldnews/?t=20171123064440"/>
+      <outline text="India: United We Stand" title="India: United We Stand" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/india/.rss" htmlUrl="https://www.reddit.com/r/india/?t=20170511151956"/>
     </outline>
     <outline text="Bookmarks" title="Bookmarks">
       <outline text="Pinboard (popular bookmarks)" title="Pinboard (popular bookmarks)" type="rss" xmlUrl="http://feeds.pinboard.in/rss/popular/" htmlUrl="https://pinboard.in/popular/"/>
       <outline text="Pinboard (sharjeelsayed)" title="Pinboard (sharjeelsayed)" type="rss" xmlUrl="http://feeds.pinboard.in/rss/secret:4a34677e77291488e93c/u:sharjeelsayed/" htmlUrl="https://pinboard.in/u:sharjeelsayed/"/>
     </outline>
     <outline text="Technology" title="Technology">
-      <outline text="reddit gadget guide" title="reddit gadget guide" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/gadgets/.rss" htmlUrl="https://www.reddit.com/r/gadgets/?t=20171123064255"/>
       <outline text="Slashdot" title="Slashdot" type="rss" xmlUrl="http://rss.slashdot.org/Slashdot/slashdotMain" htmlUrl="http://slashdot.org/"/>
       <outline text="The Hacker News" title="The Hacker News" type="rss" xmlUrl="http://thehackernews.com/feeds/posts/default" htmlUrl="http://thehackernews.com/"/>
       <outline text="Apple" title="Apple" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/apple/.rss" htmlUrl="https://www.reddit.com/r/apple/?t=20170511152445"/>
       <outline text="Hacker News: Front Page" title="Hacker News: Front Page" type="rss" xmlUrl="https://hnrss.org/frontpage" htmlUrl="https://news.ycombinator.com/"/>
+      <outline text="reddit gadget guide" title="reddit gadget guide" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/gadgets/.rss" htmlUrl="https://www.reddit.com/r/gadgets/?t=20171123064255"/>
       <outline text="Techmeme" title="Techmeme" type="rss" xmlUrl="http://www.techmeme.com/index.xml" htmlUrl="http://www.techmeme.com/"/>
     </outline>
     <outline text="DevOps" title="DevOps">
-      <outline text="cscareerquestions, compsci, programming, learnprogramming :top scoring links" title="cscareerquestions, compsci, programming, learnprogramming :top scoring links" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/compsci%2Bcscareerquestions%2Blearnprogramming%2Bprogramming/top/.rss" htmlUrl="https://www.reddit.com/r/compsci+cscareerquestions+learnprogramming+programming/top/?t=20170511093224"/>
-      <outline text="posts from linuxadmin, linux" title="posts from linuxadmin, linux" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/linuxadmin%2Blinux.rss" htmlUrl="https://www.reddit.com/r/linuxadmin+linux?t=20171123061924"/>
       <outline text="/r/netsec - Information Security News &amp; Discussion" title="/r/netsec - Information Security News &amp; Discussion" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/netsec/.rss" htmlUrl="https://www.reddit.com/r/netsec/?t=20170706082704"/>
       <outline text="posts from xss, Malware, HackBloc, ReverseEngineering, REMath, securityCTF, netsecstudents, privacy, blackhat, crypto, rootkit, computerforensics, SocialEngineering, security, onions, pwned, vrd" title="posts from xss, Malware, HackBloc, ReverseEngineering, REMath, securityCTF, netsecstudents, privacy, blackhat, crypto, rootkit, computerforensics, SocialEngineering, security, onions, pwned, vrd" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/HackBloc%2BMalware%2BREMath%2BReverseEngineering%2BSocialEngineering%2Bblackhat%2Bcomputerforensics%2Bcrypto%2Bnetsecstudents%2Bonions%2Bprivacy%2Bpwned%2Brootkit%2Bsecurity%2BsecurityCTF%2Bvrd%2Bxss.rss" htmlUrl="https://www.reddit.com/r/HackBloc+Malware+REMath+ReverseEngineering+SocialEngineering+blackhat+computerforensics+crypto+netsecstudents+onions+privacy+pwned+rootkit+security+securityCTF+vrd+xss?t=20171115084353"/>
       <outline text="Enterprise Networking news, blogs and discussion." title="Enterprise Networking news, blogs and discussion." type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/networking/.rss" htmlUrl="https://www.reddit.com/r/networking/?t=20170708164314"/>
       <outline text="Sysadmin" title="Sysadmin" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/sysadmin/.rss" htmlUrl="https://www.reddit.com/r/sysadmin/?t=20170511152637"/>
+      <outline text="cscareerquestions, compsci, programming, learnprogramming :top scoring links" title="cscareerquestions, compsci, programming, learnprogramming :top scoring links" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/compsci%2Bcscareerquestions%2Blearnprogramming%2Bprogramming/top/.rss" htmlUrl="https://www.reddit.com/r/compsci+cscareerquestions+learnprogramming+programming/top/?t=20170511093224"/>
+      <outline text="posts from linuxadmin, linux" title="posts from linuxadmin, linux" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/linuxadmin%2Blinux.rss" htmlUrl="https://www.reddit.com/r/linuxadmin+linux?t=20171123061924"/>
     </outline>
     <outline text="Fun" title="Fun">
       <outline text="reddit: the front page of the internet" title="reddit: the front page of the internet" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=.rss" htmlUrl="https://www.reddit.com/?t=20170511151826"/>
