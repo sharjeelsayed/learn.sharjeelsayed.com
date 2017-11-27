@@ -880,6 +880,7 @@ Sources:
 https://codewithoutrules.com/2016/08/08/living-below-your-means
 https://news.ycombinator.com/item?id=15140182 (A Guide to Crypto Currencies (mycrypto.guide))
 https://news.ycombinator.com/item?id=15222819 (A New Way to Learn Economics (newyorker.com))
+https://news.ycombinator.com/item?id=15779722 (A good resource for financial advice to share with people in their twenties?)
 https://www.amazon.com/gp/bestsellers/books/491584
 https://www.reddit.com/r/Economics/wiki/reading
 https://www.reddit.com/r/india/comments/6b480c/psa_investing_in_mutual_funds_101
@@ -964,10 +965,10 @@ https://twitter.com/SharjeelSayed
 Curated Tech and World News:
 
 RSS Reader (Web/iOS/Android):
-Import https://sharjeelsayed.github.io/inoreader_sharjeelsayed_subscriptions.xml , into inoreader.com
+Import https://opml.sharjeelsayed.com , into inoreader.com
 
 News Notifications (iOS/Android):
-Add http://www.rssmix.com/u/8264717/rss.xml into the Feed URL field in https://ifttt.com/applets/456148p
+Add http://rss.sharjeelsayed.com into the Feed URL field in https://ifttt.com/applets/456148p
 
 Foreign Language:
 
