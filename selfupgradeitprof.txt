@@ -970,7 +970,7 @@ News Notifications (iOS/Android):
 Install the IFTTT Mobile app and add http://rss.sharjeelsayed.com into the Feed URL field in https://ifttt.com/applets/456148p
 
 RSS Reader (Web/iOS/Android):
-Import https://opml.sharjeelsayed.com , into inoreader.com
+Import http://opml.sharjeelsayed.com , into inoreader.com
 
 Foreign Language:
 
