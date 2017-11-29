@@ -747,6 +747,7 @@ https://news.ycombinator.com/item?id=14037313 (Questions to ask at the end of a 
 https://news.ycombinator.com/item?id=14218559 (How to talk about yourself in a developer interview)
 https://news.ycombinator.com/item?id=15341566 (Technical and non-technical tips for rocking your coding interview)
 https://news.ycombinator.com/item?id=15468786 (Questions to ask in interviews (cternus.net))
+https://news.ycombinator.com/item?id=15804795 (How to solve a hard programming interview question)
 https://www.reddit.com/r/AskReddit/comments/74sskj/what_are_some_red_flags_in_a_job_interview
 https://www.reddit.com/r/cscareerquestions/comments/4ce2s3/resource_interview_questions_my_massive
 https://www.reddit.com/r/cscareerquestions/wiki/index
@@ -881,6 +882,7 @@ https://codewithoutrules.com/2016/08/08/living-below-your-means
 https://news.ycombinator.com/item?id=15140182 (A Guide to Crypto Currencies (mycrypto.guide))
 https://news.ycombinator.com/item?id=15222819 (A New Way to Learn Economics (newyorker.com))
 https://news.ycombinator.com/item?id=15779722 (A good resource for financial advice to share with people in their twenties?)
+https://news.ycombinator.com/item?id=15786703 (Stanford CS007: Personal Finance For Engineers)
 https://www.amazon.com/gp/bestsellers/books/491584
 https://www.reddit.com/r/Economics/wiki/reading
 https://www.reddit.com/r/india/comments/6b480c/psa_investing_in_mutual_funds_101
@@ -964,11 +966,11 @@ https://twitter.com/SharjeelSayed
 
 Curated Tech and World News:
 
+News Notifications (iOS/Android):
+Install the IFTTT Mobile app and add http://rss.sharjeelsayed.com into the Feed URL field in https://ifttt.com/applets/456148p
+
 RSS Reader (Web/iOS/Android):
 Import https://opml.sharjeelsayed.com , into inoreader.com
-
-News Notifications (iOS/Android):
-Add http://rss.sharjeelsayed.com into the Feed URL field in https://ifttt.com/applets/456148p
 
 Foreign Language:
 
