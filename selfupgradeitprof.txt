@@ -120,6 +120,7 @@ https://news.ycombinator.com/item?id=14842276 (Ask HN: What programming blogs do
 https://news.ycombinator.com/item?id=15157651 (YouTube Programming Channels)
 https://news.ycombinator.com/item?id=15733745 (Ask HN: How do you read programming books?)
 https://news.ycombinator.com/item?id=15739877 (Stanford Compilers Course (stanford.edu)
+https://news.ycombinator.com/item?id=15826781 (Ask HN: What coding challenge sites should I try next?)
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/index.htm
 https://www.reddit.com/r/cscareerquestions/comments/6hmlxr/what_are_the_most_indemand_software_skills_right/dizqiie
 https://www.reddit.com/r/learnprogramming/comments/6l5u8s/what_one_thing_improved_your_skills_the_most
@@ -675,6 +676,7 @@ https://news.ycombinator.com/item?id=15155833 (Ask HN: What books have made the 
 https://news.ycombinator.com/item?id=15629762 (Ask HN: What are your favorite books of all time, and why?)
 https://news.ycombinator.com/item?id=15761599 (Ask HN: Books on specific topics that have applied to many areas of your life?)
 https://opentrackers.org/downloading-ebooks-textbooks
+https://redditfavorites.com/books
 https://www.amazon.com/charts
 https://www.reddit.com/r/AskReddit/comments/34m5n6/reddit_what_are_some_must_read_books
 https://www.reddit.com/r/cscareerquestions/comments/6w4dej/what_books_should_every_software_engineer_read_to
@@ -967,10 +969,10 @@ https://twitter.com/SharjeelSayed
 Curated Tech and World News:
 
 News Notifications (iOS/Android):
-Install the IFTTT Mobile app and add http://rss.sharjeelsayed.com into the Feed URL field in https://ifttt.com/applets/456148p
+Install the IFTTT Mobile app and add http://rss.SharjeelSayed.com into the Feed URL field in https://IFTTT.com/applets/456148p
 
 RSS Reader (Web/iOS/Android):
-Import http://opml.sharjeelsayed.com , into inoreader.com
+Import http://opml.SharjeelSayed.com , into Inoreader.com
 
 Foreign Language:
 
