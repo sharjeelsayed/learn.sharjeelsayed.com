@@ -86,6 +86,8 @@ https://news.ycombinator.com/item?id=13406638 (Ask HN: What's the best computer 
 https://news.ycombinator.com/item?id=13862284 (Teach Yourself Computer Science)
 https://news.ycombinator.com/item?id=15089476 (Ask HN: What is your favorite CS paper?)
 https://news.ycombinator.com/item?id=15695326 (Ask HN: What are some interesting papers in CS for a beginner?)
+https://news.ycombinator.com/item?id=15898263 (A computer science study plan)
+https://news.ycombinator.com/item?id=15899383 (	Ask HN: Fully online CS degrees?)
 https://news.ycombinator.com/item?id=5019373 (How Harvard's CS50 Renewed My Hope For Online Education)
 https://spin.atomicobject.com/2015/05/15/obtaining-thorough-cs-background-online
 https://techdevguide.withgoogle.com
@@ -675,6 +677,7 @@ https://news.ycombinator.com/item?id=14477851 (Ask HN: Books you wish you had re
 https://news.ycombinator.com/item?id=15155833 (Ask HN: What books have made the biggest impact on your mental models?)
 https://news.ycombinator.com/item?id=15629762 (Ask HN: What are your favorite books of all time, and why?)
 https://news.ycombinator.com/item?id=15761599 (Ask HN: Books on specific topics that have applied to many areas of your life?)
+https://news.ycombinator.com/item?id=15828935 (Reddit's favorite programming books, from 3.5B comments)
 https://opentrackers.org/downloading-ebooks-textbooks
 https://redditfavorites.com/books
 https://www.amazon.com/charts
@@ -844,6 +847,7 @@ https://news.ycombinator.com/item?id=14653564 (Ask HN: As an employee of a compa
 https://news.ycombinator.com/item?id=14726130 (Ask HN: How to prepare for an Engineering Manager interview?)
 https://news.ycombinator.com/item?id=15039829 (Ask HN: What costly inefficiency do you see at work?)
 https://news.ycombinator.com/item?id=15579047 (Ask HN: How do you take idea notes / voice memos / reminders to yourself?)
+https://news.ycombinator.com/item?id=15831046 (Ask HN: Time Management Tricks and Tips)
 https://www.indiehackers.com
 https://www.reddit.com/r/cscareerquestions/comments/6fnujy/soft_skills_for_programmers
 
@@ -969,7 +973,7 @@ https://twitter.com/SharjeelSayed
 Curated Tech and World News:
 
 News Notifications (iOS/Android):
-Install the IFTTT Mobile app and add http://rss.SharjeelSayed.com into the Feed URL field in https://IFTTT.com/applets/456148p
+Install the IFTTT Mobile app and add http://rss.SharjeelSayed.com into the 'Feed URL' field in https://IFTTT.com/applets/456148p
 
 RSS Reader (Web/iOS/Android):
 Import http://opml.SharjeelSayed.com , into Inoreader.com
