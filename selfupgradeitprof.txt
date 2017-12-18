@@ -535,6 +535,9 @@ http://stackoverflow.com/questions/2482639/which-is-the-best-book-for-learning-j
 http://stackoverflow.com/questions/75102/best-java-book-you-have-read-so-far
 https://www.reddit.com/r/learnprogramming/wiki/online#wiki_java
 
+Object-Oriented programming with Java
+http://mooc.fi/courses/2013/programming-part-1
+
 Head First Java 2nd Edition
 http://www.amazon.com/Head-First-Java-Kathy-Sierra/dp/0596009208
 
