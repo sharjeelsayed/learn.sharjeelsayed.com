@@ -585,6 +585,7 @@ Sources:
 http://www.fastrls.com/2017/10/30/offensive-security-training-videos
 https://github.com/vitalysim/Awesome-Hacking-Resources
 https://news.ycombinator.com/item?id=14791255 (Cybersecurity Humble Book Bundle)
+https://news.ycombinator.com/item?id=15986100 (Ask HN: How can I learn computer security?)
 https://room362.com/start
 https://s3ctur.wordpress.com/2017/06/19/breaking-into-infosec-a-beginners-curriculum
 https://www.reddit.com/r/netsec+privacy+SocialEngineering+onions+ReverseEngineering+crypto+blackhat+security+Malware+pwned+netsecstudents+computerforensics+HackBloc+securityCTF+xss+vrd+rootkit+REMath
