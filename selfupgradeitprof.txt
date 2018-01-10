@@ -567,6 +567,9 @@ https://git-scm.com/book/en/v2
 Learn Git in 20 Minutes
 https://youtu.be/Y9XZQO1n_7c
 
+Git Exercises 
+https://gitexercises.fracz.com
+
 Vim:
 
 Sources:
@@ -684,6 +687,7 @@ https://news.ycombinator.com/item?id=15761599 (Ask HN: Books on specific topics 
 https://news.ycombinator.com/item?id=15828935 (Reddit's favorite programming books, from 3.5B comments)
 https://opentrackers.org/downloading-ebooks-textbooks
 https://redditfavorites.com/books
+https://torrentfreak.com/top-10-most-popular-torrent-sites-of-2018-180107
 https://www.amazon.com/charts
 https://www.reddit.com/r/AskReddit/comments/34m5n6/reddit_what_are_some_must_read_books
 https://www.reddit.com/r/cscareerquestions/comments/6w4dej/what_books_should_every_software_engineer_read_to
@@ -692,6 +696,7 @@ https://www.reddit.com/r/Piracy/comments/6ldvos/hard_to_find_ebooks
 
 http://libgen.io
 https://thepiratebay-proxylist.org
+http://rarbg.to
 https://1337x.to
 https://cse.google.com/cse/publicurl?cx=011394183039475424659:5bfyqg89ers (Google Custom Search Engine for Ebooks)
 https://cse.google.com/cse/publicurl?cx=001639227550064093264:dznewka3cca (Google Custom Search Engine for Ebooks)
