@@ -638,6 +638,7 @@ Science:
 
 Sources:
 http://www.businessinsider.com/bill-gates-favorite-science-books-2017-6
+https://www.theguardian.com/books/booksblog/2017/jul/20/dawkins-sees-off-darwin-in-vote-for-most-influential-science-book
 
 What If?: Serious Scientific Answers to Absurd Hypothetical Questions
 https://www.amazon.com/What-If-Scientific-Hypothetical-Questions-ebook/dp/B00IYUYF4A
@@ -647,6 +648,9 @@ https://www.amazon.com/Thing-Explainer-Complicated-Stuff-Simple-ebook/dp/B00XJYV
 
 The Selfish Gene
 https://www.amazon.com/Selfish-Gene-Anniversary-Landmark-Science/dp/0198788606
+
+A Short History of Nearly Everything
+https://www.amazon.com/Short-History-Nearly-Everything/dp/076790818X
 
 Design:
 
