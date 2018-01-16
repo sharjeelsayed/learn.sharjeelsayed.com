@@ -587,6 +587,7 @@ Security
 Sources:
 http://www.fastrls.com/2017/10/30/offensive-security-training-videos
 https://github.com/vitalysim/Awesome-Hacking-Resources
+https://hrushikeshk.github.io/blog/2018/01/15/security-resources
 https://news.ycombinator.com/item?id=14791255 (Cybersecurity Humble Book Bundle)
 https://news.ycombinator.com/item?id=15986100 (Ask HN: How can I learn computer security?)
 https://room362.com/start
@@ -597,14 +598,14 @@ https://www.reddit.com/r/netsecstudents/top/?sort=top&t=all
 https://www.reddit.com/r/netsecstudents/wiki
 https://xapax.github.io/blog/2017/01/14/OSCP.html
 
+Penetration Testing: A Hands-On Introduction to Hacking
+https://www.amazon.com/Penetration-Testing-Hands-Introduction-Hacking/dp/1593275641
+
 Offensive Computer Security Spring 2014 Homepage Florida State University
 http://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity
 
 Offensive Security Certified Professional
 https://www.offensive-security.com/information-security-certifications/oscp-offensive-security-certified-professional
-
-Kali Linux Offensive Security Certified Professional Survival Exam Guide
-https://github.com/frizb/OSCP-Survival-Guide
 
 Hardware:
 
