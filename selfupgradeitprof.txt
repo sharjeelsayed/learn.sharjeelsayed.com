@@ -829,6 +829,7 @@ Ambient Music:
 Sources:
 https://news.ycombinator.com/item?id=5325012 (Show HN: Increase your productivity with ambient noise (coffitivity.com))
 https://pinboard.in/u:sharjeelsayed/t:music+study
+https://www.reddit.com/r/cscareerquestions/comments/7s6ral/music_while_coding/
 
 soma fm 's Drone Zone Channel
 http://somafm.com/player/#/now-playing/dronezone
@@ -983,6 +984,7 @@ https://news.ycombinator.com/item?id=15170121 (Ask HN: What audio resources can 
 https://news.ycombinator.com/item?id=9207360 (Ask HN: Favorite podcasts?)
 https://news.ycombinator.com/item?id=9836023 (Ask HN: What tech blogs, podcasts do you follow outside of HN?)
 https://podcastrank.co
+https://www.reddit.com/r/compsci/comments/7s63d6/are_there_cs_related_podcast_to_listen_to
 https://www.reddit.com/r/programming/comments/6l689j/a_manually_curated_list_of_240_popular
 https://twitter.com/SharjeelSayed
 
