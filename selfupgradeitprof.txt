@@ -673,6 +673,8 @@ https://80000hours.org/career-guide/how-to-be-successful
 https://alexvermeer.com/8760hours (8,760 Hours: How to get the most out of next year)
 https://collegeinfogeek.com/spaced-repetition-memory-technique
 https://news.ycombinator.com/item?id=14218408 (Ask HN: How do you keep improving?)
+https://news.ycombinator.com/item?id=16202123 (How to Study: A Brief Guide (buffalo.edu))
+https://www.coursera.org/learn/learning-how-to-learn
 
 Ebooks:
 
@@ -1022,8 +1024,6 @@ https://news.ycombinator.com/item?id=14637859 (Ask HN: What's your process for l
 https://news.ycombinator.com/item?id=14724092 (Ask HN: Which sites you visit on a regular basis for knowledge and inspiration?)
 https://news.ycombinator.com/item?id=15098066 (Ask HN: What online communities offer a high level of discussion?)
 https://news.ycombinator.com/item?id=15105601 (Ask HN: What are your favourite self hosted tools?)
-https://news.ycombinator.com/item?id=16202123 (How to Study: A Brief Guide (buffalo.edu))
-https://www.coursera.org/learn/learning-how-to-learn
 https://www.producthunt.com
 https://www.reddit.com/r/AskReddit/comments/4q91g9/what_free_things_online_should_everyone_take/d4r8foy
 https://www.reddit.com/r/AskReddit/comments/6k0p7l/what_are_the_best_free_online_certificates_you
