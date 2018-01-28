@@ -693,6 +693,7 @@ https://news.ycombinator.com/item?id=15155833 (Ask HN: What books have made the 
 https://news.ycombinator.com/item?id=15629762 (Ask HN: What are your favorite books of all time, and why?)
 https://news.ycombinator.com/item?id=15761599 (Ask HN: Books on specific topics that have applied to many areas of your life?)
 https://news.ycombinator.com/item?id=15828935 (Reddit's favorite programming books, from 3.5B comments)
+https://news.ycombinator.com/item?id=16241500 (Ask HN: What books have most influenced the way you see the world?)
 https://opentrackers.org/downloading-ebooks-textbooks
 https://redditfavorites.com/books
 https://torrentfreak.com/top-10-most-popular-torrent-sites-of-2018-180107
@@ -919,6 +920,9 @@ https://www.amazon.com/Basic-Economics-Thomas-Sowell/dp/0465060730
 
 The Intelligent Investor
 https://www.amazon.com/Intelligent-Investor-Definitive-Investing-Essentials/dp/0060555661
+
+Computational Investing, Part I
+https://www.coursera.org/learn/computational-investing
 
 Job Portals:
 
