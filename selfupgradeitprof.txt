@@ -539,6 +539,9 @@ https://www.reddit.com/r/learnprogramming/wiki/online#wiki_java
 Object-Oriented programming with Java
 http://mooc.fi/courses/2013/programming-part-1
 
+Complete Java Masterclass
+https://www.udemy.com/java-the-complete-java-developer-course
+
 Head First Java 2nd Edition
 http://www.amazon.com/Head-First-Java-Kathy-Sierra/dp/0596009208
 
@@ -700,6 +703,7 @@ https://torrentfreak.com/top-10-most-popular-torrent-sites-of-2018-180107
 https://www.amazon.com/charts
 https://www.reddit.com/r/AskReddit/comments/34m5n6/reddit_what_are_some_must_read_books
 https://www.reddit.com/r/cscareerquestions/comments/6w4dej/what_books_should_every_software_engineer_read_to
+https://www.reddit.com/r/megalinks/comments/6vw6xe/meta_list_of_websites_which_provide_megalinks
 https://www.reddit.com/r/Piracy/comments/6583hl/piracy_megathread_v20
 https://www.reddit.com/r/Piracy/comments/6ldvos/hard_to_find_ebooks
 
