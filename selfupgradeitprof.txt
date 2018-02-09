@@ -311,9 +311,7 @@ https://www.reddit.com/r/sysadmin/wiki/learn
 Linux:
 
 Sources :
-http://stackoverflow.com/questions/143184/which-book-would-you-recommend-for-a-linux-sysadmin
 http://stackoverflow.com/questions/236838/what-are-good-linuxunix-books-for-an-advancing-user
-http://stackoverflow.com/questions/851980/linux-programming-book
 https://news.ycombinator.com/item?id=3257393 (What's the one Linux command you wish you knew years ago?)
 https://www.reddit.com/r/linuxadmin/comments/2s924h/how_did_you_get_your_start/cnnw1ma
 https://www.reddit.com/r/linuxadmin/comments/7cw116/favorite_posts_youve_bookmarked_or_saved
