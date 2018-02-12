@@ -303,6 +303,7 @@ https://github.com/Leo-G/DevopsWiki
 https://learn-anything.xyz/programming/software-development/devops
 https://news.ycombinator.com/item?id=14153545 (What Is ‘Site Reliability Engineering’?)
 https://news.ycombinator.com/item?id=14652993 (Ask HN: DevOps learning resources)
+https://news.ycombinator.com/item?id=16357368 (Ask HN: Which books describe modern devops?)
 https://www.reddit.com/r/homelab/wiki/software
 https://www.reddit.com/r/linuxadmin/comments/65vb8s/advice_if_you_are_wanting_to_go_into_devops
 https://www.reddit.com/r/sysadmin/wiki/bootcamp
@@ -696,6 +697,7 @@ https://news.ycombinator.com/item?id=15761599 (Ask HN: Books on specific topics 
 https://news.ycombinator.com/item?id=15828935 (Reddit's favorite programming books, from 3.5B comments)
 https://news.ycombinator.com/item?id=16241500 (Ask HN: What books have most influenced the way you see the world?)
 https://news.ycombinator.com/item?id=16296200 (Ask HN: Which books do you wish you'd read earlier in life?)
+https://news.ycombinator.com/item?id=16351310 (Ask HN: What are the books you wish your colleagues had read?)
 https://opentrackers.org/downloading-ebooks-textbooks
 https://redditfavorites.com/books
 https://torrentfreak.com/top-10-most-popular-torrent-sites-of-2018-180107
@@ -991,6 +993,7 @@ https://news.ycombinator.com/item?id=14918647 (Ask HN: What is your content disc
 https://news.ycombinator.com/item?id=15154903 (Ask HN: What are your favourite developer blogs?)
 https://news.ycombinator.com/item?id=15157651 (YouTube Programming Channels)
 https://news.ycombinator.com/item?id=15170121 (Ask HN: What audio resources can improve my technical skills during my commute?)
+https://news.ycombinator.com/item?id=16338503 (Ask HN: How do you manage to go through so much of good content posted on HN?)
 https://news.ycombinator.com/item?id=9207360 (Ask HN: Favorite podcasts?)
 https://news.ycombinator.com/item?id=9836023 (Ask HN: What tech blogs, podcasts do you follow outside of HN?)
 https://podcastrank.co
