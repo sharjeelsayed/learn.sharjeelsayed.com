@@ -123,6 +123,7 @@ https://news.ycombinator.com/item?id=15157651 (YouTube Programming Channels)
 https://news.ycombinator.com/item?id=15733745 (Ask HN: How do you read programming books?)
 https://news.ycombinator.com/item?id=15739877 (Stanford Compilers Course (stanford.edu)
 https://news.ycombinator.com/item?id=15826781 (Ask HN: What coding challenge sites should I try next?)
+https://news.ycombinator.com/item?id=16346319 (Ask HN: How would you relearn programming?)
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/index.htm
 https://www.reddit.com/r/cscareerquestions/comments/6hmlxr/what_are_the_most_indemand_software_skills_right/dizqiie
 https://www.reddit.com/r/learnprogramming/comments/6l5u8s/what_one_thing_improved_your_skills_the_most
@@ -523,6 +524,7 @@ Sources:
 https://news.ycombinator.com/item?id=11606296 (To become a good C programmer (2011) (fabiensanglard.net))
 https://news.ycombinator.com/item?id=15198093 (Beej's Guide to C Programming (2007))
 https://news.ycombinator.com/item?id=16196194 (Brushing up on operating systems and C programming)
+https://news.ycombinator.com/item?id=16347309 (Ask HN: What project did you tackle to learn C?)
 https://stackoverflow.com/questions/562303/the-definitive-c-book-guide-and-list
 
 The C Programming Language 2nd Edition
