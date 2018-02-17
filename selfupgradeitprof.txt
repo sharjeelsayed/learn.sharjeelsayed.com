@@ -209,6 +209,7 @@ Mathematics for Computer Science:
 Sources:
 https://news.ycombinator.com/item?id=14161876 (Calculus Made Easy (1914))
 https://news.ycombinator.com/item?id=14581273 (Georgia Tech's free math textbook collective)
+https://news.ycombinator.com/item?id=16392698 (How to Study Mathematics (2017) (uh.edu))
 https://www.reddit.com/r/learnprogramming/comments/70rh9q/is_there_a_cs50_for_math
 
 Lecture notes by László Lovász
