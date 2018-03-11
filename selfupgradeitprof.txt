@@ -126,6 +126,7 @@ https://news.ycombinator.com/item?id=15733745 (Ask HN: How do you read programmi
 https://news.ycombinator.com/item?id=15739877 (Stanford Compilers Course (stanford.edu)
 https://news.ycombinator.com/item?id=15826781 (Ask HN: What coding challenge sites should I try next?)
 https://news.ycombinator.com/item?id=16346319 (Ask HN: How would you relearn programming?)
+https://news.ycombinator.com/item?id=16535886 (Ask HN: Best way to learn modern C++?)
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/index.htm
 https://www.reddit.com/r/cscareerquestions/comments/6hmlxr/what_are_the_most_indemand_software_skills_right/dizqiie
 https://www.reddit.com/r/learnprogramming/comments/6l5u8s/what_one_thing_improved_your_skills_the_most
@@ -213,6 +214,7 @@ Sources:
 https://news.ycombinator.com/item?id=14161876 (Calculus Made Easy (1914))
 https://news.ycombinator.com/item?id=14581273 (Georgia Tech's free math textbook collective)
 https://news.ycombinator.com/item?id=16392698 (How to Study Mathematics (2017) (uh.edu))
+https://news.ycombinator.com/item?id=16562173 (Ask HN: How to self-learn math?)
 https://www.reddit.com/r/learnprogramming/comments/70rh9q/is_there_a_cs50_for_math
 
 Lecture notes by László Lovász
@@ -509,18 +511,17 @@ https://www.reddit.com/r/learnpython/top
 https://www.reddit.com/r/learnpython/wiki/index
 https://www.reddit.com/r/Python
 
+Learn Python 3 the Hard Way
+https://learnpythonthehardway.org/python3
+
+Automate the Boring Stuff with Python
+https://automatetheboringstuff.com
+
 The Python Tutorial
 http://docs.python.org/py3k/tutorial/index.html
 
 A Gentle Introduction to Programming Using Python
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011
-
-Automate the Boring Stuff with Python
-https://automatetheboringstuff.com
-
-Learn Python 3 the Hard Way: A Very Simple Introduction to the Terrifyingly Beautiful World of Computers and Code (Zed Shaw's Hard Way Series) 1st Edition
-https://www.amazon.com/gp/product/0134692888
-https://learnpythonthehardway.org/python3
 
 C:
 
@@ -785,6 +786,7 @@ https://news.ycombinator.com/item?id=15804795 (How to solve a hard programming i
 https://news.ycombinator.com/item?id=16126132 (Ask HN: How do I prepare for an interview for AMZ/GOOG/APL/FB?)
 https://www.reddit.com/r/AskReddit/comments/74sskj/what_are_some_red_flags_in_a_job_interview
 https://www.reddit.com/r/cscareerquestions/comments/4ce2s3/resource_interview_questions_my_massive
+https://www.reddit.com/r/cscareerquestions/comments/8387zj/what_is_your_favorite_method_for_figuring_out_if
 https://www.reddit.com/r/cscareerquestions/wiki/index
 https://pinboard.in/u:sharjeelsayed/t:cheatsheet
 https://pinboard.in/u:sharjeelsayed/t:interview
@@ -994,6 +996,7 @@ News:
 
 Sources:
 https://docs.google.com/spreadsheets/d/1gIRjeB1Y_AMvtmJsZWl_dNMDJ7lPSIxiVUYyEvrP5P4/htmlview?usp=sharing&sle=true
+https://github.com/bnb/awesome-developer-streams
 https://news.ycombinator.com/item?id=13747563 (Ask HN: What are your favorite tech podcasts?)
 https://news.ycombinator.com/item?id=14086259 (Ask HN: Mailing lists that HN readers ought to know about?)
 https://news.ycombinator.com/item?id=14163905 (Ask HN: Which companies have the best blogs written by their engineering team?)
@@ -1004,6 +1007,7 @@ https://news.ycombinator.com/item?id=15154903 (Ask HN: What are your favourite d
 https://news.ycombinator.com/item?id=15157651 (YouTube Programming Channels)
 https://news.ycombinator.com/item?id=15170121 (Ask HN: What audio resources can improve my technical skills during my commute?)
 https://news.ycombinator.com/item?id=16338503 (Ask HN: How do you manage to go through so much of good content posted on HN?)
+https://news.ycombinator.com/item?id=16561799 (Ask HN: What's the Hacker News for different industries?)
 https://news.ycombinator.com/item?id=9207360 (Ask HN: Favorite podcasts?)
 https://news.ycombinator.com/item?id=9836023 (Ask HN: What tech blogs, podcasts do you follow outside of HN?)
 https://podcastrank.co
