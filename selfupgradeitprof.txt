@@ -1,7 +1,7 @@
 Curated Self Study Guide for Computer Science and DevOps/SRE/SysAdmin
 
 An always updated copy of this page can be found at http://Learn.SharjeelSayed.com
-For updates/corrections , contribute at https://github.com/sharjeelsayed/sharjeelsayed.github.io/blob/master/selfupgradeitprof.txt
+For updates/corrections go to https://github.com/sharjeelsayed/sharjeelsayed.github.io/blob/master/selfupgradeitprof.txt
 Reach me at http://SharjeelSayed.com
 
 Contents:
@@ -90,6 +90,7 @@ https://news.ycombinator.com/item?id=15089476 (Ask HN: What is your favorite CS 
 https://news.ycombinator.com/item?id=15695326 (Ask HN: What are some interesting papers in CS for a beginner?)
 https://news.ycombinator.com/item?id=15898263 (A computer science study plan)
 https://news.ycombinator.com/item?id=15899383 (	Ask HN: Fully online CS degrees?)
+https://news.ycombinator.com/item?id=16591918 (Ask HN: “Write your own” or “Build your own” software projects)
 https://news.ycombinator.com/item?id=5019373 (How Harvard's CS50 Renewed My Hope For Online Education)
 https://spin.atomicobject.com/2015/05/15/obtaining-thorough-cs-background-online
 https://techdevguide.withgoogle.com
@@ -883,8 +884,11 @@ https://news.ycombinator.com/item?id=15579047 (Ask HN: How do you take idea note
 https://news.ycombinator.com/item?id=15831046 (Ask HN: Time Management Tricks and Tips)
 https://news.ycombinator.com/item?id=16322942 (Ask HN: Simple tools/hack for small project management)
 https://news.ycombinator.com/item?id=16377523 (Ask HN: Best project management practices in 2018?)
+https://news.ycombinator.com/item?id=16453227 (Ask HN: How do you overcome the problems of task switching?)
 https://news.ycombinator.com/item?id=16482392 (Ask HN: Successful one-person online businesses?)
 https://news.ycombinator.com/item?id=16508308 (Ask HN: What are your best domestic time saving tips?)
+https://news.ycombinator.com/item?id=16522756 (Ask HN: What are good writing tips for software developers?)
+https://news.ycombinator.com/item?id=16560812 (Ask HN: What tools have most helped your day-to-day productivity?)
 https://www.indiehackers.com
 https://www.reddit.com/r/cscareerquestions/comments/6fnujy/soft_skills_for_programmers
 
@@ -948,6 +952,7 @@ https://github.com/lukasz-madon/awesome-remote-job
 https://news.ycombinator.com/item?id=14686745 (Ask HN: What are some of the best job boards you have seen (any industry)?)
 https://news.ycombinator.com/item?id=15473776 (Ask HN: What do you care about the most in a tech job post?)
 https://news.ycombinator.com/item?id=15646550 (Ask HN: What is your favorite place to find work?)
+https://news.ycombinator.com/item?id=16492393 (Ask HN: How Did You Find a Job Abroad?)
 
 https://www.linkedin.com/jobs
 https://www.naukri.com
