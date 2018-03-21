@@ -504,6 +504,7 @@ Python:
 Sources:
 http://pybit.es/python-resources.html
 http://pythonbooks.org
+https://news.ycombinator.com/item?id=16622038 (At full speed with Python: a book for self-learners)
 https://www.reddit.com/r/learnprogramming/comments/6bxdut/python_for_beginners_complete_series
 https://www.reddit.com/r/learnprogramming/wiki/online#wiki_python
 https://www.reddit.com/r/learnpython/comments/53z5p4/how_to_start_learning_python_the_complete_guide
