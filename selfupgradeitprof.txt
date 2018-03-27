@@ -890,6 +890,7 @@ https://news.ycombinator.com/item?id=16482392 (Ask HN: Successful one-person onl
 https://news.ycombinator.com/item?id=16508308 (Ask HN: What are your best domestic time saving tips?)
 https://news.ycombinator.com/item?id=16522756 (Ask HN: What are good writing tips for software developers?)
 https://news.ycombinator.com/item?id=16560812 (Ask HN: What tools have most helped your day-to-day productivity?)
+https://news.ycombinator.com/item?id=16671944 (How to Fall Asleep in Two Minutes or Less)
 https://www.indiehackers.com
 https://www.reddit.com/r/cscareerquestions/comments/6fnujy/soft_skills_for_programmers
 
@@ -984,6 +985,9 @@ https://careernavigator.naukri.com/
 https://www.glassdoor.co.in/Salaries/india-salary-SRCH_IL.0,5_IN115.htm
 
 Freelancer:
+
+Sources:
+https://news.ycombinator.com/item?id=16651077 (Ask HN: How do you find freelance work?)
 
 https://www.guru.com
 https://nomadprojects.io
