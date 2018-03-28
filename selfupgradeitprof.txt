@@ -1030,7 +1030,7 @@ https://twitter.com/SharjeelSayed
 Curated Tech and World News:
 
 News Notifications (iOS/Android):
-Install the IFTTT Mobile app .Turn on the applet https://IFTTT.com/applets/456148p.Add http://rss.SharjeelSayed.com into the 'Feed URL' field of the applet.
+Install the IFTTT Mobile app .Turn on the applet https://IFTTT.com/applets/456148p .Add http://rss.SharjeelSayed.com into the 'Feed URL' field of the applet.
 
 RSS Reader (Web/iOS/Android):
 Import http://opml.SharjeelSayed.com , into Inoreader.com
