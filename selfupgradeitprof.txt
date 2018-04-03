@@ -53,6 +53,7 @@ Microsoft Excel
 Electronics
 Science
 Design
+Machine Learning
 
 Study Tools:
 Ebooks
@@ -235,6 +236,7 @@ Operating Systems Concepts:
 
 Operating Systems: Three Easy Pieces
 http://pages.cs.wisc.edu/~remzi/OSTEP
+http://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/Discussion/videos.html (Video Course based on the book by CS 537 at Wisconsin with Remzi)
 
 Computer Science 162, 001 - Spring 2015. Operating Systems and System Programming - John Kubiatowicz UCBerkeley
 https://archive.org/details/ComputerScience162001Spring2012
@@ -676,6 +678,15 @@ https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654
 The ultimate guide for mobile developers, who want to design
 https://medium.com/flawless-app-stories/https-medium-com-flawless-app-stories-the-ultimate-guide-for-mobile-developers-who-want-to-design-part1-a2d47c04fd49
 
+Machine Learning
+
+Sources:
+https://news.ycombinator.com/item?id=16493489 (Machine Learning Crash Course)
+https://news.ycombinator.com/item?id=12713056 (Ask HN: How to get started with machine learning?)
+
+Machine Learning by Andrew Ng
+https://www.coursera.org/learn/machine-learning
+
 Study Tools:
 
 Sources:
@@ -753,6 +764,7 @@ https://news.ycombinator.com/item?id=13867016 (Ask HN: Which Berkeley Courses Sh
 https://news.ycombinator.com/item?id=14570002 (Startup School 2017 Presentations (startupschool.org))
 https://news.ycombinator.com/item?id=14770521 (Ask HN: Any “bootcamps” or courses for intermediate/advanced people?)
 https://news.ycombinator.com/item?id=15018002 (Ask HN: Is Georgia Tech's Online Master in CS Worth It?)
+https://news.ycombinator.com/item?id=16745042 (Ask HN: What are the best MOOCs you've taken?)
 https://ocw.mit.edu/courses/find-by-topic/#cat=engineering&subcat=computerscience
 https://qz.com/1120344/200-universities-just-launched-600-free-online-courses-heres-the-full-list
 https://www.class-central.com/collection/top-free-online-courses?utm_source=top-50-course-page
@@ -940,6 +952,9 @@ https://www.reddit.com/r/IndiaInvestments/wiki/new
 
 Basic Economics 5th Edition
 https://www.amazon.com/Basic-Economics-Thomas-Sowell/dp/0465060730
+
+Financial Markets by Robert Shiller
+https://www.coursera.org/learn/financial-markets-global
 
 The Intelligent Investor
 https://www.amazon.com/Intelligent-Investor-Definitive-Investing-Essentials/dp/0060555661
