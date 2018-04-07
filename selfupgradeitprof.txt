@@ -641,6 +641,7 @@ https://www.amazon.com/Excel-2016-Bible-John-Walkenbach/dp/1119067510
 Electronics:
 
 Sources:
+https://news.ycombinator.com/item?id=16775744 (Ask HN: How to self-learn electronics?)
 https://www.reddit.com/r/AskElectronics/wiki/index
 
 The Art of Electronics 3rd Edition
@@ -1041,6 +1042,7 @@ https://podcastrank.co
 https://softwareengineeringdaily.com
 https://www.microsoft.com/en-us/research/blog/category/podcast
 https://www.reddit.com/r/compsci/comments/7s63d6/are_there_cs_related_podcast_to_listen_to
+https://www.reddit.com/r/learnprogramming/comments/89pcz9/what_programming_podcasts_if_any_do_you_listen_to
 https://www.reddit.com/r/programming/comments/6l689j/a_manually_curated_list_of_240_popular
 https://twitter.com/SharjeelSayed
 
