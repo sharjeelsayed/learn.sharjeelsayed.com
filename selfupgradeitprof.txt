@@ -114,6 +114,7 @@ https://github.com/EbookFoundation/free-programming-books
 https://github.com/kamranahmedse/developer-roadmap
 https://github.com/Michael0x2a/curated-programming-resources
 https://github.com/sdmg15/Best-websites-a-programmer-should-visit
+https://github.com/tuvtran/project-based-learning
 https://news.ycombinator.com/item?id=11465234 (Composing Programs – Python 3 in the tradition of SICP)
 https://news.ycombinator.com/item?id=12718102 (Programming books you might want to consider reading)
 https://news.ycombinator.com/item?id=13918465 (Beautiful Online SICP)
@@ -1036,6 +1037,7 @@ https://news.ycombinator.com/item?id=15157651 (YouTube Programming Channels)
 https://news.ycombinator.com/item?id=15170121 (Ask HN: What audio resources can improve my technical skills during my commute?)
 https://news.ycombinator.com/item?id=16338503 (Ask HN: How do you manage to go through so much of good content posted on HN?)
 https://news.ycombinator.com/item?id=16561799 (Ask HN: What's the Hacker News for different industries?)
+https://news.ycombinator.com/item?id=16838460 (Ask HN: What is your favourite tech talk?)
 https://news.ycombinator.com/item?id=9207360 (Ask HN: Favorite podcasts?)
 https://news.ycombinator.com/item?id=9836023 (Ask HN: What tech blogs, podcasts do you follow outside of HN?)
 https://podcastrank.co
