@@ -726,6 +726,7 @@ https://redditfavorites.com/books
 https://torrentfreak.com/top-10-most-popular-torrent-sites-of-2018-180107
 https://www.amazon.com/charts
 https://www.reddit.com/r/AskReddit/comments/34m5n6/reddit_what_are_some_must_read_books
+https://www.reddit.com/r/AskReddit/comments/8cl833/what_are_some_good_books_that_would_make_the
 https://www.reddit.com/r/cscareerquestions/comments/6w4dej/what_books_should_every_software_engineer_read_to
 https://www.reddit.com/r/megalinks/comments/6vw6xe/meta_list_of_websites_which_provide_megalinks
 https://www.reddit.com/r/Piracy/comments/6583hl/piracy_megathread_v20
@@ -906,6 +907,7 @@ https://news.ycombinator.com/item?id=16508308 (Ask HN: What are your best domest
 https://news.ycombinator.com/item?id=16522756 (Ask HN: What are good writing tips for software developers?)
 https://news.ycombinator.com/item?id=16560812 (Ask HN: What tools have most helped your day-to-day productivity?)
 https://news.ycombinator.com/item?id=16671944 (How to Fall Asleep in Two Minutes or Less)
+https://news.ycombinator.com/item?id=16852410 (Tell HN: My best productivity hack)
 https://www.indiehackers.com
 https://www.reddit.com/r/cscareerquestions/comments/6fnujy/soft_skills_for_programmers
 
