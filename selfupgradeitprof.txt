@@ -645,6 +645,7 @@ Electronics:
 
 Sources:
 https://news.ycombinator.com/item?id=16775744 (Ask HN: How to self-learn electronics?)
+https://news.ycombinator.com/item?id=16920476 (Ask HN: Where did you learn modular electronics?)
 https://www.reddit.com/r/AskElectronics/wiki/index
 
 The Art of Electronics 3rd Edition
