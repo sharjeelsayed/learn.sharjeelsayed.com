@@ -131,6 +131,7 @@ https://news.ycombinator.com/item?id=15739877 (Stanford Compilers Course (stanfo
 https://news.ycombinator.com/item?id=15826781 (Ask HN: What coding challenge sites should I try next?)
 https://news.ycombinator.com/item?id=16346319 (Ask HN: How would you relearn programming?)
 https://news.ycombinator.com/item?id=16535886 (Ask HN: Best way to learn modern C++?)
+https://news.ycombinator.com/item?id=16952222 (Competitive Programmer's Handbook (2017) [pdf] (cses.fi))
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/index.htm
 https://www.reddit.com/r/cscareerquestions/comments/6hmlxr/what_are_the_most_indemand_software_skills_right/dizqiie
 https://www.reddit.com/r/learnprogramming/comments/6l5u8s/what_one_thing_improved_your_skills_the_most
