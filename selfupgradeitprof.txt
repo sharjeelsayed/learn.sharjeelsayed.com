@@ -312,6 +312,7 @@ http://findlectures.com/?p=1&class1=Technology&category_l2_Technology=-DevOps
 http://serverfault.com/questions/1046/what-is-the-single-most-influential-book-every-sysadmin-should-read
 https://github.com/AcalephStorage/awesome-devops
 https://github.com/dastergon/awesome-sre
+https://github.com/kahun/awesome-sysadmin
 https://github.com/Leo-G/DevopsWiki
 https://learn-anything.xyz/programming/software-development/devops
 https://news.ycombinator.com/item?id=14153545 (What Is ‘Site Reliability Engineering’?)
@@ -731,6 +732,7 @@ https://torrentfreak.com/top-10-most-popular-torrent-sites-of-2018-180107
 https://www.amazon.com/charts
 https://www.reddit.com/r/AskReddit/comments/34m5n6/reddit_what_are_some_must_read_books
 https://www.reddit.com/r/AskReddit/comments/8cl833/what_are_some_good_books_that_would_make_the
+https://www.reddit.com/r/AskReddit/comments/8gy4nd/what_are_some_cool_websites_where_you_can
 https://www.reddit.com/r/cscareerquestions/comments/6w4dej/what_books_should_every_software_engineer_read_to
 https://www.reddit.com/r/megalinks/comments/6vw6xe/meta_list_of_websites_which_provide_megalinks
 https://www.reddit.com/r/Piracy/comments/6583hl/piracy_megathread_v20
@@ -1052,6 +1054,7 @@ https://softwareengineeringdaily.com
 https://www.microsoft.com/en-us/research/blog/category/podcast
 https://www.reddit.com/r/compsci/comments/7s63d6/are_there_cs_related_podcast_to_listen_to
 https://www.reddit.com/r/learnprogramming/comments/89pcz9/what_programming_podcasts_if_any_do_you_listen_to
+https://www.reddit.com/r/learnprogramming/comments/8h1tzj/beginner_programmer_podcasts
 https://www.reddit.com/r/programming/comments/6l689j/a_manually_curated_list_of_240_popular
 https://twitter.com/SharjeelSayed
 
