@@ -92,6 +92,7 @@ https://news.ycombinator.com/item?id=15695326 (Ask HN: What are some interesting
 https://news.ycombinator.com/item?id=15898263 (A computer science study plan)
 https://news.ycombinator.com/item?id=15899383 (	Ask HN: Fully online CS degrees?)
 https://news.ycombinator.com/item?id=16591918 (Ask HN: “Write your own” or “Build your own” software projects)
+https://news.ycombinator.com/item?id=17031609 (Ask HN: Books you should have read when you start a career in SE / CS?)
 https://news.ycombinator.com/item?id=5019373 (How Harvard's CS50 Renewed My Hope For Online Education)
 https://spin.atomicobject.com/2015/05/15/obtaining-thorough-cs-background-online
 https://techdevguide.withgoogle.com
@@ -913,6 +914,7 @@ https://news.ycombinator.com/item?id=16522756 (Ask HN: What are good writing tip
 https://news.ycombinator.com/item?id=16560812 (Ask HN: What tools have most helped your day-to-day productivity?)
 https://news.ycombinator.com/item?id=16671944 (How to Fall Asleep in Two Minutes or Less)
 https://news.ycombinator.com/item?id=16852410 (Tell HN: My best productivity hack)
+https://news.ycombinator.com/item?id=17031588 (Ask HN: Advice to your younger self)
 https://www.indiehackers.com
 https://www.reddit.com/r/cscareerquestions/comments/6fnujy/soft_skills_for_programmers
 
