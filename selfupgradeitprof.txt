@@ -146,10 +146,9 @@ https://www.udacity.com/course/intro-to-computer-science--cs101
 
 CS50 Introduction to Computer Science , Harvard University
 https://www.edx.org/course/introduction-computer-science-harvardx-cs50x
-https://itunes.apple.com/us/course/id1191487593
 
 Introduction to Computer Science and Programming Using Python , MIT
-https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10#!
+https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11
 
 Structure and Interpretation of Computer Programs - 2nd Edition
 http://inst.eecs.berkeley.edu/~cs61a/fa16 (Instructor: John DeNero)
