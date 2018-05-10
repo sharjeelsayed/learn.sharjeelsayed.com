@@ -289,7 +289,6 @@ http://www.amazon.com/Load-Balancing-Servers-Firewalls-Caches/dp/0471415502
 Database Concepts:
 
 Sources:
-http://stackoverflow.com/questions/718282/best-books-in-database-design-and-optimization
 https://news.ycombinator.com/item?id=13417326 (Ask HN: What is the best online resource to learn advanced SQL?)
 https://pinboard.in/u:sharjeelsayed/t:db
 
@@ -539,7 +538,6 @@ https://news.ycombinator.com/item?id=11606296 (To become a good C programmer (20
 https://news.ycombinator.com/item?id=15198093 (Beej's Guide to C Programming (2007))
 https://news.ycombinator.com/item?id=16196194 (Brushing up on operating systems and C programming)
 https://news.ycombinator.com/item?id=16347309 (Ask HN: What project did you tackle to learn C?)
-https://stackoverflow.com/questions/562303/the-definitive-c-book-guide-and-list
 
 The C Programming Language 2nd Edition
 http://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628
@@ -547,8 +545,6 @@ http://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628
 Java:
 
 Sources:
-http://stackoverflow.com/questions/2482639/which-is-the-best-book-for-learning-java-servlets-and-jsp
-http://stackoverflow.com/questions/75102/best-java-book-you-have-read-so-far
 https://www.reddit.com/r/learnprogramming/wiki/online#wiki_java
 
 Object-Oriented programming with Java
