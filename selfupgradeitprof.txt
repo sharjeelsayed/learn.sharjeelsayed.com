@@ -674,6 +674,9 @@ https://www.amazon.com/Selfish-Gene-Anniversary-Landmark-Science/dp/0198788606
 A Short History of Nearly Everything
 https://www.amazon.com/Short-History-Nearly-Everything/dp/076790818X
 
+Planet Earth
+https://en.wikipedia.org/wiki/Planet_Earth_(franchise)
+
 Design:
 
 Sources:
@@ -715,6 +718,7 @@ http://reddittopbooks.com/tech
 http://www.bookadvice.co
 http://www.dev-books.com (The most mentioned books on Stack Overflow)
 http://www.openculture.com/free_textbooks
+https://hn.algolia.com/?query=books&sort=byPopularity&prefix&page=0&dateRange=all&type=story
 https://news.ycombinator.com/item?id=13597949 (The most mentioned books on Stack Overflow)
 https://news.ycombinator.com/item?id=13803787 (Ask HN: What books fundamentally changed the way you think about the world?)
 https://news.ycombinator.com/item?id=14477851 (Ask HN: Books you wish you had read earlier?)
@@ -1036,6 +1040,7 @@ Sources:
 https://docs.google.com/spreadsheets/d/1gIRjeB1Y_AMvtmJsZWl_dNMDJ7lPSIxiVUYyEvrP5P4/htmlview?usp=sharing&sle=true
 https://github.com/bnb/awesome-developer-streams
 https://github.com/rShetty/awesome-podcasts
+https://hn.algolia.com/?query=documentaries&sort=byPopularity&prefix&page=0&dateRange=all&type=story
 https://news.ycombinator.com/item?id=13747563 (Ask HN: What are your favorite tech podcasts?)
 https://news.ycombinator.com/item?id=14086259 (Ask HN: Mailing lists that HN readers ought to know about?)
 https://news.ycombinator.com/item?id=14163905 (Ask HN: Which companies have the best blogs written by their engineering team?)
@@ -1053,6 +1058,7 @@ https://news.ycombinator.com/item?id=9836023 (Ask HN: What tech blogs, podcasts 
 https://podcastrank.co
 https://softwareengineeringdaily.com
 https://www.microsoft.com/en-us/research/blog/category/podcast
+https://www.reddit.com/r/AskReddit/comments/7yvhmi/what_is_the_most_interesting_documentary_youve
 https://www.reddit.com/r/compsci/comments/7s63d6/are_there_cs_related_podcast_to_listen_to
 https://www.reddit.com/r/learnprogramming/comments/89pcz9/what_programming_podcasts_if_any_do_you_listen_to
 https://www.reddit.com/r/learnprogramming/comments/8h1tzj/beginner_programmer_podcasts
