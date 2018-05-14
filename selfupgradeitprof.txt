@@ -110,11 +110,14 @@ Programming Concepts:
 
 Sources:
 http://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read
+https://github.com/AlgoryL/Projects-from-Scratch
 https://github.com/braydie/HowToBeAProgrammer
+https://github.com/danistefanovic/build-your-own-x
 https://github.com/EbookFoundation/free-programming-books
 https://github.com/kamranahmedse/developer-roadmap
 https://github.com/Michael0x2a/curated-programming-resources
 https://github.com/mtdvio/every-programmer-should-know
+https://github.com/rby90/Project-Based-Tutorials-in-C
 https://github.com/sdmg15/Best-websites-a-programmer-should-visit
 https://github.com/tuvtran/project-based-learning
 https://news.ycombinator.com/item?id=11465234 (Composing Programs – Python 3 in the tradition of SICP)
