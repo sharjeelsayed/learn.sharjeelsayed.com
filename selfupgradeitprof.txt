@@ -541,8 +541,8 @@ https://news.ycombinator.com/item?id=15198093 (Beej's Guide to C Programming (20
 https://news.ycombinator.com/item?id=16196194 (Brushing up on operating systems and C programming)
 https://news.ycombinator.com/item?id=16347309 (Ask HN: What project did you tackle to learn C?)
 
-The C Programming Language 2nd Edition
-http://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628
+C Programming: A Modern Approach
+https://www.amazon.co.uk/C-Programming-Modern-Approach-King/dp/0393979504
 
 Java:
 
@@ -990,6 +990,7 @@ https://news.ycombinator.com/item?id=15473776 (Ask HN: What do you care about th
 https://news.ycombinator.com/item?id=15646550 (Ask HN: What is your favorite place to find work?)
 https://news.ycombinator.com/item?id=16492393 (Ask HN: How Did You Find a Job Abroad?)
 https://news.ycombinator.com/item?id=16875868 (List of places to find remote jobs and freelancing projects)
+https://news.ycombinator.com/item?id=17047736 (Ask HN: How to become a remote contractor?)
 
 https://www.linkedin.com/jobs
 https://www.naukri.com
