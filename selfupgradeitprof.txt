@@ -959,6 +959,7 @@ Money:
 
 Sources:
 https://codewithoutrules.com/2016/08/08/living-below-your-means
+https://news.ycombinator.com/item?id=12556160 (Ask HN: What are the must-read books about economics/finance?)
 https://news.ycombinator.com/item?id=15140182 (A Guide to Crypto Currencies (mycrypto.guide))
 https://news.ycombinator.com/item?id=15222819 (A New Way to Learn Economics (newyorker.com))
 https://news.ycombinator.com/item?id=15779722 (A good resource for financial advice to share with people in their twenties?)
