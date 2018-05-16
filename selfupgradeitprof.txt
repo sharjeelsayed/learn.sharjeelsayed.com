@@ -218,6 +218,7 @@ https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844
 Mathematics for Computer Science:
 
 Sources:
+https://news.ycombinator.com/item?id=13800320 (	Mathematics for Computer Science [pdf] (mit.edu))
 https://news.ycombinator.com/item?id=14161876 (Calculus Made Easy (1914))
 https://news.ycombinator.com/item?id=14581273 (Georgia Tech's free math textbook collective)
 https://news.ycombinator.com/item?id=16392698 (How to Study Mathematics (2017) (uh.edu))
@@ -292,6 +293,7 @@ Database Concepts:
 
 Sources:
 https://news.ycombinator.com/item?id=13417326 (Ask HN: What is the best online resource to learn advanced SQL?)
+https://news.ycombinator.com/item?id=17079197 (Algorithms Behind Modern Storage Systems)
 https://pinboard.in/u:sharjeelsayed/t:db
 
 Architecture of a Database System
@@ -563,6 +565,9 @@ http://www.amazon.com/Murachs-Java-Servlets-JSP-2nd/dp/1890774448
 
 Web Development:
 
+Sources:
+https://digitaldefynd.com/best-free-web-development-courses-tutorials-certification
+
 The Web Developer Bootcamp by Colt Steele
 https://www.udemy.com/the-web-developer-bootcamp
 
@@ -660,6 +665,8 @@ Science:
 
 Sources:
 http://www.businessinsider.com/bill-gates-favorite-science-books-2017-6
+https://www.reddit.com/r/AskReddit/comments/5x2r6b/reddit_what_are_some_must_see_documentaries
+https://www.reddit.com/r/AskReddit/comments/7yvhmi/what_is_the_most_interesting_documentary_youve
 https://www.theguardian.com/books/booksblog/2017/jul/20/dawkins-sees-off-darwin-in-vote-for-most-influential-science-book
 
 What If?: Serious Scientific Answers to Absurd Hypothetical Questions
@@ -1063,7 +1070,6 @@ https://news.ycombinator.com/item?id=9836023 (Ask HN: What tech blogs, podcasts 
 https://podcastrank.co
 https://softwareengineeringdaily.com
 https://www.microsoft.com/en-us/research/blog/category/podcast
-https://www.reddit.com/r/AskReddit/comments/7yvhmi/what_is_the_most_interesting_documentary_youve
 https://www.reddit.com/r/compsci/comments/7s63d6/are_there_cs_related_podcast_to_listen_to
 https://www.reddit.com/r/learnprogramming/comments/89pcz9/what_programming_podcasts_if_any_do_you_listen_to
 https://www.reddit.com/r/learnprogramming/comments/8h1tzj/beginner_programmer_podcasts
