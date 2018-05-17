@@ -199,6 +199,7 @@ https://github.com/karan/Projects
 https://news.ycombinator.com/item?id=13653669 (Algorithms (khanacademy.org))
 https://news.ycombinator.com/item?id=15423045 (A Comparison of Four Algorithms Textbooks (2016))
 https://news.ycombinator.com/item?id=16428309 (Ask HN: What's the best algorithms and data structures online course?)
+https://news.ycombinator.com/item?id=17079197 (Algorithms Behind Modern Storage Systems)
 https://projecteuler.net
 https://www.reddit.com/r/algorithms
 https://www.reddit.com/r/compsci/comments/1kcal2/algorithims_everyone_should_know
@@ -293,7 +294,6 @@ Database Concepts:
 
 Sources:
 https://news.ycombinator.com/item?id=13417326 (Ask HN: What is the best online resource to learn advanced SQL?)
-https://news.ycombinator.com/item?id=17079197 (Algorithms Behind Modern Storage Systems)
 https://pinboard.in/u:sharjeelsayed/t:db
 
 Architecture of a Database System
@@ -752,7 +752,7 @@ https://www.reddit.com/r/megalinks/comments/6vw6xe/meta_list_of_websites_which_p
 https://www.reddit.com/r/Piracy/comments/6583hl/piracy_megathread_v20
 https://www.reddit.com/r/Piracy/comments/6ldvos/hard_to_find_ebooks
 
-http://libgen.io
+http://libgen.io or http://gen.lib.rus.ec
 https://thepiratebay-proxylist.org
 http://rarbg.to
 https://1337x.to
