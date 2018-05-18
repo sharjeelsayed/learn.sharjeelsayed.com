@@ -81,12 +81,16 @@ http://blog.agupieware.com/2014/06/online-learning-intensive-bachelors.html
 http://cdn.cs50.net/guide/guide-15.pdf (Unofficial Guide to CS at Harvard)
 http://matt.might.net/articles/what-cs-majors-should-know
 https://begriffs.com/posts/2017-04-13-longterm-computing-reading.html
+https://github.com/Developer-Y/cs-video-courses
+https://github.com/mvillaloboz/open-source-cs-degree
 https://github.com/nushackers/notes-to-cs-freshmen-from-the-future
 https://github.com/open-source-society/computer-science
 https://learn-anything.xyz/computer-science
+https://medium.freecodecamp.org/500-free-online-programming-computer-science-courses-you-can-start-in-october-e43aaba0cfb0
 https://news.ycombinator.com/item?id=13014900 (Ask HN: What are the bibles of Computer Science?)
 https://news.ycombinator.com/item?id=13406638 (Ask HN: What's the best computer science book you've read recently?)
 https://news.ycombinator.com/item?id=13862284 (Teach Yourself Computer Science)
+https://news.ycombinator.com/item?id=15018002 (Ask HN: Is Georgia Tech's Online Master in CS Worth It?)
 https://news.ycombinator.com/item?id=15089476 (Ask HN: What is your favorite CS paper?)
 https://news.ycombinator.com/item?id=15695326 (Ask HN: What are some interesting papers in CS for a beginner?)
 https://news.ycombinator.com/item?id=15898263 (A computer science study plan)
@@ -776,18 +780,14 @@ MOOC:
 Sources:
 http://lifehacker.com/tag/lifehacker-u
 https://archive.is/D1Ail#selection-21.0-21.27 (UC Berkeley Course Captures)
-https://github.com/Developer-Y/cs-video-courses
-https://github.com/mvillaloboz/open-source-cs-degree
 https://github.com/prakhar1989/awesome-courses
 https://github.com/sindresorhus/awesome
-https://medium.freecodecamp.org/500-free-online-programming-computer-science-courses-you-can-start-in-october-e43aaba0cfb0
 https://medium.freecodecamp.org/a-massive-list-of-free-online-course-providers-from-around-the-world-925766226f46
 https://news.ycombinator.com/item?id=10644518 (Ask HN: What's your favorite online course?)
 https://news.ycombinator.com/item?id=12702651 (Ask HN: What is your favorite YouTube channel for developers?)
 https://news.ycombinator.com/item?id=13867016 (Ask HN: Which Berkeley Courses Should I Archive?)
 https://news.ycombinator.com/item?id=14570002 (Startup School 2017 Presentations (startupschool.org))
 https://news.ycombinator.com/item?id=14770521 (Ask HN: Any “bootcamps” or courses for intermediate/advanced people?)
-https://news.ycombinator.com/item?id=15018002 (Ask HN: Is Georgia Tech's Online Master in CS Worth It?)
 https://news.ycombinator.com/item?id=16745042 (Ask HN: What are the best MOOCs you've taken?)
 https://ocw.mit.edu/courses/find-by-topic/#cat=engineering&subcat=computerscience
 https://qz.com/1120344/200-universities-just-launched-600-free-online-courses-heres-the-full-list
