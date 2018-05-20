@@ -123,6 +123,7 @@ https://github.com/EbookFoundation/free-programming-books
 https://github.com/kamranahmedse/developer-roadmap
 https://github.com/Michael0x2a/curated-programming-resources
 https://github.com/mtdvio/every-programmer-should-know
+https://github.com/P1xt/p1xt-guides
 https://github.com/rby90/Project-Based-Tutorials-in-C
 https://github.com/sdmg15/Best-websites-a-programmer-should-visit
 https://github.com/tuvtran/project-based-learning
@@ -772,6 +773,7 @@ http://findlectures.com
 http://breue.com/free_programming_books
 irc://irc.undernet.org/bookz
 irc://irc.irchighway.net/ebooks
+https://books.goalkicker.com
 https://pinboard.in/u:sharjeelsayed/t:course
 https://pinboard.in/u:sharjeelsayed/t:cs
 https://pinboard.in/u:sharjeelsayed/t:ebooks
@@ -877,6 +879,9 @@ https://leetcode.com
 
 HackerRank
 https://www.hackerrank.com
+
+Firecode.io
+https://www.firecode.io
 
 Ambient Music:
 
