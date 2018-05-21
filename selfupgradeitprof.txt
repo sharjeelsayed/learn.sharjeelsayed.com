@@ -127,6 +127,7 @@ https://github.com/P1xt/p1xt-guides
 https://github.com/rby90/Project-Based-Tutorials-in-C
 https://github.com/sdmg15/Best-websites-a-programmer-should-visit
 https://github.com/tuvtran/project-based-learning
+https://learnxinyminutes.com
 https://news.ycombinator.com/item?id=11465234 (Composing Programs – Python 3 in the tradition of SICP)
 https://news.ycombinator.com/item?id=12718102 (Programming books you might want to consider reading)
 https://news.ycombinator.com/item?id=13918465 (Beautiful Online SICP)
@@ -735,6 +736,7 @@ http://reddittopbooks.com/tech
 http://www.bookadvice.co
 http://www.dev-books.com (The most mentioned books on Stack Overflow)
 http://www.openculture.com/free_textbooks
+https://hackernewsbooks.com
 https://hn.algolia.com/?query=books&sort=byPopularity&prefix&page=0&dateRange=all&type=story
 https://news.ycombinator.com/item?id=13597949 (The most mentioned books on Stack Overflow)
 https://news.ycombinator.com/item?id=13803787 (Ask HN: What books fundamentally changed the way you think about the world?)
@@ -886,6 +888,7 @@ https://www.firecode.io
 Ambient Music:
 
 Sources:
+https://news.ycombinator.com/item?id=17118269 (Ask HN: What, if anything, do you listen to while coding?)
 https://news.ycombinator.com/item?id=5325012 (Show HN: Increase your productivity with ambient noise (coffitivity.com))
 https://pinboard.in/u:sharjeelsayed/t:music+study
 https://www.reddit.com/r/cscareerquestions/comments/7s6ral/music_while_coding/
@@ -1099,12 +1102,10 @@ Chess:
 https://pinboard.in/u:sharjeelsayed/t:chess
 
 Additional Sources :
-http://www.hnfavorites.com
 https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer
 https://github.com/jnv/lists
 https://hn.algolia.com
 https://learn-anything.xyz
-https://learnxinyminutes.com
 https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#-48.5,-680.3,0
 https://news.ycombinator.com/item?id=12209446 (How to Read a Book [pdf])
 https://news.ycombinator.com/item?id=13574916 (Ask HN: What are some 'must watch' talks?)
