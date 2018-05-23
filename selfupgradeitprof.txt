@@ -888,16 +888,17 @@ https://www.firecode.io
 Ambient Music:
 
 Sources:
+https://news.ycombinator.com/item?id=11146712 (AI generated music to improve focus, relaxation and sleep (brain.fm))
+https://news.ycombinator.com/item?id=12844434 (Music for Programming (musicforprogramming.net))
 https://news.ycombinator.com/item?id=17118269 (Ask HN: What, if anything, do you listen to while coding?)
-https://news.ycombinator.com/item?id=5325012 (Show HN: Increase your productivity with ambient noise (coffitivity.com))
+https://www.reddit.com/r/cscareerquestions/comments/7s6ral/music_while_coding
 https://pinboard.in/u:sharjeelsayed/t:music+study
-https://www.reddit.com/r/cscareerquestions/comments/7s6ral/music_while_coding/
 
 soma fm 's Drone Zone Channel
 http://somafm.com/player/#/now-playing/dronezone
 
-Pure Ambient by Apple Music
-https://itunes.apple.com/in/playlist/pure-ambient/idpl.a9bd89e7b22e45cbaac40b58c9d3d09b
+myNoise : Custom Background Noise Machines
+https://mynoise.net
 
 Headphones:
 
