@@ -331,6 +331,7 @@ https://news.ycombinator.com/item?id=14652993 (Ask HN: DevOps learning resources
 https://news.ycombinator.com/item?id=16357368 (Ask HN: Which books describe modern devops?)
 https://www.reddit.com/r/homelab/wiki/software
 https://www.reddit.com/r/linuxadmin/comments/65vb8s/advice_if_you_are_wanting_to_go_into_devops
+https://www.reddit.com/r/sysadmin/comments/65u70f/sysadmins_what_are_some_good_it_youtube_channels
 https://www.reddit.com/r/sysadmin/wiki/bootcamp
 https://www.reddit.com/r/sysadmin/wiki/learn
 
@@ -575,6 +576,7 @@ Web Development:
 
 Sources:
 https://digitaldefynd.com/best-free-web-development-courses-tutorials-certification
+https://www.reddit.com/r/webdev/comments/8lvsxa/is_colt_steele_web_dev_bootcamp_still_the_go_to
 
 The Web Developer Bootcamp by Colt Steele
 https://www.udemy.com/the-web-developer-bootcamp
@@ -796,12 +798,8 @@ https://news.ycombinator.com/item?id=13867016 (Ask HN: Which Berkeley Courses Sh
 https://news.ycombinator.com/item?id=14570002 (Startup School 2017 Presentations (startupschool.org))
 https://news.ycombinator.com/item?id=14770521 (Ask HN: Any “bootcamps” or courses for intermediate/advanced people?)
 https://news.ycombinator.com/item?id=16745042 (Ask HN: What are the best MOOCs you've taken?)
-https://qz.com/1120344/200-universities-just-launched-600-free-online-courses-heres-the-full-list
 https://www.class-central.com/collection/top-free-online-courses?utm_source=top-50-course-page
 https://www.class-central.com/report/mooc-providers-list
-https://www.reddit.com/r/learnprogramming/comments/77g5tw/25_free_online_programming_courses_and_moocs_for
-https://www.reddit.com/r/learnprogramming/wiki/online
-https://www.reddit.com/r/sysadmin/comments/65u70f/sysadmins_what_are_some_good_it_youtube_channels
 https://www.reddit.com/r/sysadmin/comments/65wdum/whats_your_favorite_selfstudy_resource_paid_free
 
 http://www.openculture.com/freeonlinecourses#Computer Science Courses
