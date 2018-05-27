@@ -616,6 +616,7 @@ Security
 
 Sources:
 http://www.fastrls.com/2017/10/30/offensive-security-training-videos
+https://github.com/Hack-with-Github/Awesome-Hacking
 https://github.com/paragonie/awesome-appsec
 https://github.com/vitalysim/Awesome-Hacking-Resources
 https://hrushikeshk.github.io/blog/2018/01/15/security-resources
@@ -749,6 +750,7 @@ https://news.ycombinator.com/item?id=16241500 (Ask HN: What books have most infl
 https://news.ycombinator.com/item?id=16296200 (Ask HN: Which books do you wish you'd read earlier in life?)
 https://news.ycombinator.com/item?id=16351310 (Ask HN: What are the books you wish your colleagues had read?)
 https://news.ycombinator.com/item?id=16756243 (Ask HN: What books do you keep on your desk?)
+https://news.ycombinator.com/item?id=17128513 (Ask HN: Which non-programming books are a beneficial read for programmers?)
 https://opentrackers.org/downloading-ebooks-textbooks
 https://redditfavorites.com/books
 https://torrentfreak.com/top-10-most-popular-torrent-sites-of-2018-180107
@@ -763,8 +765,8 @@ https://www.reddit.com/r/Piracy/comments/6ldvos/hard_to_find_ebooks
 
 http://libgen.io or http://gen.lib.rus.ec
 https://thepiratebay-proxylist.org
-http://rarbg.to
 https://1337x.to
+http://rarbg.to
 https://cse.google.com/cse/publicurl?cx=011394183039475424659:5bfyqg89ers (Google Custom Search Engine for Ebooks)
 https://cse.google.com/cse/publicurl?cx=001639227550064093264:dznewka3cca (Google Custom Search Engine for Ebooks)
 http://b-ok.org
