@@ -308,6 +308,9 @@ https://pinboard.in/u:sharjeelsayed/t:db
 Architecture of a Database System
 http://db.cs.berkeley.edu/papers/fntdb07-architecture.pdf
 
+Readings in Database Systems
+http://www.redbook.io
+
 Computer Science 186, 001 - Spring 2015 UCBerkeley Introduction to Database Systems - Joseph Hellerstein
 https://archive.org/details/UCBerkeley_Course_Computer_Science_186
 
@@ -739,6 +742,7 @@ http://ramiro.org/vis/hn-most-linked-books-unique-users
 http://reddittopbooks.com/tech
 http://www.bookadvice.co
 http://www.dev-books.com (The most mentioned books on Stack Overflow)
+http://www.hnreads.com
 http://www.openculture.com/free_textbooks
 https://hackernewsbooks.com
 https://hn.algolia.com/?query=books&sort=byPopularity&prefix&page=0&dateRange=all&type=story
