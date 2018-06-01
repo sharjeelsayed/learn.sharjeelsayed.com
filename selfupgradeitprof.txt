@@ -106,6 +106,7 @@ https://www.amazon.com/Best-Sellers-Books-Computer-Science/zgbs/books/468204
 https://www.google.com/about/careers/students/guide-to-technical-development.html
 https://www.reddit.com/r/compsci/comments/20vbaw/what_book_made_you_a_better_computer_scientist
 https://www.reddit.com/r/compsci/comments/40mq3q/what_are_the_canon_books_in_computer_science
+https://www.reddit.com/r/compsci/comments/7s63d6/are_there_cs_related_podcast_to_listen_to
 https://www.reddit.com/r/cscareerquestions/comments/5bsg82/whats_the_single_most_useful_csrelated_link_you
 https://www.reddit.com/r/learnprogramming/comments/69x0bp/teach_yourself_computer_science
 https://www.reddit.com/r/learnprogramming/comments/764cs8/trello_board_for_teach_yourself_computer_science
@@ -116,7 +117,9 @@ Programming Concepts:
 
 Sources:
 http://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read
+https://docs.google.com/spreadsheets/d/1gIRjeB1Y_AMvtmJsZWl_dNMDJ7lPSIxiVUYyEvrP5P4/htmlview?usp=sharing&sle=true (Popular Programming Podcast episodes)
 https://github.com/AlgoryL/Projects-from-Scratch
+https://github.com/bnb/awesome-developer-streams
 https://github.com/braydie/HowToBeAProgrammer
 https://github.com/danistefanovic/build-your-own-x
 https://github.com/EbookFoundation/free-programming-books
@@ -125,6 +128,7 @@ https://github.com/Michael0x2a/curated-programming-resources
 https://github.com/mtdvio/every-programmer-should-know
 https://github.com/P1xt/p1xt-guides
 https://github.com/rby90/Project-Based-Tutorials-in-C
+https://github.com/rShetty/awesome-podcasts
 https://github.com/sdmg15/Best-websites-a-programmer-should-visit
 https://github.com/tuvtran/project-based-learning
 https://learnxinyminutes.com
@@ -137,6 +141,8 @@ https://news.ycombinator.com/item?id=14708350 (Ask HN: What habits make a progra
 https://news.ycombinator.com/item?id=14825811 (More Good Programming Quotes (2016))
 https://news.ycombinator.com/item?id=14841939 (Ask HN: What books had the greatest effect on how you structure your code?)
 https://news.ycombinator.com/item?id=14842276 (Ask HN: What programming blogs do you follow?)
+https://news.ycombinator.com/item?id=15154903 (Ask HN: What are your favourite developer blogs?)
+https://news.ycombinator.com/item?id=15157651 (YouTube Programming Channels)
 https://news.ycombinator.com/item?id=15157651 (YouTube Programming Channels)
 https://news.ycombinator.com/item?id=15733745 (Ask HN: How do you read programming books?)
 https://news.ycombinator.com/item?id=15739877 (Stanford Compilers Course (stanford.edu)
@@ -145,15 +151,20 @@ https://news.ycombinator.com/item?id=16346319 (Ask HN: How would you relearn pro
 https://news.ycombinator.com/item?id=16535886 (Ask HN: Best way to learn modern C++?)
 https://news.ycombinator.com/item?id=16952222 (Competitive Programmer's Handbook (2017) [pdf] (cses.fi))
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/index.htm
+https://softwareengineeringdaily.com
+https://www.microsoft.com/en-us/research/blog/category/podcast
 https://www.reddit.com/r/compsci+cscareerquestions+learnprogramming+programming
 https://www.reddit.com/r/cscareerquestions/comments/6hmlxr/what_are_the_most_indemand_software_skills_right/dizqiie
 https://www.reddit.com/r/learnprogramming/comments/6l5u8s/what_one_thing_improved_your_skills_the_most
 https://www.reddit.com/r/learnprogramming/comments/6lvvqq/audiobooks_on_programming
 https://www.reddit.com/r/learnprogramming/comments/75qwen/im_34_and_i_got_my_first_programming_job_after
+https://www.reddit.com/r/learnprogramming/comments/89pcz9/what_programming_podcasts_if_any_do_you_listen_to
+https://www.reddit.com/r/learnprogramming/comments/8h1tzj/beginner_programmer_podcasts
 https://www.reddit.com/r/learnprogramming/top/
 https://www.reddit.com/r/learnprogramming/wiki/books
 https://www.reddit.com/r/learnprogramming/wiki/faq
 https://www.reddit.com/r/learnprogramming/wiki/online
+https://www.reddit.com/r/programming/comments/6l689j/a_manually_curated_list_of_240_popular
 https://www.theodinproject.com
 https://www.udacity.com/course/intro-to-computer-science--cs101
 
@@ -234,6 +245,7 @@ https://news.ycombinator.com/item?id=14581273 (Georgia Tech's free math textbook
 https://news.ycombinator.com/item?id=16392698 (How to Study Mathematics (2017) (uh.edu))
 https://news.ycombinator.com/item?id=16562173 (Ask HN: How to self-learn math?)
 https://www.reddit.com/r/learnprogramming/comments/70rh9q/is_there_a_cs50_for_math
+https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw (3Blue1Brown Channel)
 
 Lecture notes by László Lovász
 http://www.cs.elte.hu/~lovasz/dmbook.ps
@@ -944,6 +956,7 @@ https://news.ycombinator.com/item?id=16560812 (Ask HN: What tools have most help
 https://news.ycombinator.com/item?id=16671944 (How to Fall Asleep in Two Minutes or Less)
 https://news.ycombinator.com/item?id=16852410 (Tell HN: My best productivity hack)
 https://news.ycombinator.com/item?id=17031588 (Ask HN: Advice to your younger self)
+https://news.ycombinator.com/item?id=17204467 (Ask HN: Recommendations on books and documentaries on tech companies/people?)
 https://www.indiehackers.com
 https://www.reddit.com/r/cscareerquestions/comments/6fnujy/soft_skills_for_programmers
 
@@ -1064,9 +1077,6 @@ https://pinboard.in/u:sharjeelsayed/t:resume
 News:
 
 Sources:
-https://docs.google.com/spreadsheets/d/1gIRjeB1Y_AMvtmJsZWl_dNMDJ7lPSIxiVUYyEvrP5P4/htmlview?usp=sharing&sle=true
-https://github.com/bnb/awesome-developer-streams
-https://github.com/rShetty/awesome-podcasts
 https://hn.algolia.com/?query=documentaries&sort=byPopularity&prefix&page=0&dateRange=all&type=story
 https://news.ycombinator.com/item?id=13747563 (Ask HN: What are your favorite tech podcasts?)
 https://news.ycombinator.com/item?id=14086259 (Ask HN: Mailing lists that HN readers ought to know about?)
@@ -1074,21 +1084,14 @@ https://news.ycombinator.com/item?id=14163905 (Ask HN: Which companies have the 
 https://news.ycombinator.com/item?id=14529759 (Ask HN: What podcasts are you listening to?)
 https://news.ycombinator.com/item?id=14819798 (Ask HN: What are your favorite podcasts?)
 https://news.ycombinator.com/item?id=14918647 (Ask HN: What is your content discovery daily routine?)
-https://news.ycombinator.com/item?id=15154903 (Ask HN: What are your favourite developer blogs?)
-https://news.ycombinator.com/item?id=15157651 (YouTube Programming Channels)
 https://news.ycombinator.com/item?id=15170121 (Ask HN: What audio resources can improve my technical skills during my commute?)
 https://news.ycombinator.com/item?id=16338503 (Ask HN: How do you manage to go through so much of good content posted on HN?)
 https://news.ycombinator.com/item?id=16561799 (Ask HN: What's the Hacker News for different industries?)
 https://news.ycombinator.com/item?id=16838460 (Ask HN: What is your favourite tech talk?)
+https://news.ycombinator.com/item?id=17202615 (Ask HN: Which YouTube channels do you watch regularly?)
 https://news.ycombinator.com/item?id=9207360 (Ask HN: Favorite podcasts?)
 https://news.ycombinator.com/item?id=9836023 (Ask HN: What tech blogs, podcasts do you follow outside of HN?)
 https://podcastrank.co
-https://softwareengineeringdaily.com
-https://www.microsoft.com/en-us/research/blog/category/podcast
-https://www.reddit.com/r/compsci/comments/7s63d6/are_there_cs_related_podcast_to_listen_to
-https://www.reddit.com/r/learnprogramming/comments/89pcz9/what_programming_podcasts_if_any_do_you_listen_to
-https://www.reddit.com/r/learnprogramming/comments/8h1tzj/beginner_programmer_podcasts
-https://www.reddit.com/r/programming/comments/6l689j/a_manually_curated_list_of_240_popular
 https://twitter.com/SharjeelSayed
 
 Curated Tech and World News:
