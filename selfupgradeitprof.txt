@@ -340,6 +340,7 @@ http://serverfault.com/questions/1046/what-is-the-single-most-influential-book-e
 https://github.com/AcalephStorage/awesome-devops
 https://github.com/dastergon/awesome-sre
 https://github.com/kahun/awesome-sysadmin
+https://github.com/Kickball/awesome-selfhosted
 https://github.com/Leo-G/DevopsWiki
 https://learn-anything.xyz/programming/software-development/devops
 https://news.ycombinator.com/item?id=14153545 (What Is ‘Site Reliability Engineering’?)
@@ -592,6 +593,7 @@ Web Development:
 
 Sources:
 https://digitaldefynd.com/best-free-web-development-courses-tutorials-certification
+https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer
 https://www.reddit.com/r/webdev/comments/8lvsxa/is_colt_steele_web_dev_bootcamp_still_the_go_to
 
 The Web Developer Bootcamp by Colt Steele
@@ -1112,7 +1114,6 @@ Chess:
 https://pinboard.in/u:sharjeelsayed/t:chess
 
 Additional Sources :
-https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer
 https://github.com/jnv/lists
 https://hn.algolia.com
 https://learn-anything.xyz
