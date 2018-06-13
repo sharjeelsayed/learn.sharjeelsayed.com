@@ -637,8 +637,6 @@ Security
 Sources:
 http://www.fastrls.com/2017/10/30/offensive-security-training-videos
 https://github.com/Hack-with-Github/Awesome-Hacking
-https://github.com/paragonie/awesome-appsec
-https://github.com/vitalysim/Awesome-Hacking-Resources
 https://hrushikeshk.github.io/blog/2018/01/15/security-resources
 https://news.ycombinator.com/item?id=12140477 (A practical security guide for web developers (github.com))
 https://news.ycombinator.com/item?id=14791255 (Cybersecurity Humble Book Bundle)
