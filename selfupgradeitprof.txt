@@ -960,6 +960,8 @@ https://news.ycombinator.com/item?id=16852410 (Tell HN: My best productivity hac
 https://news.ycombinator.com/item?id=17031588 (Ask HN: Advice to your younger self)
 https://news.ycombinator.com/item?id=17204467 (Ask HN: Recommendations on books and documentaries on tech companies/people?)
 https://news.ycombinator.com/item?id=17238135 (How to be a Manager – A step-by-step guide to leading a team)
+https://news.ycombinator.com/item?id=17291127 (Ask HN: Is there a new habit you cultivated recently that is really paying off?)
+https://news.ycombinator.com/item?id=17295064 (Ask HN: How do you manage your mental health?)
 https://www.indiehackers.com
 https://www.reddit.com/r/cscareerquestions/comments/6fnujy/soft_skills_for_programmers
 
@@ -1128,8 +1130,9 @@ https://news.ycombinator.com/item?id=14637859 (Ask HN: What's your process for l
 https://news.ycombinator.com/item?id=14724092 (Ask HN: Which sites you visit on a regular basis for knowledge and inspiration?)
 https://news.ycombinator.com/item?id=15098066 (Ask HN: What online communities offer a high level of discussion?)
 https://news.ycombinator.com/item?id=15105601 (Ask HN: What are your favourite self hosted tools?)
+https://news.ycombinator.com/item?id=17272715 (Ask HN: Any resources to learn the fundamentals of critical thinking?)
 https://www.producthunt.com
-https://www.reddit.com/r/Addons4Kodi/comments/8g5x0a/requests_recomendations_basics_may_2018
+https://www.reddit.com/r/Addons4Kodi/comments/8omquh/requests_recomendations_basics_june_2018
 https://www.reddit.com/r/AskReddit/comments/4q91g9/what_free_things_online_should_everyone_take/d4r8foy
 https://www.reddit.com/r/AskReddit/comments/6k0p7l/what_are_the_best_free_online_certificates_you
 https://www.reddit.com/r/AskReddit/comments/6q2b8x/reddit_whats_become_clear_to_you_as_youve_gotten
