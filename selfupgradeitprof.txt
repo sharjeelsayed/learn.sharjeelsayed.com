@@ -130,6 +130,7 @@ https://github.com/P1xt/p1xt-guides
 https://github.com/rby90/Project-Based-Tutorials-in-C
 https://github.com/rShetty/awesome-podcasts
 https://github.com/sdmg15/Best-websites-a-programmer-should-visit
+https://github.com/styfle/awesome-online-ide
 https://github.com/tuvtran/project-based-learning
 https://learnxinyminutes.com
 https://news.ycombinator.com/item?id=11465234 (Composing Programs – Python 3 in the tradition of SICP)
@@ -395,6 +396,7 @@ Bash:
 Sources:
 https://news.ycombinator.com/item?id=14634964 (Ask HN: How can I get better at bash?)
 https://github.com/jlevy/the-art-of-command-line
+https://github.com/dylanaraps/pure-bash-bible
 
 ABS Guide
 http://tldp.org/LDP/abs/html
