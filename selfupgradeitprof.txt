@@ -151,6 +151,7 @@ https://news.ycombinator.com/item?id=15826781 (Ask HN: What coding challenge sit
 https://news.ycombinator.com/item?id=16346319 (Ask HN: How would you relearn programming?)
 https://news.ycombinator.com/item?id=16535886 (Ask HN: Best way to learn modern C++?)
 https://news.ycombinator.com/item?id=16952222 (Competitive Programmer's Handbook (2017) [pdf] (cses.fi))
+https://news.ycombinator.com/item?id=17390527 (DevTube: Searchable index of developer videos (dev.tube))
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/index.htm
 https://softwareengineeringdaily.com
 https://www.microsoft.com/en-us/research/blog/category/podcast
@@ -962,6 +963,8 @@ https://news.ycombinator.com/item?id=17204467 (Ask HN: Recommendations on books 
 https://news.ycombinator.com/item?id=17238135 (How to be a Manager – A step-by-step guide to leading a team)
 https://news.ycombinator.com/item?id=17291127 (Ask HN: Is there a new habit you cultivated recently that is really paying off?)
 https://news.ycombinator.com/item?id=17295064 (Ask HN: How do you manage your mental health?)
+https://news.ycombinator.com/item?id=17385291 (Ask HN: What are the things that you have automated in your personal life?)
+https://news.ycombinator.com/item?id=17398726 (Ask HN: Which project management and team communication software do you use?)
 https://www.indiehackers.com
 https://www.reddit.com/r/cscareerquestions/comments/6fnujy/soft_skills_for_programmers
 
