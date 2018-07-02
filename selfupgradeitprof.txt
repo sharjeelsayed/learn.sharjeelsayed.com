@@ -602,6 +602,9 @@ https://www.reddit.com/r/webdev/comments/8lvsxa/is_colt_steele_web_dev_bootcamp_
 The Web Developer Bootcamp by Colt Steele
 https://www.udemy.com/the-web-developer-bootcamp
 
+CS50's Web Programming with Python and JavaScript
+https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript-web
+
 Tomcat:
 
 Tomcat: The Definitive Guide
