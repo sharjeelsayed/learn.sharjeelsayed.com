@@ -647,6 +647,7 @@ https://hrushikeshk.github.io/blog/2018/01/15/security-resources
 https://news.ycombinator.com/item?id=12140477 (A practical security guide for web developers (github.com))
 https://news.ycombinator.com/item?id=14791255 (Cybersecurity Humble Book Bundle)
 https://news.ycombinator.com/item?id=15986100 (Ask HN: How can I learn computer security?)
+https://news.ycombinator.com/item?id=17563857 (Ask HN: What are the best resources for learning security and pen testing?)
 https://room362.com/start
 https://s3ctur.wordpress.com/2017/06/19/breaking-into-infosec-a-beginners-curriculum
 https://www.reddit.com/r/netsec+privacy+SocialEngineering+onions+ReverseEngineering+crypto+blackhat+security+Malware+pwned+netsecstudents+computerforensics+HackBloc+securityCTF+xss+vrd+rootkit+REMath
@@ -970,6 +971,7 @@ https://news.ycombinator.com/item?id=17291127 (Ask HN: Is there a new habit you 
 https://news.ycombinator.com/item?id=17295064 (Ask HN: How do you manage your mental health?)
 https://news.ycombinator.com/item?id=17385291 (Ask HN: What are the things that you have automated in your personal life?)
 https://news.ycombinator.com/item?id=17398726 (Ask HN: Which project management and team communication software do you use?)
+https://news.ycombinator.com/item?id=17544764 (Ask HN: How do you focus at work?)
 https://www.indiehackers.com
 https://www.reddit.com/r/cscareerquestions/comments/6fnujy/soft_skills_for_programmers
 
