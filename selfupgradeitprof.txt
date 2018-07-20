@@ -665,6 +665,9 @@ http://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity
 Offensive Security Certified Professional
 https://www.offensive-security.com/information-security-certifications/oscp-offensive-security-certified-professional
 
+The Hacker Playbook 3: Practical Guide To Penetration Testing
+https://www.amazon.com/Hacker-Playbook-Practical-Penetration-Testing/dp/1980901759
+
 Hardware:
 
 Sources:
@@ -787,11 +790,11 @@ https://www.reddit.com/r/AskReddit/comments/8cl833/what_are_some_good_books_that
 https://www.reddit.com/r/AskReddit/comments/8gy4nd/what_are_some_cool_websites_where_you_can
 https://www.reddit.com/r/cscareerquestions/comments/6w4dej/what_books_should_every_software_engineer_read_to
 https://www.reddit.com/r/megalinks/comments/6vw6xe/meta_list_of_websites_which_provide_megalinks
-https://www.reddit.com/r/Piracy/comments/6583hl/piracy_megathread_v20
 https://www.reddit.com/r/Piracy/comments/6ldvos/hard_to_find_ebooks
+https://www.reddit.com/r/Piracy/wiki/megathread
 
 http://libgen.io or http://gen.lib.rus.ec
-https://thepiratebay-proxylist.org
+https://thepiratebay.org or https://thepiratebay-proxylist.org
 https://1337x.to
 http://rarbg.to or https://rarbg.is
 https://torrentz2.eu
