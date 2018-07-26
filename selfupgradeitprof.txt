@@ -597,6 +597,7 @@ Web Development:
 Sources:
 https://digitaldefynd.com/best-free-web-development-courses-tutorials-certification
 https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer
+https://github.com/thedaviddias/Front-End-Performance-Checklist
 https://www.reddit.com/r/webdev/comments/8lvsxa/is_colt_steele_web_dev_bootcamp_still_the_go_to
 
 The Web Developer Bootcamp by Colt Steele
@@ -701,7 +702,6 @@ https://courses.edx.org/courses/course-v1:MITx+6.002.1x_1+2T2016/info
 Science:
 
 Sources:
-http://www.businessinsider.com/bill-gates-favorite-science-books-2017-6
 https://www.reddit.com/r/AskReddit/comments/5x2r6b/reddit_what_are_some_must_see_documentaries
 https://www.reddit.com/r/AskReddit/comments/7yvhmi/what_is_the_most_interesting_documentary_youve
 https://www.theguardian.com/books/booksblog/2017/jul/20/dawkins-sees-off-darwin-in-vote-for-most-influential-science-book
@@ -828,6 +828,7 @@ https://news.ycombinator.com/item?id=13867016 (Ask HN: Which Berkeley Courses Sh
 https://news.ycombinator.com/item?id=14570002 (Startup School 2017 Presentations (startupschool.org))
 https://news.ycombinator.com/item?id=14770521 (Ask HN: Any “bootcamps” or courses for intermediate/advanced people?)
 https://news.ycombinator.com/item?id=16745042 (Ask HN: What are the best MOOCs you've taken?)
+https://news.ycombinator.com/item?id=17616937 (Ask HN: Any good examples of learning through games/puzzles, for adults?)
 https://www.class-central.com/collection/top-free-online-courses?utm_source=top-50-course-page
 https://www.class-central.com/report/mooc-providers-list
 https://www.reddit.com/r/sysadmin/comments/65wdum/whats_your_favorite_selfstudy_resource_paid_free
@@ -977,6 +978,7 @@ https://news.ycombinator.com/item?id=17398726 (Ask HN: Which project management 
 https://news.ycombinator.com/item?id=17544764 (Ask HN: How do you focus at work?)
 https://www.indiehackers.com
 https://www.reddit.com/r/cscareerquestions/comments/6fnujy/soft_skills_for_programmers
+https://www.reddit.com/r/india/comments/81r29c/your_onestop_guide_to_emigrating_long_term_to
 
 Site Reliability Engineering: How Google Runs Production Systems
 https://www.amazon.com/Site-Reliability-Engineering-Production-Systems/dp/149192912X
