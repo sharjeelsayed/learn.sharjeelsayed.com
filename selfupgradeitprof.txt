@@ -108,6 +108,7 @@ https://www.reddit.com/r/compsci/comments/20vbaw/what_book_made_you_a_better_com
 https://www.reddit.com/r/compsci/comments/40mq3q/what_are_the_canon_books_in_computer_science
 https://www.reddit.com/r/compsci/comments/7s63d6/are_there_cs_related_podcast_to_listen_to
 https://www.reddit.com/r/cscareerquestions/comments/5bsg82/whats_the_single_most_useful_csrelated_link_you
+https://www.reddit.com/r/cscareerquestions/comments/92yuvw/what_parts_of_a_cs_degree_have_been_most_useful
 https://www.reddit.com/r/learnprogramming/comments/69x0bp/teach_yourself_computer_science
 https://www.reddit.com/r/learnprogramming/comments/764cs8/trello_board_for_teach_yourself_computer_science
 https://www.scotthyoung.com/blog/myprojects/mit-challenge-2
@@ -190,6 +191,9 @@ https://xuanji.appspot.com/isicp
 
 Computer Science 61A, UCBerkeley 001 - Spring 2011
 https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E?sort=titleSorter
+
+How to Design Programs, Second Edition
+http://www.htdp.org/2018-01-06/Book
 
 Computer Architecture:
 
@@ -307,7 +311,7 @@ https://www.amazon.com/Unix-Network-Programming-Sockets-Networking/dp/0131411551
 
 Additional Material:
 
-Eli The Computer Guy Youtube
+Eli The Computer Guy
 https://www.youtube.com/playlist?list=PLF360ED1082F6F2A5
 
 Load Balancing Servers, Firewalls, and Caches
@@ -668,6 +672,9 @@ https://www.offensive-security.com/information-security-certifications/oscp-offe
 
 The Hacker Playbook 3: Practical Guide To Penetration Testing
 https://www.amazon.com/Hacker-Playbook-Practical-Penetration-Testing/dp/1980901759
+
+MIT Course Number 6.858 :Computer Systems Security
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014
 
 Hardware:
 
