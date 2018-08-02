@@ -153,6 +153,7 @@ https://news.ycombinator.com/item?id=16346319 (Ask HN: How would you relearn pro
 https://news.ycombinator.com/item?id=16535886 (Ask HN: Best way to learn modern C++?)
 https://news.ycombinator.com/item?id=16952222 (Competitive Programmer's Handbook (2017) [pdf] (cses.fi))
 https://news.ycombinator.com/item?id=17390527 (DevTube: Searchable index of developer videos (dev.tube))
+https://news.ycombinator.com/item?id=17651797 (Composing Programs – An introduction to programming in the tradition of SICP)
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/index.htm
 https://softwareengineeringdaily.com
 https://www.microsoft.com/en-us/research/blog/category/podcast
@@ -572,12 +573,16 @@ C:
 
 Sources:
 https://news.ycombinator.com/item?id=11606296 (To become a good C programmer (2011) (fabiensanglard.net))
+https://news.ycombinator.com/item?id=12475383 (“Learn C the Hard Way” is no longer available for free)
 https://news.ycombinator.com/item?id=15198093 (Beej's Guide to C Programming (2007))
 https://news.ycombinator.com/item?id=16196194 (Brushing up on operating systems and C programming)
 https://news.ycombinator.com/item?id=16347309 (Ask HN: What project did you tackle to learn C?)
 
+Learn C The Hard Way
+https://learncodethehardway.org/c
+
 C Programming: A Modern Approach
-https://www.amazon.co.uk/C-Programming-Modern-Approach-King/dp/0393979504
+https://www.amazon.com/C-Programming-Modern-Approach-2nd/dp/0393979504
 
 Java:
 
@@ -788,6 +793,7 @@ https://news.ycombinator.com/item?id=16351310 (Ask HN: What are the books you wi
 https://news.ycombinator.com/item?id=16756243 (Ask HN: What books do you keep on your desk?)
 https://news.ycombinator.com/item?id=17045790 (Ask HN: Which books have made you introspect?)
 https://news.ycombinator.com/item?id=17128513 (Ask HN: Which non-programming books are a beneficial read for programmers?)
+https://news.ycombinator.com/item?id=17625795 (Ask HN: Which books are “must-read” for anyone trying to learn about your field?)
 https://opentrackers.org/downloading-ebooks-textbooks
 https://redditfavorites.com/books
 https://torrentfreak.com/top-10-most-popular-torrent-sites-of-2018-180107
