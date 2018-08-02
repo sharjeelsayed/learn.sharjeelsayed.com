@@ -154,6 +154,7 @@ https://news.ycombinator.com/item?id=16535886 (Ask HN: Best way to learn modern 
 https://news.ycombinator.com/item?id=16952222 (Competitive Programmer's Handbook (2017) [pdf] (cses.fi))
 https://news.ycombinator.com/item?id=17390527 (DevTube: Searchable index of developer videos (dev.tube))
 https://news.ycombinator.com/item?id=17651797 (Composing Programs – An introduction to programming in the tradition of SICP)
+https://news.ycombinator.com/item?id=17666133 (Paul Graham on SICP (2000))
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/index.htm
 https://softwareengineeringdaily.com
 https://www.microsoft.com/en-us/research/blog/category/podcast
@@ -189,6 +190,7 @@ https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-st
 https://www.youtube.com/playlist?list=PL7BcsI5ueSNFPCEisbaoQ0kXIDX9rR5FF
 https://www.youtube.com/playlist?list=PLE18841CABEA24090
 https://xuanji.appspot.com/isicp
+https://mitpress.mit.edu/sites/default/files/sicp/index.html
 
 Computer Science 61A, UCBerkeley 001 - Spring 2011
 https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E?sort=titleSorter
