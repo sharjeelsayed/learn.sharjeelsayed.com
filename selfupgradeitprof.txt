@@ -1106,6 +1106,7 @@ Resume Improvement:
 
 Sources:
 https://news.ycombinator.com/item?id=16479922 (Ask HN: Resumes that look good but professional too)
+https://news.ycombinator.com/item?id=17671490 (Building a Kickass Portfolio)
 https://www.reddit.com/r/sysadminresumes/top
 
 https://pinboard.in/u:sharjeelsayed/t:resume
@@ -1125,6 +1126,7 @@ https://news.ycombinator.com/item?id=16338503 (Ask HN: How do you manage to go t
 https://news.ycombinator.com/item?id=16561799 (Ask HN: What's the Hacker News for different industries?)
 https://news.ycombinator.com/item?id=16838460 (Ask HN: What is your favourite tech talk?)
 https://news.ycombinator.com/item?id=17202615 (Ask HN: Which YouTube channels do you watch regularly?)
+https://news.ycombinator.com/item?id=17690852 (Ask HN: What are some niche communities you enjoy?)
 https://news.ycombinator.com/item?id=9207360 (Ask HN: Favorite podcasts?)
 https://news.ycombinator.com/item?id=9836023 (Ask HN: What tech blogs, podcasts do you follow outside of HN?)
 https://podcastrank.co
