@@ -468,6 +468,9 @@ http://www.amazon.com/Data-Center-Fundamentals-Mauricio-Arregoces/dp/1587050234
 
 AWS:
 
+Amazon Web Services — a practical guide
+https://github.com/open-guides/og-aws
+
 Amazon Web Services in Action 1st Edition
 https://www.amazon.com/Amazon-Services-Action-Andreas-Wittig/dp/1617292885
 
@@ -583,7 +586,7 @@ https://news.ycombinator.com/item?id=16347309 (Ask HN: What project did you tack
 
 Learn C The Hard Way
 https://learncodethehardway.org/c
-http://www.informit.com/promotions/book-registration-learn-c-the-hard-way-140880
+http://www.informit.com/promotions/book-registration-learn-c-the-hard-way-140880 (Videos)
 
 C Programming: A Modern Approach
 https://www.amazon.com/C-Programming-Modern-Approach-2nd/dp/0393979504
@@ -1118,6 +1121,7 @@ https://pinboard.in/u:sharjeelsayed/t:resume
 News:
 
 Sources:
+https://dev.to
 https://hn.algolia.com/?query=documentaries&sort=byPopularity&prefix&page=0&dateRange=all&type=story
 https://news.ycombinator.com/item?id=13747563 (Ask HN: What are your favorite tech podcasts?)
 https://news.ycombinator.com/item?id=14086259 (Ask HN: Mailing lists that HN readers ought to know about?)
