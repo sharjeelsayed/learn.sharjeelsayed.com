@@ -399,6 +399,20 @@ http://www.amazon.com/Power-Tools-Third-Shelley-Powers/dp/0596003307
 Linux Journey
 https://linuxjourney.com
 
+FreeBSD:
+
+Sources:
+https://www.freebsd.org/docs/books.html
+
+FreeBSD Quickstart Guide for Linux Users
+https://www.freebsd.org/doc/en/articles/linux-users
+
+FreeBSD Handbook
+https://www.freebsd.org/doc/en_US.ISO8859-1/books/handbook
+
+The Design and Implementation of the FreeBSD Operating System (2nd Edition)
+https://www.amazon.com/Design-Implementation-FreeBSD-Operating-System/dp/0321968972
+
 Bash:
 
 Sources:
@@ -781,7 +795,6 @@ Ebooks:
 
 Sources:
 http://booksreddit.com
-http://hackernewsbooks.com
 http://ramiro.org/vis/hn-most-linked-books-unique-users
 http://reddittopbooks.com/tech
 http://www.bookadvice.co
