@@ -1,8 +1,8 @@
 Curated Self Study Guide for Computer Science and DevOps/SRE/SysAdmin
 
-An always updated copy of this page can be found at http://Learn.SharjeelSayed.com
-For updates/corrections go to https://github.com/sharjeelsayed/sharjeelsayed.github.io/blob/master/selfupgradeitprof.txt
-Reach me at http://SharjeelSayed.com
+An always updated copy of this document can be found at http://Learn.SharjeelSayed.com
+For updates/corrections , visit https://github.com/sharjeelsayed/sharjeelsayed.github.io/blob/master/selfupgradeitprof.txt
+Reach out to me at http://SharjeelSayed.com
 
 Contents:
 
@@ -165,7 +165,7 @@ https://www.reddit.com/r/learnprogramming/comments/6lvvqq/audiobooks_on_programm
 https://www.reddit.com/r/learnprogramming/comments/75qwen/im_34_and_i_got_my_first_programming_job_after
 https://www.reddit.com/r/learnprogramming/comments/89pcz9/what_programming_podcasts_if_any_do_you_listen_to
 https://www.reddit.com/r/learnprogramming/comments/8h1tzj/beginner_programmer_podcasts
-https://www.reddit.com/r/learnprogramming/top/
+https://www.reddit.com/r/learnprogramming/top
 https://www.reddit.com/r/learnprogramming/wiki/books
 https://www.reddit.com/r/learnprogramming/wiki/faq
 https://www.reddit.com/r/learnprogramming/wiki/online
@@ -216,7 +216,7 @@ https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iCl2-D-FS5mk0jFF6cYSJs
 Additional:
 
 Modern Microprocessors A 90-Minute Guide! A brief, pulls-no-punches, fast-paced introduction to the main design aspects of modern processor microarchitecture
-http://www.lighterra.com/papers/modernmicroprocessors/
+http://www.lighterra.com/papers/modernmicroprocessors
 
 Computer Architecture, Fifth Edition: A Quantitative Approach (The Morgan Kaufmann Series in Computer Architecture and Design) 5th Edition
 https://www.amazon.com/Computer-Architecture-Fifth-Quantitative-Approach/dp/012383872X
@@ -403,6 +403,7 @@ FreeBSD:
 
 Sources:
 https://www.freebsd.org/docs/books.html
+https://hn.algolia.com/?query=freebsd&sort=byPopularity&prefix=false&page=0&dateRange=all&type=story
 
 FreeBSD Quickstart Guide for Linux Users
 https://www.freebsd.org/doc/en/articles/linux-users
@@ -869,6 +870,7 @@ https://www.class-central.com/collection/top-free-online-courses?utm_source=top-
 https://www.class-central.com/report/mooc-providers-list
 https://www.reddit.com/r/sysadmin/comments/65wdum/whats_your_favorite_selfstudy_resource_paid_free
 
+http://academictorrents.com
 http://www.openculture.com/freeonlinecourses#Computer Science Courses
 https://archive.org/search.php?query=subject%3A%22UC+Berkeley%22
 https://hackr.io
@@ -1109,7 +1111,7 @@ https://whoishiring.io
 Company and Salary Reviews:
 
 http://www.payscale.com/research/IN/Country=India/Salary
-https://careernavigator.naukri.com/
+https://careernavigator.naukri.com
 https://www.glassdoor.co.in/Salaries/india-salary-SRCH_IL.0,5_IN115.htm
 
 Freelancer:
