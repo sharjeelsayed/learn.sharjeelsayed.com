@@ -492,7 +492,7 @@ https://www.amazon.com/Amazon-Services-Action-Andreas-Wittig/dp/1617292885
 NGINX:
 
 NGINX documentation
-http://nginx.org/en/docs/
+http://nginx.org/en/docs
 
 NGINX HTTP Server - Third Edition
 https://www.amazon.com/Nginx-HTTP-Server-Clement-Nedelcu-ebook/dp/B016DPU3JS
@@ -683,6 +683,7 @@ https://news.ycombinator.com/item?id=12140477 (A practical security guide for we
 https://news.ycombinator.com/item?id=14791255 (Cybersecurity Humble Book Bundle)
 https://news.ycombinator.com/item?id=15986100 (Ask HN: How can I learn computer security?)
 https://news.ycombinator.com/item?id=17563857 (Ask HN: What are the best resources for learning security and pen testing?)
+https://news.ycombinator.com/item?id=17749283 (Ask HN: Recommendations of good cybercrime novels?)
 https://room362.com/start
 https://s3ctur.wordpress.com/2017/06/19/breaking-into-infosec-a-beginners-curriculum
 https://www.reddit.com/r/netsec+privacy+SocialEngineering+onions+ReverseEngineering+crypto+blackhat+security+Malware+pwned+netsecstudents+computerforensics+HackBloc+securityCTF+xss+vrd+rootkit+REMath
