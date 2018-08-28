@@ -298,7 +298,7 @@ https://www.reddit.com/r/sysadmin/comments/4ux166/do_you_know_a_site_to_learn_mo
 
 Computer Networking: A Top-Down Approach (7th Edition)
 https://www.amazon.com/Computer-Networking-Top-Down-Approach-7th/dp/0133594149
-https://fastpiratebay.co.uk/torrent/11060421/computer_networking_a_top-down_approach_lecture (Lecture Videos based on the book)
+https://indiaproxy.in/torrent/11060421/computer_networking_a_top-down_approach_lecture (Lecture Videos based on the book)
 
 CS144 Introduction to Computer Networking Stanford University
 https://suclass.stanford.edu/courses/course-v1:Engineering+CS144+Fall2016/courseware/ac9d1eef5aaa4bb5bcfe4d42f51f0f5b/c5c384e648cf404c837d05497c6e36b0
@@ -471,7 +471,7 @@ https://github.com/kubernetes/kubernetes
 VMware:
 
 CBT Nuggets VMware vSphere 6
-https://fastpiratebay.co.uk/torrent/13449737/CBT_Nuggets_VMware_vSphere_6
+https://indiaproxy.in/torrent/13449737/CBT_Nuggets_VMware_vSphere_6
 
 Mastering VMware vSphere 6 1st Edition
 https://www.amazon.com/Mastering-VMware-vSphere-Nick-Marshall/dp/1118925157
@@ -954,6 +954,9 @@ https://www.hackerrank.com
 Firecode.io
 https://www.firecode.io
 
+A collection of *nix Sysadmin Test Questions and Answers for Interview/Exam (2018 Edition)
+https://github.com/trimstray/test-your-sysadmin-skills
+
 Ambient Music:
 
 Sources:
@@ -1016,7 +1019,6 @@ https://news.ycombinator.com/item?id=17398726 (Ask HN: Which project management 
 https://news.ycombinator.com/item?id=17544764 (Ask HN: How do you focus at work?)
 https://www.indiehackers.com
 https://www.reddit.com/r/cscareerquestions/comments/6fnujy/soft_skills_for_programmers
-https://www.reddit.com/r/india/comments/81r29c/your_onestop_guide_to_emigrating_long_term_to
 
 Site Reliability Engineering: How Google Runs Production Systems
 https://www.amazon.com/Site-Reliability-Engineering-Production-Systems/dp/149192912X
@@ -1086,6 +1088,7 @@ https://news.ycombinator.com/item?id=15646550 (Ask HN: What is your favorite pla
 https://news.ycombinator.com/item?id=16492393 (Ask HN: How Did You Find a Job Abroad?)
 https://news.ycombinator.com/item?id=16875868 (List of places to find remote jobs and freelancing projects)
 https://news.ycombinator.com/item?id=17047736 (Ask HN: How to become a remote contractor?)
+https://www.reddit.com/r/india/comments/81r29c/your_onestop_guide_to_emigrating_long_term_to
 
 https://www.linkedin.com/jobs
 https://www.naukri.com
