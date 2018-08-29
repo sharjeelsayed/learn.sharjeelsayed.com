@@ -298,7 +298,7 @@ https://www.reddit.com/r/sysadmin/comments/4ux166/do_you_know_a_site_to_learn_mo
 
 Computer Networking: A Top-Down Approach (7th Edition)
 https://www.amazon.com/Computer-Networking-Top-Down-Approach-7th/dp/0133594149
-https://indiaproxy.in/torrent/11060421/computer_networking_a_top-down_approach_lecture (Lecture Videos based on the book)
+https://thepiratebay.org/torrent/11060421/computer_networking_a_top-down_approach_lecture (Lecture Videos based on the book)
 
 CS144 Introduction to Computer Networking Stanford University
 https://suclass.stanford.edu/courses/course-v1:Engineering+CS144+Fall2016/courseware/ac9d1eef5aaa4bb5bcfe4d42f51f0f5b/c5c384e648cf404c837d05497c6e36b0
@@ -471,7 +471,7 @@ https://github.com/kubernetes/kubernetes
 VMware:
 
 CBT Nuggets VMware vSphere 6
-https://indiaproxy.in/torrent/13449737/CBT_Nuggets_VMware_vSphere_6
+https://thepiratebay.org/torrent/13449737/CBT_Nuggets_VMware_vSphere_6
 
 Mastering VMware vSphere 6 1st Edition
 https://www.amazon.com/Mastering-VMware-vSphere-Nick-Marshall/dp/1118925157
