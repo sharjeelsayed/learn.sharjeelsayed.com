@@ -667,6 +667,9 @@ Sources:
 https://news.ycombinator.com/item?id=15400037 (Interactive Vim tutorial)
 https://news.ycombinator.com/item?id=2936670 (Learn Vim Progressively)
 
+Learn Vim Progressively
+http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively
+
 Practical Vim: Edit Text at the Speed of Thought , 2nd Edition
 https://www.amazon.com/Practical-Vim-Edit-Speed-Thought/dp/1680501275
 
@@ -988,7 +991,7 @@ Sources:
 http://sabok.org (Guide to the Systems Administration Body of Knowledge)
 http://startupstash.com
 http://www.toomas.net/2017/07/18/reverse-engineering-a-successful-lifestyle-business-heres-everything-ive-learned-from-reading-indiehackers-com
-https://news.ycombinator.com/item?id=11209066 (Why you probably don't need an MBA )
+https://news.ycombinator.com/item?id=11209066 (Why you probably don't need an MBA)
 https://news.ycombinator.com/item?id=13207268 (Ask HN: How do I get freelance developer jobs?)
 https://news.ycombinator.com/item?id=13855577 (Ask HN: What do you use to align your daily todos with your long term goals?)
 https://news.ycombinator.com/item?id=14146850 (Ask HN: Best business advice for software developers)
@@ -1017,6 +1020,7 @@ https://news.ycombinator.com/item?id=17295064 (Ask HN: How do you manage your me
 https://news.ycombinator.com/item?id=17385291 (Ask HN: What are the things that you have automated in your personal life?)
 https://news.ycombinator.com/item?id=17398726 (Ask HN: Which project management and team communication software do you use?)
 https://news.ycombinator.com/item?id=17544764 (Ask HN: How do you focus at work?)
+https://news.ycombinator.com/item?id=17892731 (Ask HN: How to organize personal knowledge?)
 https://www.indiehackers.com
 https://www.reddit.com/r/cscareerquestions/comments/6fnujy/soft_skills_for_programmers
 
