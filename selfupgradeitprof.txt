@@ -376,8 +376,8 @@ https://www.amazon.com/UNIX-Linux-System-Administration-Handbook/dp/0134277554
 How Linux Works: What Every Superuser Should Know Second Edition
 http://www.amazon.com/How-Linux-Works-Superuser-Should/dp/1593275676
 
-RHCSA & RHCE Red Hat Enterprise Linux 7: Training and Exam Preparation Guide (EX200 and EX300), Third Edition
-http://www.amazon.com/RHCSA-RHCE-Red-Enterprise-Linux/dp/1495148203
+RHCSA/RHCE Red Hat Linux Certification Study Guide, Seventh Edition (Exams EX200 & EX300) 7th Edition
+https://www.amazon.com/RHCSA-Linux-Certification-Study-Seventh/dp/0071841962
 
 Additional Material:
 
