@@ -822,6 +822,7 @@ https://news.ycombinator.com/item?id=16756243 (Ask HN: What books do you keep on
 https://news.ycombinator.com/item?id=17045790 (Ask HN: Which books have made you introspect?)
 https://news.ycombinator.com/item?id=17128513 (Ask HN: Which non-programming books are a beneficial read for programmers?)
 https://news.ycombinator.com/item?id=17625795 (Ask HN: Which books are “must-read” for anyone trying to learn about your field?)
+https://news.ycombinator.com/item?id=17909694 (Ask HN: What are your favorite non-fiction books of all time?)
 https://opentrackers.org/downloading-ebooks-textbooks
 https://redditfavorites.com/books
 https://torrentfreak.com/top-10-most-popular-torrent-sites-of-2018-180107
@@ -898,6 +899,7 @@ https://news.ycombinator.com/item?id=15341566 (Technical and non-technical tips 
 https://news.ycombinator.com/item?id=15468786 (Questions to ask in interviews (cternus.net))
 https://news.ycombinator.com/item?id=15804795 (How to solve a hard programming interview question)
 https://news.ycombinator.com/item?id=16126132 (Ask HN: How do I prepare for an interview for AMZ/GOOG/APL/FB?)
+https://news.ycombinator.com/item?id=17908547 (Ask HN: Types of Questions to Ask Team Members Before Accepting Role?)
 https://www.reddit.com/r/AskReddit/comments/74sskj/what_are_some_red_flags_in_a_job_interview
 https://www.reddit.com/r/cscareerquestions/comments/4ce2s3/resource_interview_questions_my_massive
 https://www.reddit.com/r/cscareerquestions/comments/8387zj/what_is_your_favorite_method_for_figuring_out_if
