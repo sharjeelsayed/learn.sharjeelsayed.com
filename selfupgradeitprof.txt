@@ -55,24 +55,23 @@ Science
 Design
 Machine Learning
 
-Study Tools:
-Ebooks
-MOOC
-Interview Guides
-Ambient Music
-Headphones
-
 Career:
-Management
-Money
+Interview Guides
+Resume Improvement
 Job Portals
 Job Search Engines
 Company and Salary Reviews
 Freelancer
-Resume Improvement
-News
+Management
+Money
 Foreign Language
-Chess
+
+Study Tools:
+Ebooks
+MOOC
+News
+Ambient Music
+Headphones
 
 Computer Science:
 
@@ -785,6 +784,244 @@ https://news.ycombinator.com/item?id=12713056 (Ask HN: How to get started with m
 Machine Learning by Andrew Ng
 https://www.coursera.org/learn/machine-learning
 
+Career:
+
+Interview Guides:
+
+Sources:
+http://blog.interviewing.io/what-really-matters-in-technical-interviews-we-analyzed-thousands-of-interviews-on-everything-from-language-to-code-style-heres-what-we-found
+https://hn.algolia.com/?query=interview&sort=byPopularity&prefix&page=0&dateRange=all&type=story
+https://news.ycombinator.com/item?id=11246917 (How to Pass a Programming Interview)
+https://news.ycombinator.com/item?id=14037313 (Questions to ask at the end of a technical interview)
+https://news.ycombinator.com/item?id=14218559 (How to talk about yourself in a developer interview)
+https://news.ycombinator.com/item?id=15341566 (Technical and non-technical tips for rocking your coding interview)
+https://news.ycombinator.com/item?id=15468786 (Questions to ask in interviews (cternus.net))
+https://news.ycombinator.com/item?id=15804795 (How to solve a hard programming interview question)
+https://news.ycombinator.com/item?id=16126132 (Ask HN: How do I prepare for an interview for AMZ/GOOG/APL/FB?)
+https://news.ycombinator.com/item?id=17908547 (Ask HN: Types of Questions to Ask Team Members Before Accepting Role?)
+https://www.reddit.com/r/AskReddit/comments/74sskj/what_are_some_red_flags_in_a_job_interview
+https://www.reddit.com/r/cscareerquestions/comments/4ce2s3/resource_interview_questions_my_massive
+https://www.reddit.com/r/cscareerquestions/comments/8387zj/what_is_your_favorite_method_for_figuring_out_if
+https://www.reddit.com/r/cscareerquestions/wiki/index
+https://pinboard.in/u:sharjeelsayed/t:cheatsheet
+https://pinboard.in/u:sharjeelsayed/t:interview
+https://pinboard.in/u:sharjeelsayed/t:jobs
+
+An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
+https://github.com/alex/what-happens-when
+
+Linux System Administrator/DevOps Interview Questions
+https://github.com/chassing/linux-sysadmin-interview-questions
+
+The System Design Primer
+https://github.com/donnemartin/system-design-primer
+
+Devops Interview Questions
+https://github.com/Leo-G/DevopsWiki/wiki/Devops-Interview-Questions
+
+Awesome Interviews
+https://github.com/MaximAbramchuck/awesome-interview-questions
+
+Coding Interview University
+https://github.com/jwasham/coding-interview-university
+
+Everything you need to prepare for your technical interview
+https://github.com/andreis/interview
+
+Algorithms, front end and behavioral content for rocking your coding interview
+https://github.com/yangshun/tech-interview-handbook
+
+500 Data Structures and Algorithms practice problems and their solutions
+https://techiedelight.quora.com/500-Data-Structures-and-Algorithms-practice-problems-and-their-solutions
+
+Cracking the Coding Interview: 189 Programming Questions and Solutions
+https://www.amazon.com/Cracking-Coding-Interview-6th-Programming/dp/0984782850
+
+Elements of Programming Interviews in Python: The Insiders' Guide
+https://www.amazon.com/Elements-Programming-Interviews-Python-Insiders/dp/1537713949
+
+Company Interview Corner - GeeksforGeeks
+http://www.geeksforgeeks.org/company-interview-corner
+
+Technical Interview Questions | CareerCup
+https://www.careercup.com/categories
+
+Search Interview Questions
+https://www.glassdoor.com/Interview/index.htm
+
+LeetCode
+https://leetcode.com
+
+HackerRank
+https://www.hackerrank.com
+
+Firecode.io
+https://www.firecode.io
+
+A collection of *nix Sysadmin Test Questions and Answers for Interview/Exam (2018 Edition)
+https://github.com/trimstray/test-your-sysadmin-skills
+
+Resume Improvement:
+
+Sources:
+https://news.ycombinator.com/item?id=16479922 (Ask HN: Resumes that look good but professional too)
+https://news.ycombinator.com/item?id=17671490 (Building a Kickass Portfolio)
+https://www.reddit.com/r/sysadminresumes/top
+
+https://pinboard.in/u:sharjeelsayed/t:resume
+
+Job Portals:
+
+Sources:
+https://github.com/lukasz-madon/awesome-remote-job
+https://news.ycombinator.com/item?id=14686745 (Ask HN: What are some of the best job boards you have seen (any industry)?)
+https://news.ycombinator.com/item?id=15473776 (Ask HN: What do you care about the most in a tech job post?)
+https://news.ycombinator.com/item?id=15646550 (Ask HN: What is your favorite place to find work?)
+https://news.ycombinator.com/item?id=16492393 (Ask HN: How Did You Find a Job Abroad?)
+https://news.ycombinator.com/item?id=16875868 (List of places to find remote jobs and freelancing projects)
+https://news.ycombinator.com/item?id=17047736 (Ask HN: How to become a remote contractor?)
+https://www.reddit.com/r/india/comments/81r29c/your_onestop_guide_to_emigrating_long_term_to
+
+https://www.linkedin.com/jobs
+https://www.naukri.com
+http://www.freejobalert.com
+https://www.indeed.co.in
+https://www.shine.com
+https://www.glassdoor.co.in
+https://www.freshersworld.com
+http://www.monsterindia.com
+http://www.timesjobs.com
+https://www.fresherslive.com
+https://angel.co
+Note: Update your resume on the above sites every Sunday post 12 AM (IST).
+
+Job Search Engines:
+
+https://www.indeed.co.in
+http://stackoverflow.com/jobs
+https://www.placementindia.com
+http://india.recruit.net
+https://www.simplyhired.co.in
+https://whoishiring.io
+
+Company and Salary Reviews:
+
+http://www.payscale.com/research/IN/Country=India/Salary
+https://careernavigator.naukri.com
+https://www.glassdoor.co.in/Salaries/india-salary-SRCH_IL.0,5_IN115.htm
+
+Freelancer:
+
+Sources:
+https://news.ycombinator.com/item?id=16651077 (Ask HN: How do you find freelance work?)
+
+https://www.guru.com
+https://nomadprojects.io
+https://www.freelancer.com
+https://www.upwork.com
+
+Management:
+
+Sources:
+http://sabok.org (Guide to the Systems Administration Body of Knowledge)
+http://startupstash.com
+http://www.toomas.net/2017/07/18/reverse-engineering-a-successful-lifestyle-business-heres-everything-ive-learned-from-reading-indiehackers-com
+https://news.ycombinator.com/item?id=11209066 (Why you probably don't need an MBA)
+https://news.ycombinator.com/item?id=13207268 (Ask HN: How do I get freelance developer jobs?)
+https://news.ycombinator.com/item?id=13855577 (Ask HN: What do you use to align your daily todos with your long term goals?)
+https://news.ycombinator.com/item?id=14146850 (Ask HN: Best business advice for software developers)
+https://news.ycombinator.com/item?id=14279870 (Ask HN: Should I create a clone of a popular SaaS with rock-bottom pricing?)
+https://news.ycombinator.com/item?id=14316349 (Ask HN: Freelance Management Services/Apps)
+https://news.ycombinator.com/item?id=14569154 (Ask HN: Where to find co-developers for side projects?)
+https://news.ycombinator.com/item?id=14653564 (Ask HN: As an employee of a company, how do you assess its health?)
+https://news.ycombinator.com/item?id=14726130 (Ask HN: How to prepare for an Engineering Manager interview?)
+https://news.ycombinator.com/item?id=15039829 (Ask HN: What costly inefficiency do you see at work?)
+https://news.ycombinator.com/item?id=15579047 (Ask HN: How do you take idea notes / voice memos / reminders to yourself?)
+https://news.ycombinator.com/item?id=15831046 (Ask HN: Time Management Tricks and Tips)
+https://news.ycombinator.com/item?id=16322942 (Ask HN: Simple tools/hack for small project management)
+https://news.ycombinator.com/item?id=16377523 (Ask HN: Best project management practices in 2018?)
+https://news.ycombinator.com/item?id=16453227 (Ask HN: How do you overcome the problems of task switching?)
+https://news.ycombinator.com/item?id=16482392 (Ask HN: Successful one-person online businesses?)
+https://news.ycombinator.com/item?id=16508308 (Ask HN: What are your best domestic time saving tips?)
+https://news.ycombinator.com/item?id=16522756 (Ask HN: What are good writing tips for software developers?)
+https://news.ycombinator.com/item?id=16560812 (Ask HN: What tools have most helped your day-to-day productivity?)
+https://news.ycombinator.com/item?id=16671944 (How to Fall Asleep in Two Minutes or Less)
+https://news.ycombinator.com/item?id=16852410 (Tell HN: My best productivity hack)
+https://news.ycombinator.com/item?id=17031588 (Ask HN: Advice to your younger self)
+https://news.ycombinator.com/item?id=17204467 (Ask HN: Recommendations on books and documentaries on tech companies/people?)
+https://news.ycombinator.com/item?id=17238135 (How to be a Manager – A step-by-step guide to leading a team)
+https://news.ycombinator.com/item?id=17291127 (Ask HN: Is there a new habit you cultivated recently that is really paying off?)
+https://news.ycombinator.com/item?id=17295064 (Ask HN: How do you manage your mental health?)
+https://news.ycombinator.com/item?id=17385291 (Ask HN: What are the things that you have automated in your personal life?)
+https://news.ycombinator.com/item?id=17398726 (Ask HN: Which project management and team communication software do you use?)
+https://news.ycombinator.com/item?id=17544764 (Ask HN: How do you focus at work?)
+https://news.ycombinator.com/item?id=17892731 (Ask HN: How to organize personal knowledge?)
+https://www.indiehackers.com
+https://www.reddit.com/r/cscareerquestions/comments/6fnujy/soft_skills_for_programmers
+
+Site Reliability Engineering: How Google Runs Production Systems
+https://www.amazon.com/Site-Reliability-Engineering-Production-Systems/dp/149192912X
+
+The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win
+https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262509
+
+The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations
+https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002
+
+The Practice of System and Network Administration: Volume 1: DevOps and other Best Practices for Enterprise IT (3rd Edition)
+https://www.amazon.com/dp/0321919165
+
+The Personal MBA: Master the Art of Business
+https://www.amazon.com/Personal-MBA-Master-Art-Business/dp/1591845572
+
+The Art Of War
+https://www.amazon.com/Art-War-Sun-Tzu/dp/1599869772
+
+How to Win Friends & Influence People
+https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034
+
+The Power Broker: Robert Moses and the Fall of New York
+https://www.amazon.com/Power-Broker-Robert-Moses-Fall/dp/0394720245
+
+Zero to One: Notes on Start Ups, or How to Build the Future
+https://www.amazon.com/Zero-One-Notes-Start-Future-ebook/dp/B00KHX0II4
+
+Startup School is a free 10-week massively open online course (MOOC)
+https://www.startupschool.org
+
+Money:
+
+Sources:
+https://codewithoutrules.com/2016/08/08/living-below-your-means
+https://news.ycombinator.com/item?id=12556160 (Ask HN: What are the must-read books about economics/finance?)
+https://news.ycombinator.com/item?id=15140182 (A Guide to Crypto Currencies (mycrypto.guide))
+https://news.ycombinator.com/item?id=15222819 (A New Way to Learn Economics (newyorker.com))
+https://news.ycombinator.com/item?id=15779722 (A good resource for financial advice to share with people in their twenties?)
+https://news.ycombinator.com/item?id=15786703 (Stanford CS007: Personal Finance For Engineers)
+https://news.ycombinator.com/item?id=17359102 (Ask HN: What are some good resources to learn how to invest and build wealth?)
+https://www.amazon.com/gp/bestsellers/books/491584
+https://www.reddit.com/r/Economics/wiki/reading
+https://www.reddit.com/r/india/comments/6b480c/psa_investing_in_mutual_funds_101
+https://www.reddit.com/r/IndiaInvestments/wiki/index
+https://www.reddit.com/r/IndiaInvestments/wiki/new
+
+Basic Economics 5th Edition
+https://www.amazon.com/Basic-Economics-Thomas-Sowell/dp/0465060730
+
+Financial Markets by Robert Shiller
+https://www.coursera.org/learn/financial-markets-global
+
+The Intelligent Investor
+https://www.amazon.com/Intelligent-Investor-Definitive-Investing-Essentials/dp/0060555661
+
+Computational Investing, Part I
+https://www.coursera.org/learn/computational-investing
+
+Foreign Language:
+
+https://www.duolingo.com
+https://www.memrise.com
+
 Study Tools:
 
 Sources:
@@ -887,262 +1124,6 @@ https://www.edx.org/course/subject/computer-science
 https://www.masterclass.com
 https://www.udacity.com/courses/all
 
-Interview Guides:
-
-Sources:
-http://blog.interviewing.io/what-really-matters-in-technical-interviews-we-analyzed-thousands-of-interviews-on-everything-from-language-to-code-style-heres-what-we-found
-https://hn.algolia.com/?query=interview&sort=byPopularity&prefix&page=0&dateRange=all&type=story
-https://news.ycombinator.com/item?id=11246917 (How to Pass a Programming Interview)
-https://news.ycombinator.com/item?id=14037313 (Questions to ask at the end of a technical interview)
-https://news.ycombinator.com/item?id=14218559 (How to talk about yourself in a developer interview)
-https://news.ycombinator.com/item?id=15341566 (Technical and non-technical tips for rocking your coding interview)
-https://news.ycombinator.com/item?id=15468786 (Questions to ask in interviews (cternus.net))
-https://news.ycombinator.com/item?id=15804795 (How to solve a hard programming interview question)
-https://news.ycombinator.com/item?id=16126132 (Ask HN: How do I prepare for an interview for AMZ/GOOG/APL/FB?)
-https://news.ycombinator.com/item?id=17908547 (Ask HN: Types of Questions to Ask Team Members Before Accepting Role?)
-https://www.reddit.com/r/AskReddit/comments/74sskj/what_are_some_red_flags_in_a_job_interview
-https://www.reddit.com/r/cscareerquestions/comments/4ce2s3/resource_interview_questions_my_massive
-https://www.reddit.com/r/cscareerquestions/comments/8387zj/what_is_your_favorite_method_for_figuring_out_if
-https://www.reddit.com/r/cscareerquestions/wiki/index
-https://pinboard.in/u:sharjeelsayed/t:cheatsheet
-https://pinboard.in/u:sharjeelsayed/t:interview
-https://pinboard.in/u:sharjeelsayed/t:jobs
-
-An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
-https://github.com/alex/what-happens-when
-
-Linux System Administrator/DevOps Interview Questions
-https://github.com/chassing/linux-sysadmin-interview-questions
-
-The System Design Primer
-https://github.com/donnemartin/system-design-primer
-
-Devops Interview Questions
-https://github.com/Leo-G/DevopsWiki/wiki/Devops-Interview-Questions
-
-Awesome Interviews
-https://github.com/MaximAbramchuck/awesome-interview-questions
-
-Coding Interview University
-https://github.com/jwasham/coding-interview-university
-
-Everything you need to prepare for your technical interview
-https://github.com/andreis/interview
-
-Algorithms, front end and behavioral content for rocking your coding interview
-https://github.com/yangshun/tech-interview-handbook
-
-500 Data Structures and Algorithms practice problems and their solutions
-https://techiedelight.quora.com/500-Data-Structures-and-Algorithms-practice-problems-and-their-solutions
-
-Cracking the Coding Interview: 189 Programming Questions and Solutions
-https://www.amazon.com/Cracking-Coding-Interview-6th-Programming/dp/0984782850
-
-Elements of Programming Interviews in Python: The Insiders' Guide
-https://www.amazon.com/Elements-Programming-Interviews-Python-Insiders/dp/1537713949
-
-Company Interview Corner - GeeksforGeeks
-http://www.geeksforgeeks.org/company-interview-corner
-
-Technical Interview Questions | CareerCup
-https://www.careercup.com/categories
-
-Search Interview Questions
-https://www.glassdoor.com/Interview/index.htm
-
-LeetCode
-https://leetcode.com
-
-HackerRank
-https://www.hackerrank.com
-
-Firecode.io
-https://www.firecode.io
-
-A collection of *nix Sysadmin Test Questions and Answers for Interview/Exam (2018 Edition)
-https://github.com/trimstray/test-your-sysadmin-skills
-
-Ambient Music:
-
-Sources:
-https://news.ycombinator.com/item?id=11146712 (AI generated music to improve focus, relaxation and sleep (brain.fm))
-https://news.ycombinator.com/item?id=12844434 (Music for Programming (musicforprogramming.net))
-https://news.ycombinator.com/item?id=17118269 (Ask HN: What, if anything, do you listen to while coding?)
-https://www.reddit.com/r/cscareerquestions/comments/7s6ral/music_while_coding
-https://pinboard.in/u:sharjeelsayed/t:music+study
-
-soma fm's Drone Zone Channel
-http://somafm.com/player/#/now-playing/dronezone
-
-myNoise : Custom Background Noise Machines
-https://mynoise.net
-
-Headphones:
-
-The Best Noise-Cancelling Headphones
-http://thewirecutter.com/reviews/best-noise-cancelling-headphones
-
-Amazon Best Sellers in Audio Headphones
-https://www.amazon.com/gp/bestsellers/electronics/172541
-
-Career:
-
-Management:
-
-Sources:
-http://sabok.org (Guide to the Systems Administration Body of Knowledge)
-http://startupstash.com
-http://www.toomas.net/2017/07/18/reverse-engineering-a-successful-lifestyle-business-heres-everything-ive-learned-from-reading-indiehackers-com
-https://news.ycombinator.com/item?id=11209066 (Why you probably don't need an MBA)
-https://news.ycombinator.com/item?id=13207268 (Ask HN: How do I get freelance developer jobs?)
-https://news.ycombinator.com/item?id=13855577 (Ask HN: What do you use to align your daily todos with your long term goals?)
-https://news.ycombinator.com/item?id=14146850 (Ask HN: Best business advice for software developers)
-https://news.ycombinator.com/item?id=14279870 (Ask HN: Should I create a clone of a popular SaaS with rock-bottom pricing?)
-https://news.ycombinator.com/item?id=14316349 (Ask HN: Freelance Management Services/Apps)
-https://news.ycombinator.com/item?id=14569154 (Ask HN: Where to find co-developers for side projects?)
-https://news.ycombinator.com/item?id=14653564 (Ask HN: As an employee of a company, how do you assess its health?)
-https://news.ycombinator.com/item?id=14726130 (Ask HN: How to prepare for an Engineering Manager interview?)
-https://news.ycombinator.com/item?id=15039829 (Ask HN: What costly inefficiency do you see at work?)
-https://news.ycombinator.com/item?id=15579047 (Ask HN: How do you take idea notes / voice memos / reminders to yourself?)
-https://news.ycombinator.com/item?id=15831046 (Ask HN: Time Management Tricks and Tips)
-https://news.ycombinator.com/item?id=16322942 (Ask HN: Simple tools/hack for small project management)
-https://news.ycombinator.com/item?id=16377523 (Ask HN: Best project management practices in 2018?)
-https://news.ycombinator.com/item?id=16453227 (Ask HN: How do you overcome the problems of task switching?)
-https://news.ycombinator.com/item?id=16482392 (Ask HN: Successful one-person online businesses?)
-https://news.ycombinator.com/item?id=16508308 (Ask HN: What are your best domestic time saving tips?)
-https://news.ycombinator.com/item?id=16522756 (Ask HN: What are good writing tips for software developers?)
-https://news.ycombinator.com/item?id=16560812 (Ask HN: What tools have most helped your day-to-day productivity?)
-https://news.ycombinator.com/item?id=16671944 (How to Fall Asleep in Two Minutes or Less)
-https://news.ycombinator.com/item?id=16852410 (Tell HN: My best productivity hack)
-https://news.ycombinator.com/item?id=17031588 (Ask HN: Advice to your younger self)
-https://news.ycombinator.com/item?id=17204467 (Ask HN: Recommendations on books and documentaries on tech companies/people?)
-https://news.ycombinator.com/item?id=17238135 (How to be a Manager – A step-by-step guide to leading a team)
-https://news.ycombinator.com/item?id=17291127 (Ask HN: Is there a new habit you cultivated recently that is really paying off?)
-https://news.ycombinator.com/item?id=17295064 (Ask HN: How do you manage your mental health?)
-https://news.ycombinator.com/item?id=17385291 (Ask HN: What are the things that you have automated in your personal life?)
-https://news.ycombinator.com/item?id=17398726 (Ask HN: Which project management and team communication software do you use?)
-https://news.ycombinator.com/item?id=17544764 (Ask HN: How do you focus at work?)
-https://news.ycombinator.com/item?id=17892731 (Ask HN: How to organize personal knowledge?)
-https://www.indiehackers.com
-https://www.reddit.com/r/cscareerquestions/comments/6fnujy/soft_skills_for_programmers
-
-Site Reliability Engineering: How Google Runs Production Systems
-https://www.amazon.com/Site-Reliability-Engineering-Production-Systems/dp/149192912X
-
-The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win
-https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262509
-
-The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations
-https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002
-
-The Practice of System and Network Administration: Volume 1: DevOps and other Best Practices for Enterprise IT (3rd Edition)
-https://www.amazon.com/dp/0321919165
-
-The Personal MBA: Master the Art of Business
-https://www.amazon.com/Personal-MBA-Master-Art-Business/dp/1591845572
-
-The Art Of War
-https://www.amazon.com/Art-War-Sun-Tzu/dp/1599869772
-
-How to Win Friends & Influence People
-https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034
-
-The Power Broker: Robert Moses and the Fall of New York
-https://www.amazon.com/Power-Broker-Robert-Moses-Fall/dp/0394720245
-
-Zero to One: Notes on Start Ups, or How to Build the Future
-https://www.amazon.com/Zero-One-Notes-Start-Future-ebook/dp/B00KHX0II4
-
-Startup School is a free 10-week massively open online course (MOOC)
-https://www.startupschool.org
-
-Money:
-
-Sources:
-https://codewithoutrules.com/2016/08/08/living-below-your-means
-https://news.ycombinator.com/item?id=12556160 (Ask HN: What are the must-read books about economics/finance?)
-https://news.ycombinator.com/item?id=15140182 (A Guide to Crypto Currencies (mycrypto.guide))
-https://news.ycombinator.com/item?id=15222819 (A New Way to Learn Economics (newyorker.com))
-https://news.ycombinator.com/item?id=15779722 (A good resource for financial advice to share with people in their twenties?)
-https://news.ycombinator.com/item?id=15786703 (Stanford CS007: Personal Finance For Engineers)
-https://news.ycombinator.com/item?id=17359102 (Ask HN: What are some good resources to learn how to invest and build wealth?)
-https://www.amazon.com/gp/bestsellers/books/491584
-https://www.reddit.com/r/Economics/wiki/reading
-https://www.reddit.com/r/india/comments/6b480c/psa_investing_in_mutual_funds_101
-https://www.reddit.com/r/IndiaInvestments/wiki/index
-https://www.reddit.com/r/IndiaInvestments/wiki/new
-
-Basic Economics 5th Edition
-https://www.amazon.com/Basic-Economics-Thomas-Sowell/dp/0465060730
-
-Financial Markets by Robert Shiller
-https://www.coursera.org/learn/financial-markets-global
-
-The Intelligent Investor
-https://www.amazon.com/Intelligent-Investor-Definitive-Investing-Essentials/dp/0060555661
-
-Computational Investing, Part I
-https://www.coursera.org/learn/computational-investing
-
-Job Portals:
-
-Sources:
-https://github.com/lukasz-madon/awesome-remote-job
-https://news.ycombinator.com/item?id=14686745 (Ask HN: What are some of the best job boards you have seen (any industry)?)
-https://news.ycombinator.com/item?id=15473776 (Ask HN: What do you care about the most in a tech job post?)
-https://news.ycombinator.com/item?id=15646550 (Ask HN: What is your favorite place to find work?)
-https://news.ycombinator.com/item?id=16492393 (Ask HN: How Did You Find a Job Abroad?)
-https://news.ycombinator.com/item?id=16875868 (List of places to find remote jobs and freelancing projects)
-https://news.ycombinator.com/item?id=17047736 (Ask HN: How to become a remote contractor?)
-https://www.reddit.com/r/india/comments/81r29c/your_onestop_guide_to_emigrating_long_term_to
-
-https://www.linkedin.com/jobs
-https://www.naukri.com
-http://www.freejobalert.com
-https://www.indeed.co.in
-https://www.shine.com
-https://www.glassdoor.co.in
-https://www.freshersworld.com
-http://www.monsterindia.com
-http://www.timesjobs.com
-https://www.fresherslive.com
-https://angel.co
-Note: Update your resume on the above sites every Sunday post 12 AM (IST).
-
-Job Search Engines:
-
-https://www.indeed.co.in
-http://stackoverflow.com/jobs
-https://www.placementindia.com
-http://india.recruit.net
-https://www.simplyhired.co.in
-https://whoishiring.io
-
-Company and Salary Reviews:
-
-http://www.payscale.com/research/IN/Country=India/Salary
-https://careernavigator.naukri.com
-https://www.glassdoor.co.in/Salaries/india-salary-SRCH_IL.0,5_IN115.htm
-
-Freelancer:
-
-Sources:
-https://news.ycombinator.com/item?id=16651077 (Ask HN: How do you find freelance work?)
-
-https://www.guru.com
-https://nomadprojects.io
-https://www.freelancer.com
-https://www.upwork.com
-
-Resume Improvement:
-
-Sources:
-https://news.ycombinator.com/item?id=16479922 (Ask HN: Resumes that look good but professional too)
-https://news.ycombinator.com/item?id=17671490 (Building a Kickass Portfolio)
-https://www.reddit.com/r/sysadminresumes/top
-
-https://pinboard.in/u:sharjeelsayed/t:resume
-
 News:
 
 Sources:
@@ -1173,14 +1154,28 @@ Install the IFTTT Mobile app .Turn on the applet https://IFTTT.com/applets/45614
 RSS Reader (Web/iOS/Android):
 Import http://opml.SharjeelSayed.com , into Inoreader.com
 
-Foreign Language:
+Ambient Music:
 
-https://www.duolingo.com
-https://www.memrise.com
+Sources:
+https://news.ycombinator.com/item?id=11146712 (AI generated music to improve focus, relaxation and sleep (brain.fm))
+https://news.ycombinator.com/item?id=12844434 (Music for Programming (musicforprogramming.net))
+https://news.ycombinator.com/item?id=17118269 (Ask HN: What, if anything, do you listen to while coding?)
+https://www.reddit.com/r/cscareerquestions/comments/7s6ral/music_while_coding
+https://pinboard.in/u:sharjeelsayed/t:music+study
 
-Chess:
+soma fm's Drone Zone Channel
+http://somafm.com/player/#/now-playing/dronezone
 
-https://pinboard.in/u:sharjeelsayed/t:chess
+myNoise : Custom Background Noise Machines
+https://mynoise.net
+
+Headphones:
+
+The Best Noise-Cancelling Headphones
+http://thewirecutter.com/reviews/best-noise-cancelling-headphones
+
+Amazon Best Sellers in Audio Headphones
+https://www.amazon.com/gp/bestsellers/electronics/172541
 
 Additional Sources :
 https://github.com/jnv/lists
