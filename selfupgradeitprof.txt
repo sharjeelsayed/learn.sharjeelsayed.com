@@ -292,6 +292,7 @@ https://github.com/mininet/mininet/wiki/Teaching-and-Learning-with-Mininet
 https://github.com/saminiir/level-ip
 https://news.ycombinator.com/item?id=13983212 (Beej's Guide to Network Programming)
 https://news.ycombinator.com/item?id=14701199 (Let's Code a TCP/IP Stack: TCP Retransmission (saminiir.com))
+https://www.reddit.com/r/ccna/wiki/index
 https://www.reddit.com/r/networking/wiki/index
 https://www.reddit.com/r/sysadmin/comments/4ux166/do_you_know_a_site_to_learn_more_about_networking
 
@@ -898,15 +899,15 @@ Note: Update your resume on the above sites every Sunday post 12 AM (IST).
 Job Search Engines:
 
 https://www.indeed.co.in
-http://stackoverflow.com/jobs
+https://stackoverflow.com/jobs
 https://www.placementindia.com
-http://india.recruit.net
+https://india.recruit.net
 https://www.simplyhired.co.in
 https://whoishiring.io
 
 Company and Salary Reviews:
 
-http://www.payscale.com/research/IN/Country=India/Salary
+https://www.payscale.com/research/IN/Country=India/Salary
 https://careernavigator.naukri.com
 https://www.glassdoor.co.in/Salaries/india-salary-SRCH_IL.0,5_IN115.htm
 
@@ -956,6 +957,7 @@ https://news.ycombinator.com/item?id=17385291 (Ask HN: What are the things that 
 https://news.ycombinator.com/item?id=17398726 (Ask HN: Which project management and team communication software do you use?)
 https://news.ycombinator.com/item?id=17544764 (Ask HN: How do you focus at work?)
 https://news.ycombinator.com/item?id=17892731 (Ask HN: How to organize personal knowledge?)
+https://news.ycombinator.com/item?id=17942709 (Ask HN: As a technical founder what is the best business book you've read?)
 https://www.indiehackers.com
 https://www.reddit.com/r/cscareerquestions/comments/6fnujy/soft_skills_for_programmers
 
