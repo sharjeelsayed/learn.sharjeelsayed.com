@@ -38,6 +38,7 @@ MySQL
 PostgreSQL
 Redis
 Ansible
+Puppet
 Python
 C
 Java
@@ -470,8 +471,8 @@ https://github.com/kubernetes/kubernetes
 
 VMware:
 
-CBT Nuggets VMware vSphere 6
-https://thepiratebay.org/torrent/13449737/CBT_Nuggets_VMware_vSphere_6
+VMware vSphere 6.5 (VCP6.5-DCV) with 6.7 Updates
+https://www.cbtnuggets.com/it-training/vmware-vsphere-6-vcp6-5-dcv
 
 Mastering VMware vSphere 6 1st Edition
 https://www.amazon.com/Mastering-VMware-vSphere-Nick-Marshall/dp/1118925157
@@ -562,6 +563,14 @@ https://leanpub.com/ansible-for-devops
 
 Ansible Videos
 https://www.ansible.com/videos
+
+Puppet
+
+Download the Puppet Learning VM
+https://puppet.com/download-learning-vm
+
+Puppet 5 Beginner's Guide - Third Edition: Go from newbie to pro with Puppet 5
+https://www.amazon.com/Puppet-Beginners-Guide-Third-newbie/dp/178847290X
 
 Python:
 
