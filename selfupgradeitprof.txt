@@ -699,6 +699,7 @@ https://news.ycombinator.com/item?id=17563857 (Ask HN: What are the best resourc
 https://news.ycombinator.com/item?id=17749283 (Ask HN: Recommendations of good cybercrime novels?)
 https://room362.com/start
 https://s3ctur.wordpress.com/2017/06/19/breaking-into-infosec-a-beginners-curriculum
+https://www.edx.org/learn/cybersecurity
 https://www.reddit.com/r/netsec+privacy+SocialEngineering+onions+ReverseEngineering+crypto+blackhat+security+Malware+pwned+netsecstudents+computerforensics+HackBloc+securityCTF+xss+vrd+rootkit+REMath
 https://www.reddit.com/r/netsec/wiki/start
 https://www.reddit.com/r/netsecstudents/top/?sort=top&t=all
@@ -926,6 +927,7 @@ Company and Salary Reviews:
 https://www.payscale.com/research/IN/Country=India/Salary
 https://careernavigator.naukri.com
 https://www.glassdoor.co.in/Salaries/india-salary-SRCH_IL.0,5_IN115.htm
+https://stackoverflow.com/jobs/salary
 
 Freelancer:
 
@@ -1078,6 +1080,7 @@ https://news.ycombinator.com/item?id=17045790 (Ask HN: Which books have made you
 https://news.ycombinator.com/item?id=17128513 (Ask HN: Which non-programming books are a beneficial read for programmers?)
 https://news.ycombinator.com/item?id=17625795 (Ask HN: Which books are “must-read” for anyone trying to learn about your field?)
 https://news.ycombinator.com/item?id=17909694 (Ask HN: What are your favorite non-fiction books of all time?)
+https://news.ycombinator.com/item?id=17980964 (Ask HN: What was the one book that you read and it actually changed your life?)
 https://opentrackers.org/downloading-ebooks-textbooks
 https://redditfavorites.com/books
 https://torrentfreak.com/top-10-most-popular-torrent-sites-of-2018-180107
