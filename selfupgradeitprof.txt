@@ -118,6 +118,7 @@ Programming Concepts:
 
 Sources:
 http://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read
+https://blog.codinghorror.com/recommended-reading-for-developers
 https://docs.google.com/spreadsheets/d/1gIRjeB1Y_AMvtmJsZWl_dNMDJ7lPSIxiVUYyEvrP5P4/htmlview?usp=sharing&sle=true (Popular Programming Podcast episodes)
 https://github.com/AlgoryL/Projects-from-Scratch
 https://github.com/bnb/awesome-developer-streams
@@ -1129,6 +1130,7 @@ https://news.ycombinator.com/item?id=14570002 (Startup School 2017 Presentations
 https://news.ycombinator.com/item?id=14770521 (Ask HN: Any “bootcamps” or courses for intermediate/advanced people?)
 https://news.ycombinator.com/item?id=16745042 (Ask HN: What are the best MOOCs you've taken?)
 https://news.ycombinator.com/item?id=17616937 (Ask HN: Any good examples of learning through games/puzzles, for adults?)
+https://news.ycombinator.com/item?id=17999659 (Ask HN: Favorite teachers on YouTube?)
 https://www.class-central.com/collection/top-free-online-courses?utm_source=top-50-course-page
 https://www.class-central.com/report/mooc-providers-list
 https://www.reddit.com/r/sysadmin/comments/65wdum/whats_your_favorite_selfstudy_resource_paid_free
