@@ -706,6 +706,7 @@ https://www.reddit.com/r/netsec/wiki/start
 https://www.reddit.com/r/netsecstudents/top/?sort=top&t=all
 https://www.reddit.com/r/netsecstudents/wiki
 https://xapax.github.io/blog/2017/01/14/OSCP.html
+https://pinboard.in/u:sharjeelsayed/t:security
 
 Penetration Testing: A Hands-On Introduction to Hacking
 https://www.amazon.com/Penetration-Testing-Hands-Introduction-Hacking/dp/1593275641
@@ -1228,5 +1229,5 @@ https://news.ycombinator.com/user?id=sharjeelsayed
 https://pinboard.in/u:sharjeelsayed
 https://pinboard.in/u:sharjeelsayed/t:sharjeelsayed
 https://www.goodreads.com/user/show/36136296-sharjeel-sayed
-https://www.reddit.com/user/sharjeelsayed/upvoted
+https://www.reddit.com/user/sharjeelsayed
 https://www.youtube.com/user/sayedsharjeel
