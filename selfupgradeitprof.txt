@@ -273,6 +273,10 @@ https://www.amazon.com/Introduction-Linear-Algebra-Gilbert-Strang/dp/0980232775
 
 Operating Systems Concepts:
 
+Sources:
+https://news.ycombinator.com/item?id=10182727 (Operating Systems: Three Easy Pieces (wisc.edu))
+https://news.ycombinator.com/item?id=18023062 (How to create an OS from scratch – tutorial (github.com))
+
 Operating Systems: Three Easy Pieces
 http://pages.cs.wisc.edu/~remzi/OSTEP
 http://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/Discussion/videos.html (Video Course based on the book by CS 537 at Wisconsin with Remzi)
