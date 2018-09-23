@@ -157,6 +157,7 @@ https://news.ycombinator.com/item?id=17390527 (DevTube: Searchable index of deve
 https://news.ycombinator.com/item?id=17651797 (Composing Programs – An introduction to programming in the tradition of SICP)
 https://news.ycombinator.com/item?id=17666133 (Paul Graham on SICP (2000))
 https://news.ycombinator.com/item?id=17965917 (Ask HN: What's a starting point for learning how to write programming languages?)
+https://news.ycombinator.com/item?id=18046722 (What are some things that only someone who has been programming 20 years knows? (quora.com))
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/index.htm
 https://softwareengineeringdaily.com
 https://www.microsoft.com/en-us/research/blog/category/podcast
@@ -1098,6 +1099,10 @@ https://www.reddit.com/r/cscareerquestions/comments/6w4dej/what_books_should_eve
 https://www.reddit.com/r/megalinks/comments/6vw6xe/meta_list_of_websites_which_provide_megalinks
 https://www.reddit.com/r/Piracy/comments/6ldvos/hard_to_find_ebooks
 https://www.reddit.com/r/Piracy/wiki/megathread
+https://pinboard.in/u:sharjeelsayed/t:course
+https://pinboard.in/u:sharjeelsayed/t:cs
+https://pinboard.in/u:sharjeelsayed/t:ebooks
+https://pinboard.in/u:sharjeelsayed/t:learn
 
 http://libgen.io or http://gen.lib.rus.ec
 https://thepiratebay.org or https://thepiratebay-proxylist.org
@@ -1116,10 +1121,6 @@ http://breue.com/free_programming_books
 irc://irc.undernet.org/bookz
 irc://irc.irchighway.net/ebooks
 https://books.goalkicker.com
-https://pinboard.in/u:sharjeelsayed/t:course
-https://pinboard.in/u:sharjeelsayed/t:cs
-https://pinboard.in/u:sharjeelsayed/t:ebooks
-https://pinboard.in/u:sharjeelsayed/t:learn
 
 MOOC:
 
