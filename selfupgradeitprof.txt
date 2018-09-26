@@ -983,6 +983,7 @@ https://news.ycombinator.com/item?id=17398726 (Ask HN: Which project management 
 https://news.ycombinator.com/item?id=17544764 (Ask HN: How do you focus at work?)
 https://news.ycombinator.com/item?id=17892731 (Ask HN: How to organize personal knowledge?)
 https://news.ycombinator.com/item?id=17942709 (Ask HN: As a technical founder what is the best business book you've read?)
+https://news.ycombinator.com/item?id=18071909 (Ask HN: What was the best decision you made in your career?)
 https://www.indiehackers.com
 https://www.reddit.com/r/cscareerquestions/comments/6fnujy/soft_skills_for_programmers
 
@@ -1170,6 +1171,7 @@ https://news.ycombinator.com/item?id=16561799 (Ask HN: What's the Hacker News fo
 https://news.ycombinator.com/item?id=16838460 (Ask HN: What is your favourite tech talk?)
 https://news.ycombinator.com/item?id=17202615 (Ask HN: Which YouTube channels do you watch regularly?)
 https://news.ycombinator.com/item?id=17690852 (Ask HN: What are some niche communities you enjoy?)
+https://news.ycombinator.com/item?id=18073169 (Ask HN: What podcasts do you listen to regularly?)
 https://news.ycombinator.com/item?id=9207360 (Ask HN: Favorite podcasts?)
 https://news.ycombinator.com/item?id=9836023 (Ask HN: What tech blogs, podcasts do you follow outside of HN?)
 https://podcastrank.co
