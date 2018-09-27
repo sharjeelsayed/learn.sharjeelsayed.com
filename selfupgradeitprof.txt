@@ -300,6 +300,7 @@ https://github.com/mininet/mininet/wiki/Teaching-and-Learning-with-Mininet
 https://github.com/saminiir/level-ip
 https://news.ycombinator.com/item?id=13983212 (Beej's Guide to Network Programming)
 https://news.ycombinator.com/item?id=14701199 (Let's Code a TCP/IP Stack: TCP Retransmission (saminiir.com))
+https://www.reddit.com/r/ccna/wiki/faqs/materials
 https://www.reddit.com/r/ccna/wiki/index
 https://www.reddit.com/r/networking/wiki/index
 https://www.reddit.com/r/sysadmin/comments/4ux166/do_you_know_a_site_to_learn_more_about_networking
@@ -319,6 +320,9 @@ http://beej.us/guide/bgnet
 
 Unix Network Programming, Volume 1: The Sockets Networking API (3rd Edition)
 https://www.amazon.com/Unix-Network-Programming-Sockets-Networking/dp/0131411551
+
+CCNA Routing and Switching 200-125 Official Cert Guide Library
+https://www.amazon.com/Routing-Switching-200-125-Official-Library/dp/1587205815
 
 Additional Material:
 
@@ -439,6 +443,9 @@ HackerRank Bash Challenges
 https://www.hackerrank.com/domains/shell/bash
 
 Windows:
+
+Sources:
+https://www.reddit.com/r/sysadmin/wiki/ms/resources
 
 Windows Server 2016 - TechNet - Microsoft
 https://docs.microsoft.com/en-us/windows-server/windows-server-2016
