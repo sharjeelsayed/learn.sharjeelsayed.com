@@ -1216,6 +1216,7 @@ https://www.amazon.com/gp/bestsellers/electronics/172541
 Additional Sources :
 https://github.com/jnv/lists
 https://hn.algolia.com
+https://hnprofile.com (Find an Expert on Hacker News)
 https://learn-anything.xyz
 https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#-48.5,-680.3,0
 https://news.ycombinator.com/item?id=12209446 (How to Read a Book [pdf])
@@ -1228,6 +1229,7 @@ https://news.ycombinator.com/item?id=14724092 (Ask HN: Which sites you visit on 
 https://news.ycombinator.com/item?id=15098066 (Ask HN: What online communities offer a high level of discussion?)
 https://news.ycombinator.com/item?id=15105601 (Ask HN: What are your favourite self hosted tools?)
 https://news.ycombinator.com/item?id=17272715 (Ask HN: Any resources to learn the fundamentals of critical thinking?)
+https://redditprofile.com (Find an Expert on Reddit)
 https://www.producthunt.com
 https://www.reddit.com/r/Addons4Kodi/comments/8wr3tu/requests_recomendations_basics_july_2018
 https://www.reddit.com/r/AskReddit/comments/4q91g9/what_free_things_online_should_everyone_take/d4r8foy
