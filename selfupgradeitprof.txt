@@ -767,6 +767,7 @@ https://courses.edx.org/courses/course-v1:MITx+6.002.1x_1+2T2016/info
 Science:
 
 Sources:
+https://news.ycombinator.com/item?id=18085765 (Ask HN: What are some of the best documentaries you've seen?)
 https://www.reddit.com/r/AskReddit/comments/5x2r6b/reddit_what_are_some_must_see_documentaries
 https://www.reddit.com/r/AskReddit/comments/7yvhmi/what_is_the_most_interesting_documentary_youve
 https://www.theguardian.com/books/booksblog/2017/jul/20/dawkins-sees-off-darwin-in-vote-for-most-influential-science-book
