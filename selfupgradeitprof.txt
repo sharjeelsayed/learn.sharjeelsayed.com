@@ -301,8 +301,8 @@ https://github.com/saminiir/level-ip
 https://news.ycombinator.com/item?id=13983212 (Beej's Guide to Network Programming)
 https://news.ycombinator.com/item?id=14701199 (Let's Code a TCP/IP Stack: TCP Retransmission (saminiir.com))
 https://www.reddit.com/r/ccna/wiki/faqs/materials
-https://www.reddit.com/r/ccna/wiki/index
-https://www.reddit.com/r/networking/wiki/index
+https://www.reddit.com/r/ccna/wiki
+https://www.reddit.com/r/networking/wiki
 https://www.reddit.com/r/sysadmin/comments/4ux166/do_you_know_a_site_to_learn_more_about_networking
 
 Computer Networking: A Top-Down Approach (7th Edition)
@@ -370,8 +370,7 @@ https://news.ycombinator.com/item?id=16357368 (Ask HN: Which books describe mode
 https://www.reddit.com/r/homelab/wiki/software
 https://www.reddit.com/r/linuxadmin/comments/65vb8s/advice_if_you_are_wanting_to_go_into_devops
 https://www.reddit.com/r/sysadmin/comments/65u70f/sysadmins_what_are_some_good_it_youtube_channels
-https://www.reddit.com/r/sysadmin/wiki/bootcamp
-https://www.reddit.com/r/sysadmin/wiki/learn
+https://www.reddit.com/r/sysadmin/wiki
 
 Linux:
 
@@ -597,7 +596,7 @@ https://www.reddit.com/r/learnprogramming/wiki/online#wiki_python
 https://www.reddit.com/r/learnpython/comments/53z5p4/how_to_start_learning_python_the_complete_guide
 https://www.reddit.com/r/learnpython/comments/609p5x/selftaught_people_how_did_you_learn_python
 https://www.reddit.com/r/learnpython/top
-https://www.reddit.com/r/learnpython/wiki/index
+https://www.reddit.com/r/learnpython/wiki
 https://www.reddit.com/r/Python
 
 Learn Python 3 the Hard Way
@@ -757,7 +756,7 @@ Electronics:
 Sources:
 https://news.ycombinator.com/item?id=16775744 (Ask HN: How to self-learn electronics?)
 https://news.ycombinator.com/item?id=16920476 (Ask HN: Where did you learn modular electronics?)
-https://www.reddit.com/r/AskElectronics/wiki/index
+https://www.reddit.com/r/AskElectronics/wiki
 
 The Art of Electronics 3rd Edition
 https://www.amazon.com/Art-Electronics-Paul-Horowitz/dp/0521809266
@@ -831,7 +830,7 @@ https://news.ycombinator.com/item?id=17908547 (Ask HN: Types of Questions to Ask
 https://www.reddit.com/r/AskReddit/comments/74sskj/what_are_some_red_flags_in_a_job_interview
 https://www.reddit.com/r/cscareerquestions/comments/4ce2s3/resource_interview_questions_my_massive
 https://www.reddit.com/r/cscareerquestions/comments/8387zj/what_is_your_favorite_method_for_figuring_out_if
-https://www.reddit.com/r/cscareerquestions/wiki/index
+https://www.reddit.com/r/cscareerquestions/wiki
 https://pinboard.in/u:sharjeelsayed/t:cheatsheet
 https://pinboard.in/u:sharjeelsayed/t:interview
 https://pinboard.in/u:sharjeelsayed/t:jobs
@@ -1037,8 +1036,7 @@ https://news.ycombinator.com/item?id=17359102 (Ask HN: What are some good resour
 https://www.amazon.com/gp/bestsellers/books/491584
 https://www.reddit.com/r/Economics/wiki/reading
 https://www.reddit.com/r/india/comments/6b480c/psa_investing_in_mutual_funds_101
-https://www.reddit.com/r/IndiaInvestments/wiki/index
-https://www.reddit.com/r/IndiaInvestments/wiki/new
+https://www.reddit.com/r/IndiaInvestments/wiki
 
 Basic Economics 5th Edition
 https://www.amazon.com/Basic-Economics-Thomas-Sowell/dp/0465060730
