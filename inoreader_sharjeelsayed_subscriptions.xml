@@ -25,13 +25,12 @@
       <outline text="Pinboard (sharjeelsayed)" title="Pinboard (sharjeelsayed)" type="rss" xmlUrl="http://feeds.pinboard.in/rss/secret:4a34677e77291488e93c/u:sharjeelsayed/" htmlUrl="https://pinboard.in/u:sharjeelsayed/"/>
     </outline>
     <outline text="Sci-Tech" title="Sci-Tech">
+      <outline text="Science" title="Science" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/science/.rss" htmlUrl="https://www.reddit.com/r/science/?t=1538185315"/>
       <outline text="apple, iphone" title="apple, iphone" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/apple%2Biphone/.rss" htmlUrl="https://www.reddit.com/r/apple+iphone/?t=1538184092"/>
-      <outline text="CryptoCurrency, Bitcoin" title="CryptoCurrency, Bitcoin" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/Bitcoin%2BCryptoCurrency/.rss" htmlUrl="https://www.reddit.com/r/Bitcoin+CryptoCurrency/?t=20180110145247"/>
       <outline text="reddit gadget guide" title="reddit gadget guide" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/gadgets/.rss" htmlUrl="https://www.reddit.com/r/gadgets/?t=20171123064255"/>
       <outline text="Slashdot" title="Slashdot" type="rss" xmlUrl="http://rss.slashdot.org/Slashdot/slashdotMain" htmlUrl="http://slashdot.org/"/>
       <outline text="The Hacker News" title="The Hacker News" type="rss" xmlUrl="http://thehackernews.com/feeds/posts/default" htmlUrl="http://thehackernews.com/"/>
       <outline text="Hacker News: Front Page" title="Hacker News: Front Page" type="rss" xmlUrl="https://hnrss.org/frontpage" htmlUrl="https://news.ycombinator.com/"/>
-      <outline text="Science" title="Science" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/science/.rss" htmlUrl="https://www.reddit.com/r/science/?t=1538185315"/>
       <outline text="Techmeme" title="Techmeme" type="rss" xmlUrl="http://www.techmeme.com/index.xml" htmlUrl="http://www.techmeme.com/"/>
     </outline>
     <outline text="DevOps" title="DevOps">
@@ -47,6 +46,7 @@
       <outline text="AskReddit, explainlikeimfive, Showerthoughts, UnethicalLifeProTips, LifeProTips" title="AskReddit, explainlikeimfive, Showerthoughts, UnethicalLifeProTips, LifeProTips" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/AskReddit%2BLifeProTips%2BShowerthoughts%2BUnethicalLifeProTips%2Bexplainlikeimfive/.rss" htmlUrl="https://www.reddit.com/r/AskReddit+LifeProTips+Showerthoughts+UnethicalLifeProTips+explainlikeimfive/?t=1538185937"/>
       <outline text="Today I Learned (TIL)" title="Today I Learned (TIL)" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/todayilearned/.rss" htmlUrl="https://www.reddit.com/r/todayilearned/?t=1538185663"/>
       <outline text="electronic_cigarette, juul" title="electronic_cigarette, juul" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/electronic_cigarette%2Bjuul/.rss" htmlUrl="https://www.reddit.com/r/electronic_cigarette+juul/?t=1533326940"/>
+      <outline text="CryptoCurrency, Bitcoin" title="CryptoCurrency, Bitcoin" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/Bitcoin%2BCryptoCurrency/.rss" htmlUrl="https://www.reddit.com/r/Bitcoin+CryptoCurrency/?t=20180110145247"/>
     </outline>
   </body>
 </opml>
