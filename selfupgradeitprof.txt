@@ -769,6 +769,7 @@ Sources:
 https://news.ycombinator.com/item?id=18085765 (Ask HN: What are some of the best documentaries you've seen?)
 https://www.reddit.com/r/AskReddit/comments/5x2r6b/reddit_what_are_some_must_see_documentaries
 https://www.reddit.com/r/AskReddit/comments/7yvhmi/what_is_the_most_interesting_documentary_youve
+https://www.reddit.com/r/Documentaries/wiki
 https://www.theguardian.com/books/booksblog/2017/jul/20/dawkins-sees-off-darwin-in-vote-for-most-influential-science-book
 
 What If?: Serious Scientific Answers to Absurd Hypothetical Questions
@@ -990,6 +991,7 @@ https://news.ycombinator.com/item?id=17544764 (Ask HN: How do you focus at work?
 https://news.ycombinator.com/item?id=17892731 (Ask HN: How to organize personal knowledge?)
 https://news.ycombinator.com/item?id=17942709 (Ask HN: As a technical founder what is the best business book you've read?)
 https://news.ycombinator.com/item?id=18071909 (Ask HN: What was the best decision you made in your career?)
+https://news.ycombinator.com/item?id=18098992 (Ask HN: What things have richly rewarded the time invested in mastering them?)
 https://www.indiehackers.com
 https://www.reddit.com/r/cscareerquestions/comments/6fnujy/soft_skills_for_programmers
 
@@ -1022,6 +1024,9 @@ https://www.amazon.com/Zero-One-Notes-Start-Future-ebook/dp/B00KHX0II4
 
 Startup School is a free 10-week massively open online course (MOOC)
 https://www.startupschool.org
+
+Never Split the Difference: Negotiating as if Your Life Depended on It
+https://www.amazon.com/Never-Split-Difference-Negotiating-Depended/dp/B01COR1GM2
 
 Money:
 
