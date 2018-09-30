@@ -502,8 +502,8 @@ AWS:
 Amazon Web Services — a practical guide
 https://github.com/open-guides/og-aws
 
-Amazon Web Services in Action 1st Edition
-https://www.amazon.com/Amazon-Services-Action-Andreas-Wittig/dp/1617292885
+Amazon Web Services in Action 2nd Edition
+https://www.amazon.com/Amazon-Services-Action-Andreas-Wittig/dp/1617295116
 
 NGINX:
 
