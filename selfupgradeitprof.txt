@@ -349,6 +349,9 @@ https://archive.org/details/UCBerkeley_Course_Computer_Science_186
 Stanford's Databases MOOC
 https://cs.stanford.edu/people/widom/DB-mooc.html
 
+Database Design by Caleb Curry
+https://www.youtube.com/playlist?list=PL_c9BZzLwBRK0Pc28IdvPQizD2mJlgoID
+
 Database Design for Mere Mortals: A Hands-On Guide to Relational Database Design (3rd Edition)
 https://www.amazon.com/Database-Design-Mere-Mortals-Hands/dp/0321884493
 
@@ -1188,11 +1191,11 @@ https://twitter.com/SharjeelSayed
 
 Curated Tech and World News:
 
-News Notifications (iOS/Android):
-Install the IFTTT Mobile app .Turn on the applet https://IFTTT.com/applets/456148p .Add http://rss.SharjeelSayed.com into the 'Feed URL' field of the applet.
-
 RSS Reader (Web/iOS/Android):
 Import http://opml.SharjeelSayed.com , into Inoreader.com
+
+News Notifications (iOS/Android):
+Install the IFTTT Mobile app .Turn on the applet https://IFTTT.com/applets/456148p .Add http://rss.SharjeelSayed.com into the 'Feed URL' field of the applet.
 
 Ambient Music:
 
