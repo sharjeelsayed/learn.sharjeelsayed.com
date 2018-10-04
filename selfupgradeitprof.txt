@@ -156,6 +156,7 @@ https://news.ycombinator.com/item?id=17651797 (Composing Programs – An introdu
 https://news.ycombinator.com/item?id=17666133 (Paul Graham on SICP (2000))
 https://news.ycombinator.com/item?id=17965917 (Ask HN: What's a starting point for learning how to write programming languages?)
 https://news.ycombinator.com/item?id=18046722 (What are some things that only someone who has been programming 20 years knows? (quora.com))
+https://news.ycombinator.com/item?id=18128477 (Ask HN: What is your best advice for a junior software developer?)
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/index.htm
 https://softwareengineeringdaily.com
 https://www.microsoft.com/en-us/research/blog/category/podcast
@@ -989,6 +990,7 @@ https://news.ycombinator.com/item?id=17892731 (Ask HN: How to organize personal 
 https://news.ycombinator.com/item?id=17942709 (Ask HN: As a technical founder what is the best business book you've read?)
 https://news.ycombinator.com/item?id=18071909 (Ask HN: What was the best decision you made in your career?)
 https://news.ycombinator.com/item?id=18098992 (Ask HN: What things have richly rewarded the time invested in mastering them?)
+https://news.ycombinator.com/item?id=18132736 (Ask HN: What did you learn the hard way?)
 https://www.indiehackers.com
 https://www.reddit.com/r/cscareerquestions/comments/6fnujy/soft_skills_for_programmers
 
