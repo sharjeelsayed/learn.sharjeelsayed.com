@@ -72,6 +72,7 @@ MOOC
 News
 Ambient Music
 Headphones
+Ear Plugs
 
 Computer Science:
 
@@ -744,6 +745,10 @@ Microsoft Excel:
 
 Sources:
 https://www.reddit.com/r/excel/comments/2e28s3/rexcel_advice_thread_repository
+https://news.ycombinator.com/item?id=12448545 (You Suck at Excel with Joel Spolsky (2015) [video])
+
+You Suck at Excel with Joel Spolsky
+https://youtu.be/0nbkaYsR94c
 
 Excel 2016 Bible 1st Edition
 https://www.amazon.com/Excel-2016-Bible-John-Walkenbach/dp/1119067510
@@ -1217,6 +1222,14 @@ http://thewirecutter.com/reviews/best-noise-cancelling-headphones
 Amazon Best Sellers in Audio Headphones
 https://www.amazon.com/gp/bestsellers/electronics/172541
 
+Ear Plugs:
+Sources:
+https://thewirecutter.com/reviews/best-earplugs-for-sleeping
+https://www.amazon.com/gp/bestsellers/hpc/3779871/ref=pd_zg_hrsr_hpc_1_4_last
+
+Mack's Ultra Soft Foam Earplugs
+https://www.amazon.com/Macks-Ultra-Soft-Foam-Earplugs/dp/B0051U7W32
+
 Additional Sources :
 https://github.com/jnv/lists
 https://hn.algolia.com
@@ -1233,6 +1246,7 @@ https://news.ycombinator.com/item?id=14724092 (Ask HN: Which sites you visit on 
 https://news.ycombinator.com/item?id=15098066 (Ask HN: What online communities offer a high level of discussion?)
 https://news.ycombinator.com/item?id=15105601 (Ask HN: What are your favourite self hosted tools?)
 https://news.ycombinator.com/item?id=17272715 (Ask HN: Any resources to learn the fundamentals of critical thinking?)
+https://news.ycombinator.com/item?id=17603348 (Ask HN: How do you backup your files without depending on a third party service?)
 https://redditprofile.com (Find an Expert on Reddit)
 https://www.producthunt.com
 https://www.reddit.com/r/Addons4Kodi/comments/8wr3tu/requests_recomendations_basics_july_2018
