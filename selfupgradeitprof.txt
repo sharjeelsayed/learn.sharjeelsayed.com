@@ -321,10 +321,14 @@ http://beej.us/guide/bgnet
 Unix Network Programming, Volume 1: The Sockets Networking API (3rd Edition)
 https://www.amazon.com/Unix-Network-Programming-Sockets-Networking/dp/0131411551
 
+Additional Material:
+
 CCNA Routing and Switching 200-125 Official Cert Guide Library
 https://www.amazon.com/Routing-Switching-200-125-Official-Library/dp/1587205815
 
-Additional Material:
+CBT Nuggets by Jeremey Cioara
+https://www.cbtnuggets.com/it-training/cisco-ccna-icnd1-100-105
+https://www.cbtnuggets.com/it-training/icnd2-200-105
 
 Eli The Computer Guy
 https://www.youtube.com/playlist?list=PLF360ED1082F6F2A5
