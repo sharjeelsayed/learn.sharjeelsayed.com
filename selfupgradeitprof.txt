@@ -826,6 +826,7 @@ Interview Guides:
 
 Sources:
 http://blog.interviewing.io/what-really-matters-in-technical-interviews-we-analyzed-thousands-of-interviews-on-everything-from-language-to-code-style-heres-what-we-found
+https://github.com/topics/interview?o=desc&s=stars
 https://hn.algolia.com/?query=interview&sort=byPopularity&prefix&page=0&dateRange=all&type=story
 https://news.ycombinator.com/item?id=11246917 (How to Pass a Programming Interview)
 https://news.ycombinator.com/item?id=14037313 (Questions to ask at the end of a technical interview)
