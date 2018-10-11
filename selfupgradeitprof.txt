@@ -34,6 +34,7 @@ Memcached
 djbdns
 SQL
 MySQL
+SQL Server
 PostgreSQL
 Redis
 Ansible
@@ -134,6 +135,7 @@ https://github.com/rShetty/awesome-podcasts
 https://github.com/sdmg15/Best-websites-a-programmer-should-visit
 https://github.com/styfle/awesome-online-ide
 https://github.com/tuvtran/project-based-learning
+https://insights.stackoverflow.com/survey/2018
 https://learnxinyminutes.com
 https://news.ycombinator.com/item?id=11465234 (Composing Programs – Python 3 in the tradition of SICP)
 https://news.ycombinator.com/item?id=12718102 (Programming books you might want to consider reading)
@@ -1076,6 +1078,7 @@ http://www.flyingmachinestudios.com/programming/learn-programming-languages-effi
 https://80000hours.org/career-guide/how-to-be-successful
 https://alexvermeer.com/8760hours (8,760 Hours: How to get the most out of next year)
 https://collegeinfogeek.com/spaced-repetition-memory-technique
+https://en.wikipedia.org/wiki/Pomodoro_Technique
 https://news.ycombinator.com/item?id=14218408 (Ask HN: How do you keep improving?)
 https://news.ycombinator.com/item?id=16202123 (How to Study: A Brief Guide (buffalo.edu))
 https://www.coursera.org/learn/learning-how-to-learn
