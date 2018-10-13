@@ -546,6 +546,8 @@ djbdns:
 http://cr.yp.to/djbdns.html
 
 SQL:
+Sources:
+https://pinboard.in/u:sharjeelsayed/t:sql
 
 Stanford DB5 Course on SQL
 https://lagunita.stanford.edu/courses/DB/SQL/SelfPaced/about
@@ -554,7 +556,7 @@ http://sqlzoo.net
 
 https://www.sqlteaching.com
 
-https://www.w3schools.com/sql/default.asp
+https://www.w3schools.com/sql
 
 MySQL:
 
