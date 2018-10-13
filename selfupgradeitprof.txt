@@ -1005,6 +1005,7 @@ https://news.ycombinator.com/item?id=17942709 (Ask HN: As a technical founder wh
 https://news.ycombinator.com/item?id=18071909 (Ask HN: What was the best decision you made in your career?)
 https://news.ycombinator.com/item?id=18098992 (Ask HN: What things have richly rewarded the time invested in mastering them?)
 https://news.ycombinator.com/item?id=18132736 (Ask HN: What did you learn the hard way?)
+https://news.ycombinator.com/item?id=18179972 (How to Get Things Done When You Don't Feel Like It (acm.org))
 https://www.indiehackers.com
 https://www.reddit.com/r/cscareerquestions/comments/6fnujy/soft_skills_for_programmers
 
@@ -1095,6 +1096,7 @@ http://www.bookadvice.co
 http://www.dev-books.com (The most mentioned books on Stack Overflow)
 http://www.hnreads.com
 http://www.openculture.com/free_textbooks
+https://github.com/Igglybuff/awesome-piracy
 https://hackernewsbooks.com
 https://hn.algolia.com/?query=books&sort=byPopularity&prefix&page=0&dateRange=all&type=story
 https://news.ycombinator.com/item?id=13597949 (The most mentioned books on Stack Overflow)
