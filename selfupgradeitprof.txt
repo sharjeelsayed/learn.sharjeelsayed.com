@@ -1212,8 +1212,8 @@ https://twitter.com/SharjeelSayed
 
 Curated Tech and World News:
 
-RSS Reader (Web/iOS/Android):
-Import http://opml.SharjeelSayed.com , into Inoreader.com
+RSS Reader:
+Import http://opml.SharjeelSayed.com , into Inoreader.com.Read Inoreader subscriptions on your iOS device with the http://reederapp.com app.
 
 News Notifications (iOS/Android):
 Install the IFTTT Mobile app .Turn on the applet https://IFTTT.com/applets/456148p .Add http://rss.SharjeelSayed.com into the 'Feed URL' field of the applet.
@@ -1267,6 +1267,7 @@ https://news.ycombinator.com/item?id=15105601 (Ask HN: What are your favourite s
 https://news.ycombinator.com/item?id=17272715 (Ask HN: Any resources to learn the fundamentals of critical thinking?)
 https://news.ycombinator.com/item?id=17603348 (Ask HN: How do you backup your files without depending on a third party service?)
 https://redditprofile.com (Find an Expert on Reddit)
+https://www.nala.ie/resources/better-handwriting-adults
 https://www.producthunt.com
 https://www.reddit.com/r/Addons4Kodi/comments/8wr3tu/requests_recomendations_basics_july_2018
 https://www.reddit.com/r/AskReddit/comments/4q91g9/what_free_things_online_should_everyone_take/d4r8foy
