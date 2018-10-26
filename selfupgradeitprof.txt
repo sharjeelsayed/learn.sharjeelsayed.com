@@ -372,6 +372,9 @@ https://github.com/dastergon/awesome-sre
 https://github.com/kahun/awesome-sysadmin
 https://github.com/Kickball/awesome-selfhosted
 https://github.com/Leo-G/DevopsWiki
+https://github.com/n1trux/awesome-sysadmin
+https://github.com/topics/devops?o=desc&s=stars
+https://github.com/topics/sysadmin?o=desc&s=stars
 https://learn-anything.xyz/programming/software-development/devops
 https://news.ycombinator.com/item?id=14153545 (What Is ‘Site Reliability Engineering’?)
 https://news.ycombinator.com/item?id=14652993 (Ask HN: DevOps learning resources)
@@ -1259,6 +1262,7 @@ https://www.amazon.com/Macks-Ultra-Soft-Foam-Earplugs/dp/B0051U7W32
 
 Additional Sources :
 https://github.com/jnv/lists
+https://github.com/topics/awesome
 https://hn.algolia.com
 https://hnprofile.com (Find an Expert on Hacker News)
 https://learn-anything.xyz
