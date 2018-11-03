@@ -134,6 +134,7 @@ https://github.com/rby90/Project-Based-Tutorials-in-C
 https://github.com/rShetty/awesome-podcasts
 https://github.com/sdmg15/Best-websites-a-programmer-should-visit
 https://github.com/styfle/awesome-online-ide
+https://github.com/topics/programming?o=desc&s=stars
 https://github.com/tuvtran/project-based-learning
 https://insights.stackoverflow.com/survey/2018
 https://learnxinyminutes.com
@@ -608,6 +609,8 @@ Python:
 Sources:
 http://pybit.es/python-resources.html
 http://pythonbooks.org
+https://github.com/topics/python?o=desc&s=stars
+https://github.com/vinta/awesome-python
 https://news.ycombinator.com/item?id=16622038 (At full speed with Python: a book for self-learners)
 https://www.reddit.com/r/learnprogramming/comments/6bxdut/python_for_beginners_complete_series
 https://www.reddit.com/r/learnprogramming/wiki/online#wiki_python
@@ -721,6 +724,8 @@ Security
 Sources:
 http://www.fastrls.com/2017/10/30/offensive-security-training-videos
 https://github.com/Hack-with-Github/Awesome-Hacking
+https://github.com/topics/oscp?o=desc&s=stars
+https://github.com/topics/security?o=desc&s=stars
 https://hrushikeshk.github.io/blog/2018/01/15/security-resources
 https://news.ycombinator.com/item?id=12140477 (A practical security guide for web developers (github.com))
 https://news.ycombinator.com/item?id=14791255 (Cybersecurity Humble Book Bundle)
@@ -828,8 +833,9 @@ https://medium.com/flawless-app-stories/https-medium-com-flawless-app-stories-th
 Machine Learning
 
 Sources:
-https://news.ycombinator.com/item?id=16493489 (Machine Learning Crash Course)
 https://news.ycombinator.com/item?id=12713056 (Ask HN: How to get started with machine learning?)
+https://news.ycombinator.com/item?id=16493489 (Machine Learning Crash Course)
+https://news.ycombinator.com/item?id=18321665 (Foundations of ML and AI: Book recommendations (dragan.rocks))
 
 Machine Learning by Andrew Ng
 https://www.coursera.org/learn/machine-learning
