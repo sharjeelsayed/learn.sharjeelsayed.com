@@ -734,6 +734,7 @@ https://news.ycombinator.com/item?id=14791255 (Cybersecurity Humble Book Bundle)
 https://news.ycombinator.com/item?id=15986100 (Ask HN: How can I learn computer security?)
 https://news.ycombinator.com/item?id=17563857 (Ask HN: What are the best resources for learning security and pen testing?)
 https://news.ycombinator.com/item?id=17749283 (Ask HN: Recommendations of good cybercrime novels?)
+https://news.ycombinator.com/item?id=18487547 (Ask HN: Starting a career in security at 40?)
 https://room362.com/start
 https://s3ctur.wordpress.com/2017/06/19/breaking-into-infosec-a-beginners-curriculum
 https://www.edx.org/learn/cybersecurity
@@ -1179,6 +1180,7 @@ MOOC:
 Sources:
 http://lifehacker.com/tag/lifehacker-u
 https://archive.is/D1Ail#selection-21.0-21.27 (UC Berkeley Course Captures)
+https://blog.github.com/2018-03-20-top-10-courses-on-github
 https://github.com/sindresorhus/awesome
 https://medium.freecodecamp.org/190-universities-just-launched-600-free-online-courses-heres-the-full-list-3d9ad7895f57
 https://news.ycombinator.com/item?id=10644518 (Ask HN: What's your favorite online course?)
@@ -1246,6 +1248,7 @@ Sources:
 https://news.ycombinator.com/item?id=11146712 (AI generated music to improve focus, relaxation and sleep (brain.fm))
 https://news.ycombinator.com/item?id=12844434 (Music for Programming (musicforprogramming.net))
 https://news.ycombinator.com/item?id=17118269 (Ask HN: What, if anything, do you listen to while coding?)
+https://news.ycombinator.com/item?id=18493075 (Brain.fm: Music to improve focus, meditation and sleep)
 https://www.reddit.com/r/cscareerquestions/comments/7s6ral/music_while_coding
 https://pinboard.in/u:sharjeelsayed/t:music+study
 
