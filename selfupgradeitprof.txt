@@ -115,6 +115,25 @@ https://www.reddit.com/r/learnprogramming/comments/764cs8/trello_board_for_teach
 https://www.scotthyoung.com/blog/myprojects/mit-challenge-2
 https://pinboard.in/u:sharjeelsayed/t:cs
 
+Teach Yourself Computer Science
+https://teachyourselfcs.com
+
+Structure and Interpretation of Computer Programs - 2nd Edition
+http://inst.eecs.berkeley.edu/~cs61a/fa16 (Instructor: John DeNero)
+http://inst.eecs.berkeley.edu/~cs61a/sp17
+http://paste.lisp.org/display/313070/raw
+http://sarabander.github.io/sicp
+http://www.composingprograms.com
+https://cs61a.org
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/index.htm
+https://www.youtube.com/playlist?list=PL7BcsI5ueSNFPCEisbaoQ0kXIDX9rR5FF
+https://www.youtube.com/playlist?list=PLE18841CABEA24090
+https://xuanji.appspot.com/isicp
+https://mitpress.mit.edu/sites/default/files/sicp/index.html
+
+Computer Science 61A, UCBerkeley 001 - Spring 2011
+https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E?sort=titleSorter
+
 Programming Concepts:
 
 Sources:
@@ -185,22 +204,6 @@ https://www.edx.org/course/introduction-computer-science-harvardx-cs50x
 
 Introduction to Computer Science and Programming Using Python , MIT
 https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11
-
-Structure and Interpretation of Computer Programs - 2nd Edition
-http://inst.eecs.berkeley.edu/~cs61a/fa16 (Instructor: John DeNero)
-http://inst.eecs.berkeley.edu/~cs61a/sp17
-http://paste.lisp.org/display/313070/raw
-http://sarabander.github.io/sicp
-http://www.composingprograms.com
-https://cs61a.org
-https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/index.htm
-https://www.youtube.com/playlist?list=PL7BcsI5ueSNFPCEisbaoQ0kXIDX9rR5FF
-https://www.youtube.com/playlist?list=PLE18841CABEA24090
-https://xuanji.appspot.com/isicp
-https://mitpress.mit.edu/sites/default/files/sicp/index.html
-
-Computer Science 61A, UCBerkeley 001 - Spring 2011
-https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E?sort=titleSorter
 
 How to Design Programs, Second Edition
 http://www.htdp.org/2018-01-06/Book
@@ -1076,6 +1079,7 @@ https://news.ycombinator.com/item?id=15222819 (A New Way to Learn Economics (new
 https://news.ycombinator.com/item?id=15779722 (A good resource for financial advice to share with people in their twenties?)
 https://news.ycombinator.com/item?id=15786703 (Stanford CS007: Personal Finance For Engineers)
 https://news.ycombinator.com/item?id=17359102 (Ask HN: What are some good resources to learn how to invest and build wealth?)
+https://news.ycombinator.com/item?id=18526090 (Ask HN: Online banks where I can open account worldwide?)
 https://www.amazon.com/gp/bestsellers/books/491584
 https://www.reddit.com/r/Economics/wiki/reading
 https://www.reddit.com/r/india/comments/6b480c/psa_investing_in_mutual_funds_101
