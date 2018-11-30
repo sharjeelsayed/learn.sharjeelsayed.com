@@ -118,6 +118,9 @@ https://pinboard.in/u:sharjeelsayed/t:cs
 Teach Yourself Computer Science
 https://teachyourselfcs.com
 
+Path to a free self-taught education in Computer Science!
+https://github.com/ossu/computer-science
+
 Structure and Interpretation of Computer Programs - 2nd Edition
 http://inst.eecs.berkeley.edu/~cs61a/fa16 (Instructor: John DeNero)
 http://inst.eecs.berkeley.edu/~cs61a/sp17
