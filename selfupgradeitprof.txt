@@ -499,7 +499,7 @@ https://docs.docker.com
 Docker for Beginners
 https://prakhar.me/docker-curriculum
 
-Kubernetes
+Kubernetes:
 
 An Introduction to Kubernetes
 https://www.digitalocean.com/community/tutorials/an-introduction-to-kubernetes
@@ -514,6 +514,17 @@ https://www.cbtnuggets.com/it-training/vmware-vsphere-6-vcp6-5-dcv
 
 Mastering VMware vSphere 6 1st Edition
 https://www.amazon.com/Mastering-VMware-vSphere-Nick-Marshall/dp/1118925157
+
+OpenStack
+
+Sources:
+https://www.reddit.com/r/openstack/comments/92o38n/best_book_for_learning_openstack
+
+OpenStack for Architects: Design production-ready private cloud infrastructure, 2nd Edition
+https://www.amazon.com/OpenStack-Architects-production-ready-private-infrastructure/dp/1788624513
+
+OpenStack Cloud Computing Cookbook - Fourth Edition
+https://www.amazon.com/OpenStack-Cloud-Computing-Cookbook-networking/dp/1788398769
 
 Data Center:
 
@@ -562,6 +573,7 @@ djbdns:
 http://cr.yp.to/djbdns.html
 
 SQL:
+
 Sources:
 https://pinboard.in/u:sharjeelsayed/t:sql
 
@@ -604,7 +616,7 @@ https://www.ansible.com/videos
 Interactive Ansible tutorials with dead simple setup via Docker
 https://github.com/turkenh/ansible-interactive-tutorial
 
-Puppet
+Puppet:
 
 Download the Puppet Learning VM
 https://puppet.com/download-learning-vm
@@ -724,10 +736,11 @@ http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively
 Practical Vim: Edit Text at the Speed of Thought , 2nd Edition
 https://www.amazon.com/Practical-Vim-Edit-Speed-Thought/dp/1680501275
 
-ELK
+ELK:
+
 https://www.elastic.co/guide/index.html
 
-Security
+Security:
 
 Sources:
 http://www.fastrls.com/2017/10/30/offensive-security-training-videos
@@ -839,7 +852,7 @@ https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654
 The ultimate guide for mobile developers, who want to design
 https://medium.com/flawless-app-stories/https-medium-com-flawless-app-stories-the-ultimate-guide-for-mobile-developers-who-want-to-design-part1-a2d47c04fd49
 
-Machine Learning
+Machine Learning:
 
 Sources:
 https://news.ycombinator.com/item?id=12713056 (Ask HN: How to get started with machine learning?)
@@ -1165,6 +1178,7 @@ https://pinboard.in/u:sharjeelsayed/t:ebooks
 https://pinboard.in/u:sharjeelsayed/t:learn
 
 http://libgen.io or http://gen.lib.rus.ec
+https://ebookee.org
 https://thepiratebay.org or https://thepiratebay-proxylist.org
 https://1337x.to
 http://rarbg.to or https://rarbg.is
