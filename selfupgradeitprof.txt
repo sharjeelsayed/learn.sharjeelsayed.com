@@ -24,6 +24,7 @@ Storage
 Docker
 Kubernetes
 VMware
+OpenStack
 Data Center
 AWS
 NginX
