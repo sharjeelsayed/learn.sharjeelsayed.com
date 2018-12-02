@@ -395,7 +395,7 @@ https://www.reddit.com/r/sysadmin/wiki
 
 Linux:
 
-Sources :
+Sources:
 http://stackoverflow.com/questions/236838/what-are-good-linuxunix-books-for-an-advancing-user
 https://github.com/0xAX/linux-insides
 https://news.ycombinator.com/item?id=3257393 (What's the one Linux command you wish you knew years ago?)
@@ -515,7 +515,7 @@ https://www.cbtnuggets.com/it-training/vmware-vsphere-6-vcp6-5-dcv
 Mastering VMware vSphere 6 1st Edition
 https://www.amazon.com/Mastering-VMware-vSphere-Nick-Marshall/dp/1118925157
 
-OpenStack
+OpenStack:
 
 Sources:
 https://www.reddit.com/r/openstack/comments/92o38n/best_book_for_learning_openstack
@@ -1188,7 +1188,6 @@ https://cse.google.com/cse/publicurl?cx=011394183039475424659:5bfyqg89ers (Googl
 https://cse.google.com/cse/publicurl?cx=001639227550064093264:dznewka3cca (Google Custom Search Engine for Ebooks)
 http://b-ok.org
 http://freebookspot.es
-https://avxhm.se
 https://www.myanonamouse.net
 http://findlectures.com
 http://breue.com/free_programming_books
