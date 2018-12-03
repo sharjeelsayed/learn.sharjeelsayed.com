@@ -98,7 +98,7 @@ https://news.ycombinator.com/item?id=15089476 (Ask HN: What is your favorite CS 
 https://news.ycombinator.com/item?id=15695326 (Ask HN: What are some interesting papers in CS for a beginner?)
 https://news.ycombinator.com/item?id=15898263 (A computer science study plan)
 https://news.ycombinator.com/item?id=15899383 (	Ask HN: Fully online CS degrees?)
-https://news.ycombinator.com/item?id=16591918 (Ask HN: “Write your own” or “Build your own” software projects)
+https://news.ycombinator.com/item?id=16591918 (Ask HN: â€œWrite your ownâ€ or â€œBuild your ownâ€ software projects)
 https://news.ycombinator.com/item?id=17031609 (Ask HN: Books you should have read when you start a career in SE / CS?)
 https://news.ycombinator.com/item?id=5019373 (How Harvard's CS50 Renewed My Hope For Online Education)
 https://ocw.mit.edu/courses/find-by-topic/#cat=engineering&subcat=computerscience
@@ -161,7 +161,7 @@ https://github.com/topics/programming?o=desc&s=stars
 https://github.com/tuvtran/project-based-learning
 https://insights.stackoverflow.com/survey/2018
 https://learnxinyminutes.com
-https://news.ycombinator.com/item?id=11465234 (Composing Programs – Python 3 in the tradition of SICP)
+https://news.ycombinator.com/item?id=11465234 (Composing Programs â€“ Python 3 in the tradition of SICP)
 https://news.ycombinator.com/item?id=12718102 (Programming books you might want to consider reading)
 https://news.ycombinator.com/item?id=13918465 (Beautiful Online SICP)
 https://news.ycombinator.com/item?id=14486657 (Ask HN: What language-agnostic programming books should I read?)
@@ -179,7 +179,7 @@ https://news.ycombinator.com/item?id=16346319 (Ask HN: How would you relearn pro
 https://news.ycombinator.com/item?id=16535886 (Ask HN: Best way to learn modern C++?)
 https://news.ycombinator.com/item?id=16952222 (Competitive Programmer's Handbook (2017) [pdf] (cses.fi))
 https://news.ycombinator.com/item?id=17390527 (DevTube: Searchable index of developer videos (dev.tube))
-https://news.ycombinator.com/item?id=17651797 (Composing Programs – An introduction to programming in the tradition of SICP)
+https://news.ycombinator.com/item?id=17651797 (Composing Programs â€“ An introduction to programming in the tradition of SICP)
 https://news.ycombinator.com/item?id=17666133 (Paul Graham on SICP (2000))
 https://news.ycombinator.com/item?id=17965917 (Ask HN: What's a starting point for learning how to write programming languages?)
 https://news.ycombinator.com/item?id=18046722 (What are some things that only someone who has been programming 20 years knows? (quora.com))
@@ -270,7 +270,7 @@ https://news.ycombinator.com/item?id=16562173 (Ask HN: How to self-learn math?)
 https://www.reddit.com/r/learnprogramming/comments/70rh9q/is_there_a_cs50_for_math
 https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw (3Blue1Brown Channel)
 
-Lecture notes by László Lovász
+Lecture notes by LÃ¡szlÃ³ LovÃ¡sz
 http://www.cs.elte.hu/~lovasz/dmbook.ps
 
 Mathematics for Computer Science , MIT
@@ -287,7 +287,7 @@ Operating Systems Concepts:
 
 Sources:
 https://news.ycombinator.com/item?id=10182727 (Operating Systems: Three Easy Pieces (wisc.edu))
-https://news.ycombinator.com/item?id=18023062 (How to create an OS from scratch – tutorial (github.com))
+https://news.ycombinator.com/item?id=18023062 (How to create an OS from scratch â€“ tutorial (github.com))
 https://news.ycombinator.com/item?id=18448942 (A book list for OS kernel developers and device driver writers (2006) (jdebp.eu))
 
 Operating Systems: Three Easy Pieces
@@ -386,7 +386,7 @@ https://github.com/n1trux/awesome-sysadmin
 https://github.com/topics/devops?o=desc&s=stars
 https://github.com/topics/sysadmin?o=desc&s=stars
 https://learn-anything.xyz/programming/software-development/devops
-https://news.ycombinator.com/item?id=14153545 (What Is ‘Site Reliability Engineering’?)
+https://news.ycombinator.com/item?id=14153545 (What Is â€˜Site Reliability Engineeringâ€™?)
 https://news.ycombinator.com/item?id=14652993 (Ask HN: DevOps learning resources)
 https://news.ycombinator.com/item?id=16357368 (Ask HN: Which books describe modern devops?)
 https://www.reddit.com/r/homelab/wiki/software
@@ -520,6 +520,8 @@ OpenStack:
 
 Sources:
 https://www.reddit.com/r/openstack/comments/92o38n/best_book_for_learning_openstack
+https://github.com/topics/openstack?o=desc&s=stars
+https://github.com/int32bit/openstack-cheat-sheet
 
 OpenStack for Architects: Design production-ready private cloud infrastructure, 2nd Edition
 https://www.amazon.com/OpenStack-Architects-production-ready-private-infrastructure/dp/1788624513
@@ -534,7 +536,7 @@ http://www.amazon.com/Data-Center-Fundamentals-Mauricio-Arregoces/dp/1587050234
 
 AWS:
 
-Amazon Web Services — a practical guide
+Amazon Web Services â€” a practical guide
 https://github.com/open-guides/og-aws
 
 Amazon Web Services in Action 2nd Edition
@@ -658,7 +660,7 @@ C:
 
 Sources:
 https://news.ycombinator.com/item?id=11606296 (To become a good C programmer (2011) (fabiensanglard.net))
-https://news.ycombinator.com/item?id=12475383 (“Learn C the Hard Way” is no longer available for free)
+https://news.ycombinator.com/item?id=12475383 (â€œLearn C the Hard Wayâ€ is no longer available for free)
 https://news.ycombinator.com/item?id=15198093 (Beej's Guide to C Programming (2007))
 https://news.ycombinator.com/item?id=16196194 (Brushing up on operating systems and C programming)
 https://news.ycombinator.com/item?id=16347309 (Ask HN: What project did you tackle to learn C?)
@@ -787,7 +789,7 @@ Sources:
 https://news.ycombinator.com/item?id=14123394 (Ask HN: What's the Hacker News of hardware?)
 https://news.ycombinator.com/item?id=15733760 (What are hardware development learning web tutorials?)
 
-Professor Messer’s CompTIA 220-901 and 220-902 A+ Training Videos
+Professor Messerâ€™s CompTIA 220-901 and 220-902 A+ Training Videos
 http://www.professormesser.com/free-a-plus-training/220-901/comptia-220-900-course
 
 Microsoft Excel:
@@ -1038,7 +1040,7 @@ https://news.ycombinator.com/item?id=16671944 (How to Fall Asleep in Two Minutes
 https://news.ycombinator.com/item?id=16852410 (Tell HN: My best productivity hack)
 https://news.ycombinator.com/item?id=17031588 (Ask HN: Advice to your younger self)
 https://news.ycombinator.com/item?id=17204467 (Ask HN: Recommendations on books and documentaries on tech companies/people?)
-https://news.ycombinator.com/item?id=17238135 (How to be a Manager – A step-by-step guide to leading a team)
+https://news.ycombinator.com/item?id=17238135 (How to be a Manager â€“ A step-by-step guide to leading a team)
 https://news.ycombinator.com/item?id=17291127 (Ask HN: Is there a new habit you cultivated recently that is really paying off?)
 https://news.ycombinator.com/item?id=17295064 (Ask HN: How do you manage your mental health?)
 https://news.ycombinator.com/item?id=17385291 (Ask HN: What are the things that you have automated in your personal life?)
@@ -1158,7 +1160,7 @@ https://news.ycombinator.com/item?id=16351310 (Ask HN: What are the books you wi
 https://news.ycombinator.com/item?id=16756243 (Ask HN: What books do you keep on your desk?)
 https://news.ycombinator.com/item?id=17045790 (Ask HN: Which books have made you introspect?)
 https://news.ycombinator.com/item?id=17128513 (Ask HN: Which non-programming books are a beneficial read for programmers?)
-https://news.ycombinator.com/item?id=17625795 (Ask HN: Which books are “must-read” for anyone trying to learn about your field?)
+https://news.ycombinator.com/item?id=17625795 (Ask HN: Which books are â€œmust-readâ€ for anyone trying to learn about your field?)
 https://news.ycombinator.com/item?id=17909694 (Ask HN: What are your favorite non-fiction books of all time?)
 https://news.ycombinator.com/item?id=17980964 (Ask HN: What was the one book that you read and it actually changed your life?)
 https://news.ycombinator.com/item?id=18104814 (Ask HN: What are the best textbooks in your field of expertise?)
@@ -1186,8 +1188,6 @@ https://1337x.to
 http://rarbg.to or https://rarbg.is
 https://torrentz2.eu
 https://www.limetorrents.cc
-https://cse.google.com/cse/publicurl?cx=011394183039475424659:5bfyqg89ers (Google Custom Search Engine for Ebooks)
-https://cse.google.com/cse/publicurl?cx=001639227550064093264:dznewka3cca (Google Custom Search Engine for Ebooks)
 http://b-ok.org
 http://freebookspot.es
 https://www.myanonamouse.net
@@ -1196,6 +1196,8 @@ http://breue.com/free_programming_books
 irc://irc.undernet.org/bookz
 irc://irc.irchighway.net/ebooks
 https://books.goalkicker.com
+https://cse.google.com/cse/publicurl?cx=011394183039475424659:5bfyqg89ers (Google Custom Search Engine for Ebooks)
+https://cse.google.com/cse/publicurl?cx=001639227550064093264:dznewka3cca (Google Custom Search Engine for Ebooks)
 
 MOOC:
 
@@ -1209,7 +1211,7 @@ https://news.ycombinator.com/item?id=10644518 (Ask HN: What's your favorite onli
 https://news.ycombinator.com/item?id=12702651 (Ask HN: What is your favorite YouTube channel for developers?)
 https://news.ycombinator.com/item?id=13867016 (Ask HN: Which Berkeley Courses Should I Archive?)
 https://news.ycombinator.com/item?id=14570002 (Startup School 2017 Presentations (startupschool.org))
-https://news.ycombinator.com/item?id=14770521 (Ask HN: Any “bootcamps” or courses for intermediate/advanced people?)
+https://news.ycombinator.com/item?id=14770521 (Ask HN: Any â€œbootcampsâ€ or courses for intermediate/advanced people?)
 https://news.ycombinator.com/item?id=16745042 (Ask HN: What are the best MOOCs you've taken?)
 https://news.ycombinator.com/item?id=17616937 (Ask HN: Any good examples of learning through games/puzzles, for adults?)
 https://news.ycombinator.com/item?id=17999659 (Ask HN: Favorite teachers on YouTube?)
@@ -1305,7 +1307,7 @@ https://learn-anything.xyz
 https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#-48.5,-680.3,0
 https://news.ycombinator.com/item?id=12209446 (How to Read a Book [pdf])
 https://news.ycombinator.com/item?id=13574916 (Ask HN: What are some 'must watch' talks?)
-https://news.ycombinator.com/item?id=14087880 (Ask HN: What are some great “Free” services provided by IBM, Amazon, etc.?)
+https://news.ycombinator.com/item?id=14087880 (Ask HN: What are some great â€œFreeâ€ services provided by IBM, Amazon, etc.?)
 https://news.ycombinator.com/item?id=14169760 (Resources on creating programming languages)
 https://news.ycombinator.com/item?id=14378536 (Ask HN: Which websites do you visit?)
 https://news.ycombinator.com/item?id=14637859 (Ask HN: What's your process for learning?)
