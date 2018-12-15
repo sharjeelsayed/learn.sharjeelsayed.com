@@ -1201,7 +1201,6 @@ MOOC:
 
 Sources:
 http://lifehacker.com/tag/lifehacker-u
-https://archive.is/D1Ail#selection-21.0-21.27 (UC Berkeley Course Captures)
 https://blog.github.com/2018-03-20-top-10-courses-on-github
 https://github.com/sindresorhus/awesome
 https://medium.freecodecamp.org/190-universities-just-launched-600-free-online-courses-heres-the-full-list-3d9ad7895f57
@@ -1259,7 +1258,7 @@ https://twitter.com/SharjeelSayed
 Curated Tech and World News:
 
 RSS Reader:
-Import http://opml.SharjeelSayed.com , into Inoreader.com.Read Inoreader subscriptions on your iOS device with the http://reederapp.com app.
+Import http://opml.SharjeelSayed.com , into Inoreader.com
 
 News Notifications (iOS/Android):
 Install the IFTTT Mobile app .Turn on the applet https://IFTTT.com/applets/456148p .Add http://rss.SharjeelSayed.com into the 'Feed URL' field of the applet.
