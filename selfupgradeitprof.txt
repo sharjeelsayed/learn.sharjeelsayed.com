@@ -243,6 +243,7 @@ https://news.ycombinator.com/item?id=13653669 (Algorithms (khanacademy.org))
 https://news.ycombinator.com/item?id=15423045 (A Comparison of Four Algorithms Textbooks (2016))
 https://news.ycombinator.com/item?id=16428309 (Ask HN: What's the best algorithms and data structures online course?)
 https://news.ycombinator.com/item?id=17079197 (Algorithms Behind Modern Storage Systems)
+https://news.ycombinator.com/item?id=18805624 (Algorithms, by Jeff Erickson (illinois.edu))
 https://projecteuler.net
 https://www.reddit.com/r/algorithms
 https://www.reddit.com/r/compsci/comments/1kcal2/algorithims_everyone_should_know
@@ -885,6 +886,7 @@ https://news.ycombinator.com/item?id=17908547 (Ask HN: Types of Questions to Ask
 https://news.ycombinator.com/item?id=18253999 (C++ Programming Questions to Ask on Interview (2017) (tests4geeks.com))
 https://www.reddit.com/r/AskReddit/comments/74sskj/what_are_some_red_flags_in_a_job_interview
 https://www.reddit.com/r/AskReddit/comments/9vbwy8/what_are_good_questions_to_ask_potential
+https://www.reddit.com/r/AskReddit/comments/abljyl/what_is_a_massive_red_flag_about_a_new_workplace
 https://www.reddit.com/r/cscareerquestions/comments/4ce2s3/resource_interview_questions_my_massive
 https://www.reddit.com/r/cscareerquestions/comments/8387zj/what_is_your_favorite_method_for_figuring_out_if
 https://www.reddit.com/r/cscareerquestions/wiki
@@ -1322,6 +1324,7 @@ https://www.reddit.com/r/AskReddit/comments/4q91g9/what_free_things_online_shoul
 https://www.reddit.com/r/AskReddit/comments/6k0p7l/what_are_the_best_free_online_certificates_you
 https://www.reddit.com/r/AskReddit/comments/6q2b8x/reddit_whats_become_clear_to_you_as_youve_gotten
 https://www.reddit.com/r/AskReddit/comments/70q5f2/reddit_what_are_the_most_useful_askreddit_posts
+https://www.reddit.com/r/AskReddit/comments/aa7zs9/what_youtube_channels_are_genuinely_worth_watching
 https://www.reddit.com/r/sysadmin/comments/4oxxgv/your_favorite_scripts_you_have_stolen_or_made
 https://cse.google.com/cse/publicurl?cx=013208504250323700475:mqurmsvnc8k (Google Custom Search Engine for Sharjeel's Bookmarks)
 https://github.com/sharjeelsayed?direction=desc&sort=stars&tab=stars
