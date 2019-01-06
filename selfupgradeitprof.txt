@@ -1004,7 +1004,9 @@ https://stackoverflow.com/jobs/salary
 Freelancer:
 
 Sources:
+https://docs.google.com/spreadsheets/d/1JfNAbUX_lN9K3MCNHO15GJtJ5qpk7H9Cl3xTBwv2FR8 (Remote Jobs or Gigs Platforms)
 https://news.ycombinator.com/item?id=16651077 (Ask HN: How do you find freelance work?)
+https://news.ycombinator.com/item?id=18829691 (Ask HN: Fastest way to get started with freelancing?)
 
 https://www.guru.com
 https://nomadprojects.io
