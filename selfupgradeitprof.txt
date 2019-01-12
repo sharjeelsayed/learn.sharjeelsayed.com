@@ -2,7 +2,7 @@ Curated Self Study Guide for Computer Science and DevOps/SRE/SysAdmin
 
 An always updated copy of this document can be found at http://Learn.SharjeelSayed.com
 For updates/corrections , visit https://github.com/sharjeelsayed/sharjeelsayed.github.io/blob/master/selfupgradeitprof.txt
-Reach out to me at http://SharjeelSayed.com
+Reach me at http://SharjeelSayed.com
 
 Contents:
 
@@ -466,6 +466,7 @@ https://www.hackerrank.com/domains/shell/bash
 Windows:
 
 Sources:
+https://www.reddit.com/r/sysadmin/comments/3z7qd9/practice_to_become_a_windows_sysadmin/cyjynxh
 https://www.reddit.com/r/sysadmin/wiki/ms/resources
 
 Windows Server 2016 - TechNet - Microsoft
@@ -1170,7 +1171,7 @@ https://news.ycombinator.com/item?id=18104814 (Ask HN: What are the best textboo
 https://news.ycombinator.com/item?id=18469649 (Ask HN: Older textbooks/papers you consider classics still worth studying today?)
 https://opentrackers.org/downloading-ebooks-textbooks
 https://redditfavorites.com/books
-https://torrentfreak.com/top-10-most-popular-torrent-sites-of-2018-180107
+https://torrentfreak.com/top-10-most-popular-torrent-sites-of-2019
 https://www.amazon.com/charts
 https://www.reddit.com/r/AskReddit/comments/34m5n6/reddit_what_are_some_must_read_books
 https://www.reddit.com/r/AskReddit/comments/8cl833/what_are_some_good_books_that_would_make_the
@@ -1186,8 +1187,8 @@ https://pinboard.in/u:sharjeelsayed/t:learn
 http://libgen.io or http://gen.lib.rus.ec
 https://forcoder.su
 https://ebookee.org
-https://thepiratebay.org or https://thepiratebay-proxylist.org
 https://1337x.to
+https://thepiratebay.org or https://thepiratebay-proxylist.org
 http://rarbg.to or https://rarbg.is
 https://torrentz2.eu
 https://www.limetorrents.cc
