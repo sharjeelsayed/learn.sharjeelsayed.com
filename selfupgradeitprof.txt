@@ -519,9 +519,10 @@ https://www.amazon.com/Mastering-VMware-vSphere-Nick-Marshall/dp/1118925157
 OpenStack:
 
 Sources:
-https://www.reddit.com/r/openstack/comments/92o38n/best_book_for_learning_openstack
-https://github.com/topics/openstack?o=desc&s=stars
 https://github.com/int32bit/openstack-cheat-sheet
+https://github.com/topics/openstack?o=desc&s=stars
+https://linuxacademy.com/openstack/courses
+https://www.reddit.com/r/openstack/comments/92o38n/best_book_for_learning_openstack
 
 OpenStack for Architects: Design production-ready private cloud infrastructure, 2nd Edition
 https://www.amazon.com/OpenStack-Architects-production-ready-private-infrastructure/dp/1788624513
@@ -718,14 +719,14 @@ https://www.amazon.com/Regular-Expressions-Cookbook-Solutions-Programming/dp/144
 
 Git:
 
+Sources:
+https://news.ycombinator.com/item?id=18919599 (How to teach Git (rachelcarmena.github.io))
+
 Pro Git
 https://git-scm.com/book/en/v2
 
-Learn Git in 20 Minutes
-https://youtu.be/Y9XZQO1n_7c
-
-Git Exercises 
-https://gitexercises.fracz.com
+Learn Git Branching
+https://learngitbranching.js.org
 
 Vim:
 
