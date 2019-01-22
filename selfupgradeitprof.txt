@@ -1234,6 +1234,7 @@ https://www.cybrary.it
 https://www.edx.org/course/subject/computer-science
 https://www.masterclass.com
 https://www.udacity.com/courses/all
+https://www.sololearn.com
 
 News:
 
