@@ -501,6 +501,9 @@ https://docs.docker.com
 Docker for Beginners
 https://prakhar.me/docker-curriculum
 
+Docker and Kubernetes: The Complete Guide by Stephen Grider
+https://www.udemy.com/docker-and-kubernetes-the-complete-guide
+
 Kubernetes:
 
 An Introduction to Kubernetes
@@ -545,6 +548,10 @@ Amazon Web Services in Action 2nd Edition
 https://www.amazon.com/Amazon-Services-Action-Andreas-Wittig/dp/1617295116
 
 NGINX:
+
+Sources:
+https://github.com/topics/nginx?o=desc&s=stars
+
 
 NGINX documentation
 http://nginx.org/en/docs
