@@ -100,6 +100,7 @@ https://news.ycombinator.com/item?id=15898263 (A computer science study plan)
 https://news.ycombinator.com/item?id=15899383 (	Ask HN: Fully online CS degrees?)
 https://news.ycombinator.com/item?id=16591918 (Ask HN: “Write your own” or “Build your own” software projects)
 https://news.ycombinator.com/item?id=17031609 (Ask HN: Books you should have read when you start a career in SE / CS?)
+https://news.ycombinator.com/item?id=18890417 (If not SICP, then what? Maybe HTDP?)
 https://news.ycombinator.com/item?id=5019373 (How Harvard's CS50 Renewed My Hope For Online Education)
 https://ocw.mit.edu/courses/find-by-topic/#cat=engineering&subcat=computerscience
 https://spin.atomicobject.com/2015/05/15/obtaining-thorough-cs-background-online
@@ -1250,6 +1251,7 @@ News:
 
 Sources:
 https://dev.to
+https://github.com/rShetty/awesome-podcasts
 https://hn.algolia.com/?query=documentaries&sort=byPopularity&prefix&page=0&dateRange=all&type=story
 https://news.ycombinator.com/item?id=13747563 (Ask HN: What are your favorite tech podcasts?)
 https://news.ycombinator.com/item?id=14086259 (Ask HN: Mailing lists that HN readers ought to know about?)
