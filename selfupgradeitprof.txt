@@ -257,6 +257,9 @@ https://www.amazon.com/gp/product/1848000693
 Steven Skiena Dept. of Computer Science Stony Brook University Video Lectures
 http://www3.cs.stonybrook.edu/~algorith/video-lectures
 
+Algorithms by S. Dasgupta, C. H. Papadimitriou, and U. V. Vazirani
+http://algorithmics.lsi.upc.edu/docs/Dasgupta-Papadimitriou-Vazirani.pdf
+
 Additional Material:
 
 Introduction to Algorithms, 3rd Edition
@@ -1336,7 +1339,7 @@ https://news.ycombinator.com/item?id=17603348 (Ask HN: How do you backup your fi
 https://redditprofile.com (Find an Expert on Reddit)
 https://www.nala.ie/resources/better-handwriting-adults
 https://www.producthunt.com
-https://www.reddit.com/r/Addons4Kodi/comments/8wr3tu/requests_recomendations_basics_july_2018
+https://www.reddit.com/r/Addons4Kodi/comments/amly4o/requests_recommendations_basics_february_2019
 https://www.reddit.com/r/AskReddit/comments/4q91g9/what_free_things_online_should_everyone_take/d4r8foy
 https://www.reddit.com/r/AskReddit/comments/6k0p7l/what_are_the_best_free_online_certificates_you
 https://www.reddit.com/r/AskReddit/comments/6q2b8x/reddit_whats_become_clear_to_you_as_youve_gotten
