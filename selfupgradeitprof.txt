@@ -72,6 +72,7 @@ Study Tools:
 Ebooks
 MOOC
 News
+Podcasts
 Ambient Music
 Headphones
 Ear Plugs
@@ -1216,7 +1217,7 @@ http://breue.com/free_programming_books
 irc://irc.undernet.org/bookz
 irc://irc.irchighway.net/ebooks
 https://books.goalkicker.com
-https://www.safaribooksonline.com # An ACM Membership Rs.1,180 per year ($16.50) provides Safari Books online membership ($399 Per year) .India Sign up page https://services.acm.org/public/qj/proflevel/proflevel_control.cfm?level=3&country=India&form_type=Professional&promo=LEVEL&pay=DD
+https://www.safaribooksonline.com # An ACM Membership provides Safari Books online membership for less.India Sign up page https://services.acm.org/public/qj/proflevel/proflevel_control.cfm?level=3&country=India&form_type=Professional&promo=LEVEL&pay=DD
 https://cse.google.com/cse/publicurl?cx=011394183039475424659:5bfyqg89ers (Google Custom Search Engine for Ebooks)
 https://cse.google.com/cse/publicurl?cx=001639227550064093264:dznewka3cca (Google Custom Search Engine for Ebooks)
 
@@ -1256,26 +1257,18 @@ News:
 
 Sources:
 https://dev.to
-https://github.com/rShetty/awesome-podcasts
 https://hn.algolia.com/?query=documentaries&sort=byPopularity&prefix&page=0&dateRange=all&type=story
-https://news.ycombinator.com/item?id=13747563 (Ask HN: What are your favorite tech podcasts?)
 https://news.ycombinator.com/item?id=14086259 (Ask HN: Mailing lists that HN readers ought to know about?)
 https://news.ycombinator.com/item?id=14163905 (Ask HN: Which companies have the best blogs written by their engineering team?)
-https://news.ycombinator.com/item?id=14529759 (Ask HN: What podcasts are you listening to?)
-https://news.ycombinator.com/item?id=14819798 (Ask HN: What are your favorite podcasts?)
 https://news.ycombinator.com/item?id=14918647 (Ask HN: What is your content discovery daily routine?)
-https://news.ycombinator.com/item?id=15170121 (Ask HN: What audio resources can improve my technical skills during my commute?)
 https://news.ycombinator.com/item?id=16338503 (Ask HN: How do you manage to go through so much of good content posted on HN?)
 https://news.ycombinator.com/item?id=16561799 (Ask HN: What's the Hacker News for different industries?)
 https://news.ycombinator.com/item?id=16838460 (Ask HN: What is your favourite tech talk?)
 https://news.ycombinator.com/item?id=17202615 (Ask HN: Which YouTube channels do you watch regularly?)
 https://news.ycombinator.com/item?id=17690852 (Ask HN: What are some niche communities you enjoy?)
-https://news.ycombinator.com/item?id=18073169 (Ask HN: What podcasts do you listen to regularly?)
 https://news.ycombinator.com/item?id=18217762 (Ask HN: What are some of the best technical talks you've heard?)
 https://news.ycombinator.com/item?id=18384680 (Ask HN: Other online communities like HN?)
-https://news.ycombinator.com/item?id=9207360 (Ask HN: Favorite podcasts?)
 https://news.ycombinator.com/item?id=9836023 (Ask HN: What tech blogs, podcasts do you follow outside of HN?)
-https://podcastrank.co
 https://www.reddit.com/r/AskReddit/comments/9nggyv/what_is_a_great_youtube_channel_to_binge_watch
 https://www.taggernews.com
 https://twitter.com/SharjeelSayed
@@ -1287,6 +1280,23 @@ Import http://opml.SharjeelSayed.com , into Inoreader.com
 
 News Notifications (iOS/Android):
 Install the IFTTT Mobile app .Turn on the applet https://IFTTT.com/applets/456148p .Add http://rss.SharjeelSayed.com into the 'Feed URL' field of the applet.
+
+Podcasts:
+
+Sources:
+https://news.ycombinator.com/item?id=13747563 (Ask HN: What are your favorite tech podcasts?)
+https://news.ycombinator.com/item?id=14529759 (Ask HN: What podcasts are you listening to?)
+https://news.ycombinator.com/item?id=14819798 (Ask HN: What are your favorite podcasts?)
+https://news.ycombinator.com/item?id=15170121 (Ask HN: What audio resources can improve my technical skills during my commute?)
+https://news.ycombinator.com/item?id=18073169 (Ask HN: What podcasts do you listen to regularly?)
+https://news.ycombinator.com/item?id=19095780 (Ask HN: What podcast has been most influential on your life?)
+https://news.ycombinator.com/item?id=9207360 (Ask HN: Favorite podcasts?)
+
+Collection of awesome podcasts
+https://github.com/rShetty/awesome-podcasts
+
+PodcastRank
+https://podcastrank.co
 
 Ambient Music:
 
