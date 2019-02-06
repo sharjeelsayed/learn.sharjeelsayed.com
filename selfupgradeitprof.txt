@@ -1216,7 +1216,7 @@ http://breue.com/free_programming_books
 irc://irc.undernet.org/bookz
 irc://irc.irchighway.net/ebooks
 https://books.goalkicker.com
-https://www.safaribooksonline.com # For Indians, the ACM Membership is just Rs.1,180 INR per year ($16.50) whereas a Safari Books online membership costs $399 Per year.This is the India Sign up page https://services.acm.org/public/qj/proflevel/proflevel_control.cfm?level=3&country=India&form_type=Professional&promo=LEVEL&pay=DD
+https://www.safaribooksonline.com # An ACM Membership Rs.1,180 per year ($16.50) provides Safari Books online membership ($399 Per year) .India Sign up page https://services.acm.org/public/qj/proflevel/proflevel_control.cfm?level=3&country=India&form_type=Professional&promo=LEVEL&pay=DD
 https://cse.google.com/cse/publicurl?cx=011394183039475424659:5bfyqg89ers (Google Custom Search Engine for Ebooks)
 https://cse.google.com/cse/publicurl?cx=001639227550064093264:dznewka3cca (Google Custom Search Engine for Ebooks)
 
