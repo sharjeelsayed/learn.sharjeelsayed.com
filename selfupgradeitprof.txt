@@ -115,6 +115,7 @@ https://www.reddit.com/r/cscareerquestions/comments/5bsg82/whats_the_single_most
 https://www.reddit.com/r/cscareerquestions/comments/92yuvw/what_parts_of_a_cs_degree_have_been_most_useful
 https://www.reddit.com/r/learnprogramming/comments/69x0bp/teach_yourself_computer_science
 https://www.reddit.com/r/learnprogramming/comments/764cs8/trello_board_for_teach_yourself_computer_science
+https://www.reddit.com/r/learnprogramming/comments/ani7nb/psa_many_of_berkeleys_courses_have_lectures_and
 https://www.scotthyoung.com/blog/myprojects/mit-challenge-2
 https://pinboard.in/u:sharjeelsayed/t:cs
 
@@ -459,6 +460,7 @@ Sources:
 https://news.ycombinator.com/item?id=14634964 (Ask HN: How can I get better at bash?)
 https://github.com/jlevy/the-art-of-command-line
 https://github.com/dylanaraps/pure-bash-bible
+https://pinboard.in/u:sharjeelsayed/t:bash
 
 ABS Guide
 http://tldp.org/LDP/abs/html
@@ -678,6 +680,7 @@ https://news.ycombinator.com/item?id=12475383 (“Learn C the Hard Way” is no 
 https://news.ycombinator.com/item?id=15198093 (Beej's Guide to C Programming (2007))
 https://news.ycombinator.com/item?id=16196194 (Brushing up on operating systems and C programming)
 https://news.ycombinator.com/item?id=16347309 (Ask HN: What project did you tackle to learn C?)
+https://news.ycombinator.com/item?id=19126544 (Show HN: Learn C and its lower levels interactively, in the browser)
 
 Learn C The Hard Way
 https://learncodethehardway.org/c
@@ -1087,6 +1090,9 @@ https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/
 The Practice of System and Network Administration: Volume 1: DevOps and other Best Practices for Enterprise IT (3rd Edition)
 https://www.amazon.com/dp/0321919165
 
+The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change
+https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897
+
 The Personal MBA: Master the Art of Business
 https://www.amazon.com/Personal-MBA-Master-Art-Business/dp/1591845572
 
@@ -1279,7 +1285,7 @@ RSS Reader:
 Import http://opml.SharjeelSayed.com , into Inoreader.com
 
 News Notifications (iOS/Android):
-Install the IFTTT Mobile app .Turn on the applet https://IFTTT.com/applets/456148p .Add http://rss.SharjeelSayed.com into the 'Feed URL' field of the applet.
+Install the IFTTT Mobile app .Turn on the applet https://IFTTT.com/applets/456148p and add http://rss.SharjeelSayed.com into the 'Feed URL' field of the applet.
 
 Podcasts:
 
