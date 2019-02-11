@@ -251,6 +251,7 @@ https://news.ycombinator.com/item?id=18805624 (Algorithms, by Jeff Erickson (ill
 https://projecteuler.net
 https://www.reddit.com/r/algorithms
 https://www.reddit.com/r/compsci/comments/1kcal2/algorithims_everyone_should_know
+https://www.reddit.com/r/cscareerquestions/comments/ap8jz3/which_data_structures_and_algorithms_are
 https://www.reddit.com/r/learnprogramming/comments/379vwn/visually_learning_algorithms
 
 The Algorithm Design Manual 2nd Edition
@@ -379,6 +380,9 @@ https://www.youtube.com/playlist?list=PL_c9BZzLwBRK0Pc28IdvPQizD2mJlgoID
 
 Database Design for Mere Mortals: A Hands-On Guide to Relational Database Design (3rd Edition)
 https://www.amazon.com/Database-Design-Mere-Mortals-Hands/dp/0321884493
+
+Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems
+https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable-ebook/dp/B06XPJML5D
 
 DevOps/SRE/SysAdmin:
 
@@ -1027,6 +1031,7 @@ Sources:
 https://docs.google.com/spreadsheets/d/1JfNAbUX_lN9K3MCNHO15GJtJ5qpk7H9Cl3xTBwv2FR8 (Remote Jobs or Gigs Platforms)
 https://news.ycombinator.com/item?id=16651077 (Ask HN: How do you find freelance work?)
 https://news.ycombinator.com/item?id=18829691 (Ask HN: Fastest way to get started with freelancing?)
+https://news.ycombinator.com/item?id=19133864 (Ask HN: How bad is freelancing?)
 
 https://www.guru.com
 https://nomadprojects.io
