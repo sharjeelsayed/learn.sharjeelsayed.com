@@ -159,6 +159,7 @@ https://github.com/P1xt/p1xt-guides
 https://github.com/rby90/Project-Based-Tutorials-in-C
 https://github.com/rShetty/awesome-podcasts
 https://github.com/sdmg15/Best-websites-a-programmer-should-visit
+https://github.com/stanzhai/be-a-professional-programmer
 https://github.com/styfle/awesome-online-ide
 https://github.com/topics/programming?o=desc&s=stars
 https://github.com/tuvtran/project-based-learning
@@ -967,6 +968,9 @@ https://www.hackerrank.com
 Firecode.io
 https://www.firecode.io
 
+codesignal
+https://codesignal.com
+
 A collection of *nix Sysadmin Test Questions and Answers for Interview/Exam (2018 Edition)
 https://github.com/trimstray/test-your-sysadmin-skills
 
@@ -1084,7 +1088,7 @@ https://www.indiehackers.com
 https://www.reddit.com/r/cscareerquestions/comments/6fnujy/soft_skills_for_programmers
 
 Site Reliability Engineering: How Google Runs Production Systems
-https://www.amazon.com/Site-Reliability-Engineering-Production-Systems/dp/149192912X
+https://landing.google.com/sre/sre-book/toc
 
 The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win
 https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262509
