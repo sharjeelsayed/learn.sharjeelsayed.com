@@ -277,6 +277,7 @@ https://news.ycombinator.com/item?id=14161876 (Calculus Made Easy (1914))
 https://news.ycombinator.com/item?id=14581273 (Georgia Tech's free math textbook collective)
 https://news.ycombinator.com/item?id=16392698 (How to Study Mathematics (2017) (uh.edu))
 https://news.ycombinator.com/item?id=16562173 (Ask HN: How to self-learn math?)
+https://news.ycombinator.com/item?id=19178593 (Classic Mathematics Books for Lifelong Learners )
 https://www.reddit.com/r/learnprogramming/comments/70rh9q/is_there_a_cs50_for_math
 https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw (3Blue1Brown Channel)
 
@@ -329,7 +330,7 @@ https://www.reddit.com/r/sysadmin/comments/4ux166/do_you_know_a_site_to_learn_mo
 
 Computer Networking: A Top-Down Approach (7th Edition)
 https://www.amazon.com/Computer-Networking-Top-Down-Approach-7th/dp/0133594149
-https://thepiratebay.org/torrent/11060421/computer_networking_a_top-down_approach_lecture (Lecture Videos based on the book)
+http://www-net.cs.umass.edu/wireshark-labs (Supplements: Wireshark Labs)
 
 CS144 Introduction to Computer Networking Stanford University
 https://suclass.stanford.edu/courses/course-v1:Engineering+CS144+Fall2016/courseware/ac9d1eef5aaa4bb5bcfe4d42f51f0f5b/c5c384e648cf404c837d05497c6e36b0
