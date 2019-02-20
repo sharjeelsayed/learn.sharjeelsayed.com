@@ -232,6 +232,9 @@ https://www.amazon.com/gp/product/0124077269
 Computer Science 61C, UCBerkeley 001 - Spring 2015
 https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iCl2-D-FS5mk0jFF6cYSJs_?sort=titleSorter
 
+Computation Structures | Electrical Engineering and Computer Science | MIT OpenCourseWare
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-004-computation-structures-spring-2009
+
 Additional:
 
 Modern Microprocessors A 90-Minute Guide! A brief, pulls-no-punches, fast-paced introduction to the main design aspects of modern processor microarchitecture
@@ -399,6 +402,7 @@ https://github.com/Leo-G/DevopsWiki
 https://github.com/n1trux/awesome-sysadmin
 https://github.com/topics/devops?o=desc&s=stars
 https://github.com/topics/sysadmin?o=desc&s=stars
+https://github.com/trimstray/the-book-of-secret-knowledge
 https://learn-anything.xyz/programming/software-development/devops
 https://news.ycombinator.com/item?id=14153545 (What Is ‘Site Reliability Engineering’?)
 https://news.ycombinator.com/item?id=14652993 (Ask HN: DevOps learning resources)
@@ -871,6 +875,7 @@ https://en.wikipedia.org/wiki/Cosmos:_A_Spacetime_Odyssey
 Design:
 
 Sources:
+https://github.com/LisaDziuba/Awesome-Design-Tools
 https://news.ycombinator.com/item?id=15328992 (Ask HN: Learn Modern web design and CSS)
 
 The Design of Everyday Things
