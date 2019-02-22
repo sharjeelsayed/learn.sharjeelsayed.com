@@ -541,7 +541,9 @@ https://www.amazon.com/Mastering-VMware-vSphere-Nick-Marshall/dp/1118925157
 OpenStack:
 
 Sources:
+https://docs.openstack.org
 https://github.com/int32bit/openstack-cheat-sheet
+https://github.com/openstack/training-labs
 https://github.com/topics/openstack?o=desc&s=stars
 https://linuxacademy.com/openstack/courses
 https://www.reddit.com/r/openstack/comments/92o38n/best_book_for_learning_openstack
