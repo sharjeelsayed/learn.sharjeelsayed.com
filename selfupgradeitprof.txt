@@ -524,6 +524,9 @@ https://www.udemy.com/docker-and-kubernetes-the-complete-guide
 
 Kubernetes:
 
+Sources:
+https://kubernetes.io/docs/home
+
 An Introduction to Kubernetes
 https://www.digitalocean.com/community/tutorials/an-introduction-to-kubernetes
 
@@ -1281,6 +1284,7 @@ https://www.edx.org/course/subject/computer-science
 https://www.masterclass.com
 https://www.udacity.com/courses/all
 https://www.sololearn.com
+https://www.omscs.gatech.edu (Georgia Tech Online Master of Science in Computer Science)
 
 News:
 
