@@ -1290,6 +1290,7 @@ News:
 
 Sources:
 https://dev.to
+https://github.com/greybax/awesome-IT-films/blob/master/documentary.md
 https://hn.algolia.com/?query=documentaries&sort=byPopularity&prefix&page=0&dateRange=all&type=story
 https://news.ycombinator.com/item?id=14086259 (Ask HN: Mailing lists that HN readers ought to know about?)
 https://news.ycombinator.com/item?id=14163905 (Ask HN: Which companies have the best blogs written by their engineering team?)
