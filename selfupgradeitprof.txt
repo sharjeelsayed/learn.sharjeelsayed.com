@@ -1325,6 +1325,7 @@ https://news.ycombinator.com/item?id=15170121 (Ask HN: What audio resources can 
 https://news.ycombinator.com/item?id=18073169 (Ask HN: What podcasts do you listen to regularly?)
 https://news.ycombinator.com/item?id=19095780 (Ask HN: What podcast has been most influential on your life?)
 https://news.ycombinator.com/item?id=9207360 (Ask HN: Favorite podcasts?)
+https://www.reddit.com/r/sysadmin/comments/au8ugd/what_are_your_preferred_tech_podcasts_as_a
 
 Collection of awesome podcasts
 https://github.com/rShetty/awesome-podcasts
@@ -1382,6 +1383,7 @@ https://news.ycombinator.com/item?id=15098066 (Ask HN: What online communities o
 https://news.ycombinator.com/item?id=15105601 (Ask HN: What are your favourite self hosted tools?)
 https://news.ycombinator.com/item?id=17272715 (Ask HN: Any resources to learn the fundamentals of critical thinking?)
 https://news.ycombinator.com/item?id=17603348 (Ask HN: How do you backup your files without depending on a third party service?)
+https://news.ycombinator.com/item?id=19242058 (Ask HN: What VPN service are you currently using?)
 https://redditprofile.com (Find an Expert on Reddit)
 https://www.nala.ie/resources/better-handwriting-adults
 https://www.producthunt.com
