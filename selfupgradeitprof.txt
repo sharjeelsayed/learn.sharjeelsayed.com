@@ -772,6 +772,7 @@ Vim:
 Sources:
 https://news.ycombinator.com/item?id=15400037 (Interactive Vim tutorial)
 https://news.ycombinator.com/item?id=2936670 (Learn Vim Progressively)
+https://pinboard.in/u:sharjeelsayed/t:vim
 
 Learn Vim Progressively
 http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively
@@ -899,6 +900,7 @@ https://medium.com/flawless-app-stories/https-medium-com-flawless-app-stories-th
 Machine Learning:
 
 Sources:
+https://blog.floydhub.com/best-deep-learning-courses-updated-for-2019
 https://news.ycombinator.com/item?id=12713056 (Ask HN: How to get started with machine learning?)
 https://news.ycombinator.com/item?id=16493489 (Machine Learning Crash Course)
 https://news.ycombinator.com/item?id=18321665 (Foundations of ML and AI: Book recommendations (dragan.rocks))
@@ -1009,6 +1011,7 @@ Job Portals:
 
 Sources:
 https://github.com/lukasz-madon/awesome-remote-job
+https://github.com/poteto/hiring-without-whiteboards
 https://news.ycombinator.com/item?id=14686745 (Ask HN: What are some of the best job boards you have seen (any industry)?)
 https://news.ycombinator.com/item?id=15473776 (Ask HN: What do you care about the most in a tech job post?)
 https://news.ycombinator.com/item?id=15646550 (Ask HN: What is your favorite place to find work?)
