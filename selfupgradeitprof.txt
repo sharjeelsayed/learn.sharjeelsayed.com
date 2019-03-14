@@ -1107,6 +1107,7 @@ https://news.ycombinator.com/item?id=18098992 (Ask HN: What things have richly r
 https://news.ycombinator.com/item?id=18132736 (Ask HN: What did you learn the hard way?)
 https://news.ycombinator.com/item?id=18179972 (How to Get Things Done When You Don't Feel Like It (acm.org))
 https://news.ycombinator.com/item?id=18588727 (Ask HN: What are your ?brain hacks? that help you manage every day situations?)
+https://news.ycombinator.com/item?id=19349676 (Ask HN: How to speak like a leader, not like an engineer?)
 https://www.indiehackers.com
 https://www.reddit.com/r/cscareerquestions/comments/6fnujy/soft_skills_for_programmers
 
@@ -1201,6 +1202,7 @@ http://www.bookadvice.co
 http://www.dev-books.com (The most mentioned books on Stack Overflow)
 http://www.hnreads.com
 http://www.openculture.com/free_textbooks
+https://bookinsider.gitlab.io
 https://docs.google.com/spreadsheets/d/e/2PACX-1vQDca1iI1GgcMwBl65XRvJaAnZOv6sCjmAamy_7cioVMV4U_VnBksgZrIKTe5P4aneEXtion1ZA7iPe/pubhtml (Pinker Book Recommendations)
 https://github.com/Igglybuff/awesome-piracy
 https://hackernewsbooks.com
