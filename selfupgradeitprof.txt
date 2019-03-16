@@ -912,16 +912,14 @@ https://www.coursera.org/learn/machine-learning
 Deep Learning Specialization by Andrew Ng
 https://www.coursera.org/specializations/deep-learning
 
-Backup
+Backup:
 
 Sources:
-https://github.com/alphapapa/restic-runner
 https://github.com/gilbertchen/benchmarking
 https://github.com/gilbertchen/cloud-storage-comparison
 https://github.com/gilbertchen/duplicacy
 https://github.com/restic/others
 https://github.com/topics/backup?o=desc&s=stars
-https://github.com/topics/restic?o=desc&s=stars
 https://news.ycombinator.com/item?id=17603348 (Ask HN: How do you backup your files without depending on a third party service?)
 https://news.ycombinator.com/item?id=18692844 (Ask HN: Best Centralized Backup Solution)
 https://restic.readthedocs.io/en/stable/100_references.html#design
