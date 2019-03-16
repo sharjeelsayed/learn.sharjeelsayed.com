@@ -924,9 +924,9 @@ https://github.com/topics/backup?o=desc&s=stars
 https://github.com/topics/restic?o=desc&s=stars
 https://news.ycombinator.com/item?id=17603348 (Ask HN: How do you backup your files without depending on a third party service?)
 https://news.ycombinator.com/item?id=18692844 (Ask HN: Best Centralized Backup Solution)
+https://restic.readthedocs.io/en/stable/100_references.html#design
 https://ruderich.org/simon/notes/append-only-backups-with-restic-and-rclone
 https://www.reddit.com/r/DataHoarder/comments/axvxwl/anything_cheaper_than_backblaze_b2
-https://restic.readthedocs.io/en/stable/100_references.html#design
 
 Restic
 https://restic.net
@@ -1421,7 +1421,6 @@ https://news.ycombinator.com/item?id=14724092 (Ask HN: Which sites you visit on 
 https://news.ycombinator.com/item?id=15098066 (Ask HN: What online communities offer a high level of discussion?)
 https://news.ycombinator.com/item?id=15105601 (Ask HN: What are your favourite self hosted tools?)
 https://news.ycombinator.com/item?id=17272715 (Ask HN: Any resources to learn the fundamentals of critical thinking?)
-https://news.ycombinator.com/item?id=17603348 (Ask HN: How do you backup your files without depending on a third party service?)
 https://news.ycombinator.com/item?id=19242058 (Ask HN: What VPN service are you currently using?)
 https://redditprofile.com (Find an Expert on Reddit)
 https://www.nala.ie/resources/better-handwriting-adults
