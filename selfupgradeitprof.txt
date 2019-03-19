@@ -924,6 +924,7 @@ https://news.ycombinator.com/item?id=17603348 (Ask HN: How do you backup your fi
 https://news.ycombinator.com/item?id=18692844 (Ask HN: Best Centralized Backup Solution)
 https://restic.readthedocs.io/en/stable/100_references.html#design
 https://ruderich.org/simon/notes/append-only-backups-with-restic-and-rclone
+https://www.backblaze.com/b2/cloud-storage-pricing.html
 https://www.reddit.com/r/DataHoarder/comments/axvxwl/anything_cheaper_than_backblaze_b2
 
 Restic
