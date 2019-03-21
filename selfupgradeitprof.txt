@@ -1341,13 +1341,14 @@ https://www.reddit.com/r/AskReddit/comments/9nggyv/what_is_a_great_youtube_chann
 https://www.taggernews.com
 https://twitter.com/SharjeelSayed
 
-Curated Tech and World News:
-
 RSS Reader:
 Import http://opml.SharjeelSayed.com , into Inoreader.com
 
-News Notifications (iOS/Android):
-Install the IFTTT Mobile app .Turn on the applet https://IFTTT.com/applets/456148p and add http://rss.SharjeelSayed.com into the 'Feed URL' field of the applet.
+Tech News Notifications (iOS/Android):
+Install the IFTTT Mobile app .Turn on the applet https://IFTTT.com/applets/456148p and add https://www.techmeme.com/feed.xml into the 'Feed URL' field of the applet.
+
+Subreddits to subscribe:
+https://www.reddit.com/r/AppleWatch+DataHoarder+Documentaries+IndiaInvestments+announcements+apple+compsci+cscareerquestions+electronic_cigarette+gadgets+hackernews+india+ipad+iphone+juul+learnprogramming+linux+linuxadmin+movies+mumbai+netsec+networking+programming+science+sysadmin+television+todayilearned+worldnews/
 
 Podcasts:
 
