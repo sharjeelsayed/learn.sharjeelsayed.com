@@ -56,7 +56,6 @@ Electronics
 Science
 Design
 Machine Learning
-Backup
 
 Career:
 Interview Guides
@@ -77,6 +76,7 @@ Podcasts
 Ambient Music
 Headphones
 Ear Plugs
+Backup
 
 Computer Science:
 
@@ -912,30 +912,6 @@ https://www.coursera.org/learn/machine-learning
 Deep Learning Specialization by Andrew Ng
 https://www.coursera.org/specializations/deep-learning
 
-Backup:
-
-Sources:
-https://github.com/gilbertchen/benchmarking
-https://github.com/gilbertchen/cloud-storage-comparison
-https://github.com/gilbertchen/duplicacy
-https://github.com/restic/others
-https://github.com/topics/backup?o=desc&s=stars
-https://news.ycombinator.com/item?id=17603348 (Ask HN: How do you backup your files without depending on a third party service?)
-https://news.ycombinator.com/item?id=18692844 (Ask HN: Best Centralized Backup Solution)
-https://restic.readthedocs.io/en/stable/100_references.html#design
-https://ruderich.org/simon/notes/append-only-backups-with-restic-and-rclone
-https://www.backblaze.com/b2/cloud-storage-pricing.html
-https://www.reddit.com/r/DataHoarder/comments/axvxwl/anything_cheaper_than_backblaze_b2
-
-Restic
-https://restic.net
-
-rclone - rsync for cloud storage
-https://rclone.org
-
-Backblaze B2 Cloud Storage
-https://www.backblaze.com/b2/cloud-storage.html
-
 Career:
 
 Interview Guides:
@@ -1230,6 +1206,7 @@ http://www.hnreads.com
 http://www.openculture.com/free_textbooks
 https://bookinsider.gitlab.io
 https://docs.google.com/spreadsheets/d/e/2PACX-1vQDca1iI1GgcMwBl65XRvJaAnZOv6sCjmAamy_7cioVMV4U_VnBksgZrIKTe5P4aneEXtion1ZA7iPe/pubhtml (Pinker Book Recommendations)
+https://github.com/aaronthecodpro/Reddit-Privacy-Megathread
 https://github.com/Igglybuff/awesome-piracy
 https://hackernewsbooks.com
 https://hn.algolia.com/?query=books&sort=byPopularity&prefix&page=0&dateRange=all&type=story
@@ -1348,7 +1325,7 @@ Tech News Notifications (iOS/Android):
 Install the IFTTT Mobile app .Turn on the applet https://IFTTT.com/applets/456148p and add https://www.techmeme.com/feed.xml into the 'Feed URL' field of the applet.
 
 Subreddits to subscribe:
-https://www.reddit.com/r/AppleWatch+DataHoarder+Documentaries+IndiaInvestments+announcements+apple+compsci+cscareerquestions+electronic_cigarette+gadgets+hackernews+india+ipad+iphone+juul+learnprogramming+linux+linuxadmin+movies+mumbai+netsec+networking+programming+science+sysadmin+television+todayilearned+worldnews/
+https://www.reddit.com/r/AppleWatch+DataHoarder+Documentaries+IndiaInvestments+announcements+apple+compsci+cscareerquestions+electronic_cigarette+gadgets+hackernews+india+ipad+iphone+juul+learnprogramming+linux+linuxadmin+movies+mumbai+netsec+networking+programming+science+sysadmin+television+todayilearned+worldnews
 
 Podcasts:
 
@@ -1403,6 +1380,31 @@ https://www.amazon.com/gp/bestsellers/hpc/3779871/ref=pd_zg_hrsr_hpc_1_4_last
 
 Mack's Ultra Soft Foam Earplugs
 https://www.amazon.com/Macks-Ultra-Soft-Foam-Earplugs/dp/B0051U7W32
+
+Backup:
+
+Sources:
+https://github.com/gilbertchen/benchmarking
+https://github.com/gilbertchen/cloud-storage-comparison
+https://github.com/gilbertchen/duplicacy
+https://github.com/restic/others
+https://github.com/topics/backup?o=desc&s=stars
+https://news.ycombinator.com/item?id=17603348 (Ask HN: How do you backup your files without depending on a third party service?)
+https://news.ycombinator.com/item?id=18692844 (Ask HN: Best Centralized Backup Solution)
+https://restic.readthedocs.io/en/stable/100_references.html#design
+https://ruderich.org/simon/notes/append-only-backups-with-restic-and-rclone
+https://www.backblaze.com/b2/cloud-storage-pricing.html
+https://www.reddit.com/r/DataHoarder/comments/axvxwl/anything_cheaper_than_backblaze_b2
+https://clonezilla.org
+
+Restic
+https://restic.net
+
+rclone - rsync for cloud storage
+https://rclone.org
+
+Backblaze B2 Cloud Storage
+https://www.backblaze.com/b2/cloud-storage.html
 
 Additional Sources :
 https://github.com/jnv/lists
