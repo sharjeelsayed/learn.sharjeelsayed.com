@@ -1384,6 +1384,8 @@ https://www.amazon.com/Macks-Ultra-Soft-Foam-Earplugs/dp/B0051U7W32
 Backup:
 
 Sources:
+https://clonezilla.org
+https://cryptomator.org
 https://github.com/gilbertchen/benchmarking
 https://github.com/gilbertchen/cloud-storage-comparison
 https://github.com/gilbertchen/duplicacy
@@ -1391,11 +1393,14 @@ https://github.com/restic/others
 https://github.com/topics/backup?o=desc&s=stars
 https://news.ycombinator.com/item?id=17603348 (Ask HN: How do you backup your files without depending on a third party service?)
 https://news.ycombinator.com/item?id=18692844 (Ask HN: Best Centralized Backup Solution)
+https://nuetzlich.net/gocryptfs/comparison
 https://restic.readthedocs.io/en/stable/100_references.html#design
 https://ruderich.org/simon/notes/append-only-backups-with-restic-and-rclone
+https://syncthing.net
+https://szymonkrajewski.pl/synchronize-local-files-cryptomator-vault
 https://www.backblaze.com/b2/cloud-storage-pricing.html
 https://www.reddit.com/r/DataHoarder/comments/axvxwl/anything_cheaper_than_backblaze_b2
-https://clonezilla.org
+https://www.resilio.com
 
 Restic
 https://restic.net
