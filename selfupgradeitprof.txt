@@ -154,6 +154,7 @@ https://github.com/braydie/HowToBeAProgrammer
 https://github.com/danistefanovic/build-your-own-x
 https://github.com/EbookFoundation/free-programming-books
 https://github.com/kamranahmedse/developer-roadmap
+https://github.com/LeCoupa/awesome-cheatsheets
 https://github.com/Michael0x2a/curated-programming-resources
 https://github.com/mtdvio/every-programmer-should-know
 https://github.com/P1xt/p1xt-guides
@@ -472,9 +473,11 @@ https://www.amazon.com/Design-Implementation-FreeBSD-Operating-System/dp/0321968
 Bash:
 
 Sources:
-https://news.ycombinator.com/item?id=14634964 (Ask HN: How can I get better at bash?)
-https://github.com/jlevy/the-art-of-command-line
 https://github.com/dylanaraps/pure-bash-bible
+https://github.com/jlevy/the-art-of-command-line
+https://github.com/koalaman/shellcheck
+https://github.com/topics/bash?o=desc&s=stars
+https://news.ycombinator.com/item?id=14634964 (Ask HN: How can I get better at bash?)
 https://pinboard.in/u:sharjeelsayed/t:bash
 
 ABS Guide
@@ -789,6 +792,7 @@ Security:
 
 Sources:
 http://www.fastrls.com/2017/10/30/offensive-security-training-videos
+https://github.com/forter/security-101-for-saas-startups
 https://github.com/Hack-with-Github/Awesome-Hacking
 https://github.com/topics/oscp?o=desc&s=stars
 https://github.com/topics/security?o=desc&s=stars
@@ -803,8 +807,8 @@ https://room362.com/start
 https://s3ctur.wordpress.com/2017/06/19/breaking-into-infosec-a-beginners-curriculum
 https://www.edx.org/learn/cybersecurity
 https://www.reddit.com/r/crypto/wiki
-https://www.reddit.com/r/netsec+privacy+SocialEngineering+onions+ReverseEngineering+crypto+blackhat+security+Malware+pwned+netsecstudents+computerforensics+HackBloc+securityCTF+xss+vrd+rootkit+REMath
 https://www.reddit.com/r/netsec/wiki
+https://www.reddit.com/r/netsec+privacy+SocialEngineering+onions+ReverseEngineering+crypto+blackhat+security+Malware+pwned+netsecstudents+computerforensics+HackBloc+securityCTF+xss+vrd+rootkit+REMath
 https://www.reddit.com/r/netsecstudents/top/?sort=top&t=all
 https://www.reddit.com/r/netsecstudents/wiki
 https://xapax.github.io/blog/2017/01/14/OSCP.html
