@@ -1388,11 +1388,13 @@ https://www.amazon.com/Macks-Ultra-Soft-Foam-Earplugs/dp/B0051U7W32
 Backup:
 
 Sources:
+http://gaul.org/object-store-comparison
 https://clonezilla.org
 https://cryptomator.org
 https://github.com/gilbertchen/benchmarking
 https://github.com/gilbertchen/cloud-storage-comparison
 https://github.com/gilbertchen/duplicacy
+https://github.com/jbruchon/jdupes
 https://github.com/restic/others
 https://github.com/topics/backup?o=desc&s=stars
 https://news.ycombinator.com/item?id=17603348 (Ask HN: How do you backup your files without depending on a third party service?)
