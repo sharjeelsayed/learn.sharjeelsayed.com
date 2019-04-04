@@ -1329,7 +1329,7 @@ Tech News Notifications (iOS/Android):
 Install the IFTTT Mobile app .Turn on the applet https://IFTTT.com/applets/456148p and add https://www.techmeme.com/feed.xml into the 'Feed URL' field of the applet.
 
 Subreddits to subscribe:
-https://www.reddit.com/r/AppleWatch+DataHoarder+Documentaries+IndiaInvestments+announcements+apple+compsci+cscareerquestions+electronic_cigarette+gadgets+hackernews+india+ipad+iphone+juul+learnprogramming+linux+linuxadmin+movies+mumbai+netsec+networking+programming+science+sysadmin+television+todayilearned+worldnews
+https://www.reddit.com/r/AppleWatch+DataHoarder+Documentaries+IndiaInvestments+announcements+apple+compsci+cscareerquestions+electronic_cigarette+gadgets+hackernews+india+ipad+iphone+juul+learnprogramming+linux+linuxadmin+movies+mumbai+netsec+networking+onebag+programming+science+sysadmin+television+todayilearned+worldnews
 
 Podcasts:
 
@@ -1435,6 +1435,7 @@ https://news.ycombinator.com/item?id=15098066 (Ask HN: What online communities o
 https://news.ycombinator.com/item?id=15105601 (Ask HN: What are your favourite self hosted tools?)
 https://news.ycombinator.com/item?id=17272715 (Ask HN: Any resources to learn the fundamentals of critical thinking?)
 https://news.ycombinator.com/item?id=19242058 (Ask HN: What VPN service are you currently using?)
+https://news.ycombinator.com/item?id=19521136 (Ask HN: What backpack are you using?)
 https://redditprofile.com (Find an Expert on Reddit)
 https://www.nala.ie/resources/better-handwriting-adults
 https://www.producthunt.com
