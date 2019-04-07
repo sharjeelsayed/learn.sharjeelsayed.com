@@ -367,6 +367,9 @@ https://www.youtube.com/playlist?list=PLF360ED1082F6F2A5
 Load Balancing Servers, Firewalls, and Caches
 http://www.amazon.com/Load-Balancing-Servers-Firewalls-Caches/dp/0471415502
 
+Professor Messer - Seven Second Subnetting
+https://youtu.be/ZxAwQB8TZsM
+
 Database Concepts:
 
 Sources:
@@ -1273,8 +1276,8 @@ MOOC:
 Sources:
 http://lifehacker.com/tag/lifehacker-u
 https://blog.github.com/2018-03-20-top-10-courses-on-github
+https://github.com/learn-awesome/learn-awesome
 https://github.com/sindresorhus/awesome
-https://medium.freecodecamp.org/2018s-most-popular-free-online-courses-f4bc54e3ff2f?gi=6cf1a036fbda
 https://news.ycombinator.com/item?id=10644518 (Ask HN: What's your favorite online course?)
 https://news.ycombinator.com/item?id=12702651 (Ask HN: What is your favorite YouTube channel for developers?)
 https://news.ycombinator.com/item?id=13867016 (Ask HN: Which Berkeley Courses Should I Archive?)
@@ -1284,7 +1287,7 @@ https://news.ycombinator.com/item?id=16745042 (Ask HN: What are the best MOOCs y
 https://news.ycombinator.com/item?id=17616937 (Ask HN: Any good examples of learning through games/puzzles, for adults?)
 https://news.ycombinator.com/item?id=17999659 (Ask HN: Favorite teachers on YouTube?)
 https://www.class-central.com/collection/top-free-online-courses?utm_source=top-50-course-page
-https://www.class-central.com/report/mooc-providers-list
+https://www.classcentral.com/starting-this-month
 https://www.reddit.com/r/sysadmin/comments/65wdum/whats_your_favorite_selfstudy_resource_paid_free
 
 http://academictorrents.com
