@@ -497,6 +497,8 @@ Windows:
 Sources:
 https://www.reddit.com/r/sysadmin/comments/3z7qd9/practice_to_become_a_windows_sysadmin/cyjynxh
 https://www.reddit.com/r/sysadmin/wiki/ms/resources
+https://github.com/Awesome-Windows/Awesome
+https://pinboard.in/u:sharjeelsayed/t:windows
 
 Windows Server 2016 - TechNet - Microsoft
 https://docs.microsoft.com/en-us/windows-server/windows-server-2016
@@ -797,6 +799,7 @@ Sources:
 http://www.fastrls.com/2017/10/30/offensive-security-training-videos
 https://github.com/forter/security-101-for-saas-startups
 https://github.com/Hack-with-Github/Awesome-Hacking
+https://github.com/OWASP/CheatSheetSeries
 https://github.com/topics/oscp?o=desc&s=stars
 https://github.com/topics/security?o=desc&s=stars
 https://hrushikeshk.github.io/blog/2018/01/15/security-resources
