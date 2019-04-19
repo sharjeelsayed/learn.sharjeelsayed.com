@@ -495,10 +495,12 @@ https://www.hackerrank.com/domains/shell/bash
 Windows:
 
 Sources:
+https://github.com/Awesome-Windows/Awesome
 https://www.reddit.com/r/sysadmin/comments/3z7qd9/practice_to_become_a_windows_sysadmin/cyjynxh
 https://www.reddit.com/r/sysadmin/wiki/ms/resources
-https://github.com/Awesome-Windows/Awesome
+vhttps://news.ycombinator.com/item?id=19698620 (Ask HN: How do you secure your Windows PC?)
 https://pinboard.in/u:sharjeelsayed/t:windows
+
 
 Windows Server 2016 - TechNet - Microsoft
 https://docs.microsoft.com/en-us/windows-server/windows-server-2016
@@ -1443,6 +1445,7 @@ https://news.ycombinator.com/item?id=17272715 (Ask HN: Any resources to learn th
 https://news.ycombinator.com/item?id=19242058 (Ask HN: What VPN service are you currently using?)
 https://news.ycombinator.com/item?id=19521136 (Ask HN: What backpack are you using?)
 https://redditprofile.com (Find an Expert on Reddit)
+https://www.hackernewspapers.com
 https://www.nala.ie/resources/better-handwriting-adults
 https://www.producthunt.com
 https://www.reddit.com/r/Addons4Kodi/comments/amly4o/requests_recommendations_basics_february_2019
