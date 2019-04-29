@@ -805,6 +805,7 @@ https://github.com/OWASP/CheatSheetSeries
 https://github.com/topics/oscp?o=desc&s=stars
 https://github.com/topics/security?o=desc&s=stars
 https://hrushikeshk.github.io/blog/2018/01/15/security-resources
+https://jhalon.github.io/becoming-a-pentester
 https://news.ycombinator.com/item?id=12140477 (A practical security guide for web developers (github.com))
 https://news.ycombinator.com/item?id=14791255 (Cybersecurity Humble Book Bundle)
 https://news.ycombinator.com/item?id=15986100 (Ask HN: How can I learn computer security?)
