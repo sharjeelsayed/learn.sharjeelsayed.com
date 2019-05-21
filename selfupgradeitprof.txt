@@ -479,6 +479,7 @@ Sources:
 https://github.com/dylanaraps/pure-bash-bible
 https://github.com/jlevy/the-art-of-command-line
 https://github.com/koalaman/shellcheck
+https://github.com/onceupon/Bash-Oneliner
 https://github.com/topics/bash?o=desc&s=stars
 https://news.ycombinator.com/item?id=14634964 (Ask HN: How can I get better at bash?)
 https://pinboard.in/u:sharjeelsayed/t:bash
