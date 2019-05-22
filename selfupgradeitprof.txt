@@ -1342,7 +1342,7 @@ Tech News Notifications (iOS/Android):
 Install the IFTTT Mobile app .Turn on the applet https://IFTTT.com/applets/456148p and add https://www.techmeme.com/feed.xml into the 'Feed URL' field of the applet.
 
 Subreddits to subscribe:
-https://www.reddit.com/r/AppleWatch+DataHoarder+Documentaries+IndiaInvestments+announcements+apple+compsci+cscareerquestions+electronic_cigarette+gadgets+hackernews+india+ipad+iphone+juul+learnprogramming+linux+linuxadmin+movies+mumbai+netsec+networking+onebag+programming+science+sysadmin+television+todayilearned+worldnews
+https://www.reddit.com/r/AppleWatch+DataHoarder+Documentaries+IndiaInvestments+announcements+apple+compsci+cscareerquestions+electronic_cigarette+gadgets+hackernews+india+ipad+iphone+juul+learnprogramming+linux+linuxadmin+movies+mumbai+netsec+networking+onebag+programming+science+solotravel+sysadmin+television+todayilearned+travel+vagabond+worldnews
 
 Podcasts:
 
