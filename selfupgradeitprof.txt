@@ -9,7 +9,7 @@ Contents:
 Computer Science:
 Programming Concepts
 Computer Architecture
-Alogrithms and Data Structures
+Algorithms and Data Structures
 Mathematics for Computer Science
 Operating Systems Concepts
 Networking
@@ -43,7 +43,7 @@ Puppet
 Python
 C
 Java
-Web Developement
+Web Development
 Tomcat
 Regex
 Git
@@ -248,7 +248,7 @@ http://www.lighterra.com/papers/modernmicroprocessors
 Computer Architecture, Fifth Edition: A Quantitative Approach (The Morgan Kaufmann Series in Computer Architecture and Design) 5th Edition
 https://www.amazon.com/Computer-Architecture-Fifth-Quantitative-Approach/dp/012383872X
 
-Alogrithms and Data Structures:
+Algorithms and Data Structures:
 
 Sources:
 https://github.com/karan/Projects
@@ -373,6 +373,7 @@ https://youtu.be/ZxAwQB8TZsM
 Database Concepts:
 
 Sources:
+https://github.com/binhnguyennus/awesome-scalability
 https://news.ycombinator.com/item?id=13417326 (Ask HN: What is the best online resource to learn advanced SQL?)
 https://pinboard.in/u:sharjeelsayed/t:db
 
@@ -1330,6 +1331,7 @@ https://news.ycombinator.com/item?id=17202615 (Ask HN: Which YouTube channels do
 https://news.ycombinator.com/item?id=17690852 (Ask HN: What are some niche communities you enjoy?)
 https://news.ycombinator.com/item?id=18217762 (Ask HN: What are some of the best technical talks you've heard?)
 https://news.ycombinator.com/item?id=18384680 (Ask HN: Other online communities like HN?)
+https://news.ycombinator.com/item?id=20023209 (Ask HN: What are your other favorite communities other than Hacker News?)
 https://news.ycombinator.com/item?id=9836023 (Ask HN: What tech blogs, podcasts do you follow outside of HN?)
 https://www.reddit.com/r/AskReddit/comments/9nggyv/what_is_a_great_youtube_channel_to_binge_watch
 https://www.taggernews.com
@@ -1449,6 +1451,7 @@ https://news.ycombinator.com/item?id=15105601 (Ask HN: What are your favourite s
 https://news.ycombinator.com/item?id=17272715 (Ask HN: Any resources to learn the fundamentals of critical thinking?)
 https://news.ycombinator.com/item?id=19242058 (Ask HN: What VPN service are you currently using?)
 https://news.ycombinator.com/item?id=19521136 (Ask HN: What backpack are you using?)
+https://news.ycombinator.com/item?id=20007108 (Ask HN: Do you keep a personal knowledge repository?)
 https://redditprofile.com (Find an Expert on Reddit)
 https://www.hackernewspapers.com
 https://www.nala.ie/resources/better-handwriting-adults
@@ -1460,6 +1463,7 @@ https://www.reddit.com/r/AskReddit/comments/6q2b8x/reddit_whats_become_clear_to_
 https://www.reddit.com/r/AskReddit/comments/70q5f2/reddit_what_are_the_most_useful_askreddit_posts
 https://www.reddit.com/r/AskReddit/comments/aa7zs9/what_youtube_channels_are_genuinely_worth_watching
 https://www.reddit.com/r/sysadmin/comments/4oxxgv/your_favorite_scripts_you_have_stolen_or_made
+
 https://cse.google.com/cse/publicurl?cx=013208504250323700475:mqurmsvnc8k (Google Custom Search Engine for Sharjeel's Bookmarks)
 https://github.com/sharjeelsayed?direction=desc&sort=stars&tab=stars
 https://news.ycombinator.com/user?id=sharjeelsayed
