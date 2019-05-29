@@ -1320,6 +1320,7 @@ News:
 Sources:
 https://dev.to
 https://github.com/greybax/awesome-IT-films/blob/master/documentary.md
+https://hn.algolia.com
 https://hn.algolia.com/?query=documentaries&sort=byPopularity&prefix&page=0&dateRange=all&type=story
 https://news.ycombinator.com/item?id=14086259 (Ask HN: Mailing lists that HN readers ought to know about?)
 https://news.ycombinator.com/item?id=14163905 (Ask HN: Which companies have the best blogs written by their engineering team?)
@@ -1334,6 +1335,7 @@ https://news.ycombinator.com/item?id=17690852 (Ask HN: What are some niche commu
 https://news.ycombinator.com/item?id=18384680 (Ask HN: Other online communities like HN?)
 https://news.ycombinator.com/item?id=20023209 (Ask HN: What are your other favorite communities other than Hacker News?)
 https://news.ycombinator.com/item?id=9836023 (Ask HN: What tech blogs, podcasts do you follow outside of HN?)
+https://www.hackernewspapers.com
 https://www.reddit.com/r/AskReddit/comments/9nggyv/what_is_a_great_youtube_channel_to_binge_watch
 https://www.reddit.com/r/AskReddit/comments/aa7zs9/what_youtube_channels_are_genuinely_worth_watching
 https://www.taggernews.com
@@ -1440,7 +1442,6 @@ https://www.backblaze.com/b2/cloud-storage.html
 Additional Sources :
 https://github.com/jnv/lists
 https://github.com/topics/awesome
-https://hn.algolia.com
 https://hnprofile.com (Find an Expert on Hacker News)
 https://learn-anything.xyz
 https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#-48.5,-680.3,0
@@ -1454,7 +1455,6 @@ https://news.ycombinator.com/item?id=19242058 (Ask HN: What VPN service are you 
 https://news.ycombinator.com/item?id=19521136 (Ask HN: What backpack are you using?)
 https://news.ycombinator.com/item?id=20007108 (Ask HN: Do you keep a personal knowledge repository?)
 https://redditprofile.com (Find an Expert on Reddit)
-https://www.hackernewspapers.com
 https://www.nala.ie/resources/better-handwriting-adults
 https://www.producthunt.com
 https://www.reddit.com/r/Addons4Kodi/comments/amly4o/requests_recommendations_basics_february_2019
