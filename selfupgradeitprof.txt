@@ -286,6 +286,7 @@ https://news.ycombinator.com/item?id=14581273 (Georgia Tech's free math textbook
 https://news.ycombinator.com/item?id=16392698 (How to Study Mathematics (2017) (uh.edu))
 https://news.ycombinator.com/item?id=16562173 (Ask HN: How to self-learn math?)
 https://news.ycombinator.com/item?id=19178593 (Classic Mathematics Books for Lifelong Learners )
+https://news.ycombinator.com/item?id=20048205 (Mathematics all-in-one cheat-sheet (2013) [pdf])
 https://www.reddit.com/r/learnprogramming/comments/70rh9q/is_there_a_cs50_for_math
 https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw (3Blue1Brown Channel)
 
@@ -563,6 +564,7 @@ Sources:
 https://docs.openstack.org
 https://github.com/int32bit/openstack-cheat-sheet
 https://github.com/openstack/training-labs
+https://github.com/topics/openstack?o=desc&s=stars
 https://github.com/topics/openstack?o=desc&s=stars
 https://linuxacademy.com/openstack/courses
 https://www.reddit.com/r/openstack/comments/92o38n/best_book_for_learning_openstack
@@ -1314,6 +1316,7 @@ https://www.masterclass.com
 https://www.udacity.com/courses/all
 https://www.sololearn.com
 https://www.omscs.gatech.edu (Georgia Tech Online Master of Science in Computer Science)
+https://www.real.discount (Discount coupons for Popular courses and MOOC Platforms)
 
 News:
 
