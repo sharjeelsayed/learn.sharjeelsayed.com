@@ -753,6 +753,7 @@ Sources:
 https://digitaldefynd.com/best-free-web-development-courses-tutorials-certification
 https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer
 https://github.com/thedaviddias/Front-End-Performance-Checklist
+https://www.reddit.com/r/learnprogramming/comments/bvlsf7/the_odin_project_vs_colt_steeles_web_dev_bootcamp
 https://www.reddit.com/r/webdev/comments/8lvsxa/is_colt_steele_web_dev_bootcamp_still_the_go_to
 
 freeCodeCamp 
@@ -871,6 +872,7 @@ Electronics:
 Sources:
 https://news.ycombinator.com/item?id=16775744 (Ask HN: How to self-learn electronics?)
 https://news.ycombinator.com/item?id=16920476 (Ask HN: Where did you learn modular electronics?)
+https://news.ycombinator.com/item?id=20126760 (Open Source Electronics Lab for $30 (github.com))
 https://www.reddit.com/r/AskElectronics/wiki
 
 The Art of Electronics 3rd Edition
@@ -1457,6 +1459,7 @@ https://news.ycombinator.com/item?id=17272715 (Ask HN: Any resources to learn th
 https://news.ycombinator.com/item?id=19242058 (Ask HN: What VPN service are you currently using?)
 https://news.ycombinator.com/item?id=19521136 (Ask HN: What backpack are you using?)
 https://news.ycombinator.com/item?id=20007108 (Ask HN: Do you keep a personal knowledge repository?)
+https://news.ycombinator.com/item?id=20110922 (How to Draw Animals (1930) (dessinoprimaire.blogspot.com))
 https://redditprofile.com (Find an Expert on Reddit)
 https://www.nala.ie/resources/better-handwriting-adults
 https://www.producthunt.com
