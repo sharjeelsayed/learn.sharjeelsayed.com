@@ -170,6 +170,7 @@ https://learnxinyminutes.com
 https://news.ycombinator.com/item?id=11465234 (Composing Programs – Python 3 in the tradition of SICP)
 https://news.ycombinator.com/item?id=12718102 (Programming books you might want to consider reading)
 https://news.ycombinator.com/item?id=13918465 (Beautiful Online SICP)
+https://news.ycombinator.com/item?id=14169760 (Resources on creating programming languages)
 https://news.ycombinator.com/item?id=14486657 (Ask HN: What language-agnostic programming books should I read?)
 https://news.ycombinator.com/item?id=14627137 (CS61A Structure and Interpretation of Computer Programs)
 https://news.ycombinator.com/item?id=14708350 (Ask HN: What habits make a programmer great?)
@@ -1377,9 +1378,6 @@ https://www.reddit.com/r/sysadmin/comments/au8ugd/what_are_your_preferred_tech_p
 Collection of awesome podcasts
 https://github.com/rShetty/awesome-podcasts
 
-PodcastRank
-https://podcastrank.co
-
 Ambient Music:
 
 Sources:
@@ -1456,7 +1454,6 @@ https://learn-anything.xyz
 https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#-48.5,-680.3,0
 https://news.ycombinator.com/item?id=12209446 (How to Read a Book [pdf])
 https://news.ycombinator.com/item?id=14087880 (Ask HN: What are some great “Free” services provided by IBM, Amazon, etc.?)
-https://news.ycombinator.com/item?id=14169760 (Resources on creating programming languages)
 https://news.ycombinator.com/item?id=14637859 (Ask HN: What's your process for learning?)
 https://news.ycombinator.com/item?id=15105601 (Ask HN: What are your favourite self hosted tools?)
 https://news.ycombinator.com/item?id=17272715 (Ask HN: Any resources to learn the fundamentals of critical thinking?)
