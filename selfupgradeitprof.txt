@@ -1356,6 +1356,9 @@ Install the IFTTT Mobile app .Turn on the applet https://IFTTT.com/applets/45614
 Subreddits to subscribe:
 https://www.reddit.com/r/AppleWatch+DataHoarder+Documentaries+IndiaInvestments+announcements+apple+compsci+cscareerquestions+electronic_cigarette+gadgets+hackernews+india+ipad+iphone+juul+learnprogramming+linux+linuxadmin+movies+mumbai+netsec+networking+onebag+programming+science+solotravel+sysadmin+television+todayilearned+travel+vagabond+worldnews
 
+Bookmarks:
+Import http://bookmarks.sharjeelsayed.com into your Browser or view live at https://pinboard.in/u:sharjeelsayed
+
 Podcasts:
 
 Sources:
