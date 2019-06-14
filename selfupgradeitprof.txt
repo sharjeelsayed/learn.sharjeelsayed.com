@@ -129,7 +129,6 @@ https://github.com/ossu/computer-science
 Structure and Interpretation of Computer Programs - 2nd Edition
 http://inst.eecs.berkeley.edu/~cs61a/fa16 (Instructor: John DeNero)
 http://inst.eecs.berkeley.edu/~cs61a/sp17
-http://paste.lisp.org/display/313070/raw
 http://sarabander.github.io/sicp
 http://www.composingprograms.com
 https://cs61a.org
@@ -1198,9 +1197,6 @@ https://www.coursera.org/learn/financial-markets-global
 The Intelligent Investor
 https://www.amazon.com/Intelligent-Investor-Definitive-Investing-Essentials/dp/0060555661
 
-Computational Investing, Part I
-https://www.coursera.org/learn/computational-investing
-
 Foreign Language:
 
 https://www.duolingo.com
@@ -1261,7 +1257,6 @@ https://www.reddit.com/r/AskReddit/comments/34m5n6/reddit_what_are_some_must_rea
 https://www.reddit.com/r/AskReddit/comments/8cl833/what_are_some_good_books_that_would_make_the
 https://www.reddit.com/r/AskReddit/comments/8gy4nd/what_are_some_cool_websites_where_you_can
 https://www.reddit.com/r/cscareerquestions/comments/6w4dej/what_books_should_every_software_engineer_read_to
-https://www.reddit.com/r/megalinks/comments/6vw6xe/meta_list_of_websites_which_provide_megalinks
 https://www.reddit.com/r/Piracy/comments/6ldvos/hard_to_find_ebooks
 https://www.reddit.com/r/Piracy/wiki/megathread
 https://pinboard.in/u:sharjeelsayed/t:course
@@ -1435,7 +1430,6 @@ https://syncthing.net
 https://szymonkrajewski.pl/synchronize-local-files-cryptomator-vault
 https://www.backblaze.com/b2/cloud-storage-pricing.html
 https://www.reddit.com/r/DataHoarder/comments/axvxwl/anything_cheaper_than_backblaze_b2
-https://www.resilio.com
 
 Restic
 https://restic.net
