@@ -1132,6 +1132,7 @@ https://news.ycombinator.com/item?id=18132736 (Ask HN: What did you learn the ha
 https://news.ycombinator.com/item?id=18179972 (How to Get Things Done When You Don't Feel Like It (acm.org))
 https://news.ycombinator.com/item?id=18588727 (Ask HN: What are your ?brain hacks? that help you manage every day situations?)
 https://news.ycombinator.com/item?id=19349676 (Ask HN: How to speak like a leader, not like an engineer?)
+https://news.ycombinator.com/item?id=20230133 (Ask HN: What are the signs that you have a great manager?)
 https://www.indiehackers.com
 https://www.reddit.com/r/cscareerquestions/comments/6fnujy/soft_skills_for_programmers
 
@@ -1441,7 +1442,9 @@ Backblaze B2 Cloud Storage
 https://www.backblaze.com/b2/cloud-storage.html
 
 Additional Sources :
+https://github.com/255kb/stack-on-a-budget
 https://github.com/jnv/lists
+https://github.com/ripienaar/free-for-dev
 https://github.com/topics/awesome
 https://hnprofile.com (Find an Expert on Hacker News)
 https://learn-anything.xyz
@@ -1455,6 +1458,7 @@ https://news.ycombinator.com/item?id=19242058 (Ask HN: What VPN service are you 
 https://news.ycombinator.com/item?id=19521136 (Ask HN: What backpack are you using?)
 https://news.ycombinator.com/item?id=20007108 (Ask HN: Do you keep a personal knowledge repository?)
 https://news.ycombinator.com/item?id=20110922 (How to Draw Animals (1930) (dessinoprimaire.blogspot.com))
+https://news.ycombinator.com/item?id=20225118 (Ask HN: Best free compute and other resources for startups?)
 https://redditprofile.com (Find an Expert on Reddit)
 https://www.nala.ie/resources/better-handwriting-adults
 https://www.producthunt.com
