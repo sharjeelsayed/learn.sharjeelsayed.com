@@ -429,6 +429,7 @@ Linux:
 Sources:
 http://stackoverflow.com/questions/236838/what-are-good-linuxunix-books-for-an-advancing-user
 https://github.com/0xAX/linux-insides
+https://github.com/luong-komorebi/Awesome-Linux-Software
 https://news.ycombinator.com/item?id=3257393 (What's the one Linux command you wish you knew years ago?)
 https://www.digitalocean.com/community/tutorials?primary_filter=popular
 https://www.reddit.com/r/linuxadmin/comments/2s924h/how_did_you_get_your_start/cnnw1ma
@@ -1024,6 +1025,9 @@ https://interviewing.io/recordings
 Resume Improvement:
 
 Sources:
+https://github.com/posquit0/Awesome-CV
+https://github.com/topics/cv?o=desc&s=stars
+https://github.com/topics/resume?o=desc&s=stars
 https://news.ycombinator.com/item?id=16479922 (Ask HN: Resumes that look good but professional too)
 https://news.ycombinator.com/item?id=17671490 (Building a Kickass Portfolio)
 https://www.reddit.com/r/sysadminresumes/top
