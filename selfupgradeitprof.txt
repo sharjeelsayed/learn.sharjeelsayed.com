@@ -90,6 +90,7 @@ https://github.com/mvillaloboz/open-source-cs-degree
 https://github.com/nushackers/notes-to-cs-freshmen-from-the-future
 https://github.com/open-source-society/computer-science
 https://github.com/prakhar1989/awesome-courses
+https://github.com/topics/computer-science?o=desc&s=stars
 https://learn-anything.xyz/computer-science
 https://medium.freecodecamp.org/640-free-online-programming-computer-science-courses-you-can-start-in-september-f0bd3a184625
 https://news.ycombinator.com/item?id=13014900 (Ask HN: What are the bibles of Computer Science?)
@@ -584,6 +585,8 @@ http://www.amazon.com/Data-Center-Fundamentals-Mauricio-Arregoces/dp/1587050234
 AWS:
 
 Sources:
+https://github.com/toniblyx/my-arsenal-of-aws-security-tools
+https://github.com/topics/aws?o=desc&s=stars
 https://www.reddit.com/r/sysadmin/comments/8inzn5/so_you_want_to_learn_aws_aka_how_do_i_learn_to_be
 
 Amazon Web Services — a practical guide
