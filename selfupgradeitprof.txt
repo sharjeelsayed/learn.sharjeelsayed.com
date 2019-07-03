@@ -169,6 +169,7 @@ https://insights.stackoverflow.com/survey/2018
 https://learnxinyminutes.com
 https://news.ycombinator.com/item?id=11465234 (Composing Programs – Python 3 in the tradition of SICP)
 https://news.ycombinator.com/item?id=12718102 (Programming books you might want to consider reading)
+https://news.ycombinator.com/item?id=13597949 (The most mentioned books on Stack Overflow)
 https://news.ycombinator.com/item?id=13918465 (Beautiful Online SICP)
 https://news.ycombinator.com/item?id=14169760 (Resources on creating programming languages)
 https://news.ycombinator.com/item?id=14486657 (Ask HN: What language-agnostic programming books should I read?)
@@ -182,6 +183,7 @@ https://news.ycombinator.com/item?id=15157651 (YouTube Programming Channels)
 https://news.ycombinator.com/item?id=15733745 (Ask HN: How do you read programming books?)
 https://news.ycombinator.com/item?id=15739877 (Stanford Compilers Course (stanford.edu)
 https://news.ycombinator.com/item?id=15826781 (Ask HN: What coding challenge sites should I try next?)
+https://news.ycombinator.com/item?id=15828935 (Reddit's favorite programming books, from 3.5B comments)
 https://news.ycombinator.com/item?id=16346319 (Ask HN: How would you relearn programming?)
 https://news.ycombinator.com/item?id=16535886 (Ask HN: Best way to learn modern C++?)
 https://news.ycombinator.com/item?id=16952222 (Competitive Programmer's Handbook (2017) [pdf] (cses.fi))
@@ -197,6 +199,7 @@ https://softwareengineeringdaily.com
 https://www.microsoft.com/en-us/research/blog/category/podcast
 https://www.reddit.com/r/compsci+cscareerquestions+learnprogramming+programming
 https://www.reddit.com/r/cscareerquestions/comments/6hmlxr/what_are_the_most_indemand_software_skills_right/dizqiie
+https://www.reddit.com/r/cscareerquestions/comments/6w4dej/what_books_should_every_software_engineer_read_to
 https://www.reddit.com/r/learnprogramming/comments/6l5u8s/what_one_thing_improved_your_skills_the_most
 https://www.reddit.com/r/learnprogramming/comments/6lvvqq/audiobooks_on_programming
 https://www.reddit.com/r/learnprogramming/comments/75qwen/im_34_and_i_got_my_first_programming_job_after
@@ -1239,13 +1242,11 @@ https://github.com/aaronthecodpro/Reddit-Privacy-Megathread
 https://github.com/Igglybuff/awesome-piracy
 https://hackernewsbooks.com
 https://hn.algolia.com/?query=books&sort=byPopularity&prefix&page=0&dateRange=all&type=story
-https://news.ycombinator.com/item?id=13597949 (The most mentioned books on Stack Overflow)
 https://news.ycombinator.com/item?id=13803787 (Ask HN: What books fundamentally changed the way you think about the world?)
 https://news.ycombinator.com/item?id=14477851 (Ask HN: Books you wish you had read earlier?)
 https://news.ycombinator.com/item?id=15155833 (Ask HN: What books have made the biggest impact on your mental models?)
 https://news.ycombinator.com/item?id=15629762 (Ask HN: What are your favorite books of all time, and why?)
 https://news.ycombinator.com/item?id=15761599 (Ask HN: Books on specific topics that have applied to many areas of your life?)
-https://news.ycombinator.com/item?id=15828935 (Reddit's favorite programming books, from 3.5B comments)
 https://news.ycombinator.com/item?id=16241500 (Ask HN: What books have most influenced the way you see the world?)
 https://news.ycombinator.com/item?id=16296200 (Ask HN: Which books do you wish you'd read earlier in life?)
 https://news.ycombinator.com/item?id=16351310 (Ask HN: What are the books you wish your colleagues had read?)
@@ -1265,7 +1266,7 @@ https://www.amazon.com/charts
 https://www.reddit.com/r/AskReddit/comments/34m5n6/reddit_what_are_some_must_read_books
 https://www.reddit.com/r/AskReddit/comments/8cl833/what_are_some_good_books_that_would_make_the
 https://www.reddit.com/r/AskReddit/comments/8gy4nd/what_are_some_cool_websites_where_you_can
-https://www.reddit.com/r/cscareerquestions/comments/6w4dej/what_books_should_every_software_engineer_read_to
+https://news.ycombinator.com/item?id=20332455 (Ask HN: Recommend one book I need to read this summer?)
 https://www.reddit.com/r/Piracy/comments/6ldvos/hard_to_find_ebooks
 https://www.reddit.com/r/Piracy/wiki/megathread
 https://pinboard.in/u:sharjeelsayed/t:course
@@ -1295,10 +1296,14 @@ https://cse.google.com/cse/publicurl?cx=001639227550064093264:dznewka3cca (Googl
 MOOC:
 
 Sources:
+http://academictorrents.com
 http://lifehacker.com/tag/lifehacker-u
+http://www.openculture.com/freeonlinecourses#Computer Science Courses
+https://archive.org/search.php?query=subject%3A%22UC+Berkeley%22
 https://blog.github.com/2018-03-20-top-10-courses-on-github
 https://github.com/learn-awesome/learn-awesome
 https://github.com/sindresorhus/awesome
+https://hackr.io
 https://news.ycombinator.com/item?id=10644518 (Ask HN: What's your favorite online course?)
 https://news.ycombinator.com/item?id=12702651 (Ask HN: What is your favorite YouTube channel for developers?)
 https://news.ycombinator.com/item?id=13867016 (Ask HN: Which Berkeley Courses Should I Archive?)
@@ -1308,23 +1313,18 @@ https://news.ycombinator.com/item?id=16745042 (Ask HN: What are the best MOOCs y
 https://news.ycombinator.com/item?id=17616937 (Ask HN: Any good examples of learning through games/puzzles, for adults?)
 https://news.ycombinator.com/item?id=17999659 (Ask HN: Favorite teachers on YouTube?)
 https://www.class-central.com/collection/top-free-online-courses?utm_source=top-50-course-page
-https://www.classcentral.com/starting-this-month
-https://www.reddit.com/r/sysadmin/comments/65wdum/whats_your_favorite_selfstudy_resource_paid_free
-
-http://academictorrents.com
-http://www.openculture.com/freeonlinecourses#Computer Science Courses
-https://archive.org/search.php?query=subject%3A%22UC+Berkeley%22
-https://hackr.io
 https://www.class-central.com/subject/cs
+https://www.classcentral.com/starting-this-month
 https://www.coursebuffet.com/sub/computer-science
 https://www.coursera.org/browse/computer-science
 https://www.cybrary.it
 https://www.edx.org/course/subject/computer-science
 https://www.masterclass.com
-https://www.udacity.com/courses/all
-https://www.sololearn.com
 https://www.omscs.gatech.edu (Georgia Tech Online Master of Science in Computer Science)
 https://www.real.discount (Discount coupons for Popular courses and MOOC Platforms)
+https://www.reddit.com/r/sysadmin/comments/65wdum/whats_your_favorite_selfstudy_resource_paid_free
+https://www.sololearn.com
+https://www.udacity.com/courses/all
 
 News:
 
