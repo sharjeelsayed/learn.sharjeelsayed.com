@@ -782,6 +782,9 @@ Regex:
 Regular Expressions Cookbook: Detailed Solutions in Eight Programming Languages 2nd Edition
 https://www.amazon.com/Regular-Expressions-Cookbook-Solutions-Programming/dp/1449319432
 
+Learn regex the easy way
+https://github.com/ziishaned/learn-regex
+
 Git:
 
 Sources:
