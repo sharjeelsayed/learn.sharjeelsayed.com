@@ -1237,7 +1237,6 @@ http://ramiro.org/vis/hn-most-linked-books-unique-users
 http://reddittopbooks.com/tech
 http://www.bookadvice.co
 http://www.dev-books.com (The most mentioned books on Stack Overflow)
-http://www.hnreads.com
 http://www.openculture.com/free_textbooks
 https://bookinsider.gitlab.io
 https://docs.google.com/spreadsheets/d/e/2PACX-1vQDca1iI1GgcMwBl65XRvJaAnZOv6sCjmAamy_7cioVMV4U_VnBksgZrIKTe5P4aneEXtion1ZA7iPe/pubhtml (Pinker Book Recommendations)
@@ -1473,6 +1472,7 @@ https://news.ycombinator.com/item?id=20007108 (Ask HN: Do you keep a personal kn
 https://news.ycombinator.com/item?id=20110922 (How to Draw Animals (1930) (dessinoprimaire.blogspot.com))
 https://news.ycombinator.com/item?id=20146168 (Sleep tweaks boost night owls' wellbeing (bbc.com))
 https://news.ycombinator.com/item?id=20225118 (Ask HN: Best free compute and other resources for startups?)
+https://news.ycombinator.com/item?id=20371095 (Ask HN: Best Office Chair for Remote (Home Office) Work)
 https://redditprofile.com (Find an Expert on Reddit)
 https://www.nala.ie/resources/better-handwriting-adults
 https://www.producthunt.com
