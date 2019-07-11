@@ -922,6 +922,8 @@ Design:
 
 Sources:
 https://github.com/LisaDziuba/Awesome-Design-Tools
+https://github.com/topics/design?o=desc&s=stars
+https://github.com/topics/frontend?o=desc&s=stars
 https://news.ycombinator.com/item?id=15328992 (Ask HN: Learn Modern web design and CSS)
 
 The Design of Everyday Things
