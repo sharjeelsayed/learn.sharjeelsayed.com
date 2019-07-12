@@ -168,6 +168,7 @@ https://github.com/tuvtran/project-based-learning
 https://insights.stackoverflow.com/survey/2018
 https://learnxinyminutes.com
 https://news.ycombinator.com/item?id=11465234 (Composing Programs – Python 3 in the tradition of SICP)
+https://news.ycombinator.com/item?id=12702651 (Ask HN: What is your favorite YouTube channel for developers?)
 https://news.ycombinator.com/item?id=12718102 (Programming books you might want to consider reading)
 https://news.ycombinator.com/item?id=13597949 (The most mentioned books on Stack Overflow)
 https://news.ycombinator.com/item?id=13918465 (Beautiful Online SICP)
@@ -1309,13 +1310,14 @@ https://github.com/learn-awesome/learn-awesome
 https://github.com/sindresorhus/awesome
 https://hackr.io
 https://news.ycombinator.com/item?id=10644518 (Ask HN: What's your favorite online course?)
-https://news.ycombinator.com/item?id=12702651 (Ask HN: What is your favorite YouTube channel for developers?)
 https://news.ycombinator.com/item?id=13867016 (Ask HN: Which Berkeley Courses Should I Archive?)
 https://news.ycombinator.com/item?id=14570002 (Startup School 2017 Presentations (startupschool.org))
 https://news.ycombinator.com/item?id=14770521 (Ask HN: Any “bootcamps” or courses for intermediate/advanced people?)
 https://news.ycombinator.com/item?id=16745042 (Ask HN: What are the best MOOCs you've taken?)
 https://news.ycombinator.com/item?id=17616937 (Ask HN: Any good examples of learning through games/puzzles, for adults?)
 https://news.ycombinator.com/item?id=17999659 (Ask HN: Favorite teachers on YouTube?)
+https://news.ycombinator.com/item?id=18566638 (Ask HN: What is the best online course you've ever taken?)
+https://news.ycombinator.com/item?id=20385679 (Ask HN: What are your favorite YouTube channels to learn stuff?)
 https://www.class-central.com/collection/top-free-online-courses?utm_source=top-50-course-page
 https://www.class-central.com/subject/cs
 https://www.classcentral.com/starting-this-month
