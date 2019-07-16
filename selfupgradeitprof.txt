@@ -481,7 +481,8 @@ https://www.freebsd.org/doc/en_US.ISO8859-1/books/handbook
 The Design and Implementation of the FreeBSD Operating System (2nd Edition)
 https://www.amazon.com/Design-Implementation-FreeBSD-Operating-System/dp/0321968972
 
-Bash:
+
+:
 
 Sources:
 https://github.com/dylanaraps/pure-bash-bible
@@ -491,6 +492,7 @@ https://github.com/onceupon/Bash-Oneliner
 https://github.com/topics/bash?o=desc&s=stars
 https://news.ycombinator.com/item?id=14634964 (Ask HN: How can I get better at bash?)
 https://pinboard.in/u:sharjeelsayed/t:bash
+https://github.com/Bash-it/bash-it
 
 ABS Guide
 http://tldp.org/LDP/abs/html
