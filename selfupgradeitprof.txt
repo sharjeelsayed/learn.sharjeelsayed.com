@@ -589,8 +589,11 @@ http://www.amazon.com/Data-Center-Fundamentals-Mauricio-Arregoces/dp/1587050234
 AWS:
 
 Sources:
+https://acloud.guru/courses?vendors=aws
+https://github.com/donnemartin/awesome-aws
 https://github.com/toniblyx/my-arsenal-of-aws-security-tools
 https://github.com/topics/aws?o=desc&s=stars
+https://linuxacademy.com/amazon-web-services/courses
 https://www.reddit.com/r/sysadmin/comments/8inzn5/so_you_want_to_learn_aws_aka_how_do_i_learn_to_be
 
 Amazon Web Services — a practical guide
