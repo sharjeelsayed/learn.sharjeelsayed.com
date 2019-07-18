@@ -415,7 +415,10 @@ https://github.com/kahun/awesome-sysadmin
 https://github.com/Kickball/awesome-selfhosted
 https://github.com/Leo-G/DevopsWiki
 https://github.com/n1trux/awesome-sysadmin
+https://github.com/theanalyst/awesome-distributed-systems
+https://github.com/topics/architecture?o=desc&s=stars
 https://github.com/topics/devops?o=desc&s=stars
+https://github.com/topics/sre?o=desc&s=stars
 https://github.com/topics/sysadmin?o=desc&s=stars
 https://github.com/trimstray/the-book-of-secret-knowledge
 https://learn-anything.xyz/programming/software-development/devops
@@ -956,6 +959,7 @@ Interview Guides:
 
 Sources:
 http://blog.interviewing.io/what-really-matters-in-technical-interviews-we-analyzed-thousands-of-interviews-on-everything-from-language-to-code-style-heres-what-we-found
+https://github.com/mxssl/sre-interview-prep-guide
 https://github.com/topics/interview?o=desc&s=stars
 https://hn.algolia.com/?query=interview&sort=byPopularity&prefix&page=0&dateRange=all&type=story
 https://news.ycombinator.com/item?id=11246917 (How to Pass a Programming Interview)
