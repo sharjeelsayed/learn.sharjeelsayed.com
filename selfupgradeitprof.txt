@@ -508,10 +508,12 @@ Windows:
 
 Sources:
 https://github.com/Awesome-Windows/Awesome
+https://github.com/topics/windows-10?o=desc&s=stars
+https://github.com/W4RH4WK/Debloat-Windows-10
+https://pinboard.in/u:sharjeelsayed/t:windows
 https://www.reddit.com/r/sysadmin/comments/3z7qd9/practice_to_become_a_windows_sysadmin/cyjynxh
 https://www.reddit.com/r/sysadmin/wiki/ms/resources
 vhttps://news.ycombinator.com/item?id=19698620 (Ask HN: How do you secure your Windows PC?)
-https://pinboard.in/u:sharjeelsayed/t:windows
 
 
 Windows Server 2016 - TechNet - Microsoft
