@@ -539,14 +539,19 @@ https://www.amazon.com/Data-Storage-Networking-CompTIA-Certification/dp/11186792
 
 Docker:
 
+Sources:
+https://github.com/topics/docker?o=desc&s=stars
+https://github.com/veggiemonk/awesome-docker
+https://github.com/wsargent/docker-cheat-sheet
+
+Docker for Beginners
+https://prakhar.me/docker-curriculum
+
 Play with Docker Classroom
 https://training.play-with-docker.com
 
 Docker Documentation
 https://docs.docker.com
-
-Docker for Beginners
-https://prakhar.me/docker-curriculum
 
 Docker and Kubernetes: The Complete Guide by Stephen Grider
 https://www.udemy.com/docker-and-kubernetes-the-complete-guide
@@ -554,6 +559,7 @@ https://www.udemy.com/docker-and-kubernetes-the-complete-guide
 Kubernetes:
 
 Sources:
+https://github.com/ramitsurana/awesome-kubernetes
 https://kubernetes.io/docs/home
 
 An Introduction to Kubernetes
