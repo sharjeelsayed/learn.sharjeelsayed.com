@@ -786,6 +786,9 @@ https://github.com/thedaviddias/Front-End-Performance-Checklist
 https://www.reddit.com/r/learnprogramming/comments/bvlsf7/the_odin_project_vs_colt_steeles_web_dev_bootcamp
 https://www.reddit.com/r/webdev/comments/8lvsxa/is_colt_steele_web_dev_bootcamp_still_the_go_to
 
+html & css is hard :A friendly web development tutorial for complete beginners
+https://internetingishard.com/html-and-css
+
 freeCodeCamp 
 https://www.freecodecamp.com
 
