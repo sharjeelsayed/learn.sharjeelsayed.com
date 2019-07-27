@@ -514,17 +514,17 @@ https://github.com/W4RH4WK/Debloat-Windows-10
 https://pinboard.in/u:sharjeelsayed/t:windows
 https://www.reddit.com/r/sysadmin/comments/3z7qd9/practice_to_become_a_windows_sysadmin/cyjynxh
 https://www.reddit.com/r/sysadmin/wiki/ms/resources
-vhttps://news.ycombinator.com/item?id=19698620 (Ask HN: How do you secure your Windows PC?)
+https://news.ycombinator.com/item?id=19698620 (Ask HN: How do you secure your Windows PC?)
 
-
-Windows Server 2016 - TechNet - Microsoft
-https://docs.microsoft.com/en-us/windows-server/windows-server-2016
+Windows Server documentation - Microsoft
+https://docs.microsoft.com/en-us/windows-server
 
 Windows Server Courses from Microsoft Virtual Academy
 https://mva.microsoft.com/LearningPaths.aspx
 
 Windows Internals, Part 1: System architecture, processes, threads, memory management, and more (7th Edition)
 https://www.amazon.com/Windows-Internals-Part-architecture-management/dp/0735684189
+https://docs.microsoft.com/en-us/sysinternals/learn/windows-internals
 
 Powershell:
 
