@@ -611,6 +611,7 @@ https://github.com/open-guides/og-aws
 
 Amazon Web Services in Action 2nd Edition
 https://www.amazon.com/Amazon-Services-Action-Andreas-Wittig/dp/1617295116
+https://www.manning.com/books/amazon-web-services-in-action-second-edition
 
 A Cloud Guru Courses: Amazon Web Services
 https://acloud.guru/courses/amazon-web-services
