@@ -764,6 +764,8 @@ https://www.amazon.com/C-Programming-Modern-Approach-2nd/dp/0393979504
 Java:
 
 Sources:
+https://github.com/akullpp/awesome-java
+https://github.com/topics/java?o=desc&s=stars
 https://www.reddit.com/r/learnprogramming/wiki/online#wiki_java
 
 Object-Oriented programming with Java
@@ -815,6 +817,7 @@ https://github.com/ziishaned/learn-regex
 Git:
 
 Sources:
+https://github.com/topics/git?o=desc&s=stars
 https://news.ycombinator.com/item?id=18919599 (How to teach Git (rachelcarmena.github.io))
 
 Pro Git
