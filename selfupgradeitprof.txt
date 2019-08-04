@@ -829,11 +829,17 @@ http://www.amazon.com/Tomcat-Definitive-Guide-Jason-Brittain/dp/0596101066
 
 Regex:
 
+Sources:
+https://news.ycombinator.com/item?id=20608032 (Regex for Noobs – An Illustrated Guide (janmeppe.com))
+
 Regular Expressions Cookbook: Detailed Solutions in Eight Programming Languages 2nd Edition
 https://www.amazon.com/Regular-Expressions-Cookbook-Solutions-Programming/dp/1449319432
 
 Learn regex the easy way
 https://github.com/ziishaned/learn-regex
+
+Online regex tester and debugger
+https://regex101.com
 
 Git:
 
