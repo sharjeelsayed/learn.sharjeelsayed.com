@@ -18,6 +18,7 @@ Database Concepts
 DevOps/SRE/SysAdmin:
 Linux
 Bash
+macOS
 Windows
 Powershell
 Storage
@@ -506,6 +507,21 @@ http://www.commandlinefu.com/commands/browse/sort-by-votes
 
 HackerRank Bash Challenges
 https://www.hackerrank.com/domains/shell/bash
+
+macOS
+
+Sources:
+https://brew.sh
+https://github.com/donnemartin/dev-setup
+https://github.com/drduh/macOS-Security-and-Privacy-Guide
+https://github.com/herrbischoff/awesome-macos-command-line
+https://github.com/iCHAIT/awesome-macOS
+https://github.com/jaywcjlove/awesome-mac
+https://github.com/lra/mackup
+https://github.com/mathiasbynens/dotfiles
+https://github.com/newmarcel/KeepingYouAwake
+https://github.com/nikitavoloboev/my-mac-os
+https://github.com/topics/macos?o=desc&s=stars
 
 Windows:
 
