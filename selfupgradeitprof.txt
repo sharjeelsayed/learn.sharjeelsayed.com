@@ -832,6 +832,9 @@ https://github.com/sindresorhus/awesome-nodejs
 Node.js Tutorial for Beginners: Learn Node in 1 Hour | Mosh
 https://youtu.be/TlB_eWDSMt4
 
+Node JS Tutorial for Beginners
+https://www.youtube.com/playlist?list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp
+
 Tomcat:
 
 Tomcat: The Definitive Guide
