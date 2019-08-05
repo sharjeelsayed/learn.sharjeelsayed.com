@@ -198,6 +198,7 @@ https://news.ycombinator.com/item?id=17965917 (Ask HN: What's a starting point f
 https://news.ycombinator.com/item?id=18046722 (What are some things that only someone who has been programming 20 years knows? (quora.com))
 https://news.ycombinator.com/item?id=18128477 (Ask HN: What is your best advice for a junior software developer?)
 https://news.ycombinator.com/item?id=18422000 (Ask HN: Where to find someone to review my code?)
+https://news.ycombinator.com/item?id=18961793 (Ask HN: What are must-know concepts for back end development?)
 https://news.ycombinator.com/item?id=20556336 (Ask HN: What are the “best” codebases that you've encountered?)
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/index.htm
 https://softwareengineeringdaily.com
