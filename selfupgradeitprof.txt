@@ -45,6 +45,7 @@ Python
 C
 Java
 Web Development
+Node.js
 Tomcat
 Regex
 Git
@@ -508,7 +509,7 @@ http://www.commandlinefu.com/commands/browse/sort-by-votes
 HackerRank Bash Challenges
 https://www.hackerrank.com/domains/shell/bash
 
-macOS
+macOS:
 
 Sources:
 https://brew.sh
@@ -633,6 +634,7 @@ https://github.com/open-guides/og-aws
 Amazon Web Services in Action 2nd Edition
 https://www.amazon.com/Amazon-Services-Action-Andreas-Wittig/dp/1617295116
 https://www.manning.com/books/amazon-web-services-in-action-second-edition
+https://github.com/AWSinAction
 
 A Cloud Guru Courses: Amazon Web Services
 https://acloud.guru/courses/amazon-web-services
@@ -821,6 +823,14 @@ https://www.udemy.com/the-web-developer-bootcamp
 
 CS50's Web Programming with Python and JavaScript
 https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript-web
+
+Node.js:
+
+Sources:
+https://github.com/sindresorhus/awesome-nodejs
+
+Node.js Tutorial for Beginners: Learn Node in 1 Hour | Mosh
+https://youtu.be/TlB_eWDSMt4
 
 Tomcat:
 
