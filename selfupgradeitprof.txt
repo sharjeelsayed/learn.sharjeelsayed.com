@@ -1010,6 +1010,7 @@ https://blog.floydhub.com/best-deep-learning-courses-updated-for-2019
 https://news.ycombinator.com/item?id=12713056 (Ask HN: How to get started with machine learning?)
 https://news.ycombinator.com/item?id=16493489 (Machine Learning Crash Course)
 https://news.ycombinator.com/item?id=18321665 (Foundations of ML and AI: Book recommendations (dragan.rocks))
+https://news.ycombinator.com/item?id=20674745 (Ask HN: What Neural Networks/Deep Learning Books Should I Read?)
 
 Machine Learning by Andrew Ng
 https://www.coursera.org/learn/machine-learning
