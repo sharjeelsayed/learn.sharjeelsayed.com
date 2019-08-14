@@ -1539,10 +1539,12 @@ https://www.backblaze.com/b2/cloud-storage.html
 
 Additional Sources :
 https://en.wikipedia.org/wiki/Wikipedia:Vital_articles
+https://freenode.net
 https://github.com/255kb/stack-on-a-budget
 https://github.com/jnv/lists
 https://github.com/ripienaar/free-for-dev
 https://github.com/topics/awesome
+https://hackerspaces.org
 https://hnprofile.com (Find an Expert on Hacker News)
 https://learn-anything.xyz
 https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#-48.5,-680.3,0
