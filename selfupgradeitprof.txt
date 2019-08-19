@@ -107,6 +107,7 @@ https://news.ycombinator.com/item?id=15899383 (	Ask HN: Fully online CS degrees?
 https://news.ycombinator.com/item?id=16591918 (Ask HN: “Write your own” or “Build your own” software projects)
 https://news.ycombinator.com/item?id=17031609 (Ask HN: Books you should have read when you start a career in SE / CS?)
 https://news.ycombinator.com/item?id=18890417 (If not SICP, then what? Maybe HTDP?)
+https://news.ycombinator.com/item?id=20729252 (Ask HN: What book to read to get a footing in CS theory?)
 https://news.ycombinator.com/item?id=5019373 (How Harvard's CS50 Renewed My Hope For Online Education)
 https://ocw.mit.edu/courses/find-by-topic/#cat=engineering&subcat=computerscience
 https://spin.atomicobject.com/2015/05/15/obtaining-thorough-cs-background-online
@@ -286,6 +287,9 @@ Additional Material:
 
 Introduction to Algorithms, 3rd Edition
 https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844
+
+Algorithms by Jeff Erickson
+http://jeffe.cs.illinois.edu/teaching/algorithms
 
 Mathematics for Computer Science:
 
@@ -1400,6 +1404,7 @@ https://www.coursebuffet.com/sub/computer-science
 https://www.coursera.org/browse/computer-science
 https://www.cybrary.it
 https://www.edx.org/course/subject/computer-science
+https://www.freecodecamp.org/news/free-programming-courses-august-2019
 https://www.masterclass.com
 https://www.omscs.gatech.edu (Georgia Tech Online Master of Science in Computer Science)
 https://www.real.discount (Discount coupons for Popular courses and MOOC Platforms)
