@@ -1481,6 +1481,7 @@ https://github.com/rShetty/awesome-podcasts
 Ambient Music:
 
 Sources:
+https://lifehacker.com/the-ultimate-list-of-work-and-study-music-1836284255
 https://news.ycombinator.com/item?id=11146712 (AI generated music to improve focus, relaxation and sleep (brain.fm))
 https://news.ycombinator.com/item?id=12844434 (Music for Programming (musicforprogramming.net))
 https://news.ycombinator.com/item?id=17118269 (Ask HN: What, if anything, do you listen to while coding?)
