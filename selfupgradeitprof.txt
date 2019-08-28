@@ -323,6 +323,7 @@ Sources:
 https://news.ycombinator.com/item?id=10182727 (Operating Systems: Three Easy Pieces (wisc.edu))
 https://news.ycombinator.com/item?id=18023062 (How to create an OS from scratch – tutorial (github.com))
 https://news.ycombinator.com/item?id=18448942 (A book list for OS kernel developers and device driver writers (2006) (jdebp.eu))
+https://news.ycombinator.com/item?id=20809666 (Ask HN: Recommended resources to learn the Linux kernel and OS theory?)
 
 Operating Systems: Three Easy Pieces
 http://pages.cs.wisc.edu/~remzi/OSTEP
@@ -1574,7 +1575,7 @@ https://news.ycombinator.com/item?id=20371095 (Ask HN: Best Office Chair for Rem
 https://redditprofile.com (Find an Expert on Reddit)
 https://www.nala.ie/resources/better-handwriting-adults
 https://www.producthunt.com
-https://www.reddit.com/r/Addons4Kodi/comments/c9c5om/recommended_addons_july_2019
+https://www.reddit.com/r/Addons4Kodi/comments/cmzrgq/recommended_addons_august_2019
 https://www.reddit.com/r/AskReddit/comments/4q91g9/what_free_things_online_should_everyone_take/d4r8foy
 https://www.reddit.com/r/AskReddit/comments/6k0p7l/what_are_the_best_free_online_certificates_you
 https://www.reddit.com/r/AskReddit/comments/6q2b8x/reddit_whats_become_clear_to_you_as_youve_gotten
