@@ -451,6 +451,7 @@ https://github.com/luong-komorebi/Awesome-Linux-Software
 https://github.com/topics/linux?o=desc&s=stars
 https://news.ycombinator.com/item?id=3257393 (What's the one Linux command you wish you knew years ago?)
 https://www.digitalocean.com/community/tutorials?primary_filter=popular
+https://www.reddit.com/r/linux4noobs/wiki/resources
 https://www.reddit.com/r/linuxadmin/comments/2s924h/how_did_you_get_your_start/cnnw1ma
 https://www.reddit.com/r/linuxadmin/comments/7cw116/favorite_posts_youve_bookmarked_or_saved
 
