@@ -1349,6 +1349,8 @@ https://news.ycombinator.com/item?id=17980964 (Ask HN: What was the one book tha
 https://news.ycombinator.com/item?id=18104814 (Ask HN: What are the best textbooks in your field of expertise?)
 https://news.ycombinator.com/item?id=18469649 (Ask HN: Older textbooks/papers you consider classics still worth studying today?)
 https://news.ycombinator.com/item?id=19087418 (Ask HN: What books changed the way you think about almost everything?)
+https://news.ycombinator.com/item?id=20332455 (Ask HN: Recommend one book I need to read this summer?)
+https://news.ycombinator.com/item?id=20847508 (Ask HN: How Do You Read?)
 https://opentrackers.org/downloading-ebooks-textbooks
 https://redditfavorites.com/books
 https://torrentfreak.com/top-10-most-popular-torrent-sites-of-2019
@@ -1356,7 +1358,6 @@ https://www.amazon.com/charts
 https://www.reddit.com/r/AskReddit/comments/34m5n6/reddit_what_are_some_must_read_books
 https://www.reddit.com/r/AskReddit/comments/8cl833/what_are_some_good_books_that_would_make_the
 https://www.reddit.com/r/AskReddit/comments/8gy4nd/what_are_some_cool_websites_where_you_can
-https://news.ycombinator.com/item?id=20332455 (Ask HN: Recommend one book I need to read this summer?)
 https://www.reddit.com/r/Piracy/wiki/megathread
 https://pinboard.in/u:sharjeelsayed/t:course
 https://pinboard.in/u:sharjeelsayed/t:ebooks
@@ -1504,11 +1505,14 @@ https://open.spotify.com/view/focus-page
 
 Headphones:
 
+/r/headphones
+https://sites.google.com/view/headphoneadvice/wireless-bluetooth/category-300
+
 The Best Noise-Cancelling Headphones
 http://thewirecutter.com/reviews/best-noise-cancelling-headphones
 
-Amazon Best Sellers in Audio Headphones
-https://www.amazon.com/gp/bestsellers/electronics/172541
+Amazon Best Sellers in Over-Ear Headphones
+https://www.amazon.com/Best-Sellers-Electronics-Over-Ear-Headphones/zgbs/electronics/12097479011
 
 Ear Plugs:
 
