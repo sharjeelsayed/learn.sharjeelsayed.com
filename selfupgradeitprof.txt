@@ -1466,6 +1466,7 @@ https://twitter.com/SharjeelSayed
 Podcasts:
 
 Sources:
+https://hn.algolia.com/?query=podcast&sort=byPopularity&prefix&page=0&dateRange=all&type=story
 https://news.ycombinator.com/item?id=13574916 (Ask HN: What are some 'must watch' talks?)
 https://news.ycombinator.com/item?id=13747563 (Ask HN: What are your favorite tech podcasts?)
 https://news.ycombinator.com/item?id=14529759 (Ask HN: What podcasts are you listening to?)
@@ -1476,10 +1477,14 @@ https://news.ycombinator.com/item?id=18073169 (Ask HN: What podcasts do you list
 https://news.ycombinator.com/item?id=18217762 (Ask HN: What are some of the best technical talks you've heard?)
 https://news.ycombinator.com/item?id=19095780 (Ask HN: What podcast has been most influential on your life?)
 https://news.ycombinator.com/item?id=9207360 (Ask HN: Favorite podcasts?)
+https://www.reddit.com/r/podcasts/comments/75ilo5/ive_spent_three_years_listening_to_podcasts
 https://www.reddit.com/r/sysadmin/comments/au8ugd/what_are_your_preferred_tech_podcasts_as_a
 
 Collection of awesome podcasts
 https://github.com/rShetty/awesome-podcasts
+
+Netflix for Podcasts!
+https://podflix.app
 
 Ambient Music:
 
