@@ -1456,7 +1456,7 @@ Tech News Notifications (iOS/Android):
 Install the IFTTT Mobile app .Turn on the applet https://IFTTT.com/applets/456148p and add https://www.techmeme.com/feed.xml into the 'Feed URL' field of the applet.
 
 Subreddits to subscribe:
-https://www.reddit.com/r/AppleWatch+CryptoCurrency+DataHoarder+Documentaries+IndiaInvestments+Vaping+announcements+apple+compsci+cscareerquestions+electronic_cigarette+gadgets+hackernews+india+ipad+iphone+juul+learnprogramming+linux+linuxadmin+movies+mumbai+netsec+networking+onebag+programming+science+solotravel+sysadmin+television+todayilearned+travel+vagabond+worldnews
+https://www.reddit.com/r/AppleWatch+CryptoCurrency+DataHoarder+Documentaries+IndiaInvestments+Vaping+announcements+apple+compsci+cscareerquestions+devops+electronic_cigarette+gadgets+hackernews+india+ipad+iphone+juul+learnprogramming+linux+linuxadmin+movies+mumbai+netsec+networking+onebag+programming+science+solotravel+sysadmin+television+todayilearned+travel+vagabond+worldnews
 
 Bookmarks:
 Import http://Bookmarks.SharjeelSayed.com into your Browser or view live at https://pinboard.in/u:SharjeelSayed
@@ -1507,6 +1507,7 @@ Headphones:
 
 Sources:
 https://www.audiocheck.net/soundtests_headphones.php
+https://www.reddit.com/r/headphones/comments/9u2s09/what_tracks_do_you_play_to_test_the_full_range_of
 https://www.reddit.com/r/LifeProTips/comments/6hljyv/lpt_if_you_are_buying_headphonesspeakers_test
 
 Amazon Best Sellers in Over-Ear Headphones
