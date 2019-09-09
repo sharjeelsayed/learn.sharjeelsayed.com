@@ -1036,6 +1036,7 @@ http://blog.interviewing.io/what-really-matters-in-technical-interviews-we-analy
 https://github.com/mxssl/sre-interview-prep-guide
 https://github.com/topics/interview-questions?o=desc&s=stars
 https://github.com/topics/interview?o=desc&s=stars
+https://github.com/viraptor/reverse-interview
 https://hn.algolia.com/?query=interview&sort=byPopularity&prefix&page=0&dateRange=all&type=story
 https://news.ycombinator.com/item?id=11246917 (How to Pass a Programming Interview)
 https://news.ycombinator.com/item?id=14037313 (Questions to ask at the end of a technical interview)
@@ -1046,6 +1047,7 @@ https://news.ycombinator.com/item?id=15804795 (How to solve a hard programming i
 https://news.ycombinator.com/item?id=16126132 (Ask HN: How do I prepare for an interview for AMZ/GOOG/APL/FB?)
 https://news.ycombinator.com/item?id=17908547 (Ask HN: Types of Questions to Ask Team Members Before Accepting Role?)
 https://news.ycombinator.com/item?id=18253999 (C++ Programming Questions to Ask on Interview (2017) (tests4geeks.com))
+https://news.ycombinator.com/item?id=20916749 (Questions to ask a company during a job interview (github.com))
 https://www.reddit.com/r/AskReddit/comments/74sskj/what_are_some_red_flags_in_a_job_interview
 https://www.reddit.com/r/AskReddit/comments/9vbwy8/what_are_good_questions_to_ask_potential
 https://www.reddit.com/r/AskReddit/comments/abljyl/what_is_a_massive_red_flag_about_a_new_workplace
@@ -1351,6 +1353,7 @@ https://news.ycombinator.com/item?id=18469649 (Ask HN: Older textbooks/papers yo
 https://news.ycombinator.com/item?id=19087418 (Ask HN: What books changed the way you think about almost everything?)
 https://news.ycombinator.com/item?id=20332455 (Ask HN: Recommend one book I need to read this summer?)
 https://news.ycombinator.com/item?id=20847508 (Ask HN: How Do You Read?)
+https://news.ycombinator.com/item?id=20914127 (Ask HN: What are your favorite books or essays written at least 100 years ago?)
 https://opentrackers.org/downloading-ebooks-textbooks
 https://redditfavorites.com/books
 https://torrentfreak.com/top-10-most-popular-torrent-sites-of-2019
@@ -1502,11 +1505,14 @@ https://pinboard.in/u:SharjeelSayed/t:music+study
 soma fm's Drone Zone Channel
 http://somafm.com/player/#/now-playing/dronezone
 
-myNoise : Custom Background Noise Machines
-https://mynoise.net
-
 Focus Playlists on Spotify
 https://open.spotify.com/view/focus-page
+
+Pure Focus on Apple Music
+https://music.apple.com/us/playlist/pure-focus/pl.dbd712beded846dca273d5d3259d28aa
+
+myNoise : Custom Background Noise Machines
+https://mynoise.net
 
 Headphones:
 
@@ -1590,7 +1596,7 @@ https://news.ycombinator.com/item?id=20371095 (Ask HN: Best Office Chair for Rem
 https://redditprofile.com (Find an Expert on Reddit)
 https://www.nala.ie/resources/better-handwriting-adults
 https://www.producthunt.com
-https://www.reddit.com/r/Addons4Kodi/comments/cmzrgq/recommended_addons_august_2019
+https://www.reddit.com/r/Addons4Kodi/wiki/preferred_addons
 https://www.reddit.com/r/AskReddit/comments/4q91g9/what_free_things_online_should_everyone_take/d4r8foy
 https://www.reddit.com/r/AskReddit/comments/6k0p7l/what_are_the_best_free_online_certificates_you
 https://www.reddit.com/r/AskReddit/comments/6q2b8x/reddit_whats_become_clear_to_you_as_youve_gotten
