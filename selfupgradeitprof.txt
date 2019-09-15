@@ -1468,6 +1468,7 @@ Import http://Bookmarks.SharjeelSayed.com into your Browser or view live at http
 YouTube:
 https://www.youtube.com/channel/UCF0pVplsI8R5kcAqgtoRqoA (YouTube Worldwide Popular Right Now)
 https://www.youtube.com/channel/UCAh9DbAZny_eoGFsYlH2JZw (YouTube India Popular Right Now)
+https://www.youtube.com/user/SayedSharjeel/channels
 
 Twitter:
 https://twitter.com/SharjeelSayed
@@ -1512,11 +1513,15 @@ https://pinboard.in/u:SharjeelSayed/t:music+study
 soma fm's Drone Zone Channel
 http://somafm.com/player/#/now-playing/dronezone
 
+PlayLists on Apple Music
+https://beta.music.apple.com/in/activity/focus/976439521
+https://music.apple.com/gb/playlist/sleep-sounds/pl.0ef59752c0cd457dbf1391f08cbd936f
+https://music.apple.com/us/playlist/pure-ambient/pl.a9bd89e7b22e45cbaac40b58c9d3d09b
+https://music.apple.com/us/playlist/pure-focus/pl.dbd712beded846dca273d5d3259d28aa
+https://music.apple.com/us/playlist/rain-sounds/pl.e79d63bcaead407fb44a0c19380822e6
+
 Focus Playlists on Spotify
 https://open.spotify.com/view/focus-page
-
-Pure Focus on Apple Music
-https://music.apple.com/us/playlist/pure-focus/pl.dbd712beded846dca273d5d3259d28aa
 
 myNoise : Custom Background Noise Machines
 https://mynoise.net
@@ -1626,4 +1631,3 @@ https://github.com/SharjeelSayed?direction=desc&sort=stars&tab=stars
 https://news.ycombinator.com/user?id=sharjeelsayed
 https://www.goodreads.com/user/show/36136296-sharjeel-sayed
 https://www.reddit.com/user/SharjeelSayed
-https://www.youtube.com/user/SayedSharjeel/channels
