@@ -596,6 +596,9 @@ https://www.digitalocean.com/community/tutorials/an-introduction-to-kubernetes
 Kubernetes official tutorials
 https://github.com/kubernetes/kubernetes
 
+Kubernetes The Hard Way
+https://github.com/kelseyhightower/kubernetes-the-hard-way
+
 VMware:
 
 VMware vSphere 6.5 (VCP6.5-DCV) with 6.7 Updates
