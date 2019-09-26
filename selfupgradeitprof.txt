@@ -1569,6 +1569,7 @@ https://github.com/gilbertchen/cloud-storage-comparison
 https://github.com/gilbertchen/duplicacy
 https://github.com/jbruchon/jdupes
 https://github.com/restic/others
+https://github.com/simon987/awesome-datahoarding
 https://github.com/topics/backup?o=desc&s=stars
 https://news.ycombinator.com/item?id=17603348 (Ask HN: How do you backup your files without depending on a third party service?)
 https://news.ycombinator.com/item?id=18692844 (Ask HN: Best Centralized Backup Solution)
