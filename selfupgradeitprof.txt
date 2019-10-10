@@ -873,6 +873,7 @@ Git:
 Sources:
 https://github.com/topics/git?o=desc&s=stars
 https://news.ycombinator.com/item?id=18919599 (How to teach Git (rachelcarmena.github.io))
+https://news.ycombinator.com/item?id=21189256 (99% of the Git commands you'll need at work, demonstrated in a single script (bitbucket.org))
 
 Pro Git
 https://git-scm.com/book/en/v2
@@ -1431,6 +1432,7 @@ News:
 
 Sources:
 https://dev.to
+https://devurls.com
 https://github.com/greybax/awesome-IT-films/blob/master/documentary.md
 https://hckrnews.com
 https://hn.algolia.com
@@ -1611,6 +1613,7 @@ https://github.com/ripienaar/free-for-dev
 https://github.com/topics/awesome
 https://hackerspaces.org
 https://hnprofile.com (Find an Expert on Hacker News)
+https://joshtronic.com/2019/09/02/vps-showdown-digitalocean-lightsail-linode-upcloud-vultr
 https://learn-anything.xyz
 https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#-48.5,-680.3,0
 https://news.ycombinator.com/item?id=12209446 (How to Read a Book [pdf])
