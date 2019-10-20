@@ -143,6 +143,7 @@ https://www.youtube.com/playlist?list=PL7BcsI5ueSNFPCEisbaoQ0kXIDX9rR5FF
 https://www.youtube.com/playlist?list=PLE18841CABEA24090
 https://xuanji.appspot.com/isicp
 https://mitpress.mit.edu/sites/default/files/sicp/index.html
+https://opendocs.github.io/sicp/sicp.pdf
 
 Computer Science 61A, UCBerkeley 001 - Spring 2011
 https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E?sort=titleSorter
@@ -295,7 +296,9 @@ http://jeffe.cs.illinois.edu/teaching/algorithms
 Mathematics for Computer Science:
 
 Sources:
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=math&sort=byPopularity&type=story
 https://news.ycombinator.com/item?id=13800320 (	Mathematics for Computer Science [pdf] (mit.edu))
+https://news.ycombinator.com/item?id=13800320 (Mathematics for Computer Science [pdf] (mit.edu))
 https://news.ycombinator.com/item?id=14161876 (Calculus Made Easy (1914))
 https://news.ycombinator.com/item?id=14581273 (Georgia Tech's free math textbook collective)
 https://news.ycombinator.com/item?id=16392698 (How to Study Mathematics (2017) (uh.edu))
@@ -426,6 +429,7 @@ https://github.com/kahun/awesome-sysadmin
 https://github.com/Kickball/awesome-selfhosted
 https://github.com/Leo-G/DevopsWiki
 https://github.com/n1trux/awesome-sysadmin
+https://github.com/ripienaar/free-for-dev
 https://github.com/theanalyst/awesome-distributed-systems
 https://github.com/topics/architecture?o=desc&s=stars
 https://github.com/topics/devops?o=desc&s=stars
@@ -902,6 +906,7 @@ Security:
 
 Sources:
 http://www.fastrls.com/2017/10/30/offensive-security-training-videos
+https://github.com/danielmiessler/SecLists
 https://github.com/forter/security-101-for-saas-startups
 https://github.com/Hack-with-Github/Awesome-Hacking
 https://github.com/OWASP/CheatSheetSeries
