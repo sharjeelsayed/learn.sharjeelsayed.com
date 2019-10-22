@@ -109,6 +109,7 @@ https://news.ycombinator.com/item?id=16591918 (Ask HN: “Write your own” or �
 https://news.ycombinator.com/item?id=17031609 (Ask HN: Books you should have read when you start a career in SE / CS?)
 https://news.ycombinator.com/item?id=18890417 (If not SICP, then what? Maybe HTDP?)
 https://news.ycombinator.com/item?id=20729252 (Ask HN: What book to read to get a footing in CS theory?)
+https://news.ycombinator.com/item?id=21311302 (Ask HN: What are the most fundamental books on computer science?)
 https://news.ycombinator.com/item?id=5019373 (How Harvard's CS50 Renewed My Hope For Online Education)
 https://ocw.mit.edu/courses/find-by-topic/#cat=engineering&subcat=computerscience
 https://spin.atomicobject.com/2015/05/15/obtaining-thorough-cs-background-online
@@ -1632,6 +1633,7 @@ https://news.ycombinator.com/item?id=20110922 (How to Draw Animals (1930) (dessi
 https://news.ycombinator.com/item?id=20146168 (Sleep tweaks boost night owls' wellbeing (bbc.com))
 https://news.ycombinator.com/item?id=20225118 (Ask HN: Best free compute and other resources for startups?)
 https://news.ycombinator.com/item?id=20371095 (Ask HN: Best Office Chair for Remote (Home Office) Work)
+https://news.ycombinator.com/item?id=21310030 (Ask HN: How do you share/organize knowledge at work and life?)
 https://redditprofile.com (Find an Expert on Reddit)
 https://www.nala.ie/resources/better-handwriting-adults
 https://www.producthunt.com
