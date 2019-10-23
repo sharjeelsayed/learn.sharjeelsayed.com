@@ -666,12 +666,14 @@ NGINX:
 Sources:
 https://github.com/topics/nginx?o=desc&s=stars
 
-
 NGINX documentation
 http://nginx.org/en/docs
 
 NGINX HTTP Server - Third Edition
 https://www.amazon.com/Nginx-HTTP-Server-Clement-Nedelcu-ebook/dp/B016DPU3JS
+
+How to improve NGINX performance, security, and other important things
+https://github.com/trimstray/nginx-admins-handbook
 
 Apache:
 
@@ -911,8 +913,10 @@ https://github.com/danielmiessler/SecLists
 https://github.com/forter/security-101-for-saas-startups
 https://github.com/Hack-with-Github/Awesome-Hacking
 https://github.com/OWASP/CheatSheetSeries
+https://github.com/qazbnm456/awesome-web-security
 https://github.com/topics/oscp?o=desc&s=stars
 https://github.com/topics/security?o=desc&s=stars
+https://github.com/topics/websecurity?o=desc&s=stars
 https://hrushikeshk.github.io/blog/2018/01/15/security-resources
 https://jhalon.github.io/becoming-a-pentester
 https://news.ycombinator.com/item?id=12140477 (A practical security guide for web developers (github.com))
@@ -1475,7 +1479,7 @@ https://news.google.com?ned=in&gl=IN&hl=en-IN&num=1&topic=h (India)
 https://news.google.com/local/section/geo/Mumbai/Mumbai,%20Maharashtra?ned=in&hl=en-IN&gl=IN (Mumbai)
 
 SubReddits:
-https://www.reddit.com/r/Android+AppleWatch+CryptoCurrency+DataHoarder+Documentaries+IndiaInvestments+Vaping+announcements+apple+compsci+cscareerquestions+devops+electronic_cigarette+gadgets+hackernews+india+ipad+iphone+juul+learnprogramming+linux+linuxadmin+movies+mumbai+netsec+networking+onebag+programming+science+solotravel+sysadmin+television+todayilearned+travel+vagabond+worldnews
+https://www.reddit.com/r/Android+AppleWatch+CryptoCurrency+DataHoarder+Documentaries+GooglePixel+IndiaInvestments+Vaping+announcements+apple+compsci+cscareerquestions+devops+electronic_cigarette+gadgets+hackernews+india+ipad+iphone+juul+learnprogramming+linux+linuxadmin+movies+mumbai+netsec+networking+onebag+programming+science+solotravel+sysadmin+television+todayilearned+travel+vagabond+worldnews
 
 Twitter:
 https://twitter.com/SharjeelSayed
