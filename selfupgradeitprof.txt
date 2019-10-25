@@ -306,6 +306,7 @@ https://news.ycombinator.com/item?id=16392698 (How to Study Mathematics (2017) (
 https://news.ycombinator.com/item?id=16562173 (Ask HN: How to self-learn math?)
 https://news.ycombinator.com/item?id=19178593 (Classic Mathematics Books for Lifelong Learners )
 https://news.ycombinator.com/item?id=20048205 (Mathematics all-in-one cheat-sheet (2013) [pdf])
+https://news.ycombinator.com/item?id=21346272 (Ask HN: Are there books for mathematics like Feynman's lectures on physics?)
 https://www.reddit.com/r/learnprogramming/comments/70rh9q/is_there_a_cs50_for_math
 https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw (3Blue1Brown Channel)
 
