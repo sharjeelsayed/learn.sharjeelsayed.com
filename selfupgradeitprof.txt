@@ -1616,11 +1616,13 @@ https://www.privacytools.io/providers/vpn
 https://www.reddit.com/r/NetflixViaVPN+VPN+vpncoupons+vpnreviews
 
 Additional Sources :
+https://en.wikipedia.org/wiki/List_of_lists_of_lists
 https://en.wikipedia.org/wiki/Wikipedia:Vital_articles
 https://freenode.net
 https://github.com/255kb/stack-on-a-budget
 https://github.com/jnv/lists
 https://github.com/ripienaar/free-for-dev
+https://github.com/rsapkf/goodies
 https://github.com/topics/awesome
 https://hackerspaces.org
 https://hnprofile.com (Find an Expert on Hacker News)
@@ -1639,6 +1641,7 @@ https://news.ycombinator.com/item?id=20146168 (Sleep tweaks boost night owls' we
 https://news.ycombinator.com/item?id=20225118 (Ask HN: Best free compute and other resources for startups?)
 https://news.ycombinator.com/item?id=20371095 (Ask HN: Best Office Chair for Remote (Home Office) Work)
 https://news.ycombinator.com/item?id=21310030 (Ask HN: How do you share/organize knowledge at work and life?)
+https://news.ycombinator.com/item?id=21373931 (Ask HN: What do you automate in your life and work?)
 https://redditprofile.com (Find an Expert on Reddit)
 https://www.nala.ie/resources/better-handwriting-adults
 https://www.producthunt.com
