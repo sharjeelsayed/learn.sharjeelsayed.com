@@ -433,6 +433,7 @@ https://github.com/Leo-G/DevopsWiki
 https://github.com/n1trux/awesome-sysadmin
 https://github.com/ripienaar/free-for-dev
 https://github.com/theanalyst/awesome-distributed-systems
+https://github.com/Tikam02/DevOps-Guide
 https://github.com/topics/architecture?o=desc&s=stars
 https://github.com/topics/devops?o=desc&s=stars
 https://github.com/topics/sre?o=desc&s=stars
@@ -1413,6 +1414,7 @@ https://blog.github.com/2018-03-20-top-10-courses-on-github
 https://github.com/learn-awesome/learn-awesome
 https://github.com/sindresorhus/awesome
 https://hackr.io
+https://lbry.com/news/20000-illegal-college-lectures-rescued
 https://news.ycombinator.com/item?id=10644518 (Ask HN: What's your favorite online course?)
 https://news.ycombinator.com/item?id=13867016 (Ask HN: Which Berkeley Courses Should I Archive?)
 https://news.ycombinator.com/item?id=14570002 (Startup School 2017 Presentations (startupschool.org))
@@ -1423,6 +1425,7 @@ https://news.ycombinator.com/item?id=17999659 (Ask HN: Favorite teachers on YouT
 https://news.ycombinator.com/item?id=18566638 (Ask HN: What is the best online course you've ever taken?)
 https://news.ycombinator.com/item?id=20385679 (Ask HN: What are your favorite YouTube channels to learn stuff?)
 https://news.ycombinator.com/item?id=20583581 (Your favourite tutorial for total beginners?)
+https://news.ycombinator.com/item?id=21450126 (Free Online Courses from Top Universities (openculture.com))
 https://www.class-central.com/collection/top-free-online-courses?utm_source=top-50-course-page
 https://www.class-central.com/subject/cs
 https://www.classcentral.com/starting-this-month
@@ -1586,6 +1589,7 @@ https://github.com/simon987/awesome-datahoarding
 https://github.com/topics/backup?o=desc&s=stars
 https://news.ycombinator.com/item?id=17603348 (Ask HN: How do you backup your files without depending on a third party service?)
 https://news.ycombinator.com/item?id=18692844 (Ask HN: Best Centralized Backup Solution)
+https://news.ycombinator.com/item?id=21410833 (Restic – Backups Done Right (restic.net))
 https://nuetzlich.net/gocryptfs/comparison
 https://restic.readthedocs.io/en/stable/100_references.html#design
 https://ruderich.org/simon/notes/append-only-backups-with-restic-and-rclone
