@@ -1483,7 +1483,7 @@ https://news.google.com?ned=in&gl=IN&hl=en-IN&num=1&topic=h (India)
 https://news.google.com/local/section/geo/Mumbai/Mumbai,%20Maharashtra?ned=in&hl=en-IN&gl=IN (Mumbai)
 
 SubReddits:
-https://www.reddit.com/r/Android+AppleWatch+CryptoCurrency+DataHoarder+Documentaries+GooglePixel+IndiaInvestments+Vaping+announcements+apple+compsci+cscareerquestions+devops+electronic_cigarette+gadgets+hackernews+india+ipad+iphone+juul+learnprogramming+linux+linuxadmin+movies+mumbai+netsec+networking+onebag+programming+science+solotravel+sysadmin+television+todayilearned+travel+vagabond+worldnews
+https://www.reddit.com/r/Android+AppleWatch+CryptoCurrency+DataHoarder+Documentaries+GooglePixel+IndiaInvestments+Vaping+announcements+apple+compsci+cscareerquestions+devops+electronic_cigarette+gadgets+hackernews+india+ipad+iphone+juul+learnprogramming+linux+linuxadmin+movies+mumbai+netsec+networking+onebag+programming+science+solotravel+sysadmin+television+todayilearned+travel+worldnews
 
 Twitter:
 https://twitter.com/SharjeelSayed
@@ -1536,14 +1536,14 @@ https://pinboard.in/u:SharjeelSayed/t:music+study
 soma fm's Drone Zone Channel
 http://somafm.com/player/#/now-playing/dronezone
 
-PlayLists on Apple Music
+Apple Music Playlists
 https://beta.music.apple.com/in/activity/focus/976439521
 https://music.apple.com/gb/playlist/sleep-sounds/pl.0ef59752c0cd457dbf1391f08cbd936f
 https://music.apple.com/us/playlist/pure-ambient/pl.a9bd89e7b22e45cbaac40b58c9d3d09b
 https://music.apple.com/us/playlist/pure-focus/pl.dbd712beded846dca273d5d3259d28aa
 https://music.apple.com/us/playlist/rain-sounds/pl.e79d63bcaead407fb44a0c19380822e6
 
-Focus Playlists on Spotify
+Spotify Playlist
 https://open.spotify.com/view/focus-page
 
 myNoise : Custom Background Noise Machines
@@ -1556,8 +1556,8 @@ https://www.audiocheck.net/soundtests_headphones.php
 https://www.reddit.com/r/headphones/comments/9u2s09/what_tracks_do_you_play_to_test_the_full_range_of
 https://www.reddit.com/r/LifeProTips/comments/6hljyv/lpt_if_you_are_buying_headphonesspeakers_test
 
-Amazon Best Sellers in Over-Ear Headphones
-https://www.amazon.com/Best-Sellers-Electronics-Over-Ear-Headphones/zgbs/electronics/12097479011
+Best Sellers in Audio Headphones
+https://www.amazon.com/Best-Sellers-Electronics-Audio-Headphones/zgbs/electronics/172541
 
 /r/headphones
 https://www.reddit.com/r/headphones/wiki/purchaseadvice
