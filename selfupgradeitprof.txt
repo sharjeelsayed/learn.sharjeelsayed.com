@@ -764,9 +764,12 @@ Python:
 Sources:
 http://pybit.es/python-resources.html
 http://pythonbooks.org
+https://github.com/pyenv/pyenv
 https://github.com/topics/python?o=desc&s=stars
 https://github.com/vinta/awesome-python
 https://news.ycombinator.com/item?id=16622038 (At full speed with Python: a book for self-learners)
+https://news.ycombinator.com/item?id=21054462 (Ask HN: How do you handle/maintain local Python environments?)
+https://opensource.com/article/19/5/python-3-default-mac (The right and wrong way to set Python 3 as default on a Mac)
 https://www.reddit.com/r/learnprogramming/comments/6bxdut/python_for_beginners_complete_series
 https://www.reddit.com/r/learnprogramming/wiki/online#wiki_python
 https://www.reddit.com/r/learnpython/comments/53z5p4/how_to_start_learning_python_the_complete_guide
@@ -1668,6 +1671,7 @@ https://news.ycombinator.com/item?id=20225118 (Ask HN: Best free compute and oth
 https://news.ycombinator.com/item?id=20371095 (Ask HN: Best Office Chair for Remote (Home Office) Work)
 https://news.ycombinator.com/item?id=21310030 (Ask HN: How do you share/organize knowledge at work and life?)
 https://news.ycombinator.com/item?id=21373931 (Ask HN: What do you automate in your life and work?)
+https://news.ycombinator.com/item?id=21581361 (Ask HN: What's the most valuable thing you can learn in an hour?)
 https://redditprofile.com (Find an Expert on Reddit)
 https://www.nala.ie/resources/better-handwriting-adults
 https://www.producthunt.com
