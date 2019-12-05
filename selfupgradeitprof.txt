@@ -1487,7 +1487,7 @@ https://news.google.com?ned=in&gl=IN&hl=en-IN&num=1&topic=h (India)
 https://news.google.com/local/section/geo/Mumbai/Mumbai,%20Maharashtra?ned=in&hl=en-IN&gl=IN (Mumbai)
 
 SubReddits:
-https://www.reddit.com/r/Android+AppleWatch+CryptoCurrency+DataHoarder+Documentaries+GooglePixel+IndiaInvestments+Vaping+announcements+apple+compsci+cscareerquestions+dataisbeautiful+devops+electronic_cigarette+gadgets+hackernews+india+ipad+iphone+juul+learnprogramming+linux+linuxadmin+movies+mumbai+netsec+networking+onebag+programming+science+solotravel+sysadmin+television+todayilearned+travel+worldnews
+https://www.reddit.com/r/Android+AppleWatch+CryptoCurrency+DataHoarder+Documentaries+GooglePixel+IndiaInvestments+Vaping+announcements+apple+compsci+cscareerquestions+dataisbeautiful+devops+electronic_cigarette+gadgets+hackernews+india+ipad+iphone+juul+learnprogramming+linux+linuxadmin+mac+movies+mumbai+netsec+networking+onebag+programming+science+solotravel+sysadmin+television+todayilearned+travel+worldnews
 
 Twitter:
 https://twitter.com/SharjeelSayed
