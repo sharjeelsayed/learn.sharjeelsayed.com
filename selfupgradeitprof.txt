@@ -1256,6 +1256,7 @@ https://news.ycombinator.com/item?id=19349676 (Ask HN: How to speak like a leade
 https://news.ycombinator.com/item?id=19996062 (Ask HN: What tools/methods do you use to focus your time well?)
 https://news.ycombinator.com/item?id=20230133 (Ask HN: What are the signs that you have a great manager?)
 https://news.ycombinator.com/item?id=20503813 (Ask HN: What people skills do you wish you learned earlier in your career?)
+https://news.ycombinator.com/item?id=21712194 (Ask HN: Best book / resources on leadership, especially for tech teams?)
 https://www.indiehackers.com
 https://www.reddit.com/r/cscareerquestions/comments/6fnujy/soft_skills_for_programmers
 
@@ -1295,6 +1296,9 @@ https://www.startupschool.org
 
 Never Split the Difference: Negotiating as if Your Life Depended on It
 https://www.amazon.com/Never-Split-Difference-Negotiating-Depended/dp/B01COR1GM2
+
+ADP 6-22. Army Leadership and the Profession
+https://fas.org/irp/doddir/army
 
 Money:
 
