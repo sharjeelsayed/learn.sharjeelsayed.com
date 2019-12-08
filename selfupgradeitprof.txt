@@ -359,6 +359,10 @@ https://www.reddit.com/r/ccna/wiki
 https://www.reddit.com/r/networking/wiki
 https://www.reddit.com/r/sysadmin/comments/4ux166/do_you_know_a_site_to_learn_more_about_networking
 
+The Bits and Bytes of Computer Networking -Grow with Google
+https://www.coursera.org/learn/computer-networking
+https://youtu.be/QKfk7YFILws (Computer Networking Complete Course by Google - Beginner to Advanced)
+
 Computer Networking: A Top-Down Approach (7th Edition)
 https://www.amazon.com/Computer-Networking-Top-Down-Approach-7th/dp/0133594149
 http://www-net.cs.umass.edu/wireshark-labs (Supplements: Wireshark Labs)
@@ -374,6 +378,7 @@ http://beej.us/guide/bgnet
 
 Unix Network Programming, Volume 1: The Sockets Networking API (3rd Edition)
 https://www.amazon.com/Unix-Network-Programming-Sockets-Networking/dp/0131411551
+
 
 Additional Material:
 
@@ -1203,6 +1208,7 @@ https://docs.google.com/spreadsheets/d/1JfNAbUX_lN9K3MCNHO15GJtJ5qpk7H9Cl3xTBwv2
 https://news.ycombinator.com/item?id=16651077 (Ask HN: How do you find freelance work?)
 https://news.ycombinator.com/item?id=18829691 (Ask HN: Fastest way to get started with freelancing?)
 https://news.ycombinator.com/item?id=19133864 (Ask HN: How bad is freelancing?)
+https://news.ycombinator.com/item?id=21728436 (Ask HN: What mistakes did you make when starting as a consultant/freelancer?)
 
 https://www.guru.com
 https://nomadprojects.io
