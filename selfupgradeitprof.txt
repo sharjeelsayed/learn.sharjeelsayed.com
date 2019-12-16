@@ -602,13 +602,18 @@ Kubernetes:
 
 Sources:
 https://github.com/ramitsurana/awesome-kubernetes
-https://kubernetes.io/docs/home
+https://kubernetes.io/docs
+https://kubernetes.io/docs/concepts
+https://www.reddit.com/r/devops/comments/e8atqt/books_to_learn_kubernetes_theory
 
-An Introduction to Kubernetes
-https://www.digitalocean.com/community/tutorials/an-introduction-to-kubernetes
+Kubernetes for Full-Stack Developers
+https://www.digitalocean.com/community/curriculums/kubernetes-for-full-stack-developers
 
 Kubernetes official tutorials
 https://github.com/kubernetes/kubernetes
+
+Kubernetes in Action 1st Edition
+https://www.amazon.com/Kubernetes-Action-Marko-Luksa/dp/1617293725
 
 Kubernetes The Hard Way
 https://github.com/kelseyhightower/kubernetes-the-hard-way
@@ -939,6 +944,7 @@ https://news.ycombinator.com/item?id=17749283 (Ask HN: Recommendations of good c
 https://news.ycombinator.com/item?id=18487547 (Ask HN: Starting a career in security at 40?)
 https://room362.com/start
 https://s3ctur.wordpress.com/2017/06/19/breaking-into-infosec-a-beginners-curriculum
+https://www.cisecurity.org/cis-benchmarks
 https://www.edx.org/learn/cybersecurity
 https://www.reddit.com/r/crypto/wiki
 https://www.reddit.com/r/netsec/wiki
