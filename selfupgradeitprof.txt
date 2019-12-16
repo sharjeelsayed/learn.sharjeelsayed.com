@@ -543,6 +543,7 @@ https://github.com/jaywcjlove/awesome-mac
 https://github.com/mathiasbynens/dotfiles
 https://github.com/newmarcel/KeepingYouAwake
 https://github.com/nikitavoloboev/my-mac-os
+https://github.com/sekey/sekey
 https://github.com/topics/macos?o=desc&s=stars
 https://pinboard.in/u:sharjeelsayed/t:macos
 
@@ -1196,10 +1197,11 @@ https://whoishiring.io
 
 Company and Salary Reviews:
 
-https://www.payscale.com/research/IN/Country=India/Salary
 https://careernavigator.naukri.com
-https://www.glassdoor.co.in/Salaries/india-salary-SRCH_IL.0,5_IN115.htm
 https://stackoverflow.com/jobs/salary
+https://www.glassdoor.co.in/Salaries/india-salary-SRCH_IL.0,5_IN115.htm
+https://www.levels.fyi
+https://www.payscale.com/research/IN/Country=India/Salary
 
 Freelancer:
 
@@ -1385,6 +1387,7 @@ https://news.ycombinator.com/item?id=19087418 (Ask HN: What books changed the wa
 https://news.ycombinator.com/item?id=20332455 (Ask HN: Recommend one book I need to read this summer?)
 https://news.ycombinator.com/item?id=20847508 (Ask HN: How Do You Read?)
 https://news.ycombinator.com/item?id=20914127 (Ask HN: What are your favorite books or essays written at least 100 years ago?)
+https://news.ycombinator.com/item?id=21765528 (Ask HN: Fun Tech Book Recommendations?)
 https://opentrackers.org/downloading-ebooks-textbooks
 https://redditfavorites.com/books
 https://torrentfreak.com/top-10-most-popular-torrent-sites-of-2019
@@ -1497,7 +1500,7 @@ https://news.google.com?ned=in&gl=IN&hl=en-IN&num=1&topic=h (India)
 https://news.google.com/local/section/geo/Mumbai/Mumbai,%20Maharashtra?ned=in&hl=en-IN&gl=IN (Mumbai)
 
 SubReddits:
-https://www.reddit.com/r/Android+AppleWatch+CryptoCurrency+DataHoarder+Documentaries+GooglePixel+IndiaInvestments+Vaping+announcements+apple+compsci+cscareerquestions+dataisbeautiful+devops+electronic_cigarette+gadgets+hackernews+india+ipad+iphone+juul+learnprogramming+linux+linuxadmin+mac+movies+mumbai+netsec+networking+onebag+programming+science+solotravel+sysadmin+television+todayilearned+travel+worldnews
+https://www.reddit.com/r/Android+AppleWatch+CryptoCurrency+DataHoarder+Documentaries+GooglePixel+IndiaInvestments+Vaping+announcements+apple+compsci+cscareerquestions+dataisbeautiful+devops+electronic_cigarette+gadgets+hackernews+india+ipad+iphone+juul+learnprogramming+linux+linuxadmin+mac+movies+mumbai+netsec+networking+onebag+programming+science+solotravel+sysadmin+television+todayilearned+travel+worldnews+yubikey
 
 Twitter:
 https://twitter.com/SharjeelSayed
@@ -1700,7 +1703,6 @@ https://www.goodreads.com/user/show/36136296-sharjeel-sayed
 https://www.reddit.com/user/SharjeelSayed
 
 Support this page by using these referral links:
-
 http://amex.in/refer/sharjsycSe?XLINK=MYCP (American Express card benefits)
 https://db.tt/YL0e12GN (Dropbox 500 MB of bonus space)
 https://www.expressrefer.com/refer-friend?referrer_id=39360476 (ExpressVPN 30 days free)
