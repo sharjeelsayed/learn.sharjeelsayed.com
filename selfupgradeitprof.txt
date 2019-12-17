@@ -173,6 +173,7 @@ https://github.com/stanzhai/be-a-professional-programmer
 https://github.com/styfle/awesome-online-ide
 https://github.com/topics/programming?o=desc&s=stars
 https://github.com/tuvtran/project-based-learning
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=every%20programmer&sort=byPopularity&type=story (Things every programmer should know)
 https://insights.stackoverflow.com/survey/2018
 https://learnxinyminutes.com
 https://news.ycombinator.com/item?id=11465234 (Composing Programs – Python 3 in the tradition of SICP)
@@ -368,7 +369,8 @@ https://www.amazon.com/Computer-Networking-Top-Down-Approach-7th/dp/0133594149
 http://www-net.cs.umass.edu/wireshark-labs (Supplements: Wireshark Labs)
 
 CS144 Introduction to Computer Networking Stanford University
-https://suclass.stanford.edu/courses/course-v1:Engineering+CS144+Fall2016/courseware/ac9d1eef5aaa4bb5bcfe4d42f51f0f5b/c5c384e648cf404c837d05497c6e36b0
+https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced
+https://www.youtube.com/playlist?list=PLvFG2xYBrYAQCyz4Wx3NPoYJOFjvU7g2Z
 
 High Performance Browser Networking
 https://hpbn.co
@@ -1709,6 +1711,5 @@ https://www.goodreads.com/user/show/36136296-sharjeel-sayed
 https://www.reddit.com/user/SharjeelSayed
 
 Support this page by using these referral links:
-http://amex.in/refer/sharjsycSe?XLINK=MYCP (American Express card benefits)
 https://db.tt/YL0e12GN (Dropbox 500 MB of bonus space)
 https://www.expressrefer.com/refer-friend?referrer_id=39360476 (ExpressVPN 30 days free)
