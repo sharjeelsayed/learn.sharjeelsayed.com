@@ -405,7 +405,11 @@ Database Concepts:
 Sources:
 https://github.com/binhnguyennus/awesome-scalability
 https://news.ycombinator.com/item?id=13417326 (Ask HN: What is the best online resource to learn advanced SQL?)
+https://news.ycombinator.com/item?id=21793270 (Database Internals (databass.dev))
 https://pinboard.in/u:sharjeelsayed/t:db
+
+Database Internals: A Deep Dive into How Distributed Data Systems Work
+https://www.amazon.com/gp/product/1492040347
 
 Architecture of a Database System
 http://db.cs.berkeley.edu/papers/fntdb07-architecture.pdf
