@@ -111,6 +111,7 @@ https://news.ycombinator.com/item?id=17031609 (Ask HN: Books you should have rea
 https://news.ycombinator.com/item?id=18890417 (If not SICP, then what? Maybe HTDP?)
 https://news.ycombinator.com/item?id=20729252 (Ask HN: What book to read to get a footing in CS theory?)
 https://news.ycombinator.com/item?id=21311302 (Ask HN: What are the most fundamental books on computer science?)
+https://news.ycombinator.com/item?id=21919465 (Ask HN: How do I choose the right resource to learn CS fundamentals?)
 https://news.ycombinator.com/item?id=5019373 (How Harvard's CS50 Renewed My Hope For Online Education)
 https://ocw.mit.edu/courses/find-by-topic/#cat=engineering&subcat=computerscience
 https://spin.atomicobject.com/2015/05/15/obtaining-thorough-cs-background-online
