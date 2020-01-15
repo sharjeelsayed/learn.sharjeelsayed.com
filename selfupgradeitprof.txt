@@ -53,6 +53,7 @@ Vim
 ELK
 Security
 Hardware
+iOS/Android
 Microsoft Excel
 Electronics
 Science
@@ -658,6 +659,7 @@ http://www.amazon.com/Data-Center-Fundamentals-Mauricio-Arregoces/dp/1587050234
 AWS:
 
 Sources:
+https://bash-my-aws.org
 https://github.com/anaibol/awesome-serverless
 https://github.com/donnemartin/awesome-aws
 https://github.com/serverless/serverless
@@ -984,6 +986,10 @@ https://news.ycombinator.com/item?id=15733760 (What are hardware development lea
 
 Professor Messer’s CompTIA 220-901 and 220-902 A+ Training Videos
 http://www.professormesser.com/free-a-plus-training/220-901/comptia-220-900-course
+
+iOS/Android:
+
+https://www.raywenderlich.com
 
 Microsoft Excel:
 
@@ -1494,6 +1500,7 @@ https://news.ycombinator.com/item?id=17690852 (Ask HN: What are some niche commu
 https://news.ycombinator.com/item?id=18384680 (Ask HN: Other online communities like HN?)
 https://news.ycombinator.com/item?id=20023209 (Ask HN: What are your other favorite communities other than Hacker News?)
 https://news.ycombinator.com/item?id=20719651 (Ask HN: What are some niche or alternative news aggregators worth checking out?)
+https://news.ycombinator.com/item?id=21928170 (Ask HN: What niche blogs are worthwhile to follow?)
 https://news.ycombinator.com/item?id=9836023 (Ask HN: What tech blogs, podcasts do you follow outside of HN?)
 https://pinboard.in/popular
 https://www.hackernewspapers.com
@@ -1526,6 +1533,8 @@ https://www.youtube.com/user/SayedSharjeel/channels
 
 Bookmarks:
 Import http://Bookmarks.SharjeelSayed.com into your Browser or view live at https://pinboard.in/u:SharjeelSayed
+Search Engine for my Bookmarks http://SearchBookmarks.SharjeelSayed.com
+
 
 Podcasts:
 
