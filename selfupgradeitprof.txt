@@ -208,6 +208,7 @@ https://news.ycombinator.com/item?id=18128477 (Ask HN: What is your best advice 
 https://news.ycombinator.com/item?id=18422000 (Ask HN: Where to find someone to review my code?)
 https://news.ycombinator.com/item?id=18961793 (Ask HN: What are must-know concepts for back end development?)
 https://news.ycombinator.com/item?id=20556336 (Ask HN: What are the “best” codebases that you've encountered?)
+https://news.ycombinator.com/item?id=22011743 (Ask HN: Are there any openly available software architecture documents?)
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/index.htm
 https://softwareengineeringdaily.com
 https://www.microsoft.com/en-us/research/blog/category/podcast
