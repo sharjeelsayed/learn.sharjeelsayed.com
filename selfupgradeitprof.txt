@@ -504,6 +504,9 @@ http://www.amazon.com/Power-Tools-Third-Shelley-Powers/dp/0596003307
 Linux Journey
 https://linuxjourney.com
 
+Product Documentation for Red Hat Enterprise Linux
+https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux
+
 FreeBSD:
 
 Sources:
@@ -1164,6 +1167,9 @@ https://github.com/trimstray/test-your-sysadmin-skills
 
 Watch technical mock interviews with engineers from Google, Facebook, Airbnb, and more
 https://interviewing.io/recordings
+
+codewars
+https://www.codewars.com
 
 Resume Improvement:
 
