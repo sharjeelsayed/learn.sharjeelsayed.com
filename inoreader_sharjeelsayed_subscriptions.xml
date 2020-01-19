@@ -11,13 +11,15 @@
       <outline text="World News" title="World News" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/worldnews/.rss" htmlUrl="https://www.reddit.com/r/worldnews/?t=20171123064440"/>
       <outline text="Mumbai, Maharashtra - Google News" title="Mumbai, Maharashtra - Google News" type="rss" xmlUrl="https://news.google.com/news/rss/local/section/geo/Mumbai/Mumbai,%20Maharashtra?ned=in&amp;hl=en-IN&amp;gl=IN" htmlUrl="https://news.google.coms/rss/local/section/geo/Mumbai/Mumbai,%20Maharashtra?ned=in&amp;hl=en-IN&amp;gl=IN"/>
       <outline text="Top Stories - Google News" title="Top Stories - Google News" type="rss" xmlUrl="https://news.google.com/news/rss/?ned=in&amp;amp;gl=IN&amp;amp;hl=en-IN&amp;amp;num=1&amp;amp;topic=h" htmlUrl="https://news.google.coms/rss/?ned=in&amp;amp;gl=IN&amp;amp;hl=en-IN&amp;amp;num=1&amp;amp;topic=h"/>
-      <outline text="Krebs on Security" title="Krebs on Security" type="rss" xmlUrl="https://krebsonsecurity.com/feed/" htmlUrl="https://krebsonsecurity.com/"/>
+      <outline text="Maharashtra - Google News" title="Maharashtra - Google News" type="rss" xmlUrl="https://news.google.com/news/rss/local/section/geo/Maharashtra" htmlUrl="https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRFUxZG5JU0FtVnVLQUFQAQ?hl=en-US&amp;gl=US&amp;ceid=US:en"/>
       <outline text="Hacker News: Front Page" title="Hacker News: Front Page" type="rss" xmlUrl="https://hnrss.org/frontpage" htmlUrl="https://news.ycombinator.com/"/>
       <outline text="Techmeme" title="Techmeme" type="rss" xmlUrl="http://www.techmeme.com/index.xml" htmlUrl="http://www.techmeme.com/"/>
     </outline>
     <outline text="News" title="News">
       <outline text="Top Stories - Google News" title="Top Stories - Google News" type="rss" xmlUrl="https://news.google.com/news/rss/?ned=in&amp;amp;gl=IN&amp;amp;hl=en-IN&amp;amp;num=1&amp;amp;topic=h" htmlUrl="https://news.google.coms/rss/?ned=in&amp;amp;gl=IN&amp;amp;hl=en-IN&amp;amp;num=1&amp;amp;topic=h"/>
       <outline text="india, mumbai" title="india, mumbai" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/india%2Bmumbai/.rss" htmlUrl="https://www.reddit.com/r/india+mumbai/?t=1550685261"/>
+      <outline text="News from wikipedia events" title="News from wikipedia events" type="rss" xmlUrl="https://news.vinc.cc/search.atom?q=wikipedia+events" htmlUrl="https://news.vinc.cc/"/>
+      <outline text="Maharashtra - Google News" title="Maharashtra - Google News" type="rss" xmlUrl="https://news.google.com/news/rss/local/section/geo/Maharashtra" htmlUrl="https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRFUxZG5JU0FtVnVLQUFQAQ?hl=en-US&amp;gl=US&amp;ceid=US:en"/>
       <outline text="World News" title="World News" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/worldnews/.rss" htmlUrl="https://www.reddit.com/r/worldnews/?t=20171123064440"/>
       <outline text="Mumbai, Maharashtra - Google News" title="Mumbai, Maharashtra - Google News" type="rss" xmlUrl="https://news.google.com/news/rss/local/section/geo/Mumbai/Mumbai,%20Maharashtra?ned=in&amp;hl=en-IN&amp;gl=IN" htmlUrl="https://news.google.coms/rss/local/section/geo/Mumbai/Mumbai,%20Maharashtra?ned=in&amp;hl=en-IN&amp;gl=IN"/>
     </outline>
@@ -32,7 +34,6 @@
       <outline text="Science" title="Science" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/science/.rss" htmlUrl="https://www.reddit.com/r/science/?t=1538185315"/>
       <outline text="Android, GooglePixel" title="Android, GooglePixel" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/Android%2BGooglePixel/.rss" htmlUrl="https://www.reddit.com/r/Android+GooglePixel/?t=1571868275"/>
       <outline text="ipad, mac, AppleWatch, apple, iphone" title="ipad, mac, AppleWatch, apple, iphone" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/AppleWatch%2Bapple%2Bipad%2Biphone%2Bmac/.rss" htmlUrl="https://www.reddit.com/r/AppleWatch+apple+ipad+iphone+mac/?t=1575582129"/>
-      <outline text="Krebs on Security" title="Krebs on Security" type="rss" xmlUrl="https://krebsonsecurity.com/feed/" htmlUrl="https://krebsonsecurity.com/"/>
       <outline text="Hacker News: Front Page" title="Hacker News: Front Page" type="rss" xmlUrl="https://hnrss.org/frontpage" htmlUrl="https://news.ycombinator.com/"/>
       <outline text="Techmeme" title="Techmeme" type="rss" xmlUrl="http://www.techmeme.com/index.xml" htmlUrl="http://www.techmeme.com/"/>
     </outline>
@@ -42,6 +43,7 @@
       <outline text="Trending  repositories on GitHub today · GitHub" title="Trending  repositories on GitHub today · GitHub" type="rss" xmlUrl="https://rsshub.app/github/trending/daily" htmlUrl="https://github.com/trending/?since=daily"/>
       <outline text="sysadmin, devops" title="sysadmin, devops" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/devops%2Bsysadmin/.rss" htmlUrl="https://www.reddit.com/r/devops+sysadmin/?t=1567144718"/>
       <outline text="YubiKey - The authentication token from Yubico" title="YubiKey - The authentication token from Yubico" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/yubikey/.rss" htmlUrl="https://www.reddit.com/r/yubikey/?t=1576190128"/>
+      <outline text="Krebs on Security" title="Krebs on Security" type="rss" xmlUrl="https://krebsonsecurity.com/feed/" htmlUrl="https://krebsonsecurity.com/"/>
       <outline text="cscareerquestions, compsci, programming, learnprogramming :top scoring links" title="cscareerquestions, compsci, programming, learnprogramming :top scoring links" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/compsci%2Bcscareerquestions%2Blearnprogramming%2Bprogramming/top/.rss" htmlUrl="https://www.reddit.com/r/compsci+cscareerquestions+learnprogramming+programming/top/?t=20170511093224"/>
       <outline text="Enterprise Networking news, blogs and discussion." title="Enterprise Networking news, blogs and discussion." type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/networking/.rss" htmlUrl="https://www.reddit.com/r/networking/?t=20170708164314"/>
     </outline>
