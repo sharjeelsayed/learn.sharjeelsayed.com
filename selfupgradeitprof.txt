@@ -1291,6 +1291,7 @@ https://news.ycombinator.com/item?id=19996062 (Ask HN: What tools/methods do you
 https://news.ycombinator.com/item?id=20230133 (Ask HN: What are the signs that you have a great manager?)
 https://news.ycombinator.com/item?id=20503813 (Ask HN: What people skills do you wish you learned earlier in your career?)
 https://news.ycombinator.com/item?id=21712194 (Ask HN: Best book / resources on leadership, especially for tech teams?)
+https://news.ycombinator.com/item?id=22092303 (Ask HN: Courses/resources to improve my self-esteem and believe in myself more?)
 https://www.indiehackers.com
 https://www.reddit.com/r/cscareerquestions/comments/6fnujy/soft_skills_for_programmers
 
@@ -1414,6 +1415,7 @@ https://news.ycombinator.com/item?id=20332455 (Ask HN: Recommend one book I need
 https://news.ycombinator.com/item?id=20847508 (Ask HN: How Do You Read?)
 https://news.ycombinator.com/item?id=20914127 (Ask HN: What are your favorite books or essays written at least 100 years ago?)
 https://news.ycombinator.com/item?id=21765528 (Ask HN: Fun Tech Book Recommendations?)
+https://news.ycombinator.com/item?id=22092108 (Ask HN: What are the best unknown books you have read?)
 https://opentrackers.org/downloading-ebooks-textbooks
 https://redditfavorites.com/books
 https://torrentfreak.com/top-10-most-popular-torrent-sites-of-2019
@@ -1556,6 +1558,7 @@ https://news.ycombinator.com/item?id=16838460 (Ask HN: What is your favourite te
 https://news.ycombinator.com/item?id=18073169 (Ask HN: What podcasts do you listen to regularly?)
 https://news.ycombinator.com/item?id=18217762 (Ask HN: What are some of the best technical talks you've heard?)
 https://news.ycombinator.com/item?id=19095780 (Ask HN: What podcast has been most influential on your life?)
+https://news.ycombinator.com/item?id=22092900 (Ask HN: What podcast(s) changed your life?)
 https://news.ycombinator.com/item?id=9207360 (Ask HN: Favorite podcasts?)
 https://www.reddit.com/r/podcasts/comments/75ilo5/ive_spent_three_years_listening_to_podcasts
 https://www.reddit.com/r/sysadmin/comments/au8ugd/what_are_your_preferred_tech_podcasts_as_a
@@ -1614,6 +1617,9 @@ https://www.reddit.com/r/headphones/wiki/purchaseadvice
 
 Best Headphones (rtings.com)
 https://www.rtings.com/headphones
+
+SoundGuys Best
+https://www.soundguys.com/best
 
 Ear Plugs:
 
