@@ -1589,6 +1589,7 @@ http://somafm.com/player/#/now-playing/dronezone
 Apple Music Playlists
 https://beta.music.apple.com/in/activity/focus/976439521
 https://music.apple.com/gb/playlist/sleep-sounds/pl.0ef59752c0cd457dbf1391f08cbd936f
+https://music.apple.com/in/playlist/nature-sounds/pl.040f99fdd83542a79b28fc4c13f773bd
 https://music.apple.com/us/playlist/pure-ambient/pl.a9bd89e7b22e45cbaac40b58c9d3d09b
 https://music.apple.com/us/playlist/pure-focus/pl.dbd712beded846dca273d5d3259d28aa
 https://music.apple.com/us/playlist/rain-sounds/pl.e79d63bcaead407fb44a0c19380822e6
