@@ -597,15 +597,23 @@ Sources:
 https://github.com/topics/docker?o=desc&s=stars
 https://github.com/veggiemonk/awesome-docker
 https://github.com/wsargent/docker-cheat-sheet
+https://www.udemy.com/topic/docker/?ratings=4.5&sort=popularity
 
-Docker for Beginners
-https://prakhar.me/docker-curriculum
+Docker Documentation
+https://docs.docker.com
 
 Play with Docker Classroom
 https://training.play-with-docker.com
 
-Docker Documentation
-https://docs.docker.com
+Docker for Beginners
+https://prakhar.me/docker-curriculum
+
+Docker for Beginners: Full Course
+https://youtu.be/zJ6WbK9zFpI
+https://www.kodekloud.com/p/docker-labs
+
+Docker Mastery: with Kubernetes +Swarm from a Docker Captain
+https://www.udemy.com/course/docker-mastery
 
 Docker and Kubernetes: The Complete Guide by Stephen Grider
 https://www.udemy.com/docker-and-kubernetes-the-complete-guide
@@ -1743,6 +1751,6 @@ https://news.ycombinator.com/user?id=sharjeelsayed
 https://www.goodreads.com/user/show/36136296-sharjeel-sayed
 https://www.reddit.com/user/SharjeelSayed
 
-Support this page by using these referral links:
+Support this page with these referral links:
 https://db.tt/YL0e12GN (Dropbox 500 MB of bonus space)
 https://www.expressrefer.com/refer-friend?referrer_id=39360476 (ExpressVPN 30 days free)
