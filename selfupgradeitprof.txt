@@ -1424,6 +1424,7 @@ https://news.ycombinator.com/item?id=20847508 (Ask HN: How Do You Read?)
 https://news.ycombinator.com/item?id=20914127 (Ask HN: What are your favorite books or essays written at least 100 years ago?)
 https://news.ycombinator.com/item?id=21765528 (Ask HN: Fun Tech Book Recommendations?)
 https://news.ycombinator.com/item?id=22092108 (Ask HN: What are the best unknown books you have read?)
+https://news.ycombinator.com/item?id=22299180 (Ask HN: What are some books where the reader learns by building projects?)
 https://opentrackers.org/downloading-ebooks-textbooks
 https://redditfavorites.com/books
 https://torrentfreak.com/top-10-most-popular-torrent-sites-of-2019
@@ -1593,6 +1594,7 @@ https://pinboard.in/u:SharjeelSayed/t:music+study
 
 soma fm's Drone Zone Channel
 http://somafm.com/player/#/now-playing/dronezone
+https://music.apple.com/in/station/somafm-drone-zone/ra.1460960905
 
 Apple Music Playlists
 https://beta.music.apple.com/in/activity/focus/976439521
