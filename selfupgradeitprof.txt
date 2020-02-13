@@ -407,6 +407,7 @@ Database Concepts:
 
 Sources:
 https://github.com/binhnguyennus/awesome-scalability
+https://github.com/pingcap/awesome-database-learning
 https://news.ycombinator.com/item?id=13417326 (Ask HN: What is the best online resource to learn advanced SQL?)
 https://news.ycombinator.com/item?id=21793270 (Database Internals (databass.dev))
 https://pinboard.in/u:sharjeelsayed/t:db
