@@ -1406,9 +1406,11 @@ https://bookauthority.org
 https://bookinsider.gitlab.io
 https://docs.google.com/spreadsheets/d/e/2PACX-1vQDca1iI1GgcMwBl65XRvJaAnZOv6sCjmAamy_7cioVMV4U_VnBksgZrIKTe5P4aneEXtion1ZA7iPe/pubhtml (Pinker Book Recommendations)
 https://en.wikipedia.org/wiki/BBC_list_of_100_%27most_inspiring%27_novels
+https://en.wikipedia.org/wiki/Booker_Prize
 https://en.wikipedia.org/wiki/List_of_best-selling_books
 https://en.wikipedia.org/wiki/List_of_novels_considered_the_greatest_of_all_time
 https://en.wikipedia.org/wiki/Lists_of_100_best_books
+https://en.wikipedia.org/wiki/Pulitzer_Prize
 https://en.wikipedia.org/wiki/Time%27s_List_of_the_100_Best_Novels
 https://github.com/aaronthecodpro/Reddit-Privacy-Megathread
 https://github.com/Igglybuff/awesome-piracy
@@ -1440,7 +1442,7 @@ https://news.ycombinator.com/item?id=22299180 (Ask HN: What are some books where
 https://opentrackers.org/downloading-ebooks-textbooks
 https://redditfavorites.com/books
 https://torrentfreak.com/top-10-most-popular-torrent-sites-of-2019
-https://www.amazon.com/b/ref=s9_acss_bw_cg_KCedit_3a1_w?node=8192263011&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-6&pf_rd_r=SVPX1ER21R9VMWDQRGPM&pf_rd_t=101&pf_rd_p=88ffe07e-fcc5-4297-b095-9d074e045564&pf_rd_i=17143709011 (100 Books to Read in a Lifetime)
+https://www.amazon.com/b/?node=8192263011 (100 Books to Read in a Lifetime)
 https://www.amazon.com/charts
 https://www.goodreads.com/list
 https://www.nytimes.com/section/books/review
