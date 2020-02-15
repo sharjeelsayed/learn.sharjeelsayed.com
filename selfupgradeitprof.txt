@@ -271,6 +271,8 @@ Algorithms and Data Structures:
 
 Sources:
 https://github.com/karan/Projects
+https://github.com/teivah/algodeck
+https://github.com/williamfiset/Algorithms
 https://news.ycombinator.com/item?id=13653669 (Algorithms (khanacademy.org))
 https://news.ycombinator.com/item?id=15423045 (A Comparison of Four Algorithms Textbooks (2016))
 https://news.ycombinator.com/item?id=16428309 (Ask HN: What's the best algorithms and data structures online course?)
@@ -1033,6 +1035,9 @@ https://courses.edx.org/courses/course-v1:MITx+6.002.1x_1+2T2016/info
 Science:
 
 Sources:
+https://bookauthority.org/books/best-science-books
+https://en.wikipedia.org/wiki/Best_science_book_ever
+https://en.wikipedia.org/wiki/Lists_of_important_publications_in_science
 https://news.ycombinator.com/item?id=18085765 (Ask HN: What are some of the best documentaries you've seen?)
 https://www.reddit.com/r/AskReddit/comments/5x2r6b/reddit_what_are_some_must_see_documentaries
 https://www.reddit.com/r/AskReddit/comments/7yvhmi/what_is_the_most_interesting_documentary_youve
@@ -1397,8 +1402,14 @@ http://reddittopbooks.com/tech
 http://www.bookadvice.co
 http://www.dev-books.com (The most mentioned books on Stack Overflow)
 http://www.openculture.com/free_textbooks
+https://bookauthority.org
 https://bookinsider.gitlab.io
 https://docs.google.com/spreadsheets/d/e/2PACX-1vQDca1iI1GgcMwBl65XRvJaAnZOv6sCjmAamy_7cioVMV4U_VnBksgZrIKTe5P4aneEXtion1ZA7iPe/pubhtml (Pinker Book Recommendations)
+https://en.wikipedia.org/wiki/BBC_list_of_100_%27most_inspiring%27_novels
+https://en.wikipedia.org/wiki/List_of_best-selling_books
+https://en.wikipedia.org/wiki/List_of_novels_considered_the_greatest_of_all_time
+https://en.wikipedia.org/wiki/Lists_of_100_best_books
+https://en.wikipedia.org/wiki/Time%27s_List_of_the_100_Best_Novels
 https://github.com/aaronthecodpro/Reddit-Privacy-Megathread
 https://github.com/Igglybuff/awesome-piracy
 https://hackernewsbooks.com
@@ -1429,34 +1440,40 @@ https://news.ycombinator.com/item?id=22299180 (Ask HN: What are some books where
 https://opentrackers.org/downloading-ebooks-textbooks
 https://redditfavorites.com/books
 https://torrentfreak.com/top-10-most-popular-torrent-sites-of-2019
+https://www.amazon.com/b/ref=s9_acss_bw_cg_KCedit_3a1_w?node=8192263011&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-6&pf_rd_r=SVPX1ER21R9VMWDQRGPM&pf_rd_t=101&pf_rd_p=88ffe07e-fcc5-4297-b095-9d074e045564&pf_rd_i=17143709011 (100 Books to Read in a Lifetime)
 https://www.amazon.com/charts
+https://www.goodreads.com/list
+https://www.nytimes.com/section/books/review
 https://www.reddit.com/r/AskReddit/comments/34m5n6/reddit_what_are_some_must_read_books
 https://www.reddit.com/r/AskReddit/comments/8cl833/what_are_some_good_books_that_would_make_the
 https://www.reddit.com/r/AskReddit/comments/8gy4nd/what_are_some_cool_websites_where_you_can
+https://www.reddit.com/r/freeEBOOKS/wiki/febooks
+https://www.reddit.com/r/FreeEBOOKS+KindleFreebies
 https://www.reddit.com/r/Piracy/wiki/megathread
 https://pinboard.in/u:sharjeelsayed/t:course
 https://pinboard.in/u:sharjeelsayed/t:ebooks
 https://pinboard.in/u:sharjeelsayed/t:learn
 
+http://b-ok.org
+http://breue.com/free_programming_books
+http://findlectures.com
+http://freebookspot.es
 http://libgen.io or http://gen.lib.rus.ec
-https://forcoder.su
-https://ebookee.org
-https://1337x.to
-https://thepiratebay.org or https://thepiratebay-proxylist.org
 http://rarbg.to or https://rarbg.is
+https://1337x.to
+https://books.goalkicker.com
+https://cse.google.com/cse/publicurl?cx=001639227550064093264:dznewka3cca (Google Custom Search Engine for Ebooks)
+https://cse.google.com/cse/publicurl?cx=011394183039475424659:5bfyqg89ers (Google Custom Search Engine for Ebooks)
+https://ebookee.org
+https://forcoder.su
+https://librivox.org
+https://thepiratebay.org or https://thepiratebay-proxylist.org
 https://torrentz2.eu
 https://www.limetorrents.cc
-http://b-ok.org
-http://freebookspot.es
 https://www.myanonamouse.net
-http://findlectures.com
-http://breue.com/free_programming_books
-irc://irc.undernet.org/bookz
-irc://irc.irchighway.net/ebooks
-https://books.goalkicker.com
 https://www.safaribooksonline.com # An ACM Membership provides Safari Books online membership for less.India Sign up page https://services.acm.org/public/qj/proflevel/proflevel_control.cfm?level=3&country=India&form_type=Professional&promo=LEVEL&pay=DD
-https://cse.google.com/cse/publicurl?cx=011394183039475424659:5bfyqg89ers (Google Custom Search Engine for Ebooks)
-https://cse.google.com/cse/publicurl?cx=001639227550064093264:dznewka3cca (Google Custom Search Engine for Ebooks)
+irc://irc.irchighway.net/ebooks
+irc://irc.undernet.org/bookz
 
 MOOC:
 
