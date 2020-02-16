@@ -1379,6 +1379,9 @@ https://www.amazon.com/Intelligent-Investor-Definitive-Investing-Essentials/dp/0
 
 Foreign Language:
 
+Source:
+http://www.runwes.com/2020/02/11/howilearnedfrench.html
+
 https://www.duolingo.com
 https://www.memrise.com
 
@@ -1451,6 +1454,7 @@ https://www.nytimes.com/section/books/review
 https://www.reddit.com/r/AskReddit/comments/34m5n6/reddit_what_are_some_must_read_books
 https://www.reddit.com/r/AskReddit/comments/8cl833/what_are_some_good_books_that_would_make_the
 https://www.reddit.com/r/AskReddit/comments/8gy4nd/what_are_some_cool_websites_where_you_can
+https://www.reddit.com/r/books/wiki/suggested
 https://www.reddit.com/r/freeEBOOKS/wiki/febooks
 https://www.reddit.com/r/FreeEBOOKS+KindleFreebies
 https://www.reddit.com/r/Piracy/wiki/megathread
@@ -1542,6 +1546,7 @@ https://news.ycombinator.com/item?id=18384680 (Ask HN: Other online communities 
 https://news.ycombinator.com/item?id=20023209 (Ask HN: What are your other favorite communities other than Hacker News?)
 https://news.ycombinator.com/item?id=20719651 (Ask HN: What are some niche or alternative news aggregators worth checking out?)
 https://news.ycombinator.com/item?id=21928170 (Ask HN: What niche blogs are worthwhile to follow?)
+https://news.ycombinator.com/item?id=22280939 (Ask HN: What are the underrated newsletters you like reading?)
 https://news.ycombinator.com/item?id=9836023 (Ask HN: What tech blogs, podcasts do you follow outside of HN?)
 https://pinboard.in/popular
 https://www.hackernewspapers.com
