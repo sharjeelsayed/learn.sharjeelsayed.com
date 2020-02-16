@@ -5,14 +5,14 @@
   </head>
   <body>
     <outline text="MustRead" title="MustRead">
+      <outline text="Hacker News: Front Page" title="Hacker News: Front Page" type="rss" xmlUrl="https://hnrss.org/frontpage" htmlUrl="https://news.ycombinator.com/"/>
       <outline text="The Hacker News" title="The Hacker News" type="rss" xmlUrl="http://thehackernews.com/feeds/posts/default" htmlUrl="http://thehackernews.com/"/>
-      <outline text="/r/netsec - Information Security News &amp; Discussion" title="/r/netsec - Information Security News &amp; Discussion" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/netsec/.rss" htmlUrl="https://www.reddit.com/r/netsec/?t=20170706082704"/>
       <outline text="Slashdot" title="Slashdot" type="rss" xmlUrl="http://rss.slashdot.org/Slashdot/slashdotMain" htmlUrl="http://slashdot.org/"/>
       <outline text="World News" title="World News" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/worldnews/.rss" htmlUrl="https://www.reddit.com/r/worldnews/?t=20171123064440"/>
       <outline text="Top Stories - Google News" title="Top Stories - Google News" type="rss" xmlUrl="https://news.google.com/news/rss/?ned=in&amp;amp;gl=IN&amp;amp;hl=en-IN&amp;amp;num=1&amp;amp;topic=h" htmlUrl="https://news.google.coms/rss/?ned=in&amp;amp;gl=IN&amp;amp;hl=en-IN&amp;amp;num=1&amp;amp;topic=h"/>
       <outline text="Unsupervised Learning, by Daniel Miessler" title="Unsupervised Learning, by Daniel Miessler" type="rss" xmlUrl="https://www.kill-the-newsletter.com/feeds/lf0ejx0el0d6ifd6dkk5.xml" htmlUrl="https://www.kill-the-newsletter.com/"/>
       <outline text="hackernewsletter" title="hackernewsletter" type="rss" xmlUrl="https://www.kill-the-newsletter.com/feeds/6yeqhs72sgt8xofd7swu.xml" htmlUrl="https://www.kill-the-newsletter.com/"/>
-      <outline text="Hacker News: Front Page" title="Hacker News: Front Page" type="rss" xmlUrl="https://hnrss.org/frontpage" htmlUrl="https://news.ycombinator.com/"/>
+      <outline text="Pinboard (popular bookmarks)" title="Pinboard (popular bookmarks)" type="rss" xmlUrl="http://feeds.pinboard.in/rss/popular/" htmlUrl="https://pinboard.in/popular/"/>
       <outline text="Techmeme" title="Techmeme" type="rss" xmlUrl="http://www.techmeme.com/index.xml" htmlUrl="http://www.techmeme.com/"/>
     </outline>
     <outline text="News" title="News">
@@ -20,6 +20,7 @@
       <outline text="india, mumbai" title="india, mumbai" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/india%2Bmumbai/.rss" htmlUrl="https://www.reddit.com/r/india+mumbai/?t=1550685261"/>
       <outline text="News from wikipedia events" title="News from wikipedia events" type="rss" xmlUrl="https://news.vinc.cc/search.atom?q=wikipedia+events" htmlUrl="https://news.vinc.cc/"/>
       <outline text="Maharashtra - Google News" title="Maharashtra - Google News" type="rss" xmlUrl="https://news.google.com/rss/topics/CAAqBwgKMOXWjQswrYGgAw?hl=en-IN&amp;gl=IN&amp;ceid=IN%3Aen" htmlUrl="https://news.google.com/topics/CAAqBwgKMOXWjQswrYGgAw?hl=en-IN&amp;gl=IN&amp;ceid=IN:en"/>
+      <outline text="hackernewsletter" title="hackernewsletter" type="rss" xmlUrl="https://www.kill-the-newsletter.com/feeds/6yeqhs72sgt8xofd7swu.xml" htmlUrl="https://www.kill-the-newsletter.com/"/>
       <outline text="World News" title="World News" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/worldnews/.rss" htmlUrl="https://www.reddit.com/r/worldnews/?t=20171123064440"/>
       <outline text="Mumbai, Maharashtra - Google News" title="Mumbai, Maharashtra - Google News" type="rss" xmlUrl="https://news.google.com/news/rss/local/section/geo/Mumbai/Mumbai,%20Maharashtra?ned=in&amp;hl=en-IN&amp;gl=IN" htmlUrl="https://news.google.coms/rss/local/section/geo/Mumbai/Mumbai,%20Maharashtra?ned=in&amp;hl=en-IN&amp;gl=IN"/>
     </outline>
