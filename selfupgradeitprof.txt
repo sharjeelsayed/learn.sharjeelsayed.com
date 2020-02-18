@@ -72,7 +72,7 @@ Money
 Foreign Language
 
 Study Tools:
-Ebooks
+Books
 MOOC
 News
 Podcasts
@@ -1397,7 +1397,7 @@ https://news.ycombinator.com/item?id=14218408 (Ask HN: How do you keep improving
 https://news.ycombinator.com/item?id=16202123 (How to Study: A Brief Guide (buffalo.edu))
 https://www.coursera.org/learn/learning-how-to-learn
 
-Ebooks:
+Books:
 
 Sources:
 http://booksreddit.com
