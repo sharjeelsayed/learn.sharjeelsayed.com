@@ -1461,6 +1461,7 @@ https://www.reddit.com/r/Piracy/wiki/megathread
 https://pinboard.in/u:sharjeelsayed/t:course
 https://pinboard.in/u:sharjeelsayed/t:ebooks
 https://pinboard.in/u:sharjeelsayed/t:learn
+https://www.goodreads.com/sharjeelsayed
 
 http://b-ok.org
 http://breue.com/free_programming_books
@@ -1554,6 +1555,8 @@ https://www.reddit.com/r/AskReddit/comments/9nggyv/what_is_a_great_youtube_chann
 https://www.reddit.com/r/AskReddit/comments/aa7zs9/what_youtube_channels_are_genuinely_worth_watching
 https://www.taggernews.com
 https://www.youtube.com/channel/UCF0pVplsI8R5kcAqgtoRqoA (Popular on YouTube)
+https://news.ycombinator.com/user?id=sharjeelsayed
+https://www.reddit.com/user/SharjeelSayed
 
 RSS Reader:
 Import http://Opml.SharjeelSayed.com , into Inoreader.com
@@ -1564,13 +1567,10 @@ Install the IFTTT Mobile app .Turn on the applet https://IFTTT.com/applets/45614
 Google News:
 https://news.google.com?ned=in&gl=IN&hl=en-IN&num=1&topic=h (India)
 https://news.google.com/local/section/geo/Mumbai/Mumbai,%20Maharashtra?ned=in&hl=en-IN&gl=IN (Mumbai)
+https://news.google.com/topics/CAAqBwgKMOXWjQswrYGgAw?hl=en-IN&gl=IN&ceid=IN:en (Maharashtra)
 
 SubReddits:
 https://www.reddit.com/r/Android+AppleWatch+CryptoCurrency+DataHoarder+Documentaries+FreeEBOOKS+GooglePixel+IndiaInvestments+KindleFreebies+Vaping+announcements+apple+compsci+cscareerquestions+dataisbeautiful+devops+electronic_cigarette+gadgets+hackernews+india+ipad+iphone+juul+learnprogramming+linux+linuxadmin+mac+movies+mumbai+netsec+networking+onebag+programming+science+solotravel+sysadmin+television+todayilearned+travel+worldnews+yubikey
-
-Twitter:
-https://twitter.com/SharjeelSayed
-https://twitter.com/explore
 
 YouTube:
 https://www.youtube.com/channel/UCF0pVplsI8R5kcAqgtoRqoA (YouTube Worldwide Popular Right Now)
@@ -1776,9 +1776,6 @@ https://www.reddit.com/r/sysadmin/comments/4oxxgv/your_favorite_scripts_you_have
 
 https://cse.google.com/cse/publicurl?cx=013208504250323700475:mqurmsvnc8k (Google Custom Search Engine for Sharjeel's Bookmarks)
 https://github.com/SharjeelSayed?direction=desc&sort=stars&tab=stars
-https://news.ycombinator.com/user?id=sharjeelsayed
-https://www.goodreads.com/user/show/36136296-sharjeel-sayed
-https://www.reddit.com/user/SharjeelSayed
 
 Support this page with these referral links:
 https://db.tt/YL0e12GN (Dropbox 500 MB of bonus space)
