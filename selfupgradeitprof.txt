@@ -1484,6 +1484,24 @@ https://www.safaribooksonline.com # An ACM Membership provides Safari Books onli
 irc://irc.irchighway.net/ebooks
 irc://irc.undernet.org/bookz
 
+Kindle:
+
+https://ebook.online-convert.com
+https://en.wikipedia.org/wiki/Kindle_File_Format
+https://www.amazon.com/b/?node=11552285011 (Kindle Book Deals)
+https://www.amazon.com/kindle-dbs/emailsubs (Kindle Email Subscriptions)
+https://www.amazon.in/gp/help/customer/display.html?nodeId=G7NECT4B4ZWHQ8WV (Learn How to Use Your Send to Kindle Email Address)
+https://www.amazon.in/hz/mycd/myx (Manage Your Content & Devices)
+https://www.reddit.com/r/freeEBOOKS/wiki/febooks
+https://www.reddit.com/r/FreeEBOOKS+KindleFreebies+kindle
+https://www.reddit.com/r/kindle/comments/f5ztc1/til_if_you_change_the_suffix_of_your_ebook_from
+https://www.reddit.com/r/kindle/wiki
+https://youtu.be/O36h-GBAcDQ (10 cool things to do with Amazon Kindle Paperwhite ebook reader!)
+
+"Sideloading" via Amazon's "Cloud" aka "Personal documents service" aka "Send to Kindle Email" makes book treated as personal documents (PDOC tag is inserted) which precludes them from having some of the functionality that books bought on Amazon have. Goodreads integration (as in adding to shelf or updating reading status) is one of those things that PDOCs don't get. So you have to choose which is more important to you.
+1) Sync of last page read between different devices via sending the book in .mobi/.png format to "send to kindle" email address ) OR
+2) Having the Goodreads stuff and sharing quotes etc on FB and Goodread by faking that the Calibre converted book is actually from Kindle Store (by editing the ASIN field to match Kindle Store edition of that same book)
+
 MOOC:
 
 Sources:
@@ -1570,7 +1588,7 @@ https://news.google.com/local/section/geo/Mumbai/Mumbai,%20Maharashtra?ned=in&hl
 https://news.google.com/topics/CAAqBwgKMOXWjQswrYGgAw?hl=en-IN&gl=IN&ceid=IN:en (Maharashtra)
 
 SubReddits:
-https://www.reddit.com/r/Android+AppleWatch+CryptoCurrency+DataHoarder+Documentaries+FreeEBOOKS+GooglePixel+IndiaInvestments+KindleFreebies+Vaping+announcements+apple+compsci+cscareerquestions+dataisbeautiful+devops+electronic_cigarette+gadgets+hackernews+india+ipad+iphone+juul+learnprogramming+linux+linuxadmin+mac+movies+mumbai+netsec+networking+onebag+programming+science+solotravel+sysadmin+television+todayilearned+travel+worldnews+yubikey
+https://www.reddit.com/r/Android+AppleWatch+CryptoCurrency+DataHoarder+Documentaries+FreeEBOOKS+GooglePixel+IndiaInvestments+KindleFreebies+Vaping+announcements+apple+compsci+cscareerquestions+dataisbeautiful+devops+electronic_cigarette+gadgets+hackernews+india+ipad+iphone+juul+kindle+learnprogramming+linux+linuxadmin+mac+movies+mumbai+netsec+networking+onebag+programming+science+solotravel+sysadmin+television+todayilearned+travel+worldnews+yubikey
 
 YouTube:
 https://www.youtube.com/channel/UCF0pVplsI8R5kcAqgtoRqoA (YouTube Worldwide Popular Right Now)
@@ -1780,3 +1798,4 @@ https://github.com/SharjeelSayed?direction=desc&sort=stars&tab=stars
 Support this page with these referral links:
 https://db.tt/YL0e12GN (Dropbox 500 MB of bonus space)
 https://www.expressrefer.com/refer-friend?referrer_id=39360476 (ExpressVPN 30 days free)
+http://amex.in/refer/sharjsycSe?CPID=100267379 (American Express)
