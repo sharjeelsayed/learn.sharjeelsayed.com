@@ -73,6 +73,7 @@ Foreign Language
 
 Study Tools:
 Books
+Kindle
 MOOC
 News
 Podcasts
@@ -1499,7 +1500,7 @@ https://www.reddit.com/r/kindle/wiki
 https://youtu.be/O36h-GBAcDQ (10 cool things to do with Amazon Kindle Paperwhite ebook reader!)
 
 "Sideloading" via Amazon's "Cloud" aka "Personal documents service" aka "Send to Kindle Email" makes book treated as personal documents (PDOC tag is inserted) which precludes them from having some of the functionality that books bought on Amazon have. Goodreads integration (as in adding to shelf or updating reading status) is one of those things that PDOCs don't get. So you have to choose which is more important to you.
-1) Sync of last page read between different devices via sending the book in .mobi/.png format to "send to kindle" email address ) OR
+1) Sync of last page read between different devices via sending the book in .mobi/.png (rename .epub to .png) format to "send to kindle" email address ) OR
 2) Having the Goodreads stuff and sharing quotes etc on FB and Goodread by faking that the Calibre converted book is actually from Kindle Store (by editing the ASIN field to match Kindle Store edition of that same book)
 
 MOOC:
