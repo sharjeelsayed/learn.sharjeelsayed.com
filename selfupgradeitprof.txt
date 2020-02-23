@@ -1266,6 +1266,7 @@ http://sabok.org (Guide to the Systems Administration Body of Knowledge)
 http://startupstash.com
 http://www.toomas.net/2017/07/18/reverse-engineering-a-successful-lifestyle-business-heres-everything-ive-learned-from-reading-indiehackers-com
 https://github.com/dakshshah96/awesome-startup-credits (A collection of awesome companies offering free/discounted plans for eligible startups)
+https://github.com/VGraupera/1on1-questions
 https://news.ycombinator.com/item?id=11209066 (Why you probably don't need an MBA)
 https://news.ycombinator.com/item?id=13207268 (Ask HN: How do I get freelance developer jobs?)
 https://news.ycombinator.com/item?id=13855577 (Ask HN: What do you use to align your daily todos with your long term goals?)
@@ -1797,6 +1798,6 @@ https://cse.google.com/cse/publicurl?cx=013208504250323700475:mqurmsvnc8k (Googl
 https://github.com/SharjeelSayed?direction=desc&sort=stars&tab=stars
 
 Support this page with these referral links:
+http://amex.in/refer/sharjsycSe?CPID=100267379 (American Express)
 https://db.tt/YL0e12GN (Dropbox 500 MB of bonus space)
 https://www.expressrefer.com/refer-friend?referrer_id=39360476 (ExpressVPN 30 days free)
-http://amex.in/refer/sharjsycSe?CPID=100267379 (American Express)
