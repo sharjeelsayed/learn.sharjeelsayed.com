@@ -1465,6 +1465,7 @@ https://pinboard.in/u:sharjeelsayed/t:ebooks
 https://pinboard.in/u:sharjeelsayed/t:learn
 https://www.goodreads.com/sharjeelsayed
 
+http://audiobookbay.nl
 http://b-ok.org
 http://breue.com/free_programming_books
 http://findlectures.com
@@ -1477,9 +1478,11 @@ https://cse.google.com/cse/publicurl?cx=001639227550064093264:dznewka3cca (Googl
 https://cse.google.com/cse/publicurl?cx=011394183039475424659:5bfyqg89ers (Google Custom Search Engine for Ebooks)
 https://ebookee.org
 https://forcoder.su
+https://forum.mobilism.org
 https://librivox.org
 https://thepiratebay.org or https://thepiratebay-proxylist.org
 https://torrentz2.eu
+https://www.gutenberg.org
 https://www.limetorrents.cc
 https://www.myanonamouse.net
 https://www.safaribooksonline.com # An ACM Membership provides Safari Books online membership for less.India Sign up page https://services.acm.org/public/qj/proflevel/proflevel_control.cfm?level=3&country=India&form_type=Professional&promo=LEVEL&pay=DD
