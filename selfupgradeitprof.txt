@@ -1488,9 +1488,11 @@ https://www.ereaderiq.com
 https://www.gutenberg.org
 https://www.limetorrents.cc
 https://www.myanonamouse.net
-https://www.safaribooksonline.com # An ACM Membership provides Safari Books online membership for less.India Sign up page https://services.acm.org/public/qj/proflevel/proflevel_control.cfm?level=3&country=India&form_type=Professional&promo=LEVEL&pay=DD
+https://www.oreilly.com
 irc://irc.irchighway.net/ebooks
 irc://irc.undernet.org/bookz
+
+An ACM Membership provides O’Reilly access (https://www.oreilly.com) for less. The India Sign up page is at https://services.acm.org/public/qj/proflevel/proflevel_control.cfm?level=3&country=India&form_type=Professional&promo=LEVEL&pay=DD
 
 Kindle:
 
