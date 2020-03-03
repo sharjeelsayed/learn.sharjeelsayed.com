@@ -1448,6 +1448,7 @@ https://news.ycombinator.com/item?id=22299180 (Ask HN: What are some books where
 https://opentrackers.org/downloading-ebooks-textbooks
 https://redditfavorites.com/books
 https://torrentfreak.com/top-10-most-popular-torrent-sites-of-2019
+https://wiki.mobileread.com/wiki/EBook_Lending_Libraries
 https://www.amazon.com/b/?node=8192263011 (100 Books to Read in a Lifetime)
 https://www.amazon.com/best-sellers-books-Amazon/zgbs/books
 https://www.amazon.com/charts
@@ -1458,6 +1459,7 @@ https://www.reddit.com/r/AskReddit/comments/34m5n6/reddit_what_are_some_must_rea
 https://www.reddit.com/r/AskReddit/comments/8cl833/what_are_some_good_books_that_would_make_the
 https://www.reddit.com/r/AskReddit/comments/8gy4nd/what_are_some_cool_websites_where_you_can
 https://www.reddit.com/r/books/wiki/suggested
+https://www.reddit.com/r/FreeEBOOKS/comments/exw3gj/here_are_50_classic_books_that_you_can_download
 https://www.reddit.com/r/freeEBOOKS/wiki/febooks
 https://www.reddit.com/r/FreeEBOOKS+KindleFreebies
 https://www.reddit.com/r/Piracy/wiki/megathread
@@ -1509,6 +1511,12 @@ https://www.reddit.com/r/FreeEBOOKS+KindleFreebies+kindle
 https://www.reddit.com/r/kindle/comments/f5ztc1/til_if_you_change_the_suffix_of_your_ebook_from
 https://www.reddit.com/r/kindle/wiki
 https://youtu.be/O36h-GBAcDQ (10 cool things to do with Amazon Kindle Paperwhite ebook reader!)
+
+How to get X Ray in a side loaded book
+1) In calibre, go into "edit metadata" and add the amazon ID number. Important: make sure you're using the amazon ID number from the kindle store, not from another edition of the book
+2) Use the "Quality Check" plugin to "Fix ASIN for kindle fire"
+3) Convert to AZW3 (not .mobi)
+4) Repeat step 2. This is probably unnecessary but it just takes a second. 
 
 MOOC:
 
