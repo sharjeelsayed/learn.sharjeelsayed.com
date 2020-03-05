@@ -643,6 +643,13 @@ https://github.com/kelseyhightower/kubernetes-the-hard-way
 
 VMware:
 
+Source:
+https://communities.vmware.com/community/vmtn/resources/how
+https://labs.hol.vmware.com
+https://mylearn.vmware.com
+https://www.reddit.com/r/vmware/top
+https://www.youtube.com/user/VMwareKB
+
 VMware vSphere 6.5 (VCP6.5-DCV) with 6.7 Updates
 https://www.cbtnuggets.com/it-training/vmware-vsphere-6-vcp6-5-dcv
 
