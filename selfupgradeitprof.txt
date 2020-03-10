@@ -212,6 +212,7 @@ https://news.ycombinator.com/item?id=20556336 (Ask HN: What are the “best” c
 https://news.ycombinator.com/item?id=22011743 (Ask HN: Are there any openly available software architecture documents?)
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/index.htm
 https://softwareengineeringdaily.com
+https://www.daolf.com/posts/best-programming-books
 https://www.microsoft.com/en-us/research/blog/category/podcast
 https://www.reddit.com/r/compsci+cscareerquestions+learnprogramming+programming
 https://www.reddit.com/r/cscareerquestions/comments/6hmlxr/what_are_the_most_indemand_software_skills_right/dizqiie
@@ -842,6 +843,7 @@ https://news.ycombinator.com/item?id=15198093 (Beej's Guide to C Programming (20
 https://news.ycombinator.com/item?id=16196194 (Brushing up on operating systems and C programming)
 https://news.ycombinator.com/item?id=16347309 (Ask HN: What project did you tackle to learn C?)
 https://news.ycombinator.com/item?id=19126544 (Show HN: Learn C and its lower levels interactively, in the browser)
+https://news.ycombinator.com/item?id=22519876 (	Ask HN: How do I learn C properly?)
 
 Learn C The Hard Way
 https://learncodethehardway.org/c
@@ -927,8 +929,13 @@ Git:
 
 Sources:
 https://github.com/topics/git?o=desc&s=stars
+https://news.ycombinator.com/item?id=12802949 (Git from the inside out (recurse.com))
 https://news.ycombinator.com/item?id=18919599 (How to teach Git (rachelcarmena.github.io))
 https://news.ycombinator.com/item?id=21189256 (99% of the Git commands you'll need at work, demonstrated in a single script (bitbucket.org))
+https://www.reddit.com/r/programming/comments/fd9zpj/becoming_a_git_pro_part_1_internal_git/fjge9vy/
+
+Git from the Bottom Up
+https://jwiegley.github.io/git-from-the-bottom-up
 
 Pro Git
 https://git-scm.com/book/en/v2
