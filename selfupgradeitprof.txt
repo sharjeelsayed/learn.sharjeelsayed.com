@@ -529,6 +529,7 @@ https://www.amazon.com/Design-Implementation-FreeBSD-Operating-System/dp/0321968
 Bash:
 
 Sources:
+https://github.com/alebcay/awesome-shell
 https://github.com/dylanaraps/pure-bash-bible
 https://github.com/jlevy/the-art-of-command-line
 https://github.com/koalaman/shellcheck
@@ -930,18 +931,19 @@ Git:
 Sources:
 https://github.com/topics/git?o=desc&s=stars
 https://news.ycombinator.com/item?id=12802949 (Git from the inside out (recurse.com))
-https://news.ycombinator.com/item?id=18919599 (How to teach Git (rachelcarmena.github.io))
 https://news.ycombinator.com/item?id=21189256 (99% of the Git commands you'll need at work, demonstrated in a single script (bitbucket.org))
 https://www.reddit.com/r/programming/comments/fd9zpj/becoming_a_git_pro_part_1_internal_git/fjge9vy/
 
 Git from the Bottom Up
+https://github.com/jwiegley/git-from-the-bottom-up
 https://jwiegley.github.io/git-from-the-bottom-up
-
-Pro Git
-https://git-scm.com/book/en/v2
+http://ftp.newartisans.com/pub/git.from.bottom.up.pdf
 
 Learn Git Branching
 https://learngitbranching.js.org
+
+Pro Git
+https://git-scm.com/book/en/v2
 
 Vim:
 
