@@ -929,10 +929,12 @@ https://regex101.com
 Git:
 
 Sources:
+https://github.com/git-tips/tips
 https://github.com/topics/git?o=desc&s=stars
-https://news.ycombinator.com/item?id=12802949 (Git from the inside out (recurse.com))
+https://news.ycombinator.com/item?id=18924921 (How to teach Git)
 https://news.ycombinator.com/item?id=21189256 (99% of the Git commands you'll need at work, demonstrated in a single script (bitbucket.org))
-https://www.reddit.com/r/programming/comments/fd9zpj/becoming_a_git_pro_part_1_internal_git/fjge9vy/
+https://www.reddit.com/r/git/top
+https://www.reddit.com/r/programming/comments/fd9zpj/becoming_a_git_pro_part_1_internal_git/fjge9vy
 
 Git from the Bottom Up
 https://github.com/jwiegley/git-from-the-bottom-up
@@ -1380,6 +1382,7 @@ https://news.ycombinator.com/item?id=17359102 (Ask HN: What are some good resour
 https://news.ycombinator.com/item?id=18526090 (Ask HN: Online banks where I can open account worldwide?)
 https://news.ycombinator.com/item?id=20154382 (Books to Understand Economics (filmlifestyle.com))
 https://news.ycombinator.com/item?id=20521902 (Ask HN: What did you do when you suddenly got rich?)
+https://news.ycombinator.com/item?id=22573204 (Ask HN: Book recommendations for understanding financial systems?)
 https://www.amazon.com/gp/bestsellers/books/491584
 https://www.reddit.com/r/Economics/wiki/reading
 https://www.reddit.com/r/india/comments/6b480c/psa_investing_in_mutual_funds_101
@@ -1460,6 +1463,7 @@ https://news.ycombinator.com/item?id=20914127 (Ask HN: What are your favorite bo
 https://news.ycombinator.com/item?id=21765528 (Ask HN: Fun Tech Book Recommendations?)
 https://news.ycombinator.com/item?id=22092108 (Ask HN: What are the best unknown books you have read?)
 https://news.ycombinator.com/item?id=22299180 (Ask HN: What are some books where the reader learns by building projects?)
+https://news.ycombinator.com/item?id=22502554 (Ask HN: What are some deep, mentality changing books?)
 https://opentrackers.org/downloading-ebooks-textbooks
 https://redditfavorites.com/books
 https://torrentfreak.com/top-10-most-popular-torrent-sites-of-2019
