@@ -1,6 +1,6 @@
 Curated Self Study Guide for Computer Science and DevOps/SRE/SysAdmin
 
-An always updated copy of this document can be found at http://Learn.SharjeelSayed.com
+This page is hosted at http://Learn.SharjeelSayed.com
 Fork this at https://github.com/SharjeelSayed/SharjeelSayed.github.io
 Reach me at http://SharjeelSayed.com
 
@@ -651,7 +651,7 @@ https://github.com/kelseyhightower/kubernetes-the-hard-way
 
 VMware:
 
-Source:
+Sources:
 https://communities.vmware.com/community/vmtn/resources/how
 https://labs.hol.vmware.com
 https://mylearn.vmware.com
@@ -1621,7 +1621,7 @@ RSS Reader:
 Import http://Opml.SharjeelSayed.com , into Inoreader.com
 
 Tech News Notifications (iOS/Android):
-Install the IFTTT Mobile app .Turn on the applet https://IFTTT.com/applets/456148p and add https://www.techmeme.com/feed.xml into the 'Feed URL' field of the applet.
+Turn on the applet https://IFTTT.com/applets/456148p in the IFTTT Mobile app and add https://www.techmeme.com/feed.xml into the 'Feed URL' field of the applet.
 
 Google News:
 https://news.google.com?ned=in&gl=IN&hl=en-IN&num=1&topic=h (India)
