@@ -603,6 +603,7 @@ Sources:
 https://github.com/topics/docker?o=desc&s=stars
 https://github.com/veggiemonk/awesome-docker
 https://github.com/wsargent/docker-cheat-sheet
+https://news.ycombinator.com/item?id=15822583 (Ask HN: Good resources on learning how docker works under the hood?)
 https://www.udemy.com/topic/docker/?ratings=4.5&sort=popularity
 
 Docker Documentation
@@ -632,6 +633,9 @@ https://kubernetes.io/docs
 https://kubernetes.io/docs/concepts
 https://news.ycombinator.com/item?id=22689119 (Anyone have a recommended guide for Kubernetes?)
 https://www.reddit.com/r/devops/comments/e8atqt/books_to_learn_kubernetes_theory
+
+Kubernetes: Up and Running: Dive into the Future of Infrastructure 2nd Edition
+https://www.amazon.com/Kubernetes-Running-Dive-Future-Infrastructure/dp/1492046531
 
 Kubernetes for Full-Stack Developers
 https://www.digitalocean.com/community/curriculums/kubernetes-for-full-stack-developers
