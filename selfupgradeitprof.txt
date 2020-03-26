@@ -476,6 +476,7 @@ http://stackoverflow.com/questions/236838/what-are-good-linuxunix-books-for-an-a
 https://github.com/0xAX/linux-insides
 https://github.com/luong-komorebi/Awesome-Linux-Software
 https://github.com/topics/linux?o=desc&s=stars
+https://news.ycombinator.com/item?id=22564665 (Linux Kernel Teaching (linux-kernel-labs.github.io))
 https://news.ycombinator.com/item?id=3257393 (What's the one Linux command you wish you knew years ago?)
 https://www.digitalocean.com/community/tutorials?primary_filter=popular
 https://www.reddit.com/r/linux4noobs/wiki/resources
@@ -629,6 +630,7 @@ Sources:
 https://github.com/ramitsurana/awesome-kubernetes
 https://kubernetes.io/docs
 https://kubernetes.io/docs/concepts
+https://news.ycombinator.com/item?id=22689119 (Anyone have a recommended guide for Kubernetes?)
 https://www.reddit.com/r/devops/comments/e8atqt/books_to_learn_kubernetes_theory
 
 Kubernetes for Full-Stack Developers
@@ -1831,6 +1833,6 @@ https://cse.google.com/cse/publicurl?cx=013208504250323700475:mqurmsvnc8k (Googl
 https://github.com/SharjeelSayed?direction=desc&sort=stars&tab=stars
 
 Support this page with these referral links:
-http://amex.in/refer/sharjsycSe?CPID=100267379 (American Express)
+http://amex.in/refer/sHARJsCJfI (American Express)
 https://db.tt/YL0e12GN (Dropbox 500 MB of bonus space)
 https://www.expressrefer.com/refer-friend?referrer_id=39360476 (ExpressVPN 30 days free)
