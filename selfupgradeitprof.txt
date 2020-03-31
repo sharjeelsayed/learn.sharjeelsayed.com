@@ -394,7 +394,7 @@ Additional Material:
 CCNA Routing and Switching 200-125 Official Cert Guide Library
 https://www.amazon.com/Routing-Switching-200-125-Official-Library/dp/1587205815
 
-CBT Nuggets by Jeremey Cioara
+Cisco CCENT/CCNA CBT Nuggets by Jeremey Cioara
 https://www.cbtnuggets.com/it-training/cisco-ccna-icnd1-100-105
 https://www.cbtnuggets.com/it-training/icnd2-200-105
 
@@ -1632,8 +1632,8 @@ https://news.google.com?ned=in&gl=IN&hl=en-IN&num=1&topic=h (India)
 https://news.google.com/local/section/geo/Mumbai/Mumbai,%20Maharashtra?ned=in&hl=en-IN&gl=IN (Mumbai)
 https://news.google.com/topics/CAAqBwgKMOXWjQswrYGgAw?hl=en-IN&gl=IN&ceid=IN:en (Maharashtra)
 
-SubReddits:
-https://www.reddit.com/r/Android+AppleWatch+COVID19+Coronavirus+CryptoCurrency+DataHoarder+Documentaries+FreeEBOOKS+GooglePixel+IndiaInvestments+KindleFreebies+Vaping+announcements+apple+compsci+cscareerquestions+dataisbeautiful+devops+electronic_cigarette+gadgets+hackernews+india+ipad+iphone+juul+kindle+learnprogramming+linux+linuxadmin+mac+movies+mumbai+netsec+networking+onebag+programming+science+solotravel+sysadmin+television+todayilearned+travel+worldnews+yubikey
+Reddits:
+https://www.reddit.com/r/Android+AppHookup+AppleWatch+COVID19+Coronavirus+CryptoCurrency+DataHoarder+Documentaries+FreeEBOOKS+GooglePixel+IndiaInvestments+KindleFreebies+Vaping+announcements+apple+compsci+cscareerquestions+dataisbeautiful+devops+electronic_cigarette+gadgets+hackernews+india+ipad+iphone+juul+kindle+learnprogramming+linux+linuxadmin+mac+movies+mumbai+netsec+networking+onebag+programming+science+solotravel+sysadmin+television+todayilearned+travel+worldnews+yubikey
 
 YouTube:
 https://www.youtube.com/channel/UCF0pVplsI8R5kcAqgtoRqoA (YouTube Worldwide Popular Right Now)
