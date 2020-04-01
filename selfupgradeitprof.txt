@@ -706,8 +706,9 @@ https://www.amazon.com/Amazon-Services-Action-Andreas-Wittig/dp/1617295116
 https://www.manning.com/books/amazon-web-services-in-action-second-edition
 https://github.com/AWSinAction
 
-A Cloud Guru Courses: Amazon Web Services
+AWS Certified Solutions Architect - Associate 2020
 https://acloud.guru/courses/amazon-web-services
+https://www.udemy.com/course/aws-certified-solutions-architect-associate
 
 Linux Academy: AWS Certification Training
 https://linuxacademy.com/amazon-web-services/courses
