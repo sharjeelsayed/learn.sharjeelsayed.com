@@ -616,12 +616,12 @@ https://training.play-with-docker.com
 Docker for Beginners
 https://prakhar.me/docker-curriculum
 
+Docker Mastery: with Kubernetes +Swarm from a Docker Captain
+https://www.udemy.com/course/docker-mastery
+
 Docker for Beginners: Full Course
 https://youtu.be/zJ6WbK9zFpI
 https://www.kodekloud.com/p/docker-labs
-
-Docker Mastery: with Kubernetes +Swarm from a Docker Captain
-https://www.udemy.com/course/docker-mastery
 
 Docker and Kubernetes: The Complete Guide by Stephen Grider
 https://www.udemy.com/docker-and-kubernetes-the-complete-guide
@@ -1588,6 +1588,7 @@ https://www.reddit.com/r/DataHoarder/comments/c6fh4x/after_hoarding_over_50k_you
 https://www.reddit.com/r/sysadmin/comments/65wdum/whats_your_favorite_selfstudy_resource_paid_free
 https://www.sololearn.com
 https://www.udacity.com/courses/all
+https://www.udemy.com/courses/free/?p=12&sort=popularity
 https://yahnd.com (Best courses , talks and videos recommended on Hacker News)
 
 News:
