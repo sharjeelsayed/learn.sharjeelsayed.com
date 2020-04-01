@@ -796,6 +796,9 @@ https://www.ansiblefordevops.com
 Ansible Videos
 https://www.ansible.com/videos
 
+Ansible tutorial
+https://github.com/leucos/ansible-tuto
+
 Interactive Ansible tutorials with dead simple setup via Docker
 https://github.com/turkenh/ansible-interactive-tutorial
 
@@ -1221,7 +1224,6 @@ https://news.ycombinator.com/item?id=16479922 (Ask HN: Resumes that look good bu
 https://news.ycombinator.com/item?id=17671490 (Building a Kickass Portfolio)
 https://news.ycombinator.com/item?id=22709183 (	Show HN: RxResume – A free and open-source resume builder (web.app))
 https://www.reddit.com/r/sysadminresumes/top
-
 https://pinboard.in/u:sharjeelsayed/t:resume
 
 Job Portals:
