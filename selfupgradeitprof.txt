@@ -838,7 +838,7 @@ https://learnpythonthehardway.org/python3
 http://www.informit.com/promotions/book-registration-learn-python-3-the-hard-way-141409 (Videos)
 
 Automate the Boring Stuff with Python
-https://automatetheboringstuff.com
+https://automatetheboringstuff.com/2e
 
 The Python Tutorial
 http://docs.python.org/py3k/tutorial/index.html
@@ -1427,6 +1427,7 @@ https://collegeinfogeek.com/spaced-repetition-memory-technique
 https://en.wikipedia.org/wiki/Pomodoro_Technique
 https://news.ycombinator.com/item?id=14218408 (Ask HN: How do you keep improving?)
 https://news.ycombinator.com/item?id=16202123 (How to Study: A Brief Guide (buffalo.edu))
+https://www.comptia.org/testing/online-testing-interest-form (Focusmate – Virtual Coworking Helps You Get Things Done (focusmate.com))
 https://www.coursera.org/learn/learning-how-to-learn
 
 Books:
