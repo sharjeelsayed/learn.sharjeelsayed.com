@@ -180,6 +180,7 @@ https://github.com/tuvtran/project-based-learning
 https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=every%20programmer&sort=byPopularity&type=story (Things every programmer should know)
 https://insights.stackoverflow.com/survey/2018
 https://learnxinyminutes.com
+https://mapfilterfold.com/?genre=programming
 https://news.ycombinator.com/item?id=11465234 (Composing Programs – Python 3 in the tradition of SICP)
 https://news.ycombinator.com/item?id=12702651 (Ask HN: What is your favorite YouTube channel for developers?)
 https://news.ycombinator.com/item?id=12718102 (Programming books you might want to consider reading)
@@ -211,8 +212,10 @@ https://news.ycombinator.com/item?id=18422000 (Ask HN: Where to find someone to 
 https://news.ycombinator.com/item?id=18961793 (Ask HN: What are must-know concepts for back end development?)
 https://news.ycombinator.com/item?id=20556336 (Ask HN: What are the “best” codebases that you've encountered?)
 https://news.ycombinator.com/item?id=22011743 (Ask HN: Are there any openly available software architecture documents?)
+https://news.ycombinator.com/item?id=22767351 (Most-recommended programming books:Overtime I've built my own list of lists.)
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/index.htm
 https://softwareengineeringdaily.com
+https://toptalkedbooks.com/stackoverflow/all
 https://www.daolf.com/posts/best-programming-books
 https://www.microsoft.com/en-us/research/blog/category/podcast
 https://www.reddit.com/r/compsci+cscareerquestions+learnprogramming+programming
@@ -1453,6 +1456,7 @@ https://github.com/aaronthecodpro/Reddit-Privacy-Megathread
 https://github.com/Igglybuff/awesome-piracy
 https://hackernewsbooks.com
 https://hn.algolia.com/?query=books&sort=byPopularity&prefix&page=0&dateRange=all&type=story
+https://mapfilterfold.com (Meta Recommendations from HN)
 https://news.ycombinator.com/item?id=13803787 (Ask HN: What books fundamentally changed the way you think about the world?)
 https://news.ycombinator.com/item?id=14477851 (Ask HN: Books you wish you had read earlier?)
 https://news.ycombinator.com/item?id=15155833 (Ask HN: What books have made the biggest impact on your mental models?)
@@ -1479,6 +1483,7 @@ https://news.ycombinator.com/item?id=22299180 (Ask HN: What are some books where
 https://news.ycombinator.com/item?id=22502554 (Ask HN: What are some deep, mentality changing books?)
 https://news.ycombinator.com/item?id=22718592 (Ask HN: Great fiction books that have had a positive impact on your life?)
 https://opentrackers.org/downloading-ebooks-textbooks
+https://ramiro.org/vis/hn-most-linked-books
 https://redditfavorites.com/books
 https://torrentfreak.com/top-10-most-popular-torrent-sites-of-2019
 https://wiki.mobileread.com/wiki/EBook_Lending_Libraries
