@@ -1581,6 +1581,7 @@ https://news.ycombinator.com/item?id=20583581 (Your favourite tutorial for total
 https://news.ycombinator.com/item?id=21450126 (Free Online Courses from Top Universities (openculture.com))
 https://www.class-central.com/collection/top-free-online-courses
 https://www.class-central.com/subject/cs
+https://www.classcentral.com/collection/ivy-league-moocs?subject=cs
 https://www.classcentral.com/starting-this-month
 https://www.coursebuffet.com/sub/computer-science
 https://www.coursera.org/browse/computer-science
