@@ -633,10 +633,13 @@ Kubernetes:
 
 Sources:
 https://github.com/ramitsurana/awesome-kubernetes
-https://kubernetes.io/docs
 https://kubernetes.io/docs/concepts
+https://kubernetes.io/training
 https://news.ycombinator.com/item?id=22689119 (Anyone have a recommended guide for Kubernetes?)
 https://www.reddit.com/r/devops/comments/e8atqt/books_to_learn_kubernetes_theory
+
+Kubernetes official tutorials
+https://github.com/kubernetes/kubernetes
 
 Kubernetes: Up and Running: Dive into the Future of Infrastructure 2nd Edition
 https://www.amazon.com/Kubernetes-Running-Dive-Future-Infrastructure/dp/1492046531
@@ -644,14 +647,14 @@ https://www.amazon.com/Kubernetes-Running-Dive-Future-Infrastructure/dp/14920465
 Kubernetes for Full-Stack Developers
 https://www.digitalocean.com/community/curriculums/kubernetes-for-full-stack-developers
 
-Kubernetes official tutorials
-https://github.com/kubernetes/kubernetes
-
 Kubernetes in Action 1st Edition
 https://www.amazon.com/Kubernetes-Action-Marko-Luksa/dp/1617293725
 
 Kubernetes The Hard Way
 https://github.com/kelseyhightower/kubernetes-the-hard-way
+
+What happens when ... Kubernetes edition!
+https://github.com/jamiehannaford/what-happens-when-k8s
 
 VMware:
 
@@ -1644,7 +1647,7 @@ https://news.google.com/local/section/geo/Mumbai/Mumbai,%20Maharashtra?ned=in&hl
 https://news.google.com/topics/CAAqBwgKMOXWjQswrYGgAw?hl=en-IN&gl=IN&ceid=IN:en (Maharashtra)
 
 Reddits:
-https://www.reddit.com/r/Android+AppHookup+AppleWatch+COVID19+Coronavirus+CryptoCurrency+DataHoarder+Documentaries+FreeEBOOKS+GooglePixel+IndiaInvestments+KindleFreebies+Piracy+Vaping+announcements+apple+compsci+cscareerquestions+dataisbeautiful+devops+electronic_cigarette+gadgets+hackernews+india+ipad+iphone+juul+kindle+learnprogramming+linux+linuxadmin+mac+movies+mumbai+netsec+networking+onebag+programming+science+solotravel+sysadmin+television+todayilearned+travel+worldnews+yubikey
+https://www.reddit.com/r/Android+AppHookup+AppleWatch+COVID19+Coronavirus+CryptoCurrency+DataHoarder+Documentaries+FreeEBOOKS+GooglePixel+IndiaInvestments+KindleFreebies+Piracy+Vaping+announcements+apple+compsci+cscareerquestions+dataisbeautiful+devops+docker+electronic_cigarette+gadgets+hackernews+india+ipad+iphone+juul+kindle+kubernetes+learnprogramming+linux+linuxadmin+mac+movies+mumbai+netsec+networking+onebag+programming+science+solotravel+sysadmin+television+todayilearned+travel+worldnews+yubikey
 
 YouTube:
 https://www.youtube.com/channel/UCF0pVplsI8R5kcAqgtoRqoA (YouTube Worldwide Popular Right Now)
