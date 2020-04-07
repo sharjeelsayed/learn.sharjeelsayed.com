@@ -632,6 +632,7 @@ https://www.udemy.com/docker-and-kubernetes-the-complete-guide
 Kubernetes:
 
 Sources:
+https://digitaldefynd.com/best-kubernetes-tutorial-training-course
 https://github.com/ramitsurana/awesome-kubernetes
 https://kubernetes.io/docs/concepts
 https://kubernetes.io/training
@@ -1657,6 +1658,8 @@ https://www.youtube.com/user/SayedSharjeel/channels
 Bookmarks:
 Import http://Bookmarks.SharjeelSayed.com into your Browser or view live at https://pinboard.in/u:SharjeelSayed
 Search Engine for my Bookmarks http://SearchBookmarks.SharjeelSayed.com
+https://cse.google.com/cse/publicurl?cx=013208504250323700475:mqurmsvnc8k (Google Custom Search Engine for Sharjeel's Bookmarks)
+https://github.com/SharjeelSayed?direction=desc&sort=stars&tab=stars (Starred Github Repositroies)
 
 
 Podcasts:
@@ -1841,6 +1844,7 @@ https://news.ycombinator.com/item?id=21310030 (Ask HN: How do you share/organize
 https://news.ycombinator.com/item?id=21373931 (Ask HN: What do you automate in your life and work?)
 https://news.ycombinator.com/item?id=21581361 (Ask HN: What's the most valuable thing you can learn in an hour?)
 https://redditprofile.com (Find an Expert on Reddit)
+https://twitter.com/search?q=Gone%20Free%20(from%3Asharjeelsayed)
 https://www.nala.ie/resources/better-handwriting-adults
 https://www.producthunt.com
 https://www.reddit.com/r/Addons4Kodi/wiki/preferred_addons
@@ -1850,9 +1854,6 @@ https://www.reddit.com/r/AskReddit/comments/6q2b8x/reddit_whats_become_clear_to_
 https://www.reddit.com/r/AskReddit/comments/70q5f2/reddit_what_are_the_most_useful_askreddit_posts
 https://www.reddit.com/r/india/wiki/useful_posts
 https://www.reddit.com/r/sysadmin/comments/4oxxgv/your_favorite_scripts_you_have_stolen_or_made
-
-https://cse.google.com/cse/publicurl?cx=013208504250323700475:mqurmsvnc8k (Google Custom Search Engine for Sharjeel's Bookmarks)
-https://github.com/SharjeelSayed?direction=desc&sort=stars&tab=stars
 
 Support this page with these referral links:
 http://amex.in/refer/sHARJsCJfI (American Express)
