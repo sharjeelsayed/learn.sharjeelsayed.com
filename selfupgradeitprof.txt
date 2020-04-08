@@ -1663,7 +1663,7 @@ Bookmarks:
 Import http://Bookmarks.SharjeelSayed.com into your Browser or view live at https://pinboard.in/u:SharjeelSayed
 Search Engine for my Bookmarks http://SearchBookmarks.SharjeelSayed.com
 https://cse.google.com/cse/publicurl?cx=013208504250323700475:mqurmsvnc8k (Google Custom Search Engine for Sharjeel's Bookmarks)
-https://github.com/SharjeelSayed?direction=desc&sort=stars&tab=stars (Starred Github Repositroies)
+https://github.com/SharjeelSayed?direction=desc&sort=stars&tab=stars (Starred Github Repositories)
 
 
 Podcasts:
