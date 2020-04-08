@@ -801,14 +801,14 @@ https://github.com/topics/ansible?o=desc&s=stars
 Ansible for DevOps
 https://www.ansiblefordevops.com
 
-Ansible Videos
-https://www.ansible.com/videos
-
 Ansible tutorial
 https://github.com/leucos/ansible-tuto
 
 Interactive Ansible tutorials with dead simple setup via Docker
 https://github.com/turkenh/ansible-interactive-tutorial
+
+Ansible Videos
+https://www.ansible.com/videos
 
 Ansible Essentials: Simplicity in Automation Technical Overview
 https://www.redhat.com/en/services/training/do007-ansible-essentials-simplicity-automation-technical-overview
@@ -1416,6 +1416,9 @@ https://www.coursera.org/learn/financial-markets-global
 The Intelligent Investor
 https://www.amazon.com/Intelligent-Investor-Definitive-Investing-Essentials/dp/0060555661
 
+The Plain Bagel Basics
+https://www.youtube.com/playlist?list=PLD18sR-9Y-XHGlrT_3aKElcyzz9eTDGsy
+
 Foreign Language:
 
 Source:
@@ -1541,6 +1544,7 @@ An ACM Membership provides O’Reilly access (https://www.oreilly.com) for less.
 
 Kindle:
 
+Sources:
 https://ebook.online-convert.com
 https://en.wikipedia.org/wiki/Kindle_File_Format
 https://www.amazon.com/b/?node=11552285011 (Kindle Book Deals)
