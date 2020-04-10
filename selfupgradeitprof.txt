@@ -613,18 +613,20 @@ https://www.udemy.com/topic/docker/?ratings=4.5&sort=popularity
 Docker Documentation
 https://docs.docker.com
 
+Docker for Beginners: Full Course
+https://youtu.be/zJ6WbK9zFpI
+https://www.kodekloud.com/p/docker-labs
+
 Play with Docker Classroom
 https://training.play-with-docker.com
 
 Docker for Beginners
 https://prakhar.me/docker-curriculum
 
+Additional Resources:
+
 Docker Mastery: with Kubernetes +Swarm from a Docker Captain
 https://www.udemy.com/course/docker-mastery
-
-Docker for Beginners: Full Course
-https://youtu.be/zJ6WbK9zFpI
-https://www.kodekloud.com/p/docker-labs
 
 Docker and Kubernetes: The Complete Guide by Stephen Grider
 https://www.udemy.com/docker-and-kubernetes-the-complete-guide
@@ -634,13 +636,19 @@ Kubernetes:
 Sources:
 https://digitaldefynd.com/best-kubernetes-tutorial-training-course
 https://github.com/ramitsurana/awesome-kubernetes
+https://k3s.io
+https://kind.sigs.k8s.io
 https://kubernetes.io/docs/concepts
 https://kubernetes.io/training
+https://news.ycombinator.com/item?id=22597880 (Kind - run local Kubernetes clusters using Docker (k8s.io))
 https://news.ycombinator.com/item?id=22689119 (Anyone have a recommended guide for Kubernetes?)
 https://www.reddit.com/r/devops/comments/e8atqt/books_to_learn_kubernetes_theory
 
 Kubernetes official tutorials
 https://github.com/kubernetes/kubernetes
+
+Katacoda
+https://katacoda.com
 
 Kubernetes: Up and Running: Dive into the Future of Infrastructure 2nd Edition
 https://www.amazon.com/Kubernetes-Running-Dive-Future-Infrastructure/dp/1492046531
