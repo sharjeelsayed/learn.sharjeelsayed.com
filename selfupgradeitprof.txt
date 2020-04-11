@@ -612,6 +612,12 @@ https://github.com/wsargent/docker-cheat-sheet
 https://news.ycombinator.com/item?id=15822583 (Ask HN: Good resources on learning how docker works under the hood?)
 https://www.udemy.com/topic/docker
 
+Play with Docker Classroom
+https://training.play-with-docker.com
+
+Docker for Beginners
+https://prakhar.me/docker-curriculum
+
 Docker for Beginners: Full Course by Mumshad Mannambeth (KodeKloud)
 https://youtu.be/zJ6WbK9zFpI
 https://www.kodekloud.com/p/docker-labs
@@ -622,12 +628,6 @@ Docker - Swarm, Services and Stack - Hands-On by Mumshad Mannambeth
 https://learning.oreilly.com/videos/docker-swarm/9781788991414
 
 Additional Resources:
-
-Play with Docker Classroom
-https://training.play-with-docker.com
-
-Docker for Beginners
-https://prakhar.me/docker-curriculum
 
 Docker Mastery: with Kubernetes +Swarm from a Docker Captain
 https://www.udemy.com/course/docker-mastery
@@ -640,6 +640,7 @@ Kubernetes:
 Sources:
 https://digitaldefynd.com/best-kubernetes-tutorial-training-course
 https://docs.google.com/spreadsheets/d/10NltoF_6y3mBwUzQ4bcQLQfCE1BWSgUDcJXy-Qp2JEU (The Kubernetes Learning Resources List)
+https://github.com/kubernetes/kubernetes
 https://github.com/ramitsurana/awesome-kubernetes
 https://k3s.io
 https://kind.sigs.k8s.io
@@ -648,9 +649,6 @@ https://kubernetes.io/training
 https://news.ycombinator.com/item?id=22597880 (Kind - run local Kubernetes clusters using Docker (k8s.io))
 https://news.ycombinator.com/item?id=22689119 (Anyone have a recommended guide for Kubernetes?)
 https://www.reddit.com/r/devops/comments/e8atqt/books_to_learn_kubernetes_theory
-
-Kubernetes official tutorials
-https://github.com/kubernetes/kubernetes
 
 Katacoda
 https://www.katacoda.com/courses/kubernetes
