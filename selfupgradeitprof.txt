@@ -98,6 +98,7 @@ https://github.com/nushackers/notes-to-cs-freshmen-from-the-future
 https://github.com/open-source-society/computer-science
 https://github.com/prakhar1989/awesome-courses
 https://github.com/topics/computer-science?o=desc&s=stars
+https://github.com/watson/awesome-computer-history
 https://learn-anything.xyz/computer-science
 https://medium.freecodecamp.org/640-free-online-programming-computer-science-courses-you-can-start-in-september-f0bd3a184625
 https://news.ycombinator.com/item?id=13014900 (Ask HN: What are the bibles of Computer Science?)
@@ -638,6 +639,7 @@ Kubernetes:
 
 Sources:
 https://digitaldefynd.com/best-kubernetes-tutorial-training-course
+https://docs.google.com/spreadsheets/d/10NltoF_6y3mBwUzQ4bcQLQfCE1BWSgUDcJXy-Qp2JEU (The Kubernetes Learning Resources List)
 https://github.com/ramitsurana/awesome-kubernetes
 https://k3s.io
 https://kind.sigs.k8s.io
@@ -651,22 +653,25 @@ Kubernetes official tutorials
 https://github.com/kubernetes/kubernetes
 
 Katacoda
-https://katacoda.com
+https://www.katacoda.com/courses/kubernetes
 
 Kubernetes: Up and Running: Dive into the Future of Infrastructure 2nd Edition
 https://www.amazon.com/Kubernetes-Running-Dive-Future-Infrastructure/dp/1492046531
+
+Kubernetes The Hard Way
+https://github.com/kelseyhightower/kubernetes-the-hard-way
+https://linuxacademy.com/course/kubernetes-the-hard-way
+https://napo.io/posts/kubernetes-the-real-hard-way-on-aws
+https://1337x.to/torrent/3612019/LinuxAcademy-Kubernetes-the-Hard-Way-FCO
+
+What happens when ... Kubernetes edition!
+https://github.com/jamiehannaford/what-happens-when-k8s
 
 Kubernetes for Full-Stack Developers
 https://www.digitalocean.com/community/curriculums/kubernetes-for-full-stack-developers
 
 Kubernetes in Action 1st Edition
 https://www.amazon.com/Kubernetes-Action-Marko-Luksa/dp/1617293725
-
-Kubernetes The Hard Way
-https://github.com/kelseyhightower/kubernetes-the-hard-way
-
-What happens when ... Kubernetes edition!
-https://github.com/jamiehannaford/what-happens-when-k8s
 
 VMware:
 
