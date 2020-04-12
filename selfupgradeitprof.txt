@@ -626,22 +626,20 @@ https://learning.oreilly.com/videos/docker-for-the/9781788991315
 
 Docker - Swarm, Services and Stack - Hands-On by Mumshad Mannambeth
 https://learning.oreilly.com/videos/docker-swarm/9781788991414
+https://www.udemy.com/course/learn-docker-advanced
 
 Additional Resources:
 
 Docker Mastery: with Kubernetes +Swarm from a Docker Captain
 https://www.udemy.com/course/docker-mastery
 
-Docker and Kubernetes: The Complete Guide by Stephen Grider
-https://www.udemy.com/docker-and-kubernetes-the-complete-guide
-
 Kubernetes:
 
 Sources:
-https://digitaldefynd.com/best-kubernetes-tutorial-training-course
 https://docs.google.com/spreadsheets/d/10NltoF_6y3mBwUzQ4bcQLQfCE1BWSgUDcJXy-Qp2JEU (The Kubernetes Learning Resources List)
 https://github.com/kubernetes/kubernetes
 https://github.com/ramitsurana/awesome-kubernetes
+https://github.com/topics/kubernetes?o=desc&s=stars
 https://k3s.io
 https://kind.sigs.k8s.io
 https://kubernetes.io/docs/concepts
@@ -655,12 +653,14 @@ https://www.katacoda.com/courses/kubernetes
 
 Kubernetes: Up and Running: Dive into the Future of Infrastructure 2nd Edition
 https://www.amazon.com/Kubernetes-Running-Dive-Future-Infrastructure/dp/1492046531
+https://learning.oreilly.com/library/view/kubernetes-up-and/9781492046523
 
 Kubernetes The Hard Way
 https://github.com/kelseyhightower/kubernetes-the-hard-way
 https://linuxacademy.com/course/kubernetes-the-hard-way
-https://napo.io/posts/kubernetes-the-real-hard-way-on-aws
 https://1337x.to/torrent/3612019/LinuxAcademy-Kubernetes-the-Hard-Way-FCO
+https://napo.io/posts/kubernetes-the-real-hard-way-on-aws
+https://github.com/mmumshad/kubernetes-the-hard-way
 
 What happens when ... Kubernetes edition!
 https://github.com/jamiehannaford/what-happens-when-k8s
