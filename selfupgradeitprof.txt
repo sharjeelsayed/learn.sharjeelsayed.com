@@ -644,6 +644,7 @@ https://k3s.io
 https://kind.sigs.k8s.io
 https://kubernetes.io/docs/concepts
 https://kubernetes.io/training
+https://labs.play-with-k8s.com
 https://news.ycombinator.com/item?id=22597880 (Kind - run local Kubernetes clusters using Docker (k8s.io))
 https://news.ycombinator.com/item?id=22689119 (Anyone have a recommended guide for Kubernetes?)
 https://www.reddit.com/r/devops/comments/e8atqt/books_to_learn_kubernetes_theory
@@ -1868,6 +1869,7 @@ https://news.ycombinator.com/item?id=20371095 (Ask HN: Best Office Chair for Rem
 https://news.ycombinator.com/item?id=21310030 (Ask HN: How do you share/organize knowledge at work and life?)
 https://news.ycombinator.com/item?id=21373931 (Ask HN: What do you automate in your life and work?)
 https://news.ycombinator.com/item?id=21581361 (Ask HN: What's the most valuable thing you can learn in an hour?)
+https://news.ycombinator.com/item?id=22849208 (Ask HN: Programs that saved you 100 hours?)
 https://redditprofile.com (Find an Expert on Reddit)
 https://twitter.com/search?q=Gone%20Free%20(from%3Asharjeelsayed)
 https://www.nala.ie/resources/better-handwriting-adults
