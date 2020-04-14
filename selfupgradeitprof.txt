@@ -638,6 +638,7 @@ https://prakhar.me/docker-curriculum
 
 Docker Mastery: with Kubernetes +Swarm from a Docker Captain by Bret Fisher
 https://www.udemy.com/course/docker-mastery
+https://chat.bretfisher.com
 
 Kubernetes:
 
@@ -659,6 +660,7 @@ https://www.reddit.com/r/devops/comments/e8atqt/books_to_learn_kubernetes_theory
 Certified Kubernetes Administrator (CKA) with Practice Tests by Mumshad Mannambeth
 https://kodekloud.com/p/certified-kubernetes-administrator-with-practice-tests
 https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests
+https://join.slack.com/t/kodekloud/shared_invite/zt-dkvyibo4-A4JPw459fFtqv7OeR7Qg7w
 
 Kubernetes The Hard Way
 https://github.com/kelseyhightower/kubernetes-the-hard-way
