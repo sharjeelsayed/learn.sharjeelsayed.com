@@ -636,6 +636,7 @@ https://www.udemy.com/course/docker-mastery
 Kubernetes:
 
 Sources:
+https://chrisshort.net/kubernetes-illustrated-childrens-guide
 https://docs.google.com/spreadsheets/d/10NltoF_6y3mBwUzQ4bcQLQfCE1BWSgUDcJXy-Qp2JEU (The Kubernetes Learning Resources List)
 https://github.com/kubernetes/kubernetes
 https://github.com/ramitsurana/awesome-kubernetes
@@ -650,6 +651,7 @@ https://news.ycombinator.com/item?id=22689119 (Anyone have a recommended guide f
 https://www.reddit.com/r/devops/comments/e8atqt/books_to_learn_kubernetes_theory
 
 Certified Kubernetes Administrator (CKA) with Practice Tests by Mumshad Mannambeth
+https://kodekloud.com/p/certified-kubernetes-administrator-with-practice-tests
 https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests
 
 Kubernetes The Hard Way
@@ -695,7 +697,6 @@ Sources:
 https://docs.openstack.org
 https://github.com/int32bit/openstack-cheat-sheet
 https://github.com/openstack/training-labs
-https://github.com/topics/openstack?o=desc&s=stars
 https://github.com/topics/openstack?o=desc&s=stars
 https://linuxacademy.com/openstack/courses
 https://www.reddit.com/r/openstack/comments/92o38n/best_book_for_learning_openstack
