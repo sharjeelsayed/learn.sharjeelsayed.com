@@ -672,9 +672,6 @@ https://github.com/jamiehannaford/what-happens-when-k8s
 Kubernetes for Full-Stack Developers
 https://www.digitalocean.com/community/curriculums/kubernetes-for-full-stack-developers
 
-Kubernetes in Action 1st Edition
-https://www.amazon.com/Kubernetes-Action-Marko-Luksa/dp/1617293725
-
 VMware:
 
 Sources:
