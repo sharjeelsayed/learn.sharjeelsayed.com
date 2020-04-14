@@ -72,14 +72,17 @@ Money
 Foreign Language
 
 Study Tools:
+Apps
+Ambient Music
+Headphones
+Ear Plugs
+
+Miscellaneous:
 Books
 Kindle
 MOOC
 News
 Podcasts
-Ambient Music
-Headphones
-Ear Plugs
 Backup
 VPN
 Survival
@@ -1459,11 +1462,82 @@ https://news.ycombinator.com/item?id=16202123 (How to Study: A Brief Guide (buff
 https://www.comptia.org/testing/online-testing-interest-form
 https://www.coursera.org/learn/learning-how-to-learn
 
+Apps:
+
 Forest :Stay focused, be present
 https://www.forestapp.cc
 
 Focusmate virtual coworking helps you get things done
 https://www.focusmate.com
+
+Ambient Music:
+
+Sources:
+https://lifehacker.com/the-ultimate-list-of-work-and-study-music-1836284255
+https://news.ycombinator.com/item?id=11146712 (AI generated music to improve focus, relaxation and sleep (brain.fm))
+https://news.ycombinator.com/item?id=12844434 (Music for Programming (musicforprogramming.net))
+https://news.ycombinator.com/item?id=17118269 (Ask HN: What, if anything, do you listen to while coding?)
+https://news.ycombinator.com/item?id=18493075 (Brain.fm: Music to improve focus, meditation and sleep)
+https://news.ycombinator.com/item?id=20724959 (Ask HN: Where do you find new music to listen to online?)
+https://www.reddit.com/r/cscareerquestions/comments/7s6ral/music_while_coding
+https://www.reddit.com/r/medicalschool/comments/9m4afb/serious_spotify_playlists_to_listen_to_while
+https://pinboard.in/u:SharjeelSayed/t:music+study
+
+soma fm's Drone Zone Channel
+http://somafm.com/player/#/now-playing/dronezone
+https://music.apple.com/in/station/somafm-drone-zone/ra.1460960905
+
+Apple Music Playlists
+https://beta.music.apple.com/in/activity/focus/976439521
+https://music.apple.com/gb/playlist/sleep-sounds/pl.0ef59752c0cd457dbf1391f08cbd936f
+https://music.apple.com/in/playlist/nature-sounds/pl.040f99fdd83542a79b28fc4c13f773bd
+https://music.apple.com/us/playlist/pure-ambient/pl.a9bd89e7b22e45cbaac40b58c9d3d09b
+https://music.apple.com/us/playlist/pure-focus/pl.dbd712beded846dca273d5d3259d28aa
+https://music.apple.com/us/playlist/rain-sounds/pl.e79d63bcaead407fb44a0c19380822e6
+
+Spotify Playlist
+https://open.spotify.com/view/focus-page
+
+myNoise : Custom Background Noise Machines
+https://mynoise.net
+
+Headphones:
+
+Sources:
+https://news.ycombinator.com/item?id=21563355 (Ask HN: Best Noise Canceling Headphones)
+https://www.audiocheck.net/soundtests_headphones.php
+https://www.reddit.com/r/headphones/comments/9u2s09/what_tracks_do_you_play_to_test_the_full_range_of
+https://www.reddit.com/r/LifeProTips/comments/6hljyv/lpt_if_you_are_buying_headphonesspeakers_test
+
+Best Sellers in Audio Headphones
+https://www.amazon.com/Best-Sellers-Electronics-Audio-Headphones/zgbs/electronics/172541
+
+crinacle's BUYER'S GUIDE Best (sounding) True Wireless Earphones
+https://crinacle.com/guide/tws
+
+/r/headphones
+https://www.reddit.com/r/headphones/wiki/purchaseadvice
+https://sites.google.com/view/quipa
+
+Best Headphones (rtings.com)
+https://www.rtings.com/headphones
+
+SoundGuys Best
+https://www.soundguys.com/best
+
+The Best Noise-Cancelling Headphones
+http://thewirecutter.com/reviews/best-noise-cancelling-headphones
+
+Ear Plugs:
+
+Sources:
+https://thewirecutter.com/reviews/best-earplugs-for-sleeping
+https://www.amazon.com/gp/bestsellers/hpc/3779871/ref=pd_zg_hrsr_hpc_1_4_last
+
+Mack's Ultra Soft Foam Earplugs
+https://www.amazon.com/Macks-Ultra-Soft-Foam-Earplugs/dp/B0051U7W32
+
+Miscellaneous:
 
 Books:
 
@@ -1714,73 +1788,6 @@ https://github.com/rShetty/awesome-podcasts
 
 Netflix for Podcasts!
 https://podflix.app
-
-Ambient Music:
-
-Sources:
-https://lifehacker.com/the-ultimate-list-of-work-and-study-music-1836284255
-https://news.ycombinator.com/item?id=11146712 (AI generated music to improve focus, relaxation and sleep (brain.fm))
-https://news.ycombinator.com/item?id=12844434 (Music for Programming (musicforprogramming.net))
-https://news.ycombinator.com/item?id=17118269 (Ask HN: What, if anything, do you listen to while coding?)
-https://news.ycombinator.com/item?id=18493075 (Brain.fm: Music to improve focus, meditation and sleep)
-https://news.ycombinator.com/item?id=20724959 (Ask HN: Where do you find new music to listen to online?)
-https://www.reddit.com/r/cscareerquestions/comments/7s6ral/music_while_coding
-https://www.reddit.com/r/medicalschool/comments/9m4afb/serious_spotify_playlists_to_listen_to_while
-https://pinboard.in/u:SharjeelSayed/t:music+study
-
-soma fm's Drone Zone Channel
-http://somafm.com/player/#/now-playing/dronezone
-https://music.apple.com/in/station/somafm-drone-zone/ra.1460960905
-
-Apple Music Playlists
-https://beta.music.apple.com/in/activity/focus/976439521
-https://music.apple.com/gb/playlist/sleep-sounds/pl.0ef59752c0cd457dbf1391f08cbd936f
-https://music.apple.com/in/playlist/nature-sounds/pl.040f99fdd83542a79b28fc4c13f773bd
-https://music.apple.com/us/playlist/pure-ambient/pl.a9bd89e7b22e45cbaac40b58c9d3d09b
-https://music.apple.com/us/playlist/pure-focus/pl.dbd712beded846dca273d5d3259d28aa
-https://music.apple.com/us/playlist/rain-sounds/pl.e79d63bcaead407fb44a0c19380822e6
-
-Spotify Playlist
-https://open.spotify.com/view/focus-page
-
-myNoise : Custom Background Noise Machines
-https://mynoise.net
-
-Headphones:
-
-Sources:
-https://news.ycombinator.com/item?id=21563355 (Ask HN: Best Noise Canceling Headphones)
-https://www.audiocheck.net/soundtests_headphones.php
-https://www.reddit.com/r/headphones/comments/9u2s09/what_tracks_do_you_play_to_test_the_full_range_of
-https://www.reddit.com/r/LifeProTips/comments/6hljyv/lpt_if_you_are_buying_headphonesspeakers_test
-
-Best Sellers in Audio Headphones
-https://www.amazon.com/Best-Sellers-Electronics-Audio-Headphones/zgbs/electronics/172541
-
-crinacle's BUYER'S GUIDE Best (sounding) True Wireless Earphones
-https://crinacle.com/guide/tws
-
-/r/headphones
-https://www.reddit.com/r/headphones/wiki/purchaseadvice
-https://sites.google.com/view/quipa
-
-Best Headphones (rtings.com)
-https://www.rtings.com/headphones
-
-SoundGuys Best
-https://www.soundguys.com/best
-
-The Best Noise-Cancelling Headphones
-http://thewirecutter.com/reviews/best-noise-cancelling-headphones
-
-Ear Plugs:
-
-Sources:
-https://thewirecutter.com/reviews/best-earplugs-for-sleeping
-https://www.amazon.com/gp/bestsellers/hpc/3779871/ref=pd_zg_hrsr_hpc_1_4_last
-
-Mack's Ultra Soft Foam Earplugs
-https://www.amazon.com/Macks-Ultra-Soft-Foam-Earplugs/dp/B0051U7W32
 
 Backup:
 
