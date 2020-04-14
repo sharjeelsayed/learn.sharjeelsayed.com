@@ -649,15 +649,8 @@ https://news.ycombinator.com/item?id=22597880 (Kind - run local Kubernetes clust
 https://news.ycombinator.com/item?id=22689119 (Anyone have a recommended guide for Kubernetes?)
 https://www.reddit.com/r/devops/comments/e8atqt/books_to_learn_kubernetes_theory
 
-Katacoda
-https://www.katacoda.com/courses/kubernetes
-
 Certified Kubernetes Administrator (CKA) with Practice Tests by Mumshad Mannambeth
 https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests
-
-Kubernetes: Up and Running: Dive into the Future of Infrastructure 2nd Edition
-https://www.amazon.com/Kubernetes-Running-Dive-Future-Infrastructure/dp/1492046531
-https://learning.oreilly.com/library/view/kubernetes-up-and/9781492046523
 
 Kubernetes The Hard Way
 https://github.com/kelseyhightower/kubernetes-the-hard-way
@@ -665,6 +658,15 @@ https://linuxacademy.com/course/kubernetes-the-hard-way
 https://1337x.to/torrent/3612019/LinuxAcademy-Kubernetes-the-Hard-Way-FCO
 https://napo.io/posts/kubernetes-the-real-hard-way-on-aws
 https://github.com/mmumshad/kubernetes-the-hard-way
+
+Kubernetes: Up and Running: Dive into the Future of Infrastructure 2nd Edition
+https://www.amazon.com/Kubernetes-Running-Dive-Future-Infrastructure/dp/1492046531
+https://learning.oreilly.com/library/view/kubernetes-up-and/9781492046523
+
+Additional Resources:
+
+Katacoda
+https://www.katacoda.com/courses/kubernetes
 
 What happens when ... Kubernetes edition!
 https://github.com/jamiehannaford/what-happens-when-k8s
