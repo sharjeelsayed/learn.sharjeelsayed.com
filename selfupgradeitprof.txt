@@ -628,7 +628,7 @@ Docker - Swarm, Services and Stack - Hands-On by Mumshad Mannambeth
 https://learning.oreilly.com/videos/docker-swarm/9781788991414
 https://www.udemy.com/course/learn-docker-advanced
 
-Additional Resources:
+Additional Material:
 
 Play with Docker Classroom
 https://training.play-with-docker.com
@@ -673,7 +673,7 @@ Kubernetes: Up and Running: Dive into the Future of Infrastructure 2nd Edition
 https://www.amazon.com/Kubernetes-Running-Dive-Future-Infrastructure/dp/1492046531
 https://learning.oreilly.com/library/view/kubernetes-up-and/9781492046523
 
-Additional Resources:
+Additional Material:
 
 Katacoda
 https://www.katacoda.com/courses/kubernetes
