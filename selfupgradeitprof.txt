@@ -660,6 +660,8 @@ https://www.reddit.com/r/devops/comments/e8atqt/books_to_learn_kubernetes_theory
 Certified Kubernetes Administrator (CKA) with Practice Tests by Mumshad Mannambeth
 https://kodekloud.com/p/certified-kubernetes-administrator-with-practice-tests
 https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests
+https://1337x.to/torrent/4381281/Udemy-Certified-Kubernetes-Administrator-CKA-with-Practice-Tests
+https://kodekloud.com/purchase?product_id=1521961&coupon_code=UDEMYSTUDENT1718
 https://join.slack.com/t/kodekloud/shared_invite/zt-dkvyibo4-A4JPw459fFtqv7OeR7Qg7w
 
 Kubernetes The Hard Way
