@@ -76,11 +76,11 @@ Apps
 Ambient Music
 Headphones
 Ear Plugs
-
-Miscellaneous:
+MOOC
 Books
 Kindle
-MOOC
+
+Miscellaneous:
 News
 Podcasts
 Backup
@@ -739,13 +739,13 @@ https://acloud.guru/courses/amazon-web-services
 https://www.udemy.com/course/aws-certified-solutions-architect-associate
 https://monova.to/C7732534C6D50D6889ABA71159BA795448AF614C
 
-Amazon Web Services — a practical guide
-https://github.com/open-guides/og-aws
-
 Amazon Web Services in Action 2nd Edition
 https://www.amazon.com/Amazon-Services-Action-Andreas-Wittig/dp/1617295116
 https://www.manning.com/books/amazon-web-services-in-action-second-edition
 https://github.com/AWSinAction
+
+Amazon Web Services — a practical guide
+https://github.com/open-guides/og-aws
 
 Linux Academy: AWS Certification Training
 https://linuxacademy.com/amazon-web-services/courses
@@ -1546,7 +1546,48 @@ https://www.amazon.com/gp/bestsellers/hpc/3779871/ref=pd_zg_hrsr_hpc_1_4_last
 Mack's Ultra Soft Foam Earplugs
 https://www.amazon.com/Macks-Ultra-Soft-Foam-Earplugs/dp/B0051U7W32
 
-Miscellaneous:
+MOOC:
+
+Sources:
+http://academictorrents.com
+http://lifehacker.com/tag/lifehacker-u
+http://www.openculture.com/freeonlinecourses#Computer Science Courses
+https://archive.org/search.php?query=subject%3A%22UC+Berkeley%22
+https://blog.github.com/2018-03-20-top-10-courses-on-github
+https://github.com/gerryguy311/CyberProfDevelopmentCovidResources
+https://github.com/learn-awesome/learn-awesome
+https://github.com/sindresorhus/awesome
+https://hackr.io
+https://lbry.com/news/20000-illegal-college-lectures-rescued
+https://news.ycombinator.com/item?id=10644518 (Ask HN: What's your favorite online course?)
+https://news.ycombinator.com/item?id=13867016 (Ask HN: Which Berkeley Courses Should I Archive?)
+https://news.ycombinator.com/item?id=14570002 (Startup School 2017 Presentations (startupschool.org))
+https://news.ycombinator.com/item?id=14770521 (Ask HN: Any “bootcamps” or courses for intermediate/advanced people?)
+https://news.ycombinator.com/item?id=16745042 (Ask HN: What are the best MOOCs you've taken?)
+https://news.ycombinator.com/item?id=17616937 (Ask HN: Any good examples of learning through games/puzzles, for adults?)
+https://news.ycombinator.com/item?id=17999659 (Ask HN: Favorite teachers on YouTube?)
+https://news.ycombinator.com/item?id=18566638 (Ask HN: What is the best online course you've ever taken?)
+https://news.ycombinator.com/item?id=20385679 (Ask HN: What are your favorite YouTube channels to learn stuff?)
+https://news.ycombinator.com/item?id=20583581 (Your favourite tutorial for total beginners?)
+https://news.ycombinator.com/item?id=21450126 (Free Online Courses from Top Universities (openculture.com))
+https://www.class-central.com/collection/top-free-online-courses
+https://www.class-central.com/subject/cs
+https://www.classcentral.com/collection/ivy-league-moocs?subject=cs
+https://www.classcentral.com/starting-this-month
+https://www.coursebuffet.com/sub/computer-science
+https://www.coursera.org/browse/computer-science
+https://www.cybrary.it
+https://www.edx.org/course/subject/computer-science
+https://www.freecodecamp.org/news/best-online-courses
+https://www.masterclass.com
+https://www.omscs.gatech.edu (Georgia Tech Online Master of Science in Computer Science)
+https://www.real.discount (Discount coupons for Popular courses and MOOC Platforms)
+https://www.reddit.com/r/DataHoarder/comments/c6fh4x/after_hoarding_over_50k_youtube_videos_here_is
+https://www.reddit.com/r/sysadmin/comments/65wdum/whats_your_favorite_selfstudy_resource_paid_free
+https://www.sololearn.com
+https://www.udacity.com/courses/all
+https://www.udemy.com/courses/free/?p=12&sort=popularity
+https://yahnd.com (Best courses , talks and videos recommended on Hacker News)
 
 Books:
 
@@ -1670,50 +1711,9 @@ How to get X Ray in a side loaded book
 1) In calibre, go into "edit metadata" and add the amazon ID number. Important: make sure you're using the amazon ID number from the kindle store, not from another edition of the book
 2) Use the "Quality Check" plugin to "Fix ASIN for kindle fire"
 3) Convert to AZW3 (not .mobi)
-4) Repeat step 2. This is probably unnecessary but it just takes a second. 
+4) Repeat step 2. This is probably unnecessary but it just takes a second.
 
-MOOC:
-
-Sources:
-http://academictorrents.com
-http://lifehacker.com/tag/lifehacker-u
-http://www.openculture.com/freeonlinecourses#Computer Science Courses
-https://archive.org/search.php?query=subject%3A%22UC+Berkeley%22
-https://blog.github.com/2018-03-20-top-10-courses-on-github
-https://github.com/gerryguy311/CyberProfDevelopmentCovidResources
-https://github.com/learn-awesome/learn-awesome
-https://github.com/sindresorhus/awesome
-https://hackr.io
-https://lbry.com/news/20000-illegal-college-lectures-rescued
-https://news.ycombinator.com/item?id=10644518 (Ask HN: What's your favorite online course?)
-https://news.ycombinator.com/item?id=13867016 (Ask HN: Which Berkeley Courses Should I Archive?)
-https://news.ycombinator.com/item?id=14570002 (Startup School 2017 Presentations (startupschool.org))
-https://news.ycombinator.com/item?id=14770521 (Ask HN: Any “bootcamps” or courses for intermediate/advanced people?)
-https://news.ycombinator.com/item?id=16745042 (Ask HN: What are the best MOOCs you've taken?)
-https://news.ycombinator.com/item?id=17616937 (Ask HN: Any good examples of learning through games/puzzles, for adults?)
-https://news.ycombinator.com/item?id=17999659 (Ask HN: Favorite teachers on YouTube?)
-https://news.ycombinator.com/item?id=18566638 (Ask HN: What is the best online course you've ever taken?)
-https://news.ycombinator.com/item?id=20385679 (Ask HN: What are your favorite YouTube channels to learn stuff?)
-https://news.ycombinator.com/item?id=20583581 (Your favourite tutorial for total beginners?)
-https://news.ycombinator.com/item?id=21450126 (Free Online Courses from Top Universities (openculture.com))
-https://www.class-central.com/collection/top-free-online-courses
-https://www.class-central.com/subject/cs
-https://www.classcentral.com/collection/ivy-league-moocs?subject=cs
-https://www.classcentral.com/starting-this-month
-https://www.coursebuffet.com/sub/computer-science
-https://www.coursera.org/browse/computer-science
-https://www.cybrary.it
-https://www.edx.org/course/subject/computer-science
-https://www.freecodecamp.org/news/best-online-courses
-https://www.masterclass.com
-https://www.omscs.gatech.edu (Georgia Tech Online Master of Science in Computer Science)
-https://www.real.discount (Discount coupons for Popular courses and MOOC Platforms)
-https://www.reddit.com/r/DataHoarder/comments/c6fh4x/after_hoarding_over_50k_youtube_videos_here_is
-https://www.reddit.com/r/sysadmin/comments/65wdum/whats_your_favorite_selfstudy_resource_paid_free
-https://www.sololearn.com
-https://www.udacity.com/courses/all
-https://www.udemy.com/courses/free/?p=12&sort=popularity
-https://yahnd.com (Best courses , talks and videos recommended on Hacker News)
+Miscellaneous:
 
 News:
 
@@ -1773,7 +1773,6 @@ Import http://Bookmarks.SharjeelSayed.com into your Browser or view live at http
 Search Engine for my Bookmarks http://SearchBookmarks.SharjeelSayed.com
 https://cse.google.com/cse/publicurl?cx=013208504250323700475:mqurmsvnc8k (Google Custom Search Engine for Sharjeel's Bookmarks)
 https://github.com/SharjeelSayed?direction=desc&sort=stars&tab=stars (Starred Github Repositories)
-
 
 Podcasts:
 
@@ -1859,7 +1858,6 @@ https://www.amazon.com/Survival-Medicine-Handbook-essential-medical/dp/098887255
 
 Bushcraft 101: A Field Guide to the Art of Wilderness Survival
 https://www.amazon.com/Bushcraft-101-Field-Wilderness-Survival/dp/1440579776
-
 
 Additional Sources :
 https://en.wikipedia.org/wiki/List_of_lists_of_lists
