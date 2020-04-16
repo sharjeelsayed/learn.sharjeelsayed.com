@@ -572,7 +572,8 @@ https://github.com/jaywcjlove/awesome-mac
 https://github.com/mathiasbynens/dotfiles
 https://github.com/newmarcel/KeepingYouAwake
 https://github.com/nikitavoloboev/my-mac-os
-https://github.com/sekey/sekey
+https://github.com/sekey/sekeyx
+https://github.com/serhii-londar/open-source-mac-os-apps
 https://github.com/topics/macos?o=desc&s=stars
 https://pinboard.in/u:sharjeelsayed/t:macos
 
@@ -733,6 +734,11 @@ https://github.com/toniblyx/my-arsenal-of-aws-security-tools
 https://github.com/topics/aws?o=desc&s=stars
 https://www.reddit.com/r/sysadmin/comments/8inzn5/so_you_want_to_learn_aws_aka_how_do_i_learn_to_be
 
+AWS Certified Solutions Architect - Associate 2020
+https://acloud.guru/courses/amazon-web-services
+https://www.udemy.com/course/aws-certified-solutions-architect-associate
+https://monova.to/C7732534C6D50D6889ABA71159BA795448AF614C
+
 Amazon Web Services — a practical guide
 https://github.com/open-guides/og-aws
 
@@ -740,10 +746,6 @@ Amazon Web Services in Action 2nd Edition
 https://www.amazon.com/Amazon-Services-Action-Andreas-Wittig/dp/1617295116
 https://www.manning.com/books/amazon-web-services-in-action-second-edition
 https://github.com/AWSinAction
-
-AWS Certified Solutions Architect - Associate 2020
-https://acloud.guru/courses/amazon-web-services
-https://www.udemy.com/course/aws-certified-solutions-architect-associate
 
 Linux Academy: AWS Certification Training
 https://linuxacademy.com/amazon-web-services/courses
@@ -1678,6 +1680,7 @@ http://lifehacker.com/tag/lifehacker-u
 http://www.openculture.com/freeonlinecourses#Computer Science Courses
 https://archive.org/search.php?query=subject%3A%22UC+Berkeley%22
 https://blog.github.com/2018-03-20-top-10-courses-on-github
+https://github.com/gerryguy311/CyberProfDevelopmentCovidResources
 https://github.com/learn-awesome/learn-awesome
 https://github.com/sindresorhus/awesome
 https://hackr.io
