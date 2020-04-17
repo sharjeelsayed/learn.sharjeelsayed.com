@@ -828,6 +828,10 @@ Sources:
 https://docs.ansible.com/ansible
 https://github.com/topics/ansible?o=desc&s=stars
 
+Ansible for the Absolute Beginner - Hands-On - DevOps by Mumshad Mannambeth
+https://www.udemy.com/course/learn-ansible
+https://1337x.to/torrent/3751111/Udemy-Ansible-for-the-Absolute-Beginner-Hands-On-DevOps
+
 Ansible for DevOps
 https://www.ansiblefordevops.com
 
