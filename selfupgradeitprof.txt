@@ -1842,8 +1842,8 @@ https://www.reddit.com/r/NetflixViaVPN+VPN+vpncoupons+vpnreviews
 BitTorrent:
 
 Sources:
-https://github.com/aaronthecodpro/Reddit-Privacy-Megathread
 https://github.com/Igglybuff/awesome-piracy
+https://github.com/magicoflolis/Reddit-Piracy-Megathread
 https://github.com/ngosang/trackerslist (Updated list of public BitTorrent trackers)
 https://newtrackon.com/list (This is a list of trackers with more than 95% of uptime, considered stable.)
 https://torrentfreak.com/top-10-most-popular-torrent-sites-of-2019
