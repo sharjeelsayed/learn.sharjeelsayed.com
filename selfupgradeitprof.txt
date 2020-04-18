@@ -1614,6 +1614,7 @@ https://en.wikipedia.org/wiki/Pulitzer_Prize
 https://en.wikipedia.org/wiki/Time%27s_List_of_the_100_Best_Novels
 https://github.com/aaronthecodpro/Reddit-Privacy-Megathread
 https://github.com/Igglybuff/awesome-piracy
+https://github.com/ngosang/trackerslist (Updated list of public BitTorrent trackers)
 https://hackernewsbooks.com
 https://hn.algolia.com/?query=books&sort=byPopularity&prefix&page=0&dateRange=all&type=story
 https://mapfilterfold.com (Meta Recommendations from HN)
@@ -1643,6 +1644,9 @@ https://news.ycombinator.com/item?id=22299180 (Ask HN: What are some books where
 https://news.ycombinator.com/item?id=22502554 (Ask HN: What are some deep, mentality changing books?)
 https://news.ycombinator.com/item?id=22718592 (Ask HN: Great fiction books that have had a positive impact on your life?)
 https://opentrackers.org/downloading-ebooks-textbooks
+https://pinboard.in/u:sharjeelsayed/t:course
+https://pinboard.in/u:sharjeelsayed/t:ebooks
+https://pinboard.in/u:sharjeelsayed/t:learn
 https://ramiro.org/vis/hn-most-linked-books
 https://redditfavorites.com/books
 https://torrentfreak.com/top-10-most-popular-torrent-sites-of-2019
@@ -1661,9 +1665,6 @@ https://www.reddit.com/r/FreeEBOOKS/comments/exw3gj/here_are_50_classic_books_th
 https://www.reddit.com/r/freeEBOOKS/wiki/febooks
 https://www.reddit.com/r/FreeEBOOKS+KindleFreebies
 https://www.reddit.com/r/Piracy/wiki/megathread
-https://pinboard.in/u:sharjeelsayed/t:course
-https://pinboard.in/u:sharjeelsayed/t:ebooks
-https://pinboard.in/u:sharjeelsayed/t:learn
 https://www.goodreads.com/sharjeelsayed
 
 http://audiobookbay.nl
