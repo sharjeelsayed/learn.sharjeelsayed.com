@@ -1584,6 +1584,7 @@ https://www.coursera.org/browse/computer-science
 https://www.cybrary.it
 https://www.edx.org/course/subject/computer-science
 https://www.freecodecamp.org/news/best-online-courses
+https://www.freecodecamp.org/news/free-courses-top-cs-universities
 https://www.masterclass.com
 https://www.omscs.gatech.edu (Georgia Tech Online Master of Science in Computer Science)
 https://www.real.discount (Discount coupons for Popular courses and MOOC Platforms)
@@ -1856,7 +1857,7 @@ https://torrentz2.eu
 https://www.limetorrents.info
 https://popcorntime.app
 http://rarbg.to or https://rarbg.is
-https://thepiratebay.org or https://thepiratebay-proxylist.org
+https://thepiratebay.org or https://thepiratebay-proxylist.org or https://piratebayproxy.info
 https://www.myanonamouse.net
 https://www.qbittorrent.org
 
@@ -1881,6 +1882,7 @@ https://en.wikipedia.org/wiki/List_of_lists_of_lists
 https://en.wikipedia.org/wiki/Wikipedia:Vital_articles
 https://freenode.net
 https://github.com/255kb/stack-on-a-budget
+https://github.com/jbranchaud/til
 https://github.com/jnv/lists
 https://github.com/ripienaar/free-for-dev
 https://github.com/rsapkf/goodies
