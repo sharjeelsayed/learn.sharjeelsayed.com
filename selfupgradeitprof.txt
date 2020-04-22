@@ -492,8 +492,8 @@ https://www.reddit.com/r/linux4noobs/wiki/resources
 https://www.reddit.com/r/linuxadmin/comments/2s924h/how_did_you_get_your_start/cnnw1ma
 https://www.reddit.com/r/linuxadmin/comments/7cw116/favorite_posts_youve_bookmarked_or_saved
 
-The Linux Basics Course: Beginner to Sysadmin, Step by Step
-https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK
+Linux Journey
+https://linuxjourney.com
 
 UNIX and Linux System Administration Handbook (5th Edition)
 https://www.amazon.com/UNIX-Linux-System-Administration-Handbook/dp/0134277554
@@ -517,9 +517,6 @@ https://www.amazon.com/Linux-Programming-Interface-System-Handbook/dp/1593272200
 
 Unix Power Tools,Third Edition
 http://www.amazon.com/Power-Tools-Third-Shelley-Powers/dp/0596003307
-
-Linux Journey
-https://linuxjourney.com
 
 Product Documentation for Red Hat Enterprise Linux
 https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux
