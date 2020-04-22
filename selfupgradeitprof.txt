@@ -1849,6 +1849,8 @@ https://newtrackon.com/list (This is a list of trackers with more than 95% of up
 https://torrentfreak.com/top-10-most-popular-torrent-sites-of-2019
 https://torrentfreak.com/utorrent-is-the-most-used-bittorrent-client-by-far-200405
 https://www.reddit.com/r/Addons4Kodi/wiki/preferred_addons
+https://www.reddit.com/r/piracy/wiki/faq
+https://www.reddit.com/r/piracy/wiki/guides
 https://www.reddit.com/r/Piracy/wiki/megathread
 https://pinboard.in/u:sharjeelsayed/t:torrent
 
@@ -1856,7 +1858,7 @@ https://1337x.to
 https://torrentz2.eu
 https://www.limetorrents.info
 https://popcorntime.app
-http://rarbg.to or https://rarbg.is
+http://rarbg.to or https://rarbgprx.org/torrents.php
 https://thepiratebay.org or https://thepiratebay-proxylist.org or https://piratebayproxy.info
 https://www.myanonamouse.net
 https://www.qbittorrent.org
