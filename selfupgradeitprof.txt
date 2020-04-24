@@ -1,8 +1,8 @@
 Curated Self Study Guide for Computer Science and DevOps/SRE/SysAdmin
 
-Refer the latest updated copy of this page at http://Learn.SharjeelSayed.com
-Fork this at https://github.com/SharjeelSayed/SharjeelSayed.github.io
-Reach me at http://SharjeelSayed.com
+    Refer the latest updated copy of this page at http://Learn.SharjeelSayed.com
+    Fork this at https://github.com/SharjeelSayed/SharjeelSayed.github.io
+    Reach me at http://SharjeelSayed.com
 
 Contents:
     Computer Science:
