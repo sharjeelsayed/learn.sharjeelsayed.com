@@ -496,6 +496,9 @@ Linux:
     Books and Courses:
         Linux Journey
         https://linuxjourney.com
+
+        The Linux Basics Course: Beginner to Sysadmin, Step by Step by tutoriaLinux
+        https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK
         
         UNIX and Linux System Administration Handbook (5th Edition)
         https://www.amazon.com/UNIX-Linux-System-Administration-Handbook/dp/0134277554
