@@ -619,7 +619,10 @@ Storage:
 Docker:
 
     Sources:
+        http://man7.org/linux/man-pages/man7/cgroups.7.html
+        http://man7.org/linux/man-pages/man7/namespaces.7.html
         https://docs.docker.com
+        https://github.com/p8952/bocker (Docker implemented in around 100 lines of bash)
         https://github.com/topics/docker?o=desc&s=stars
         https://github.com/veggiemonk/awesome-docker
         https://github.com/wsargent/docker-cheat-sheet
