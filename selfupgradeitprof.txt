@@ -1032,10 +1032,18 @@ Git:
         https://github.com/topics/git?o=desc&s=stars
         https://news.ycombinator.com/item?id=18924921 (How to teach Git)
         https://news.ycombinator.com/item?id=21189256 (99% of the Git commands you'll need at work, demonstrated in a single script (bitbucket.org))
+        https://ohshitgit.com
         https://www.reddit.com/r/git/top
         https://www.reddit.com/r/programming/comments/fd9zpj/becoming_a_git_pro_part_1_internal_git/fjge9vy
+        https://www.udemy.com/topic/git
         
     Books and Courses:
+        Git Video Tutorial by Derek Banas
+        https://youtu.be/r63f51ce84A
+
+        Git and GitHub for Poets by The Coding Train
+        https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV
+
         Git from the Bottom Up
         https://github.com/jwiegley/git-from-the-bottom-up
         https://jwiegley.github.io/git-from-the-bottom-up
@@ -1702,7 +1710,13 @@ Kindle:
 
 Apps:
     
+    Sources:
+        https://en.wikipedia.org/wiki/Pomodoro_Technique
+    
     Sites:
+        TomatoTimer
+        https://tomato-timer.com
+
         Forest :Stay focused, be present
         https://www.forestapp.cc
         
@@ -1918,7 +1932,6 @@ BitTorrent:
         https://github.com/Igglybuff/awesome-piracy
         https://github.com/magicoflolis/Reddit-Piracy-Megathread
         https://github.com/ngosang/trackerslist (Updated list of public BitTorrent trackers)
-        https://newtrackon.com/list (This is a list of trackers with more than 95% of uptime, considered stable.)
         https://torrentfreak.com/top-10-most-popular-torrent-sites-of-2019
         https://torrentfreak.com/utorrent-is-the-most-used-bittorrent-client-by-far-200405
         https://www.reddit.com/r/Addons4Kodi/wiki/preferred_addons
