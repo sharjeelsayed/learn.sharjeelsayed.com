@@ -551,6 +551,7 @@ Bash:
         https://github.com/onceupon/Bash-Oneliner
         https://github.com/topics/bash?o=desc&s=stars
         https://news.ycombinator.com/item?id=14634964 (Ask HN: How can I get better at bash?)
+        https://news.ycombinator.com/item?id=22975437 (Shell Productivity Tips and Tricks (balthazar-rouberol.com))
         https://pinboard.in/u:sharjeelsayed/t:bash
         
     Books and Courses:
@@ -622,6 +623,7 @@ Docker:
         http://man7.org/linux/man-pages/man7/cgroups.7.html
         http://man7.org/linux/man-pages/man7/namespaces.7.html
         https://docs.docker.com
+        https://github.com/magicmark/composerize (Turns docker run commands into docker-compose files!)
         https://github.com/p8952/bocker (Docker implemented in around 100 lines of bash)
         https://github.com/topics/docker?o=desc&s=stars
         https://github.com/veggiemonk/awesome-docker
@@ -1038,12 +1040,6 @@ Git:
         https://www.udemy.com/topic/git
         
     Books and Courses:
-        Git Video Tutorial by Derek Banas
-        https://youtu.be/r63f51ce84A
-
-        Git and GitHub for Poets by The Coding Train
-        https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV
-
         Git from the Bottom Up
         https://github.com/jwiegley/git-from-the-bottom-up
         https://jwiegley.github.io/git-from-the-bottom-up
@@ -1054,6 +1050,13 @@ Git:
         
         Pro Git
         https://git-scm.com/book/en/v2
+    
+    Additional Material:
+        Git Video Tutorial by Derek Banas
+        https://youtu.be/r63f51ce84A
+
+        Git and GitHub for Poets by The Coding Train
+        https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV
 
 Vim:
 
@@ -1800,6 +1803,7 @@ News:
     Sources:
         https://dev.to
         https://devurls.com
+        https://en.wikipedia.org/wiki/Portal:Current_events
         https://github.com/greybax/awesome-IT-films/blob/master/documentary.md
         https://hckrnews.com
         https://hn.algolia.com
@@ -1827,9 +1831,10 @@ News:
         https://www.taggernews.com
         https://www.youtube.com/channel/UCF0pVplsI8R5kcAqgtoRqoA (Popular on YouTube)
         https://news.ycombinator.com/user?id=sharjeelsayed
+        https://twitter.com/SharjeelSayed
         https://www.reddit.com/user/SharjeelSayed
         
-    Sites:
+    Sites and Apps:
         RSS Reader:
         Import http://Opml.SharjeelSayed.com , into Inoreader.com
         
