@@ -569,11 +569,14 @@ Bash:
 tmux:
 
     Sources:
-        
-        https://hn.algolia.com/?dateRange=all&page=0&prefix=false&query=tmux&sort=byPopularity&type=all
-        https://www.byobu.org
-        https://www.iterm2.com/documentation-tmux-integration.html
+        https://github.com/rothgar/awesome-tmux
+        https://github.com/topics/tmux?o=desc&s=stars
         https://gitlab.com/gnachman/iterm2/-/wikis/tmux-Integration-Best-Practices
+        https://hn.algolia.com/?dateRange=all&page=0&prefix=false&query=tmux&sort=byPopularity&type=all
+        https://learn.redhat.com/t5/Platform-Linux/Using-tmux-to-execute-commands-on-servers-in-parallel/td-p/2200
+        https://www.byobu.org
+        https://www.commandlinefu.com/commands/matching/tmux/dG11eA==/sort-by-votes
+        https://www.iterm2.com/documentation-tmux-integration.html
         https://pinboard.in/u:sharjeelsayed/t:tmux
 
 macOS:
