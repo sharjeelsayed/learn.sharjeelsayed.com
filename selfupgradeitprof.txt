@@ -16,6 +16,7 @@ Contents:
     DevOps/SRE/SysAdmin:
         Linux
         Bash
+        tmux
         macOS
         Windows
         Powershell
@@ -151,6 +152,7 @@ Computer Science:
         https://xuanji.appspot.com/isicp
         https://mitpress.mit.edu/sites/default/files/sicp/index.html
         https://opendocs.github.io/sicp/sicp.pdf
+        https://wizardforcel.gitbooks.io/sicp-in-python
         
         Computer Science 61A, UCBerkeley 001 - Spring 2011
         https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E?sort=titleSorter
@@ -553,7 +555,7 @@ Bash:
         https://news.ycombinator.com/item?id=14634964 (Ask HN: How can I get better at bash?)
         https://news.ycombinator.com/item?id=22975437 (Shell Productivity Tips and Tricks (balthazar-rouberol.com))
         https://pinboard.in/u:sharjeelsayed/t:bash
-        
+    
     Books and Courses:
         ABS Guide
         http://tldp.org/LDP/abs/html
@@ -563,6 +565,16 @@ Bash:
         
         HackerRank Bash Challenges
         https://www.hackerrank.com/domains/shell/bash
+
+tmux:
+
+    Sources:
+        
+        https://hn.algolia.com/?dateRange=all&page=0&prefix=false&query=tmux&sort=byPopularity&type=all
+        https://www.byobu.org
+        https://www.iterm2.com/documentation-tmux-integration.html
+        https://gitlab.com/gnachman/iterm2/-/wikis/tmux-Integration-Best-Practices
+        https://pinboard.in/u:sharjeelsayed/t:tmux
 
 macOS:
 
@@ -1081,6 +1093,7 @@ Security:
 
     Sources:
         http://www.fastrls.com/2017/10/30/offensive-security-training-videos
+        https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html-single/using_selinux
         https://github.com/danielmiessler/SecLists
         https://github.com/forter/security-101-for-saas-startups
         https://github.com/Hack-with-Github/Awesome-Hacking
