@@ -574,6 +574,7 @@ tmux:
         https://gitlab.com/gnachman/iterm2/-/wikis/tmux-Integration-Best-Practices
         https://hn.algolia.com/?dateRange=all&page=0&prefix=false&query=tmux&sort=byPopularity&type=all
         https://learn.redhat.com/t5/Platform-Linux/Using-tmux-to-execute-commands-on-servers-in-parallel/td-p/2200
+        https://medium.com/@gveloper/using-iterm2s-built-in-integration-with-tmux-d5d0ef55ec30
         https://www.byobu.org
         https://www.commandlinefu.com/commands/matching/tmux/dG11eA==/sort-by-votes
         https://www.iterm2.com/documentation-tmux-integration.html
