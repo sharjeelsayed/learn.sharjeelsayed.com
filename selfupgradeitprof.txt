@@ -695,6 +695,8 @@ Kubernetes:
         https://labs.play-with-k8s.com
         https://news.ycombinator.com/item?id=22597880 (Kind - run local Kubernetes clusters using Docker (k8s.io))
         https://news.ycombinator.com/item?id=22689119 (Anyone have a recommended guide for Kubernetes?)
+        https://rancher.com
+        https://techbeacon.com/enterprise-it/47-advanced-tutorials-mastering-kubernetes
         https://www.cncf.io/certification/training
         https://youtu.be/0Omvgd7Hg1I (Life of a Packet [I] - Michael Rubin, Google)
         
