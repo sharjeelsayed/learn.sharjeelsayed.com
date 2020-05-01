@@ -484,12 +484,15 @@ DevOps/SRE/SysAdmin:
 Linux:
 
     Sources:
+        http://cht.sh (The only cheat sheet you need)
         http://stackoverflow.com/questions/236838/what-are-good-linuxunix-books-for-an-advancing-user
+        https://dashdash.io (Linux Man Pages)
         https://github.com/0xAX/linux-insides
         https://github.com/luong-komorebi/Awesome-Linux-Software
         https://github.com/topics/linux?o=desc&s=stars
         https://news.ycombinator.com/item?id=22564665 (Linux Kernel Teaching (linux-kernel-labs.github.io))
         https://news.ycombinator.com/item?id=3257393 (What's the one Linux command you wish you knew years ago?)
+        https://tldr.sh (Simplified and community-driven man pages)
         https://www.digitalocean.com/community/tutorials?primary_filter=popular
         https://www.reddit.com/r/linux4noobs/wiki/resources
         https://www.reddit.com/r/linuxadmin/comments/2s924h/how_did_you_get_your_start/cnnw1ma
@@ -584,9 +587,12 @@ macOS:
 
     Sources:
         https://brew.sh
+        https://community.folivora.ai/c/setup-preset-sharing/5/l/top
+        https://folivora.ai
         https://github.com/alichtman/shallow-backup
         https://github.com/donnemartin/dev-setup
         https://github.com/drduh/macOS-Security-and-Privacy-Guide
+        https://github.com/GoldenChaos/GoldenChaos-BTT
         https://github.com/herrbischoff/awesome-macos-command-line
         https://github.com/iCHAIT/awesome-macOS
         https://github.com/jaywcjlove/awesome-mac
@@ -596,6 +602,7 @@ macOS:
         https://github.com/sekey/sekeyx
         https://github.com/serhii-londar/open-source-mac-os-apps
         https://github.com/topics/macos?o=desc&s=stars
+        https://youtu.be/CCJVbooKspo (Better Touch Tool: In-Depth Tutorial)
         https://pinboard.in/u:sharjeelsayed/t:macos
 
 Windows:
@@ -2036,6 +2043,6 @@ Additional Sources :
         https://www.reddit.com/r/sysadmin/comments/4oxxgv/your_favorite_scripts_you_have_stolen_or_made
 
 Support this page with these referral links:
-    http://amex.in/refer/sHARJsCJfI (American Express)
-    https://db.tt/YL0e12GN (Dropbox 500 MB of bonus space)
-    https://www.expressrefer.com/refer-friend?referrer_id=39360476 (ExpressVPN 30 days free)
+        http://amex.in/refer/sHARJsCJfI (American Express)
+        https://db.tt/YL0e12GN (Dropbox 500 MB of bonus space)
+        https://www.expressrefer.com/refer-friend?referrer_id=39360476 (ExpressVPN 30 days free)
