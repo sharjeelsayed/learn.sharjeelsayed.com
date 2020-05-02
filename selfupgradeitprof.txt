@@ -602,6 +602,8 @@ macOS:
         https://github.com/sekey/sekeyx
         https://github.com/serhii-londar/open-source-mac-os-apps
         https://github.com/topics/macos?o=desc&s=stars
+        https://www.reddit.com/r/apple/comments/3ek0o5/share_your_better_touch_tool_gestures
+        https://www.reddit.com/r/apple/comments/3ek0o5/share_your_better_touch_tool_gestures
         https://youtu.be/CCJVbooKspo (Better Touch Tool: In-Depth Tutorial)
         https://pinboard.in/u:sharjeelsayed/t:macos
 
@@ -1524,6 +1526,7 @@ Management:
         https://news.ycombinator.com/item?id=20503813 (Ask HN: What people skills do you wish you learned earlier in your career?)
         https://news.ycombinator.com/item?id=21712194 (Ask HN: Best book / resources on leadership, especially for tech teams?)
         https://news.ycombinator.com/item?id=22092303 (Ask HN: Courses/resources to improve my self-esteem and believe in myself more?)
+        https://news.ycombinator.com/item?id=23050717 (Ask HN: Learning the business-side of things as a developer?)
         https://www.amazon.com/gp/bestsellers/books/2569 (Amazon Best Sellers in Time Management)
         https://www.indiehackers.com
         https://www.reddit.com/r/cscareerquestions/comments/6fnujy/soft_skills_for_programmers
@@ -1902,6 +1905,7 @@ Podcasts:
         https://news.ycombinator.com/item?id=18217762 (Ask HN: What are some of the best technical talks you've heard?)
         https://news.ycombinator.com/item?id=19095780 (Ask HN: What podcast has been most influential on your life?)
         https://news.ycombinator.com/item?id=22092900 (Ask HN: What podcast(s) changed your life?)
+        https://news.ycombinator.com/item?id=23051122 (Ask HN: Intellectually simulating Podcasts/conversations/Talk)
         https://news.ycombinator.com/item?id=9207360 (Ask HN: Favorite podcasts?)
         https://www.reddit.com/r/podcasts/comments/75ilo5/ive_spent_three_years_listening_to_podcasts
         https://www.reddit.com/r/sysadmin/comments/au8ugd/what_are_your_preferred_tech_podcasts_as_a
