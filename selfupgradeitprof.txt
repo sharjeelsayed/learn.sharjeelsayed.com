@@ -498,6 +498,7 @@ Linux:
         https://www.reddit.com/r/linux4noobs/wiki/resources
         https://www.reddit.com/r/linuxadmin/comments/2s924h/how_did_you_get_your_start/cnnw1ma
         https://www.reddit.com/r/linuxadmin/comments/7cw116/favorite_posts_youve_bookmarked_or_saved
+        https://www.reddit.com/r/Ubuntu+linux+linuxadmin
         
     Books and Courses:
         Linux Journey
@@ -655,7 +656,10 @@ Docker:
         https://github.com/veggiemonk/awesome-docker
         https://github.com/wsargent/docker-cheat-sheet
         https://news.ycombinator.com/item?id=15822583 (Ask HN: Good resources on learning how docker works under the hood?)
+        https://knowledgepill.it/posts/docker_swarm_compendium (Docker swarm - setup and usage)
         https://www.udemy.com/topic/docker
+        https://github.com/tiangolo/dockerswarm.rocks
+        https://pinboard.in/u:sharjeelsayed/t:docker
         
     Books and Courses:
         Docker for Beginners: Full Course by Mumshad Mannambeth (KodeKloud)
@@ -684,15 +688,12 @@ Kubernetes:
     Sources:
         https://chrisshort.net/kubernetes-illustrated-childrens-guide
         https://docs.google.com/spreadsheets/d/10NltoF_6y3mBwUzQ4bcQLQfCE1BWSgUDcJXy-Qp2JEU (The Kubernetes Learning Resources List)
-        https://github.com/dgkanatsios/CKAD-exercises
         https://github.com/jamiehannaford/what-happens-when-k8s
         https://github.com/kubernetes/kubernetes
-        https://github.com/lucassha/CKAD-resources
         https://github.com/nkuba/k8s-admin-helper
         https://github.com/ramitsurana/awesome-kubernetes
         https://github.com/topics/cka?o=desc&s=stars
         https://github.com/topics/kubernetes?o=desc&s=stars
-        https://github.com/walidshaari/Kubernetes-Certified-Administrator
         https://k3s.io
         https://kind.sigs.k8s.io
         https://kubernauts-slack-join.herokuapp.com
@@ -703,22 +704,24 @@ Kubernetes:
         https://kubernetes.io/training
         https://kubernetesbyexample.com
         https://labs.play-with-k8s.com
+        https://medium.com/faun/be-fast-with-kubectl-1-18-ckad-cka-31be00acc443
         https://news.ycombinator.com/item?id=22597880 (Kind - run local Kubernetes clusters using Docker (k8s.io))
         https://news.ycombinator.com/item?id=22689119 (Anyone have a recommended guide for Kubernetes?)
         https://rancher.com
         https://techbeacon.com/enterprise-it/47-advanced-tutorials-mastering-kubernetes
-        https://www.cncf.io/certification/training
         https://www.facebook.com/groups/kubernetes.users
         https://www.facebook.com/kubernetesio
         https://youtu.be/0Omvgd7Hg1I (Life of a Packet [I] - Michael Rubin, Google)
+        https://pinboard.in/u:sharjeelsayed/t:kubernetes
         
     Books and Courses:
         Certified Kubernetes Administrator (CKA) with Practice Tests by Mumshad Mannambeth
         https://kodekloud.com/p/certified-kubernetes-administrator-with-practice-tests
         https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests
         https://github.com/mmumshad/kubernetes-the-hard-way
+        https://kodekloud.com/p/json-path-quiz (JSON PATH Quiz- FREE COURSE)
         https://1337x.to/torrent/4381281/Udemy-Certified-Kubernetes-Administrator-CKA-with-Practice-Tests
-        https://kodekloud.com/purchase?product_id=1521961&coupon_code=UDEMYSTUDENT1718
+        https://kodekloud.com/purchase?product_id=1521961&coupon_code=UDEMYSTUDENT1718 (Labs - Certified Kubernetes Administrator with Practice Tests)
         https://join.slack.com/t/kodekloud/shared_invite/zt-dkvyibo4-A4JPw459fFtqv7OeR7Qg7w
         
         Kubernetes The Hard Way
@@ -734,6 +737,14 @@ Kubernetes:
         
     Additional Material:
         
+        CKA/CKAD
+        https://github.com/dgkanatsios/CKAD-exercises
+        https://github.com/lucassha/CKAD-resources
+        https://github.com/walidshaari/Kubernetes-Certified-Administrator
+        https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka
+        https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad
+        https://www.cncf.io/certification/training
+
         Katacoda
         https://www.katacoda.com/courses/kubernetes
         
@@ -1879,7 +1890,7 @@ News:
         https://news.google.com/topics/CAAqBwgKMOXWjQswrYGgAw?hl=en-IN&gl=IN&ceid=IN:en (Maharashtra)
         
         Reddits:
-        https://www.reddit.com/r/Android+AppHookup+AppleWatch+COVID19+Coronavirus+CryptoCurrency+DataHoarder+Documentaries+FreeEBOOKS+GooglePixel+IndiaInvestments+KindleFreebies+Piracy+Vaping+announcements+apple+compsci+cscareerquestions+dataisbeautiful+devops+docker+electronic_cigarette+gadgets+hackernews+india+ipad+iphone+juul+kindle+kubernetes+learnprogramming+linux+linuxadmin+mac+movies+mumbai+netsec+networking+onebag+programming+science+solotravel+sysadmin+television+todayilearned+travel+worldnews+yubikey
+        https://www.reddit.com/r/Android+AppHookup+AppleWatch+COVID19+Coronavirus+CryptoCurrency+DataHoarder+Documentaries+FreeEBOOKS+GooglePixel+IndiaInvestments+KindleFreebies+Piracy+Ubuntu+Vaping+announcements+apple+compsci+cscareerquestions+dataisbeautiful+devops+docker+electronic_cigarette+gadgets+hackernews+india+ipad+iphone+juul+kindle+kubernetes+learnprogramming+linux+linuxadmin+lounge+mac+movies+mumbai+netsec+networking+onebag+programming+science+solotravel+sysadmin+television+todayilearned+travel+worldnews+yubikey
         
         YouTube:
         https://www.youtube.com/channel/UCF0pVplsI8R5kcAqgtoRqoA (YouTube Worldwide Popular Right Now)
@@ -1917,6 +1928,9 @@ Podcasts:
         
         Netflix for Podcasts!
         https://podflix.app
+
+        Podcasts for Entrepreneurs – Episode Directory
+        https://podboxer.com/explore-episodes
 
 Backup:
 
