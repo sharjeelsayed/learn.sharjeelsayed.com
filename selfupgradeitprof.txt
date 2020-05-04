@@ -154,8 +154,17 @@ Computer Science:
         https://opendocs.github.io/sicp/sicp.pdf
         https://wizardforcel.gitbooks.io/sicp-in-python
         
+        Computer Systems: A Programmer's Perspective (3rd Edition)
+        https://www.amazon.com/Computer-Systems-Programmers-Perspective-3rd/dp/013409266X
+        http://csapp.cs.cmu.edu/3e/home.html
+
         Computer Science 61A, UCBerkeley 001 - Spring 2011
         https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E?sort=titleSorter
+
+        Distributed Systems 3.01 Edition
+        https://www.amazon.com/Distributed-Systems-Maarten-van-Steen/dp/1543057381
+        https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB (MIT 6.824 Distributed Systems (Spring 2020))
+        https://pdos.csail.mit.edu/6.824/schedule.html (MIT 6.824 Schedule: Spring 2020 )
 
 Programming Concepts:
     
