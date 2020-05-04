@@ -692,6 +692,7 @@ Docker:
         Docker Mastery: with Kubernetes +Swarm from a Docker Captain by Bret Fisher
         https://www.udemy.com/course/docker-mastery
         https://chat.bretfisher.com
+        https://www.facebook.com/bretfisher.devops
 
 Kubernetes:
 
@@ -734,6 +735,7 @@ Kubernetes:
         https://1337x.to/torrent/4381281/Udemy-Certified-Kubernetes-Administrator-CKA-with-Practice-Tests
         https://kodekloud.com/purchase?product_id=1521961&coupon_code=UDEMYSTUDENT1718 (Labs - Certified Kubernetes Administrator with Practice Tests)
         https://join.slack.com/t/kodekloud/shared_invite/zt-dkvyibo4-A4JPw459fFtqv7OeR7Qg7w
+        https://www.facebook.com/kodekloudtraining
         
         Kubernetes The Hard Way
         https://github.com/kelseyhightower/kubernetes-the-hard-way
