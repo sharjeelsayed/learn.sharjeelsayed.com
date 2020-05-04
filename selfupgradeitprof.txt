@@ -661,13 +661,14 @@ Docker:
         https://docs.docker.com
         https://github.com/magicmark/composerize (Turns docker run commands into docker-compose files!)
         https://github.com/p8952/bocker (Docker implemented in around 100 lines of bash)
+        https://github.com/tiangolo/dockerswarm.rocks
         https://github.com/topics/docker?o=desc&s=stars
         https://github.com/veggiemonk/awesome-docker
         https://github.com/wsargent/docker-cheat-sheet
-        https://news.ycombinator.com/item?id=15822583 (Ask HN: Good resources on learning how docker works under the hood?)
         https://knowledgepill.it/posts/docker_swarm_compendium (Docker swarm - setup and usage)
+        https://news.ycombinator.com/item?id=15822583 (Ask HN: Good resources on learning how docker works under the hood?)
+        https://www.facebook.com/groups/devopsdocker
         https://www.udemy.com/topic/docker
-        https://github.com/tiangolo/dockerswarm.rocks
         https://pinboard.in/u:sharjeelsayed/t:docker
         
     Books and Courses:
@@ -717,6 +718,7 @@ Kubernetes:
         https://news.ycombinator.com/item?id=22597880 (Kind - run local Kubernetes clusters using Docker (k8s.io))
         https://news.ycombinator.com/item?id=22689119 (Anyone have a recommended guide for Kubernetes?)
         https://rancher.com
+        https://slack.k8s.io
         https://techbeacon.com/enterprise-it/47-advanced-tutorials-mastering-kubernetes
         https://www.facebook.com/groups/kubernetes.users
         https://www.facebook.com/kubernetesio
@@ -878,6 +880,7 @@ djbdns:
 SQL:
 
     Sources:
+        https://news.ycombinator.com/item?id=23070491 (Here are some other SQL Learning resources I have collected in my note taking Wiki (mostly from HN itself))
         https://pinboard.in/u:sharjeelsayed/t:sql
 
     Books and Courses:
