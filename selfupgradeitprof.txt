@@ -72,7 +72,7 @@ Contents:
     Study Tools:
         Books
         Kindle
-        Apps
+        Productivity Apps
         Ambient Music
         Headphones
         Ear Plugs
@@ -730,11 +730,11 @@ Kubernetes:
         Certified Kubernetes Administrator (CKA) with Practice Tests by Mumshad Mannambeth
         https://kodekloud.com/p/certified-kubernetes-administrator-with-practice-tests
         https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests
+        https://1337x.to/torrent/4381281/Udemy-Certified-Kubernetes-Administrator-CKA-with-Practice-Tests
         https://kodekloud.com/purchase?product_id=1521961&coupon_code=UDEMYSTUDENT1718 (Labs - Certified Kubernetes Administrator with Practice Tests)
         https://github.com/mmumshad/kubernetes-the-hard-way
         https://www.youtube.com/playlist?list=PL2We04F3Y_41lFKy19ig_9u-5Sj_RWTDL (JSON PATH)
         https://kodekloud.com/p/json-path-quiz (JSON PATH Quiz- FREE COURSE)
-        https://1337x.to/torrent/4381281/Udemy-Certified-Kubernetes-Administrator-CKA-with-Practice-Tests
         https://join.slack.com/t/kodekloud/shared_invite/zt-dkvyibo4-A4JPw459fFtqv7OeR7Qg7w
         https://www.facebook.com/kodekloudtraining
         
@@ -1769,7 +1769,7 @@ Kindle:
         3) Convert to AZW3 (not .mobi)
         4) Repeat step 2. This is probably unnecessary but it just takes a second.
 
-Apps:
+Productivity Apps:
     
     Sources:
         https://en.wikipedia.org/wiki/Pomodoro_Technique
