@@ -698,16 +698,15 @@ Kubernetes:
 
     Sources:
         https://chrisshort.net/kubernetes-illustrated-childrens-guide
-        https://docs.google.com/spreadsheets/d/10NltoF_6y3mBwUzQ4bcQLQfCE1BWSgUDcJXy-Qp2JEU (The Kubernetes Learning Resources List)
         https://github.com/jamiehannaford/what-happens-when-k8s
         https://github.com/kubernetes/kubernetes
         https://github.com/nkuba/k8s-admin-helper
         https://github.com/ramitsurana/awesome-kubernetes
         https://github.com/topics/cka?o=desc&s=stars
         https://github.com/topics/kubernetes?o=desc&s=stars
+        https://goo.gl/Rywkpd (The Kubernetes Learning Resources List)
         https://k3s.io
         https://kind.sigs.k8s.io
-        https://kubernauts-slack-join.herokuapp.com
         https://kubernetes.io/docs/concepts
         https://kubernetes.io/docs/reference/kubectl/cheatsheet
         https://kubernetes.io/docs/tasks
@@ -719,10 +718,8 @@ Kubernetes:
         https://news.ycombinator.com/item?id=22597880 (Kind - run local Kubernetes clusters using Docker (k8s.io))
         https://news.ycombinator.com/item?id=22689119 (Anyone have a recommended guide for Kubernetes?)
         https://rancher.com
-        https://slack.k8s.io
         https://techbeacon.com/enterprise-it/47-advanced-tutorials-mastering-kubernetes
-        https://www.facebook.com/groups/kubernetes.users
-        https://www.facebook.com/kubernetesio
+        https://www.katacoda.com/courses/kubernetes
         https://youtu.be/0Omvgd7Hg1I (Life of a Packet [I] - Michael Rubin, Google)
         https://pinboard.in/u:sharjeelsayed/t:kubernetes
         
@@ -749,8 +746,6 @@ Kubernetes:
         https://www.amazon.com/Kubernetes-Running-Dive-Future-Infrastructure/dp/1492046531
         https://learning.oreilly.com/library/view/kubernetes-up-and/9781492046523
         
-    Additional Material:
-        
         CKA/CKAD
         https://github.com/dgkanatsios/CKAD-exercises
         https://github.com/lucassha/CKAD-resources
@@ -759,9 +754,13 @@ Kubernetes:
         https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad
         https://www.cncf.io/certification/training
 
-        Katacoda
-        https://www.katacoda.com/courses/kubernetes
-        
+        Support
+        https://kubernauts-slack-join.herokuapp.com
+        https://slack.k8s.io
+        https://www.facebook.com/groups/kubernetes.users
+        https://www.facebook.com/kubernetesio
+
+    Additional Material:
         Kubernetes for Full-Stack Developers
         https://www.digitalocean.com/community/curriculums/kubernetes-for-full-stack-developers
 
