@@ -172,6 +172,7 @@ Programming Concepts:
         http://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read
         http://www.flyingmachinestudios.com/programming/learn-programming-languages-efficiently
         https://blog.codinghorror.com/recommended-reading-for-developers
+        https://devdocs.io
         https://docs.google.com/spreadsheets/d/1gIRjeB1Y_AMvtmJsZWl_dNMDJ7lPSIxiVUYyEvrP5P4/htmlview?usp=sharing&sle=true (Popular Programming Podcast episodes)
         https://github.com/AlgoryL/Projects-from-Scratch
         https://github.com/bnb/awesome-developer-streams
@@ -598,12 +599,9 @@ macOS:
 
     Sources:
         https://brew.sh
-        https://community.folivora.ai/c/setup-preset-sharing/5/l/top
-        https://folivora.ai
         https://github.com/alichtman/shallow-backup
         https://github.com/donnemartin/dev-setup
         https://github.com/drduh/macOS-Security-and-Privacy-Guide
-        https://github.com/GoldenChaos/GoldenChaos-BTT
         https://github.com/herrbischoff/awesome-macos-command-line
         https://github.com/iCHAIT/awesome-macOS
         https://github.com/jaywcjlove/awesome-mac
@@ -613,10 +611,25 @@ macOS:
         https://github.com/sekey/sekeyx
         https://github.com/serhii-londar/open-source-mac-os-apps
         https://github.com/topics/macos?o=desc&s=stars
-        https://www.reddit.com/r/apple/comments/3ek0o5/share_your_better_touch_tool_gestures
+        https://pinboard.in/u:sharjeelsayed/t:macos
+
+    Alfred:
+        http://www.packal.org
+        https://github.com/deanishe/alfred-firefox
+        https://github.com/learn-anything/alfred-workflows
+        https://github.com/topics/alfred?o=desc&s=stars
+        https://github.com/vitorgalvao/custom-alfred-iterm-scripts
+        https://github.com/willfarrell/alfred-workflows
+        https://www.alfredapp.com
+        https://www.alfredapp.com/workflows
+        https://youtu.be/GWRddk0Ybnc (2: Maximising your Mac Productivity: Alfred)
+
+    Better Touch Tool:
+        https://community.folivora.ai/c/setup-preset-sharing/5/l/top
+        https://folivora.ai
+        https://github.com/GoldenChaos/GoldenChaos-BTT
         https://www.reddit.com/r/apple/comments/3ek0o5/share_your_better_touch_tool_gestures
         https://youtu.be/CCJVbooKspo (Better Touch Tool: In-Depth Tutorial)
-        https://pinboard.in/u:sharjeelsayed/t:macos
 
 Windows:
 
@@ -715,6 +728,7 @@ Kubernetes:
         https://kubernetes.io/training
         https://kubernetesbyexample.com
         https://labs.play-with-k8s.com
+        https://learning.oreilly.com/search/?query=kubernetes
         https://medium.com/faun/be-fast-with-kubectl-1-18-ckad-cka-31be00acc443
         https://news.ycombinator.com/item?id=22597880 (Kind - run local Kubernetes clusters using Docker (k8s.io))
         https://news.ycombinator.com/item?id=22689119 (Anyone have a recommended guide for Kubernetes?)
