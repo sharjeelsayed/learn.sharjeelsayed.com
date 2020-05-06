@@ -669,6 +669,7 @@ Docker:
         https://news.ycombinator.com/item?id=15822583 (Ask HN: Good resources on learning how docker works under the hood?)
         https://www.facebook.com/groups/devopsdocker
         https://www.udemy.com/topic/docker
+        https://www.reddit.com/r/docker
         https://pinboard.in/u:sharjeelsayed/t:docker
         
     Books and Courses:
@@ -754,11 +755,12 @@ Kubernetes:
         https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad
         https://www.cncf.io/certification/training
 
-        Support
+        Support Groups
         https://kubernauts-slack-join.herokuapp.com
         https://slack.k8s.io
         https://www.facebook.com/groups/kubernetes.users
         https://www.facebook.com/kubernetesio
+        https://www.reddit.com/r/kubernetes
 
     Additional Material:
         Kubernetes for Full-Stack Developers
