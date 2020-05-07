@@ -17,7 +17,6 @@ Contents:
         Linux
         Bash
         tmux
-        macOS
         Windows
         Powershell
         Storage
@@ -53,6 +52,7 @@ Contents:
         Security
         Hardware
         iOS/Android
+        macOS
         Microsoft Excel
         Electronics
         Science
