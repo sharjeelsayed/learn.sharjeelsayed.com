@@ -1008,6 +1008,7 @@ Contents:
 
         Regex:
             Sources:
+                https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=regex&sort=byPopularity&type=story
                 https://news.ycombinator.com/item?id=20608032 (Regex for Noobs – An Illustrated Guide (janmeppe.com))
                 
             Books and Courses:
@@ -1225,6 +1226,7 @@ Contents:
 
         Design:
             Sources:
+                https://github.com/bradtraversy/design-resources-for-developers
                 https://github.com/LisaDziuba/Awesome-Design-Tools
                 https://github.com/topics/design?o=desc&s=stars
                 https://github.com/topics/frontend?o=desc&s=stars
@@ -1513,6 +1515,7 @@ Contents:
                 https://news.ycombinator.com/item?id=21712194 (Ask HN: Best book / resources on leadership, especially for tech teams?)
                 https://news.ycombinator.com/item?id=22092303 (Ask HN: Courses/resources to improve my self-esteem and believe in myself more?)
                 https://news.ycombinator.com/item?id=23050717 (Ask HN: Learning the business-side of things as a developer?)
+                https://news.ycombinator.com/item?id=23118940 (Ask HN: What are your favorite developer-efficiency tips?)
                 https://www.amazon.com/gp/bestsellers/books/2569 (Amazon Best Sellers in Time Management)
                 https://www.indiehackers.com
                 https://www.reddit.com/r/cscareerquestions/comments/6fnujy/soft_skills_for_programmers
@@ -1941,7 +1944,7 @@ Contents:
                 https://github.com/Igglybuff/awesome-piracy
                 https://github.com/magicoflolis/Reddit-Piracy-Megathread
                 https://github.com/ngosang/trackerslist (Updated list of public BitTorrent trackers)
-                https://torrentfreak.com/top-10-most-popular-torrent-sites-of-2019
+                https://torrentfreak.com/top-10-most-popular-torrent-sites-of-2020-200105
                 https://torrentfreak.com/utorrent-is-the-most-used-bittorrent-client-by-far-200405
                 https://www.reddit.com/r/Addons4Kodi/wiki/preferred_addons
                 https://www.reddit.com/r/piracy/wiki/faq
