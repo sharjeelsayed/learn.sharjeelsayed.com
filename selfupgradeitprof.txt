@@ -585,12 +585,13 @@ Contents:
         Windows:
             Sources:
                 https://github.com/Awesome-Windows/Awesome
+                https://github.com/Disassembler0/Win10-Initial-Setup-Script
                 https://github.com/topics/windows-10?o=desc&s=stars
                 https://github.com/W4RH4WK/Debloat-Windows-10
-                https://pinboard.in/u:sharjeelsayed/t:windows
+                https://news.ycombinator.com/item?id=19698620 (Ask HN: How do you secure your Windows PC?)
                 https://www.reddit.com/r/sysadmin/comments/3z7qd9/practice_to_become_a_windows_sysadmin/cyjynxh
                 https://www.reddit.com/r/sysadmin/wiki/ms/resources
-                https://news.ycombinator.com/item?id=19698620 (Ask HN: How do you secure your Windows PC?)
+                https://pinboard.in/u:sharjeelsayed/t:windows
 
             Books and Courses:
                 Windows Server documentation - Microsoft
