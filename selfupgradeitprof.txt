@@ -628,9 +628,10 @@ Contents:
                 https://github.com/wsargent/docker-cheat-sheet
                 https://knowledgepill.it/posts/docker_swarm_compendium (Docker swarm - setup and usage)
                 https://news.ycombinator.com/item?id=15822583 (Ask HN: Good resources on learning how docker works under the hood?)
+                https://sparkle.adroitcorp.com.au/market (Flashcards)
                 https://www.facebook.com/groups/devopsdocker
-                https://www.udemy.com/topic/docker
                 https://www.reddit.com/r/docker
+                https://www.udemy.com/topic/docker
                 https://pinboard.in/u:sharjeelsayed/t:docker
                 
             Books and Courses:
@@ -680,6 +681,7 @@ Contents:
                 https://news.ycombinator.com/item?id=22597880 (Kind - run local Kubernetes clusters using Docker (k8s.io))
                 https://news.ycombinator.com/item?id=22689119 (Anyone have a recommended guide for Kubernetes?)
                 https://rancher.com
+                https://sparkle.adroitcorp.com.au/market (Flashcards)
                 https://techbeacon.com/enterprise-it/47-advanced-tutorials-mastering-kubernetes
                 https://www.katacoda.com/courses/kubernetes
                 https://youtu.be/0Omvgd7Hg1I (Life of a Packet [I] - Michael Rubin, Google)
