@@ -425,9 +425,16 @@ Contents:
                 https://github.com/pingcap/awesome-database-learning
                 https://news.ycombinator.com/item?id=13417326 (Ask HN: What is the best online resource to learn advanced SQL?)
                 https://news.ycombinator.com/item?id=21793270 (Database Internals (databass.dev))
+                https://news.ycombinator.com/item?id=23138297 (Advanced SQL and database books and resources (neilwithdata.com))
                 https://pinboard.in/u:sharjeelsayed/t:db
 
             Books and Courses:
+                15-445/645 Intro to Database Systems (Fall 2019)
+                https://www.youtube.com/playlist?list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi
+
+                15-721 Advanced Database Systems (Spring 2020)
+                https://www.youtube.com/playlist?list=PLSE8ODhjZXjasmrEd2_Yi1deeE360zv5O
+                
                 Database Internals: A Deep Dive into How Distributed Data Systems Work
                 https://www.amazon.com/gp/product/1492040347
                 
@@ -837,6 +844,7 @@ Contents:
         SQL:
             Sources:
                 https://news.ycombinator.com/item?id=23070491 (Here are some other SQL Learning resources I have collected in my note taking Wiki (mostly from HN itself))
+                https://news.ycombinator.com/item?id=23138297 (Advanced SQL and database books and resources (neilwithdata.com))
                 https://pinboard.in/u:sharjeelsayed/t:sql
 
             Books and Courses:
@@ -848,6 +856,8 @@ Contents:
                 https://www.sqlteaching.com
                 
                 https://www.w3schools.com/sql
+
+                https://use-the-index-luke.com
 
         MySQL:
             Books and Courses:
