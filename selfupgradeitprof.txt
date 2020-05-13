@@ -1169,21 +1169,23 @@ Contents:
                 https://github.com/sekey/sekeyx
                 https://github.com/serhii-londar/open-source-mac-os-apps
                 https://github.com/topics/macos?o=desc&s=stars
+                https://www.hammerspoon.org/go/#pasteblock
                 https://pinboard.in/u:sharjeelsayed/t:macos
 
             Alfred:
                 http://www.packal.org
                 https://github.com/deanishe/alfred-firefox
                 https://github.com/derimagia/awesome-alfred-workflows
+                https://github.com/florianeckerstorfer/alfred-type-text
                 https://github.com/learn-anything/alfred-workflows
                 https://github.com/topics/alfred?o=desc&s=stars
                 https://github.com/vitorgalvao/custom-alfred-iterm-scripts
                 https://github.com/willfarrell/alfred-workflows
                 https://github.com/zenorocha/alfred-workflows
+                https://www.alfredapp.com/blog/tips-and-tricks/file-actions-from-alfred-or-finder
                 https://www.alfredapp.com/help/getting-started/cheatsheet
                 https://www.alfredapp.com/workflows
                 https://youtu.be/GWRddk0Ybnc (2: Maximising your Mac Productivity: Alfred)
-                https://www.alfredapp.com/blog/tips-and-tricks/file-actions-from-alfred-or-finder
 
             Better Touch Tool:
                 https://community.folivora.ai/c/setup-preset-sharing/5/l/top
@@ -1529,6 +1531,7 @@ Contents:
                 https://news.ycombinator.com/item?id=22092303 (Ask HN: Courses/resources to improve my self-esteem and believe in myself more?)
                 https://news.ycombinator.com/item?id=23050717 (Ask HN: Learning the business-side of things as a developer?)
                 https://news.ycombinator.com/item?id=23118940 (Ask HN: What are your favorite developer-efficiency tips?)
+                https://news.ycombinator.com/item?id=23152092 (	Ask HN: I've been promoted to Architect. What do I need to learn/do to excel?)
                 https://www.amazon.com/gp/bestsellers/books/2569 (Amazon Best Sellers in Time Management)
                 https://www.indiehackers.com
                 https://www.reddit.com/r/cscareerquestions/comments/6fnujy/soft_skills_for_programmers
@@ -1682,10 +1685,8 @@ Contents:
                 https://news.ycombinator.com/item?id=22299180 (Ask HN: What are some books where the reader learns by building projects?)
                 https://news.ycombinator.com/item?id=22502554 (Ask HN: What are some deep, mentality changing books?)
                 https://news.ycombinator.com/item?id=22718592 (Ask HN: Great fiction books that have had a positive impact on your life?)
+                https://news.ycombinator.com/item?id=23151144 (Ask HN: Mind bending books to read and never be the same as before?)
                 https://opentrackers.org/downloading-ebooks-textbooks
-                https://pinboard.in/u:sharjeelsayed/t:course
-                https://pinboard.in/u:sharjeelsayed/t:ebooks
-                https://pinboard.in/u:sharjeelsayed/t:learn
                 https://ramiro.org/vis/hn-most-linked-books
                 https://redditfavorites.com/books
                 https://wiki.mobileread.com/wiki/EBook_Lending_Libraries
@@ -1702,6 +1703,9 @@ Contents:
                 https://www.reddit.com/r/FreeEBOOKS/comments/exw3gj/here_are_50_classic_books_that_you_can_download
                 https://www.reddit.com/r/freeEBOOKS/wiki/febooks
                 https://www.reddit.com/r/FreeEBOOKS+KindleFreebies
+                https://pinboard.in/u:sharjeelsayed/t:course
+                https://pinboard.in/u:sharjeelsayed/t:ebooks
+                https://pinboard.in/u:sharjeelsayed/t:learn
                 https://www.goodreads.com/sharjeelsayed
                 
             Sites:
