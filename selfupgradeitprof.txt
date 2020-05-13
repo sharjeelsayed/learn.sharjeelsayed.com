@@ -667,6 +667,7 @@ Contents:
         Kubernetes:
             Sources:
                 https://chrisshort.net/kubernetes-illustrated-childrens-guide
+                https://github.com/askmeegs/learn-istio
                 https://github.com/jamiehannaford/what-happens-when-k8s
                 https://github.com/kubernetes/kubernetes
                 https://github.com/nkuba/k8s-admin-helper
@@ -1131,6 +1132,7 @@ Contents:
 
         Hardware:
             Sources:
+                https://github.com/alexellis/awesome-baremetal
                 https://news.ycombinator.com/item?id=14123394 (Ask HN: What's the Hacker News of hardware?)
                 https://news.ycombinator.com/item?id=15733760 (What are hardware development learning web tutorials?)
                 
@@ -1762,7 +1764,8 @@ Contents:
                 https://news.ycombinator.com/item?id=17118269 (Ask HN: What, if anything, do you listen to while coding?)
                 https://news.ycombinator.com/item?id=18493075 (Brain.fm: Music to improve focus, meditation and sleep)
                 https://news.ycombinator.com/item?id=20724959 (Ask HN: Where do you find new music to listen to online?)
-                https://www.reddit.com/r/cscareerquestions/comments/7s6ral/music_while_coding
+                https://www.reddit.com/r/ambientmusic/comments/3tuiu7/ambientmusic_voted_your_top_25_ambient_albums
+                https://www.reddit.com/r/ambientmusic/top
                 https://www.reddit.com/r/medicalschool/comments/9m4afb/serious_spotify_playlists_to_listen_to_while
                 https://pinboard.in/u:SharjeelSayed/t:music+study
                 
@@ -1770,18 +1773,33 @@ Contents:
                 soma fm's Drone Zone Channel
                 http://somafm.com/player/#/now-playing/dronezone
                 https://music.apple.com/station/somafm-drone-zone/ra.1460960905
+                https://open.spotify.com/playlist/1raR4ZD2jZH65dbw5wzfnl
                 
+                Spotify Playlists
+                https://open.spotify.com/album/6035JmOXELaAUjbaCzq7bu (Studying Music: Binaural Beats Sounds For Studying, Focus, Concentration and Ambient Study Music)
+                https://open.spotify.com/album/6XRukyQYxofq4QbPirgtpc (Brown Noise DLX)
+                https://open.spotify.com/playlist/37i9dQZF1DWXUpC6mczRpA (Mozart Study)
+                https://open.spotify.com/playlist/37i9dQZF1DWZd79rJ6a7lp (Sleep)
+                https://open.spotify.com/playlist/37i9dQZF1DWZeKCadgRdKQ (Deep Focus)
+                https://open.spotify.com/playlist/37i9dQZF1DWZhzMp90Opmn (Pink Noise)
+                https://open.spotify.com/playlist/37i9dQZF1DX3Ogo9pFvBkY (Ambient Relaxation)
+                https://open.spotify.com/playlist/37i9dQZF1DX4PP3DA4J0N8 (Nature Sounds)
+                https://open.spotify.com/playlist/37i9dQZF1DX8ymr6UES7vc (Rain Sounds)
+                https://open.spotify.com/playlist/3IasJfydbCLFsh6WM6xnWY (Superb Study 🎧 Instrumental)
+                https://open.spotify.com/playlist/4EhmWNBIY0eXfIiPFGExvR (r/ambientmusic Top 25)
+                https://open.spotify.com/playlist/6UvxOYk0PE78QicUlv0V8t (The 50 Best Ambient Albums of All Time)
+                https://open.spotify.com/view/focus-page
+
                 Apple Music Playlists
-                https://beta.music.apple.com/in/activity/focus/976439521
                 https://music.apple.com/gb/playlist/sleep-sounds/pl.0ef59752c0cd457dbf1391f08cbd936f
+                https://music.apple.com/in/activity/focus/976439521
+                https://music.apple.com/in/playlist/mozart-study/pl.012c3e58dc7b4a6890b9777dd3f4323e
                 https://music.apple.com/in/playlist/nature-sounds/pl.040f99fdd83542a79b28fc4c13f773bd
+                https://music.apple.com/in/playlist/the-50-best-ambient-albums-of-all-time/pl.ba18e2bcf63048248256a1b5f387f08f
                 https://music.apple.com/us/playlist/pure-ambient/pl.a9bd89e7b22e45cbaac40b58c9d3d09b
                 https://music.apple.com/us/playlist/pure-focus/pl.dbd712beded846dca273d5d3259d28aa
                 https://music.apple.com/us/playlist/rain-sounds/pl.e79d63bcaead407fb44a0c19380822e6
-                
-                Spotify Playlist
-                https://open.spotify.com/view/focus-page
-                
+
                 myNoise : Custom Background Noise Machines
                 https://mynoise.net
 
