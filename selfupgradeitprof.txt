@@ -1,7 +1,7 @@
 Curated Self Study Guide for Computer Science and DevOps/SRE/SysAdmin
 
-    Refer the latest updated copy of this page at http://Learn.SharjeelSayed.com
-    Fork this at https://github.com/SharjeelSayed/SharjeelSayed.github.io
+    The latest updated copy of this page is at http://Learn.SharjeelSayed.com
+    Page hosted at https://github.com/sharjeelsayed/sharjeelsayed.github.io/blob/master/selfupgradeitprof.txt
     Reach me at http://SharjeelSayed.com
 
 Contents:
@@ -668,6 +668,7 @@ Contents:
             Sources:
                 https://chrisshort.net/kubernetes-illustrated-childrens-guide
                 https://github.com/askmeegs/learn-istio
+                https://github.com/dennyzhang/cheatsheet-kubernetes-A4
                 https://github.com/jamiehannaford/what-happens-when-k8s
                 https://github.com/kubernetes/kubernetes
                 https://github.com/nkuba/k8s-admin-helper
@@ -1488,6 +1489,7 @@ Contents:
                 http://startupstash.com
                 http://www.toomas.net/2017/07/18/reverse-engineering-a-successful-lifestyle-business-heres-everything-ive-learned-from-reading-indiehackers-com
                 https://github.com/dakshshah96/awesome-startup-credits (A collection of awesome companies offering free/discounted plans for eligible startups)
+                https://github.com/dwmkerr/hacker-laws
                 https://github.com/VGraupera/1on1-questions
                 https://news.ycombinator.com/item?id=11209066 (Why you probably don't need an MBA)
                 https://news.ycombinator.com/item?id=13207268 (Ask HN: How do I get freelance developer jobs?)
@@ -1767,6 +1769,7 @@ Contents:
                 https://www.reddit.com/r/ambientmusic/comments/3tuiu7/ambientmusic_voted_your_top_25_ambient_albums
                 https://www.reddit.com/r/ambientmusic/top
                 https://www.reddit.com/r/medicalschool/comments/9m4afb/serious_spotify_playlists_to_listen_to_while
+                https://open.spotify.com/user/22jszrk35ji6sm6qewxzsly4a?si=DVuJ0DSLQ7mLqfXy4nkLTQ
                 https://pinboard.in/u:SharjeelSayed/t:music+study
                 
             Sites:
@@ -1846,7 +1849,8 @@ Contents:
                 https://dev.to
                 https://devurls.com
                 https://en.wikipedia.org/wiki/Portal:Current_events
-                https://github.com/greybax/awesome-IT-films/blob/master/documentary.md
+                https://github.com/greybax/awesome-IT-films
+                https://github.com/iamadamdev/bypass-paywalls-chrome
                 https://hckrnews.com
                 https://hn.algolia.com
                 https://hn.algolia.com/?query=documentaries&sort=byPopularity&prefix&page=0&dateRange=all&type=story
@@ -1867,6 +1871,7 @@ Contents:
                 https://news.ycombinator.com/item?id=22280939 (Ask HN: What are the underrated newsletters you like reading?)
                 https://news.ycombinator.com/item?id=9836023 (Ask HN: What tech blogs, podcasts do you follow outside of HN?)
                 https://pinboard.in/popular
+                https://showcase.metamate.io/hackernews-trends
                 https://www.hackernewspapers.com
                 https://www.reddit.com/r/AskReddit/comments/9nggyv/what_is_a_great_youtube_channel_to_binge_watch
                 https://www.reddit.com/r/AskReddit/comments/aa7zs9/what_youtube_channels_are_genuinely_worth_watching
