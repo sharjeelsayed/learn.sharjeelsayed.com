@@ -239,6 +239,7 @@ Contents:
                 https://www.reddit.com/r/learnprogramming/comments/89pcz9/what_programming_podcasts_if_any_do_you_listen_to
                 https://www.reddit.com/r/learnprogramming/comments/8h1tzj/beginner_programmer_podcasts
                 https://www.reddit.com/r/learnprogramming/comments/ajijri/good_youtube_channels_for_learning_how_to_code
+                https://www.reddit.com/r/learnprogramming/comments/gjf5sr/what_are_some_good_youtube_channels_for_learning
                 https://www.reddit.com/r/learnprogramming/top
                 https://www.reddit.com/r/learnprogramming/wiki/books
                 https://www.reddit.com/r/learnprogramming/wiki/faq
@@ -1105,6 +1106,7 @@ Contents:
                 https://news.ycombinator.com/item?id=18487547 (Ask HN: Starting a career in security at 40?)
                 https://room362.com/start
                 https://s3ctur.wordpress.com/2017/06/19/breaking-into-infosec-a-beginners-curriculum
+                https://security.stackexchange.com/questions/46666/at-what-length-does-a-password-stop-making-sense
                 https://www.cisecurity.org/cis-benchmarks
                 https://www.edx.org/learn/cybersecurity
                 https://www.reddit.com/r/crypto/wiki
@@ -1437,6 +1439,7 @@ Contents:
                 https://news.ycombinator.com/item?id=19280341 (Ask HN: Tools or sites you use to scope out a workplace before taking a job?)
                 https://pinboard.in/u:sharjeelsayed/t:jobs
                 https://www.reddit.com/r/india/comments/81r29c/your_onestop_guide_to_emigrating_long_term_to
+                https://www.reddit.com/r/india/comments/gja5eo/advice_for_indians_looking_to_study_abroad_and
                 
             Sites:
                 https://www.linkedin.com/jobs
@@ -1778,7 +1781,7 @@ Contents:
                 https://music.apple.com/station/somafm-drone-zone/ra.1460960905
                 https://open.spotify.com/playlist/1raR4ZD2jZH65dbw5wzfnl
                 
-                Spotify Playlists
+                Spotify
                 https://open.spotify.com/album/6035JmOXELaAUjbaCzq7bu (Studying Music: Binaural Beats Sounds For Studying, Focus, Concentration and Ambient Study Music)
                 https://open.spotify.com/album/6XRukyQYxofq4QbPirgtpc (Brown Noise DLX)
                 https://open.spotify.com/playlist/37i9dQZF1DWXUpC6mczRpA (Mozart Study)
@@ -1793,7 +1796,7 @@ Contents:
                 https://open.spotify.com/playlist/6UvxOYk0PE78QicUlv0V8t (The 50 Best Ambient Albums of All Time)
                 https://open.spotify.com/view/focus-page
 
-                Apple Music Playlists
+                Apple Music
                 https://music.apple.com/gb/playlist/sleep-sounds/pl.0ef59752c0cd457dbf1391f08cbd936f
                 https://music.apple.com/in/activity/focus/976439521
                 https://music.apple.com/in/playlist/mozart-study/pl.012c3e58dc7b4a6890b9777dd3f4323e
