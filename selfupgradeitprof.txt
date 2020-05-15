@@ -1765,15 +1765,17 @@ Contents:
         Ambient Music:
             Sources:
                 https://lifehacker.com/the-ultimate-list-of-work-and-study-music-1836284255
+                https://news.ycombinator.com/item?id=11146712 (	AI generated music to improve focus, relaxation and sleep (brain.fm))
                 https://news.ycombinator.com/item?id=11146712 (AI generated music to improve focus, relaxation and sleep (brain.fm))
                 https://news.ycombinator.com/item?id=12844434 (Music for Programming (musicforprogramming.net))
                 https://news.ycombinator.com/item?id=17118269 (Ask HN: What, if anything, do you listen to while coding?)
                 https://news.ycombinator.com/item?id=18493075 (Brain.fm: Music to improve focus, meditation and sleep)
                 https://news.ycombinator.com/item?id=20724959 (Ask HN: Where do you find new music to listen to online?)
+                https://news.ycombinator.com/item?id=9767943 (Do Binaural Beats Really Affect Brainwaves? (autodidacts.io))
+                https://open.spotify.com/user/22jszrk35ji6sm6qewxzsly4a?si=DVuJ0DSLQ7mLqfXy4nkLTQ
                 https://www.reddit.com/r/ambientmusic/comments/3tuiu7/ambientmusic_voted_your_top_25_ambient_albums
                 https://www.reddit.com/r/ambientmusic/top
                 https://www.reddit.com/r/medicalschool/comments/9m4afb/serious_spotify_playlists_to_listen_to_while
-                https://open.spotify.com/user/22jszrk35ji6sm6qewxzsly4a?si=DVuJ0DSLQ7mLqfXy4nkLTQ
                 https://pinboard.in/u:SharjeelSayed/t:music+study
                 
             Sites:
@@ -1787,15 +1789,14 @@ Contents:
                 https://open.spotify.com/album/6XRukyQYxofq4QbPirgtpc (Brown Noise DLX)
                 https://open.spotify.com/playlist/37i9dQZF1DWXUpC6mczRpA (Mozart Study)
                 https://open.spotify.com/playlist/37i9dQZF1DWZd79rJ6a7lp (Sleep)
-                https://open.spotify.com/playlist/37i9dQZF1DWZeKCadgRdKQ (Deep Focus)
                 https://open.spotify.com/playlist/37i9dQZF1DWZhzMp90Opmn (Pink Noise)
                 https://open.spotify.com/playlist/37i9dQZF1DX3Ogo9pFvBkY (Ambient Relaxation)
                 https://open.spotify.com/playlist/37i9dQZF1DX4PP3DA4J0N8 (Nature Sounds)
+                https://open.spotify.com/playlist/37i9dQZF1DX7EF8wVxBVhG (Binaural Beats: Focus)
                 https://open.spotify.com/playlist/37i9dQZF1DX8ymr6UES7vc (Rain Sounds)
-                https://open.spotify.com/playlist/3IasJfydbCLFsh6WM6xnWY (Superb Study 🎧 Instrumental)
                 https://open.spotify.com/playlist/4EhmWNBIY0eXfIiPFGExvR (r/ambientmusic Top 25)
                 https://open.spotify.com/playlist/6UvxOYk0PE78QicUlv0V8t (The 50 Best Ambient Albums of All Time)
-                https://open.spotify.com/view/focus-page
+                https://open.spotify.com/search/binaural/playlists
 
                 Apple Music
                 https://music.apple.com/gb/playlist/sleep-sounds/pl.0ef59752c0cd457dbf1391f08cbd936f
