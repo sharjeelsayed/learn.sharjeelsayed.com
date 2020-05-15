@@ -73,7 +73,7 @@ Contents:
         Productivity Apps
         Books
         Kindle
-        Ambient Music
+        Study Music
         Headphones
         Ear Plugs
     Miscellaneous:
@@ -1762,7 +1762,7 @@ Contents:
                 3) Convert to AZW3 (not .mobi)
                 4) Repeat step 2. This is probably unnecessary but it just takes a second.
 
-        Ambient Music:
+        Study Music:
             Sources:
                 https://lifehacker.com/the-ultimate-list-of-work-and-study-music-1836284255
                 https://news.ycombinator.com/item?id=11146712 (	AI generated music to improve focus, relaxation and sleep (brain.fm))
