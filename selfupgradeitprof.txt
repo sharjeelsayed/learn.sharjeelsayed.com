@@ -1217,6 +1217,7 @@ Contents:
         Science:
             Sources:
                 https://bookauthority.org/books/best-science-books
+                https://docs.google.com/spreadsheets/d/17gv8uAydcInAeflJp5FrzpfmuUhOcyhBcutaZwVMans (Science communication Youtube channels)
                 https://en.wikipedia.org/wiki/Best_science_book_ever
                 https://en.wikipedia.org/wiki/Lists_of_important_publications_in_science
                 https://news.ycombinator.com/item?id=18085765 (Ask HN: What are some of the best documentaries you've seen?)
@@ -1787,12 +1788,15 @@ Contents:
                 Spotify
                 https://open.spotify.com/album/6035JmOXELaAUjbaCzq7bu (Studying Music: Binaural Beats Sounds For Studying, Focus, Concentration and Ambient Study Music)
                 https://open.spotify.com/album/6XRukyQYxofq4QbPirgtpc (Brown Noise DLX)
+                https://open.spotify.com/genre/asmr-page
+                https://open.spotify.com/genre/study-page
                 https://open.spotify.com/playlist/37i9dQZF1DWXUpC6mczRpA (Mozart Study)
                 https://open.spotify.com/playlist/37i9dQZF1DWZd79rJ6a7lp (Sleep)
                 https://open.spotify.com/playlist/37i9dQZF1DWZhzMp90Opmn (Pink Noise)
                 https://open.spotify.com/playlist/37i9dQZF1DX3Ogo9pFvBkY (Ambient Relaxation)
                 https://open.spotify.com/playlist/37i9dQZF1DX4PP3DA4J0N8 (Nature Sounds)
                 https://open.spotify.com/playlist/37i9dQZF1DX7EF8wVxBVhG (Binaural Beats: Focus)
+                https://open.spotify.com/playlist/37i9dQZF1DX8NTLI2TtZa6 (Intense Studying)
                 https://open.spotify.com/playlist/37i9dQZF1DX8ymr6UES7vc (Rain Sounds)
                 https://open.spotify.com/playlist/4EhmWNBIY0eXfIiPFGExvR (r/ambientmusic Top 25)
                 https://open.spotify.com/playlist/6UvxOYk0PE78QicUlv0V8t (The 50 Best Ambient Albums of All Time)
