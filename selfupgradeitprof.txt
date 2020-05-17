@@ -724,6 +724,8 @@ Contents:
                 https://github.com/dgkanatsios/CKAD-exercises
                 https://github.com/lucassha/CKAD-resources
                 https://github.com/walidshaari/Kubernetes-Certified-Administrator
+                https://killer.sh
+                https://levelup.gitconnected.com/kubernetes-cka-example-questions-practical-challenge-86318d85b4d
                 https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka
                 https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad
                 https://www.cncf.io/certification/training
@@ -872,6 +874,9 @@ Contents:
                 https://docs.microsoft.com/en-us/sql/sql-server/sql-server-technical-documentation
 
         PostgreSQL:
+            Sources:
+                https://news.ycombinator.com/item?id=23208181
+            
             Books and Courses:
                 https://www.postgresql.org/docs/9.3/static/index.html
                 https://pgexercises.com
@@ -1860,6 +1865,8 @@ Contents:
                 https://en.wikipedia.org/wiki/Portal:Current_events
                 https://github.com/greybax/awesome-IT-films
                 https://github.com/iamadamdev/bypass-paywalls-chrome
+                https://github.com/learn-anything/blogs
+                https://github.com/topics/blogs?o=desc&s=stars
                 https://hckrnews.com
                 https://hn.algolia.com
                 https://hn.algolia.com/?query=documentaries&sort=byPopularity&prefix&page=0&dateRange=all&type=story
@@ -1878,9 +1885,12 @@ Contents:
                 https://news.ycombinator.com/item?id=20719651 (Ask HN: What are some niche or alternative news aggregators worth checking out?)
                 https://news.ycombinator.com/item?id=21928170 (Ask HN: What niche blogs are worthwhile to follow?)
                 https://news.ycombinator.com/item?id=22280939 (Ask HN: What are the underrated newsletters you like reading?)
+                https://news.ycombinator.com/item?id=22800136 (Ask HN: What is your blog and why should I read it?)
+                https://news.ycombinator.com/item?id=23206259 (Ask HN: What are some hard-tech blogs that you follow?)
                 https://news.ycombinator.com/item?id=9836023 (Ask HN: What tech blogs, podcasts do you follow outside of HN?)
                 https://pinboard.in/popular
                 https://showcase.metamate.io/hackernews-trends
+                https://wiki.nikitavoloboev.xyz/research/blogs#favorite-blogs
                 https://www.hackernewspapers.com
                 https://www.reddit.com/r/AskReddit/comments/9nggyv/what_is_a_great_youtube_channel_to_binge_watch
                 https://www.reddit.com/r/AskReddit/comments/aa7zs9/what_youtube_channels_are_genuinely_worth_watching
