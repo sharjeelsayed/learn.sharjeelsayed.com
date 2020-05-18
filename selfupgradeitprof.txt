@@ -694,6 +694,7 @@ Contents:
                 https://sparkle.adroitcorp.com.au/market (Flashcards)
                 https://techbeacon.com/enterprise-it/47-advanced-tutorials-mastering-kubernetes
                 https://www.katacoda.com/courses/kubernetes
+                https://www.reddit.com/r/kubernetes/comments/gldbkk/cka_exam_good_exercisemock_exam_resources
                 https://youtu.be/0Omvgd7Hg1I (Life of a Packet [I] - Michael Rubin, Google)
                 https://pinboard.in/u:sharjeelsayed/t:kubernetes
                 
@@ -717,8 +718,9 @@ Contents:
                 https://github.com/mmumshad/kubernetes-the-hard-way
                 
                 Kubernetes: Up and Running: Dive into the Future of Infrastructure 2nd Edition
-                https://www.amazon.com/Kubernetes-Running-Dive-Future-Infrastructure/dp/1492046531
                 https://learning.oreilly.com/library/view/kubernetes-up-and/9781492046523
+                https://tanzu.vmware.com/content/ebooks/kubernetes-up-running-dive-into-the-future-of-infrastructure
+                https://www.amazon.com/Kubernetes-Running-Dive-Future-Infrastructure/dp/1492046531
                 
                 CKA/CKAD
                 https://github.com/dgkanatsios/CKAD-exercises
@@ -731,6 +733,7 @@ Contents:
                 https://www.cncf.io/certification/training
 
                 Support Groups
+                https://docs.google.com/forms/d/e/1FAIpQLSfdsupDfOWBtNVvVvXED6ULxtR4UIsYGCH_cQcRr0VcG1ZqQQ/viewform (https://istio.slack.com)
                 https://kubernauts-slack-join.herokuapp.com
                 https://slack.k8s.io
                 https://www.facebook.com/groups/kubernetes.users
@@ -738,9 +741,13 @@ Contents:
                 https://www.reddit.com/r/kubernetes
 
             Additional Material:
+                Kubernetes Learning Path :50 Days From Zero To Hero with Kubernetes by Azure
+                https://azure.microsoft.com/en-us/resources/kubernetes-learning-path
+                https://www.youtube.com/playlist?list=PLLasX02E8BPCrIhFrc_ZiINhbRkYMKdPT Kubernetes Basics by Kubernetes cofounder Brendan Burns
+
                 Kubernetes for Full-Stack Developers
                 https://www.digitalocean.com/community/curriculums/kubernetes-for-full-stack-developers
-
+        
         VMware:
             Sources:
                 https://communities.vmware.com/community/vmtn/resources/how
