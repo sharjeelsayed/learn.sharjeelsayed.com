@@ -917,6 +917,10 @@ Contents:
                 Ansible Essentials: Simplicity in Automation Technical Overview
                 https://www.redhat.com/en/services/training/do007-ansible-essentials-simplicity-automation-technical-overview
 
+            Additional Courses:
+                Ansible Crash Course by Michael Crilly
+                https://www.thecloud.coach/courses/ansible-crash-course
+
         Puppet:
             Books and Courses:
                 Download the Puppet Learning VM
