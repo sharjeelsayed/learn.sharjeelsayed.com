@@ -559,6 +559,7 @@ Contents:
             Sources:
                 https://github.com/alebcay/awesome-shell
                 https://github.com/dylanaraps/pure-bash-bible
+                https://github.com/gleitz/howdoi (instant coding answers via the command line)
                 https://github.com/jlevy/the-art-of-command-line
                 https://github.com/koalaman/shellcheck
                 https://github.com/onceupon/Bash-Oneliner
@@ -667,6 +668,7 @@ Contents:
 
         Kubernetes:
             Sources:
+                https://blog.pipetail.io/posts/2020-05-04-most-common-mistakes-k8s
                 https://chrisshort.net/kubernetes-illustrated-childrens-guide
                 https://github.com/askmeegs/learn-istio
                 https://github.com/dennyzhang/cheatsheet-kubernetes-A4
@@ -676,6 +678,7 @@ Contents:
                 https://github.com/ramitsurana/awesome-kubernetes
                 https://github.com/topics/cka?o=desc&s=stars
                 https://github.com/topics/kubernetes?o=desc&s=stars
+                https://github.com/zegl/kube-score (Kubernetes object analysis with recommendations for improved reliability and security)
                 https://goo.gl/Rywkpd (The Kubernetes Learning Resources List)
                 https://k3s.io
                 https://kind.sigs.k8s.io
@@ -794,12 +797,18 @@ Contents:
                 https://github.com/toniblyx/my-arsenal-of-aws-security-tools
                 https://github.com/topics/aws?o=desc&s=stars
                 https://www.reddit.com/r/sysadmin/comments/8inzn5/so_you_want_to_learn_aws_aka_how_do_i_learn_to_be
+                https://www.udemy.com/topic/aws-certification
+                https://pinboard.in/u:sharjeelsayed/t:aws
                 
             Books and Courses:
-                AWS Certified Solutions Architect - Associate 2020
+                AWS Certified Solutions Architect - Associate 2020 by Ryan Kroonenburg, Faye Ellis
                 https://acloud.guru/courses/amazon-web-services
                 https://www.udemy.com/course/aws-certified-solutions-architect-associate
                 https://monova.to/C7732534C6D50D6889ABA71159BA795448AF614C
+
+                Ultimate AWS Certified Solutions Architect Associate 2020 by Stephane Maarek
+                https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c02
+                https://monova.to/6DEC5835A8775F0C6014843F1A0EB2715F38D1A5
                 
                 Amazon Web Services in Action 2nd Edition
                 https://www.amazon.com/Amazon-Services-Action-Andreas-Wittig/dp/1617295116
@@ -882,7 +891,7 @@ Contents:
 
         PostgreSQL:
             Sources:
-                https://news.ycombinator.com/item?id=23208181
+                https://news.ycombinator.com/item?id=23208181 (Ask HN: What PostgreSQL client do you use?)
             
             Books and Courses:
                 https://www.postgresql.org/docs/9.3/static/index.html
@@ -939,6 +948,7 @@ Contents:
                 https://news.ycombinator.com/item?id=16622038 (At full speed with Python: a book for self-learners)
                 https://news.ycombinator.com/item?id=21054462 (Ask HN: How do you handle/maintain local Python environments?)
                 https://opensource.com/article/19/5/python-3-default-mac (The right and wrong way to set Python 3 as default on a Mac)
+                https://www.jetbrains.com/lp/python-developers-survey-2019
                 https://www.reddit.com/r/learnprogramming/comments/6bxdut/python_for_beginners_complete_series
                 https://www.reddit.com/r/learnprogramming/wiki/online#wiki_python
                 https://www.reddit.com/r/learnpython/comments/53z5p4/how_to_start_learning_python_the_complete_guide
@@ -1873,7 +1883,9 @@ Contents:
             Sources:
                 https://dev.to
                 https://devurls.com
+                https://edavis.github.io/hnrss
                 https://en.wikipedia.org/wiki/Portal:Current_events
+                https://en.wikipedia.org/wiki/Special:Random
                 https://github.com/greybax/awesome-IT-films
                 https://github.com/iamadamdev/bypass-paywalls-chrome
                 https://github.com/learn-anything/blogs
