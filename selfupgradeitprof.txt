@@ -819,6 +819,7 @@ Contents:
                 https://github.com/open-guides/og-aws
                 
                 AWS Certifications:
+                https://aws.amazon.com/training/learning-paths
                 https://linuxacademy.com/amazon-web-services/courses
                 https://tutorialsdojo.com/aws-cheat-sheets
                 https://tutorialsdojo.com/aws-study-path-notes
