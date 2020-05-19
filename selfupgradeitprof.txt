@@ -718,7 +718,6 @@ Contents:
                 https://linuxacademy.com/course/kubernetes-the-hard-way
                 https://1337x.to/torrent/3612019/LinuxAcademy-Kubernetes-the-Hard-Way-FCO
                 https://napo.io/posts/kubernetes-the-real-hard-way-on-aws
-                https://github.com/mmumshad/kubernetes-the-hard-way
                 
                 Kubernetes: Up and Running: Dive into the Future of Infrastructure 2nd Edition
                 https://learning.oreilly.com/library/view/kubernetes-up-and/9781492046523
@@ -802,8 +801,9 @@ Contents:
                 
             Books and Courses:
                 Ultimate AWS Certified Solutions Architect Associate 2020 by Stephane Maarek
-                https://courses.datacumulus.com
                 https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c02
+                https://courses.datacumulus.com (Discount codes for the Course)
+                https://courses.datacumulus.com/downloads/certified-solutions-architect-pn9 (AWS Certified Solutions Architect Associate Code & Slides)
                 https://monova.to/6DEC5835A8775F0C6014843F1A0EB2715F38D1A5
                 
                 AWS Certified Solutions Architect Associate Practice Exams by Jon Bonso
