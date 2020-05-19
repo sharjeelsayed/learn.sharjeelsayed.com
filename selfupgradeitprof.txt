@@ -796,20 +796,20 @@ Contents:
                 https://github.com/serverless/serverless
                 https://github.com/toniblyx/my-arsenal-of-aws-security-tools
                 https://github.com/topics/aws?o=desc&s=stars
+                https://www.reddit.com/r/aws
                 https://www.reddit.com/r/sysadmin/comments/8inzn5/so_you_want_to_learn_aws_aka_how_do_i_learn_to_be
-                https://www.udemy.com/topic/aws-certification
                 https://pinboard.in/u:sharjeelsayed/t:aws
                 
             Books and Courses:
-                AWS Certified Solutions Architect - Associate 2020 by Ryan Kroonenburg, Faye Ellis
-                https://acloud.guru/courses/amazon-web-services
-                https://www.udemy.com/course/aws-certified-solutions-architect-associate
-                https://monova.to/C7732534C6D50D6889ABA71159BA795448AF614C
-
                 Ultimate AWS Certified Solutions Architect Associate 2020 by Stephane Maarek
+                https://courses.datacumulus.com
                 https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c02
                 https://monova.to/6DEC5835A8775F0C6014843F1A0EB2715F38D1A5
                 
+                AWS Certified Solutions Architect Associate Practice Exams by Jon Bonso
+                https://portal.tutorialsdojo.com/courses/aws-certified-solutions-architect-associate-practice-exams
+                https://www.udemy.com/course/aws-certified-solutions-architect-associate-amazon-practice-exams-saa-c02
+
                 Amazon Web Services in Action 2nd Edition
                 https://www.amazon.com/Amazon-Services-Action-Andreas-Wittig/dp/1617295116
                 https://www.manning.com/books/amazon-web-services-in-action-second-edition
@@ -818,11 +818,25 @@ Contents:
                 Amazon Web Services — a practical guide
                 https://github.com/open-guides/og-aws
                 
-                Linux Academy: AWS Certification Training
+                AWS Certifications:
                 https://linuxacademy.com/amazon-web-services/courses
-                
-                QWIKLABS: Solutions Architect - Associate
-                https://www.qwiklabs.com/quests/10
+                https://tutorialsdojo.com/aws-cheat-sheets
+                https://tutorialsdojo.com/aws-study-path-notes
+                https://www.qwiklabs.com/quests/10 (Solutions Architect - Associate)
+                https://www.reddit.com/r/AWSCertifications
+                https://www.reddit.com/r/AWSCertifications/comments/fmnmkn/just_passed_the_solutions_architect_associate_exam
+                https://www.reddit.com/r/AWSCertifications/comments/gf2j5n/aws_certified_solutions_architect_associate_exam
+                https://www.reddit.com/r/AWSCertifications+aws/search?q=best+course&restrict_sr=on
+                https://www.udemy.com/topic/aws-certification
+            
+            Additional Material:
+                AWS Certified Solutions Architect - Associate 2020 (PASS THE EXAM!) | Ad-Free Course by freeCodeCamp.org
+                https://youtu.be/Ia-UEYYR44s
+
+                AWS Certified Solutions Architect - Associate 2020 by Ryan Kroonenburg, Faye Ellis
+                https://acloud.guru/courses/amazon-web-services
+                https://www.udemy.com/course/aws-certified-solutions-architect-associate
+                https://monova.to/C7732534C6D50D6889ABA71159BA795448AF614C
 
         NGINX:
             Sources:
@@ -1936,7 +1950,7 @@ Contents:
                 https://news.google.com/topics/CAAqBwgKMOXWjQswrYGgAw?hl=en-IN&gl=IN&ceid=IN:en (Maharashtra)
                 
                 Reddit:
-                https://www.reddit.com/r/Android+AppHookup+AppleWatch+COVID19+Coronavirus+CryptoCurrency+DataHoarder+Documentaries+FreeEBOOKS+GooglePixel+IndiaInvestments+KindleFreebies+Piracy+Ubuntu+Vaping+announcements+apple+aws+compsci+cscareerquestions+dataisbeautiful+devops+docker+electronic_cigarette+gadgets+hackernews+india+ipad+iphone+juul+kindle+kubernetes+learnprogramming+linux+linuxadmin+mac+movies+mumbai+netsec+networking+onebag+programming+science+solotravel+sysadmin+television+todayilearned+travel+worldnews+yubikey
+                https://www.reddit.com/r/AWSCertifications+Android+AppHookup+AppleWatch+COVID19+Coronavirus+CryptoCurrency+DataHoarder+Documentaries+FreeEBOOKS+GooglePixel+IndiaInvestments+KindleFreebies+Piracy+Ubuntu+Vaping+announcements+apple+aws+compsci+cscareerquestions+dataisbeautiful+devops+docker+electronic_cigarette+gadgets+hackernews+india+ipad+iphone+juul+kindle+kubernetes+learnprogramming+linux+linuxadmin+mac+movies+mumbai+netsec+networking+onebag+programming+science+solotravel+sysadmin+television+todayilearned+travel+worldnews+yubikey
                 
                 YouTube:
                 https://www.youtube.com/channel/UCF0pVplsI8R5kcAqgtoRqoA (YouTube Worldwide Popular Right Now)
