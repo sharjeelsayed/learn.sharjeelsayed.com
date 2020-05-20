@@ -673,6 +673,7 @@ Contents:
                 https://github.com/askmeegs/learn-istio
                 https://github.com/dennyzhang/cheatsheet-kubernetes-A4
                 https://github.com/jamiehannaford/what-happens-when-k8s
+                https://github.com/kelseyhightower/kubernetes-the-hard-way
                 https://github.com/kubernetes/kubernetes
                 https://github.com/nkuba/k8s-admin-helper
                 https://github.com/ramitsurana/awesome-kubernetes
@@ -691,6 +692,7 @@ Contents:
                 https://labs.play-with-k8s.com
                 https://learning.oreilly.com/search/?query=kubernetes
                 https://medium.com/faun/be-fast-with-kubectl-1-18-ckad-cka-31be00acc443
+                https://napo.io/posts/kubernetes-the-real-hard-way-on-aws
                 https://news.ycombinator.com/item?id=22597880 (Kind - run local Kubernetes clusters using Docker (k8s.io))
                 https://news.ycombinator.com/item?id=22689119 (Anyone have a recommended guide for Kubernetes?)
                 https://rancher.com
@@ -712,12 +714,6 @@ Contents:
                 https://kodekloud.com/p/json-path-quiz (JSON PATH Quiz- FREE COURSE)
                 https://join.slack.com/t/kodekloud/shared_invite/zt-dkvyibo4-A4JPw459fFtqv7OeR7Qg7w
                 https://www.facebook.com/kodekloudtraining
-                
-                Kubernetes The Hard Way
-                https://github.com/kelseyhightower/kubernetes-the-hard-way
-                https://linuxacademy.com/course/kubernetes-the-hard-way
-                https://1337x.to/torrent/3612019/LinuxAcademy-Kubernetes-the-Hard-Way-FCO
-                https://napo.io/posts/kubernetes-the-real-hard-way-on-aws
                 
                 Kubernetes: Up and Running: Dive into the Future of Infrastructure 2nd Edition
                 https://learning.oreilly.com/library/view/kubernetes-up-and/9781492046523
@@ -743,6 +739,10 @@ Contents:
                 https://www.reddit.com/r/kubernetes
 
             Additional Material:
+                Kubernetes The Hard Way
+                https://linuxacademy.com/course/kubernetes-the-hard-way
+                https://1337x.to/torrent/3612019/LinuxAcademy-Kubernetes-the-Hard-Way-FCO
+                
                 Kubernetes Learning Path :50 Days From Zero To Hero with Kubernetes by Azure
                 https://azure.microsoft.com/en-us/resources/kubernetes-learning-path
                 https://www.youtube.com/playlist?list=PLLasX02E8BPCrIhFrc_ZiINhbRkYMKdPT Kubernetes Basics by Kubernetes cofounder Brendan Burns
@@ -833,12 +833,7 @@ Contents:
             Additional Material:
                 AWS Certified Solutions Architect - Associate 2020 (PASS THE EXAM!) | Ad-Free Course by freeCodeCamp.org
                 https://youtu.be/Ia-UEYYR44s
-
-                AWS Certified Solutions Architect - Associate 2020 by Ryan Kroonenburg, Faye Ellis
-                https://acloud.guru/courses/amazon-web-services
-                https://www.udemy.com/course/aws-certified-solutions-architect-associate
-                https://monova.to/C7732534C6D50D6889ABA71159BA795448AF614C
-
+        
         NGINX:
             Sources:
                 https://github.com/topics/nginx?o=desc&s=stars
@@ -1762,6 +1757,7 @@ Contents:
                 http://audiobookbay.nl
                 http://b-ok.org
                 http://breue.com/free_programming_books
+                http://ebb.la
                 http://findlectures.com
                 http://freebookspot.es
                 http://libgen.io or http://gen.lib.rus.ec
