@@ -80,6 +80,7 @@ Contents:
         News
         Podcasts
         Backup
+        VPS
         VPN
         BitTorrent
         Survival
@@ -467,7 +468,6 @@ Contents:
             https://github.com/AcalephStorage/awesome-devops
             https://github.com/dastergon/awesome-sre
             https://github.com/kahun/awesome-sysadmin
-            https://github.com/Kickball/awesome-selfhosted
             https://github.com/Leo-G/DevopsWiki
             https://github.com/n1trux/awesome-sysadmin
             https://github.com/ripienaar/free-for-dev
@@ -644,7 +644,7 @@ Contents:
                 https://pinboard.in/u:sharjeelsayed/t:docker
                 
             Books and Courses:
-                Docker for Beginners: Full Course by Mumshad Mannambeth (KodeKloud)
+                Docker for Beginners: Full Course by Mumshad Mannambeth
                 https://youtu.be/zJ6WbK9zFpI
                 https://www.kodekloud.com/p/docker-labs
                 https://www.udemy.com/course/learn-docker
@@ -2022,6 +2022,19 @@ Contents:
                 Backblaze B2 Cloud Storage
                 https://www.backblaze.com/b2/cloud-storage.html
 
+        VPS:
+            Sources:
+                https://github.com/joedicastro/vps-comparison
+                https://github.com/Kickball/awesome-selfhosted
+                https://hn.algolia.com/?dateRange=pastYear&page=0&prefix=true&query=ask%20hn%3A%20vps&sort=byPopularity&type=story
+                https://joshtronic.com/2019/09/02/vps-showdown-digitalocean-lightsail-linode-upcloud-vultr
+                https://lowendbox.com
+                https://news.ycombinator.com/item?id=15105601 (Ask HN: What are your favorites self hosted tools?)
+                https://twitter.com/nixcraft/status/1248353658829279232 (Twitter followers count of major cloud service providers)
+                https://www.reddit.com/r/VPS+homelab
+                https://www.vpsbenchmarks.com
+                https://pinboard.in/u:sharjeelsayed/t:vps
+
         VPN:
             Sources:
                 https://github.com/topics/vpn?o=desc&s=stars
@@ -2084,13 +2097,11 @@ Contents:
             https://github.com/topics/awesome
             https://hackerspaces.org
             https://hnprofile.com (Find an Expert on Hacker News)
-            https://joshtronic.com/2019/09/02/vps-showdown-digitalocean-lightsail-linode-upcloud-vultr
             https://learn-anything.xyz
             https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#-48.5,-680.3,0
             https://news.ycombinator.com/item?id=12209446 (How to Read a Book [pdf])
             https://news.ycombinator.com/item?id=14087880 (Ask HN: What are some great “Free” services provided by IBM, Amazon, etc.?)
             https://news.ycombinator.com/item?id=14637859 (Ask HN: What's your process for learning?)
-            https://news.ycombinator.com/item?id=15105601 (Ask HN: What are your favorites self hosted tools?)
             https://news.ycombinator.com/item?id=17272715 (Ask HN: Any resources to learn the fundamentals of critical thinking?)
             https://news.ycombinator.com/item?id=19521136 (Ask HN: What backpack are you using?)
             https://news.ycombinator.com/item?id=20007108 (Ask HN: Do you keep a personal knowledge repository?)
