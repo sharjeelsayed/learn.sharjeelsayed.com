@@ -1777,6 +1777,7 @@ Contents:
                 https://www.ereaderiq.com
                 https://www.gutenberg.org
                 https://www.oreilly.com
+                https://z-lib.org
                 irc://irc.irchighway.net/ebooks
                 irc://irc.undernet.org/bookz
 
