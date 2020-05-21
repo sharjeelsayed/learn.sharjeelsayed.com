@@ -756,6 +756,7 @@ Contents:
                 https://labs.hol.vmware.com
                 https://mylearn.vmware.com
                 https://www.reddit.com/r/vmware/top
+                https://www.vmware.com/education-services/certification.html
                 https://www.youtube.com/user/VMwareKB
                 
             Books and Courses:
@@ -820,17 +821,19 @@ Contents:
                 
                 AWS Certifications:
                 https://aws.amazon.com/training/learning-paths
-                https://linuxacademy.com/amazon-web-services/courses
                 https://tutorialsdojo.com/aws-cheat-sheets
                 https://tutorialsdojo.com/aws-study-path-notes
                 https://www.qwiklabs.com/quests/10 (Solutions Architect - Associate)
                 https://www.reddit.com/r/AWSCertifications
-                https://www.reddit.com/r/AWSCertifications/comments/fmnmkn/just_passed_the_solutions_architect_associate_exam
-                https://www.reddit.com/r/AWSCertifications/comments/gf2j5n/aws_certified_solutions_architect_associate_exam
-                https://www.reddit.com/r/AWSCertifications+aws/search?q=best+course&restrict_sr=on
+                https://www.reddit.com/r/AWSCertifications/top/?sort=top&t=year
                 https://www.udemy.com/topic/aws-certification
             
             Additional Material:
+                AWS Certified Solutions Architect - Associate (SAA-C02) by Adrian Cantrill
+                https://learn.cantrill.io/p/aws-certified-solutions-architect-associate-saa-c02
+                https://github.com/acantril/aws-sa-associate-saac02
+                https://github.com/alozano-77/AWS-SAA-C02-Course
+
                 AWS Certified Solutions Architect - Associate 2020 (PASS THE EXAM!) | Ad-Free Course by freeCodeCamp.org
                 https://youtu.be/Ia-UEYYR44s
         
