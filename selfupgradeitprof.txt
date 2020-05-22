@@ -844,6 +844,7 @@ Contents:
                 https://aka.ms/join-ask-azure
                 https://azure.microsoft.com/en-us/get-started
                 https://docs.microsoft.com/en-us/learn/azure
+                https://www.pluralsight.com/partners/microsoft/azure
                 https://www.reddit.com/r/AZURE
                 https://www.reddit.com/r/AZURE/search/?q=course&restrict_sr=on&t=year
 
