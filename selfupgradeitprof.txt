@@ -826,7 +826,7 @@ Contents:
                 https://tutorialsdojo.com/aws-study-path-notes
                 https://www.qwiklabs.com/quests/10 (Solutions Architect - Associate)
                 https://www.reddit.com/r/AWSCertifications
-                https://www.reddit.com/r/AWSCertifications/top/?sort=top&t=year
+                https://www.reddit.com/r/AWSCertifications/search/?q=course&restrict_sr=on&t=year
                 https://www.udemy.com/topic/aws-certification
             
             Additional Material:
