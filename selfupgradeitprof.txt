@@ -834,6 +834,7 @@ Contents:
                 https://learn.cantrill.io/p/aws-certified-solutions-architect-associate-saa-c02
                 https://github.com/acantril/aws-sa-associate-saac02
                 https://github.com/alozano-77/AWS-SAA-C02-Course
+                https://techstudyslack.com
 
                 AWS Certified Solutions Architect - Associate 2020 (PASS THE EXAM!) | Ad-Free Course by freeCodeCamp.org
                 https://youtu.be/Ia-UEYYR44s
@@ -1230,11 +1231,15 @@ Contents:
 
             Alfred:
                 http://www.packal.org
+                https://github.com/benknight/hue-alfred-workflow
                 https://github.com/blacs30/bitwarden-alfred-workflow
+                https://github.com/deanishe/alfred-convert
                 https://github.com/deanishe/alfred-firefox
+                https://github.com/deanishe/alfred-pwgen
                 https://github.com/derimagia/awesome-alfred-workflows
                 https://github.com/florianeckerstorfer/alfred-type-text
                 https://github.com/learn-anything/alfred-workflows
+                https://github.com/ngreenstein/alfred-process-killer
                 https://github.com/topics/alfred?o=desc&s=stars
                 https://github.com/vitorgalvao/custom-alfred-iterm-scripts
                 https://github.com/willfarrell/alfred-workflows
@@ -1242,6 +1247,7 @@ Contents:
                 https://www.alfredapp.com/blog/tips-and-tricks/file-actions-from-alfred-or-finder
                 https://www.alfredapp.com/help/getting-started/cheatsheet
                 https://www.alfredapp.com/workflows
+                https://www.packal.org/workflow/caffeinate-control
                 https://youtu.be/GWRddk0Ybnc (2: Maximising your Mac Productivity: Alfred)
 
             Better Touch Tool:
