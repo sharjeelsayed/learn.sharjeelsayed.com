@@ -26,6 +26,7 @@ Contents:
         OpenStack
         Data Center
         AWS
+        Azure
         NginX
         Apache
         IIS
@@ -837,6 +838,15 @@ Contents:
                 AWS Certified Solutions Architect - Associate 2020 (PASS THE EXAM!) | Ad-Free Course by freeCodeCamp.org
                 https://youtu.be/Ia-UEYYR44s
         
+        Azure:
+            Sources:
+                https://acloud.guru/azure-cloud-training
+                https://aka.ms/join-ask-azure
+                https://azure.microsoft.com/en-us/get-started
+                https://docs.microsoft.com/en-us/learn/azure
+                https://www.reddit.com/r/AZURE
+                https://www.reddit.com/r/AZURE/search/?q=course&restrict_sr=on&t=year
+
         NGINX:
             Sources:
                 https://github.com/topics/nginx?o=desc&s=stars
