@@ -70,7 +70,7 @@ Contents:
         Money
         Foreign Language
     Study Tools:
-        Productivity Apps
+        Productivity Tools
         Books
         Kindle
         Study Music
@@ -1219,6 +1219,7 @@ Contents:
 
             Alfred:
                 http://www.packal.org
+                https://github.com/blacs30/bitwarden-alfred-workflow
                 https://github.com/deanishe/alfred-firefox
                 https://github.com/derimagia/awesome-alfred-workflows
                 https://github.com/florianeckerstorfer/alfred-type-text
@@ -1676,7 +1677,11 @@ Contents:
             https://www.comptia.org/testing/online-testing-interest-form
             https://www.coursera.org/learn/learning-how-to-learn
 
-        Productivity Apps:
+        Productivity Tools:
+            Sources:
+                https://news.ycombinator.com/item?id=15696056 (Ask HN: What are your favorite browser extensions/add-ons for Firefox or chrome?)
+                https://news.ycombinator.com/item?id=23265518 (Firefox extensions to make remote work and school a little better (blog.mozilla.org))
+
             Sites/Apps:
                 TomatoTimer
                 https://tomato-timer.com
