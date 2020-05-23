@@ -1,5 +1,4 @@
 # Curated Self Study Guide for Computer Science and DevOps/SRE/SysAdmin
 
-The latest updated copy of this page is at http://Learn.SharjeelSayed.com
-
-Reach me at http://SharjeelSayed.com
+  Contribute with a pull request at https://github.com/sharjeelsayed/sharjeelsayed.github.io/blob/master/selfupgradeitprof.txt
+  About me: http://SharjeelSayed.com
