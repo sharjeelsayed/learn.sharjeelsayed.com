@@ -2053,7 +2053,7 @@ Contents:
                 https://github.com/joedicastro/vps-comparison
                 https://github.com/Kickball/awesome-selfhosted
                 https://hn.algolia.com/?dateRange=pastYear&page=0&prefix=true&query=ask%20hn%3A%20vps&sort=byPopularity&type=story
-                https://joshtronic.com/2019/09/02/vps-showdown-digitalocean-lightsail-linode-upcloud-vultr
+                https://joshtronic.com/vps-showdown
                 https://lowendbox.com
                 https://news.ycombinator.com/item?id=15105601 (Ask HN: What are your favorites self hosted tools?)
                 https://twitter.com/nixcraft/status/1248353658829279232 (Twitter followers count of major cloud service providers)
