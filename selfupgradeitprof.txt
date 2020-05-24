@@ -1229,6 +1229,13 @@ Contents:
                 https://www.hammerspoon.org/go/#pasteblock
                 https://pinboard.in/u:sharjeelsayed/t:macos
 
+            launchd:
+                https://alvinalexander.com/mac-os-x/mac-osx-startup-crontab-launchd-jobs
+                https://apple.stackexchange.com/a/376606/230776  (Grant System Preferences > Security & Privacy > Privacy > Full Disk Access to /bin/launchctl and /usr/local/bin/bash)
+                https://developer.apple.com/library/archive/documentation/MacOSX/Conceptual/BPSystemStartup/Chapters/ScheduledJobs.html#//apple_ref/doc/uid/10000172i-CH1-SW1
+                https://serverfault.com/questions/111391/use-an-environment-variable-in-a-launchd-script
+                https://www.soma-zone.com/LaunchControl
+
             Alfred:
                 http://www.packal.org
                 https://github.com/benknight/hue-alfred-workflow
@@ -1764,6 +1771,8 @@ Contents:
                 https://www.amazon.com/best-sellers-books-Amazon/zgbs/books
                 https://www.amazon.com/charts
                 https://www.amazon.com/gp/bestsellers/2020/books
+                https://www.bookbub.com
+                https://www.ereaderiq.com
                 https://www.goodreads.com/list
                 https://www.nytimes.com/section/books/review
                 https://www.reddit.com/r/AskReddit/comments/34m5n6/reddit_what_are_some_must_read_books
