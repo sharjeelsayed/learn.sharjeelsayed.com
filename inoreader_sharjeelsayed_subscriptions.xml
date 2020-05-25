@@ -5,6 +5,7 @@
   </head>
   <body>
     <outline text="MustRead" title="MustRead">
+      <outline text="hackernewsletter" title="hackernewsletter" type="rss" xmlUrl="https://www.kill-the-newsletter.com/feeds/6yeqhs72sgt8xofd7swu.xml" htmlUrl="https://www.kill-the-newsletter.com/"/>
       <outline text="Hacker News: Front Page" title="Hacker News: Front Page" type="rss" xmlUrl="https://hnrss.org/frontpage" htmlUrl="https://news.ycombinator.com/"/>
       <outline text="Coronavirus, COVID19" title="Coronavirus, COVID19" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/COVID19%2BCoronavirus/.rss" htmlUrl="https://www.reddit.com/r/COVID19+Coronavirus/?t=1584885909"/>
       <outline text="The Hacker News" title="The Hacker News" type="rss" xmlUrl="http://thehackernews.com/feeds/posts/default" htmlUrl="http://thehackernews.com/"/>
@@ -13,11 +14,12 @@
       <outline text="Top Stories - Google News" title="Top Stories - Google News" type="rss" xmlUrl="https://news.google.com/news/rss/?ned=in&amp;amp;gl=IN&amp;amp;hl=en-IN&amp;amp;num=1&amp;amp;topic=h" htmlUrl="https://news.google.coms/rss/?ned=in&amp;amp;gl=IN&amp;amp;hl=en-IN&amp;amp;num=1&amp;amp;topic=h"/>
       <outline text="News from wikipedia events" title="News from wikipedia events" type="rss" xmlUrl="https://news.vinc.cc/search.atom?q=wikipedia+events" htmlUrl="https://news.vinc.cc/"/>
       <outline text="Unsupervised Learning, by Daniel Miessler" title="Unsupervised Learning, by Daniel Miessler" type="rss" xmlUrl="https://www.kill-the-newsletter.com/feeds/lf0ejx0el0d6ifd6dkk5.xml" htmlUrl="https://www.kill-the-newsletter.com/"/>
-      <outline text="hackernewsletter" title="hackernewsletter" type="rss" xmlUrl="https://www.kill-the-newsletter.com/feeds/6yeqhs72sgt8xofd7swu.xml" htmlUrl="https://www.kill-the-newsletter.com/"/>
       <outline text="Pinboard (popular bookmarks)" title="Pinboard (popular bookmarks)" type="rss" xmlUrl="http://feeds.pinboard.in/rss/popular/" htmlUrl="https://pinboard.in/popular/"/>
       <outline text="Techmeme" title="Techmeme" type="rss" xmlUrl="http://www.techmeme.com/index.xml" htmlUrl="http://www.techmeme.com/"/>
     </outline>
     <outline text="News" title="News">
+      <outline text="Mumbai, Maharashtra - Google News" title="Mumbai, Maharashtra - Google News" type="rss" xmlUrl="https://news.google.com/news/rss/local/section/geo/Mumbai/Mumbai,%20Maharashtra?ned=in&amp;hl=en-IN&amp;gl=IN" htmlUrl="https://news.google.coms/rss/local/section/geo/Mumbai/Mumbai,%20Maharashtra?ned=in&amp;hl=en-IN&amp;gl=IN"/>
+      <outline text="Benedict Evans newsletter" title="Benedict Evans newsletter" type="rss" xmlUrl="https://www.kill-the-newsletter.com/feeds/5477x9vf3nsca3xprvew.xml" htmlUrl="https://www.kill-the-newsletter.com/alternate"/>
       <outline text="Top Stories - Google News" title="Top Stories - Google News" type="rss" xmlUrl="https://news.google.com/news/rss/?ned=in&amp;amp;gl=IN&amp;amp;hl=en-IN&amp;amp;num=1&amp;amp;topic=h" htmlUrl="https://news.google.coms/rss/?ned=in&amp;amp;gl=IN&amp;amp;hl=en-IN&amp;amp;num=1&amp;amp;topic=h"/>
       <outline text="india, mumbai" title="india, mumbai" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/india%2Bmumbai/.rss" htmlUrl="https://www.reddit.com/r/india+mumbai/?t=1550685261"/>
       <outline text="News from wikipedia events" title="News from wikipedia events" type="rss" xmlUrl="https://news.vinc.cc/search.atom?q=wikipedia+events" htmlUrl="https://news.vinc.cc/"/>
@@ -26,22 +28,22 @@
       <outline text="hackernewsletter" title="hackernewsletter" type="rss" xmlUrl="https://www.kill-the-newsletter.com/feeds/6yeqhs72sgt8xofd7swu.xml" htmlUrl="https://www.kill-the-newsletter.com/"/>
       <outline text="World News" title="World News" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/worldnews/.rss" htmlUrl="https://www.reddit.com/r/worldnews/?t=20171123064440"/>
       <outline text="Coronavirus, COVID19" title="Coronavirus, COVID19" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/COVID19%2BCoronavirus/.rss" htmlUrl="https://www.reddit.com/r/COVID19+Coronavirus/?t=1584885909"/>
-      <outline text="Mumbai, Maharashtra - Google News" title="Mumbai, Maharashtra - Google News" type="rss" xmlUrl="https://news.google.com/news/rss/local/section/geo/Mumbai/Mumbai,%20Maharashtra?ned=in&amp;hl=en-IN&amp;gl=IN" htmlUrl="https://news.google.coms/rss/local/section/geo/Mumbai/Mumbai,%20Maharashtra?ned=in&amp;hl=en-IN&amp;gl=IN"/>
-      <outline text="Benedict Evans newsletter" title="Benedict Evans newsletter" type="rss" xmlUrl="https://www.kill-the-newsletter.com/feeds/5477x9vf3nsca3xprvew.xml" htmlUrl="https://www.kill-the-newsletter.com/alternate"/>
     </outline>
     <outline text="Newsletters" title="Newsletters">
+      <outline text="hackernewsletter" title="hackernewsletter" type="rss" xmlUrl="https://www.kill-the-newsletter.com/feeds/6yeqhs72sgt8xofd7swu.xml" htmlUrl="https://www.kill-the-newsletter.com/"/>
       <outline text="software lead weekly" title="software lead weekly" type="rss" xmlUrl="https://www.kill-the-newsletter.com/feeds/2jt9udvl940fe41fyfuh.xml" htmlUrl="https://www.kill-the-newsletter.com/alternate"/>
       <outline text="Benedict Evans newsletter" title="Benedict Evans newsletter" type="rss" xmlUrl="https://www.kill-the-newsletter.com/feeds/5477x9vf3nsca3xprvew.xml" htmlUrl="https://www.kill-the-newsletter.com/alternate"/>
       <outline text="Crypto-Gram from Bruce Schneier" title="Crypto-Gram from Bruce Schneier" type="rss" xmlUrl="https://www.kill-the-newsletter.com/feeds/k33e88o998p7nj1yogvq.xml" htmlUrl="https://www.kill-the-newsletter.com/alternate"/>
       <outline text="This week in DevOps" title="This week in DevOps" type="rss" xmlUrl="https://www.kill-the-newsletter.com/feeds/i3k8jkc7q45q47fljiwc.xml" htmlUrl="https://www.kill-the-newsletter.com/alternate"/>
       <outline text="Unsupervised Learning, by Daniel Miessler" title="Unsupervised Learning, by Daniel Miessler" type="rss" xmlUrl="https://www.kill-the-newsletter.com/feeds/lf0ejx0el0d6ifd6dkk5.xml" htmlUrl="https://www.kill-the-newsletter.com/"/>
-      <outline text="hackernewsletter" title="hackernewsletter" type="rss" xmlUrl="https://www.kill-the-newsletter.com/feeds/6yeqhs72sgt8xofd7swu.xml" htmlUrl="https://www.kill-the-newsletter.com/"/>
     </outline>
     <outline text="Bookmarks" title="Bookmarks">
       <outline text="Pinboard (sharjeelsayed)" title="Pinboard (sharjeelsayed)" type="rss" xmlUrl="https://feeds.pinboard.in/rss/u:sharjeelsayed/" htmlUrl="https://pinboard.in/u:sharjeelsayed/public/"/>
       <outline text="Pinboard (popular bookmarks)" title="Pinboard (popular bookmarks)" type="rss" xmlUrl="http://feeds.pinboard.in/rss/popular/" htmlUrl="https://pinboard.in/popular/"/>
     </outline>
     <outline text="Sci-Tech" title="Sci-Tech">
+      <outline text="Hacker News: Front Page" title="Hacker News: Front Page" type="rss" xmlUrl="https://hnrss.org/frontpage" htmlUrl="https://news.ycombinator.com/"/>
+      <outline text="hackernewsletter" title="hackernewsletter" type="rss" xmlUrl="https://www.kill-the-newsletter.com/feeds/6yeqhs72sgt8xofd7swu.xml" htmlUrl="https://www.kill-the-newsletter.com/"/>
       <outline text="The Hacker News" title="The Hacker News" type="rss" xmlUrl="http://thehackernews.com/feeds/posts/default" htmlUrl="http://thehackernews.com/"/>
       <outline text="Benedict Evans newsletter" title="Benedict Evans newsletter" type="rss" xmlUrl="https://www.kill-the-newsletter.com/feeds/5477x9vf3nsca3xprvew.xml" htmlUrl="https://www.kill-the-newsletter.com/alternate"/>
       <outline text="Slashdot" title="Slashdot" type="rss" xmlUrl="http://rss.slashdot.org/Slashdot/slashdotMain" htmlUrl="http://slashdot.org/"/>
@@ -50,27 +52,26 @@
       <outline text="Android, GooglePixel" title="Android, GooglePixel" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/Android%2BGooglePixel/.rss" htmlUrl="https://www.reddit.com/r/Android+GooglePixel/?t=1571868275"/>
       <outline text="ipad, mac, AppleWatch, apple, iphone" title="ipad, mac, AppleWatch, apple, iphone" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/AppleWatch%2Bapple%2Bipad%2Biphone%2Bmac/.rss" htmlUrl="https://www.reddit.com/r/AppleWatch+apple+ipad+iphone+mac/?t=1575582129"/>
       <outline text="Unsupervised Learning, by Daniel Miessler" title="Unsupervised Learning, by Daniel Miessler" type="rss" xmlUrl="https://www.kill-the-newsletter.com/feeds/lf0ejx0el0d6ifd6dkk5.xml" htmlUrl="https://www.kill-the-newsletter.com/"/>
-      <outline text="Hacker News: Front Page" title="Hacker News: Front Page" type="rss" xmlUrl="https://hnrss.org/frontpage" htmlUrl="https://news.ycombinator.com/"/>
-      <outline text="hackernewsletter" title="hackernewsletter" type="rss" xmlUrl="https://www.kill-the-newsletter.com/feeds/6yeqhs72sgt8xofd7swu.xml" htmlUrl="https://www.kill-the-newsletter.com/"/>
       <outline text="Techmeme" title="Techmeme" type="rss" xmlUrl="http://www.techmeme.com/index.xml" htmlUrl="http://www.techmeme.com/"/>
     </outline>
     <outline text="DevOps" title="DevOps">
-      <outline text="Trending  repositories on GitHub today · GitHub" title="Trending  repositories on GitHub today · GitHub" type="rss" xmlUrl="https://rsshub.app/github/trending/daily" htmlUrl="https://github.com/trending/?since=daily"/>
+      <outline text="/r/netsec - Information Security News &amp; Discussion" title="/r/netsec - Information Security News &amp; Discussion" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/netsec/.rss" htmlUrl="https://www.reddit.com/r/netsec/?t=20170706082704"/>
       <outline text="Ubuntu, linuxadmin, linux" title="Ubuntu, linuxadmin, linux" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/Ubuntu%2Blinux%2Blinuxadmin/.rss" htmlUrl="https://www.reddit.com/r/Ubuntu+linux+linuxadmin/?t=1588456757"/>
-      <outline text="sysadmin, devops" title="sysadmin, devops" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/devops%2Bsysadmin/.rss" htmlUrl="https://www.reddit.com/r/devops+sysadmin/?t=1567144718"/>
+      <outline text="Trending  repositories on GitHub today · GitHub" title="Trending  repositories on GitHub today · GitHub" type="rss" xmlUrl="https://rsshub.app/github/trending/daily" htmlUrl="https://github.com/trending/?since=daily"/>
       <outline text="aws, AWSCertifications" title="aws, AWSCertifications" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/AWSCertifications%2Baws/.rss" htmlUrl="https://www.reddit.com/r/AWSCertifications+aws/?t=1589910740"/>
       <outline text="Unsupervised Learning, by Daniel Miessler" title="Unsupervised Learning, by Daniel Miessler" type="rss" xmlUrl="https://www.kill-the-newsletter.com/feeds/lf0ejx0el0d6ifd6dkk5.xml" htmlUrl="https://www.kill-the-newsletter.com/"/>
       <outline text="homelab, VPS" title="homelab, VPS" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/VPS%2Bhomelab/.rss" htmlUrl="https://www.reddit.com/r/VPS+homelab/?t=1590048618"/>
       <outline text="hackernewsletter" title="hackernewsletter" type="rss" xmlUrl="https://www.kill-the-newsletter.com/feeds/6yeqhs72sgt8xofd7swu.xml" htmlUrl="https://www.kill-the-newsletter.com/"/>
-      <outline text="IT Career Questions" title="IT Career Questions" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/ITCareerQuestions/.rss" htmlUrl="https://www.reddit.com/r/ITCareerQuestions/?t=1590440932"/>
+      <outline text="sysadmin, ITCareerQuestions, devops" title="sysadmin, ITCareerQuestions, devops" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/ITCareerQuestions%2Bdevops%2Bsysadmin/.rss" htmlUrl="https://www.reddit.com/r/ITCareerQuestions+devops+sysadmin/?t=1590441959"/>
       <outline text="docker, kubernetes" title="docker, kubernetes" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/docker%2Bkubernetes/.rss" htmlUrl="https://www.reddit.com/r/docker+kubernetes/?t=1586267655"/>
       <outline text="software lead weekly" title="software lead weekly" type="rss" xmlUrl="https://www.kill-the-newsletter.com/feeds/2jt9udvl940fe41fyfuh.xml" htmlUrl="https://www.kill-the-newsletter.com/alternate"/>
-      <outline text="cscareerquestions, compsci, programming, learnprogramming :top scoring links" title="cscareerquestions, compsci, programming, learnprogramming :top scoring links" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/compsci%2Bcscareerquestions%2Blearnprogramming%2Bprogramming/top/.rss" htmlUrl="https://www.reddit.com/r/compsci+cscareerquestions+learnprogramming+programming/top/?t=20170511093224"/>
       <outline text="Crypto-Gram from Bruce Schneier" title="Crypto-Gram from Bruce Schneier" type="rss" xmlUrl="https://www.kill-the-newsletter.com/feeds/k33e88o998p7nj1yogvq.xml" htmlUrl="https://www.kill-the-newsletter.com/alternate"/>
-      <outline text="/r/netsec - Information Security News &amp; Discussion" title="/r/netsec - Information Security News &amp; Discussion" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/netsec/.rss" htmlUrl="https://www.reddit.com/r/netsec/?t=20170706082704"/>
+      <outline text="cscareerquestions, compsci, programming, learnprogramming :top scoring links" title="cscareerquestions, compsci, programming, learnprogramming :top scoring links" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/compsci%2Bcscareerquestions%2Blearnprogramming%2Bprogramming/top/.rss" htmlUrl="https://www.reddit.com/r/compsci+cscareerquestions+learnprogramming+programming/top/?t=20170511093224"/>
       <outline text="This week in DevOps" title="This week in DevOps" type="rss" xmlUrl="https://www.kill-the-newsletter.com/feeds/i3k8jkc7q45q47fljiwc.xml" htmlUrl="https://www.kill-the-newsletter.com/alternate"/>
     </outline>
     <outline text="Leisure" title="Leisure">
+      <outline text="movies, television, Documentaries" title="movies, television, Documentaries" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/Documentaries%2Bmovies%2Btelevision/.rss" htmlUrl="https://www.reddit.com/r/Documentaries+movies+television/?t=1549236458"/>
+      <outline text="DataIsBeautiful" title="DataIsBeautiful" type="rss" xmlUrl="https://www.reddit.com/r/dataisbeautiful/.rss" htmlUrl="https://www.reddit.com/r/dataisbeautiful/"/>
       <outline text="IndiaInvestments" title="IndiaInvestments" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/IndiaInvestments/.rss" htmlUrl="https://www.reddit.com/r/IndiaInvestments/?t=1549404855"/>
       <outline text="kindle, KindleFreebies, FreeEBOOKS" title="kindle, KindleFreebies, FreeEBOOKS" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/FreeEBOOKS%2BKindleFreebies%2Bkindle/.rss" htmlUrl="https://www.reddit.com/r/FreeEBOOKS+KindleFreebies+kindle/?t=1582320506"/>
       <outline text="YouTube India Popular Right Now" title="YouTube India Popular Right Now" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?playlist_id=PL_yIBWagYVjyyqx_qPkbat5zufWZOyZEZ" htmlUrl="yt:playlist:PL_yIBWagYVjyyqx_qPkbat5zufWZOyZEZ"/>
@@ -82,8 +83,6 @@
       <outline text="Vaping, electronic_cigarette, juul" title="Vaping, electronic_cigarette, juul" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/Vaping%2Belectronic_cigarette%2Bjuul/.rss" htmlUrl="https://www.reddit.com/r/Vaping+electronic_cigarette+juul/?t=1565304888"/>
       <outline text="Today I Learned (TIL)" title="Today I Learned (TIL)" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/todayilearned/.rss" htmlUrl="https://www.reddit.com/r/todayilearned/?t=1538185663"/>
       <outline text="travel, solotravel" title="travel, solotravel" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/solotravel%2Btravel/.rss" htmlUrl="https://www.reddit.com/r/solotravel+travel/?t=1573172155"/>
-      <outline text="movies, television, Documentaries" title="movies, television, Documentaries" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/Documentaries%2Bmovies%2Btelevision/.rss" htmlUrl="https://www.reddit.com/r/Documentaries+movies+television/?t=1549236458"/>
-      <outline text="DataIsBeautiful" title="DataIsBeautiful" type="rss" xmlUrl="https://www.reddit.com/r/dataisbeautiful/.rss" htmlUrl="https://www.reddit.com/r/dataisbeautiful/"/>
     </outline>
   </body>
 </opml>
