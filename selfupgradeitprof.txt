@@ -378,8 +378,9 @@ Contents:
                 https://github.com/saminiir/level-ip
                 https://news.ycombinator.com/item?id=13983212 (Beej's Guide to Network Programming)
                 https://news.ycombinator.com/item?id=14701199 (Let's Code a TCP/IP Stack: TCP Retransmission (saminiir.com))
-                https://www.reddit.com/r/ccna/wiki/faqs/materials
+                https://siliconsprawl.com/2020/05/10/network-programming-self-study.html
                 https://www.reddit.com/r/ccna/wiki
+                https://www.reddit.com/r/ccna/wiki/faqs/materials
                 https://www.reddit.com/r/networking/wiki
                 https://www.reddit.com/r/sysadmin/comments/4ux166/do_you_know_a_site_to_learn_more_about_networking
 
@@ -1233,7 +1234,9 @@ Contents:
                 https://alvinalexander.com/mac-os-x/mac-osx-startup-crontab-launchd-jobs
                 https://apple.stackexchange.com/a/376606/230776  (Grant System Preferences > Security & Privacy > Privacy > Full Disk Access to /bin/launchctl and /usr/local/bin/bash)
                 https://developer.apple.com/library/archive/documentation/MacOSX/Conceptual/BPSystemStartup/Chapters/ScheduledJobs.html#//apple_ref/doc/uid/10000172i-CH1-SW1
-                https://serverfault.com/questions/111391/use-an-environment-variable-in-a-launchd-script
+                https://en.wikipedia.org/wiki/Launchd
+                https://serverfault.com/a/1014993/3501 (Use an environment variable in a launchd script with bash -cl scriptname)
+                https://www.manpagez.com/man/5/launchd.plist
                 https://www.soma-zone.com/LaunchControl
 
             Alfred:
@@ -1982,7 +1985,7 @@ Contents:
                 https://news.google.com/topics/CAAqBwgKMOXWjQswrYGgAw?hl=en-IN&gl=IN&ceid=IN:en (Maharashtra)
                 
                 Reddit:
-                https://www.reddit.com/r/AWSCertifications+Android+AppHookup+AppleWatch+COVID19+Coronavirus+CryptoCurrency+DataHoarder+Documentaries+FreeEBOOKS+GooglePixel+IndiaInvestments+KindleFreebies+Piracy+Ubuntu+VPS+Vaping+announcements+apple+aws+compsci+cscareerquestions+dataisbeautiful+devops+docker+electronic_cigarette+gadgets+hackernews+homelab+india+ipad+iphone+juul+kindle+kubernetes+learnprogramming+linux+linuxadmin+mac+movies+mumbai+netsec+networking+onebag+programming+science+solotravel+sysadmin+television+todayilearned+travel+worldnews+yubikey
+                https://www.reddit.com/r/AWSCertifications+Android+AppHookup+AppleWatch+COVID19+Coronavirus+CryptoCurrency+DataHoarder+Documentaries+FreeEBOOKS+GooglePixel+ITCareerQuestions+IndiaInvestments+KindleFreebies+Piracy+Ubuntu+VPS+Vaping+announcements+apple+aws+compsci+cscareerquestions+dataisbeautiful+devops+docker+electronic_cigarette+gadgets+hackernews+homelab+india+ipad+iphone+juul+kindle+kubernetes+learnprogramming+linux+linuxadmin+mac+movies+mumbai+netsec+onebag+programming+science+solotravel+sysadmin+television+todayilearned+travel+worldnews
                 
                 YouTube:
                 https://www.youtube.com/channel/UCF0pVplsI8R5kcAqgtoRqoA (YouTube Worldwide Popular Right Now)
@@ -2076,7 +2079,7 @@ Contents:
                 https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=Ask%20HN%3Avpn&sort=byPopularity&type=story (Ask HN:vpn)
                 https://news.ycombinator.com/item?id=19242058 (Ask HN: What VPN service are you currently using?)
                 https://thatoneprivacysite.net
-                https://torrentfreak.com/which-vpn-services-keep-you-anonymous-in-2019
+                https://torrentfreak.com/best-vpn-anonymous-no-logging
                 https://vpntierlist.com
                 https://www.privacytools.io/providers/vpn
                 https://www.reddit.com/r/NetflixViaVPN+VPN+vpncoupons+vpnreviews
