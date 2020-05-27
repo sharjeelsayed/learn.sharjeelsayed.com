@@ -192,7 +192,7 @@ Contents:
                 https://github.com/topics/programming?o=desc&s=stars
                 https://github.com/tuvtran/project-based-learning
                 https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=every%20programmer&sort=byPopularity&type=story (Things every programmer should know)
-                https://insights.stackoverflow.com/survey/2018
+                https://insights.stackoverflow.com/survey/2020
                 https://learnxinyminutes.com
                 https://mapfilterfold.com/?genre=programming
                 https://news.ycombinator.com/item?id=11465234 (Composing Programs – Python 3 in the tradition of SICP)
@@ -1227,6 +1227,7 @@ Contents:
                 https://github.com/sekey/sekeyx
                 https://github.com/serhii-londar/open-source-mac-os-apps
                 https://github.com/topics/macos?o=desc&s=stars
+                https://thesweetsetup.com/picks
                 https://www.hammerspoon.org/go/#pasteblock
                 https://pinboard.in/u:sharjeelsayed/t:macos
 
@@ -1974,7 +1975,7 @@ Contents:
                 
             Sites and Apps:
                 RSS Reader:
-                Import http://Opml.SharjeelSayed.com , into Inoreader.com
+                Import http://Opml.SharjeelSayed.com , into Inoreader.com or https://reederapp.com
                 
                 Tech News Notifications (iOS/Android):
                 Turn on the applet https://IFTTT.com/applets/456148p in the IFTTT Mobile app and add https://www.techmeme.com/feed.xml into the 'Feed URL' field of the applet.
