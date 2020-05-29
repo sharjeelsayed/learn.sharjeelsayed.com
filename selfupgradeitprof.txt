@@ -1711,6 +1711,10 @@ Contents:
                 https://news.ycombinator.com/item?id=23265518 (Firefox extensions to make remote work and school a little better (blog.mozilla.org))
 
             Sites/Apps:
+                
+                Todoist: The to do list to organize work & life
+                https://todoist.com/r/sharjeel_sayed_pndvuw (Todoist Premium free for 2 months)
+
                 TomatoTimer
                 https://tomato-timer.com
 
@@ -2167,4 +2171,5 @@ Contents:
     Support this page with these referral links:
             http://amex.in/refer/sHARJsCJfI (American Express)
             https://db.tt/YL0e12GN (Dropbox 500 MB of bonus space)
+            https://todoist.com/r/sharjeel_sayed_pndvuw (Todoist Premium free for 2 months)
             https://www.expressrefer.com/refer-friend?referrer_id=39360476 (ExpressVPN 30 days free)
