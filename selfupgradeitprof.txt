@@ -674,6 +674,7 @@ Contents:
                 https://chrisshort.net/kubernetes-illustrated-childrens-guide
                 https://github.com/askmeegs/learn-istio
                 https://github.com/dennyzhang/cheatsheet-kubernetes-A4
+                https://github.com/derailed/k9s
                 https://github.com/jamiehannaford/what-happens-when-k8s
                 https://github.com/kelseyhightower/kubernetes-the-hard-way
                 https://github.com/kubernetes/kubernetes
@@ -1969,6 +1970,7 @@ Contents:
                 https://showcase.metamate.io/hackernews-trends
                 https://wiki.nikitavoloboev.xyz/research/blogs#favorite-blogs
                 https://www.hackernewspapers.com
+                https://www.inoreader.com/trending
                 https://www.reddit.com/r/AskReddit/comments/9nggyv/what_is_a_great_youtube_channel_to_binge_watch
                 https://www.reddit.com/r/AskReddit/comments/aa7zs9/what_youtube_channels_are_genuinely_worth_watching
                 https://www.taggernews.com
