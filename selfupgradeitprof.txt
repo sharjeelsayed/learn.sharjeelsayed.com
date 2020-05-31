@@ -1244,7 +1244,6 @@ Contents:
             Alfred:
                 http://www.packal.org
                 https://github.com/benknight/hue-alfred-workflow
-                https://github.com/blacs30/bitwarden-alfred-workflow
                 https://github.com/deanishe/alfred-convert
                 https://github.com/deanishe/alfred-firefox
                 https://github.com/deanishe/alfred-pwgen
@@ -2008,6 +2007,7 @@ Contents:
 
         Podcasts:
             Sources:
+                http://www.openculture.com/great-podcasts
                 https://hn.algolia.com/?query=podcast&sort=byPopularity&prefix&page=0&dateRange=all&type=story
                 https://news.ycombinator.com/item?id=13574916 (Ask HN: What are some 'must watch' talks?)
                 https://news.ycombinator.com/item?id=13747563 (Ask HN: What are your favorite tech podcasts?)
@@ -2023,6 +2023,7 @@ Contents:
                 https://news.ycombinator.com/item?id=9207360 (Ask HN: Favorite podcasts?)
                 https://www.reddit.com/r/podcasts/comments/75ilo5/ive_spent_three_years_listening_to_podcasts
                 https://www.reddit.com/r/sysadmin/comments/au8ugd/what_are_your_preferred_tech_podcasts_as_a
+                https://pinboard.in/u:sharjeelsayed/t:podcast
                 
             Sites:
                 Collection of awesome podcasts
