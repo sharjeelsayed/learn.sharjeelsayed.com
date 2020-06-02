@@ -792,9 +792,11 @@ Contents:
 
         AWS:
             Sources:
+                https://adayinthelifeof.nl/2020/05/20/aws.html (A List of One-sentence Descriptions of AWS Services)
                 https://bash-my-aws.org
                 https://expeditedsecurity.com/aws-in-plain-english
                 https://github.com/anaibol/awesome-serverless
+                https://github.com/awsdocs
                 https://github.com/donnemartin/awesome-aws
                 https://github.com/serverless/serverless
                 https://github.com/toniblyx/my-arsenal-of-aws-security-tools
@@ -1895,10 +1897,19 @@ Contents:
                 myNoise : Custom Background Noise Machines
                 https://mynoise.net
 
+                Additional Sources:
+                https://open.spotify.com/playlist/51GTWGAMzL5zt7oUPcxwne (The Perfect Playlist from the AskReddit thread)
+                https://www.reddit.com/r/Music/comments/5nu2vt/112_hour_playlist_of_the_most_recognizable_songs
+                https://www.reddit.com/r/spotify/comments/aj7wkz/the_perfect_playlist_from_the_askreddit_thread
+                https://www.reddit.com/r/spotify/comments/gu81es/my_collection_of_spotify_and_other_music_related
+                https://www.reddit.com/r/spotify/top
+                https://www.reddit.com/r/spotify/wiki
+
         Headphones:
             Sources:
                 https://news.ycombinator.com/item?id=21563355 (Ask HN: Best Noise Canceling Headphones)
                 https://www.audiocheck.net/soundtests_headphones.php
+                https://www.facebook.com/groups/The.Indian.Audiophile.Forum
                 https://www.reddit.com/r/headphones/comments/9u2s09/what_tracks_do_you_play_to_test_the_full_range_of
                 https://www.reddit.com/r/LifeProTips/comments/6hljyv/lpt_if_you_are_buying_headphonesspeakers_test
                 
@@ -1999,11 +2010,11 @@ Contents:
                 https://www.youtube.com/user/SayedSharjeel/channels
                 
                 Bookmarks:
-                Import http://Bookmarks.SharjeelSayed.com into your Browser or view live at https://pinboard.in/u:SharjeelSayed
+                Import http://Bookmarks.SharjeelSayed.com into your Browser or view online at https://pinboard.in/u:SharjeelSayed
                 Search Engine for my Bookmarks http://SearchBookmarks.SharjeelSayed.com
-                https://cse.google.com/cse/publicurl?cx=013208504250323700475:mqurmsvnc8k (Google Custom Search Engine for Sharjeel's Bookmarks)
                 https://github.com/SharjeelSayed?direction=desc&sort=stars&tab=stars (Starred Github Repositories)
                 https://stackexchange.com/users/6550/sharjeel?tab=bookmarks
+                https://cse.google.com/cse/publicurl?cx=013208504250323700475:mqurmsvnc8k (Google Custom Search Engine for Sharjeel's Bookmarks)
 
         Podcasts:
             Sources:
@@ -2057,6 +2068,8 @@ Contents:
                 https://szymonkrajewski.pl/synchronize-local-files-cryptomator-vault
                 https://www.backblaze.com/b2/cloud-storage-pricing.html
                 https://www.reddit.com/r/DataHoarder/comments/axvxwl/anything_cheaper_than_backblaze_b2
+                https://db.tt/YL0e12GN (Dropbox 500 MB of bonus space)
+                https://mega.nz/C!vuhRiKpB (Mega.nz Extra Storage)
                 
             Sites:
                 Restic
@@ -2091,6 +2104,7 @@ Contents:
                 https://vpntierlist.com
                 https://www.privacytools.io/providers/vpn
                 https://www.reddit.com/r/NetflixViaVPN+VPN+vpncoupons+vpnreviews
+                https://www.expressrefer.com/refer-friend?referrer_id=39360476 (ExpressVPN 30 days free)
 
         BitTorrent:
             Sources:
@@ -2176,3 +2190,4 @@ Contents:
             https://db.tt/YL0e12GN (Dropbox 500 MB of bonus space)
             https://todoist.com/r/sharjeel_sayed_pndvuw (Todoist Premium free for 2 months)
             https://www.expressrefer.com/refer-friend?referrer_id=39360476 (ExpressVPN 30 days free)
+            https://mega.nz/C!vuhRiKpB (Mega.nz Extra Storage)
