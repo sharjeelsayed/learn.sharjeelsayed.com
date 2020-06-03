@@ -1263,10 +1263,12 @@ Contents:
                 https://github.com/vitorgalvao/custom-alfred-iterm-scripts
                 https://github.com/willfarrell/alfred-workflows
                 https://github.com/zenorocha/alfred-workflows
+                https://pacmax.org
                 https://www.alfredapp.com/blog/tips-and-tricks/file-actions-from-alfred-or-finder
                 https://www.alfredapp.com/help/getting-started/cheatsheet
                 https://www.alfredapp.com/workflows
                 https://www.packal.org/workflow/caffeinate-control
+                https://www.reddit.com/r/Alfred
                 https://youtu.be/GWRddk0Ybnc (2: Maximising your Mac Productivity: Alfred)
 
             Better Touch Tool:
