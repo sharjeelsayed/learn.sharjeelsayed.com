@@ -77,9 +77,10 @@
       <outline text="Piracy, DataHoarder" title="Piracy, DataHoarder" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/DataHoarder%2BPiracy/.rss" htmlUrl="https://www.reddit.com/r/DataHoarder+Piracy/?t=1588456480"/>
       <outline text="reddit gadget guide" title="reddit gadget guide" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/gadgets/.rss" htmlUrl="https://www.reddit.com/r/gadgets/?t=20171123064255"/>
       <outline text="Cryptocurrency news and discussions." title="Cryptocurrency news and discussions." type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/CryptoCurrency/.rss" htmlUrl="https://www.reddit.com/r/CryptoCurrency/?t=20180110144918"/>
-      <outline text="ipad, AppleWatch, apple, macapps, mac, iphone" title="ipad, AppleWatch, apple, macapps, mac, iphone" type="rss" xmlUrl="https://www.reddit.com/r/AppleWatch+apple+ipad+iphone+mac+macapps/.rss" htmlUrl="https://www.reddit.com/r/AppleWatch+apple+ipad+iphone+mac+macapps/"/>
+      <outline text="ipad, AppleWatch, apple, macapps, mac, iphone" title="ipad, AppleWatch, apple, macapps, mac, iphone" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/AppleWatch%2Bapple%2Bipad%2Biphone%2Bmac%2Bmacapps/.rss" htmlUrl="https://www.reddit.com/r/AppleWatch+apple+ipad+iphone+mac+macapps/?t=1591207827"/>
       <outline text="Science" title="Science" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/science/.rss" htmlUrl="https://www.reddit.com/r/science/?t=1538185315"/>
       <outline text="Vaping, electronic_cigarette, juul" title="Vaping, electronic_cigarette, juul" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/Vaping%2Belectronic_cigarette%2Bjuul/.rss" htmlUrl="https://www.reddit.com/r/Vaping+electronic_cigarette+juul/?t=1565304888"/>
+      <outline text="todoist, Alfred, 1Password" title="todoist, Alfred, 1Password" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/1Password%2BAlfred%2Btodoist/.rss" htmlUrl="https://www.reddit.com/r/1Password+Alfred+todoist/?t=1591207906"/>
     </outline>
   </body>
 </opml>
