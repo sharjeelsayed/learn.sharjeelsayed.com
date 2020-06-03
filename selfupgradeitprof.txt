@@ -1217,7 +1217,9 @@ Contents:
 
         macOS:
             Sources:
+                https://apps.apple.com/app/amphetamine/id937984704 (Amphetamine 4+ Powerful keep-awake utility)
                 https://brew.sh
+                https://dynamicwallpaper.club/gallery
                 https://github.com/alichtman/shallow-backup
                 https://github.com/donnemartin/dev-setup
                 https://github.com/drduh/macOS-Security-and-Privacy-Guide
@@ -1225,13 +1227,17 @@ Contents:
                 https://github.com/iCHAIT/awesome-macOS
                 https://github.com/jaywcjlove/awesome-mac
                 https://github.com/mathiasbynens/dotfiles
-                https://github.com/newmarcel/KeepingYouAwake
+                https://github.com/Mortennn/Dozer (Hide status bar icons on macOS)
                 https://github.com/nikitavoloboev/my-mac-os
                 https://github.com/sekey/sekeyx
                 https://github.com/serhii-londar/open-source-mac-os-apps
                 https://github.com/topics/macos?o=desc&s=stars
+                https://github.com/x74353/amphetamine-enhancer
+                https://objective-see.com/products/lulu.html (free, open-source macOS firewall)
                 https://thesweetsetup.com/picks
+                https://www.corecode.io/macupdater
                 https://www.hammerspoon.org/go/#pasteblock
+                https://www.reddit.com/r/apple+mac+macapps
                 https://pinboard.in/u:sharjeelsayed/t:macos
 
             launchd:
@@ -2002,7 +2008,7 @@ Contents:
                 https://news.google.com/topics/CAAqBwgKMOXWjQswrYGgAw?hl=en-IN&gl=IN&ceid=IN:en (Maharashtra)
                 
                 Reddit:
-                https://www.reddit.com/r/AWSCertifications+Android+AppHookup+AppleWatch+COVID19+Coronavirus+CryptoCurrency+DataHoarder+Documentaries+FreeEBOOKS+GooglePixel+ITCareerQuestions+IndiaInvestments+KindleFreebies+Piracy+Ubuntu+VPS+Vaping+announcements+apple+aws+compsci+cscareerquestions+dataisbeautiful+devops+docker+electronic_cigarette+gadgets+hackernews+homelab+india+ipad+iphone+juul+kindle+kubernetes+learnprogramming+linux+linuxadmin+mac+movies+mumbai+netsec+onebag+programming+science+solotravel+sysadmin+television+todayilearned+travel+worldnews
+                https://www.reddit.com/r/AWSCertifications+Android+AppHookup+AppleWatch+COVID19+Coronavirus+CryptoCurrency+DataHoarder+Documentaries+FreeEBOOKS+GooglePixel+ITCareerQuestions+IndiaInvestments+KindleFreebies+Piracy+Ubuntu+VPS+Vaping+announcements+apple+aws+compsci+cscareerquestions+dataisbeautiful+devops+docker+electronic_cigarette+gadgets+hackernews+homelab+india+ipad+iphone+juul+kindle+kubernetes+learnprogramming+linux+linuxadmin+mac+macapps+movies+mumbai+netsec+onebag+programming+science+solotravel+sysadmin+television+todayilearned+todoist+travel+worldnews
                 
                 YouTube:
                 https://www.youtube.com/channel/UCF0pVplsI8R5kcAqgtoRqoA (YouTube Worldwide Popular Right Now)
@@ -2148,6 +2154,7 @@ Contents:
     Additional Sources :
             https://en.wikipedia.org/wiki/List_of_lists_of_lists
             https://en.wikipedia.org/wiki/Wikipedia:Vital_articles
+            https://free-for.dev
             https://freenode.net
             https://github.com/255kb/stack-on-a-budget
             https://github.com/jbranchaud/til
@@ -2173,6 +2180,7 @@ Contents:
             https://news.ycombinator.com/item?id=21373931 (Ask HN: What do you automate in your life and work?)
             https://news.ycombinator.com/item?id=21581361 (Ask HN: What's the most valuable thing you can learn in an hour?)
             https://news.ycombinator.com/item?id=22849208 (Ask HN: Programs that saved you 100 hours?)
+            https://news.ycombinator.com/item?id=23390308 (Ask HN: What is the cheapest way to make a website?)
             https://redditprofile.com (Find an Expert on Reddit)
             https://twitter.com/search?q=Gone%20Free%20(from%3Asharjeelsayed)
             https://wizardzines.com
