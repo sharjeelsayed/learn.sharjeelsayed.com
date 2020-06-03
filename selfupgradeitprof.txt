@@ -1257,6 +1257,7 @@ Contents:
                 https://github.com/deanishe/alfred-pwgen
                 https://github.com/derimagia/awesome-alfred-workflows
                 https://github.com/florianeckerstorfer/alfred-type-text
+                https://github.com/jaroslawhartman/TimeZones-Alfred
                 https://github.com/learn-anything/alfred-workflows
                 https://github.com/ngreenstein/alfred-process-killer
                 https://github.com/topics/alfred?o=desc&s=stars
@@ -1267,6 +1268,7 @@ Contents:
                 https://www.alfredapp.com/blog/tips-and-tricks/file-actions-from-alfred-or-finder
                 https://www.alfredapp.com/help/getting-started/cheatsheet
                 https://www.alfredapp.com/workflows
+                https://www.packal.org/workflow/amphetamine-control
                 https://www.packal.org/workflow/caffeinate-control
                 https://www.reddit.com/r/Alfred
                 https://youtu.be/GWRddk0Ybnc (2: Maximising your Mac Productivity: Alfred)
