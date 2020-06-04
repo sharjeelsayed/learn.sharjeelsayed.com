@@ -1219,7 +1219,6 @@ Contents:
             Sources:
                 https://apps.apple.com/app/amphetamine/id937984704 (Amphetamine 4+ Powerful keep-awake utility)
                 https://brew.sh
-                https://dynamicwallpaper.club/gallery
                 https://github.com/alichtman/shallow-backup
                 https://github.com/donnemartin/dev-setup
                 https://github.com/drduh/macOS-Security-and-Privacy-Guide
