@@ -1219,6 +1219,8 @@ Contents:
             Sources:
                 https://apps.apple.com/app/amphetamine/id937984704 (Amphetamine 4+ Powerful keep-awake utility)
                 https://brew.sh
+                https://flexibits.com/fantastical
+                https://getfenet.re (Picture in picture for your mac)
                 https://github.com/alichtman/shallow-backup
                 https://github.com/donnemartin/dev-setup
                 https://github.com/drduh/macOS-Security-and-Privacy-Guide
@@ -1228,10 +1230,12 @@ Contents:
                 https://github.com/mathiasbynens/dotfiles
                 https://github.com/Mortennn/Dozer (Hide status bar icons on macOS)
                 https://github.com/nikitavoloboev/my-mac-os
+                https://github.com/rgcr/m-cli ( Swiss Army Knife for macOS)
                 https://github.com/sekey/sekeyx
                 https://github.com/serhii-londar/open-source-mac-os-apps
                 https://github.com/topics/macos?o=desc&s=stars
-                https://github.com/x74353/amphetamine-enhancer
+                https://heliumfloats.com
+                https://news.ycombinator.com/item?id=19515627 (Ask HN: What are your favorite utility desktop apps?)
                 https://objective-see.com/products/lulu.html (free, open-source macOS firewall)
                 https://thesweetsetup.com/picks
                 https://www.corecode.io/macupdater
