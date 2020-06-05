@@ -1217,40 +1217,31 @@ Contents:
 
         macOS:
             Sources:
-                https://apps.apple.com/app/amphetamine/id937984704 (Amphetamine 4+ Powerful keep-awake utility)
-                https://brew.sh
-                https://flexibits.com/fantastical
-                https://getfenet.re (Picture in picture for your mac)
-                https://github.com/alichtman/shallow-backup
                 https://github.com/donnemartin/dev-setup
                 https://github.com/drduh/macOS-Security-and-Privacy-Guide
                 https://github.com/herrbischoff/awesome-macos-command-line
                 https://github.com/iCHAIT/awesome-macOS
                 https://github.com/jaywcjlove/awesome-mac
                 https://github.com/mathiasbynens/dotfiles
-                https://github.com/Mortennn/Dozer (Hide status bar icons on macOS)
                 https://github.com/nikitavoloboev/my-mac-os
                 https://github.com/rgcr/m-cli ( Swiss Army Knife for macOS)
-                https://github.com/sekey/sekeyx
                 https://github.com/serhii-londar/open-source-mac-os-apps
                 https://github.com/topics/macos?o=desc&s=stars
-                https://heliumfloats.com
                 https://news.ycombinator.com/item?id=19515627 (Ask HN: What are your favorite utility desktop apps?)
-                https://objective-see.com/products/lulu.html (free, open-source macOS firewall)
                 https://thesweetsetup.com/picks
-                https://www.corecode.io/macupdater
                 https://www.hammerspoon.org/go/#pasteblock
                 https://www.reddit.com/r/apple+mac+macapps
                 https://pinboard.in/u:sharjeelsayed/t:macos
 
-            launchd:
-                https://alvinalexander.com/mac-os-x/mac-osx-startup-crontab-launchd-jobs
-                https://apple.stackexchange.com/a/376606/230776  (Grant System Preferences > Security & Privacy > Privacy > Full Disk Access to /bin/launchctl and /usr/local/bin/bash)
-                https://developer.apple.com/library/archive/documentation/MacOSX/Conceptual/BPSystemStartup/Chapters/ScheduledJobs.html#//apple_ref/doc/uid/10000172i-CH1-SW1
-                https://en.wikipedia.org/wiki/Launchd
-                https://serverfault.com/a/1014993/3501 (Use an environment variable in a launchd script with bash -cl scriptname)
-                https://www.manpagez.com/man/5/launchd.plist
-                https://www.soma-zone.com/LaunchControl
+            Tools:
+                https://apps.apple.com/app/amphetamine/id937984704 (Amphetamine 4+ Powerful keep-awake utility)
+                https://brew.sh
+                https://flexibits.com/fantastical
+                https://getfenet.re (Picture in picture for your mac)
+                https://github.com/alichtman/shallow-backup
+                https://github.com/Mortennn/Dozer (Hide status bar icons on macOS)
+                https://github.com/sekey/sekeyx
+                https://objective-see.com/products/lulu.html (free, open-source macOS firewall)
 
             Alfred:
                 http://www.packal.org
@@ -1282,7 +1273,23 @@ Contents:
                 https://github.com/GoldenChaos/GoldenChaos-BTT
                 https://www.reddit.com/r/apple/comments/3ek0o5/share_your_better_touch_tool_gestures
                 https://youtu.be/CCJVbooKspo (Better Touch Tool: In-Depth Tutorial)
-                
+            
+            Keyboard Maestro:
+                https://www.keyboardmaestro.com
+                https://wiki.nikitavoloboev.xyz/macos/macos-apps/keyboard-maestro
+                https://forum.keyboardmaestro.com
+                https://www.macstories.net/tag/keyboard-maestro
+                https://www.youtube.com/watch?v=C-M2ECt9gIc&list=PLa0EpEatE4TIUSob_dkMuDP7MpPceth30 (Keyboard Maestro Tutorials)
+
+            launchd:
+                https://alvinalexander.com/mac-os-x/mac-osx-startup-crontab-launchd-jobs
+                https://apple.stackexchange.com/a/376606/230776  (Grant System Preferences > Security & Privacy > Privacy > Full Disk Access to /bin/launchctl and /usr/local/bin/bash)
+                https://developer.apple.com/library/archive/documentation/MacOSX/Conceptual/BPSystemStartup/Chapters/ScheduledJobs.html#//apple_ref/doc/uid/10000172i-CH1-SW1
+                https://en.wikipedia.org/wiki/Launchd
+                https://serverfault.com/a/1014993/3501 (Use an environment variable in a launchd script with bash -cl scriptname)
+                https://www.manpagez.com/man/5/launchd.plist
+                https://www.soma-zone.com/LaunchControl
+
         Electronics:
             Sources:
                 https://news.ycombinator.com/item?id=16775744 (Ask HN: How to self-learn electronics?)
