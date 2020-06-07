@@ -72,6 +72,7 @@ Contents:
         Foreign Language
     Study Tools:
         Productivity Tools
+        Web Browser
         Books
         Kindle
         Study Music
@@ -801,6 +802,7 @@ Contents:
                 https://github.com/serverless/serverless
                 https://github.com/toniblyx/my-arsenal-of-aws-security-tools
                 https://github.com/topics/aws?o=desc&s=stars
+                https://www.ec2instances.info
                 https://www.reddit.com/r/aws
                 https://www.reddit.com/r/sysadmin/comments/8inzn5/so_you_want_to_learn_aws_aka_how_do_i_learn_to_be
                 https://pinboard.in/u:sharjeelsayed/t:aws
@@ -1146,6 +1148,7 @@ Contents:
                 https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html-single/using_selinux
                 https://github.com/danielmiessler/SecLists
                 https://github.com/forter/security-101-for-saas-startups
+                https://github.com/Gr1mmie/Practical-Ethical-Hacking-Resources
                 https://github.com/Hack-with-Github/Awesome-Hacking
                 https://github.com/OWASP/CheatSheetSeries
                 https://github.com/qazbnm456/awesome-web-security
@@ -1220,6 +1223,7 @@ Contents:
                 https://github.com/donnemartin/dev-setup
                 https://github.com/drduh/macOS-Security-and-Privacy-Guide
                 https://github.com/herrbischoff/awesome-macos-command-line
+                https://github.com/Hoffelhas/autodoist
                 https://github.com/iCHAIT/awesome-macOS
                 https://github.com/jaywcjlove/awesome-mac
                 https://github.com/mathiasbynens/dotfiles
@@ -1241,6 +1245,7 @@ Contents:
                 https://github.com/alichtman/shallow-backup
                 https://github.com/Mortennn/Dozer (Hide status bar icons on macOS)
                 https://github.com/sekey/sekeyx
+                https://github.com/x74353/Amphetamine-Enhancer
                 https://objective-see.com/products/lulu.html (free, open-source macOS firewall)
 
             Alfred:
@@ -1745,6 +1750,27 @@ Contents:
                 
                 Focusmate virtual coworking helps you get things done
                 https://www.focusmate.com
+
+        Web Browser:
+            Sources:
+                https://news.ycombinator.com/item?id=15696056 (What are your favorite browser extensions/add-ons for Firefox or chrome?)
+                https://news.ycombinator.com/item?id=22105561 (Ask HN: How do you manage your bookmarks?)
+                https://news.ycombinator.com/item?id=22778123 (Ask HN: What do you use to keep track of bookmarks/notes/snippets?)
+                https://news.ycombinator.com/item?id=23445382 (Show HN: Some Bookmarklets, I Use (ph-uhl.com))
+
+            Extensions:
+                https://addons.mozilla.org/en-US/firefox/addon/minimalist-alexa-rank
+                https://addons.mozilla.org/en-US/firefox/addon/wayback-machine_new
+                https://github.com/gorhill/uBlock
+                https://github.com/iamadamdev/bypass-paywalls-chrome
+                https://github.com/mozilla/contain-facebook
+                https://github.com/mozilla/multi-account-containers
+                https://languagetoolplus.com
+                https://newsit.benwinding.com
+                https://piro.sakura.ne.jp/xul/_treestyletab.html.en
+                https://privacybadger.org
+                https://support.1password.com/getting-started-1password-x
+                https://www.one-tab.com
 
         Books:
             Sources:
