@@ -1771,6 +1771,7 @@ Contents:
                 https://piro.sakura.ne.jp/xul/_treestyletab.html.en
                 https://privacybadger.org
                 https://support.1password.com/getting-started-1password-x
+                https://support.mozilla.org/en-US/kb/focus
                 https://www.joinhoney.com
                 https://www.one-tab.com
 
