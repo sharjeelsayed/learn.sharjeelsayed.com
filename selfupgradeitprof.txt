@@ -1759,6 +1759,7 @@ Contents:
                 https://news.ycombinator.com/item?id=23445382 (Show HN: Some Bookmarklets, I Use (ph-uhl.com))
 
             Extensions:
+                https://1blocker.com
                 https://addons.mozilla.org/en-US/firefox/addon/minimalist-alexa-rank
                 https://addons.mozilla.org/en-US/firefox/addon/wayback-machine_new
                 https://github.com/gorhill/uBlock
@@ -1770,6 +1771,7 @@ Contents:
                 https://piro.sakura.ne.jp/xul/_treestyletab.html.en
                 https://privacybadger.org
                 https://support.1password.com/getting-started-1password-x
+                https://www.joinhoney.com
                 https://www.one-tab.com
 
         Books:
