@@ -1234,7 +1234,9 @@ Contents:
                 https://news.ycombinator.com/item?id=19515627 (Ask HN: What are your favorite utility desktop apps?)
                 https://thesweetsetup.com/picks
                 https://www.hammerspoon.org/go/#pasteblock
+                https://www.leightonprice.com/todoist/dates.html
                 https://www.reddit.com/r/apple+mac+macapps
+                https://youtu.be/HPQobUOx17o (Amazing Mac Tips You've Never Used! by  Snazzy Labs)
                 https://pinboard.in/u:sharjeelsayed/t:macos
 
             Tools:
@@ -1947,6 +1949,7 @@ Contents:
                 https://mynoise.net
 
                 Additional Sources:
+                https://hypem.com
                 https://open.spotify.com/playlist/51GTWGAMzL5zt7oUPcxwne (The Perfect Playlist from the AskReddit thread)
                 https://www.reddit.com/r/Music/comments/5nu2vt/112_hour_playlist_of_the_most_recognizable_songs
                 https://www.reddit.com/r/spotify/comments/aj7wkz/the_perfect_playlist_from_the_askreddit_thread
@@ -2001,8 +2004,8 @@ Contents:
                 https://en.wikipedia.org/wiki/Portal:Current_events
                 https://en.wikipedia.org/wiki/Special:Random
                 https://github.com/greybax/awesome-IT-films
-                https://github.com/iamadamdev/bypass-paywalls-chrome
                 https://github.com/learn-anything/blogs
+                https://github.com/minimaxir/hacker-news-undocumented
                 https://github.com/topics/blogs?o=desc&s=stars
                 https://hckrnews.com
                 https://hn.algolia.com
@@ -2227,6 +2230,7 @@ Contents:
             https://redditprofile.com (Find an Expert on Reddit)
             https://twitter.com/search?q=Gone%20Free%20(from%3Asharjeelsayed)
             https://wizardzines.com
+            https://www.justwatch.com/in?genres=doc
             https://www.nala.ie/resources/better-handwriting-adults
             https://www.producthunt.com
             https://www.reddit.com/r/AskReddit/comments/4q91g9/what_free_things_online_should_everyone_take/d4r8foy
