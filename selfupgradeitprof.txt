@@ -1223,7 +1223,6 @@ Contents:
                 https://github.com/donnemartin/dev-setup
                 https://github.com/drduh/macOS-Security-and-Privacy-Guide
                 https://github.com/herrbischoff/awesome-macos-command-line
-                https://github.com/Hoffelhas/autodoist
                 https://github.com/iCHAIT/awesome-macOS
                 https://github.com/jaywcjlove/awesome-mac
                 https://github.com/mathiasbynens/dotfiles
@@ -1234,7 +1233,6 @@ Contents:
                 https://news.ycombinator.com/item?id=19515627 (Ask HN: What are your favorite utility desktop apps?)
                 https://thesweetsetup.com/picks
                 https://www.hammerspoon.org/go/#pasteblock
-                https://www.leightonprice.com/todoist/dates.html
                 https://www.reddit.com/r/apple+mac+macapps
                 https://youtu.be/HPQobUOx17o (Amazing Mac Tips You've Never Used! by  Snazzy Labs)
                 https://pinboard.in/u:sharjeelsayed/t:macos
@@ -1350,6 +1348,7 @@ Contents:
                 https://github.com/topics/design?o=desc&s=stars
                 https://github.com/topics/frontend?o=desc&s=stars
                 https://news.ycombinator.com/item?id=15328992 (Ask HN: Learn Modern web design and CSS)
+                https://nodesign.dev
                 
             Books and Courses:
                 The Design of Everyday Things
@@ -1741,8 +1740,11 @@ Contents:
 
             Sites/Apps:
                 
-                Todoist: The to do list to organize work & life
+                Todoist
                 https://todoist.com/r/sharjeel_sayed_pndvuw (Todoist Premium free for 2 months)
+                https://github.com/Hoffelhas/autodoist
+                https://www.leightonprice.com/todoist/dates.html
+                https://www.youtube.com/playlist?list=PLAzfmm1gS2_WoaNc01a5WlQdUueHe9Ryd (Beginners Guide To Todoist by Carl Pullein)
 
                 TomatoTimer
                 https://tomato-timer.com
