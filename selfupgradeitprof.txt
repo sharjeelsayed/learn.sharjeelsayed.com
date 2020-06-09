@@ -228,6 +228,7 @@ Contents:
                 https://news.ycombinator.com/item?id=20556336 (Ask HN: What are the “best” codebases that you've encountered?)
                 https://news.ycombinator.com/item?id=22011743 (Ask HN: Are there any openly available software architecture documents?)
                 https://news.ycombinator.com/item?id=22767351 (Most-recommended programming books:Overtime I've built my own list of lists.)
+                https://news.ycombinator.com/item?id=23468193 (	Ask HN: Which tools have made you a much better programmer?)
                 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/index.htm
                 https://softwareengineeringdaily.com
                 https://toptalkedbooks.com/stackoverflow/all
@@ -1233,8 +1234,9 @@ Contents:
                 https://news.ycombinator.com/item?id=19515627 (Ask HN: What are your favorite utility desktop apps?)
                 https://thesweetsetup.com/picks
                 https://www.hammerspoon.org/go/#pasteblock
+                https://www.parallels.com/products/desktop
                 https://www.reddit.com/r/apple+mac+macapps
-                https://youtu.be/HPQobUOx17o (Amazing Mac Tips You've Never Used! by  Snazzy Labs)
+                https://youtu.be/HPQobUOx17o (Amazing Mac Tips You've Never Used! by Snazzy Labs)
                 https://pinboard.in/u:sharjeelsayed/t:macos
 
             Tools:
@@ -1259,8 +1261,9 @@ Contents:
                 https://github.com/jaroslawhartman/TimeZones-Alfred
                 https://github.com/learn-anything/alfred-workflows
                 https://github.com/ngreenstein/alfred-process-killer
+                https://github.com/skydiver/alfred-network-drives
                 https://github.com/topics/alfred?o=desc&s=stars
-                https://github.com/vitorgalvao/custom-alfred-iterm-scripts
+                https://github.com/vitorgalvao/custom-alfred-iterm-scripts (AppleScript for iTerm2 Alfred integration)
                 https://github.com/willfarrell/alfred-workflows
                 https://github.com/zenorocha/alfred-workflows
                 https://pacmax.org
