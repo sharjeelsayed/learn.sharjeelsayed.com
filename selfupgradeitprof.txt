@@ -1221,6 +1221,7 @@ Contents:
 
         macOS:
             Sources:
+                https://defkey.com/apple-macos-shortcuts
                 https://github.com/donnemartin/dev-setup
                 https://github.com/drduh/macOS-Security-and-Privacy-Guide
                 https://github.com/herrbischoff/awesome-macos-command-line
@@ -1232,8 +1233,8 @@ Contents:
                 https://github.com/serhii-londar/open-source-mac-os-apps
                 https://github.com/topics/macos?o=desc&s=stars
                 https://news.ycombinator.com/item?id=19515627 (Ask HN: What are your favorite utility desktop apps?)
+                https://support.apple.com/en-us/HT201236 (Mac keyboard shortcuts)
                 https://thesweetsetup.com/picks
-                https://www.hammerspoon.org/go/#pasteblock
                 https://www.parallels.com/products/desktop
                 https://www.reddit.com/r/apple+mac+macapps
                 https://youtu.be/HPQobUOx17o (Amazing Mac Tips You've Never Used! by Snazzy Labs)
@@ -1249,6 +1250,8 @@ Contents:
                 https://github.com/sekey/sekeyx
                 https://github.com/x74353/Amphetamine-Enhancer
                 https://objective-see.com/products/lulu.html (free, open-source macOS firewall)
+                https://www.hammerspoon.org/go/#pasteblock
+                https://xnipapp.com
 
             Alfred:
                 http://www.packal.org
@@ -1829,6 +1832,7 @@ Contents:
                 https://news.ycombinator.com/item?id=22502554 (Ask HN: What are some deep, mentality changing books?)
                 https://news.ycombinator.com/item?id=22718592 (Ask HN: Great fiction books that have had a positive impact on your life?)
                 https://news.ycombinator.com/item?id=23151144 (Ask HN: Mind bending books to read and never be the same as before?)
+                https://news.ycombinator.com/item?id=23485477 (	Ask HN: What, in your opinion, are the greatest and most useful textbooks?)
                 https://opentrackers.org/downloading-ebooks-textbooks
                 https://ramiro.org/vis/hn-most-linked-books
                 https://redditfavorites.com/books
@@ -1919,7 +1923,7 @@ Contents:
                 
             Sites:
                 soma fm's Drone Zone Channel
-                http://somafm.com/player/#/now-playing/dronezone
+                https://somafm.com/player/#/now-playing/dronezone
                 https://music.apple.com/station/somafm-drone-zone/ra.1460960905
                 https://open.spotify.com/playlist/1raR4ZD2jZH65dbw5wzfnl
                 
@@ -1988,11 +1992,11 @@ Contents:
                 https://www.soundguys.com/best
                 
                 The Best Noise-Cancelling Headphones
-                http://thewirecutter.com/reviews/best-noise-cancelling-headphones
+                https://www.nytimes.com/wirecutter/reviews/best-noise-cancelling-headphones
 
         Ear Plugs:
             Sources:
-                https://thewirecutter.com/reviews/best-earplugs-for-sleeping
+                https://www.nytimes.com/wirecutter/reviews/best-earplugs-for-sleeping
                 https://www.amazon.com/gp/bestsellers/hpc/3779871
 
             Sites:
@@ -2156,11 +2160,12 @@ Contents:
                 https://github.com/topics/vpn?o=desc&s=stars
                 https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=Ask%20HN%3Avpn&sort=byPopularity&type=story (Ask HN:vpn)
                 https://news.ycombinator.com/item?id=19242058 (Ask HN: What VPN service are you currently using?)
+                https://nextdns.io (Block ads, trackers and malicious websites on all your devices)
                 https://thatoneprivacysite.net
                 https://torrentfreak.com/best-vpn-anonymous-no-logging
-                https://vpntierlist.com
                 https://www.privacytools.io/providers/vpn
                 https://www.reddit.com/r/NetflixViaVPN+VPN+vpncoupons+vpnreviews
+                https://www.vpntierlist.com/vpn-tier-list
                 https://www.expressrefer.com/refer-friend?referrer_id=39360476 (ExpressVPN 30 days free)
 
         BitTorrent:
