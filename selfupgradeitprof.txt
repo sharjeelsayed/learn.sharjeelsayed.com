@@ -490,6 +490,8 @@ Contents:
             https://www.reddit.com/r/compsci+cscareerquestions+learnprogramming+linux+linuxadmin+netsec+networking+programming+sysadmin
             https://www.reddit.com/r/DevOps/wiki/resources
             https://www.reddit.com/r/homelab/wiki/software
+            https://www.reddit.com/r/ITCareerQuestions/comments/5nvltv/what_fieldsdisciplines_should_i_be_looking_into/dcf3ny0
+            https://www.reddit.com/r/ITCareerQuestions/wiki
             https://www.reddit.com/r/linuxadmin/comments/65vb8s/advice_if_you_are_wanting_to_go_into_devops
             https://www.reddit.com/r/sysadmin/comments/65u70f/sysadmins_what_are_some_good_it_youtube_channels
             https://www.reddit.com/r/sysadmin/wiki
@@ -763,6 +765,7 @@ Contents:
                 https://www.reddit.com/r/vmware/top
                 https://www.vmware.com/education-services/certification.html
                 https://www.youtube.com/user/VMwareKB
+                https://www.youtube.com/user/VMwareLearning
                 
             Books and Courses:
                 VMware vSphere 6.5 (VCP6.5-DCV) with 6.7 Updates
@@ -1235,7 +1238,6 @@ Contents:
                 https://news.ycombinator.com/item?id=19515627 (Ask HN: What are your favorite utility desktop apps?)
                 https://support.apple.com/en-us/HT201236 (Mac keyboard shortcuts)
                 https://thesweetsetup.com/picks
-                https://www.parallels.com/products/desktop
                 https://www.reddit.com/r/apple+mac+macapps
                 https://youtu.be/HPQobUOx17o (Amazing Mac Tips You've Never Used! by Snazzy Labs)
                 https://pinboard.in/u:sharjeelsayed/t:macos
@@ -1250,7 +1252,9 @@ Contents:
                 https://github.com/sekey/sekeyx
                 https://github.com/x74353/Amphetamine-Enhancer
                 https://objective-see.com/products/lulu.html (free, open-source macOS firewall)
+                https://osxfuse.github.io
                 https://www.hammerspoon.org/go/#pasteblock
+                https://www.parallels.com/products/desktop
                 https://xnipapp.com
 
             Alfred:
