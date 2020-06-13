@@ -1249,6 +1249,7 @@ Contents:
                 https://getfenet.re (Picture in picture for your mac)
                 https://github.com/alichtman/shallow-backup
                 https://github.com/Mortennn/Dozer (Hide status bar icons on macOS)
+                https://github.com/nextdns/nextdns/wiki/MacOS
                 https://github.com/sekey/sekeyx
                 https://github.com/x74353/Amphetamine-Enhancer
                 https://objective-see.com/products/lulu.html (free, open-source macOS firewall)
@@ -1302,6 +1303,7 @@ Contents:
                 https://developer.apple.com/library/archive/documentation/MacOSX/Conceptual/BPSystemStartup/Chapters/ScheduledJobs.html#//apple_ref/doc/uid/10000172i-CH1-SW1
                 https://en.wikipedia.org/wiki/Launchd
                 https://serverfault.com/a/1014993/3501 (Use an environment variable in a launchd script with bash -cl scriptname)
+                https://superuser.com/questions/36087/how-do-i-run-a-launchd-command-as-root
                 https://www.manpagez.com/man/5/launchd.plist
                 https://www.soma-zone.com/LaunchControl
 
@@ -2067,7 +2069,7 @@ Contents:
                 https://news.google.com/topics/CAAqBwgKMOXWjQswrYGgAw?hl=en-IN&gl=IN&ceid=IN:en (Maharashtra)
                 
                 Reddit:
-                https://www.reddit.com/r/1Password+AWSCertifications+Alfred+Android+AppHookup+AppleWatch+COVID19+Coronavirus+CryptoCurrency+DataHoarder+Documentaries+FreeEBOOKS+GooglePixel+ITCareerQuestions+IndiaInvestments+KindleFreebies+Piracy+Ubuntu+VPS+Vaping+announcements+apple+aws+compsci+cscareerquestions+dataisbeautiful+devops+docker+electronic_cigarette+gadgets+hackernews+homelab+india+ipad+iphone+juul+kindle+kubernetes+learnprogramming+linux+linuxadmin+mac+macapps+movies+mumbai+netsec+onebag+programming+science+solotravel+sysadmin+television+todayilearned+todoist+travel+worldnews
+                https://www.reddit.com/r/1Password+AWSCertifications+Alfred+Android+AppHookup+AppleWatch+COVID19+Coronavirus+CryptoCurrency+DataHoarder+Documentaries+FreeEBOOKS+GooglePixel+ITCareerQuestions+IndiaInvestments+KindleFreebies+Piracy+Ubuntu+VPS+Vaping+announcements+apple+aws+compsci+cscareerquestions+dataisbeautiful+devops+docker+electronic_cigarette+gadgets+hackernews+homelab+india+ipad+iphone+juul+kindle+kubernetes+learnprogramming+linux+linuxadmin+mac+macapps+movies+mumbai+netsec+nextdns+onebag+programming+science+solotravel+sysadmin+television+todayilearned+todoist+travel+worldnews
                 
                 YouTube:
                 https://www.youtube.com/channel/UCF0pVplsI8R5kcAqgtoRqoA (YouTube Worldwide Popular Right Now)
