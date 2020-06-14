@@ -1295,7 +1295,7 @@ Contents:
                 https://wiki.nikitavoloboev.xyz/macos/macos-apps/keyboard-maestro
                 https://forum.keyboardmaestro.com
                 https://www.macstories.net/tag/keyboard-maestro
-                https://www.youtube.com/watch?v=C-M2ECt9gIc&list=PLa0EpEatE4TIUSob_dkMuDP7MpPceth30 (Keyboard Maestro Tutorials)
+                https://www.youtube.com/watch?v=C-M2ECt9gIc&list=PLa0EpEatE4TIUSob_dkMuDP7MpPceth30 (Keyboard Maestro Tutorials by Ez Buttons)
 
             launchd:
                 https://alvinalexander.com/mac-os-x/mac-osx-startup-crontab-launchd-jobs
@@ -1407,8 +1407,8 @@ Contents:
                 https://news.ycombinator.com/item?id=20385679 (Ask HN: What are your favorite YouTube channels to learn stuff?)
                 https://news.ycombinator.com/item?id=20583581 (Your favourite tutorial for total beginners?)
                 https://news.ycombinator.com/item?id=21450126 (Free Online Courses from Top Universities (openculture.com))
-                https://www.class-central.com/collection/top-free-online-courses
-                https://www.class-central.com/subject/cs
+                https://www.classcentral.com/collection/top-free-online-courses
+                https://www.classcentral.com/subject/cs
                 https://www.classcentral.com/collection/ivy-league-moocs?subject=cs
                 https://www.classcentral.com/starting-this-month
                 https://www.coursebuffet.com/sub/computer-science
@@ -2163,16 +2163,18 @@ Contents:
 
         VPN:
             Sources:
+                https://github.com/fivefilters/block-ads
                 https://github.com/topics/vpn?o=desc&s=stars
                 https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=Ask%20HN%3Avpn&sort=byPopularity&type=story (Ask HN:vpn)
                 https://news.ycombinator.com/item?id=19242058 (Ask HN: What VPN service are you currently using?)
+                https://news.ycombinator.com/item?id=20783339 (Ask HN: What's the best setup for ad blocking and tracker blocking?)
                 https://nextdns.io (Block ads, trackers and malicious websites on all your devices)
                 https://thatoneprivacysite.net
                 https://torrentfreak.com/best-vpn-anonymous-no-logging
+                https://www.expressrefer.com/refer-friend?referrer_id=39360476 (ExpressVPN 30 days free)
                 https://www.privacytools.io/providers/vpn
                 https://www.reddit.com/r/NetflixViaVPN+VPN+vpncoupons+vpnreviews
                 https://www.vpntierlist.com/vpn-tier-list
-                https://www.expressrefer.com/refer-friend?referrer_id=39360476 (ExpressVPN 30 days free)
 
         BitTorrent:
             Sources:
