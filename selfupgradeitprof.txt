@@ -1236,6 +1236,7 @@ Contents:
                 https://github.com/serhii-londar/open-source-mac-os-apps
                 https://github.com/topics/macos?o=desc&s=stars
                 https://news.ycombinator.com/item?id=19515627 (Ask HN: What are your favorite utility desktop apps?)
+                https://opensource.com/article/19/5/python-3-default-mac (The right and wrong way to set Python 3 as default on a Mac)
                 https://support.apple.com/en-us/HT201236 (Mac keyboard shortcuts)
                 https://thesweetsetup.com/picks
                 https://www.reddit.com/r/apple+mac+macapps
@@ -1250,7 +1251,7 @@ Contents:
                 https://github.com/alichtman/shallow-backup
                 https://github.com/Mortennn/Dozer (Hide status bar icons on macOS)
                 https://github.com/nextdns/nextdns/wiki/MacOS
-                https://github.com/sekey/sekeyx
+                https://github.com/sekey/sekey
                 https://github.com/x74353/Amphetamine-Enhancer
                 https://objective-see.com/products/lulu.html (free, open-source macOS firewall)
                 https://osxfuse.github.io
