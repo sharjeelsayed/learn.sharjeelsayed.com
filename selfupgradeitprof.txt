@@ -396,7 +396,6 @@ Contents:
                 http://www-net.cs.umass.edu/wireshark-labs (Supplements: Wireshark Labs)
                 
                 CS144 Introduction to Computer Networking Stanford University
-                https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced
                 https://www.youtube.com/playlist?list=PLvFG2xYBrYAQCyz4Wx3NPoYJOFjvU7g2Z
                 
                 High Performance Browser Networking
@@ -1877,7 +1876,7 @@ Contents:
                 http://ebb.la
                 http://findlectures.com
                 http://freebookspot.es
-                http://libgen.io or http://gen.lib.rus.ec
+                https://libgen.lc or https://libgen.is (https://en.wikipedia.org/wiki/Library_Genesis)
                 https://books.goalkicker.com
                 https://cse.google.com/cse/publicurl?cx=001639227550064093264:dznewka3cca (Google Custom Search Engine for Ebooks)
                 https://cse.google.com/cse/publicurl?cx=011394183039475424659:5bfyqg89ers (Google Custom Search Engine for Ebooks)
