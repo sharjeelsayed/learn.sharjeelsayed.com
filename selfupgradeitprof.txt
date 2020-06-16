@@ -307,11 +307,11 @@ Contents:
                 https://www.reddit.com/r/learnprogramming/comments/379vwn/visually_learning_algorithms
 
             Books and Courses:
-                The Algorithm Design Manual 2nd Edition
+                The Algorithm Design Manual 2nd Edition by Steven S. Skiena
                 https://www.amazon.com/gp/product/1848000693
-                
-                Steven Skiena Dept. of Computer Science Stony Brook University Video Lectures
-                http://www3.cs.stonybrook.edu/~algorith/video-lectures
+                https://link.springer.com/book/10.1007/978-1-84800-070-4
+                http://www3.cs.stonybrook.edu/~algorith/video-lectures (Steven Skiena Dept. of Computer Science Stony Brook University Video Lectures)
+                https://www.youtube.com/playlist?list=PLOtl7M3yp-DX32N0fVIyvn7ipWKNGmwpp (CSE373 - Analysis of Algorithms 2016 SBU)
                 
                 Algorithms by S. Dasgupta, C. H. Papadimitriou, and U. V. Vazirani
                 http://algorithmics.lsi.upc.edu/docs/Dasgupta-Papadimitriou-Vazirani.pdf
@@ -1150,6 +1150,7 @@ Contents:
             Sources:
                 http://www.fastrls.com/2017/10/30/offensive-security-training-videos
                 https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html-single/using_selinux
+                https://github.com/dafthack/CloudPentestCheatsheets
                 https://github.com/danielmiessler/SecLists
                 https://github.com/forter/security-101-for-saas-startups
                 https://github.com/Gr1mmie/Practical-Ethical-Hacking-Resources
