@@ -419,7 +419,7 @@ Contents:
                 https://www.youtube.com/playlist?list=PLF360ED1082F6F2A5
                 
                 Load Balancing Servers, Firewalls, and Caches
-                http://www.amazon.com/Load-Balancing-Servers-Firewalls-Caches/dp/0471415502
+                https://www.amazon.com/Load-Balancing-Servers-Firewalls-Caches/dp/0471415502
                 
                 Professor Messer - Seven Second Subnetting
                 https://youtu.be/ZxAwQB8TZsM
@@ -524,7 +524,7 @@ Contents:
                 https://www.amazon.com/UNIX-Linux-System-Administration-Handbook/dp/0134277554
                 
                 How Linux Works: What Every Superuser Should Know, Second Edition
-                http://www.amazon.com/How-Linux-Works-Superuser-Should/dp/1593275676
+                https://www.amazon.com/How-Linux-Works-Superuser-Should/dp/1593275676
                 
                 RHCSA/RHCE Red Hat Linux Certification Study Guide, Seventh Edition (Exams EX200 & EX300)
                 https://www.amazon.com/RHCSA-Linux-Certification-Study-Seventh/dp/0071841962
@@ -540,7 +540,7 @@ Contents:
                 https://www.amazon.com/Linux-Programming-Interface-System-Handbook/dp/1593272200
                 
                 Unix Power Tools,Third Edition
-                http://www.amazon.com/Power-Tools-Third-Shelley-Powers/dp/0596003307
+                https://www.amazon.com/Power-Tools-Third-Shelley-Powers/dp/0596003307
                 
                 Product Documentation for Red Hat Enterprise Linux
                 https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux
@@ -631,8 +631,6 @@ Contents:
 
         Docker:
             Sources:
-                http://man7.org/linux/man-pages/man7/cgroups.7.html
-                http://man7.org/linux/man-pages/man7/namespaces.7.html
                 https://docs.docker.com
                 https://github.com/magicmark/composerize (Turns docker run commands into docker-compose files!)
                 https://github.com/p8952/bocker (Docker implemented in around 100 lines of bash)
@@ -641,6 +639,8 @@ Contents:
                 https://github.com/veggiemonk/awesome-docker
                 https://github.com/wsargent/docker-cheat-sheet
                 https://knowledgepill.it/posts/docker_swarm_compendium (Docker swarm - setup and usage)
+                https://man7.org/linux/man-pages/man7/cgroups.7.html
+                https://man7.org/linux/man-pages/man7/namespaces.7.html
                 https://news.ycombinator.com/item?id=15822583 (Ask HN: Good resources on learning how docker works under the hood?)
                 https://sparkle.adroitcorp.com.au/market (Flashcards)
                 https://www.facebook.com/groups/devopsdocker
@@ -792,7 +792,7 @@ Contents:
         Data Center:
             Books and Courses:
                 Data Center Fundamentals
-                http://www.amazon.com/Data-Center-Fundamentals-Mauricio-Arregoces/dp/1587050234
+                https://www.amazon.com/Data-Center-Fundamentals-Mauricio-Arregoces/dp/1587050234
 
         AWS:
             Sources:
@@ -864,7 +864,7 @@ Contents:
 
             Books and Courses:
                 NGINX documentation
-                http://nginx.org/en/docs
+                https://nginx.org/en/docs
                 
                 NGINX HTTP Server - Third Edition
                 https://www.amazon.com/Nginx-HTTP-Server-Clement-Nedelcu-ebook/dp/B016DPU3JS
@@ -875,7 +875,7 @@ Contents:
         Apache:
             Books and Courses:
                 Apache HTTP Server Documentation
-                http://httpd.apache.org/docs
+                https://httpd.apache.org/docs
 
         IIS
             Books and Courses:
@@ -895,7 +895,7 @@ Contents:
 
         djbdns:
             Books and Courses:
-                http://cr.yp.to/djbdns.html
+                https://cr.yp.to/djbdns.html
 
         SQL:
             Sources:
@@ -907,7 +907,7 @@ Contents:
                 Stanford DB5 Course on SQL
                 https://lagunita.stanford.edu/courses/DB/SQL/SelfPaced/about
                 
-                http://sqlzoo.net
+                https://sqlzoo.net
                 
                 https://www.sqlteaching.com
                 
@@ -974,8 +974,8 @@ Contents:
 
         Python:
             Sources:
-                http://pybit.es/python-resources.html
-                http://pythonbooks.org
+                https://pybit.es/python-resources.html
+                https://pythonbooks.org
                 https://github.com/pyenv/pyenv
                 https://github.com/topics/python?o=desc&s=stars
                 https://github.com/vinta/awesome-python
@@ -1037,10 +1037,10 @@ Contents:
                 https://www.udemy.com/java-the-complete-java-developer-course
                 
                 Head First Java 2nd Edition
-                http://www.amazon.com/Head-First-Java-Kathy-Sierra/dp/0596009208
+                https://www.amazon.com/Head-First-Java-Kathy-Sierra/dp/0596009208
                 
                 Murach's Java Servlets and JSP
-                http://www.amazon.com/Murachs-Java-Servlets-JSP-2nd/dp/1890774448
+                https://www.amazon.com/Murachs-Java-Servlets-JSP-2nd/dp/1890774448
 
         Web Development:
             Sources:
@@ -1081,7 +1081,7 @@ Contents:
         Tomcat:
             Books and Courses:
                 Tomcat: The Definitive Guide
-                http://www.amazon.com/Tomcat-Definitive-Guide-Jason-Brittain/dp/0596101066
+                https://www.amazon.com/Tomcat-Definitive-Guide-Jason-Brittain/dp/0596101066
 
         Regex:
             Sources:
@@ -1388,7 +1388,7 @@ Contents:
         MOOC:
             Sources:
                 http://academictorrents.com
-                http://lifehacker.com/tag/lifehacker-u
+                https://lifehacker.com/tag/lifehacker-u
                 http://www.openculture.com/freeonlinecourses#Computer Science Courses
                 https://archive.org/search.php?query=subject%3A%22UC+Berkeley%22
                 https://blog.github.com/2018-03-20-top-10-courses-on-github
@@ -1560,8 +1560,8 @@ Contents:
                 https://www.shine.com
                 https://www.glassdoor.co.in
                 https://www.freshersworld.com
-                http://www.monsterindia.com
-                http://www.timesjobs.com
+                https://www.monsterindia.com
+                https://www.timesjobs.com
                 https://www.fresherslive.com
                 https://angel.co
                 Note: Update your resume on the above sites every Sunday post 12 AM (IST).
