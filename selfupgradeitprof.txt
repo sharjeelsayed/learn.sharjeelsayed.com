@@ -1,7 +1,7 @@
 Curated Self Study Guide for Computer Science and DevOps/SRE/SysAdmin
 
     The latest updated copy of this page is at http://Learn.SharjeelSayed.com
-    Contribute with a pull request at https://github.com/sharjeelsayed/sharjeelsayed.github.io/blob/master/selfupgradeitprof.txt
+    Contribute with a pull request at https://github.com/SharjeelSayed/SharjeelSayed.github.io/blob/master/selfupgradeitprof.txt
     About me: http://SharjeelSayed.com
 
 Contents:
@@ -133,7 +133,7 @@ Contents:
             https://www.reddit.com/r/learnprogramming/comments/764cs8/trello_board_for_teach_yourself_computer_science
             https://www.reddit.com/r/learnprogramming/comments/ani7nb/psa_many_of_berkeleys_courses_have_lectures_and
             https://www.scotthyoung.com/blog/myprojects/mit-challenge-2
-            https://pinboard.in/u:sharjeelsayed/t:cs
+            https://pinboard.in/u:SharjeelSayed/t:cs
         
         Books and Courses:
             Teach Yourself Computer Science
@@ -431,7 +431,7 @@ Contents:
                 https://news.ycombinator.com/item?id=13417326 (Ask HN: What is the best online resource to learn advanced SQL?)
                 https://news.ycombinator.com/item?id=21793270 (Database Internals (databass.dev))
                 https://news.ycombinator.com/item?id=23138297 (Advanced SQL and database books and resources (neilwithdata.com))
-                https://pinboard.in/u:sharjeelsayed/t:db
+                https://pinboard.in/u:SharjeelSayed/t:db
 
             Books and Courses:
                 15-445/645 Intro to Database Systems (Fall 2019)
@@ -571,7 +571,7 @@ Contents:
                 https://github.com/topics/bash?o=desc&s=stars
                 https://news.ycombinator.com/item?id=14634964 (Ask HN: How can I get better at bash?)
                 https://news.ycombinator.com/item?id=22975437 (Shell Productivity Tips and Tricks (balthazar-rouberol.com))
-                https://pinboard.in/u:sharjeelsayed/t:bash
+                https://pinboard.in/u:SharjeelSayed/t:bash
             
             Books and Courses:
                 ABS Guide
@@ -594,7 +594,7 @@ Contents:
                 https://www.byobu.org
                 https://www.commandlinefu.com/commands/matching/tmux/dG11eA==/sort-by-votes
                 https://www.iterm2.com/documentation-tmux-integration.html
-                https://pinboard.in/u:sharjeelsayed/t:tmux
+                https://pinboard.in/u:SharjeelSayed/t:tmux
 
         Windows:
             Sources:
@@ -605,7 +605,7 @@ Contents:
                 https://news.ycombinator.com/item?id=19698620 (Ask HN: How do you secure your Windows PC?)
                 https://www.reddit.com/r/sysadmin/comments/3z7qd9/practice_to_become_a_windows_sysadmin/cyjynxh
                 https://www.reddit.com/r/sysadmin/wiki/ms/resources
-                https://pinboard.in/u:sharjeelsayed/t:windows
+                https://pinboard.in/u:SharjeelSayed/t:windows
 
             Books and Courses:
                 Windows Server documentation - Microsoft
@@ -646,7 +646,7 @@ Contents:
                 https://www.facebook.com/groups/devopsdocker
                 https://www.reddit.com/r/docker
                 https://www.udemy.com/topic/docker
-                https://pinboard.in/u:sharjeelsayed/t:docker
+                https://pinboard.in/u:SharjeelSayed/t:docker
                 
             Books and Courses:
                 Docker for Beginners: Full Course by Mumshad Mannambeth
@@ -707,7 +707,7 @@ Contents:
                 https://www.katacoda.com/courses/kubernetes
                 https://www.reddit.com/r/kubernetes/comments/gldbkk/cka_exam_good_exercisemock_exam_resources
                 https://youtu.be/0Omvgd7Hg1I (Life of a Packet [I] - Michael Rubin, Google)
-                https://pinboard.in/u:sharjeelsayed/t:kubernetes
+                https://pinboard.in/u:SharjeelSayed/t:kubernetes
                 
             Books and Courses:
                 Certified Kubernetes Administrator (CKA) with Practice Tests by Mumshad Mannambeth
@@ -808,7 +808,7 @@ Contents:
                 https://www.ec2instances.info
                 https://www.reddit.com/r/aws
                 https://www.reddit.com/r/sysadmin/comments/8inzn5/so_you_want_to_learn_aws_aka_how_do_i_learn_to_be
-                https://pinboard.in/u:sharjeelsayed/t:aws
+                https://pinboard.in/u:SharjeelSayed/t:aws
                 
             Books and Courses:
                 Ultimate AWS Certified Solutions Architect Associate 2020 by Stephane Maarek
@@ -901,7 +901,7 @@ Contents:
             Sources:
                 https://news.ycombinator.com/item?id=23070491 (Here are some other SQL Learning resources I have collected in my note taking Wiki (mostly from HN itself))
                 https://news.ycombinator.com/item?id=23138297 (Advanced SQL and database books and resources (neilwithdata.com))
-                https://pinboard.in/u:sharjeelsayed/t:sql
+                https://pinboard.in/u:SharjeelSayed/t:sql
 
             Books and Courses:
                 Stanford DB5 Course on SQL
@@ -1132,7 +1132,7 @@ Contents:
             Sources:
                 https://news.ycombinator.com/item?id=15400037 (Interactive Vim tutorial)
                 https://news.ycombinator.com/item?id=2936670 (Learn Vim Progressively)
-                https://pinboard.in/u:sharjeelsayed/t:vim
+                https://pinboard.in/u:SharjeelSayed/t:vim
                 
             Books and Courses:
                 Learn Vim Progressively
@@ -1178,7 +1178,7 @@ Contents:
                 https://www.reddit.com/r/netsecstudents/top/?sort=top&t=all
                 https://www.reddit.com/r/netsecstudents/wiki
                 https://xapax.github.io/blog/2017/01/14/OSCP.html
-                https://pinboard.in/u:sharjeelsayed/t:security
+                https://pinboard.in/u:SharjeelSayed/t:security
                 
             Books and Courses:
                 Penetration Testing: A Hands-On Introduction to Hacking
@@ -1241,7 +1241,7 @@ Contents:
                 https://thesweetsetup.com/picks
                 https://www.reddit.com/r/apple+mac+macapps
                 https://youtu.be/HPQobUOx17o (Amazing Mac Tips You've Never Used! by Snazzy Labs)
-                https://pinboard.in/u:sharjeelsayed/t:macos
+                https://pinboard.in/u:SharjeelSayed/t:macos
 
             Tools:
                 https://apps.apple.com/app/amphetamine/id937984704 (Amphetamine 4+ Powerful keep-awake utility)
@@ -1454,9 +1454,9 @@ Contents:
                 https://www.reddit.com/r/cscareerquestions/comments/4ce2s3/resource_interview_questions_my_massive
                 https://www.reddit.com/r/cscareerquestions/comments/8387zj/what_is_your_favorite_method_for_figuring_out_if
                 https://www.reddit.com/r/cscareerquestions/wiki
-                https://pinboard.in/u:sharjeelsayed/t:cheatsheet
-                https://pinboard.in/u:sharjeelsayed/t:interview
-                https://pinboard.in/u:sharjeelsayed/t:jobs
+                https://pinboard.in/u:SharjeelSayed/t:cheatsheet
+                https://pinboard.in/u:SharjeelSayed/t:interview
+                https://pinboard.in/u:SharjeelSayed/t:jobs
                 
             Material:
                 An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
@@ -1534,7 +1534,7 @@ Contents:
                 https://news.ycombinator.com/item?id=17671490 (Building a Kickass Portfolio)
                 https://news.ycombinator.com/item?id=22709183 (	Show HN: RxResume – A free and open-source resume builder (web.app))
                 https://www.reddit.com/r/sysadminresumes/top
-                https://pinboard.in/u:sharjeelsayed/t:resume
+                https://pinboard.in/u:SharjeelSayed/t:resume
 
         Job Portals:
             Sources:
@@ -1548,7 +1548,7 @@ Contents:
                 https://news.ycombinator.com/item?id=17047736 (Ask HN: How to become a remote contractor?)
                 https://news.ycombinator.com/item?id=19024575 (Ask HN: Highest paying remote companies?)
                 https://news.ycombinator.com/item?id=19280341 (Ask HN: Tools or sites you use to scope out a workplace before taking a job?)
-                https://pinboard.in/u:sharjeelsayed/t:jobs
+                https://pinboard.in/u:SharjeelSayed/t:jobs
                 https://www.reddit.com/r/india/comments/81r29c/your_onestop_guide_to_emigrating_long_term_to
                 https://www.reddit.com/r/india/comments/gja5eo/advice_for_indians_looking_to_study_abroad_and
                 
@@ -1754,7 +1754,7 @@ Contents:
             Sites/Apps:
                 
                 Todoist
-                https://todoist.com/r/sharjeel_sayed_pndvuw (Todoist Premium free for 2 months)
+                https://todoist.com/r/Sharjeel_Sayed_pndvuw (Todoist Premium free for 2 months)
                 https://github.com/Hoffelhas/autodoist
                 https://www.leightonprice.com/todoist/dates.html
                 https://www.youtube.com/playlist?list=PLAzfmm1gS2_WoaNc01a5WlQdUueHe9Ryd (Beginners Guide To Todoist by Carl Pullein)
@@ -1845,6 +1845,7 @@ Contents:
                 https://news.ycombinator.com/item?id=22718592 (Ask HN: Great fiction books that have had a positive impact on your life?)
                 https://news.ycombinator.com/item?id=23151144 (Ask HN: Mind bending books to read and never be the same as before?)
                 https://news.ycombinator.com/item?id=23485477 (	Ask HN: What, in your opinion, are the greatest and most useful textbooks?)
+                https://news.ycombinator.com/item?id=23535060 (Ask HN: How do you read long PDFs?)
                 https://opentrackers.org/downloading-ebooks-textbooks
                 https://ramiro.org/vis/hn-most-linked-books
                 https://redditfavorites.com/books
@@ -1864,10 +1865,10 @@ Contents:
                 https://www.reddit.com/r/FreeEBOOKS/comments/exw3gj/here_are_50_classic_books_that_you_can_download
                 https://www.reddit.com/r/freeEBOOKS/wiki/febooks
                 https://www.reddit.com/r/FreeEBOOKS+KindleFreebies
-                https://pinboard.in/u:sharjeelsayed/t:course
-                https://pinboard.in/u:sharjeelsayed/t:ebooks
-                https://pinboard.in/u:sharjeelsayed/t:learn
-                https://www.goodreads.com/sharjeelsayed
+                https://pinboard.in/u:SharjeelSayed/t:course
+                https://pinboard.in/u:SharjeelSayed/t:ebooks
+                https://pinboard.in/u:SharjeelSayed/t:learn
+                https://www.goodreads.com/SharjeelSayed
                 
             Sites:
                 http://audiobookbay.nl
@@ -2058,7 +2059,7 @@ Contents:
                 https://www.reddit.com/r/AskReddit/comments/aa7zs9/what_youtube_channels_are_genuinely_worth_watching
                 https://www.taggernews.com
                 https://www.youtube.com/channel/UCF0pVplsI8R5kcAqgtoRqoA (Popular on YouTube)
-                https://news.ycombinator.com/user?id=sharjeelsayed
+                https://news.ycombinator.com/user?id=SharjeelSayed
                 https://twitter.com/SharjeelSayed
                 https://www.reddit.com/user/SharjeelSayed
                 
@@ -2107,7 +2108,7 @@ Contents:
                 https://news.ycombinator.com/item?id=9207360 (Ask HN: Favorite podcasts?)
                 https://www.reddit.com/r/podcasts/comments/75ilo5/ive_spent_three_years_listening_to_podcasts
                 https://www.reddit.com/r/sysadmin/comments/au8ugd/what_are_your_preferred_tech_podcasts_as_a
-                https://pinboard.in/u:sharjeelsayed/t:podcast
+                https://pinboard.in/u:SharjeelSayed/t:podcast
                 
             Sites:
                 Collection of awesome podcasts
@@ -2165,7 +2166,7 @@ Contents:
                 https://twitter.com/nixcraft/status/1248353658829279232 (Twitter followers count of major cloud service providers)
                 https://www.reddit.com/r/VPS+homelab
                 https://www.vpsbenchmarks.com
-                https://pinboard.in/u:sharjeelsayed/t:vps
+                https://pinboard.in/u:SharjeelSayed/t:vps
 
         VPN:
             Sources:
@@ -2193,7 +2194,7 @@ Contents:
                 https://www.reddit.com/r/piracy/wiki/faq
                 https://www.reddit.com/r/piracy/wiki/guides
                 https://www.reddit.com/r/Piracy/wiki/megathread
-                https://pinboard.in/u:sharjeelsayed/t:torrent
+                https://pinboard.in/u:SharjeelSayed/t:torrent
 
             Sites:
                 https://1337x.to
@@ -2252,7 +2253,7 @@ Contents:
             https://news.ycombinator.com/item?id=22849208 (Ask HN: Programs that saved you 100 hours?)
             https://news.ycombinator.com/item?id=23390308 (Ask HN: What is the cheapest way to make a website?)
             https://redditprofile.com (Find an Expert on Reddit)
-            https://twitter.com/search?q=Gone%20Free%20(from%3Asharjeelsayed)
+            https://twitter.com/search?q=Gone%20Free%20(from%3ASharjeelSayed)
             https://wizardzines.com
             https://www.justwatch.com/in?genres=doc
             https://www.nala.ie/resources/better-handwriting-adults
@@ -2265,8 +2266,8 @@ Contents:
             https://www.reddit.com/r/sysadmin/comments/4oxxgv/your_favorite_scripts_you_have_stolen_or_made
 
     Support this page with these referral links:
-            http://amex.in/refer/sHARJsCJfI (American Express)
+            http://amex.in/refer/SharjScjfi (American Express)
             https://db.tt/YL0e12GN (Dropbox 500 MB of bonus space)
-            https://todoist.com/r/sharjeel_sayed_pndvuw (Todoist Premium free for 2 months)
+            https://todoist.com/r/Sharjeel_Sayed_pndvuw (Todoist Premium free for 2 months)
             https://www.expressrefer.com/refer-friend?referrer_id=39360476 (ExpressVPN 30 days free)
             https://mega.nz/C!vuhRiKpB (Mega.nz Extra Storage)
