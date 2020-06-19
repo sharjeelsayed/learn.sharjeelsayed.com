@@ -1313,6 +1313,7 @@ Contents:
                 https://news.ycombinator.com/item?id=16775744 (Ask HN: How to self-learn electronics?)
                 https://news.ycombinator.com/item?id=16920476 (Ask HN: Where did you learn modular electronics?)
                 https://news.ycombinator.com/item?id=20126760 (Open Source Electronics Lab for $30 (github.com))
+                https://news.ycombinator.com/item?id=23562181 (Ask HN: What are some good resources to learn how electricity works?)
                 https://www.reddit.com/r/AskElectronics/wiki
                 
             Books and Courses:
@@ -1321,6 +1322,9 @@ Contents:
                 
                 6.002.1x "Circuits and Electronics 1: Basic Circuit Analysis" Based on 6.002 MIT Course
                 https://courses.edx.org/courses/course-v1:MITx+6.002.1x_1+2T2016/info
+                
+                Lessons in Electric Circuits
+                https://www.allaboutcircuits.com/textbook
 
         Science:
             Sources:
@@ -2108,6 +2112,7 @@ Contents:
                 https://news.ycombinator.com/item?id=9207360 (Ask HN: Favorite podcasts?)
                 https://www.reddit.com/r/podcasts/comments/75ilo5/ive_spent_three_years_listening_to_podcasts
                 https://www.reddit.com/r/sysadmin/comments/au8ugd/what_are_your_preferred_tech_podcasts_as_a
+                https://www.reddit.com/r/sysadmin/comments/han44w/interesting_it_related_podcasts (Interesting IT related Podcasts (self.sysadmin))
                 https://pinboard.in/u:SharjeelSayed/t:podcast
                 
             Sites:
