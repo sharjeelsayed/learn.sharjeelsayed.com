@@ -2053,11 +2053,13 @@ Contents:
                 https://news.ycombinator.com/item?id=22280939 (Ask HN: What are the underrated newsletters you like reading?)
                 https://news.ycombinator.com/item?id=22800136 (Ask HN: What is your blog and why should I read it?)
                 https://news.ycombinator.com/item?id=23206259 (Ask HN: What are some hard-tech blogs that you follow?)
+                https://news.ycombinator.com/item?id=23583629 (RSS Box – RSS for websites that do not support RSS (rssbox.herokuapp.com))
                 https://news.ycombinator.com/item?id=9836023 (Ask HN: What tech blogs, podcasts do you follow outside of HN?)
                 https://pinboard.in/popular
                 https://showcase.metamate.io/hackernews-trends
                 https://wiki.nikitavoloboev.xyz/research/blogs#favorite-blogs
                 https://www.hackernewspapers.com
+                https://www.hvper.com
                 https://www.inoreader.com/trending
                 https://www.reddit.com/r/AskReddit/comments/9nggyv/what_is_a_great_youtube_channel_to_binge_watch
                 https://www.reddit.com/r/AskReddit/comments/aa7zs9/what_youtube_channels_are_genuinely_worth_watching
