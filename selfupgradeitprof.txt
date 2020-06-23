@@ -105,7 +105,6 @@ Contents:
             https://medium.freecodecamp.org/640-free-online-programming-computer-science-courses-you-can-start-in-september-f0bd3a184625
             https://news.ycombinator.com/item?id=13014900 (Ask HN: What are the bibles of Computer Science?)
             https://news.ycombinator.com/item?id=13406638 (Ask HN: What's the best computer science book you've read recently?)
-            https://news.ycombinator.com/item?id=13862284 (Teach Yourself Computer Science)
             https://news.ycombinator.com/item?id=15018002 (Ask HN: Is Georgia Tech's Online Master in CS Worth It?)
             https://news.ycombinator.com/item?id=15089476 (Ask HN: What is your favorite CS paper?)
             https://news.ycombinator.com/item?id=15695326 (Ask HN: What are some interesting papers in CS for a beginner?)
@@ -118,6 +117,7 @@ Contents:
             https://news.ycombinator.com/item?id=21311302 (Ask HN: What are the most fundamental books on computer science?)
             https://news.ycombinator.com/item?id=21919465 (Ask HN: How do I choose the right resource to learn CS fundamentals?)
             https://news.ycombinator.com/item?id=22692281 (Ask HN: Computer Science/History Books?)
+            https://news.ycombinator.com/item?id=23588896 Teach Yourself Computer Science (teachyourselfcs.com)
             https://news.ycombinator.com/item?id=5019373 (How Harvard's CS50 Renewed My Hope For Online Education)
             https://ocw.mit.edu/courses/find-by-topic/#cat=engineering&subcat=computerscience
             https://spin.atomicobject.com/2015/05/15/obtaining-thorough-cs-background-online
@@ -861,6 +861,7 @@ Contents:
         NGINX:
             Sources:
                 https://github.com/topics/nginx?o=desc&s=stars
+                https://news.ycombinator.com/item?id=23597294 (Nginx UI – Access and modify the Nginx configurations files without CLI (github.com))
 
             Books and Courses:
                 NGINX documentation
@@ -1747,6 +1748,7 @@ Contents:
             https://en.wikipedia.org/wiki/Pomodoro_Technique
             https://news.ycombinator.com/item?id=14218408 (Ask HN: How do you keep improving?)
             https://news.ycombinator.com/item?id=16202123 (How to Study: A Brief Guide (buffalo.edu))
+            https://news.ycombinator.com/item?id=23596471 (Ask HN: How do you take notes when reading a book?)
             https://www.comptia.org/testing/online-testing-interest-form
             https://www.coursera.org/learn/learning-how-to-learn
 
