@@ -1773,6 +1773,7 @@ Contents:
                 
                 Focusmate virtual coworking helps you get things done
                 https://www.focusmate.com
+                https://www.facebook.com/notes/focusmate-official-community/about-focusmate-private-groups/3040676082683663
                 https://writingmomentum.com/focusmate (Writing Momentum)
                 https://www.facebook.com/groups/focusmate/?post_id=2422778307949925 (lindabrandtmph@gmail.com https://www.facebook.com/lindabrandtmph ) (Lean In Together)
                 https://www.facebook.com/groups/focusmate/?post_id=2607180786176342 (Ph.D. Community Group)
@@ -1962,6 +1963,7 @@ Contents:
                 https://open.spotify.com/playlist/4EhmWNBIY0eXfIiPFGExvR (r/ambientmusic Top 25)
                 https://open.spotify.com/playlist/6UvxOYk0PE78QicUlv0V8t (The 50 Best Ambient Albums of All Time)
                 https://open.spotify.com/search/binaural/playlists
+                https://open.spotify.com/search/study/playlists
 
                 Apple Music
                 https://music.apple.com/gb/playlist/sleep-sounds/pl.0ef59752c0cd457dbf1391f08cbd936f
@@ -2187,10 +2189,12 @@ Contents:
                 https://nextdns.io (Block ads, trackers and malicious websites on all your devices)
                 https://thatoneprivacysite.net
                 https://torrentfreak.com/best-vpn-anonymous-no-logging
-                https://www.expressrefer.com/refer-friend?referrer_id=39360476 (ExpressVPN 30 days free)
+                https://tunnelblick.net
                 https://www.privacytools.io/providers/vpn
                 https://www.reddit.com/r/NetflixViaVPN+VPN+vpncoupons+vpnreviews
+                https://www.sparklabs.com/viscosity
                 https://www.vpntierlist.com/vpn-tier-list
+                https://www.expressrefer.com/refer-friend?referrer_id=39360476 (ExpressVPN 30 days free)
 
         BitTorrent:
             Sources:
@@ -2262,6 +2266,7 @@ Contents:
             https://news.ycombinator.com/item?id=22849208 (Ask HN: Programs that saved you 100 hours?)
             https://news.ycombinator.com/item?id=23390308 (Ask HN: What is the cheapest way to make a website?)
             https://redditprofile.com (Find an Expert on Reddit)
+            https://sourceful.co.uk (Discover the best public GoogleDocs and Sheets)
             https://twitter.com/search?q=Gone%20Free%20(from%3ASharjeelSayed)
             https://wizardzines.com
             https://www.justwatch.com/in?genres=doc
