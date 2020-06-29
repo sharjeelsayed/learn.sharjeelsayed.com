@@ -2108,10 +2108,14 @@ Contents:
                 https://cse.google.com/cse/publicurl?cx=013208504250323700475:mqurmsvnc8k (Google Custom Search Engine for Sharjeel's Bookmarks)
 
                 Telegram:
+                https://ifttt.com/telegram
+                https://t.me/aximobot (Hi, i am a RSS and social network flows agregator)
                 https://t.me/best_hacker_news (Top stories from https://news.ycombinator.com (with 500+ score))
                 https://t.me/hacker_news_feed (Top stories from https://news.ycombinator.com (with 100+ score))
-                https://telegramchannels.me/channels?category=technology&sort=members
-                https://tlgrm.eu/channels/tech
+                https://t.me/TheFeedReaderBot (The Feed Reader Bot monitors RSS feeds (and Twitter accounts), and sends messages when new posts are available.)
+                https://telegramchannels.me/channels?category=technology&sort=members (Top Technology Channels)
+                https://telegramchannels.me/search?search=feed&type=bot (RSS Feed Bots)
+                https://tlgrm.eu/channels/tech (Technology Channels)
 
         Podcasts:
             Sources:
