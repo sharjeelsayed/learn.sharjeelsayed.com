@@ -566,11 +566,14 @@ Contents:
                 https://github.com/dylanaraps/pure-bash-bible
                 https://github.com/gleitz/howdoi (instant coding answers via the command line)
                 https://github.com/jlevy/the-art-of-command-line
+                https://github.com/junegunn/fzf (A command-line fuzzy finder)
                 https://github.com/koalaman/shellcheck
                 https://github.com/onceupon/Bash-Oneliner
+                https://github.com/rupa/z (z - jump around)
                 https://github.com/topics/bash?o=desc&s=stars
                 https://news.ycombinator.com/item?id=14634964 (Ask HN: How can I get better at bash?)
                 https://news.ycombinator.com/item?id=22975437 (Shell Productivity Tips and Tricks (balthazar-rouberol.com))
+                https://switowski.com/blog/favorite-cli-tools
                 https://pinboard.in/u:SharjeelSayed/t:bash
             
             Books and Courses:
@@ -619,6 +622,9 @@ Contents:
                 https://docs.microsoft.com/en-us/sysinternals/learn/windows-internals
 
         Powershell:
+            Sources:
+                https://www.reddit.com/r/PowerShell
+                
             Books and Courses:
                 Learn Windows PowerShell in a Month of Lunches 3rd Edition
                 https://www.amazon.com/Learn-Windows-PowerShell-Month-Lunches/dp/1617294160
@@ -1945,7 +1951,8 @@ Contents:
                 soma fm's Drone Zone Channel
                 https://somafm.com/player/#/now-playing/dronezone
                 https://music.apple.com/station/somafm-drone-zone/ra.1460960905
-                https://open.spotify.com/playlist/1raR4ZD2jZH65dbw5wzfnl
+                https://open.spotify.com/playlist/1raR4ZD2jZH65dbw5wzfnl (SomaFM Drone Zone)
+                https://open.spotify.com/playlist/6buS3xfirKekKanY53l2fN (Soma FM Drone Zone & Deep Space One)
                 
                 Spotify
                 https://open.spotify.com/album/6035JmOXELaAUjbaCzq7bu (Studying Music: Binaural Beats Sounds For Studying, Focus, Concentration and Ambient Study Music)
@@ -1964,7 +1971,7 @@ Contents:
                 https://open.spotify.com/playlist/6UvxOYk0PE78QicUlv0V8t (The 50 Best Ambient Albums of All Time)
                 https://open.spotify.com/search/binaural/playlists
                 https://open.spotify.com/search/study/playlists
-
+                
                 Apple Music
                 https://music.apple.com/gb/playlist/sleep-sounds/pl.0ef59752c0cd457dbf1391f08cbd936f
                 https://music.apple.com/in/activity/focus/976439521
@@ -2099,6 +2106,12 @@ Contents:
                 https://github.com/SharjeelSayed?direction=desc&sort=stars&tab=stars (Starred Github Repositories)
                 https://stackexchange.com/users/6550/sharjeel?tab=bookmarks
                 https://cse.google.com/cse/publicurl?cx=013208504250323700475:mqurmsvnc8k (Google Custom Search Engine for Sharjeel's Bookmarks)
+
+                Telegram:
+                https://t.me/best_hacker_news (Top stories from https://news.ycombinator.com (with 500+ score))
+                https://t.me/hacker_news_feed (Top stories from https://news.ycombinator.com (with 100+ score))
+                https://telegramchannels.me/channels?category=technology&sort=members
+                https://tlgrm.eu/channels/tech
 
         Podcasts:
             Sources:
