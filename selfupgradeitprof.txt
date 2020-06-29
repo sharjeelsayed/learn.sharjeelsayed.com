@@ -2084,8 +2084,25 @@ Contents:
                 RSS Reader:
                 Import http://Opml.SharjeelSayed.com , into Inoreader.com or https://reederapp.com
                 
-                Tech News Notifications (iOS/Android):
-                Turn on the applet https://IFTTT.com/applets/456148p in the IFTTT Mobile app and add https://www.techmeme.com/feed.xml into the 'Feed URL' field of the applet.
+                Telegram:
+                    Sources:
+                    https://ifttt.com/telegram
+                    https://t.me/aximobot (Hi, i am a RSS and social network flows agregator)
+                    https://t.me/best_hacker_news (Top stories from https://news.ycombinator.com (with 500+ score))
+                    https://t.me/hacker_news_feed (Top stories from https://news.ycombinator.com (with 100+ score))
+                    https://t.me/TheFeedReaderBot (The Feed Reader Bot monitors RSS feeds (and Twitter accounts), and sends messages when new posts are available.)
+                    https://telegramchannels.me/channels?category=technology&sort=members (Top Technology Channels)
+                    https://telegramchannels.me/search?search=feed&type=bot (RSS Feed Bots)
+                    https://tlgrm.eu/channels/tech (Technology Channels)
+
+                    Telegram News Feed Setup:
+                    Join this channel https://t.me/hacker_news_feed
+                    Add this bot https://t.me/aximobot
+                    Go to the AximoBot conversation and type
+                    /add rss http://rss.slashdot.org/Slashdot/slashdotMain
+                    /add rss http://www.techmeme.com/index.xml
+                    /add rss https://feeds.feedburner.com/ndtvnews-top-stories?format=xml
+                    /add rss https://smithsdownunder.com/reddit_rss/?rss=r/worldnews/.rss
                 
                 Google News:
                 https://news.google.com?ned=in&gl=IN&hl=en-IN&num=1&topic=h (India)
@@ -2107,15 +2124,8 @@ Contents:
                 https://stackexchange.com/users/6550/sharjeel?tab=bookmarks
                 https://cse.google.com/cse/publicurl?cx=013208504250323700475:mqurmsvnc8k (Google Custom Search Engine for Sharjeel's Bookmarks)
 
-                Telegram:
-                https://ifttt.com/telegram
-                https://t.me/aximobot (Hi, i am a RSS and social network flows agregator)
-                https://t.me/best_hacker_news (Top stories from https://news.ycombinator.com (with 500+ score))
-                https://t.me/hacker_news_feed (Top stories from https://news.ycombinator.com (with 100+ score))
-                https://t.me/TheFeedReaderBot (The Feed Reader Bot monitors RSS feeds (and Twitter accounts), and sends messages when new posts are available.)
-                https://telegramchannels.me/channels?category=technology&sort=members (Top Technology Channels)
-                https://telegramchannels.me/search?search=feed&type=bot (RSS Feed Bots)
-                https://tlgrm.eu/channels/tech (Technology Channels)
+                Tech News Notifications (iOS/Android):
+                Turn on the applet https://IFTTT.com/applets/456148p in the IFTTT Mobile app and add https://www.techmeme.com/feed.xml into the 'Feed URL' field of the applet.
 
         Podcasts:
             Sources:
