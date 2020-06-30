@@ -2086,13 +2086,18 @@ Contents:
                 
                 Telegram:
                     Sources:
+                    https://docs.google.com/spreadsheets/d/1uQP3f2bWuPapTn_1FUcL67jW9MwLzSjysji39pmyUxY (/r/TelegramBots - Master Bot List)
+                    https://github.com/ebertti/awesome-telegram
+                    https://github.com/topics/telegram?o=desc&s=stars
                     https://ifttt.com/telegram
                     https://t.me/aximobot (Hi, i am a RSS and social network flows agregator)
                     https://t.me/best_hacker_news (Top stories from https://news.ycombinator.com (with 500+ score))
                     https://t.me/hacker_news_feed (Top stories from https://news.ycombinator.com (with 100+ score))
                     https://t.me/TheFeedReaderBot (The Feed Reader Bot monitors RSS feeds (and Twitter accounts), and sends messages when new posts are available.)
+                    https://tdirectory.me
                     https://telegramchannels.me/channels?category=technology&sort=members (Top Technology Channels)
                     https://telegramchannels.me/search?search=feed&type=bot (RSS Feed Bots)
+                    https://tgram.io
                     https://tlgrm.eu/channels/tech (Technology Channels)
 
                     Telegram News Feed Setup:
