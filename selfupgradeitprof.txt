@@ -2067,6 +2067,7 @@ Contents:
                 https://news.ycombinator.com/item?id=23583629 (RSS Box – RSS for websites that do not support RSS (rssbox.herokuapp.com))
                 https://news.ycombinator.com/item?id=9836023 (Ask HN: What tech blogs, podcasts do you follow outside of HN?)
                 https://pinboard.in/popular
+                https://readhacker.news
                 https://showcase.metamate.io/hackernews-trends
                 https://wiki.nikitavoloboev.xyz/research/blogs#favorite-blogs
                 https://www.hackernewspapers.com
@@ -2105,9 +2106,10 @@ Contents:
                     Add this bot https://t.me/aximobot
                     Go to the AximoBot conversation and type
                     /add rss http://rss.slashdot.org/Slashdot/slashdotMain
-                    /add rss http://www.techmeme.com/index.xml
                     /add rss https://feeds.feedburner.com/ndtvnews-top-stories?format=xml
+                    /add rss https://feeds.feedburner.com/TheHackersNews?format=xml
                     /add rss https://smithsdownunder.com/reddit_rss/?rss=r/worldnews/.rss
+                    /add rss https://www.techmeme.com/feed.xml
                 
                 Google News:
                 https://news.google.com?ned=in&gl=IN&hl=en-IN&num=1&topic=h (India)
