@@ -173,7 +173,9 @@ Contents:
                 http://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read
                 http://www.flyingmachinestudios.com/programming/learn-programming-languages-efficiently
                 https://blog.codinghorror.com/recommended-reading-for-developers
+                https://dev.to
                 https://devdocs.io
+                https://devurls.com
                 https://docs.google.com/spreadsheets/d/1gIRjeB1Y_AMvtmJsZWl_dNMDJ7lPSIxiVUYyEvrP5P4/htmlview?usp=sharing&sle=true (Popular Programming Podcast episodes)
                 https://github.com/AlgoryL/Projects-from-Scratch
                 https://github.com/bnb/awesome-developer-streams
@@ -506,6 +508,7 @@ Contents:
                 https://news.ycombinator.com/item?id=22564665 (Linux Kernel Teaching (linux-kernel-labs.github.io))
                 https://news.ycombinator.com/item?id=3257393 (What's the one Linux command you wish you knew years ago?)
                 https://tldr.sh (Simplified and community-driven man pages)
+                https://tuxurls.com
                 https://www.digitalocean.com/community/tutorials?primary_filter=popular
                 https://www.reddit.com/r/linux/comments/gc1wmr/list_of_largest_linux_distro_subreddits
                 https://www.reddit.com/r/linux4noobs/wiki/resources
@@ -1339,7 +1342,9 @@ Contents:
                 https://docs.google.com/spreadsheets/d/17gv8uAydcInAeflJp5FrzpfmuUhOcyhBcutaZwVMans (Science communication Youtube channels)
                 https://en.wikipedia.org/wiki/Best_science_book_ever
                 https://en.wikipedia.org/wiki/Lists_of_important_publications_in_science
+                https://hn.algolia.com/?query=documentaries&sort=byPopularity&prefix&page=0&dateRange=all&type=story
                 https://news.ycombinator.com/item?id=18085765 (Ask HN: What are some of the best documentaries you've seen?)
+                https://sciurls.com
                 https://www.amazon.com/Best-Sellers-Books-Science-Math/zgbs/books/75
                 https://www.reddit.com/r/AskReddit/comments/5x2r6b/reddit_what_are_some_must_see_documentaries
                 https://www.reddit.com/r/AskReddit/comments/7yvhmi/what_is_the_most_interesting_documentary_youve
@@ -1709,6 +1714,7 @@ Contents:
         Money:
             Sources:
                 https://codewithoutrules.com/2016/08/08/living-below-your-means
+                https://finurls.com
                 https://news.ycombinator.com/item?id=12556160 (Ask HN: What are the must-read books about economics/finance?)
                 https://news.ycombinator.com/item?id=15140182 (A Guide to Crypto Currencies (mycrypto.guide))
                 https://news.ycombinator.com/item?id=15222819 (A New Way to Learn Economics (newyorker.com))
@@ -2035,18 +2041,11 @@ Contents:
 
         News:
             Sources:
-                https://dev.to
-                https://devurls.com
-                https://edavis.github.io/hnrss
                 https://en.wikipedia.org/wiki/Portal:Current_events
                 https://en.wikipedia.org/wiki/Special:Random
                 https://github.com/greybax/awesome-IT-films
                 https://github.com/learn-anything/blogs
-                https://github.com/minimaxir/hacker-news-undocumented
                 https://github.com/topics/blogs?o=desc&s=stars
-                https://hckrnews.com
-                https://hn.algolia.com
-                https://hn.algolia.com/?query=documentaries&sort=byPopularity&prefix&page=0&dateRange=all&type=story
                 https://news.ycombinator.com/item?id=14086259 (Ask HN: Mailing lists that HN readers ought to know about?)
                 https://news.ycombinator.com/item?id=14163905 (Ask HN: Which companies have the best blogs written by their engineering team?)
                 https://news.ycombinator.com/item?id=14378536 (Ask HN: Which websites do you visit?)
@@ -2067,10 +2066,8 @@ Contents:
                 https://news.ycombinator.com/item?id=23583629 (RSS Box – RSS for websites that do not support RSS (rssbox.herokuapp.com))
                 https://news.ycombinator.com/item?id=9836023 (Ask HN: What tech blogs, podcasts do you follow outside of HN?)
                 https://pinboard.in/popular
-                https://readhacker.news
-                https://showcase.metamate.io/hackernews-trends
+                https://techurls.com
                 https://wiki.nikitavoloboev.xyz/research/blogs#favorite-blogs
-                https://www.hackernewspapers.com
                 https://www.hvper.com
                 https://www.inoreader.com/trending
                 https://www.reddit.com/r/AskReddit/comments/9nggyv/what_is_a_great_youtube_channel_to_binge_watch
@@ -2130,6 +2127,15 @@ Contents:
                 https://github.com/SharjeelSayed?direction=desc&sort=stars&tab=stars (Starred Github Repositories)
                 https://stackexchange.com/users/6550/sharjeel?tab=bookmarks
                 https://cse.google.com/cse/publicurl?cx=013208504250323700475:mqurmsvnc8k (Google Custom Search Engine for Sharjeel's Bookmarks)
+                
+                Hackernews:
+                https://edavis.github.io/hnrss
+                https://github.com/minimaxir/hacker-news-undocumented
+                https://hckrnews.com
+                https://hn.algolia.com
+                https://readhacker.news
+                https://showcase.metamate.io/hackernews-trends
+                https://www.hackernewspapers.com
 
                 Tech News Notifications (iOS/Android):
                 Turn on the applet https://IFTTT.com/applets/456148p in the IFTTT Mobile app and add https://www.techmeme.com/feed.xml into the 'Feed URL' field of the applet.
