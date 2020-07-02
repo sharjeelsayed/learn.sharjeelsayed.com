@@ -2041,7 +2041,6 @@ Contents:
 
         News:
             Sources:
-                https://en.wikipedia.org/wiki/Portal:Current_events
                 https://en.wikipedia.org/wiki/Special:Random
                 https://github.com/greybax/awesome-IT-films
                 https://github.com/learn-anything/blogs
@@ -2065,21 +2064,15 @@ Contents:
                 https://news.ycombinator.com/item?id=23206259 (Ask HN: What are some hard-tech blogs that you follow?)
                 https://news.ycombinator.com/item?id=23583629 (RSS Box – RSS for websites that do not support RSS (rssbox.herokuapp.com))
                 https://news.ycombinator.com/item?id=9836023 (Ask HN: What tech blogs, podcasts do you follow outside of HN?)
-                https://pinboard.in/popular
-                https://techurls.com
                 https://wiki.nikitavoloboev.xyz/research/blogs#favorite-blogs
-                https://www.hvper.com
-                https://www.inoreader.com/trending
                 https://www.reddit.com/r/AskReddit/comments/9nggyv/what_is_a_great_youtube_channel_to_binge_watch
                 https://www.reddit.com/r/AskReddit/comments/aa7zs9/what_youtube_channels_are_genuinely_worth_watching
-                https://www.taggernews.com
-                https://www.youtube.com/channel/UCF0pVplsI8R5kcAqgtoRqoA (Popular on YouTube)
                 https://news.ycombinator.com/user?id=SharjeelSayed
                 https://twitter.com/SharjeelSayed
                 https://www.reddit.com/user/SharjeelSayed
                 
             Sites and Apps:
-                RSS Reader:
+                RSS:
                 Import http://Opml.SharjeelSayed.com , into Inoreader.com or https://reederapp.com
                 
                 Telegram:
@@ -2136,6 +2129,15 @@ Contents:
                 https://readhacker.news
                 https://showcase.metamate.io/hackernews-trends
                 https://www.hackernewspapers.com
+
+                News Aggregators:
+                https://en.wikipedia.org/wiki/Portal:Current_events
+                https://pinboard.in/popular
+                https://techurls.com
+                https://www.hvper.com
+                https://www.inoreader.com/trending
+                https://www.taggernews.com
+                https://www.techmeme.com
 
                 Tech News Notifications (iOS/Android):
                 Turn on the applet https://IFTTT.com/applets/456148p in the IFTTT Mobile app and add https://www.techmeme.com/feed.xml into the 'Feed URL' field of the applet.
