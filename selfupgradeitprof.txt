@@ -655,7 +655,7 @@ Contents:
                 https://man7.org/linux/man-pages/man7/namespaces.7.html
                 https://news.ycombinator.com/item?id=15822583 (Ask HN: Good resources on learning how docker works under the hood?)
                 https://sparkle.adroitcorp.com.au/market (Flashcards)
-                https://www.facebook.com/groups/devopsdocker
+                https://www.fb.com/groups/devopsdocker
                 https://www.reddit.com/r/docker
                 https://www.udemy.com/topic/docker
                 https://pinboard.in/u:SharjeelSayed/t:docker
@@ -681,7 +681,7 @@ Contents:
                 Docker Mastery: with Kubernetes +Swarm from a Docker Captain by Bret Fisher
                 https://www.udemy.com/course/docker-mastery
                 https://chat.bretfisher.com
-                https://www.facebook.com/bretfisher.devops
+                https://www.fb.com/bretfisher.devops
 
         Kubernetes:
             Sources:
@@ -731,7 +731,7 @@ Contents:
                 https://www.youtube.com/playlist?list=PL2We04F3Y_41lFKy19ig_9u-5Sj_RWTDL (JSON PATH)
                 https://kodekloud.com/p/json-path-quiz (JSON PATH Quiz- FREE COURSE)
                 https://join.slack.com/t/kodekloud/shared_invite/zt-dkvyibo4-A4JPw459fFtqv7OeR7Qg7w
-                https://www.facebook.com/kodekloudtraining
+                https://www.fb.com/kodekloudtraining
                 
                 Kubernetes: Up and Running: Dive into the Future of Infrastructure 2nd Edition
                 https://learning.oreilly.com/library/view/kubernetes-up-and/9781492046523
@@ -752,8 +752,8 @@ Contents:
                 https://docs.google.com/forms/d/e/1FAIpQLSfdsupDfOWBtNVvVvXED6ULxtR4UIsYGCH_cQcRr0VcG1ZqQQ/viewform (https://istio.slack.com)
                 https://kubernauts-slack-join.herokuapp.com
                 https://slack.k8s.io
-                https://www.facebook.com/groups/kubernetes.users
-                https://www.facebook.com/kubernetesio
+                https://www.fb.com/groups/kubernetes.users
+                https://www.fb.com/kubernetesio
                 https://www.reddit.com/r/kubernetes
 
             Additional Material:
@@ -1788,13 +1788,13 @@ Contents:
                 
                 Focusmate virtual coworking helps you get things done
                 https://www.focusmate.com
-                https://www.facebook.com/groups/focusmate/files
-                https://www.facebook.com/notes/focusmate-official-community/about-focusmate-private-groups/3040676082683663
+                https://www.fb.com/groups/focusmate/files
+                https://www.fb.com/notes/focusmate-official-community/about-focusmate-private-groups/3040676082683663
                 https://writingmomentum.com/focusmate (Writing Momentum)
-                https://www.facebook.com/groups/focusmate/?post_id=2422778307949925 (lindabrandtmph@gmail.com https://www.facebook.com/lindabrandtmph ) (Lean In Together)
-                https://www.facebook.com/groups/focusmate/?post_id=2607180786176342 (Ph.D. Community Group)
-                https://www.facebook.com/groups/focusmate/?post_id=2664504997110587 (lindabrandtmph@gmail.com https://www.facebook.com/lindabrandtmph ) (Inspiring Health Leadership)
-                https://www.linkedin.com/groups/12355283 (lindabrandtmph@gmail.com https://www.facebook.com/lindabrandtmph ) (Getting Things Done Together)
+                https://www.fb.com/groups/focusmate/?post_id=2422778307949925 (lindabrandtmph@gmail.com https://www.fb.com/lindabrandtmph ) (Lean In Together)
+                https://www.fb.com/groups/focusmate/?post_id=2607180786176342 (Ph.D. Community Group)
+                https://www.fb.com/groups/focusmate/?post_id=2664504997110587 (lindabrandtmph@gmail.com https://www.fb.com/lindabrandtmph ) (Inspiring Health Leadership)
+                https://www.linkedin.com/groups/12355283 (lindabrandtmph@gmail.com https://www.fb.com/lindabrandtmph ) (Getting Things Done Together)
 
         Web Browser:
             Sources:
@@ -2008,7 +2008,7 @@ Contents:
             Sources:
                 https://news.ycombinator.com/item?id=21563355 (Ask HN: Best Noise Canceling Headphones)
                 https://www.audiocheck.net/soundtests_headphones.php
-                https://www.facebook.com/groups/The.Indian.Audiophile.Forum
+                https://www.fb.com/groups/The.Indian.Audiophile.Forum
                 https://www.reddit.com/r/headphones/comments/9u2s09/what_tracks_do_you_play_to_test_the_full_range_of
                 https://www.reddit.com/r/LifeProTips/comments/6hljyv/lpt_if_you_are_buying_headphonesspeakers_test
                 
@@ -2137,6 +2137,7 @@ Contents:
                 https://readhacker.news
                 https://showcase.metamate.io/hackernews-trends
                 https://www.hackernewspapers.com
+                https://www.fb.com/hn.hiren.news
 
                 YouTube:
                 https://www.youtube.com/channel/UCF0pVplsI8R5kcAqgtoRqoA (YouTube Worldwide Popular Right Now)
