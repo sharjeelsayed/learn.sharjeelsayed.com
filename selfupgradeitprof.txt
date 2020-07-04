@@ -198,6 +198,7 @@ Contents:
                 https://insights.stackoverflow.com/survey/2020
                 https://learnxinyminutes.com
                 https://mapfilterfold.com/?genre=programming
+                https://morningcupofcoding.com
                 https://news.ycombinator.com/item?id=11465234 (Composing Programs – Python 3 in the tradition of SICP)
                 https://news.ycombinator.com/item?id=12702651 (Ask HN: What is your favorite YouTube channel for developers?)
                 https://news.ycombinator.com/item?id=12718102 (Programming books you might want to consider reading)
@@ -235,6 +236,7 @@ Contents:
                 https://softwareengineeringdaily.com
                 https://toptalkedbooks.com/stackoverflow/all
                 https://www.daolf.com/posts/best-programming-books
+                https://www.discoverdev.io
                 https://www.microsoft.com/en-us/research/blog/category/podcast
                 https://www.reddit.com/r/compsci+cscareerquestions+learnprogramming+programming
                 https://www.reddit.com/r/cscareerquestions/comments/6hmlxr/what_are_the_most_indemand_software_skills_right/dizqiie
@@ -337,6 +339,7 @@ Contents:
                 https://news.ycombinator.com/item?id=19178593 (Classic Mathematics Books for Lifelong Learners )
                 https://news.ycombinator.com/item?id=20048205 (Mathematics all-in-one cheat-sheet (2013) [pdf])
                 https://news.ycombinator.com/item?id=21346272 (Ask HN: Are there books for mathematics like Feynman's lectures on physics?)
+                https://news.ycombinator.com/item?id=23711942 (Ask HN: Recommend a maths book for a teenager?)
                 https://www.reddit.com/r/learnprogramming/comments/70rh9q/is_there_a_cs50_for_math
                 https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw (3Blue1Brown Channel)
 
@@ -2112,6 +2115,8 @@ Contents:
                 
                 News Aggregators:
                 https://en.wikipedia.org/wiki/Portal:Current_events
+                https://lobste.rs
+                https://newsmap-js.herokuapp.com
                 https://pinboard.in/popular
                 https://techurls.com
                 https://www.hvper.com
