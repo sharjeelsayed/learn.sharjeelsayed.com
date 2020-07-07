@@ -1669,6 +1669,7 @@ Contents:
                 https://news.ycombinator.com/item?id=23050717 (Ask HN: Learning the business-side of things as a developer?)
                 https://news.ycombinator.com/item?id=23118940 (Ask HN: What are your favorite developer-efficiency tips?)
                 https://news.ycombinator.com/item?id=23152092 (	Ask HN: I've been promoted to Architect. What do I need to learn/do to excel?)
+                https://news.ycombinator.com/item?id=23759547 (	Ask HN: What makes a good technical leader – any recommended books?)
                 https://www.amazon.com/gp/bestsellers/books/2569 (Amazon Best Sellers in Time Management)
                 https://www.indiehackers.com
                 https://www.reddit.com/r/cscareerquestions/comments/6fnujy/soft_skills_for_programmers
@@ -1974,6 +1975,7 @@ Contents:
                 https://open.spotify.com/playlist/37i9dQZF1DWZhzMp90Opmn (Pink Noise)
                 https://open.spotify.com/playlist/37i9dQZF1DX3Ogo9pFvBkY (Ambient Relaxation)
                 https://open.spotify.com/playlist/37i9dQZF1DX4PP3DA4J0N8 (Nature Sounds)
+                https://open.spotify.com/playlist/37i9dQZF1DX4sWSpwq3LiO (Peaceful Piano)
                 https://open.spotify.com/playlist/37i9dQZF1DX7EF8wVxBVhG (Binaural Beats: Focus)
                 https://open.spotify.com/playlist/37i9dQZF1DX8NTLI2TtZa6 (Intense Studying)
                 https://open.spotify.com/playlist/37i9dQZF1DX8ymr6UES7vc (Rain Sounds)
@@ -2077,7 +2079,7 @@ Contents:
                 
             Sites and Apps:
                 RSS:
-                Import http://Opml.SharjeelSayed.com , into Inoreader.com or https://reederapp.com
+                Import http://Opml.SharjeelSayed.com , into https://www.inoreader.com or https://reederapp.com
                 
                 Telegram:
                     Sources:
