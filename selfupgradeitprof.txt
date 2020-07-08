@@ -2102,12 +2102,12 @@ Contents:
                     Add this bot https://t.me/aximobot
                     Go to the AximoBot conversation and type
                     /add rss http://feeds.bbci.co.uk/news/world/rss.xml
-                    /add rss http://rss.cnn.com/rss/edition.rss
                     /add rss http://rss.slashdot.org/Slashdot/slashdotMain
                     /add rss https://feeds.feedburner.com/ndtvnews-top-stories?format=xml
                     /add rss https://feeds.feedburner.com/TheHackersNews?format=xml
-                    /add rss https://smithsdownunder.com/reddit_rss/?rss=r/technology/.rss
+                    /add rss https://rss.nytimes.com/services/xml/rss/nyt/World.xml
                     /add rss https://smithsdownunder.com/reddit_rss/?rss=r/worldnews/.rss
+                    /add rss https://www.reddit.com/r/technology/.rss
                     /add rss https://www.techmeme.com/feed.xml
                 
                 Google News:
@@ -2127,19 +2127,21 @@ Contents:
                 https://www.techmeme.com
 
                 Reddit:
-                https://www.reddit.com/r/1Password+AWSCertifications+Alfred+Android+AppHookup+AppleWatch+COVID19+Coronavirus+CryptoCurrency+DataHoarder+Documentaries+FreeEBOOKS+GooglePixel+ITCareerQuestions+IndiaInvestments+KindleFreebies+Piracy+Ubuntu+VPS+Vaping+announcements+apple+aws+compsci+cscareerquestions+dataisbeautiful+devops+docker+electronic_cigarette+gadgets+hackernews+homelab+india+ipad+iphone+juul+kindle+kubernetes+learnprogramming+linux+linuxadmin+mac+macapps+movies+mumbai+netsec+nextdns+onebag+programming+science+solotravel+sysadmin+television+todayilearned+todoist+travel+worldnews
+                https://www.reddit.com/r/1Password+AWSCertifications+Alfred+Android+AppHookup+AppleWatch+COVID19+Coronavirus+CryptoCurrency+DataHoarder+Documentaries+FreeEBOOKS+GooglePixel+ITCareerQuestions+IndiaInvestments+KindleFreebies+Piracy+Ubuntu+VPS+Vaping+announcements+apple+aws+compsci+cscareerquestions+dataisbeautiful+devops+docker+electronic_cigarette+gadgets+hackernews+homelab+india+ipad+iphone+juul+kindle+kubernetes+learnprogramming+linux+linuxadmin+mac+macapps+movies+mumbai+netsec+nextdns+onebag+programming+science+solotravel+sysadmin+technology+television+todayilearned+todoist+travel+worldnews
                 
                 Hackernews:
-                https://news.ycombinator.com
                 https://apps.apple.com/us/app/hack-for-hacker-news-developer/id1464477788
                 https://edavis.github.io/hnrss
                 https://github.com/minimaxir/hacker-news-undocumented
                 https://hckrnews.com
                 https://hn.algolia.com
+                https://news.ycombinator.com
                 https://readhacker.news
                 https://showcase.metamate.io/hackernews-trends
-                https://www.hackernewspapers.com
+                https://t.me/best_hacker_news
+                https://t.me/hacker_news_feed
                 https://www.fb.com/hn.hiren.news
+                https://www.hackernewspapers.com
 
                 YouTube:
                 https://www.youtube.com/channel/UCF0pVplsI8R5kcAqgtoRqoA (YouTube Worldwide Popular Right Now)
