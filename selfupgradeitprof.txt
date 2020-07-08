@@ -2051,6 +2051,7 @@ Contents:
                 https://github.com/greybax/awesome-IT-films
                 https://github.com/learn-anything/blogs
                 https://github.com/topics/blogs?o=desc&s=stars
+                https://news.vinc.cc
                 https://news.ycombinator.com/item?id=14086259 (Ask HN: Mailing lists that HN readers ought to know about?)
                 https://news.ycombinator.com/item?id=14163905 (Ask HN: Which companies have the best blogs written by their engineering team?)
                 https://news.ycombinator.com/item?id=14378536 (Ask HN: Which websites do you visit?)
@@ -2073,6 +2074,7 @@ Contents:
                 https://wiki.nikitavoloboev.xyz/research/blogs#favorite-blogs
                 https://www.reddit.com/r/AskReddit/comments/9nggyv/what_is_a_great_youtube_channel_to_binge_watch
                 https://www.reddit.com/r/AskReddit/comments/aa7zs9/what_youtube_channels_are_genuinely_worth_watching
+                https://www.to-rss.xyz/wikipedia
                 https://news.ycombinator.com/user?id=SharjeelSayed
                 https://twitter.com/SharjeelSayed
                 https://www.reddit.com/user/SharjeelSayed
@@ -2083,6 +2085,7 @@ Contents:
                 
                 Telegram:
                     Sources:
+                    http://thefeedreaderbot.com (The Feed Reader Bot monitors RSS feeds (and Twitter accounts), and sends messages when new posts are available.)
                     https://docs.google.com/spreadsheets/d/1uQP3f2bWuPapTn_1FUcL67jW9MwLzSjysji39pmyUxY (/r/TelegramBots - Master Bot List)
                     https://github.com/ebertti/awesome-telegram
                     https://github.com/topics/telegram?o=desc&s=stars
@@ -2099,16 +2102,22 @@ Contents:
 
                     Telegram News Feed Setup:
                     Join this channel https://t.me/hacker_news_feed
+                    
                     Add this bot https://t.me/aximobot
                     Go to the AximoBot conversation and type
                     /add rss http://feeds.bbci.co.uk/news/world/rss.xml
                     /add rss http://rss.slashdot.org/Slashdot/slashdotMain
                     /add rss https://feeds.feedburner.com/ndtvnews-top-stories?format=xml
                     /add rss https://feeds.feedburner.com/TheHackersNews?format=xml
-                    /add rss https://rss.nytimes.com/services/xml/rss/nyt/World.xml
                     /add rss https://smithsdownunder.com/reddit_rss/?rss=r/worldnews/.rss
-                    /add rss https://www.reddit.com/r/technology/.rss
+                    /add rss https://www.aljazeera.com/xml/rss/all.xml
+                    /add rss https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/section/world/rss.xml
                     /add rss https://www.techmeme.com/feed.xml
+
+                    Add this bot https://t.me/TheFeedReaderBot
+                    Go to the "Feed Reader Bot" conversation and type
+                    /add https://smithsdownunder.com/reddit_rss/?rss=r/technology/.rss
+
                 
                 Google News:
                 https://news.google.com?ned=in&gl=IN&hl=en-IN&num=1&topic=h (India)
@@ -2129,7 +2138,7 @@ Contents:
                 Reddit:
                 https://www.reddit.com/r/1Password+AWSCertifications+Alfred+Android+AppHookup+AppleWatch+COVID19+Coronavirus+CryptoCurrency+DataHoarder+Documentaries+FreeEBOOKS+GooglePixel+ITCareerQuestions+IndiaInvestments+KindleFreebies+Piracy+Ubuntu+VPS+Vaping+announcements+apple+aws+compsci+cscareerquestions+dataisbeautiful+devops+docker+electronic_cigarette+gadgets+hackernews+homelab+india+ipad+iphone+juul+kindle+kubernetes+learnprogramming+linux+linuxadmin+mac+macapps+movies+mumbai+netsec+nextdns+onebag+programming+science+solotravel+sysadmin+technology+television+todayilearned+todoist+travel+worldnews
                 
-                Hackernews:
+                Hacker News:
                 https://apps.apple.com/us/app/hack-for-hacker-news-developer/id1464477788
                 https://edavis.github.io/hnrss
                 https://github.com/minimaxir/hacker-news-undocumented
