@@ -2048,6 +2048,7 @@ Contents:
         News:
             Sources:
                 https://en.wikipedia.org/wiki/Special:Random
+                https://fraidyc.at
                 https://github.com/greybax/awesome-IT-films
                 https://github.com/learn-anything/blogs
                 https://github.com/topics/blogs?o=desc&s=stars
@@ -2080,7 +2081,7 @@ Contents:
                 https://www.reddit.com/user/SharjeelSayed
                 
             Sites and Apps:
-                RSS:
+                RSS Apps:
                 Import http://Opml.SharjeelSayed.com , into https://www.inoreader.com or https://reederapp.com
                 
                 Telegram:
@@ -2109,6 +2110,7 @@ Contents:
                     /add rss http://rss.slashdot.org/Slashdot/slashdotMain
                     /add rss https://feeds.feedburner.com/ndtvnews-top-stories?format=xml
                     /add rss https://feeds.feedburner.com/TheHackersNews?format=xml
+                    /add rss https://smithsdownunder.com/reddit_rss/?rss=r/AppHookup/.rss
                     /add rss https://smithsdownunder.com/reddit_rss/?rss=r/worldnews/.rss
                     /add rss https://www.aljazeera.com/xml/rss/all.xml
                     /add rss https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/section/world/rss.xml
@@ -2120,6 +2122,7 @@ Contents:
 
                 
                 Google News:
+                https://newsmap-js.herokuapp.com
                 https://news.google.com?ned=in&gl=IN&hl=en-IN&num=1&topic=h (India)
                 https://news.google.com/local/section/geo/Mumbai/Mumbai,%20Maharashtra?ned=in&hl=en-IN&gl=IN (Mumbai)
                 https://news.google.com/topics/CAAqBwgKMOXWjQswrYGgAw?hl=en-IN&gl=IN&ceid=IN:en (Maharashtra)
@@ -2127,7 +2130,6 @@ Contents:
                 News Aggregators:
                 https://en.wikipedia.org/wiki/Portal:Current_events
                 https://lobste.rs
-                https://newsmap-js.herokuapp.com
                 https://pinboard.in/popular
                 https://techurls.com
                 https://www.hvper.com
