@@ -473,6 +473,7 @@ Contents:
         Sources:
             http://findlectures.com/?p=1&class1=Technology&category_l2_Technology=-DevOps
             http://serverfault.com/questions/1046/what-is-the-single-most-influential-book-every-sysadmin-should-read
+            https://devopsnewsletters.com
             https://github.com/AcalephStorage/awesome-devops
             https://github.com/dastergon/awesome-sre
             https://github.com/kahun/awesome-sysadmin
@@ -2276,6 +2277,7 @@ Contents:
                 https://www.reddit.com/r/piracy/wiki/faq
                 https://www.reddit.com/r/piracy/wiki/guides
                 https://www.reddit.com/r/Piracy/wiki/megathread
+                https://www.reddit.com/r/Piracy/wiki/megathread/tools
                 https://pinboard.in/u:SharjeelSayed/t:torrent
 
             Sites:
@@ -2305,6 +2307,7 @@ Contents:
                 https://www.amazon.com/Bushcraft-101-Field-Wilderness-Survival/dp/1440579776
 
     Additional Sources :
+            https://en.wikipedia.org/wiki/List_of_common_misconceptions
             https://en.wikipedia.org/wiki/List_of_lists_of_lists
             https://en.wikipedia.org/wiki/Wikipedia:Vital_articles
             https://free-for.dev
