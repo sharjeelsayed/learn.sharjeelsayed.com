@@ -2238,6 +2238,7 @@ Contents:
 
         VPS:
             Sources:
+                https://domcomp.com
                 https://github.com/joedicastro/vps-comparison
                 https://github.com/Kickball/awesome-selfhosted
                 https://hn.algolia.com/?dateRange=pastYear&page=0&prefix=true&query=ask%20hn%3A%20vps&sort=byPopularity&type=story
@@ -2310,7 +2311,6 @@ Contents:
             https://en.wikipedia.org/wiki/List_of_common_misconceptions
             https://en.wikipedia.org/wiki/List_of_lists_of_lists
             https://en.wikipedia.org/wiki/Wikipedia:Vital_articles
-            https://free-for.dev
             https://freenode.net
             https://github.com/255kb/stack-on-a-budget
             https://github.com/jbranchaud/til
