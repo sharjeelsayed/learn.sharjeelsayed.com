@@ -6,9 +6,8 @@
   <body>
     <outline text="MustRead" title="MustRead">
       <outline text="Hacker News: Front Page" title="Hacker News: Front Page" type="rss" xmlUrl="https://hnrss.org/frontpage" htmlUrl="https://news.ycombinator.com/"/>
-      <outline text="Coronavirus, COVID19" title="Coronavirus, COVID19" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/COVID19%2BCoronavirus/.rss" htmlUrl="https://www.reddit.com/r/COVID19+Coronavirus/?t=1584885909"/>
-      <outline text="The Hacker News" title="The Hacker News" type="rss" xmlUrl="http://thehackernews.com/feeds/posts/default" htmlUrl="http://thehackernews.com/"/>
       <outline text="/r/Technology" title="/r/Technology" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/technology/.rss" htmlUrl="https://www.reddit.com/r/technology/?t=1593790546"/>
+      <outline text="The Hacker News" title="The Hacker News" type="rss" xmlUrl="http://thehackernews.com/feeds/posts/default" htmlUrl="http://thehackernews.com/"/>
       <outline text="Slashdot" title="Slashdot" type="rss" xmlUrl="http://rss.slashdot.org/Slashdot/slashdotMain" htmlUrl="http://slashdot.org/"/>
       <outline text="World News" title="World News" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/worldnews/.rss" htmlUrl="https://www.reddit.com/r/worldnews/?t=20171123064440"/>
       <outline text="Top Stories - Google News" title="Top Stories - Google News" type="rss" xmlUrl="https://news.google.com/news/rss/?ned=in&amp;amp;gl=IN&amp;amp;hl=en-IN&amp;amp;num=1&amp;amp;topic=h" htmlUrl="https://news.google.coms/rss/?ned=in&amp;amp;gl=IN&amp;amp;hl=en-IN&amp;amp;num=1&amp;amp;topic=h"/>
