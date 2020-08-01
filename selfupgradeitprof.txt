@@ -2140,7 +2140,7 @@ Contents:
                 https://www.techmeme.com
 
                 Reddit:
-                https://www.reddit.com/r/1Password+AWSCertifications+Alfred+Android+AppHookup+AppleWatch+COVID19+Coronavirus+CryptoCurrency+DataHoarder+Documentaries+FreeEBOOKS+GooglePixel+ITCareerQuestions+IndiaInvestments+KindleFreebies+Piracy+Ubuntu+VPS+Vaping+announcements+apple+aws+compsci+cscareerquestions+dataisbeautiful+devops+docker+electronic_cigarette+fastmail+gadgets+hackernews+india+ipad+iphone+juul+kindle+kubernetes+learnprogramming+linux+linuxadmin+mac+macapps+movies+mumbai+netsec+nextdns+onebag+programming+science+solotravel+sysadmin+technology+television+todayilearned+todoist+travel+worldnews
+                https://www.reddit.com/r/1Password+AWSCertifications+Alfred+Android+AppHookup+AppleWatch+COVID19+Coronavirus+CryptoCurrency+DataHoarder+Documentaries+FreeEBOOKS+GooglePixel+ITCareerQuestions+IndiaInvestments+KindleFreebies+Piracy+Ubuntu+VPS+announcements+apple+aws+compsci+cscareerquestions+dataisbeautiful+devops+docker+fastmail+gadgets+hackernews+india+ipad+iphone+juul+kindle+kubernetes+learnprogramming+linux+linuxadmin+mac+macapps+movies+mumbai+netsec+nextdns+onebag+programming+science+solotravel+sysadmin+technology+television+todayilearned+todoist+travel+worldnews
                 
                 Hacker News:
                 https://apps.apple.com/us/app/hack-for-hacker-news-developer/id1464477788
@@ -2354,6 +2354,7 @@ Contents:
     Support this page with these referral links:
             http://amex.in/refer/SharjScjfi (American Express)
             https://db.tt/YL0e12GN (Dropbox 500 MB of bonus space)
+            https://mega.nz/C!vuhRiKpB (Mega.nz Extra Storage)
+            https://nextdns.io/?from=s2bsnju6 (30% off)
             https://todoist.com/r/Sharjeel_Sayed_pndvuw (Todoist Premium free for 2 months)
             https://www.expressrefer.com/refer-friend?referrer_id=39360476 (ExpressVPN 30 days free)
-            https://mega.nz/C!vuhRiKpB (Mega.nz Extra Storage)
