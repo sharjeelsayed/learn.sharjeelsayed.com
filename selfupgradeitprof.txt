@@ -2211,6 +2211,7 @@ Contents:
                 https://news.ycombinator.com/item?id=18054574 (Ask HN: Best alternative to Gmail?)
                 https://nomoregoogle.com
                 https://restoreprivacy.com/google-alternatives
+                https://w3techs.com/technologies/overview/email_server
                 https://www.dnswl.org
                 https://www.emailprivacytester.com
                 https://www.microsoft.com/en-in/microsoft-365/business/compare-all-microsoft-365-business-products
