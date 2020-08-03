@@ -2206,7 +2206,6 @@ Contents:
         Email:
             Sources:
                 https://bridge.grumpy-troll.org/2020/07/small-mailserver-bcp
-                https://gsuite.google.co.in/intl/en_in/pricing.html
                 https://news.ycombinator.com/item?id=12247401 (Moving 12 years of email from GMail to FastMail (cpbotha.net))
                 https://news.ycombinator.com/item?id=18054574 (Ask HN: Best alternative to Gmail?)
                 https://nomoregoogle.com
@@ -2214,14 +2213,22 @@ Contents:
                 https://w3techs.com/technologies/overview/email_server
                 https://www.dnswl.org
                 https://www.emailprivacytester.com
-                https://www.microsoft.com/en-in/microsoft-365/business/compare-all-microsoft-365-business-products
                 
-            Tlds:
-                https://hostingtribunal.com/blog/tld-statistics
-                https://tld-list.com
-                https://www.hayksaakian.com/most-popular-tlds
-                https://www.icdsoft.com/blog/what-are-the-most-popular-tlds-domain-extensions
-                https://www.spamhaus.org/statistics/tlds
+            Email Hosting:
+                https://gsuite.google.co.in/intl/en_in/pricing.html
+                https://mailbox.org/en
+                https://runbox.com
+                https://www.fastmail.com/pricing
+                https://www.microsoft.com/en-in/microsoft-365/business/compare-all-microsoft-365-business-products
+                https://www.zoho.com/mail/zohomail-pricing.html
+
+            Self Hosted email:
+                https://github.com/mailcow/mailcow-dockerized
+                https://github.com/sovereign/sovereign
+                https://github.com/tomav/docker-mailserver
+                https://mailcow.email
+                https://mailinabox.email
+                https://mailu.io
 
             Email Backup:
                 http://gmvault.org
@@ -2231,18 +2238,17 @@ Contents:
                 https://takeout.google.com/settings/takeout
                 https://www.offlineimap.org
             
-            Self Hosted email:
-                https://github.com/mailcow/mailcow-dockerized
-                https://github.com/sovereign/sovereign
-                https://github.com/tomav/docker-mailserver
-                https://mailcow.email
-                https://mailinabox.email
-                https://mailu.io
-
             Email Clients:
                 https://freron.com (MailMate)
-                https://news.ycombinator.com/item?id=18057643 (	Ask HN: Best email client for a Mac?)
+                https://news.ycombinator.com/item?id=18057643 (Ask HN: Best email client for a Mac?)
                 https://www.youtube.com/playlist?list=PLC4ZkBr87CO0jmrQvGQ77t44tCT-xklqU (MailMate: The Killer Email App for Mac OS)
+            
+            Tlds:
+                https://hostingtribunal.com/blog/tld-statistics
+                https://tld-list.com
+                https://www.hayksaakian.com/most-popular-tlds
+                https://www.icdsoft.com/blog/what-are-the-most-popular-tlds-domain-extensions
+                https://www.spamhaus.org/statistics/tlds
 
         Backup:
             Sources:
