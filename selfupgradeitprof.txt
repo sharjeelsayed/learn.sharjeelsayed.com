@@ -2241,6 +2241,7 @@ Contents:
             Email Clients:
                 https://freron.com (MailMate)
                 https://news.ycombinator.com/item?id=18057643 (Ask HN: Best email client for a Mac?)
+                https://news.ycombinator.com/item?id=19712437 (Ask HN: What email client do you use?)
                 https://www.youtube.com/playlist?list=PLC4ZkBr87CO0jmrQvGQ77t44tCT-xklqU (MailMate: The Killer Email App for Mac OS)
             
             Tlds:
