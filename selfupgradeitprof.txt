@@ -81,6 +81,7 @@ Contents:
     Miscellaneous:
         News
         Podcasts
+        Email
         Backup
         VPS
         VPN
@@ -2204,6 +2205,7 @@ Contents:
 
         Email:
             Sources:
+                https://bridge.grumpy-troll.org/2020/07/small-mailserver-bcp
                 https://gsuite.google.co.in/intl/en_in/pricing.html
                 https://news.ycombinator.com/item?id=12247401 (Moving 12 years of email from GMail to FastMail (cpbotha.net))
                 https://news.ycombinator.com/item?id=18054574 (Ask HN: Best alternative to Gmail?)
@@ -2213,7 +2215,7 @@ Contents:
                 https://www.emailprivacytester.com
                 https://www.microsoft.com/en-in/microsoft-365/business/compare-all-microsoft-365-business-products
                 
-            TLDS:
+            Tlds:
                 https://hostingtribunal.com/blog/tld-statistics
                 https://tld-list.com
                 https://www.hayksaakian.com/most-popular-tlds
