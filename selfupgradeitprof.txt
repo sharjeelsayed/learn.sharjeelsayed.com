@@ -2205,30 +2205,31 @@ Contents:
 
         Email:
             Sources:
-                https://bridge.grumpy-troll.org/2020/07/small-mailserver-bcp
                 https://news.ycombinator.com/item?id=12247401 (Moving 12 years of email from GMail to FastMail (cpbotha.net))
                 https://news.ycombinator.com/item?id=18054574 (Ask HN: Best alternative to Gmail?)
                 https://nomoregoogle.com
-                https://restoreprivacy.com/google-alternatives
-                https://w3techs.com/technologies/overview/email_server
-                https://www.dnswl.org
                 https://www.emailprivacytester.com
                 
             Email Hosting:
                 https://gsuite.google.co.in/intl/en_in/pricing.html
                 https://mailbox.org/en
+                https://restoreprivacy.com/google-alternatives
+                https://restoreprivacy.com/private-secure-email
                 https://runbox.com
+                https://w3techs.com/technologies/overview/email_server
                 https://www.fastmail.com/pricing
                 https://www.microsoft.com/en-in/microsoft-365/business/compare-all-microsoft-365-business-products
                 https://www.zoho.com/mail/zohomail-pricing.html
 
             Self Hosted email:
+                https://bridge.grumpy-troll.org/2020/07/small-mailserver-bcp
                 https://github.com/mailcow/mailcow-dockerized
                 https://github.com/sovereign/sovereign
                 https://github.com/tomav/docker-mailserver
                 https://mailcow.email
                 https://mailinabox.email
                 https://mailu.io
+                https://www.dnswl.org
 
             Email Backup:
                 http://gmvault.org
@@ -2308,14 +2309,16 @@ Contents:
                 https://news.ycombinator.com/item?id=19242058 (Ask HN: What VPN service are you currently using?)
                 https://news.ycombinator.com/item?id=20783339 (Ask HN: What's the best setup for ad blocking and tracker blocking?)
                 https://nextdns.io (Block ads, trackers and malicious websites on all your devices)
+                https://restoreprivacy.com/5-eyes-9-eyes-14-eyes
+                https://restoreprivacy.com/best-vpn
                 https://thatoneprivacysite.net
                 https://torrentfreak.com/best-vpn-anonymous-no-logging
                 https://tunnelblick.net
+                https://www.expressrefer.com/refer-friend?referrer_id=39360476 (ExpressVPN 30 days free)
                 https://www.privacytools.io/providers/vpn
                 https://www.reddit.com/r/NetflixViaVPN+VPN+vpncoupons+vpnreviews
                 https://www.sparklabs.com/viscosity
                 https://www.vpntierlist.com/vpn-tier-list
-                https://www.expressrefer.com/refer-friend?referrer_id=39360476 (ExpressVPN 30 days free)
 
         BitTorrent:
             Sources:
