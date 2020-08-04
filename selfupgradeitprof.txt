@@ -2219,6 +2219,7 @@ Contents:
                 https://w3techs.com/technologies/overview/email_server
                 https://www.fastmail.com/pricing
                 https://www.microsoft.com/en-in/microsoft-365/business/compare-all-microsoft-365-business-products
+                https://www.rackspace.com/email-hosting/webmail/pricing
                 https://www.zoho.com/mail/zohomail-pricing.html
 
             Self Hosted email:
@@ -2240,7 +2241,10 @@ Contents:
                 https://www.offlineimap.org
             
             Email Clients:
+                http://www.macdrifter.com/2013/11/mailmate-explorations.html
                 https://freron.com (MailMate)
+                https://freron.lighthouseapp.com/projects/58672-mailmate/tickets?q=state%3Aopen
+                https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=mailmate&sort=byPopularity&type=all
                 https://news.ycombinator.com/item?id=18057643 (Ask HN: Best email client for a Mac?)
                 https://news.ycombinator.com/item?id=19712437 (Ask HN: What email client do you use?)
                 https://www.youtube.com/playlist?list=PLC4ZkBr87CO0jmrQvGQ77t44tCT-xklqU (MailMate: The Killer Email App for Mac OS)
