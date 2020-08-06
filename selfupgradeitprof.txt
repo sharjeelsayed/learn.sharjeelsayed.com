@@ -2209,17 +2209,20 @@ Contents:
                 https://news.ycombinator.com/item?id=18054574 (Ask HN: Best alternative to Gmail?)
                 https://nomoregoogle.com
                 https://www.emailprivacytester.com
-                
+            
             Email Hosting:
                 https://gsuite.google.co.in/intl/en_in/pricing.html
                 https://mailbox.org/en
+                https://open.spotify.com/episode/4w4PMbfjoBnxV1YkPbz6KT (The Privacy, Security, & OSINT Show 095-Better Email with Fastmail)
                 https://restoreprivacy.com/google-alternatives
                 https://restoreprivacy.com/private-secure-email
                 https://runbox.com
                 https://w3techs.com/technologies/overview/email_server
+                https://www.emaildiscussions.com/forumdisplay.php?f=27 (FastMail Forum)
                 https://www.fastmail.com/pricing
                 https://www.microsoft.com/en-in/microsoft-365/business/compare-all-microsoft-365-business-products
                 https://www.rackspace.com/email-hosting/webmail/pricing
+                https://www.reddit.com/r/degoogle/wiki
                 https://www.zoho.com/mail/zohomail-pricing.html
 
             Self Hosted email:
@@ -2247,6 +2250,8 @@ Contents:
                 https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=mailmate&sort=byPopularity&type=all
                 https://news.ycombinator.com/item?id=18057643 (Ask HN: Best email client for a Mac?)
                 https://news.ycombinator.com/item?id=19712437 (Ask HN: What email client do you use?)
+                https://thesweetsetup.com/apps/favorite-email-client-os-x
+                https://www.slant.co/topics/604/~best-e-mail-clients-for-macos
                 https://www.youtube.com/playlist?list=PLC4ZkBr87CO0jmrQvGQ77t44tCT-xklqU (MailMate: The Killer Email App for Mac OS)
             
             Tlds:
