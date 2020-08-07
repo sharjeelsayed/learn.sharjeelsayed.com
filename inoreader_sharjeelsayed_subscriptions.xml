@@ -43,6 +43,7 @@
       <outline text="Today in Indian History" title="Today in Indian History" type="rss" xmlUrl="https://www.kill-the-newsletter.com/feeds/gen2jlmbnd2b316n3pwd.xml" htmlUrl="https://www.kill-the-newsletter.com/alternate"/>
       <outline text="Devops Weekly" title="Devops Weekly" type="rss" xmlUrl="https://www.kill-the-newsletter.com/feeds/6j285p2hcl9vx1yfaxpa.xml" htmlUrl="https://www.kill-the-newsletter.com/alternate"/>
       <outline text="Unsupervised Learning, by Daniel Miessler" title="Unsupervised Learning, by Daniel Miessler" type="rss" xmlUrl="https://www.kill-the-newsletter.com/feeds/lf0ejx0el0d6ifd6dkk5.xml" htmlUrl="https://www.kill-the-newsletter.com/"/>
+      <outline text="mailmate" title="mailmate" type="rss" xmlUrl="https://kill-the-newsletter.com/feeds/cy5n8vmls4wzvyjcbl3i.xml" htmlUrl="https://kill-the-newsletter.com/"/>
       <outline text="hackernewsletter" title="hackernewsletter" type="rss" xmlUrl="https://www.kill-the-newsletter.com/feeds/6yeqhs72sgt8xofd7swu.xml" htmlUrl="https://www.kill-the-newsletter.com/"/>
     </outline>
     <outline text="Bookmarks" title="Bookmarks">
@@ -61,7 +62,6 @@
       <outline text="docker, kubernetes" title="docker, kubernetes" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/docker%2Bkubernetes/.rss" htmlUrl="https://www.reddit.com/r/docker+kubernetes/?t=1586267655"/>
       <outline text="FastMail Status" title="FastMail Status" type="rss" xmlUrl="https://www.fastmailstatus.com/feed" htmlUrl="http://www.fastmailstatus.com/feed"/>
       <outline text="software lead weekly" title="software lead weekly" type="rss" xmlUrl="https://www.kill-the-newsletter.com/feeds/2jt9udvl940fe41fyfuh.xml" htmlUrl="https://www.kill-the-newsletter.com/alternate"/>
-      <outline text="nextdns, VPS, fastmail" title="nextdns, VPS, fastmail" type="rss" xmlUrl="https://www.reddit.com/r/VPS+fastmail+nextdns/.rss" htmlUrl="https://www.reddit.com/r/VPS+fastmail+nextdns/"/>
       <outline text="Crypto-Gram from Bruce Schneier" title="Crypto-Gram from Bruce Schneier" type="rss" xmlUrl="https://www.kill-the-newsletter.com/feeds/k33e88o998p7nj1yogvq.xml" htmlUrl="https://www.kill-the-newsletter.com/alternate"/>
       <outline text="cscareerquestions, compsci, programming, learnprogramming :top scoring links" title="cscareerquestions, compsci, programming, learnprogramming :top scoring links" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/compsci%2Bcscareerquestions%2Blearnprogramming%2Bprogramming/top/.rss" htmlUrl="https://www.reddit.com/r/compsci+cscareerquestions+learnprogramming+programming/top/?t=20170511093224"/>
       <outline text="This week in DevOps" title="This week in DevOps" type="rss" xmlUrl="https://www.kill-the-newsletter.com/feeds/i3k8jkc7q45q47fljiwc.xml" htmlUrl="https://www.kill-the-newsletter.com/alternate"/>
@@ -71,7 +71,7 @@
     <outline text="Leisure" title="Leisure">
       <outline text="Today I Learned (TIL)" title="Today I Learned (TIL)" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/todayilearned/.rss" htmlUrl="https://www.reddit.com/r/todayilearned/?t=1538185663"/>
       <outline text="travel, solotravel" title="travel, solotravel" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/solotravel%2Btravel/.rss" htmlUrl="https://www.reddit.com/r/solotravel+travel/?t=1573172155"/>
-      <outline text="Juuls for the masses" title="Juuls for the masses" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/juul/.rss" htmlUrl="https://www.reddit.com/r/juul/?t=1596302126"/>
+      <outline text="todoist, 1Password, Alfred, nextdns" title="todoist, 1Password, Alfred, nextdns" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/1Password%2BAlfred%2Bnextdns%2Btodoist/.rss" htmlUrl="https://www.reddit.com/r/1Password+Alfred+nextdns+todoist/?t=1596821767"/>
       <outline text="movies, television, Documentaries" title="movies, television, Documentaries" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/Documentaries%2Bmovies%2Btelevision/.rss" htmlUrl="https://www.reddit.com/r/Documentaries+movies+television/?t=1549236458"/>
       <outline text="DataIsBeautiful" title="DataIsBeautiful" type="rss" xmlUrl="https://www.reddit.com/r/dataisbeautiful/.rss" htmlUrl="https://www.reddit.com/r/dataisbeautiful/"/>
       <outline text="IndiaInvestments" title="IndiaInvestments" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/IndiaInvestments/.rss" htmlUrl="https://www.reddit.com/r/IndiaInvestments/?t=1549404855"/>
@@ -84,10 +84,10 @@
       <outline text="ipad, AppleWatch, apple, macapps, mac, iphone" title="ipad, AppleWatch, apple, macapps, mac, iphone" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/AppleWatch%2Bapple%2Bipad%2Biphone%2Bmac%2Bmacapps/.rss" htmlUrl="https://www.reddit.com/r/AppleWatch+apple+ipad+iphone+mac+macapps/?t=1591207827"/>
       <outline text="reddit gadget guide" title="reddit gadget guide" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/gadgets/.rss" htmlUrl="https://www.reddit.com/r/gadgets/?t=20171123064255"/>
       <outline text="Cryptocurrency news and discussions." title="Cryptocurrency news and discussions." type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/CryptoCurrency/.rss" htmlUrl="https://www.reddit.com/r/CryptoCurrency/?t=20180110144918"/>
-      <outline text="todoist, Alfred, 1Password" title="todoist, Alfred, 1Password" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/1Password%2BAlfred%2Btodoist/.rss" htmlUrl="https://www.reddit.com/r/1Password+Alfred+todoist/?t=1591207906"/>
+      <outline text="Today in Indian History" title="Today in Indian History" type="rss" xmlUrl="https://www.kill-the-newsletter.com/feeds/gen2jlmbnd2b316n3pwd.xml" htmlUrl="https://www.kill-the-newsletter.com/alternate"/>
       <outline text="Science" title="Science" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/science/.rss" htmlUrl="https://www.reddit.com/r/science/?t=1538185315"/>
       <outline text="Android, GooglePixel" title="Android, GooglePixel" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/Android%2BGooglePixel/.rss" htmlUrl="https://www.reddit.com/r/Android+GooglePixel/?t=1571868275"/>
-      <outline text="Today in Indian History" title="Today in Indian History" type="rss" xmlUrl="https://www.kill-the-newsletter.com/feeds/gen2jlmbnd2b316n3pwd.xml" htmlUrl="https://www.kill-the-newsletter.com/alternate"/>
+      <outline text="Juuls for the masses" title="Juuls for the masses" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/juul/.rss" htmlUrl="https://www.reddit.com/r/juul/?t=1596302126"/>
     </outline>
   </body>
 </opml>
