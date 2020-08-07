@@ -2142,7 +2142,7 @@ Contents:
                 https://www.techmeme.com
 
                 Reddit:
-                https://www.reddit.com/r/1Password+AWSCertifications+Alfred+Android+AppHookup+AppleWatch+COVID19+Coronavirus+CryptoCurrency+DataHoarder+Documentaries+FreeEBOOKS+GooglePixel+ITCareerQuestions+IndiaInvestments+KindleFreebies+Piracy+Ubuntu+VPS+announcements+apple+aws+compsci+cscareerquestions+dataisbeautiful+devops+docker+fastmail+gadgets+hackernews+india+ipad+iphone+juul+kindle+kubernetes+learnprogramming+linux+linuxadmin+mac+macapps+movies+mumbai+netsec+nextdns+onebag+programming+science+solotravel+sysadmin+technology+television+todayilearned+todoist+travel+worldnews
+                https://www.reddit.com/r/1Password+AWSCertifications+Alfred+Android+AppHookup+AppleWatch+COVID19+Coronavirus+CryptoCurrency+DataHoarder+Documentaries+FreeEBOOKS+GooglePixel+ITCareerQuestions+IndiaInvestments+KindleFreebies+Piracy+Ubuntu+announcements+apple+aws+compsci+cscareerquestions+dataisbeautiful+devops+docker+gadgets+hackernews+india+ipad+iphone+juul+kindle+kubernetes+learnprogramming+linux+linuxadmin+mac+macapps+movies+mumbai+netsec+nextdns+onebag+programming+science+solotravel+sysadmin+technology+television+todayilearned+todoist+travel+worldnews
                 
                 Hacker News:
                 https://apps.apple.com/us/app/hack-for-hacker-news-developer/id1464477788
@@ -2251,6 +2251,7 @@ Contents:
                 https://news.ycombinator.com/item?id=18057643 (Ask HN: Best email client for a Mac?)
                 https://news.ycombinator.com/item?id=19712437 (Ask HN: What email client do you use?)
                 https://thesweetsetup.com/apps/favorite-email-client-os-x
+                https://tyler.io/additional-mailmate-tips
                 https://www.slant.co/topics/604/~best-e-mail-clients-for-macos
                 https://www.youtube.com/playlist?list=PLC4ZkBr87CO0jmrQvGQ77t44tCT-xklqU (MailMate: The Killer Email App for Mac OS)
             
@@ -2283,6 +2284,7 @@ Contents:
                 https://szymonkrajewski.pl/synchronize-local-files-cryptomator-vault
                 https://www.backblaze.com/b2/cloud-storage-pricing.html
                 https://www.reddit.com/r/DataHoarder/comments/axvxwl/anything_cheaper_than_backblaze_b2
+                https://www.tarsnap.com
                 https://db.tt/YL0e12GN (Dropbox 500 MB of bonus space)
                 https://mega.nz/C!vuhRiKpB (Mega.nz Extra Storage)
                 
