@@ -1253,6 +1253,7 @@ Contents:
                 https://github.com/serhii-londar/open-source-mac-os-apps
                 https://github.com/topics/macos?o=desc&s=stars
                 https://news.ycombinator.com/item?id=19515627 (Ask HN: What are your favorite utility desktop apps?)
+                https://news.ycombinator.com/item?id=24091707 (Ask HN: What feature did you find after years of using macOS?)
                 https://opensource.com/article/19/5/python-3-default-mac (The right and wrong way to set Python 3 as default on a Mac)
                 https://support.apple.com/en-us/HT201236 (Mac keyboard shortcuts)
                 https://thesweetsetup.com/picks
@@ -2212,6 +2213,7 @@ Contents:
             
             Email Hosting:
                 https://gsuite.google.co.in/intl/en_in/pricing.html
+                https://improvmx.com
                 https://mailbox.org/en
                 https://open.spotify.com/episode/4w4PMbfjoBnxV1YkPbz6KT (The Privacy, Security, & OSINT Show 095-Better Email with Fastmail)
                 https://restoreprivacy.com/google-alternatives
@@ -2245,16 +2247,19 @@ Contents:
             
             Email Clients:
                 http://www.macdrifter.com/2013/11/mailmate-explorations.html
-                https://freron.com (MailMate)
-                https://freron.lighthouseapp.com/projects/58672-mailmate/tickets?q=state%3Aopen
-                https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=mailmate&sort=byPopularity&type=all
                 https://news.ycombinator.com/item?id=18057643 (Ask HN: Best email client for a Mac?)
                 https://news.ycombinator.com/item?id=19712437 (Ask HN: What email client do you use?)
                 https://thesweetsetup.com/apps/favorite-email-client-os-x
-                https://tyler.io/additional-mailmate-tips
                 https://www.slant.co/topics/604/~best-e-mail-clients-for-macos
+                
+                MailMate:
+                https://freron.com (MailMate)
+                https://freron.lighthouseapp.com/projects/58672-mailmate/tickets?q=state%3Aopen
+                https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=mailmate&sort=byPopularity&type=all
+                https://lists.freron.com/listinfo/mailmate
+                https://tyler.io/additional-mailmate-tips
                 https://www.youtube.com/playlist?list=PLC4ZkBr87CO0jmrQvGQ77t44tCT-xklqU (MailMate: The Killer Email App for Mac OS)
-            
+
             Tlds:
                 https://hostingtribunal.com/blog/tld-statistics
                 https://tld-list.com
