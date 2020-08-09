@@ -1754,10 +1754,10 @@ Contents:
                 https://www.youtube.com/playlist?list=PLD18sR-9Y-XHGlrT_3aKElcyzz9eTDGsy
 
         Foreign Language:
-                Source:
+            Source:
                 http://www.runwes.com/2020/02/11/howilearnedfrench.html
                 
-                Books and Courses:
+            Books and Courses:
                 https://www.duolingo.com
                 https://www.memrise.com
 
@@ -1779,28 +1779,27 @@ Contents:
                 https://news.ycombinator.com/item?id=23265518 (Firefox extensions to make remote work and school a little better (blog.mozilla.org))
 
             Sites/Apps:
-                
-                Todoist
-                https://todoist.com/r/Sharjeel_Sayed_pndvuw (Todoist Premium free for 2 months)
-                https://github.com/Hoffelhas/autodoist
-                https://www.leightonprice.com/todoist/dates.html
-                https://www.youtube.com/playlist?list=PLAzfmm1gS2_WoaNc01a5WlQdUueHe9Ryd (Beginners Guide To Todoist by Carl Pullein)
+                Todoist:
+                    https://todoist.com/r/Sharjeel_Sayed_pndvuw (Todoist Premium free for 2 months)
+                    https://github.com/Hoffelhas/autodoist
+                    https://www.leightonprice.com/todoist/dates.html
+                    https://www.youtube.com/playlist?list=PLAzfmm1gS2_WoaNc01a5WlQdUueHe9Ryd (Beginners Guide To Todoist by Carl Pullein)
 
                 TomatoTimer
-                https://tomato-timer.com
+                    https://tomato-timer.com
 
-                Forest :Stay focused, be present
-                https://www.forestapp.cc
+                Forest:
+                    https://www.forestapp.cc
                 
-                Focusmate virtual coworking helps you get things done
-                https://www.focusmate.com
-                https://www.fb.com/groups/focusmate/files
-                https://www.fb.com/notes/focusmate-official-community/about-focusmate-private-groups/3040676082683663
-                https://writingmomentum.com/focusmate (Writing Momentum)
-                https://www.fb.com/groups/focusmate/?post_id=2422778307949925 (lindabrandtmph@gmail.com https://www.fb.com/lindabrandtmph ) (Lean In Together)
-                https://www.fb.com/groups/focusmate/?post_id=2607180786176342 (Ph.D. Community Group)
-                https://www.fb.com/groups/focusmate/?post_id=2664504997110587 (lindabrandtmph@gmail.com https://www.fb.com/lindabrandtmph ) (Inspiring Health Leadership)
-                https://www.linkedin.com/groups/12355283 (lindabrandtmph@gmail.com https://www.fb.com/lindabrandtmph ) (Getting Things Done Together)
+                Focusmate:
+                    https://www.focusmate.com
+                    https://www.fb.com/groups/focusmate/files
+                    https://www.fb.com/notes/focusmate-official-community/about-focusmate-private-groups/3040676082683663
+                    https://writingmomentum.com/focusmate (Writing Momentum)
+                    https://www.fb.com/groups/focusmate/?post_id=2422778307949925 (lindabrandtmph@gmail.com https://www.fb.com/lindabrandtmph ) (Lean In Together)
+                    https://www.fb.com/groups/focusmate/?post_id=2607180786176342 (Ph.D. Community Group)
+                    https://www.fb.com/groups/focusmate/?post_id=2664504997110587 (lindabrandtmph@gmail.com https://www.fb.com/lindabrandtmph ) (Inspiring Health Leadership)
+                    https://www.linkedin.com/groups/12355283 (lindabrandtmph@gmail.com https://www.fb.com/lindabrandtmph ) (Getting Things Done Together)
 
         Web Browser:
             Sources:
@@ -1965,51 +1964,51 @@ Contents:
                 
             Sites:
                 soma fm's Drone Zone Channel
-                https://somafm.com/player/#/now-playing/dronezone
-                https://music.apple.com/station/somafm-drone-zone/ra.1460960905
-                https://open.spotify.com/playlist/1raR4ZD2jZH65dbw5wzfnl (SomaFM Drone Zone)
-                https://open.spotify.com/playlist/6buS3xfirKekKanY53l2fN (Soma FM Drone Zone & Deep Space One)
+                    https://somafm.com/player/#/now-playing/dronezone
+                    https://music.apple.com/station/somafm-drone-zone/ra.1460960905
+                    https://open.spotify.com/playlist/1raR4ZD2jZH65dbw5wzfnl (SomaFM Drone Zone)
+                    https://open.spotify.com/playlist/6buS3xfirKekKanY53l2fN (Soma FM Drone Zone & Deep Space One)
                 
-                Spotify
-                https://open.spotify.com/album/6035JmOXELaAUjbaCzq7bu (Studying Music: Binaural Beats Sounds For Studying, Focus, Concentration and Ambient Study Music)
-                https://open.spotify.com/album/6XRukyQYxofq4QbPirgtpc (Brown Noise DLX)
-                https://open.spotify.com/genre/asmr-page
-                https://open.spotify.com/genre/study-page
-                https://open.spotify.com/playlist/37i9dQZF1DWXUpC6mczRpA (Mozart Study)
-                https://open.spotify.com/playlist/37i9dQZF1DWZd79rJ6a7lp (Sleep)
-                https://open.spotify.com/playlist/37i9dQZF1DWZhzMp90Opmn (Pink Noise)
-                https://open.spotify.com/playlist/37i9dQZF1DX3Ogo9pFvBkY (Ambient Relaxation)
-                https://open.spotify.com/playlist/37i9dQZF1DX4PP3DA4J0N8 (Nature Sounds)
-                https://open.spotify.com/playlist/37i9dQZF1DX4sWSpwq3LiO (Peaceful Piano)
-                https://open.spotify.com/playlist/37i9dQZF1DX7EF8wVxBVhG (Binaural Beats: Focus)
-                https://open.spotify.com/playlist/37i9dQZF1DX8NTLI2TtZa6 (Intense Studying)
-                https://open.spotify.com/playlist/37i9dQZF1DX8ymr6UES7vc (Rain Sounds)
-                https://open.spotify.com/playlist/4EhmWNBIY0eXfIiPFGExvR (r/ambientmusic Top 25)
-                https://open.spotify.com/playlist/6UvxOYk0PE78QicUlv0V8t (The 50 Best Ambient Albums of All Time)
-                https://open.spotify.com/search/binaural/playlists
-                https://open.spotify.com/search/study/playlists
+                Spotify:
+                    https://open.spotify.com/album/6035JmOXELaAUjbaCzq7bu (Studying Music: Binaural Beats Sounds For Studying, Focus, Concentration and Ambient Study Music)
+                    https://open.spotify.com/album/6XRukyQYxofq4QbPirgtpc (Brown Noise DLX)
+                    https://open.spotify.com/genre/asmr-page
+                    https://open.spotify.com/genre/study-page
+                    https://open.spotify.com/playlist/37i9dQZF1DWXUpC6mczRpA (Mozart Study)
+                    https://open.spotify.com/playlist/37i9dQZF1DWZd79rJ6a7lp (Sleep)
+                    https://open.spotify.com/playlist/37i9dQZF1DWZhzMp90Opmn (Pink Noise)
+                    https://open.spotify.com/playlist/37i9dQZF1DX3Ogo9pFvBkY (Ambient Relaxation)
+                    https://open.spotify.com/playlist/37i9dQZF1DX4PP3DA4J0N8 (Nature Sounds)
+                    https://open.spotify.com/playlist/37i9dQZF1DX4sWSpwq3LiO (Peaceful Piano)
+                    https://open.spotify.com/playlist/37i9dQZF1DX7EF8wVxBVhG (Binaural Beats: Focus)
+                    https://open.spotify.com/playlist/37i9dQZF1DX8NTLI2TtZa6 (Intense Studying)
+                    https://open.spotify.com/playlist/37i9dQZF1DX8ymr6UES7vc (Rain Sounds)
+                    https://open.spotify.com/playlist/4EhmWNBIY0eXfIiPFGExvR (r/ambientmusic Top 25)
+                    https://open.spotify.com/playlist/6UvxOYk0PE78QicUlv0V8t (The 50 Best Ambient Albums of All Time)
+                    https://open.spotify.com/search/binaural/playlists
+                    https://open.spotify.com/search/study/playlists
                 
-                Apple Music
-                https://music.apple.com/gb/playlist/sleep-sounds/pl.0ef59752c0cd457dbf1391f08cbd936f
-                https://music.apple.com/in/activity/focus/976439521
-                https://music.apple.com/in/playlist/mozart-study/pl.012c3e58dc7b4a6890b9777dd3f4323e
-                https://music.apple.com/in/playlist/nature-sounds/pl.040f99fdd83542a79b28fc4c13f773bd
-                https://music.apple.com/in/playlist/the-50-best-ambient-albums-of-all-time/pl.ba18e2bcf63048248256a1b5f387f08f
-                https://music.apple.com/us/playlist/pure-ambient/pl.a9bd89e7b22e45cbaac40b58c9d3d09b
-                https://music.apple.com/us/playlist/pure-focus/pl.dbd712beded846dca273d5d3259d28aa
-                https://music.apple.com/us/playlist/rain-sounds/pl.e79d63bcaead407fb44a0c19380822e6
+                Apple Music:
+                    https://music.apple.com/gb/playlist/sleep-sounds/pl.0ef59752c0cd457dbf1391f08cbd936f
+                    https://music.apple.com/in/activity/focus/976439521
+                    https://music.apple.com/in/playlist/mozart-study/pl.012c3e58dc7b4a6890b9777dd3f4323e
+                    https://music.apple.com/in/playlist/nature-sounds/pl.040f99fdd83542a79b28fc4c13f773bd
+                    https://music.apple.com/in/playlist/the-50-best-ambient-albums-of-all-time/pl.ba18e2bcf63048248256a1b5f387f08f
+                    https://music.apple.com/us/playlist/pure-ambient/pl.a9bd89e7b22e45cbaac40b58c9d3d09b
+                    https://music.apple.com/us/playlist/pure-focus/pl.dbd712beded846dca273d5d3259d28aa
+                    https://music.apple.com/us/playlist/rain-sounds/pl.e79d63bcaead407fb44a0c19380822e6
 
                 myNoise : Custom Background Noise Machines
-                https://mynoise.net
+                    https://mynoise.net
 
                 Additional Sources:
-                https://hypem.com
-                https://open.spotify.com/playlist/51GTWGAMzL5zt7oUPcxwne (The Perfect Playlist from the AskReddit thread)
-                https://www.reddit.com/r/Music/comments/5nu2vt/112_hour_playlist_of_the_most_recognizable_songs
-                https://www.reddit.com/r/spotify/comments/aj7wkz/the_perfect_playlist_from_the_askreddit_thread
-                https://www.reddit.com/r/spotify/comments/gu81es/my_collection_of_spotify_and_other_music_related
-                https://www.reddit.com/r/spotify/top
-                https://www.reddit.com/r/spotify/wiki
+                    https://hypem.com
+                    https://open.spotify.com/playlist/51GTWGAMzL5zt7oUPcxwne (The Perfect Playlist from the AskReddit thread)
+                    https://www.reddit.com/r/Music/comments/5nu2vt/112_hour_playlist_of_the_most_recognizable_songs
+                    https://www.reddit.com/r/spotify/comments/aj7wkz/the_perfect_playlist_from_the_askreddit_thread
+                    https://www.reddit.com/r/spotify/comments/gu81es/my_collection_of_spotify_and_other_music_related
+                    https://www.reddit.com/r/spotify/top
+                    https://www.reddit.com/r/spotify/wiki
 
         Headphones:
             Sources:
@@ -2091,87 +2090,88 @@ Contents:
                 
                 Telegram:
                     Sources:
-                    http://thefeedreaderbot.com (The Feed Reader Bot monitors RSS feeds (and Twitter accounts), and sends messages when new posts are available.)
-                    https://docs.google.com/spreadsheets/d/1uQP3f2bWuPapTn_1FUcL67jW9MwLzSjysji39pmyUxY (/r/TelegramBots - Master Bot List)
-                    https://github.com/ebertti/awesome-telegram
-                    https://github.com/topics/telegram?o=desc&s=stars
-                    https://ifttt.com/telegram
-                    https://t.me/aximobot (Hi, i am a RSS and social network flows agregator)
-                    https://t.me/best_hacker_news (Top stories from https://news.ycombinator.com (with 500+ score))
-                    https://t.me/hacker_news_feed (Top stories from https://news.ycombinator.com (with 100+ score))
-                    https://t.me/TheFeedReaderBot (The Feed Reader Bot monitors RSS feeds (and Twitter accounts), and sends messages when new posts are available.)
-                    https://tdirectory.me
-                    https://telegramchannels.me/channels?category=technology&sort=members (Top Technology Channels)
-                    https://telegramchannels.me/search?search=feed&type=bot (RSS Feed Bots)
-                    https://tgram.io
-                    https://tlgrm.eu/channels/tech (Technology Channels)
+                        http://thefeedreaderbot.com (The Feed Reader Bot monitors RSS feeds (and Twitter accounts), and sends messages when new posts are available.)
+                        https://docs.google.com/spreadsheets/d/1uQP3f2bWuPapTn_1FUcL67jW9MwLzSjysji39pmyUxY (/r/TelegramBots - Master Bot List)
+                        https://github.com/ebertti/awesome-telegram
+                        https://github.com/topics/telegram?o=desc&s=stars
+                        https://ifttt.com/telegram
+                        https://t.me/aximobot (Hi, i am a RSS and social network flows agregator)
+                        https://t.me/best_hacker_news (Top stories from https://news.ycombinator.com (with 500+ score))
+                        https://t.me/hacker_news_feed (Top stories from https://news.ycombinator.com (with 100+ score))
+                        https://t.me/TheFeedReaderBot (The Feed Reader Bot monitors RSS feeds (and Twitter accounts), and sends messages when new posts are available.)
+                        https://tdirectory.me
+                        https://telegramchannels.me/channels?category=technology&sort=members (Top Technology Channels)
+                        https://telegramchannels.me/search?search=feed&type=bot (RSS Feed Bots)
+                        https://tgram.io
+                        https://tlgrm.eu/channels/tech (Technology Channels)
 
                     Telegram News Feed Setup:
-                    Join this channel https://t.me/hacker_news_feed
-                    
-                    Add this bot https://t.me/aximobot
-                    Go to the AximoBot conversation and type
-                    /add rss http://feeds.bbci.co.uk/news/world/rss.xml
-                    /add rss http://rss.slashdot.org/Slashdot/slashdotMain
-                    /add rss https://feeds.feedburner.com/ndtvnews-top-stories?format=xml
-                    /add rss https://feeds.feedburner.com/TheHackersNews?format=xml
-                    /add rss https://smithsdownunder.com/reddit_rss/?rss=r/AppHookup/.rss
-                    /add rss https://smithsdownunder.com/reddit_rss/?rss=r/worldnews/.rss
-                    /add rss https://www.aljazeera.com/xml/rss/all.xml
-                    /add rss https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/section/world/rss.xml
-                    /add rss https://www.techmeme.com/feed.xml
+                        Join these channels
+                        https://t.me/best_hacker_news
+                        https://t.me/hacker_news_feed
 
-                    Add this bot https://t.me/TheFeedReaderBot
-                    Go to the "Feed Reader Bot" conversation and type
-                    /add https://smithsdownunder.com/reddit_rss/?rss=r/technology/.rss
+                        Add this bot https://t.me/aximobot
+                        Go to the AximoBot conversation and type
+                        /add rss http://feeds.bbci.co.uk/news/world/rss.xml
+                        /add rss http://rss.slashdot.org/Slashdot/slashdotMain
+                        /add rss https://feeds.feedburner.com/ndtvnews-top-stories?format=xml
+                        /add rss https://feeds.feedburner.com/TheHackersNews?format=xml
+                        /add rss https://smithsdownunder.com/reddit_rss/?rss=r/AppHookup/.rss
+                        /add rss https://smithsdownunder.com/reddit_rss/?rss=r/worldnews/.rss
+                        /add rss https://www.aljazeera.com/xml/rss/all.xml
+                        /add rss https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/section/world/rss.xml
+                        /add rss https://www.techmeme.com/feed.xml
 
-                
+                        Add this bot https://t.me/TheFeedReaderBot
+                        Go to the "Feed Reader Bot" conversation and type
+                        /add https://smithsdownunder.com/reddit_rss/?rss=r/technology/.rss
+
                 Google News:
-                https://newsmap-js.herokuapp.com
-                https://news.google.com?ned=in&gl=IN&hl=en-IN&num=1&topic=h (India)
-                https://news.google.com/local/section/geo/Mumbai/Mumbai,%20Maharashtra?ned=in&hl=en-IN&gl=IN (Mumbai)
-                https://news.google.com/topics/CAAqBwgKMOXWjQswrYGgAw?hl=en-IN&gl=IN&ceid=IN:en (Maharashtra)
+                    https://newsmap-js.herokuapp.com
+                    https://news.google.com?ned=in&gl=IN&hl=en-IN&num=1&topic=h (India)
+                    https://news.google.com/local/section/geo/Mumbai/Mumbai,%20Maharashtra?ned=in&hl=en-IN&gl=IN (Mumbai)
+                    https://news.google.com/topics/CAAqBwgKMOXWjQswrYGgAw?hl=en-IN&gl=IN&ceid=IN:en (Maharashtra)
                 
                 News Aggregators:
-                https://en.wikipedia.org/wiki/Portal:Current_events
-                https://lobste.rs
-                https://pinboard.in/popular
-                https://techurls.com
-                https://www.hvper.com
-                https://www.inoreader.com/trending
-                https://www.taggernews.com
-                https://www.techmeme.com
+                    https://en.wikipedia.org/wiki/Portal:Current_events
+                    https://lobste.rs
+                    https://pinboard.in/popular
+                    https://techurls.com
+                    https://www.hvper.com
+                    https://www.inoreader.com/trending
+                    https://www.taggernews.com
+                    https://www.techmeme.com
 
                 Reddit:
-                https://www.reddit.com/r/1Password+AWSCertifications+Alfred+Android+AppHookup+AppleWatch+COVID19+Coronavirus+CryptoCurrency+DataHoarder+Documentaries+FreeEBOOKS+GooglePixel+ITCareerQuestions+IndiaInvestments+KindleFreebies+Piracy+Ubuntu+announcements+apple+aws+compsci+cscareerquestions+dataisbeautiful+devops+docker+gadgets+hackernews+india+ipad+iphone+juul+kindle+kubernetes+learnprogramming+linux+linuxadmin+mac+macapps+movies+mumbai+netsec+nextdns+onebag+osx+programming+science+solotravel+sysadmin+technology+television+todayilearned+todoist+travel+worldnews
+                    https://www.reddit.com/r/1Password+AWSCertifications+Alfred+Android+AppHookup+AppleWatch+COVID19+Coronavirus+CryptoCurrency+DataHoarder+Documentaries+FreeEBOOKS+GooglePixel+ITCareerQuestions+IndiaInvestments+KindleFreebies+Piracy+Ubuntu+announcements+apple+aws+compsci+cscareerquestions+dataisbeautiful+devops+docker+gadgets+hackernews+india+ipad+iphone+juul+kindle+kubernetes+learnprogramming+linux+linuxadmin+mac+macapps+movies+mumbai+netsec+nextdns+onebag+osx+programming+science+solotravel+sysadmin+technology+television+todayilearned+todoist+travel+worldnews
                 
                 Hacker News:
-                https://apps.apple.com/us/app/hack-for-hacker-news-developer/id1464477788
-                https://edavis.github.io/hnrss
-                https://github.com/minimaxir/hacker-news-undocumented
-                https://hckrnews.com
-                https://hn.algolia.com
-                https://news.ycombinator.com
-                https://readhacker.news
-                https://showcase.metamate.io/hackernews-trends
-                https://t.me/best_hacker_news
-                https://t.me/hacker_news_feed
-                https://www.fb.com/hn.hiren.news
-                https://www.hackernewspapers.com
+                    https://apps.apple.com/us/app/hack-for-hacker-news-developer/id1464477788
+                    https://edavis.github.io/hnrss
+                    https://github.com/minimaxir/hacker-news-undocumented
+                    https://hckrnews.com
+                    https://hn.algolia.com
+                    https://news.ycombinator.com
+                    https://readhacker.news
+                    https://showcase.metamate.io/hackernews-trends
+                    https://t.me/best_hacker_news
+                    https://t.me/hacker_news_feed
+                    https://www.fb.com/hn.hiren.news
+                    https://www.hackernewspapers.com
 
                 YouTube:
-                https://www.youtube.com/channel/UCF0pVplsI8R5kcAqgtoRqoA (YouTube Worldwide Popular Right Now)
-                https://www.youtube.com/channel/UCAh9DbAZny_eoGFsYlH2JZw (YouTube India Popular Right Now)
-                https://www.youtube.com/user/SayedSharjeel/channels
+                    https://www.youtube.com/channel/UCF0pVplsI8R5kcAqgtoRqoA (YouTube Worldwide Popular Right Now)
+                    https://www.youtube.com/channel/UCAh9DbAZny_eoGFsYlH2JZw (YouTube India Popular Right Now)
+                    https://www.youtube.com/user/SayedSharjeel/channels
                 
                 Bookmarks:
-                Import http://Bookmarks.SharjeelSayed.com into your Browser or view online at https://pinboard.in/u:SharjeelSayed
-                https://github.com/SharjeelSayed?direction=desc&sort=stars&tab=stars (Starred Github Repositories)
-                https://stackexchange.com/users/6550/sharjeel?tab=bookmarks
-                https://cse.google.com/cse/publicurl?cx=013208504250323700475:mqurmsvnc8k (Google Custom Search Engine for Sharjeel's Bookmarks)
+                    Import http://Bookmarks.SharjeelSayed.com into your Browser or view online at https://pinboard.in/u:SharjeelSayed
+                    https://github.com/SharjeelSayed?direction=desc&sort=stars&tab=stars (Starred Github Repositories)
+                    https://stackexchange.com/users/6550/sharjeel?tab=bookmarks
+                    https://cse.google.com/cse/publicurl?cx=013208504250323700475:mqurmsvnc8k (Google Custom Search Engine for Sharjeel's Bookmarks)
                 
                 Tech News Notifications (iOS/Android):
-                Turn on the applet https://IFTTT.com/applets/456148p in the IFTTT Mobile app and add https://www.techmeme.com/feed.xml into the 'Feed URL' field of the applet.
+                    Turn on the applet https://IFTTT.com/applets/456148p in the IFTTT Mobile app and add https://www.techmeme.com/feed.xml into the 'Feed URL' field of the applet.
 
         Podcasts:
             Sources:
@@ -2209,6 +2209,7 @@ Contents:
                 https://news.ycombinator.com/item?id=12247401 (Moving 12 years of email from GMail to FastMail (cpbotha.net))
                 https://news.ycombinator.com/item?id=18054574 (Ask HN: Best alternative to Gmail?)
                 https://nomoregoogle.com
+                https://stackoverflow.com/questions/9807909/are-email-addresses-case-sensitive
                 https://www.emailprivacytester.com
             
             Email Hosting:
@@ -2377,53 +2378,53 @@ Contents:
                 https://www.amazon.com/Bushcraft-101-Field-Wilderness-Survival/dp/1440579776
 
     Additional Sources :
-            https://en.wikipedia.org/wiki/List_of_common_misconceptions
-            https://en.wikipedia.org/wiki/List_of_lists_of_lists
-            https://en.wikipedia.org/wiki/Wikipedia:Vital_articles
-            https://freenode.net
-            https://github.com/255kb/stack-on-a-budget
-            https://github.com/jbranchaud/til
-            https://github.com/jnv/lists
-            https://github.com/ripienaar/free-for-dev
-            https://github.com/rsapkf/goodies
-            https://github.com/topics/awesome
-            https://hackerspaces.org
-            https://hnprofile.com (Find an Expert on Hacker News)
-            https://learn-anything.xyz
-            https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#-48.5,-680.3,0
-            https://news.ycombinator.com/item?id=12209446 (How to Read a Book [pdf])
-            https://news.ycombinator.com/item?id=14087880 (Ask HN: What are some great “Free” services provided by IBM, Amazon, etc.?)
-            https://news.ycombinator.com/item?id=14637859 (Ask HN: What's your process for learning?)
-            https://news.ycombinator.com/item?id=17272715 (Ask HN: Any resources to learn the fundamentals of critical thinking?)
-            https://news.ycombinator.com/item?id=19521136 (Ask HN: What backpack are you using?)
-            https://news.ycombinator.com/item?id=20007108 (Ask HN: Do you keep a personal knowledge repository?)
-            https://news.ycombinator.com/item?id=20110922 (How to Draw Animals (1930) (dessinoprimaire.blogspot.com))
-            https://news.ycombinator.com/item?id=20146168 (Sleep tweaks boost night owls' wellbeing (bbc.com))
-            https://news.ycombinator.com/item?id=20225118 (Ask HN: Best free compute and other resources for startups?)
-            https://news.ycombinator.com/item?id=20371095 (Ask HN: Best Office Chair for Remote (Home Office) Work)
-            https://news.ycombinator.com/item?id=21310030 (Ask HN: How do you share/organize knowledge at work and life?)
-            https://news.ycombinator.com/item?id=21373931 (Ask HN: What do you automate in your life and work?)
-            https://news.ycombinator.com/item?id=21581361 (Ask HN: What's the most valuable thing you can learn in an hour?)
-            https://news.ycombinator.com/item?id=22849208 (Ask HN: Programs that saved you 100 hours?)
-            https://news.ycombinator.com/item?id=23390308 (Ask HN: What is the cheapest way to make a website?)
-            https://redditprofile.com (Find an Expert on Reddit)
-            https://sourceful.co.uk (Discover the best public GoogleDocs and Sheets)
-            https://twitter.com/search?q=Gone%20Free%20(from%3ASharjeelSayed)
-            https://wizardzines.com
-            https://www.justwatch.com/in?genres=doc
-            https://www.nala.ie/resources/better-handwriting-adults
-            https://www.producthunt.com
-            https://www.reddit.com/r/AskReddit/comments/4q91g9/what_free_things_online_should_everyone_take/d4r8foy
-            https://www.reddit.com/r/AskReddit/comments/6k0p7l/what_are_the_best_free_online_certificates_you
-            https://www.reddit.com/r/AskReddit/comments/6q2b8x/reddit_whats_become_clear_to_you_as_youve_gotten
-            https://www.reddit.com/r/AskReddit/comments/70q5f2/reddit_what_are_the_most_useful_askreddit_posts
-            https://www.reddit.com/r/india/wiki/useful_posts
-            https://www.reddit.com/r/sysadmin/comments/4oxxgv/your_favorite_scripts_you_have_stolen_or_made
+        https://en.wikipedia.org/wiki/List_of_common_misconceptions
+        https://en.wikipedia.org/wiki/List_of_lists_of_lists
+        https://en.wikipedia.org/wiki/Wikipedia:Vital_articles
+        https://freenode.net
+        https://github.com/255kb/stack-on-a-budget
+        https://github.com/jbranchaud/til
+        https://github.com/jnv/lists
+        https://github.com/ripienaar/free-for-dev
+        https://github.com/rsapkf/goodies
+        https://github.com/topics/awesome
+        https://hackerspaces.org
+        https://hnprofile.com (Find an Expert on Hacker News)
+        https://learn-anything.xyz
+        https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#-48.5,-680.3,0
+        https://news.ycombinator.com/item?id=12209446 (How to Read a Book [pdf])
+        https://news.ycombinator.com/item?id=14087880 (Ask HN: What are some great “Free” services provided by IBM, Amazon, etc.?)
+        https://news.ycombinator.com/item?id=14637859 (Ask HN: What's your process for learning?)
+        https://news.ycombinator.com/item?id=17272715 (Ask HN: Any resources to learn the fundamentals of critical thinking?)
+        https://news.ycombinator.com/item?id=19521136 (Ask HN: What backpack are you using?)
+        https://news.ycombinator.com/item?id=20007108 (Ask HN: Do you keep a personal knowledge repository?)
+        https://news.ycombinator.com/item?id=20110922 (How to Draw Animals (1930) (dessinoprimaire.blogspot.com))
+        https://news.ycombinator.com/item?id=20146168 (Sleep tweaks boost night owls' wellbeing (bbc.com))
+        https://news.ycombinator.com/item?id=20225118 (Ask HN: Best free compute and other resources for startups?)
+        https://news.ycombinator.com/item?id=20371095 (Ask HN: Best Office Chair for Remote (Home Office) Work)
+        https://news.ycombinator.com/item?id=21310030 (Ask HN: How do you share/organize knowledge at work and life?)
+        https://news.ycombinator.com/item?id=21373931 (Ask HN: What do you automate in your life and work?)
+        https://news.ycombinator.com/item?id=21581361 (Ask HN: What's the most valuable thing you can learn in an hour?)
+        https://news.ycombinator.com/item?id=22849208 (Ask HN: Programs that saved you 100 hours?)
+        https://news.ycombinator.com/item?id=23390308 (Ask HN: What is the cheapest way to make a website?)
+        https://redditprofile.com (Find an Expert on Reddit)
+        https://sourceful.co.uk (Discover the best public GoogleDocs and Sheets)
+        https://twitter.com/search?q=Gone%20Free%20(from%3ASharjeelSayed)
+        https://wizardzines.com
+        https://www.justwatch.com/in?genres=doc
+        https://www.nala.ie/resources/better-handwriting-adults
+        https://www.producthunt.com
+        https://www.reddit.com/r/AskReddit/comments/4q91g9/what_free_things_online_should_everyone_take/d4r8foy
+        https://www.reddit.com/r/AskReddit/comments/6k0p7l/what_are_the_best_free_online_certificates_you
+        https://www.reddit.com/r/AskReddit/comments/6q2b8x/reddit_whats_become_clear_to_you_as_youve_gotten
+        https://www.reddit.com/r/AskReddit/comments/70q5f2/reddit_what_are_the_most_useful_askreddit_posts
+        https://www.reddit.com/r/india/wiki/useful_posts
+        https://www.reddit.com/r/sysadmin/comments/4oxxgv/your_favorite_scripts_you_have_stolen_or_made
 
     Support this page with these referral links:
-            http://amex.in/refer/SharjScjfi (American Express)
-            https://db.tt/YL0e12GN (Dropbox 500 MB of bonus space)
-            https://mega.nz/C!vuhRiKpB (Mega.nz Extra Storage)
-            https://nextdns.io/?from=s2bsnju6 (30% off)
-            https://todoist.com/r/Sharjeel_Sayed_pndvuw (Todoist Premium free for 2 months)
-            https://www.expressrefer.com/refer-friend?referrer_id=39360476 (ExpressVPN 30 days free)
+        http://amex.in/refer/SharjScjfi (American Express)
+        https://db.tt/YL0e12GN (Dropbox 500 MB of bonus space)
+        https://mega.nz/C!vuhRiKpB (Mega.nz Extra Storage)
+        https://nextdns.io/?from=s2bsnju6 (30% off)
+        https://todoist.com/r/Sharjeel_Sayed_pndvuw (Todoist Premium free for 2 months)
+        https://www.expressrefer.com/refer-friend?referrer_id=39360476 (ExpressVPN 30 days free)
