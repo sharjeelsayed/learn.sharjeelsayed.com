@@ -2209,8 +2209,8 @@ Contents:
                 https://news.ycombinator.com/item?id=12247401 (Moving 12 years of email from GMail to FastMail (cpbotha.net))
                 https://news.ycombinator.com/item?id=18054574 (Ask HN: Best alternative to Gmail?)
                 https://nomoregoogle.com
+                https://pinboard.in/u:sharjeelsayed/t:email
                 https://stackoverflow.com/questions/9807909/are-email-addresses-case-sensitive
-                https://www.emailprivacytester.com
             
             Email Hosting:
                 https://gsuite.google.co.in/intl/en_in/pricing.html
@@ -2236,7 +2236,15 @@ Contents:
                 https://mailcow.email
                 https://mailinabox.email
                 https://mailu.io
+
+            Email Tests:
+                https://mxtoolbox.com/diagnostic.aspx
+                https://news.ycombinator.com/item?id=10408169 (Test the Spammyness of your Emails (mail-tester.com))
+                https://pingability.com/zoneinfo.jsp
+                https://talosintelligence.com
+                https://www.checktls.com
                 https://www.dnswl.org
+                https://www.emailprivacytester.com
 
             Email Backup:
                 http://gmvault.org
