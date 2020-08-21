@@ -512,6 +512,7 @@ Contents:
                 https://github.com/luong-komorebi/Awesome-Linux-Software
                 https://github.com/topics/linux?o=desc&s=stars
                 https://news.ycombinator.com/item?id=22564665 (Linux Kernel Teaching (linux-kernel-labs.github.io))
+                https://news.ycombinator.com/item?id=24027366 (	Low latency tuning guide)
                 https://news.ycombinator.com/item?id=3257393 (What's the one Linux command you wish you knew years ago?)
                 https://tldr.sh (Simplified and community-driven man pages)
                 https://tuxurls.com
@@ -1067,6 +1068,7 @@ Contents:
                 https://github.com/thedaviddias/Front-End-Performance-Checklist
                 https://github.com/topics/front-end?o=desc&s=stars
                 https://github.com/yangshun/front-end-interview-handbook
+                https://news.ycombinator.com/item?id=24130286 (Ask HN: Self-taught webdev with lots of free time. What should I learn?)
                 https://www.reddit.com/r/learnprogramming/comments/bvlsf7/the_odin_project_vs_colt_steeles_web_dev_bootcamp
                 https://www.reddit.com/r/webdev/comments/8lvsxa/is_colt_steele_web_dev_bootcamp_still_the_go_to
                 
@@ -1676,6 +1678,7 @@ Contents:
                 https://news.ycombinator.com/item?id=23118940 (Ask HN: What are your favorite developer-efficiency tips?)
                 https://news.ycombinator.com/item?id=23152092 (	Ask HN: I've been promoted to Architect. What do I need to learn/do to excel?)
                 https://news.ycombinator.com/item?id=23759547 (	Ask HN: What makes a good technical leader – any recommended books?)
+                https://news.ycombinator.com/item?id=24123372 (Classic books for tech leads or those aspiring to be (sourcelevel.io))
                 https://www.amazon.com/gp/bestsellers/books/2569 (Amazon Best Sellers in Time Management)
                 https://www.indiehackers.com
                 https://www.reddit.com/r/cscareerquestions/comments/6fnujy/soft_skills_for_programmers
@@ -2152,6 +2155,9 @@ Contents:
                     https://github.com/minimaxir/hacker-news-undocumented
                     https://hckrnews.com
                     https://hn.algolia.com
+                    https://hndex.ml (Search the full text of articles posted to Hacker News, with live updating)
+                    https://hndex.org (a search engine for finding articles posted to hacker news)
+                    https://hnprofile.com ((Find an Expert on Hacker News))
                     https://news.ycombinator.com
                     https://readhacker.news
                     https://showcase.metamate.io/hackernews-trends
@@ -2267,6 +2273,7 @@ Contents:
                 MailMate:
                     https://freron.com (MailMate)
                     https://freron.lighthouseapp.com/projects/58672-mailmate/tickets?q=state%3Aopen
+                    https://github.com/mailmate/mailmate_manual/wiki/Microsoft-Exchange
                     https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=mailmate&sort=byPopularity&type=all
                     https://lists.freron.com/listinfo/mailmate
                     https://tyler.io/additional-mailmate-tips
@@ -2363,12 +2370,13 @@ Contents:
                 https://pinboard.in/u:SharjeelSayed/t:torrent
 
             Sites:
+                http://rarbg.to or https://rarbgprx.org/torrents.php
                 https://1337x.to
+                https://popcorntime.app
+                https://put.io
+                https://thepiratebay.org or https://thepiratebay-proxylist.org or https://piratebayproxy.info
                 https://torrentz2.eu
                 https://www.limetorrents.info
-                https://popcorntime.app
-                http://rarbg.to or https://rarbgprx.org/torrents.php
-                https://thepiratebay.org or https://thepiratebay-proxylist.org or https://piratebayproxy.info
                 https://www.myanonamouse.net
                 https://www.qbittorrent.org
 
@@ -2396,11 +2404,11 @@ Contents:
         https://github.com/255kb/stack-on-a-budget
         https://github.com/jbranchaud/til
         https://github.com/jnv/lists
+        https://github.com/kautukkundan/Awesome-Profile-README-templates
         https://github.com/ripienaar/free-for-dev
         https://github.com/rsapkf/goodies
         https://github.com/topics/awesome
         https://hackerspaces.org
-        https://hnprofile.com (Find an Expert on Hacker News)
         https://learn-anything.xyz
         https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#-48.5,-680.3,0
         https://news.ycombinator.com/item?id=12209446 (How to Read a Book [pdf])
