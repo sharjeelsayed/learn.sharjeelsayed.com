@@ -816,6 +816,7 @@ Contents:
                 https://bash-my-aws.org
                 https://expeditedsecurity.com/aws-in-plain-english
                 https://github.com/anaibol/awesome-serverless
+                https://github.com/aramalipoor/aws-cost-saver
                 https://github.com/awsdocs
                 https://github.com/donnemartin/awesome-aws
                 https://github.com/serverless/serverless
@@ -2357,6 +2358,7 @@ Contents:
 
         BitTorrent:
             Sources:
+                https://alternativeto.net/software/seedr
                 https://github.com/Igglybuff/awesome-piracy
                 https://github.com/magicoflolis/Reddit-Piracy-Megathread
                 https://github.com/ngosang/trackerslist (Updated list of public BitTorrent trackers)
