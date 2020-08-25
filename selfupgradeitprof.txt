@@ -727,15 +727,16 @@ Contents:
                 
             Books and Courses:
                 Certified Kubernetes Administrator (CKA) with Practice Tests by Mumshad Mannambeth
-                https://kodekloud.com/p/certified-kubernetes-administrator-with-practice-tests
-                https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests
                 https://1337x.to/torrent/4381281/Udemy-Certified-Kubernetes-Administrator-CKA-with-Practice-Tests
-                https://kodekloud.com/purchase?product_id=1521961&coupon_code=UDEMYSTUDENT1718 (Labs - Certified Kubernetes Administrator with Practice Tests)
+                https://github.com/kodekloudhub/certified-kubernetes-administrator-course
                 https://github.com/mmumshad/kubernetes-the-hard-way
-                https://www.youtube.com/playlist?list=PL2We04F3Y_41lFKy19ig_9u-5Sj_RWTDL (JSON PATH)
-                https://kodekloud.com/p/json-path-quiz (JSON PATH Quiz- FREE COURSE)
                 https://join.slack.com/t/kodekloud/shared_invite/zt-dkvyibo4-A4JPw459fFtqv7OeR7Qg7w
+                https://kodekloud.com/p/certified-kubernetes-administrator-with-practice-tests
+                https://kodekloud.com/p/json-path-quiz (JSON PATH Quiz- FREE COURSE)
+                https://kodekloud.com/purchase?product_id=1521961&coupon_code=UDEMYSTUDENT1718 (Labs - Certified Kubernetes Administrator with Practice Tests)
                 https://www.fb.com/kodekloudtraining
+                https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests
+                https://www.youtube.com/playlist?list=PL2We04F3Y_41lFKy19ig_9u-5Sj_RWTDL (JSON PATH)
                 
                 Kubernetes: Up and Running: Dive into the Future of Infrastructure 2nd Edition
                 https://learning.oreilly.com/library/view/kubernetes-up-and/9781492046523
@@ -2102,6 +2103,8 @@ Contents:
                         https://ifttt.com/telegram
                         https://t.me/aximobot (Hi, i am a RSS and social network flows agregator)
                         https://t.me/best_hacker_news (Top stories from https://news.ycombinator.com (with 500+ score))
+                        https://t.me/chotamreaderbot (Helps make any link "preview" or have "instant view" on Telegram)
+                        https://t.me/CorsaBot (Make Instant View from any article, chat)
                         https://t.me/hacker_news_feed (Top stories from https://news.ycombinator.com (with 100+ score))
                         https://t.me/TheFeedReaderBot (The Feed Reader Bot monitors RSS feeds (and Twitter accounts), and sends messages when new posts are available.)
                         https://tdirectory.me
