@@ -63,6 +63,7 @@ Contents:
     Career:
         Interview Guides
         Resume Improvement
+        Portfolio
         Job Portals
         Job Search Engines
         Company and Salary Reviews
@@ -1417,15 +1418,16 @@ Contents:
         MOOC:
             Sources:
                 http://academictorrents.com
-                https://lifehacker.com/tag/lifehacker-u
                 http://www.openculture.com/freeonlinecourses#Computer Science Courses
                 https://archive.org/search.php?query=subject%3A%22UC+Berkeley%22
                 https://blog.github.com/2018-03-20-top-10-courses-on-github
+                https://freelearninglist.org
                 https://github.com/gerryguy311/CyberProfDevelopmentCovidResources
                 https://github.com/learn-awesome/learn-awesome
                 https://github.com/sindresorhus/awesome
                 https://hackr.io
                 https://lbry.com/news/20000-illegal-college-lectures-rescued
+                https://lifehacker.com/tag/lifehacker-u
                 https://news.ycombinator.com/item?id=10644518 (Ask HN: What's your favorite online course?)
                 https://news.ycombinator.com/item?id=13867016 (Ask HN: Which Berkeley Courses Should I Archive?)
                 https://news.ycombinator.com/item?id=14570002 (Startup School 2017 Presentations (startupschool.org))
@@ -1437,10 +1439,10 @@ Contents:
                 https://news.ycombinator.com/item?id=20385679 (Ask HN: What are your favorite YouTube channels to learn stuff?)
                 https://news.ycombinator.com/item?id=20583581 (Your favourite tutorial for total beginners?)
                 https://news.ycombinator.com/item?id=21450126 (Free Online Courses from Top Universities (openculture.com))
-                https://www.classcentral.com/collection/top-free-online-courses
-                https://www.classcentral.com/subject/cs
                 https://www.classcentral.com/collection/ivy-league-moocs?subject=cs
+                https://www.classcentral.com/collection/top-free-online-courses
                 https://www.classcentral.com/starting-this-month
+                https://www.classcentral.com/subject/cs
                 https://www.coursebuffet.com/sub/computer-science
                 https://www.coursera.org/browse/computer-science
                 https://www.cybrary.it
@@ -1564,6 +1566,16 @@ Contents:
                 https://news.ycombinator.com/item?id=22709183 (	Show HN: RxResume – A free and open-source resume builder (web.app))
                 https://www.reddit.com/r/sysadminresumes/top
                 https://pinboard.in/u:SharjeelSayed/t:resume
+
+        Portfolio:
+            Sources:
+                https://about.me
+                https://github.com/abhisheknaiidu/awesome-github-profile-readme
+                https://github.com/arturssmirnovs/github-profile-readme-generator
+                https://github.com/ikatyang/emoji-cheat-sheet
+                https://github.com/kautukkundan/Awesome-Profile-README-templates
+                https://github.com/topics/github-readme?o=desc&s=stars
+                https://youtu.be/n6d4KHSKqGk (UPDATE: Next Level GitHub Profile README (NEW) | GitHub Actions | Vercel | Spotify)
 
         Job Portals:
             Sources:
@@ -2062,6 +2074,7 @@ Contents:
                 https://github.com/greybax/awesome-IT-films
                 https://github.com/learn-anything/blogs
                 https://github.com/topics/blogs?o=desc&s=stars
+                https://kill-the-newsletter.com
                 https://news.vinc.cc
                 https://news.ycombinator.com/item?id=14086259 (Ask HN: Mailing lists that HN readers ought to know about?)
                 https://news.ycombinator.com/item?id=14163905 (Ask HN: Which companies have the best blogs written by their engineering team?)
