@@ -72,8 +72,10 @@
     <outline text="Leisure" title="Leisure">
       <outline text="AppHookup" title="AppHookup" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/AppHookup/.rss" htmlUrl="https://www.reddit.com/r/AppHookup/?t=1585512865"/>
       <outline text="juul:top scoring links" title="juul:top scoring links" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/juul/top/.rss" htmlUrl="https://www.reddit.com/r/juul/top/?t=1598004533"/>
+      <outline text="FastMail blog" title="FastMail blog" type="rss" xmlUrl="https://fastmail.blog/rss/" htmlUrl="https://fastmail.blog/"/>
       <outline text="Today in Indian History" title="Today in Indian History" type="rss" xmlUrl="https://www.kill-the-newsletter.com/feeds/gen2jlmbnd2b316n3pwd.xml" htmlUrl="https://www.kill-the-newsletter.com/alternate"/>
       <outline text="ipad, osx, AppleWatch, apple, macapps, mac, iphone:top scoring links " title="ipad, osx, AppleWatch, apple, macapps, mac, iphone:top scoring links " type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/AppleWatch%2Bapple%2Bipad%2Biphone%2Bmac%2Bmacapps%2Bosx/top/.rss" htmlUrl="https://www.reddit.com/r/AppleWatch+apple+ipad+iphone+mac+macapps+osx/top/?t=1598034869"/>
+      <outline text="1Password Blog" title="1Password Blog" type="rss" xmlUrl="https://blog.1password.com/index.xml" htmlUrl="https://blog.1password.com/"/>
       <outline text="kindle, KindleFreebies, FreeEBOOKS:top scoring links" title="kindle, KindleFreebies, FreeEBOOKS:top scoring links" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/FreeEBOOKS%2BKindleFreebies%2Bkindle/top/.rss" htmlUrl="https://www.reddit.com/r/FreeEBOOKS+KindleFreebies+kindle/top/?t=1597998007"/>
       <outline text="Product Hunt — The best new products, every day" title="Product Hunt — The best new products, every day" type="rss" xmlUrl="https://www.producthunt.com/feed" htmlUrl="http://www.producthunt.com/"/>
       <outline text="science:top scoring links " title="science:top scoring links " type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/science/top/.rss" htmlUrl="https://www.reddit.com/r/science/top/?t=1597998343"/>
@@ -87,6 +89,7 @@
       <outline text="todoist, 1Password, Alfred, nextdns:top scoring links" title="todoist, 1Password, Alfred, nextdns:top scoring links" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/1Password%2BAlfred%2Bnextdns%2Btodoist/top/.rss" htmlUrl="https://www.reddit.com/r/1Password+Alfred+nextdns+todoist/top/?t=1598199743"/>
       <outline text="YouTube Worldwide Popular Right Now" title="YouTube Worldwide Popular Right Now" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?playlist_id=PLrEnWoR732-BHrPp_Pm8_VleD68f9s14-" htmlUrl="https://www.youtube.com/feeds/videos.xml?playlist_id=PLrEnWoR732-BHrPp_Pm8_VleD68f9s14-"/>
       <outline text="Piracy, DataHoarder:top scoring links" title="Piracy, DataHoarder:top scoring links" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/DataHoarder%2BPiracy/top/.rss" htmlUrl="https://www.reddit.com/r/DataHoarder+Piracy/top/?t=1598003867"/>
+      <outline text="Inoreader blog" title="Inoreader blog" type="rss" xmlUrl="https://www.inoreader.com/blog/feed" htmlUrl="https://blog.inoreader.com/"/>
     </outline>
   </body>
 </opml>
