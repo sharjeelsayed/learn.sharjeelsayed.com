@@ -1574,6 +1574,7 @@ Contents:
                 https://github.com/arturssmirnovs/github-profile-readme-generator
                 https://github.com/ikatyang/emoji-cheat-sheet
                 https://github.com/kautukkundan/Awesome-Profile-README-templates
+                https://github.com/topics/github-profile-readme?o=desc&s=stars
                 https://github.com/topics/github-readme?o=desc&s=stars
                 https://youtu.be/n6d4KHSKqGk (UPDATE: Next Level GitHub Profile README (NEW) | GitHub Actions | Vercel | Spotify)
 
