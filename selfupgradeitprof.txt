@@ -1303,6 +1303,7 @@ Contents:
                 https://www.alfredapp.com/blog/tips-and-tricks/file-actions-from-alfred-or-finder
                 https://www.alfredapp.com/help/getting-started/cheatsheet
                 https://www.alfredapp.com/workflows
+                https://www.alfredworkflows.store
                 https://www.packal.org/workflow/amphetamine-control
                 https://www.packal.org/workflow/caffeinate-control
                 https://www.reddit.com/r/Alfred
@@ -1628,15 +1629,19 @@ Contents:
         Freelancer:
             Sources:
                 https://docs.google.com/spreadsheets/d/1JfNAbUX_lN9K3MCNHO15GJtJ5qpk7H9Cl3xTBwv2FR8 (Remote Jobs or Gigs Platforms)
+                https://hn.algolia.com/?dateRange=pastYear&page=0&prefix=true&query=upwork&sort=byPopularity&type=story
                 https://news.ycombinator.com/item?id=16651077 (Ask HN: How do you find freelance work?)
                 https://news.ycombinator.com/item?id=18829691 (Ask HN: Fastest way to get started with freelancing?)
                 https://news.ycombinator.com/item?id=19133864 (Ask HN: How bad is freelancing?)
                 https://news.ycombinator.com/item?id=21728436 (Ask HN: What mistakes did you make when starting as a consultant/freelancer?)
                 
             Sites:
-                https://www.guru.com
                 https://nomadprojects.io
+                https://www.fiverr.com
                 https://www.freelancer.com
+                https://www.guru.com
+                https://www.peopleperhour.com
+                https://www.toptal.com
                 https://www.upwork.com
 
         Management:
@@ -1991,6 +1996,7 @@ Contents:
                 Spotify:
                     https://open.spotify.com/album/6035JmOXELaAUjbaCzq7bu (Studying Music: Binaural Beats Sounds For Studying, Focus, Concentration and Ambient Study Music)
                     https://open.spotify.com/album/6XRukyQYxofq4QbPirgtpc (Brown Noise DLX)
+                    https://open.spotify.com/album/6YxOJgSL1EQONuJgyBIPhg (Ambient World by David Arkenstone)
                     https://open.spotify.com/genre/asmr-page
                     https://open.spotify.com/genre/study-page
                     https://open.spotify.com/playlist/37i9dQZF1DWXUpC6mczRpA (Mozart Study)
