@@ -67,7 +67,7 @@ Contents:
         Job Portals
         Job Search Engines
         Company and Salary Reviews
-        Freelancer
+        Freelancing
         Management
         Money
         Foreign Language
@@ -1626,7 +1626,7 @@ Contents:
                 https://www.levels.fyi
                 https://www.payscale.com/research/IN/Country=India/Salary
 
-        Freelancer:
+        Freelancing:
             Sources:
                 https://docs.google.com/spreadsheets/d/1JfNAbUX_lN9K3MCNHO15GJtJ5qpk7H9Cl3xTBwv2FR8 (Remote Jobs or Gigs Platforms)
                 https://hn.algolia.com/?dateRange=pastYear&page=0&prefix=true&query=upwork&sort=byPopularity&type=story
@@ -1634,6 +1634,7 @@ Contents:
                 https://news.ycombinator.com/item?id=18829691 (Ask HN: Fastest way to get started with freelancing?)
                 https://news.ycombinator.com/item?id=19133864 (Ask HN: How bad is freelancing?)
                 https://news.ycombinator.com/item?id=21728436 (Ask HN: What mistakes did you make when starting as a consultant/freelancer?)
+                https://www.reddit.com/r/Upwork+forhire+freelance
                 
             Sites:
                 https://nomadprojects.io
@@ -2171,7 +2172,7 @@ Contents:
                     https://www.techmeme.com
 
                 Reddit:
-                    https://www.reddit.com/r/1Password+AWSCertifications+Alfred+Android+AppHookup+AppleWatch+COVID19+Coronavirus+CryptoCurrency+DataHoarder+Documentaries+FreeEBOOKS+GooglePixel+ITCareerQuestions+IndiaInvestments+KindleFreebies+Piracy+Ubuntu+announcements+apple+aws+compsci+cscareerquestions+dataisbeautiful+devops+docker+gadgets+hackernews+india+ipad+iphone+juul+kindle+kubernetes+learnprogramming+linux+linuxadmin+mac+macapps+movies+mumbai+netsec+nextdns+onebag+osx+programming+science+solotravel+sysadmin+technology+television+todayilearned+todoist+travel+worldnews
+                    https://www.reddit.com/r/1Password+AWSCertifications+Alfred+Android+AppHookup+AppleWatch+COVID19+Coronavirus+CryptoCurrency+DataHoarder+Documentaries+FreeEBOOKS+GooglePixel+ITCareerQuestions+IndiaInvestments+KindleFreebies+Piracy+Ubuntu+Upwork+announcements+apple+aws+compsci+cscareerquestions+dataisbeautiful+devops+docker+forhire+freelance+gadgets+hackernews+india+ipad+iphone+juul+kindle+kubernetes+learnprogramming+linux+linuxadmin+mac+macapps+movies+mumbai+netsec+nextdns+onebag+osx+programming+science+solotravel+sysadmin+technology+television+todayilearned+todoist+travel+worldnews
                 
                 Hacker News:
                     https://apps.apple.com/us/app/hack-for-hacker-news-developer/id1464477788
