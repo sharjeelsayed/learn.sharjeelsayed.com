@@ -1635,16 +1635,16 @@ Contents:
                 https://news.ycombinator.com/item?id=19133864 (Ask HN: How bad is freelancing?)
                 https://news.ycombinator.com/item?id=21728436 (Ask HN: What mistakes did you make when starting as a consultant/freelancer?)
                 https://www.reddit.com/r/Upwork+forhire+freelance
+                https://www.upwork.com/press/2019/11/19/the-upwork-100-q3-2019
                 
-            Sites:
-                https://nomadprojects.io
-                https://www.fiverr.com
-                https://www.freelancer.com
-                https://www.guru.com
-                https://www.peopleperhour.com
-                https://www.toptal.com
-                https://www.upwork.com
-
+            Sites (Alexa rank sorted):
+                https://www.fiverr.com (291)
+                https://www.upwork.com (591)
+                https://www.freelancer.com (1426)
+                https://www.peopleperhour.com (4363)
+                https://www.toptal.com (6462)
+                https://www.guru.com (7377)
+                
         Management:
             Sources:
                 http://sabok.org (Guide to the Systems Administration Body of Knowledge)
