@@ -1635,7 +1635,10 @@ Contents:
                 https://news.ycombinator.com/item?id=19133864 (Ask HN: How bad is freelancing?)
                 https://news.ycombinator.com/item?id=21728436 (Ask HN: What mistakes did you make when starting as a consultant/freelancer?)
                 https://www.reddit.com/r/Upwork+forhire+freelance
+                https://www.upwork.com/press/2019/08/14/q2-2019-skills
                 https://www.upwork.com/press/2019/11/19/the-upwork-100-q3-2019
+                https://www.upwork.com/press/2020/09/01/upwork-releases-top-paying-programming-languages-for-independent-web-mobile-and-software-developers
+                https://youtu.be/PTzJlrahqgc (The COMPLETE Upwork Tutorial for Beginners!)
                 
             Sites (Alexa rank sorted):
                 https://www.fiverr.com (291)
