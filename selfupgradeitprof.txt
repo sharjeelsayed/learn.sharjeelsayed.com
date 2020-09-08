@@ -582,6 +582,7 @@ Contents:
                 https://github.com/onceupon/Bash-Oneliner
                 https://github.com/rupa/z (z - jump around)
                 https://github.com/topics/bash?o=desc&s=stars
+                https://mywiki.wooledge.org/BashPitfalls
                 https://news.ycombinator.com/item?id=14634964 (Ask HN: How can I get better at bash?)
                 https://news.ycombinator.com/item?id=22975437 (Shell Productivity Tips and Tricks (balthazar-rouberol.com))
                 https://switowski.com/blog/favorite-cli-tools
@@ -870,12 +871,15 @@ Contents:
         Azure:
             Sources:
                 https://acloud.guru/azure-cloud-training
+                https://acloudguru.com/blog/engineering/which-azure-certification-is-right-for-me
                 https://aka.ms/join-ask-azure
                 https://azure.microsoft.com/en-us/get-started
                 https://docs.microsoft.com/en-us/learn/azure
+                https://docs.microsoft.com/en-us/learn/certifications
                 https://www.pluralsight.com/partners/microsoft/azure
                 https://www.reddit.com/r/AZURE
                 https://www.reddit.com/r/AZURE/search/?q=course&restrict_sr=on&t=year
+                https://www.udemy.com/course/70534-azure (AZ-300/AZ-303 Azure Architecture Technologies Exam Prep 2020 by Scott Duffy)
 
         NGINX:
             Sources:
@@ -1500,9 +1504,6 @@ Contents:
                 The System Design Primer
                 https://github.com/donnemartin/system-design-primer
                 
-                Devops Interview Questions
-                https://github.com/Leo-G/DevopsWiki/wiki/Devops-Interview-Questions
-                
                 Awesome Interviews
                 https://github.com/MaximAbramchuck/awesome-interview-questions
                 
@@ -1595,20 +1596,19 @@ Contents:
                 https://www.reddit.com/r/india/comments/81r29c/your_onestop_guide_to_emigrating_long_term_to
                 https://www.reddit.com/r/india/comments/gja5eo/advice_for_indians_looking_to_study_abroad_and
                 
-            Sites:
-                https://www.linkedin.com/jobs
-                https://www.naukri.com
-                http://www.freejobalert.com
-                https://www.indeed.co.in
-                https://www.shine.com
-                https://www.glassdoor.co.in
-                https://www.freshersworld.com
-                https://www.monsterindia.com
-                https://www.timesjobs.com
-                https://www.fresherslive.com
-                https://angel.co
-                Note: Update your resume on the above sites every Sunday post 12 AM (IST).
-
+            Sites (Sorted by Alexa Rank):
+                https://www.linkedin.com/jobs (57)
+                https://www.naukri.com (441)
+                http://www.freejobalert.com (1,540)
+                https://www.glassdoor.co.in (2,149)
+                https://www.fresherslive.com (2,193)
+                https://www.shine.com (2,988)
+                https://www.monsterindia.com (4,215)
+                https://www.timesjobs.com (4,719)
+                https://angel.co (5,741)
+                https://www.freshersworld.com (7,367)
+                https://www.indeed.co.in (11,776)
+                
         Job Search Engines:
             Sites:
                 https://www.indeed.co.in
@@ -1617,6 +1617,8 @@ Contents:
                 https://india.recruit.net
                 https://www.simplyhired.co.in
                 https://whoishiring.io
+                https://weworkremotely.com/categories/remote-devops-sysadmin-jobs
+                https://remoteok.io
 
         Company and Salary Reviews:
             Sites:
@@ -1642,11 +1644,11 @@ Contents:
                 
             Sites (Alexa rank sorted):
                 https://www.fiverr.com (291)
-                https://www.upwork.com (591)
-                https://www.freelancer.com (1426)
-                https://www.peopleperhour.com (4363)
+                https://www.upwork.com/freelance-jobs (591)
+                https://www.freelancer.com/jobs (1426)
+                https://www.peopleperhour.com/freelance-jobs (4363)
                 https://www.toptal.com (6462)
-                https://www.guru.com (7377)
+                https://www.guru.com/d/jobs (7377)
                 
         Management:
             Sources:
@@ -2175,7 +2177,7 @@ Contents:
                     https://www.techmeme.com
 
                 Reddit:
-                    https://www.reddit.com/r/1Password+AWSCertifications+Alfred+Android+AppHookup+AppleWatch+COVID19+Coronavirus+CryptoCurrency+DataHoarder+Documentaries+FreeEBOOKS+GooglePixel+ITCareerQuestions+IndiaInvestments+KindleFreebies+Piracy+Ubuntu+Upwork+announcements+apple+aws+compsci+cscareerquestions+dataisbeautiful+devops+docker+forhire+freelance+gadgets+hackernews+india+ipad+iphone+juul+kindle+kubernetes+learnprogramming+linux+linuxadmin+mac+macapps+movies+mumbai+netsec+nextdns+onebag+osx+programming+science+solotravel+sysadmin+technology+television+todayilearned+todoist+travel+worldnews
+                    https://www.reddit.com/r/1Password+AWSCertifications+Alfred+Android+AppHookup+AppleWatch+COVID19+Coronavirus+CryptoCurrency+DataHoarder+Documentaries+FreeEBOOKS+GooglePixel+ITCareerQuestions+IndiaInvestments+KindleFreebies+Piracy+Ubuntu+Upwork+announcements+apple+aws+compsci+cscareerquestions+dataisbeautiful+devops+docker+forhire+freelance+gadgets+hackernews+india+ipad+iphone+juul+kindle+kubernetes+learnprogramming+linux+linuxadmin+linuxupskillchallenge+mac+macapps+movies+mumbai+netsec+nextdns+onebag+osx+programming+science+solotravel+sysadmin+technology+television+todayilearned+todoist+travel+worldnews
                 
                 Hacker News:
                     https://apps.apple.com/us/app/hack-for-hacker-news-developer/id1464477788
