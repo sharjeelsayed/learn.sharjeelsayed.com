@@ -706,6 +706,7 @@ Contents:
                 https://github.com/zegl/kube-score (Kubernetes object analysis with recommendations for improved reliability and security)
                 https://goo.gl/Rywkpd (The Kubernetes Learning Resources List)
                 https://k3s.io
+                https://k8syaml.com
                 https://kind.sigs.k8s.io
                 https://kubernetes.io/docs/concepts
                 https://kubernetes.io/docs/reference/kubectl/cheatsheet
@@ -1135,6 +1136,10 @@ Contents:
                 https://www.udemy.com/topic/git
                 
             Books and Courses:
+                Complete Git Guide: Understand and master Git and GitHub by Bogdan Stashchuk
+                https://www.udemy.com/course/git-and-github-complete-guide
+                https://youtu.be/3FKrszHcIsA
+
                 Git from the Bottom Up
                 https://github.com/jwiegley/git-from-the-bottom-up
                 https://jwiegley.github.io/git-from-the-bottom-up
@@ -2457,6 +2462,7 @@ Contents:
         https://news.ycombinator.com/item?id=21581361 (Ask HN: What's the most valuable thing you can learn in an hour?)
         https://news.ycombinator.com/item?id=22849208 (Ask HN: Programs that saved you 100 hours?)
         https://news.ycombinator.com/item?id=23390308 (Ask HN: What is the cheapest way to make a website?)
+        https://news.ycombinator.com/item?id=24436135 (Ask HN: What is your favorite motto?)
         https://redditprofile.com (Find an Expert on Reddit)
         https://sourceful.co.uk (Discover the best public GoogleDocs and Sheets)
         https://twitter.com/search?q=Gone%20Free%20(from%3ASharjeelSayed)
