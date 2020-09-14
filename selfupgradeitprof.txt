@@ -39,6 +39,7 @@ Contents:
         PostgreSQL
         Redis
         Ansible
+        Terraform
         Puppet
         Python
         C
@@ -477,6 +478,7 @@ Contents:
             http://serverfault.com/questions/1046/what-is-the-single-most-influential-book-every-sysadmin-should-read
             https://devopsnewsletters.com
             https://github.com/AcalephStorage/awesome-devops
+            https://github.com/Artemmkin/infrastructure-as-code-tutorial
             https://github.com/dastergon/awesome-sre
             https://github.com/kahun/awesome-sysadmin
             https://github.com/Leo-G/DevopsWiki
@@ -953,7 +955,7 @@ Contents:
                 https://news.ycombinator.com/item?id=23208181 (Ask HN: What PostgreSQL client do you use?)
             
             Books and Courses:
-                https://www.postgresql.org/docs/9.3/static/index.html
+                https://www.postgresql.org/docs/current
                 https://pgexercises.com
 
         Redis:
@@ -963,12 +965,22 @@ Contents:
         Ansible:
             Sources:
                 https://docs.ansible.com/ansible
+                https://galaxy.ansible.com
                 https://github.com/topics/ansible?o=desc&s=stars
 
             Books and Courses:
                 Ansible for the Absolute Beginner - Hands-On - DevOps by Mumshad Mannambeth
                 https://www.udemy.com/course/learn-ansible
+                https://learning.oreilly.com/videos/kubernetes-for-absolute/9781838555962
                 https://1337x.to/torrent/3751111/Udemy-Ansible-for-the-Absolute-Beginner-Hands-On-DevOps
+
+                Ansible Advanced - Hands-On - DevOps by Mumshad Mannambeth
+                https://www.udemy.com/course/learn-ansible-advanced
+                https://learning.oreilly.com/videos/ansible-advanced/9781789136470
+                https://1337x.to/torrent/4020174/FreeCourseWeb-Udemy-Ansible-Advanced-Hands-On-DevOps
+
+                Ansible Certification Preparation Course by Mumshad Mannambeth
+                https://kodekloud.com/p/ansible-certification
                 
                 Ansible for DevOps
                 https://www.ansiblefordevops.com
@@ -988,6 +1000,10 @@ Contents:
             Additional Courses:
                 Ansible Crash Course by Michael Crilly
                 https://www.thecloud.coach/courses/ansible-crash-course
+
+        Terraform:
+            Sources:
+                https://learn.hashicorp.com/terraform
 
         Puppet:
             Books and Courses:
@@ -1587,6 +1603,7 @@ Contents:
 
         Job Portals:
             Sources:
+                https://docs.google.com/spreadsheets/d/1TLJSlNxCbwRNxy14Toe1PYwbCTY7h0CNHeer9J0VRzE/htmlview#gid=1279011369 (900+ Startups hiring Remotely in 2020 - by Remotive.io)
                 https://github.com/lukasz-madon/awesome-remote-job
                 https://github.com/poteto/hiring-without-whiteboards
                 https://news.ycombinator.com/item?id=14686745 (Ask HN: What are some of the best job boards you have seen (any industry)?)
@@ -1597,11 +1614,12 @@ Contents:
                 https://news.ycombinator.com/item?id=17047736 (Ask HN: How to become a remote contractor?)
                 https://news.ycombinator.com/item?id=19024575 (Ask HN: Highest paying remote companies?)
                 https://news.ycombinator.com/item?id=19280341 (Ask HN: Tools or sites you use to scope out a workplace before taking a job?)
-                https://pinboard.in/u:SharjeelSayed/t:jobs
                 https://www.reddit.com/r/india/comments/81r29c/your_onestop_guide_to_emigrating_long_term_to
                 https://www.reddit.com/r/india/comments/gja5eo/advice_for_indians_looking_to_study_abroad_and
+                https://pinboard.in/u:SharjeelSayed/t:jobs
                 
             Sites (Sorted by Alexa Rank):
+                https://stackoverflow.com/jobs (49)
                 https://www.linkedin.com/jobs (57)
                 https://www.naukri.com (441)
                 http://www.freejobalert.com (1,540)
@@ -1616,7 +1634,6 @@ Contents:
                 
         Job Search Engines:
             Sites:
-                https://www.indeed.co.in
                 https://stackoverflow.com/jobs
                 https://www.placementindia.com
                 https://india.recruit.net
