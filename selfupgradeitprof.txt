@@ -845,6 +845,12 @@ Contents:
                 https://portal.tutorialsdojo.com/courses/aws-certified-solutions-architect-associate-practice-exams
                 https://www.udemy.com/course/aws-certified-solutions-architect-associate-amazon-practice-exams-saa-c02
 
+                Ultimate AWS Certified Developer Associate 2020 - NEW! by Stephane Maarek
+                https://www.udemy.com/course/aws-certified-developer-associate-dva-c01
+                https://courses.datacumulus.com/downloads/certified-developer-k92
+                https://courses.datacumulus.com (Discount codes for the Course)
+                https://1337x.to/torrent/4471594/Udemy-Ultimate-AWS-Certified-Developer-Associate-2020-NEW-Latest-Updated-Giga-Course
+
                 Amazon Web Services in Action 2nd Edition
                 https://www.amazon.com/Amazon-Services-Action-Andreas-Wittig/dp/1617295116
                 https://www.manning.com/books/amazon-web-services-in-action-second-edition
@@ -1690,6 +1696,7 @@ Contents:
                 https://www.peopleperhour.com/freelance-jobs (4363)
                 https://www.toptal.com (6462)
                 https://www.guru.com/d/jobs (7377)
+                https://www.freelancermap.com/it-projects.html (94,605)
                 
         Management:
             Sources:
