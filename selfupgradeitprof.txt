@@ -908,10 +908,12 @@ Contents:
             Sources:
                 https://github.com/topics/nginx?o=desc&s=stars
                 https://news.ycombinator.com/item?id=23597294 (Nginx UI – Access and modify the Nginx configurations files without CLI (github.com))
+                https://nginx.org/en/docs
 
             Books and Courses:
-                NGINX documentation
-                https://nginx.org/en/docs
+                NGINX Fundamentals: High Performance Servers from Scratch by Ray Viljoen 
+                https://www.udemy.com/course/nginx-fundamentals
+                https://1337x.to/torrent/4101963/Udemy-Nginx-Fundamentals-High-Performance-Servers-from-Scratch-TP
                 
                 NGINX HTTP Server - Third Edition
                 https://www.amazon.com/Nginx-HTTP-Server-Clement-Nedelcu-ebook/dp/B016DPU3JS
