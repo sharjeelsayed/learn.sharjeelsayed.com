@@ -819,6 +819,7 @@ Contents:
         AWS:
             Sources:
                 https://adayinthelifeof.nl/2020/05/20/aws.html (A List of One-sentence Descriptions of AWS Services)
+                https://aws.amazon.com/getting-started/hands-on
                 https://bash-my-aws.org
                 https://expeditedsecurity.com/aws-in-plain-english
                 https://github.com/anaibol/awesome-serverless
@@ -883,6 +884,25 @@ Contents:
                 https://www.reddit.com/r/AZURE
                 https://www.reddit.com/r/AZURE/search/?q=course&restrict_sr=on&t=year
                 https://www.udemy.com/course/70534-azure (AZ-300/AZ-303 Azure Architecture Technologies Exam Prep 2020 by Scott Duffy)
+
+        Terraform:
+            Sources:
+                https://github.com/shuaibiyy/awesome-terraform
+                https://github.com/topics/infrastructure-as-code?o=desc&s=stars
+                https://github.com/topics/terraform?o=desc&s=stars
+                https://learn.hashicorp.com/terraform
+                https://www.reddit.com/r/Terraform/comments/iguorh/best_terraform_course
+
+            Books and Courses:
+                HashiCorp Certified: Terraform Associate 2020
+                https://www.udemy.com/course/terraform-beginner-to-advanced
+                https://github.com/zealvora/coupon-codes
+
+                Terraform Tutorial by Will Brock
+                https://www.youtube.com/playlist?list=PL8HowI-L-3_9bkocmR3JahQ4Y-Pbqs2Nt
+
+                Terraform: Up & Running: Writing Infrastructure as Code 2nd Edition
+                https://www.amazon.com/Terraform-Running-Writing-Infrastructure-Code/dp/1492046906
 
         NGINX:
             Sources:
@@ -1000,10 +1020,6 @@ Contents:
             Additional Courses:
                 Ansible Crash Course by Michael Crilly
                 https://www.thecloud.coach/courses/ansible-crash-course
-
-        Terraform:
-            Sources:
-                https://learn.hashicorp.com/terraform
 
         Puppet:
             Books and Courses:
@@ -1453,6 +1469,7 @@ Contents:
                 https://github.com/sindresorhus/awesome
                 https://hackr.io
                 https://lbry.com/news/20000-illegal-college-lectures-rescued
+                https://learning.oreilly.com
                 https://lifehacker.com/tag/lifehacker-u
                 https://news.ycombinator.com/item?id=10644518 (Ask HN: What's your favorite online course?)
                 https://news.ycombinator.com/item?id=13867016 (Ask HN: Which Berkeley Courses Should I Archive?)
