@@ -915,6 +915,7 @@ Contents:
                 https://github.com/topics/nginx?o=desc&s=stars
                 https://news.ycombinator.com/item?id=23597294 (Nginx UI – Access and modify the Nginx configurations files without CLI (github.com))
                 https://nginx.org/en/docs
+                https://www.digitalocean.com/community/tools/nginx (The easiest way to configure a performant, secure, and stable NGINX server.)
 
             Books and Courses:
                 NGINX Fundamentals: High Performance Servers from Scratch by Ray Viljoen 
@@ -1505,6 +1506,7 @@ Contents:
                 https://www.real.discount (Discount coupons for Popular courses and MOOC Platforms)
                 https://www.reddit.com/r/DataHoarder/comments/c6fh4x/after_hoarding_over_50k_youtube_videos_here_is
                 https://www.reddit.com/r/sysadmin/comments/65wdum/whats_your_favorite_selfstudy_resource_paid_free
+                https://www.reddit.com/r/udemyfreebies
                 https://www.sololearn.com
                 https://www.udacity.com/courses/all
                 https://www.udemy.com/courses/free/?p=12&sort=popularity
@@ -1655,6 +1657,7 @@ Contents:
                 https://www.timesjobs.com (4,719)
                 https://angel.co (5,741)
                 https://www.freshersworld.com (7,367)
+                https://www.hirist.com (12462)
                 https://www.indeed.co.in (11,776)
                 
         Job Search Engines:
@@ -1666,6 +1669,14 @@ Contents:
                 https://whoishiring.io
                 https://weworkremotely.com/categories/remote-devops-sysadmin-jobs
                 https://remoteok.io
+
+            Dubai Job Sites:
+                https://www.bayt.com (2,320)
+                https://www.naukrigulf.com (4,844)
+                https://www.gulftalent.com (11,291)
+                https://www.indeed.ae (17463)
+                https://www.monstergulf.com (44,829)
+                https://www.wisdomjobsgulf.com (860,577)
 
         Company and Salary Reviews:
             Sites:
