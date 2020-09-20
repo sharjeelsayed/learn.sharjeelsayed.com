@@ -697,7 +697,6 @@ Contents:
                 https://chrisshort.net/kubernetes-illustrated-childrens-guide
                 https://github.com/askmeegs/learn-istio
                 https://github.com/dennyzhang/cheatsheet-kubernetes-A4
-                https://github.com/derailed/k9s
                 https://github.com/jamiehannaford/what-happens-when-k8s
                 https://github.com/kelseyhightower/kubernetes-the-hard-way
                 https://github.com/kubernetes/kubernetes
@@ -709,7 +708,9 @@ Contents:
                 https://goo.gl/Rywkpd (The Kubernetes Learning Resources List)
                 https://k3s.io
                 https://k8syaml.com
+                https://k9scli.io (Kubernetes CLI To Manage Your Clusters In Style!)
                 https://kind.sigs.k8s.io
+                https://kompose.io (A conversion tool to go from Docker Compose to Kubernetes)
                 https://kubernetes.io/docs/concepts
                 https://kubernetes.io/docs/reference/kubectl/cheatsheet
                 https://kubernetes.io/docs/tasks
@@ -912,10 +913,22 @@ Contents:
 
         NGINX:
             Sources:
+                https://docs.nginx.com/nginx/admin-guide/monitoring/logging
+                https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange
+                https://en.wikipedia.org/wiki/Elliptic-curve_Diffie%E2%80%93Hellman
+                https://gist.github.com/willurd/5720255 (Big list of http static server one-liners)
+                https://github.com/fcambus/nginx-resources
                 https://github.com/topics/nginx?o=desc&s=stars
+                https://github.com/trimstray/nginx-admins-handbook
                 https://news.ycombinator.com/item?id=23597294 (Nginx UI – Access and modify the Nginx configurations files without CLI (github.com))
                 https://nginx.org/en/docs
                 https://www.digitalocean.com/community/tools/nginx (The easiest way to configure a performant, secure, and stable NGINX server.)
+                https://www.digitalocean.com/community/tutorials?q=nginx
+                https://www.digitalocean.com/community/tutorials/understanding-and-implementing-fastcgi-proxying-in-nginx
+                https://www.nginx.com/blog/nginx-1-13-9-http2-server-push
+                https://www.nginx.com/resources/wiki/start/topics/depth/ifisevil
+                https://www.nginx.com/resources/wiki/start/topics/examples/systemd
+                https://www.nginx.com/resources/wiki/start/topics/tutorials/config_pitfalls
 
             Books and Courses:
                 NGINX Fundamentals: High Performance Servers from Scratch by Ray Viljoen 
