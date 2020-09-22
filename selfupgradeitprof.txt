@@ -700,6 +700,7 @@ Contents:
                 https://github.com/jamiehannaford/what-happens-when-k8s
                 https://github.com/kelseyhightower/kubernetes-the-hard-way
                 https://github.com/kubernetes/kubernetes
+                https://github.com/LeCoupa/awesome-cheatsheets/blob/master/tools/kubernetes.md
                 https://github.com/nkuba/k8s-admin-helper
                 https://github.com/ramitsurana/awesome-kubernetes
                 https://github.com/topics/cka?o=desc&s=stars
@@ -733,6 +734,7 @@ Contents:
                 
             Books and Courses:
                 Certified Kubernetes Administrator (CKA) with Practice Tests by Mumshad Mannambeth
+                https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests
                 https://1337x.to/torrent/4381281/Udemy-Certified-Kubernetes-Administrator-CKA-with-Practice-Tests
                 https://github.com/kodekloudhub/certified-kubernetes-administrator-course
                 https://github.com/mmumshad/kubernetes-the-hard-way
@@ -741,7 +743,6 @@ Contents:
                 https://kodekloud.com/p/json-path-quiz (JSON PATH Quiz- FREE COURSE)
                 https://kodekloud.com/purchase?product_id=1521961&coupon_code=UDEMYSTUDENT1718 (Labs - Certified Kubernetes Administrator with Practice Tests)
                 https://www.fb.com/kodekloudtraining
-                https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests
                 https://www.youtube.com/playlist?list=PL2We04F3Y_41lFKy19ig_9u-5Sj_RWTDL (JSON PATH)
                 
                 Kubernetes: Up and Running: Dive into the Future of Infrastructure 2nd Edition
@@ -898,7 +899,11 @@ Contents:
                 https://github.com/topics/infrastructure-as-code?o=desc&s=stars
                 https://github.com/topics/terraform?o=desc&s=stars
                 https://learn.hashicorp.com/terraform
+                https://medium.com/@brenspiration/free-online-courses-on-kubernetes-docker-products-terraform-2a3cd296ce95
+                https://www.katacoda.com/courses/terraform
                 https://www.reddit.com/r/Terraform/comments/iguorh/best_terraform_course
+                https://www.thecloud.coach/terraform-crash-course
+                https://www.udemy.com/course/learn-devops-kubernetes-deployment-by-kops-and-terraform
 
             Books and Courses:
                 HashiCorp Certified: Terraform Associate 2020
@@ -2179,6 +2184,7 @@ Contents:
                 https://news.ycombinator.com/item?id=22800136 (Ask HN: What is your blog and why should I read it?)
                 https://news.ycombinator.com/item?id=23206259 (Ask HN: What are some hard-tech blogs that you follow?)
                 https://news.ycombinator.com/item?id=23583629 (RSS Box – RSS for websites that do not support RSS (rssbox.herokuapp.com))
+                https://news.ycombinator.com/item?id=24539445 (Ask HN: Favourite blogs?)
                 https://news.ycombinator.com/item?id=9836023 (Ask HN: What tech blogs, podcasts do you follow outside of HN?)
                 https://wiki.nikitavoloboev.xyz/research/blogs#favorite-blogs
                 https://www.reddit.com/r/AskReddit/comments/9nggyv/what_is_a_great_youtube_channel_to_binge_watch
@@ -2384,6 +2390,7 @@ Contents:
             Tlds:
                 https://hostingtribunal.com/blog/tld-statistics
                 https://tld-list.com
+                https://www.domainsfortherestofus.com
                 https://www.hayksaakian.com/most-popular-tlds
                 https://www.icdsoft.com/blog/what-are-the-most-popular-tlds-domain-extensions
                 https://www.spamhaus.org/statistics/tlds
