@@ -707,6 +707,7 @@ Contents:
                 https://github.com/topics/kubernetes?o=desc&s=stars
                 https://github.com/zegl/kube-score (Kubernetes object analysis with recommendations for improved reliability and security)
                 https://goo.gl/Rywkpd (The Kubernetes Learning Resources List)
+                https://hackr.io/tutorials/learn-kubernetes
                 https://k3s.io
                 https://k8syaml.com
                 https://k9scli.io (Kubernetes CLI To Manage Your Clusters In Style!)
@@ -720,6 +721,7 @@ Contents:
                 https://kubernetesbyexample.com
                 https://labs.play-with-k8s.com
                 https://learning.oreilly.com/search/?query=kubernetes
+                https://medium.com/faun/35-advanced-tutorials-to-learn-kubernetes-dae5695b1f18
                 https://medium.com/faun/be-fast-with-kubectl-1-18-ckad-cka-31be00acc443
                 https://napo.io/posts/kubernetes-the-real-hard-way-on-aws
                 https://news.ycombinator.com/item?id=22597880 (Kind - run local Kubernetes clusters using Docker (k8s.io))
@@ -779,6 +781,13 @@ Contents:
 
                 Kubernetes for Full-Stack Developers
                 https://www.digitalocean.com/community/curriculums/kubernetes-for-full-stack-developers
+
+            K8s Visual management (Sorted by Alexa Rankings)
+                https://k8slens.dev (536,393)
+                https://infra.app (1,617,880)
+                https://k9scli.io (2,196,732)
+                https://kubevious.io (2,345,385)
+                https://octant.dev (4,053,937)
         
         VMware:
             Sources:
@@ -822,6 +831,7 @@ Contents:
             Sources:
                 https://adayinthelifeof.nl/2020/05/20/aws.html (A List of One-sentence Descriptions of AWS Services)
                 https://aws.amazon.com/getting-started/hands-on
+                https://awsvideocatalog.com (AWS Video Catalog is a website that collects all the official Amazon videos)
                 https://bash-my-aws.org
                 https://expeditedsecurity.com/aws-in-plain-english
                 https://github.com/anaibol/awesome-serverless
@@ -904,11 +914,17 @@ Contents:
                 https://www.reddit.com/r/Terraform/comments/iguorh/best_terraform_course
                 https://www.thecloud.coach/terraform-crash-course
                 https://www.udemy.com/course/learn-devops-kubernetes-deployment-by-kops-and-terraform
+                https://www.facebook.com/groups/840062592768074 (Learn DevOps: Continuously Deliver Better Software)
 
             Books and Courses:
                 HashiCorp Certified: Terraform Associate 2020
                 https://www.udemy.com/course/terraform-beginner-to-advanced
                 https://github.com/zealvora/coupon-codes
+
+                Learn DevOps: Infrastructure Automation With Terraform by Edward Viaene
+                https://www.udemy.com/course/learn-devops-infrastructure-automation-with-terraform
+                https://github.com/wardviaene/terraform-course
+                https://1337x.to/torrent/3864033/Udemy-Learn-DevOps-Infrastructure-Automation-With-Terraform
 
                 Terraform Tutorial by Will Brock
                 https://www.youtube.com/playlist?list=PL8HowI-L-3_9bkocmR3JahQ4Y-Pbqs2Nt
