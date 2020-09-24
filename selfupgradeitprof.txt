@@ -905,16 +905,17 @@ Contents:
 
         Terraform:
             Sources:
+                https://github.com/Artemmkin/infrastructure-as-code-tutorial
                 https://github.com/shuaibiyy/awesome-terraform
                 https://github.com/topics/infrastructure-as-code?o=desc&s=stars
                 https://github.com/topics/terraform?o=desc&s=stars
                 https://learn.hashicorp.com/terraform
                 https://medium.com/@brenspiration/free-online-courses-on-kubernetes-docker-products-terraform-2a3cd296ce95
+                https://www.facebook.com/groups/840062592768074 (Learn DevOps: Continuously Deliver Better Software)
                 https://www.katacoda.com/courses/terraform
                 https://www.reddit.com/r/Terraform/comments/iguorh/best_terraform_course
                 https://www.thecloud.coach/terraform-crash-course
                 https://www.udemy.com/course/learn-devops-kubernetes-deployment-by-kops-and-terraform
-                https://www.facebook.com/groups/840062592768074 (Learn DevOps: Continuously Deliver Better Software)
 
             Books and Courses:
                 HashiCorp Certified: Terraform Associate 2020
@@ -1029,6 +1030,8 @@ Contents:
             Sources:
                 https://docs.ansible.com/ansible
                 https://galaxy.ansible.com
+                https://github.com/ansible/ansible-lint (checks playbooks for practices and behaviour that could potentially be improved.)
+                https://github.com/Artemmkin/infrastructure-as-code-tutorial
                 https://github.com/topics/ansible?o=desc&s=stars
 
             Books and Courses:
@@ -1044,9 +1047,13 @@ Contents:
 
                 Ansible Certification Preparation Course by Mumshad Mannambeth
                 https://kodekloud.com/p/ansible-certification
+
+                Ansible 101 by Jeff Geerling
+                https://www.youtube.com/playlist?list=PL2_OBreMn7FqZkvMYt6ATmgC0KAGGJNAN
                 
-                Ansible for DevOps
+                Ansible for DevOps by Jeff Geerling
                 https://www.ansiblefordevops.com
+                https://github.com/geerlingguy/ansible-for-devops
                 
                 Ansible tutorial
                 https://github.com/leucos/ansible-tuto
