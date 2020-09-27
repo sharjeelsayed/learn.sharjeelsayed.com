@@ -49,6 +49,7 @@ Contents:
         Tomcat
         Regex
         Git
+        Jenkins
         Vim
         ELK
         Security
@@ -737,7 +738,6 @@ Contents:
             Books and Courses:
                 Certified Kubernetes Administrator (CKA) with Practice Tests by Mumshad Mannambeth
                 https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests
-                https://1337x.to/torrent/4381281/Udemy-Certified-Kubernetes-Administrator-CKA-with-Practice-Tests
                 https://github.com/kodekloudhub/certified-kubernetes-administrator-course
                 https://github.com/mmumshad/kubernetes-the-hard-way
                 https://join.slack.com/t/kodekloud/shared_invite/zt-dkvyibo4-A4JPw459fFtqv7OeR7Qg7w
@@ -773,7 +773,6 @@ Contents:
             Additional Material:
                 Kubernetes The Hard Way
                 https://linuxacademy.com/course/kubernetes-the-hard-way
-                https://1337x.to/torrent/3612019/LinuxAcademy-Kubernetes-the-Hard-Way-FCO
                 
                 Kubernetes Learning Path :50 Days From Zero To Hero with Kubernetes by Azure
                 https://azure.microsoft.com/en-us/resources/kubernetes-learning-path
@@ -1060,6 +1059,10 @@ Contents:
                 
                 Interactive Ansible tutorials with dead simple setup via Docker
                 https://github.com/turkenh/ansible-interactive-tutorial
+
+                Ansible for Kubernetes by Jeff Geerling
+                https://www.ansibleforkubernetes.com
+                https://github.com/geerlingguy/ansible-for-kubernetes
                 
                 Ansible Videos
                 https://www.ansible.com/videos
@@ -1111,6 +1114,9 @@ Contents:
                 
                 A Gentle Introduction to Programming Using Python
                 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011
+
+                Python Tutorials by Corey Schafer
+                https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU
 
         C:
             Sources:
@@ -1215,7 +1221,9 @@ Contents:
                 https://ohshitgit.com
                 https://www.reddit.com/r/git/top
                 https://www.reddit.com/r/programming/comments/fd9zpj/becoming_a_git_pro_part_1_internal_git/fjge9vy
+                https://www.sourcetreeapp.com
                 https://www.udemy.com/topic/git
+                https://xosh.org/explain-git-in-simple-words/
                 
             Books and Courses:
                 Complete Git Guide: Understand and master Git and GitHub by Bogdan Stashchuk
@@ -1239,6 +1247,17 @@ Contents:
 
                 Git and GitHub for Poets by The Coding Train
                 https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV
+
+        Jenkins:
+            Sources:
+                https://github.com/topics/jenkins?o=desc&s=stars
+                https://www.udemy.com/topic/jenkins
+                https://standard.cbu.cloudbees.com
+
+            Books and Courses:
+                Learn DevOps: CI/CD with Jenkins using Pipelines and Docker by Edward Viaene
+                https://www.udemy.com/course/learn-devops-ci-cd-with-jenkins-using-pipelines-and-docker
+                https://github.com/wardviaene/jenkins-course
 
         Vim:
             Sources:
@@ -1717,6 +1736,7 @@ Contents:
                 https://www.gulftalent.com (11,291)
                 https://www.indeed.ae (17463)
                 https://www.monstergulf.com (44,829)
+                https://www.michaelpage.ae (80,855)
                 https://www.wisdomjobsgulf.com (860,577)
 
         Company and Salary Reviews:
