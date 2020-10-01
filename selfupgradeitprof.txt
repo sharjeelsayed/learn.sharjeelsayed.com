@@ -583,6 +583,7 @@ Contents:
                 https://github.com/junegunn/fzf (A command-line fuzzy finder)
                 https://github.com/koalaman/shellcheck
                 https://github.com/onceupon/Bash-Oneliner
+                https://github.com/pirate/bash-utils
                 https://github.com/rupa/z (z - jump around)
                 https://github.com/topics/bash?o=desc&s=stars
                 https://mywiki.wooledge.org/BashPitfalls
@@ -730,6 +731,7 @@ Contents:
                 https://rancher.com
                 https://sparkle.adroitcorp.com.au/market (Flashcards)
                 https://techbeacon.com/enterprise-it/47-advanced-tutorials-mastering-kubernetes
+                https://www.flatcar-linux.org
                 https://www.katacoda.com/courses/kubernetes
                 https://www.reddit.com/r/kubernetes/comments/gldbkk/cka_exam_good_exercisemock_exam_resources
                 https://youtu.be/0Omvgd7Hg1I (Life of a Packet [I] - Michael Rubin, Google)
@@ -1015,6 +1017,7 @@ Contents:
 
         PostgreSQL:
             Sources:
+                https://github.com/dhamaniasad/awesome-postgres
                 https://news.ycombinator.com/item?id=23208181 (Ask HN: What PostgreSQL client do you use?)
             
             Books and Courses:
@@ -1223,7 +1226,7 @@ Contents:
                 https://www.reddit.com/r/programming/comments/fd9zpj/becoming_a_git_pro_part_1_internal_git/fjge9vy
                 https://www.sourcetreeapp.com
                 https://www.udemy.com/topic/git
-                https://xosh.org/explain-git-in-simple-words/
+                https://xosh.org/explain-git-in-simple-words
                 
             Books and Courses:
                 Complete Git Guide: Understand and master Git and GitHub by Bogdan Stashchuk
@@ -1258,6 +1261,9 @@ Contents:
                 Learn DevOps: CI/CD with Jenkins using Pipelines and Docker by Edward Viaene
                 https://www.udemy.com/course/learn-devops-ci-cd-with-jenkins-using-pipelines-and-docker
                 https://github.com/wardviaene/jenkins-course
+                https://github.com/wardviaene/devops-box
+                https://github.com/wardviaene/docker-demo
+                https://www.facebook.com/groups/devops.courses
 
         Vim:
             Sources:
@@ -1577,6 +1583,7 @@ Contents:
         Interview Guides:
             Sources:
                 http://blog.interviewing.io/what-really-matters-in-technical-interviews-we-analyzed-thousands-of-interviews-on-everything-from-language-to-code-style-heres-what-we-found
+                https://github.com/kdn251/interviews
                 https://github.com/mxssl/sre-interview-prep-guide
                 https://github.com/topics/interview-questions?o=desc&s=stars
                 https://github.com/topics/interview?o=desc&s=stars
@@ -1717,6 +1724,7 @@ Contents:
                 https://www.timesjobs.com (4,719)
                 https://angel.co (5,741)
                 https://www.freshersworld.com (7,367)
+                https://www.iimjobs.com (8,978)
                 https://www.hirist.com (12462)
                 https://www.indeed.co.in (11,776)
                 
