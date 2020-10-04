@@ -526,6 +526,7 @@ Contents:
                 https://www.reddit.com/r/linuxadmin/comments/2s924h/how_did_you_get_your_start/cnnw1ma
                 https://www.reddit.com/r/linuxadmin/comments/7cw116/favorite_posts_youve_bookmarked_or_saved
                 https://www.reddit.com/r/Ubuntu+linux+linuxadmin
+                https://github.com/topics/lamp?o=desc&s=stars
                 
             Books and Courses:
                 Linux Journey
@@ -852,7 +853,6 @@ Contents:
                 https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c02
                 https://courses.datacumulus.com (Discount codes for the Course)
                 https://courses.datacumulus.com/downloads/certified-solutions-architect-pn9 (AWS Certified Solutions Architect Associate Code & Slides)
-                https://monova.to/6DEC5835A8775F0C6014843F1A0EB2715F38D1A5
                 
                 AWS Certified Solutions Architect Associate Practice Exams by Jon Bonso
                 https://portal.tutorialsdojo.com/courses/aws-certified-solutions-architect-associate-practice-exams
@@ -862,8 +862,7 @@ Contents:
                 https://www.udemy.com/course/aws-certified-developer-associate-dva-c01
                 https://courses.datacumulus.com/downloads/certified-developer-k92
                 https://courses.datacumulus.com (Discount codes for the Course)
-                https://1337x.to/torrent/4471594/Udemy-Ultimate-AWS-Certified-Developer-Associate-2020-NEW-Latest-Updated-Giga-Course
-
+                
                 Amazon Web Services in Action 2nd Edition
                 https://www.amazon.com/Amazon-Services-Action-Andreas-Wittig/dp/1617295116
                 https://www.manning.com/books/amazon-web-services-in-action-second-edition
@@ -926,8 +925,7 @@ Contents:
                 Learn DevOps: Infrastructure Automation With Terraform by Edward Viaene
                 https://www.udemy.com/course/learn-devops-infrastructure-automation-with-terraform
                 https://github.com/wardviaene/terraform-course
-                https://1337x.to/torrent/3864033/Udemy-Learn-DevOps-Infrastructure-Automation-With-Terraform
-
+                
                 Terraform Tutorial by Will Brock
                 https://www.youtube.com/playlist?list=PL8HowI-L-3_9bkocmR3JahQ4Y-Pbqs2Nt
 
@@ -956,7 +954,6 @@ Contents:
             Books and Courses:
                 NGINX Fundamentals: High Performance Servers from Scratch by Ray Viljoen 
                 https://www.udemy.com/course/nginx-fundamentals
-                https://1337x.to/torrent/4101963/Udemy-Nginx-Fundamentals-High-Performance-Servers-from-Scratch-TP
                 
                 NGINX HTTP Server - Third Edition
                 https://www.amazon.com/Nginx-HTTP-Server-Clement-Nedelcu-ebook/dp/B016DPU3JS
@@ -1040,13 +1037,11 @@ Contents:
                 Ansible for the Absolute Beginner - Hands-On - DevOps by Mumshad Mannambeth
                 https://www.udemy.com/course/learn-ansible
                 https://learning.oreilly.com/videos/kubernetes-for-absolute/9781838555962
-                https://1337x.to/torrent/3751111/Udemy-Ansible-for-the-Absolute-Beginner-Hands-On-DevOps
-
+                
                 Ansible Advanced - Hands-On - DevOps by Mumshad Mannambeth
                 https://www.udemy.com/course/learn-ansible-advanced
                 https://learning.oreilly.com/videos/ansible-advanced/9781789136470
-                https://1337x.to/torrent/4020174/FreeCourseWeb-Udemy-Ansible-Advanced-Hands-On-DevOps
-
+                
                 Ansible Certification Preparation Course by Mumshad Mannambeth
                 https://kodekloud.com/p/ansible-certification
 
@@ -2236,6 +2231,7 @@ Contents:
                 https://news.ycombinator.com/item?id=23206259 (Ask HN: What are some hard-tech blogs that you follow?)
                 https://news.ycombinator.com/item?id=23583629 (RSS Box – RSS for websites that do not support RSS (rssbox.herokuapp.com))
                 https://news.ycombinator.com/item?id=24539445 (Ask HN: Favourite blogs?)
+                https://news.ycombinator.com/item?id=24658424 (Ask HN: What RSS Reader do you use?)
                 https://news.ycombinator.com/item?id=9836023 (Ask HN: What tech blogs, podcasts do you follow outside of HN?)
                 https://wiki.nikitavoloboev.xyz/research/blogs#favorite-blogs
                 https://www.reddit.com/r/AskReddit/comments/9nggyv/what_is_a_great_youtube_channel_to_binge_watch
