@@ -901,7 +901,12 @@ Contents:
                 https://www.pluralsight.com/partners/microsoft/azure
                 https://www.reddit.com/r/AZURE
                 https://www.reddit.com/r/AZURE/search/?q=course&restrict_sr=on&t=year
-                https://www.udemy.com/course/70534-azure (AZ-300/AZ-303 Azure Architecture Technologies Exam Prep 2020 by Scott Duffy)
+
+            Books and Courses:
+                AZ-300/AZ-303 Azure Architecture Technologies Exam Prep 2020 by Scott Duffy
+                https://www.udemy.com/course/70534-azure
+                https://softwarearchitect.ca (Coupons)
+                https://www.facebook.com/groups/azureusergroupunofficial
 
         Terraform:
             Sources:
@@ -1567,8 +1572,9 @@ Contents:
                 https://www.real.discount (Discount coupons for Popular courses and MOOC Platforms)
                 https://www.reddit.com/r/DataHoarder/comments/c6fh4x/after_hoarding_over_50k_youtube_videos_here_is
                 https://www.reddit.com/r/sysadmin/comments/65wdum/whats_your_favorite_selfstudy_resource_paid_free
-                https://www.reddit.com/r/udemyfreebies
+                https://www.reddit.com/r/Udemy+udemyfreebies
                 https://www.sololearn.com
+                https://www.tutorialbar.com (Udemy Coupons)
                 https://www.udacity.com/courses/all
                 https://www.udemy.com/courses/free/?p=12&sort=popularity
                 https://yahnd.com (Best courses , talks and videos recommended on Hacker News)
