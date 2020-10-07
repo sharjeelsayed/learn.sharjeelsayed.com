@@ -716,6 +716,7 @@ Contents:
                 https://k9scli.io (Kubernetes CLI To Manage Your Clusters In Style!)
                 https://kind.sigs.k8s.io
                 https://kompose.io (A conversion tool to go from Docker Compose to Kubernetes)
+                https://kops.sigs.k8s.io
                 https://kubernetes.io/docs/concepts
                 https://kubernetes.io/docs/reference/kubectl/cheatsheet
                 https://kubernetes.io/docs/tasks
@@ -726,6 +727,7 @@ Contents:
                 https://learning.oreilly.com/search/?query=kubernetes
                 https://medium.com/faun/35-advanced-tutorials-to-learn-kubernetes-dae5695b1f18
                 https://medium.com/faun/be-fast-with-kubectl-1-18-ckad-cka-31be00acc443
+                https://minikube.sigs.k8s.io
                 https://napo.io/posts/kubernetes-the-real-hard-way-on-aws
                 https://news.ycombinator.com/item?id=22597880 (Kind - run local Kubernetes clusters using Docker (k8s.io))
                 https://news.ycombinator.com/item?id=22689119 (Anyone have a recommended guide for Kubernetes?)
@@ -843,6 +845,7 @@ Contents:
                 https://github.com/serverless/serverless
                 https://github.com/toniblyx/my-arsenal-of-aws-security-tools
                 https://github.com/topics/aws?o=desc&s=stars
+                https://www.concurrencylabs.com/blog/choose-your-aws-region-wisely
                 https://www.ec2instances.info
                 https://www.reddit.com/r/aws
                 https://www.reddit.com/r/sysadmin/comments/8inzn5/so_you_want_to_learn_aws_aka_how_do_i_learn_to_be
@@ -916,6 +919,7 @@ Contents:
                 https://github.com/topics/terraform?o=desc&s=stars
                 https://learn.hashicorp.com/terraform
                 https://medium.com/@brenspiration/free-online-courses-on-kubernetes-docker-products-terraform-2a3cd296ce95
+                https://registry.terraform.io
                 https://www.facebook.com/groups/840062592768074 (Learn DevOps: Continuously Deliver Better Software)
                 https://www.katacoda.com/courses/terraform
                 https://www.reddit.com/r/Terraform/comments/iguorh/best_terraform_course
