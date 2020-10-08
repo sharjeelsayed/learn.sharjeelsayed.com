@@ -198,6 +198,7 @@ Contents:
                 https://github.com/styfle/awesome-online-ide
                 https://github.com/topics/programming?o=desc&s=stars
                 https://github.com/tuvtran/project-based-learning
+                https://github.com/twowaits/SDE-Interview-Questions
                 https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=every%20programmer&sort=byPopularity&type=story (Things every programmer should know)
                 https://insights.stackoverflow.com/survey/2020
                 https://learnxinyminutes.com
@@ -927,20 +928,24 @@ Contents:
                 https://www.udemy.com/course/learn-devops-kubernetes-deployment-by-kops-and-terraform
 
             Books and Courses:
-                HashiCorp Certified: Terraform Associate 2020
+                HashiCorp Certified: Terraform Associate 2020 by Zeal Vora
                 https://www.udemy.com/course/terraform-beginner-to-advanced
                 https://github.com/zealvora/coupon-codes
+                https://github.com/zealvora/terraform-beginner-to-advanced-resource
+                https://rutracker.org/forum/viewtopic.php?t=5936588
 
+                Terraform: Up & Running: Writing Infrastructure as Code 2nd Edition
+                https://www.amazon.com/Terraform-Running-Writing-Infrastructure-Code/dp/1492046906
+
+            Additional Material:
                 Learn DevOps: Infrastructure Automation With Terraform by Edward Viaene
                 https://www.udemy.com/course/learn-devops-infrastructure-automation-with-terraform
                 https://github.com/wardviaene/terraform-course
                 
                 Terraform Tutorial by Will Brock
                 https://www.youtube.com/playlist?list=PL8HowI-L-3_9bkocmR3JahQ4Y-Pbqs2Nt
-
-                Terraform: Up & Running: Writing Infrastructure as Code 2nd Edition
-                https://www.amazon.com/Terraform-Running-Writing-Infrastructure-Code/dp/1492046906
-
+                https://github.com/WillBrock/terraform-course-examples
+        
         NGINX:
             Sources:
                 https://docs.nginx.com/nginx/admin-guide/monitoring/logging
@@ -2446,6 +2451,7 @@ Contents:
 
             Tlds:
                 https://hostingtribunal.com/blog/tld-statistics
+                https://news.ycombinator.com/item?id=24538758 (Domains for the Rest of Us (domainsfortherestofus.com))
                 https://tld-list.com
                 https://www.domainsfortherestofus.com
                 https://www.hayksaakian.com/most-popular-tlds
