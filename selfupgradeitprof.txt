@@ -15,6 +15,7 @@ Contents:
         Database Concepts
     DevOps/SRE/SysAdmin:
         Linux
+        FreeBSD
         Bash
         tmux
         Windows
@@ -31,16 +32,16 @@ Contents:
         Apache
         IIS
         HAProxy
-        Memcached
-        djbdns
+        Ansible
+        Terraform
+        Vagrant
+        Puppet
         SQL
         MySQL
         SQL Server
         PostgreSQL
         Redis
-        Ansible
-        Terraform
-        Puppet
+        Memcached
         Python
         C
         Java
@@ -753,6 +754,9 @@ Contents:
                 https://www.fb.com/kodekloudtraining
                 https://www.youtube.com/playlist?list=PL2We04F3Y_41lFKy19ig_9u-5Sj_RWTDL (JSON PATH)
                 
+                Kubernetes Hands-On - Deploy Microservices to the AWS Cloud by Richard Chesterwood, Virtual Pair Programmers and Prageeth Warnak
+                https://www.udemy.com/course/kubernetes-microservices
+
                 Kubernetes: Up and Running: Dive into the Future of Infrastructure 2nd Edition
                 https://learning.oreilly.com/library/view/kubernetes-up-and/9781492046523
                 https://tanzu.vmware.com/content/ebooks/kubernetes-up-running-dive-into-the-future-of-infrastructure
@@ -912,40 +916,6 @@ Contents:
                 https://softwarearchitect.ca (Coupons)
                 https://www.facebook.com/groups/azureusergroupunofficial
 
-        Terraform:
-            Sources:
-                https://github.com/Artemmkin/infrastructure-as-code-tutorial
-                https://github.com/shuaibiyy/awesome-terraform
-                https://github.com/topics/infrastructure-as-code?o=desc&s=stars
-                https://github.com/topics/terraform?o=desc&s=stars
-                https://learn.hashicorp.com/terraform
-                https://medium.com/@brenspiration/free-online-courses-on-kubernetes-docker-products-terraform-2a3cd296ce95
-                https://registry.terraform.io
-                https://www.facebook.com/groups/840062592768074 (Learn DevOps: Continuously Deliver Better Software)
-                https://www.katacoda.com/courses/terraform
-                https://www.reddit.com/r/Terraform/comments/iguorh/best_terraform_course
-                https://www.thecloud.coach/terraform-crash-course
-                https://www.udemy.com/course/learn-devops-kubernetes-deployment-by-kops-and-terraform
-
-            Books and Courses:
-                HashiCorp Certified: Terraform Associate 2020 by Zeal Vora
-                https://www.udemy.com/course/terraform-beginner-to-advanced
-                https://github.com/zealvora/coupon-codes
-                https://github.com/zealvora/terraform-beginner-to-advanced-resource
-                https://rutracker.org/forum/viewtopic.php?t=5936588
-
-                Terraform: Up & Running: Writing Infrastructure as Code 2nd Edition
-                https://www.amazon.com/Terraform-Running-Writing-Infrastructure-Code/dp/1492046906
-
-            Additional Material:
-                Learn DevOps: Infrastructure Automation With Terraform by Edward Viaene
-                https://www.udemy.com/course/learn-devops-infrastructure-automation-with-terraform
-                https://github.com/wardviaene/terraform-course
-                
-                Terraform Tutorial by Will Brock
-                https://www.youtube.com/playlist?list=PL8HowI-L-3_9bkocmR3JahQ4Y-Pbqs2Nt
-                https://github.com/WillBrock/terraform-course-examples
-        
         NGINX:
             Sources:
                 https://docs.nginx.com/nginx/admin-guide/monitoring/logging
@@ -991,53 +961,6 @@ Contents:
                 https://www.amazon.com/Load-Balancing-HAProxy-availability-infrastructure/dp/1519073844
 
                 https://www.digitalocean.com/community/tutorials/an-introduction-to-haproxy-and-load-balancing-concepts
-
-        Memcached:
-            Books and Courses:
-                https://github.com/memcached/memcached/wiki
-
-        djbdns:
-            Books and Courses:
-                https://cr.yp.to/djbdns.html
-
-        SQL:
-            Sources:
-                https://news.ycombinator.com/item?id=23070491 (Here are some other SQL Learning resources I have collected in my note taking Wiki (mostly from HN itself))
-                https://news.ycombinator.com/item?id=23138297 (Advanced SQL and database books and resources (neilwithdata.com))
-                https://pinboard.in/u:SharjeelSayed/t:sql
-
-            Books and Courses:
-                Stanford DB5 Course on SQL
-                https://lagunita.stanford.edu/courses/DB/SQL/SelfPaced/about
-                
-                https://sqlzoo.net
-                
-                https://www.sqlteaching.com
-                
-                https://www.w3schools.com/sql
-
-                https://use-the-index-luke.com
-
-        MySQL:
-            Books and Courses:
-                https://dev.mysql.com/doc/refman/5.7/en
-
-        SQL Server:
-            Books and Courses:
-                https://docs.microsoft.com/en-us/sql/sql-server/sql-server-technical-documentation
-
-        PostgreSQL:
-            Sources:
-                https://github.com/dhamaniasad/awesome-postgres
-                https://news.ycombinator.com/item?id=23208181 (Ask HN: What PostgreSQL client do you use?)
-            
-            Books and Courses:
-                https://www.postgresql.org/docs/current
-                https://pgexercises.com
-
-        Redis:
-            Books and Courses:
-                https://redis.io/documentation
 
         Ansible:
             Sources:
@@ -1086,6 +1009,49 @@ Contents:
                 Ansible Crash Course by Michael Crilly
                 https://www.thecloud.coach/courses/ansible-crash-course
 
+        Terraform:
+            Sources:
+                https://github.com/Artemmkin/infrastructure-as-code-tutorial
+                https://github.com/shuaibiyy/awesome-terraform
+                https://github.com/topics/infrastructure-as-code?o=desc&s=stars
+                https://github.com/topics/terraform?o=desc&s=stars
+                https://learn.hashicorp.com/terraform
+                https://medium.com/@brenspiration/free-online-courses-on-kubernetes-docker-products-terraform-2a3cd296ce95
+                https://registry.terraform.io
+                https://www.facebook.com/groups/840062592768074 (Learn DevOps: Continuously Deliver Better Software)
+                https://www.katacoda.com/courses/terraform
+                https://www.reddit.com/r/Terraform/comments/iguorh/best_terraform_course
+                https://www.thecloud.coach/terraform-crash-course
+                https://www.udemy.com/course/learn-devops-kubernetes-deployment-by-kops-and-terraform
+
+            Books and Courses:
+                HashiCorp Certified: Terraform Associate 2020 by Zeal Vora
+                https://www.udemy.com/course/terraform-beginner-to-advanced
+                https://github.com/zealvora/coupon-codes
+                https://github.com/zealvora/terraform-beginner-to-advanced-resource
+                https://rutracker.org/forum/viewtopic.php?t=5936588
+
+                Terraform: Up & Running: Writing Infrastructure as Code 2nd Edition
+                https://www.amazon.com/Terraform-Running-Writing-Infrastructure-Code/dp/1492046906
+
+            Additional Material:
+                Learn DevOps: Infrastructure Automation With Terraform by Edward Viaene
+                https://www.udemy.com/course/learn-devops-infrastructure-automation-with-terraform
+                https://github.com/wardviaene/terraform-course
+                
+                Terraform Tutorial by Will Brock
+                https://www.youtube.com/playlist?list=PL8HowI-L-3_9bkocmR3JahQ4Y-Pbqs2Nt
+                https://github.com/WillBrock/terraform-course-examples
+        
+        Vagrant:
+            Sources:
+                https://app.vagrantup.com/boxes/search?utf8=%E2%9C%93&sort=downloads&provider=virtualbox&q=ubuntu (Discover Vagrant Boxes)
+                https://gist.github.com/wpscholar/a49594e2e2b918f4d0c4 (Vagrant Cheat Sheet)
+                https://github.com/geerlingguy/ansible-vagrant-examples
+                https://github.com/sharjeelsayed/devops-box
+                https://github.com/topics/vagrant?o=desc&s=stars
+                https://www.vagrantup.com/docs
+
         Puppet:
             Books and Courses:
                 Download the Puppet Learning VM
@@ -1094,16 +1060,61 @@ Contents:
                 Puppet 5 Beginner's Guide - Third Edition: Go from newbie to pro with Puppet 5
                 https://www.amazon.com/Puppet-Beginners-Guide-Third-newbie/dp/178847290X
 
+        SQL:
+            Sources:
+                https://news.ycombinator.com/item?id=23070491 (Here are some other SQL Learning resources I have collected in my note taking Wiki (mostly from HN itself))
+                https://news.ycombinator.com/item?id=23138297 (Advanced SQL and database books and resources (neilwithdata.com))
+                https://pinboard.in/u:SharjeelSayed/t:sql
+
+            Books and Courses:
+                Stanford DB5 Course on SQL
+                https://lagunita.stanford.edu/courses/DB/SQL/SelfPaced/about
+                
+                https://sqlzoo.net
+                
+                https://www.sqlteaching.com
+                
+                https://www.w3schools.com/sql
+
+                https://use-the-index-luke.com
+
+        MySQL:
+            Books and Courses:
+                https://dev.mysql.com/doc/refman/5.7/en
+
+        SQL Server:
+            Books and Courses:
+                https://docs.microsoft.com/en-us/sql/sql-server/sql-server-technical-documentation
+
+        PostgreSQL:
+            Sources:
+                https://github.com/dhamaniasad/awesome-postgres
+                https://news.ycombinator.com/item?id=23208181 (Ask HN: What PostgreSQL client do you use?)
+            
+            Books and Courses:
+                https://www.postgresql.org/docs/current
+                https://pgexercises.com
+
+        Redis:
+            Books and Courses:
+                https://redis.io/documentation
+
+        Memcached:
+            Books and Courses:
+                https://github.com/memcached/memcached/wiki
+                
         Python:
             Sources:
-                https://pybit.es/python-resources.html
-                https://pythonbooks.org
+                https://boto3.amazonaws.com/v1/documentation/api/latest/index.html
                 https://github.com/pyenv/pyenv
                 https://github.com/topics/python?o=desc&s=stars
                 https://github.com/vinta/awesome-python
                 https://news.ycombinator.com/item?id=16622038 (At full speed with Python: a book for self-learners)
                 https://news.ycombinator.com/item?id=21054462 (Ask HN: How do you handle/maintain local Python environments?)
                 https://opensource.com/article/19/5/python-3-default-mac (The right and wrong way to set Python 3 as default on a Mac)
+                https://pybit.es/python-resources.html
+                https://pythonbooks.org
+                https://realpython.com/courses/python-boto3-aws-s3
                 https://www.jetbrains.com/lp/python-developers-survey-2019
                 https://www.reddit.com/r/learnprogramming/comments/6bxdut/python_for_beginners_complete_series
                 https://www.reddit.com/r/learnprogramming/wiki/online#wiki_python
@@ -1737,6 +1748,8 @@ Contents:
                 https://www.iimjobs.com (8,978)
                 https://www.hirist.com (12462)
                 https://www.indeed.co.in (11,776)
+                https://www.michaelpage.co.in (98,471)
+                https://www.jobleads.de (99,051)
                 
         Job Search Engines:
             Sites:
@@ -1777,6 +1790,7 @@ Contents:
                 https://www.upwork.com/press/2019/08/14/q2-2019-skills
                 https://www.upwork.com/press/2019/11/19/the-upwork-100-q3-2019
                 https://www.upwork.com/press/2020/09/01/upwork-releases-top-paying-programming-languages-for-independent-web-mobile-and-software-developers
+                https://www.youtube.com/watch?v=NxmcfrFrYEA&t=1327s (How the client sees your proposal)
                 https://youtu.be/PTzJlrahqgc (The COMPLETE Upwork Tutorial for Beginners!)
                 
             Sites (Alexa rank sorted):
@@ -2317,7 +2331,7 @@ Contents:
                     https://www.techmeme.com
 
                 Reddit:
-                    https://www.reddit.com/r/1Password+AWSCertifications+Alfred+Android+AppHookup+AppleWatch+COVID19+Coronavirus+CryptoCurrency+DataHoarder+Documentaries+FreeEBOOKS+GooglePixel+ITCareerQuestions+IndiaInvestments+KindleFreebies+Piracy+Ubuntu+Upwork+announcements+apple+aws+compsci+cscareerquestions+dataisbeautiful+devops+docker+forhire+freelance+gadgets+hackernews+india+ipad+iphone+juul+kindle+kubernetes+learnprogramming+linux+linuxadmin+linuxupskillchallenge+mac+macapps+movies+mumbai+netsec+nextdns+onebag+osx+programming+science+solotravel+sysadmin+technology+television+todayilearned+todoist+travel+worldnews
+                    https://www.reddit.com/r/1Password+AWSCertifications+Alfred+Android+AppHookup+AppleWatch+COVID19+Coronavirus+CryptoCurrency+DataHoarder+Documentaries+FreeEBOOKS+GooglePixel+ITCareerQuestions+IndiaInvestments+KindleFreebies+Piracy+Ubuntu+Udemy+Upwork+announcements+apple+aws+compsci+cscareerquestions+dataisbeautiful+devops+docker+forhire+freelance+gadgets+hackernews+india+ipad+iphone+juul+kindle+kubernetes+learnprogramming+linux+linuxadmin+linuxupskillchallenge+mac+macapps+movies+mumbai+netsec+nextdns+onebag+osx+programming+science+solotravel+sysadmin+technology+television+todayilearned+todoist+travel+udemyfreebies+worldnews
                 
                 Hacker News:
                     https://apps.apple.com/us/app/hack-for-hacker-news-developer/id1464477788
@@ -2615,7 +2629,7 @@ Contents:
         https://www.reddit.com/r/sysadmin/comments/4oxxgv/your_favorite_scripts_you_have_stolen_or_made
 
     Support this page with these referral links:
-        http://amex.in/refer/SharjScjfi (American Express)
+        http://amex.in/refer/sHARJsCJfI (American Express)
         https://db.tt/YL0e12GN (Dropbox 500 MB of bonus space)
         https://mega.nz/C!vuhRiKpB (Mega.nz Extra Storage)
         https://nextdns.io/?from=s2bsnju6 (30% off)
