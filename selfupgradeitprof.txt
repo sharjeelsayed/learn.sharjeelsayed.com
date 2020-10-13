@@ -182,6 +182,7 @@ Contents:
                 https://devdocs.io
                 https://devurls.com
                 https://docs.google.com/spreadsheets/d/1gIRjeB1Y_AMvtmJsZWl_dNMDJ7lPSIxiVUYyEvrP5P4/htmlview?usp=sharing&sle=true (Popular Programming Podcast episodes)
+                https://github.com/aceking007/100ProjectsOfCode
                 https://github.com/AlgoryL/Projects-from-Scratch
                 https://github.com/bnb/awesome-developer-streams
                 https://github.com/braydie/HowToBeAProgrammer
@@ -437,6 +438,7 @@ Contents:
 
         Database Concepts:
             Sources:
+                https://db-engines.com/en/ranking
                 https://github.com/binhnguyennus/awesome-scalability
                 https://github.com/pingcap/awesome-database-learning
                 https://news.ycombinator.com/item?id=13417326 (Ask HN: What is the best online resource to learn advanced SQL?)
@@ -482,6 +484,7 @@ Contents:
             https://devopsnewsletters.com
             https://github.com/AcalephStorage/awesome-devops
             https://github.com/Artemmkin/infrastructure-as-code-tutorial
+            https://github.com/danluu/post-mortems
             https://github.com/dastergon/awesome-sre
             https://github.com/kahun/awesome-sysadmin
             https://github.com/Leo-G/DevopsWiki
@@ -708,6 +711,7 @@ Contents:
                 https://github.com/LeCoupa/awesome-cheatsheets/blob/master/tools/kubernetes.md
                 https://github.com/nkuba/k8s-admin-helper
                 https://github.com/ramitsurana/awesome-kubernetes
+                https://github.com/tomhuang12/awesome-k8s-resources
                 https://github.com/topics/cka?o=desc&s=stars
                 https://github.com/topics/kubernetes?o=desc&s=stars
                 https://github.com/zegl/kube-score (Kubernetes object analysis with recommendations for improved reliability and security)
@@ -1123,6 +1127,7 @@ Contents:
                 https://www.reddit.com/r/learnpython/top
                 https://www.reddit.com/r/learnpython/wiki
                 https://www.reddit.com/r/Python
+                https://www.udemy.com/topic/python/?ratings=4.5&sort=popularity
 
             Books and Courses:
                 Learn Python 3 the Hard Way
@@ -1131,6 +1136,7 @@ Contents:
                 
                 Automate the Boring Stuff with Python
                 https://automatetheboringstuff.com/2e
+                https://www.udemy.com/course/automate
                 
                 The Python Tutorial
                 http://docs.python.org/py3k/tutorial/index.html
