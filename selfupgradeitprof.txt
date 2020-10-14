@@ -28,6 +28,7 @@ Contents:
         Data Center
         AWS
         Azure
+        GCP
         NginX
         Apache
         IIS
@@ -444,6 +445,7 @@ Contents:
                 https://news.ycombinator.com/item?id=13417326 (Ask HN: What is the best online resource to learn advanced SQL?)
                 https://news.ycombinator.com/item?id=21793270 (Database Internals (databass.dev))
                 https://news.ycombinator.com/item?id=23138297 (Advanced SQL and database books and resources (neilwithdata.com))
+                https://news.ycombinator.com/item?id=24762734 (Ask HN: What are good resources to learn system design?)
                 https://pinboard.in/u:SharjeelSayed/t:db
 
             Books and Courses:
@@ -502,6 +504,7 @@ Contents:
             https://news.ycombinator.com/item?id=14153545 (What Is ‘Site Reliability Engineering’?)
             https://news.ycombinator.com/item?id=14652993 (Ask HN: DevOps learning resources)
             https://news.ycombinator.com/item?id=16357368 (Ask HN: Which books describe modern devops?)
+            https://pauljerimy.com/wp-content/uploads/2020/03/IT_CareerRoadmap2020smol.png (IT Career Roadmap)
             https://www.bookadvice.co/sysadmin.html
             https://www.reddit.com/r/compsci+cscareerquestions+learnprogramming+linux+linuxadmin+netsec+networking+programming+sysadmin
             https://www.reddit.com/r/DevOps/wiki/resources
@@ -659,6 +662,7 @@ Contents:
 
         Docker:
             Sources:
+                https://containersfromthecouch.com
                 https://docs.docker.com
                 https://github.com/magicmark/composerize (Turns docker run commands into docker-compose files!)
                 https://github.com/p8952/bocker (Docker implemented in around 100 lines of bash)
@@ -740,6 +744,7 @@ Contents:
                 https://rancher.com
                 https://sparkle.adroitcorp.com.au/market (Flashcards)
                 https://techbeacon.com/enterprise-it/47-advanced-tutorials-mastering-kubernetes
+                https://www.eksworkshop.com
                 https://www.flatcar-linux.org
                 https://www.katacoda.com/courses/kubernetes
                 https://www.reddit.com/r/kubernetes/comments/gldbkk/cka_exam_good_exercisemock_exam_resources
@@ -843,6 +848,7 @@ Contents:
         AWS:
             Sources:
                 https://adayinthelifeof.nl/2020/05/20/aws.html (A List of One-sentence Descriptions of AWS Services)
+                https://aws.amazon.com/certification
                 https://aws.amazon.com/getting-started/hands-on
                 https://awsvideocatalog.com (AWS Video Catalog is a website that collects all the official Amazon videos)
                 https://bash-my-aws.org
@@ -913,12 +919,17 @@ Contents:
                 https://www.pluralsight.com/partners/microsoft/azure
                 https://www.reddit.com/r/AZURE
                 https://www.reddit.com/r/AZURE/search/?q=course&restrict_sr=on&t=year
+                https://www.whizlabs.com/blog/azure-certifications-path
 
             Books and Courses:
                 AZ-300/AZ-303 Azure Architecture Technologies Exam Prep 2020 by Scott Duffy
                 https://www.udemy.com/course/70534-azure
                 https://softwarearchitect.ca (Coupons)
                 https://www.facebook.com/groups/azureusergroupunofficial
+
+        GCP:
+            Sources:
+                https://cloud.google.com/certification
 
         NGINX:
             Sources:
@@ -1137,6 +1148,7 @@ Contents:
                 Automate the Boring Stuff with Python
                 https://automatetheboringstuff.com/2e
                 https://www.udemy.com/course/automate
+                https://inventwithpython.com/automateudemy (Coupon)
                 
                 The Python Tutorial
                 http://docs.python.org/py3k/tutorial/index.html
@@ -1312,6 +1324,7 @@ Contents:
             Sources:
                 http://www.fastrls.com/2017/10/30/offensive-security-training-videos
                 https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html-single/using_selinux
+                https://en.wikipedia.org/wiki/List_of_computer_security_certifications#Most_Popular_Vendor_Neutral_Cyber_Security_Certifications_Among_employers
                 https://github.com/dafthack/CloudPentestCheatsheets
                 https://github.com/danielmiessler/SecLists
                 https://github.com/forter/security-101-for-saas-startups
@@ -1566,6 +1579,7 @@ Contents:
                 https://blog.github.com/2018-03-20-top-10-courses-on-github
                 https://freelearninglist.org
                 https://github.com/gerryguy311/CyberProfDevelopmentCovidResources
+                https://github.com/JoseDeFreitas/awesome-youtubers
                 https://github.com/learn-awesome/learn-awesome
                 https://github.com/sindresorhus/awesome
                 https://hackr.io
