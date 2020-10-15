@@ -860,6 +860,7 @@ Contents:
                 https://github.com/serverless/serverless
                 https://github.com/toniblyx/my-arsenal-of-aws-security-tools
                 https://github.com/topics/aws?o=desc&s=stars
+                https://tutorialsdojo.com/aws-cheat-sheets
                 https://www.concurrencylabs.com/blog/choose-your-aws-region-wisely
                 https://www.ec2instances.info
                 https://www.reddit.com/r/aws
@@ -1702,7 +1703,7 @@ Contents:
                 codesignal
                 https://codesignal.com
                 
-                A collection of *nix Sysadmin Test Questions and Answers for Interview/Exam (2018 Edition)
+                A collection of Linux Sysadmin Test Questions and Answers 
                 https://github.com/trimstray/test-your-sysadmin-skills
                 
                 Watch technical mock interviews with engineers from Google, Facebook, Airbnb, and more
@@ -1716,12 +1717,15 @@ Contents:
 
         Resume Improvement:
             Sources:
+                https://gitconnected.com
                 https://github.com/posquit0/Awesome-CV
                 https://github.com/topics/cv?o=desc&s=stars
                 https://github.com/topics/resume?o=desc&s=stars
+                https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=resume%20&sort=byPopularity&type=story
                 https://news.ycombinator.com/item?id=16479922 (Ask HN: Resumes that look good but professional too)
                 https://news.ycombinator.com/item?id=17671490 (Building a Kickass Portfolio)
                 https://news.ycombinator.com/item?id=22709183 (	Show HN: RxResume – A free and open-source resume builder (web.app))
+                https://thetechresume.com
                 https://www.reddit.com/r/sysadminresumes/top
                 https://pinboard.in/u:SharjeelSayed/t:resume
 
