@@ -762,7 +762,7 @@ Contents:
                 https://kodekloud.com/purchase?product_id=1521961&coupon_code=UDEMYSTUDENT1718 (Labs - Certified Kubernetes Administrator with Practice Tests)
                 https://www.fb.com/kodekloudtraining
                 https://www.youtube.com/playlist?list=PL2We04F3Y_41lFKy19ig_9u-5Sj_RWTDL (JSON PATH)
-                
+ 
                 Kubernetes Hands-On - Deploy Microservices to the AWS Cloud by Richard Chesterwood, Virtual Pair Programmers and Prageeth Warnak
                 https://www.udemy.com/course/kubernetes-microservices
 
@@ -863,6 +863,7 @@ Contents:
                 https://tutorialsdojo.com/aws-cheat-sheets
                 https://www.concurrencylabs.com/blog/choose-your-aws-region-wisely
                 https://www.ec2instances.info
+                https://www.examtopics.com/exams/amazon
                 https://www.reddit.com/r/aws
                 https://www.reddit.com/r/sysadmin/comments/8inzn5/so_you_want_to_learn_aws_aka_how_do_i_learn_to_be
                 https://pinboard.in/u:SharjeelSayed/t:aws
@@ -917,6 +918,7 @@ Contents:
                 https://azure.microsoft.com/en-us/get-started
                 https://docs.microsoft.com/en-us/learn/azure
                 https://docs.microsoft.com/en-us/learn/certifications
+                https://www.examtopics.com/exams/microsoft
                 https://www.pluralsight.com/partners/microsoft/azure
                 https://www.reddit.com/r/AZURE
                 https://www.reddit.com/r/AZURE/search/?q=course&restrict_sr=on&t=year
