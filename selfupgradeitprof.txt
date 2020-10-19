@@ -12,7 +12,7 @@ Contents:
         Mathematics for Computer Science
         Operating Systems Concepts
         Networking
-        Database Concepts
+        Data Engineering
     DevOps/SRE/SysAdmin:
         Linux
         FreeBSD
@@ -437,8 +437,9 @@ Contents:
                 Professor Messer - Seven Second Subnetting
                 https://youtu.be/ZxAwQB8TZsM
 
-        Database Concepts:
+        Data Engineering:
             Sources:
+                https://awesomedataengineering.com
                 https://db-engines.com/en/ranking
                 https://github.com/binhnguyennus/awesome-scalability
                 https://github.com/pingcap/awesome-database-learning
@@ -848,7 +849,6 @@ Contents:
         AWS:
             Sources:
                 https://adayinthelifeof.nl/2020/05/20/aws.html (A List of One-sentence Descriptions of AWS Services)
-                https://aws.amazon.com/certification
                 https://aws.amazon.com/getting-started/hands-on
                 https://awsvideocatalog.com (AWS Video Catalog is a website that collects all the official Amazon videos)
                 https://bash-my-aws.org
@@ -860,10 +860,8 @@ Contents:
                 https://github.com/serverless/serverless
                 https://github.com/toniblyx/my-arsenal-of-aws-security-tools
                 https://github.com/topics/aws?o=desc&s=stars
-                https://tutorialsdojo.com/aws-cheat-sheets
                 https://www.concurrencylabs.com/blog/choose-your-aws-region-wisely
                 https://www.ec2instances.info
-                https://www.examtopics.com/exams/amazon
                 https://www.reddit.com/r/aws
                 https://www.reddit.com/r/sysadmin/comments/8inzn5/so_you_want_to_learn_aws_aka_how_do_i_learn_to_be
                 https://pinboard.in/u:SharjeelSayed/t:aws
@@ -874,9 +872,11 @@ Contents:
                 https://courses.datacumulus.com (Discount codes for the Course)
                 https://courses.datacumulus.com/downloads/certified-solutions-architect-pn9 (AWS Certified Solutions Architect Associate Code & Slides)
                 
-                AWS Certified Solutions Architect Associate Practice Exams by Jon Bonso
-                https://portal.tutorialsdojo.com/courses/aws-certified-solutions-architect-associate-practice-exams
-                https://www.udemy.com/course/aws-certified-solutions-architect-associate-amazon-practice-exams-saa-c02
+                AWS Certified Solutions Architect - Associate (SAA-C02) by Adrian Cantrill
+                https://learn.cantrill.io/p/aws-certified-solutions-architect-associate-saa-c02
+                https://github.com/acantril/aws-sa-associate-saac02
+                https://github.com/alozano-77/AWS-SAA-C02-Course
+                https://techstudyslack.com
 
                 Ultimate AWS Certified Developer Associate 2020 - NEW! by Stephane Maarek
                 https://www.udemy.com/course/aws-certified-developer-associate-dva-c01
@@ -892,20 +892,20 @@ Contents:
                 https://github.com/open-guides/og-aws
                 
                 AWS Certifications:
+                https://aws.amazon.com/certification
                 https://aws.amazon.com/training/learning-paths
                 https://tutorialsdojo.com/aws-cheat-sheets
                 https://tutorialsdojo.com/aws-study-path-notes
+                https://www.examtopics.com/exams/amazon
                 https://www.qwiklabs.com/quests/10 (Solutions Architect - Associate)
                 https://www.reddit.com/r/AWSCertifications
                 https://www.reddit.com/r/AWSCertifications/search/?q=course&restrict_sr=on&t=year
                 https://www.udemy.com/topic/aws-certification
             
             Additional Material:
-                AWS Certified Solutions Architect - Associate (SAA-C02) by Adrian Cantrill
-                https://learn.cantrill.io/p/aws-certified-solutions-architect-associate-saa-c02
-                https://github.com/acantril/aws-sa-associate-saac02
-                https://github.com/alozano-77/AWS-SAA-C02-Course
-                https://techstudyslack.com
+                AWS Certified Solutions Architect Associate Practice Exams by Jon Bonso
+                https://portal.tutorialsdojo.com/courses/aws-certified-solutions-architect-associate-practice-exams
+                https://www.udemy.com/course/aws-certified-solutions-architect-associate-amazon-practice-exams-saa-c02
 
                 AWS Certified Solutions Architect - Associate 2020 (PASS THE EXAM!) | Ad-Free Course by freeCodeCamp.org
                 https://youtu.be/Ia-UEYYR44s
@@ -1124,6 +1124,7 @@ Contents:
         Python:
             Sources:
                 https://boto3.amazonaws.com/v1/documentation/api/latest/index.html
+                https://docs.python.org/3/tutorial
                 https://github.com/pyenv/pyenv
                 https://github.com/topics/python?o=desc&s=stars
                 https://github.com/vinta/awesome-python
@@ -1142,25 +1143,31 @@ Contents:
                 https://www.reddit.com/r/learnpython/wiki
                 https://www.reddit.com/r/Python
                 https://www.udemy.com/topic/python/?ratings=4.5&sort=popularity
+                https://github.com/donnemartin/interactive-coding-challenges
 
             Books and Courses:
-                Learn Python 3 the Hard Way
-                https://learnpythonthehardway.org/python3
-                http://www.informit.com/promotions/book-registration-learn-python-3-the-hard-way-141409 (Videos)
-                
+                Practical Python Programming
+                https://dabeaz-course.github.io/practical-python/Notes/Contents.html
+                https://github.com/dabeaz-course/practical-python
+                https://learning.oreilly.com/videos/python-programming-language/9780134217314
+
                 Automate the Boring Stuff with Python
                 https://automatetheboringstuff.com/2e
                 https://www.udemy.com/course/automate
                 https://inventwithpython.com/automateudemy (Coupon)
-                
-                The Python Tutorial
-                http://docs.python.org/py3k/tutorial/index.html
+
+                Learn Python 3 the Hard Way
+                https://learnpythonthehardway.org/python3
+                http://www.informit.com/promotions/book-registration-learn-python-3-the-hard-way-141409 (Videos)
                 
                 A Gentle Introduction to Programming Using Python
                 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011
 
                 Python Tutorials by Corey Schafer
                 https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU
+
+                2020 Complete Python Bootcamp: From Zero to Hero in Python
+                https://www.udemy.com/course/complete-python-bootcamp
 
         C:
             Sources:
@@ -2508,6 +2515,7 @@ Contents:
                 https://github.com/gilbertchen/duplicacy
                 https://github.com/jbruchon/jdupes
                 https://github.com/restic/others
+                https://github.com/schollz/croc
                 https://github.com/simon987/awesome-datahoarding
                 https://github.com/topics/backup?o=desc&s=stars
                 https://news.ycombinator.com/item?id=17603348 (Ask HN: How do you backup your files without depending on a third party service?)
