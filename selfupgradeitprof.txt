@@ -934,12 +934,22 @@ Contents:
             Sources:
                 https://cloud.google.com/certification
 
+        Heroku:
+            Sources:
+                https://www.udemy.com/topic/heroku
+                https://devcenter.heroku.com
+
+            Books and Courses:
+                Salesforce Heroku Masterclass by João Gomes
+                https://www.udemy.com/course/heroku-masterclass
+
         NGINX:
             Sources:
                 https://docs.nginx.com/nginx/admin-guide/monitoring/logging
                 https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange
                 https://en.wikipedia.org/wiki/Elliptic-curve_Diffie%E2%80%93Hellman
                 https://gist.github.com/willurd/5720255 (Big list of http static server one-liners)
+                https://github.com/bunkerity/bunkerized-nginx
                 https://github.com/fcambus/nginx-resources
                 https://github.com/topics/nginx?o=desc&s=stars
                 https://github.com/trimstray/nginx-admins-handbook
@@ -1106,12 +1116,18 @@ Contents:
 
         PostgreSQL:
             Sources:
+                https://github.com/dbeaver/dbeaver
                 https://github.com/dhamaniasad/awesome-postgres
+                https://github.com/topics/postgresql?o=desc&s=stars
                 https://news.ycombinator.com/item?id=23208181 (Ask HN: What PostgreSQL client do you use?)
             
             Books and Courses:
                 https://www.postgresql.org/docs/current
                 https://pgexercises.com
+
+                The Complete SQL Bootcamp 2020: Go from Zero to Hero by Jose Portilla
+                https://www.udemy.com/course/the-complete-sql-bootcamp
+                https://github.com/jmportilla/Udemy-notes (Coupon)
 
         Redis:
             Books and Courses:
@@ -1125,8 +1141,10 @@ Contents:
             Sources:
                 https://boto3.amazonaws.com/v1/documentation/api/latest/index.html
                 https://docs.python.org/3/tutorial
+                https://github.com/donnemartin/interactive-coding-challenges
                 https://github.com/pyenv/pyenv
                 https://github.com/topics/python?o=desc&s=stars
+                https://github.com/tuvtran/project-based-learning#python
                 https://github.com/vinta/awesome-python
                 https://news.ycombinator.com/item?id=16622038 (At full speed with Python: a book for self-learners)
                 https://news.ycombinator.com/item?id=21054462 (Ask HN: How do you handle/maintain local Python environments?)
@@ -1143,7 +1161,6 @@ Contents:
                 https://www.reddit.com/r/learnpython/wiki
                 https://www.reddit.com/r/Python
                 https://www.udemy.com/topic/python/?ratings=4.5&sort=popularity
-                https://github.com/donnemartin/interactive-coding-challenges
 
             Books and Courses:
                 Practical Python Programming
@@ -1235,6 +1252,10 @@ Contents:
         Node.js:
             Sources:
                 https://github.com/sindresorhus/awesome-nodejs
+                https://github.com/topics/nodejs?o=desc&s=stars
+                https://nodeschool.io
+                https://www.reddit.com/r/node/top/?sort=top&t=year
+                https://www.udemy.com/topic/nodejs
                 
             Books and Courses:
                 Node.js Tutorial for Beginners: Learn Node in 1 Hour | Mosh
@@ -1383,6 +1404,9 @@ Contents:
                 
                 MIT Course Number 6.858 :Computer Systems Security
                 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014
+
+                Practical Ethical Hacking - The Complete Course by Heath Adams
+                https://www.udemy.com/course/practical-ethical-hacking
 
         Hardware:
             Sources:
