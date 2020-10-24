@@ -708,8 +708,10 @@ Contents:
             Sources:
                 https://blog.pipetail.io/posts/2020-05-04-most-common-mistakes-k8s
                 https://chrisshort.net/kubernetes-illustrated-childrens-guide
+                https://github.com/ahmetb/kubernetes-network-policy-recipes
                 https://github.com/askmeegs/learn-istio
                 https://github.com/dennyzhang/cheatsheet-kubernetes-A4
+                https://github.com/eon01/kubernetes-workshop
                 https://github.com/jamiehannaford/what-happens-when-k8s
                 https://github.com/kelseyhightower/kubernetes-the-hard-way
                 https://github.com/kubernetes/kubernetes
@@ -776,6 +778,7 @@ Contents:
                 https://github.com/dgkanatsios/CKAD-exercises
                 https://github.com/lucassha/CKAD-resources
                 https://github.com/walidshaari/Kubernetes-Certified-Administrator
+                https://itnext.io/how-to-pass-the-new-cka-exam-released-at-september-2020-e0e014d67f78
                 https://killer.sh
                 https://levelup.gitconnected.com/kubernetes-cka-example-questions-practical-challenge-86318d85b4d
                 https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka
@@ -878,6 +881,10 @@ Contents:
                 https://github.com/alozano-77/AWS-SAA-C02-Course
                 https://techstudyslack.com
 
+                AWS Certified Solutions Architect Associate Practice Exams by Jon Bonso
+                https://portal.tutorialsdojo.com/courses/aws-certified-solutions-architect-associate-practice-exams
+                https://www.udemy.com/course/aws-certified-solutions-architect-associate-amazon-practice-exams-saa-c02
+
                 Ultimate AWS Certified Developer Associate 2020 - NEW! by Stephane Maarek
                 https://www.udemy.com/course/aws-certified-developer-associate-dva-c01
                 https://courses.datacumulus.com/downloads/certified-developer-k92
@@ -903,10 +910,6 @@ Contents:
                 https://www.udemy.com/topic/aws-certification
             
             Additional Material:
-                AWS Certified Solutions Architect Associate Practice Exams by Jon Bonso
-                https://portal.tutorialsdojo.com/courses/aws-certified-solutions-architect-associate-practice-exams
-                https://www.udemy.com/course/aws-certified-solutions-architect-associate-amazon-practice-exams-saa-c02
-
                 AWS Certified Solutions Architect - Associate 2020 (PASS THE EXAM!) | Ad-Free Course by freeCodeCamp.org
                 https://youtu.be/Ia-UEYYR44s
         
