@@ -47,6 +47,7 @@ Contents:
         C
         Java
         Web Development
+        JavaScript
         Node.js
         Tomcat
         Regex
@@ -179,6 +180,7 @@ Contents:
                 http://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read
                 http://www.flyingmachinestudios.com/programming/learn-programming-languages-efficiently
                 https://blog.codinghorror.com/recommended-reading-for-developers
+                https://blog.rutikwankhade.dev/github-repositories-every-aspiring-developer-should-check-out
                 https://dev.to
                 https://devdocs.io
                 https://devurls.com
@@ -478,6 +480,7 @@ Contents:
                 https://www.amazon.com/Database-Design-Mere-Mortals-Hands/dp/0321884493
                 
                 Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems
+                https://dataintensive.net
                 https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable-ebook/dp/B06XPJML5D
 
     DevOps/SRE/SysAdmin:
@@ -1252,6 +1255,37 @@ Contents:
                 CS50's Web Programming with Python and JavaScript
                 https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript-web
 
+        JavaScript:
+            Sources:
+                https://github.com/topics/javascript?o=desc&s=stars
+                https://hackr.io/tutorials/learn-javascript
+                https://news.ycombinator.com/item?id=22990926 (Eloquent JavaScript 3rd Edition (2018) (eloquentjavascript.net))
+                https://www.reddit.com/r/javascript/top/?sort=top&t=year
+                https://www.reddit.com/r/learnjavascript/top/?sort=top&t=year
+                https://www.reddit.com/r/learnjavascript/wiki
+                https://www.udemy.com/topic/javascript
+            
+            Books and Courses:
+                The Modern JavaScript Tutorial
+                https://javascript.info
+                https://github.com/javascript-tutorial/en.javascript.info
+
+                Wes Bos
+                https://beginnerjavascript.com
+                https://javascript30.com
+
+                Practical JavaScript
+                https://watchandcode.com
+
+                Eloquent JavaScript 3rd edition
+                https://eloquentjavascript.net
+
+                Modern JavaScript Tutorial by The Net Ninja
+                https://www.youtube.com/playlist?list=PL4cUxeGkcC9haFPT7J25Q9GRB_ZkFrQAc
+
+                The Complete JavaScript Course 2020: From Zero to Expert! by Jonas Schmedtmann
+                https://www.udemy.com/course/the-complete-javascript-course
+
         Node.js:
             Sources:
                 https://github.com/sindresorhus/awesome-nodejs
@@ -1266,6 +1300,9 @@ Contents:
                 
                 Node JS Tutorial for Beginners
                 https://www.youtube.com/playlist?list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp
+
+                The Complete Node.js Developer Course (3rd Edition) by Andrew Mead
+                https://www.udemy.com/course/the-complete-nodejs-developer-course-2
 
         Tomcat:
             Books and Courses:
