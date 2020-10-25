@@ -29,6 +29,7 @@ Contents:
         AWS
         Azure
         GCP
+        Heroku
         NginX
         Apache
         IIS
@@ -37,34 +38,35 @@ Contents:
         Terraform
         Vagrant
         Puppet
-        SQL
         MySQL
         SQL Server
         PostgreSQL
         Redis
         Memcached
-        Python
-        C
-        Java
-        Web Development
-        JavaScript
-        Node.js
         Tomcat
-        Regex
         Git
         Jenkins
         Vim
         ELK
         Security
         Hardware
-        iOS/Android
         macOS
         Microsoft Excel
         Electronics
         Science
         Design
-        Machine Learning
         MOOC
+    Development:
+        SQL
+        Python
+        C
+        Java
+        Web Development
+        JavaScript
+        Node.js
+        Regex
+        iOS/Android
+        Machine Learning
     Career:
         Interview Guides
         Resume Improvement
@@ -602,6 +604,7 @@ Contents:
                 https://mywiki.wooledge.org/BashPitfalls
                 https://news.ycombinator.com/item?id=14634964 (Ask HN: How can I get better at bash?)
                 https://news.ycombinator.com/item?id=22975437 (Shell Productivity Tips and Tricks (balthazar-rouberol.com))
+                https://news.ycombinator.com/item?id=24880170 (/.bashrc VS –/.profile VS –/.bash_profile (leimao.github.io))
                 https://switowski.com/blog/favorite-cli-tools
                 https://pinboard.in/u:SharjeelSayed/t:bash
             
@@ -1094,24 +1097,6 @@ Contents:
                 Puppet 5 Beginner's Guide - Third Edition: Go from newbie to pro with Puppet 5
                 https://www.amazon.com/Puppet-Beginners-Guide-Third-newbie/dp/178847290X
 
-        SQL:
-            Sources:
-                https://news.ycombinator.com/item?id=23070491 (Here are some other SQL Learning resources I have collected in my note taking Wiki (mostly from HN itself))
-                https://news.ycombinator.com/item?id=23138297 (Advanced SQL and database books and resources (neilwithdata.com))
-                https://pinboard.in/u:SharjeelSayed/t:sql
-
-            Books and Courses:
-                Stanford DB5 Course on SQL
-                https://lagunita.stanford.edu/courses/DB/SQL/SelfPaced/about
-                
-                https://sqlzoo.net
-                
-                https://www.sqlteaching.com
-                
-                https://www.w3schools.com/sql
-
-                https://use-the-index-luke.com
-
         MySQL:
             Books and Courses:
                 https://dev.mysql.com/doc/refman/5.7/en
@@ -1143,186 +1128,10 @@ Contents:
             Books and Courses:
                 https://github.com/memcached/memcached/wiki
                 
-        Python:
-            Sources:
-                https://boto3.amazonaws.com/v1/documentation/api/latest/index.html
-                https://docs.python.org/3/tutorial
-                https://github.com/donnemartin/interactive-coding-challenges
-                https://github.com/pyenv/pyenv
-                https://github.com/topics/python?o=desc&s=stars
-                https://github.com/tuvtran/project-based-learning#python
-                https://github.com/vinta/awesome-python
-                https://news.ycombinator.com/item?id=16622038 (At full speed with Python: a book for self-learners)
-                https://news.ycombinator.com/item?id=21054462 (Ask HN: How do you handle/maintain local Python environments?)
-                https://opensource.com/article/19/5/python-3-default-mac (The right and wrong way to set Python 3 as default on a Mac)
-                https://pybit.es/python-resources.html
-                https://pythonbooks.org
-                https://realpython.com/courses/python-boto3-aws-s3
-                https://www.jetbrains.com/lp/python-developers-survey-2019
-                https://www.reddit.com/r/learnprogramming/comments/6bxdut/python_for_beginners_complete_series
-                https://www.reddit.com/r/learnprogramming/wiki/online#wiki_python
-                https://www.reddit.com/r/learnpython/comments/53z5p4/how_to_start_learning_python_the_complete_guide
-                https://www.reddit.com/r/learnpython/comments/609p5x/selftaught_people_how_did_you_learn_python
-                https://www.reddit.com/r/learnpython/top
-                https://www.reddit.com/r/learnpython/wiki
-                https://www.reddit.com/r/Python
-                https://www.udemy.com/topic/python/?ratings=4.5&sort=popularity
-
-            Books and Courses:
-                Practical Python Programming
-                https://dabeaz-course.github.io/practical-python/Notes/Contents.html
-                https://github.com/dabeaz-course/practical-python
-                https://learning.oreilly.com/videos/python-programming-language/9780134217314
-
-                Automate the Boring Stuff with Python
-                https://automatetheboringstuff.com/2e
-                https://www.udemy.com/course/automate
-                https://inventwithpython.com/automateudemy (Coupon)
-
-                Learn Python 3 the Hard Way
-                https://learnpythonthehardway.org/python3
-                http://www.informit.com/promotions/book-registration-learn-python-3-the-hard-way-141409 (Videos)
-                
-                A Gentle Introduction to Programming Using Python
-                https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011
-
-                Python Tutorials by Corey Schafer
-                https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU
-
-                2020 Complete Python Bootcamp: From Zero to Hero in Python
-                https://www.udemy.com/course/complete-python-bootcamp
-
-        C:
-            Sources:
-                https://news.ycombinator.com/item?id=11606296 (To become a good C programmer (2011) (fabiensanglard.net))
-                https://news.ycombinator.com/item?id=12475383 (“Learn C the Hard Way” is no longer available for free)
-                https://news.ycombinator.com/item?id=15198093 (Beej's Guide to C Programming (2007))
-                https://news.ycombinator.com/item?id=16196194 (Brushing up on operating systems and C programming)
-                https://news.ycombinator.com/item?id=16347309 (Ask HN: What project did you tackle to learn C?)
-                https://news.ycombinator.com/item?id=19126544 (Show HN: Learn C and its lower levels interactively, in the browser)
-                https://news.ycombinator.com/item?id=22519876 (	Ask HN: How do I learn C properly?)
-                
-            Books and Courses:
-                Learn C The Hard Way
-                https://learncodethehardway.org/c
-                http://www.informit.com/promotions/book-registration-learn-c-the-hard-way-140880 (Videos)
-                
-                C Programming: A Modern Approach
-                https://www.amazon.com/C-Programming-Modern-Approach-2nd/dp/0393979504
-
-        Java:
-            Sources:
-                https://github.com/akullpp/awesome-java
-                https://github.com/topics/java?o=desc&s=stars
-                https://www.reddit.com/r/learnprogramming/wiki/online#wiki_java
-                
-            Books and Courses:
-                Object-Oriented programming with Java
-                http://mooc.fi/courses/2013/programming-part-1
-                
-                Complete Java Masterclass
-                https://www.udemy.com/java-the-complete-java-developer-course
-                
-                Head First Java 2nd Edition
-                https://www.amazon.com/Head-First-Java-Kathy-Sierra/dp/0596009208
-                
-                Murach's Java Servlets and JSP
-                https://www.amazon.com/Murachs-Java-Servlets-JSP-2nd/dp/1890774448
-
-        Web Development:
-            Sources:
-                https://digitaldefynd.com/best-free-web-development-courses-tutorials-certification
-                https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer
-                https://github.com/h5bp/Front-end-Developer-Interview-Questions
-                https://github.com/lauragift21/awesome-learning-resources
-                https://github.com/thedaviddias/Front-End-Performance-Checklist
-                https://github.com/topics/front-end?o=desc&s=stars
-                https://github.com/yangshun/front-end-interview-handbook
-                https://news.ycombinator.com/item?id=24130286 (Ask HN: Self-taught webdev with lots of free time. What should I learn?)
-                https://www.reddit.com/r/learnprogramming/comments/bvlsf7/the_odin_project_vs_colt_steeles_web_dev_bootcamp
-                https://www.reddit.com/r/webdev/comments/8lvsxa/is_colt_steele_web_dev_bootcamp_still_the_go_to
-                
-            Books and Courses:
-                html & css is hard :A friendly web development tutorial for complete beginners
-                https://internetingishard.com/html-and-css
-                
-                freeCodeCamp 
-                https://www.freecodecamp.com
-                
-                The Web Developer Bootcamp by Colt Steele
-                https://www.udemy.com/the-web-developer-bootcamp
-                
-                CS50's Web Programming with Python and JavaScript
-                https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript-web
-
-        JavaScript:
-            Sources:
-                https://github.com/topics/javascript?o=desc&s=stars
-                https://hackr.io/tutorials/learn-javascript
-                https://news.ycombinator.com/item?id=22990926 (Eloquent JavaScript 3rd Edition (2018) (eloquentjavascript.net))
-                https://www.reddit.com/r/javascript/top/?sort=top&t=year
-                https://www.reddit.com/r/learnjavascript/top/?sort=top&t=year
-                https://www.reddit.com/r/learnjavascript/wiki
-                https://www.udemy.com/topic/javascript
-            
-            Books and Courses:
-                The Modern JavaScript Tutorial
-                https://javascript.info
-                https://github.com/javascript-tutorial/en.javascript.info
-
-                Wes Bos
-                https://beginnerjavascript.com
-                https://javascript30.com
-
-                Practical JavaScript
-                https://watchandcode.com
-
-                Eloquent JavaScript 3rd edition
-                https://eloquentjavascript.net
-
-                Modern JavaScript Tutorial by The Net Ninja
-                https://www.youtube.com/playlist?list=PL4cUxeGkcC9haFPT7J25Q9GRB_ZkFrQAc
-
-                The Complete JavaScript Course 2020: From Zero to Expert! by Jonas Schmedtmann
-                https://www.udemy.com/course/the-complete-javascript-course
-
-        Node.js:
-            Sources:
-                https://github.com/sindresorhus/awesome-nodejs
-                https://github.com/topics/nodejs?o=desc&s=stars
-                https://nodeschool.io
-                https://www.reddit.com/r/node/top/?sort=top&t=year
-                https://www.udemy.com/topic/nodejs
-                
-            Books and Courses:
-                Node.js Tutorial for Beginners: Learn Node in 1 Hour | Mosh
-                https://youtu.be/TlB_eWDSMt4
-                
-                Node JS Tutorial for Beginners
-                https://www.youtube.com/playlist?list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp
-
-                The Complete Node.js Developer Course (3rd Edition) by Andrew Mead
-                https://www.udemy.com/course/the-complete-nodejs-developer-course-2
-
         Tomcat:
             Books and Courses:
                 Tomcat: The Definitive Guide
                 https://www.amazon.com/Tomcat-Definitive-Guide-Jason-Brittain/dp/0596101066
-
-        Regex:
-            Sources:
-                https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=regex&sort=byPopularity&type=story
-                https://news.ycombinator.com/item?id=20608032 (Regex for Noobs – An Illustrated Guide (janmeppe.com))
-                
-            Books and Courses:
-                Regular Expressions Cookbook: Detailed Solutions in Eight Programming Languages 2nd Edition
-                https://www.amazon.com/Regular-Expressions-Cookbook-Solutions-Programming/dp/1449319432
-                
-                Learn regex the easy way
-                https://github.com/ziishaned/learn-regex
-                
-                Online regex tester and debugger
-                https://regex101.com
 
         Git:
             Sources:
@@ -1363,8 +1172,9 @@ Contents:
         Jenkins:
             Sources:
                 https://github.com/topics/jenkins?o=desc&s=stars
-                https://www.udemy.com/topic/jenkins
                 https://standard.cbu.cloudbees.com
+                https://www.jenkins.io/doc
+                https://www.udemy.com/topic/jenkins
 
             Books and Courses:
                 Learn DevOps: CI/CD with Jenkins using Pipelines and Docker by Edward Viaene
@@ -1457,10 +1267,6 @@ Contents:
             Books and Courses:
                 Professor Messer’s CompTIA 220-901 and 220-902 A+ Training Videos
                 http://www.professormesser.com/free-a-plus-training/220-901/comptia-220-900-course
-
-        iOS/Android:
-            Books and Courses:
-                https://www.raywenderlich.com
 
         Microsoft Excel:
             Sources:
@@ -1630,21 +1436,6 @@ Contents:
                 The ultimate guide for mobile developers, who want to design
                 https://medium.com/flawless-app-stories/https-medium-com-flawless-app-stories-the-ultimate-guide-for-mobile-developers-who-want-to-design-part1-a2d47c04fd49
 
-        Machine Learning:
-            Sources:
-                https://blog.floydhub.com/best-deep-learning-courses-updated-for-2019
-                https://news.ycombinator.com/item?id=12713056 (Ask HN: How to get started with machine learning?)
-                https://news.ycombinator.com/item?id=16493489 (Machine Learning Crash Course)
-                https://news.ycombinator.com/item?id=18321665 (Foundations of ML and AI: Book recommendations (dragan.rocks))
-                https://news.ycombinator.com/item?id=20674745 (Ask HN: What Neural Networks/Deep Learning Books Should I Read?)
-                
-            Books and Courses:
-                Machine Learning by Andrew Ng
-                https://www.coursera.org/learn/machine-learning
-                
-                Deep Learning Specialization by Andrew Ng
-                https://www.coursera.org/specializations/deep-learning
-
         MOOC:
             Sources:
                 http://academictorrents.com
@@ -1693,8 +1484,223 @@ Contents:
                 https://www.udemy.com/courses/free/?p=12&sort=popularity
                 https://yahnd.com (Best courses , talks and videos recommended on Hacker News)
 
-    Career:
+    Development:
+        SQL:
+            Sources:
+                https://news.ycombinator.com/item?id=23070491 (Here are some other SQL Learning resources I have collected in my note taking Wiki (mostly from HN itself))
+                https://news.ycombinator.com/item?id=23138297 (Advanced SQL and database books and resources (neilwithdata.com))
+                https://pinboard.in/u:SharjeelSayed/t:sql
 
+            Books and Courses:
+                Stanford DB5 Course on SQL
+                https://lagunita.stanford.edu/courses/DB/SQL/SelfPaced/about
+                
+                https://sqlzoo.net
+                
+                https://www.sqlteaching.com
+                
+                https://www.w3schools.com/sql
+
+                https://use-the-index-luke.com
+
+        Python:
+            Sources:
+                https://boto3.amazonaws.com/v1/documentation/api/latest/index.html
+                https://docs.python.org/3/tutorial
+                https://github.com/donnemartin/interactive-coding-challenges
+                https://github.com/pyenv/pyenv
+                https://github.com/topics/python?o=desc&s=stars
+                https://github.com/tuvtran/project-based-learning#python
+                https://github.com/vinta/awesome-python
+                https://news.ycombinator.com/item?id=16622038 (At full speed with Python: a book for self-learners)
+                https://news.ycombinator.com/item?id=21054462 (Ask HN: How do you handle/maintain local Python environments?)
+                https://opensource.com/article/19/5/python-3-default-mac (The right and wrong way to set Python 3 as default on a Mac)
+                https://pybit.es/python-resources.html
+                https://pythonbooks.org
+                https://realpython.com/courses/python-boto3-aws-s3
+                https://www.jetbrains.com/lp/python-developers-survey-2019
+                https://www.reddit.com/r/learnprogramming/comments/6bxdut/python_for_beginners_complete_series
+                https://www.reddit.com/r/learnprogramming/wiki/online#wiki_python
+                https://www.reddit.com/r/learnpython/comments/53z5p4/how_to_start_learning_python_the_complete_guide
+                https://www.reddit.com/r/learnpython/comments/609p5x/selftaught_people_how_did_you_learn_python
+                https://www.reddit.com/r/learnpython/top
+                https://www.reddit.com/r/learnpython/wiki
+                https://www.reddit.com/r/Python
+                https://www.udemy.com/topic/python/?ratings=4.5&sort=popularity
+
+            Books and Courses:
+                Practical Python Programming
+                https://dabeaz-course.github.io/practical-python/Notes/Contents.html
+                https://github.com/dabeaz-course/practical-python
+                https://learning.oreilly.com/videos/python-programming-language/9780134217314
+
+                Automate the Boring Stuff with Python
+                https://automatetheboringstuff.com/2e
+                https://www.udemy.com/course/automate
+                https://inventwithpython.com/automateudemy (Coupon)
+
+                Learn Python 3 the Hard Way
+                https://learnpythonthehardway.org/python3
+                http://www.informit.com/promotions/book-registration-learn-python-3-the-hard-way-141409 (Videos)
+                
+                A Gentle Introduction to Programming Using Python
+                https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011
+
+                Python Tutorials by Corey Schafer
+                https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU
+
+                2020 Complete Python Bootcamp: From Zero to Hero in Python
+                https://www.udemy.com/course/complete-python-bootcamp
+
+        C:
+            Sources:
+                https://news.ycombinator.com/item?id=11606296 (To become a good C programmer (2011) (fabiensanglard.net))
+                https://news.ycombinator.com/item?id=12475383 (“Learn C the Hard Way” is no longer available for free)
+                https://news.ycombinator.com/item?id=15198093 (Beej's Guide to C Programming (2007))
+                https://news.ycombinator.com/item?id=16196194 (Brushing up on operating systems and C programming)
+                https://news.ycombinator.com/item?id=16347309 (Ask HN: What project did you tackle to learn C?)
+                https://news.ycombinator.com/item?id=19126544 (Show HN: Learn C and its lower levels interactively, in the browser)
+                https://news.ycombinator.com/item?id=22519876 (	Ask HN: How do I learn C properly?)
+                
+            Books and Courses:
+                Learn C The Hard Way
+                https://learncodethehardway.org/c
+                http://www.informit.com/promotions/book-registration-learn-c-the-hard-way-140880 (Videos)
+                
+                C Programming: A Modern Approach
+                https://www.amazon.com/C-Programming-Modern-Approach-2nd/dp/0393979504
+
+        Java:
+            Sources:
+                https://github.com/akullpp/awesome-java
+                https://github.com/topics/java?o=desc&s=stars
+                https://www.reddit.com/r/learnprogramming/wiki/online#wiki_java
+                
+            Books and Courses:
+                Object-Oriented programming with Java
+                http://mooc.fi/courses/2013/programming-part-1
+                
+                Complete Java Masterclass
+                https://www.udemy.com/java-the-complete-java-developer-course
+                
+                Head First Java 2nd Edition
+                https://www.amazon.com/Head-First-Java-Kathy-Sierra/dp/0596009208
+                
+                Murach's Java Servlets and JSP
+                https://www.amazon.com/Murachs-Java-Servlets-JSP-2nd/dp/1890774448
+
+        Web Development:
+            Sources:
+                https://digitaldefynd.com/best-free-web-development-courses-tutorials-certification
+                https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer
+                https://github.com/h5bp/Front-end-Developer-Interview-Questions
+                https://github.com/lauragift21/awesome-learning-resources
+                https://github.com/thedaviddias/Front-End-Performance-Checklist
+                https://github.com/topics/front-end?o=desc&s=stars
+                https://github.com/yangshun/front-end-interview-handbook
+                https://news.ycombinator.com/item?id=24130286 (Ask HN: Self-taught webdev with lots of free time. What should I learn?)
+                https://www.reddit.com/r/learnprogramming/comments/bvlsf7/the_odin_project_vs_colt_steeles_web_dev_bootcamp
+                https://www.reddit.com/r/webdev/comments/8lvsxa/is_colt_steele_web_dev_bootcamp_still_the_go_to
+                
+            Books and Courses:
+                html & css is hard :A friendly web development tutorial for complete beginners
+                https://internetingishard.com/html-and-css
+                
+                freeCodeCamp 
+                https://www.freecodecamp.com
+                
+                The Web Developer Bootcamp by Colt Steele
+                https://www.udemy.com/the-web-developer-bootcamp
+                
+                CS50's Web Programming with Python and JavaScript
+                https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript-web
+
+        JavaScript:
+            Sources:
+                https://github.com/topics/javascript?o=desc&s=stars
+                https://hackr.io/tutorials/learn-javascript
+                https://news.ycombinator.com/item?id=22990926 (Eloquent JavaScript 3rd Edition (2018) (eloquentjavascript.net))
+                https://www.reddit.com/r/javascript/top/?sort=top&t=year
+                https://www.reddit.com/r/learnjavascript/top/?sort=top&t=year
+                https://www.reddit.com/r/learnjavascript/wiki
+                https://www.udemy.com/topic/javascript
+            
+            Books and Courses:
+                The Modern JavaScript Tutorial
+                https://javascript.info
+                https://github.com/javascript-tutorial/en.javascript.info
+
+                Wes Bos
+                https://beginnerjavascript.com
+                https://www.freetutorials.ca/course/beginnerjavascriptcom-beginner-javascript
+                https://github.com/wesbos/beginner-javascript
+                https://javascript30.com
+
+                Practical JavaScript
+                https://watchandcode.com
+
+                Eloquent JavaScript 3rd edition
+                https://eloquentjavascript.net
+
+                Modern JavaScript Tutorial by The Net Ninja
+                https://www.youtube.com/playlist?list=PL4cUxeGkcC9haFPT7J25Q9GRB_ZkFrQAc
+
+                The Complete JavaScript Course 2020: From Zero to Expert! by Jonas Schmedtmann
+                https://www.udemy.com/course/the-complete-javascript-course
+
+        Node.js:
+            Sources:
+                https://github.com/sindresorhus/awesome-nodejs
+                https://github.com/topics/nodejs?o=desc&s=stars
+                https://nodeschool.io
+                https://www.reddit.com/r/node/top/?sort=top&t=year
+                https://www.udemy.com/topic/nodejs
+                
+            Books and Courses:
+                Node.js Tutorial for Beginners: Learn Node in 1 Hour | Mosh
+                https://youtu.be/TlB_eWDSMt4
+                
+                Node JS Tutorial for Beginners
+                https://www.youtube.com/playlist?list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp
+
+                The Complete Node.js Developer Course (3rd Edition) by Andrew Mead
+                https://www.udemy.com/course/the-complete-nodejs-developer-course-2
+
+        Regex:
+            Sources:
+                https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=regex&sort=byPopularity&type=story
+                https://news.ycombinator.com/item?id=20608032 (Regex for Noobs – An Illustrated Guide (janmeppe.com))
+                
+            Books and Courses:
+                Regular Expressions Cookbook: Detailed Solutions in Eight Programming Languages 2nd Edition
+                https://www.amazon.com/Regular-Expressions-Cookbook-Solutions-Programming/dp/1449319432
+                
+                Learn regex the easy way
+                https://github.com/ziishaned/learn-regex
+                
+                Online regex tester and debugger
+                https://regex101.com
+
+        iOS/Android:
+            Books and Courses:
+                https://www.raywenderlich.com
+
+        Machine Learning:
+            Sources:
+                https://blog.floydhub.com/best-deep-learning-courses-updated-for-2019
+                https://news.ycombinator.com/item?id=12713056 (Ask HN: How to get started with machine learning?)
+                https://news.ycombinator.com/item?id=16493489 (Machine Learning Crash Course)
+                https://news.ycombinator.com/item?id=18321665 (Foundations of ML and AI: Book recommendations (dragan.rocks))
+                https://news.ycombinator.com/item?id=20674745 (Ask HN: What Neural Networks/Deep Learning Books Should I Read?)
+                
+            Books and Courses:
+                Machine Learning by Andrew Ng
+                https://www.coursera.org/learn/machine-learning
+                
+                Deep Learning Specialization by Andrew Ng
+                https://www.coursera.org/specializations/deep-learning
+
+    Career:
         Interview Guides:
             Sources:
                 http://blog.interviewing.io/what-really-matters-in-technical-interviews-we-analyzed-thousands-of-interviews-on-everything-from-language-to-code-style-heres-what-we-found
