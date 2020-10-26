@@ -869,6 +869,7 @@ Contents:
                 https://github.com/serverless/serverless
                 https://github.com/toniblyx/my-arsenal-of-aws-security-tools
                 https://github.com/topics/aws?o=desc&s=stars
+                https://www.awsgeek.com (Cloud Diagrams & Notes)
                 https://www.concurrencylabs.com/blog/choose-your-aws-region-wisely
                 https://www.ec2instances.info
                 https://www.reddit.com/r/aws
@@ -1177,6 +1178,14 @@ Contents:
                 https://www.udemy.com/topic/jenkins
 
             Books and Courses:
+                
+                DevOps-Projects by Valaxy Technologies (Shankar AR)
+                Ansible for the DevOps Beginners & System Admins
+                https://www.youtube.com/playlist?list=PLxzKY3wu0_FJdJd3IKdiM4Om1hGo2Hsdt
+                https://www.udemy.com/course/valaxy-ansible/?referralCode=9F36DC2010AEB6D64263
+                
+                
+            Additional Courses:
                 Learn DevOps: CI/CD with Jenkins using Pipelines and Docker by Edward Viaene
                 https://www.udemy.com/course/learn-devops-ci-cd-with-jenkins-using-pipelines-and-docker
                 https://github.com/wardviaene/jenkins-course
