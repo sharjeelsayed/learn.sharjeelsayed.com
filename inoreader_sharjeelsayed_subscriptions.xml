@@ -5,7 +5,8 @@
   </head>
   <body>
     <outline text="MustRead" title="MustRead">
-      <outline text="Crypto-Gram from Bruce Schneier" title="Crypto-Gram from Bruce Schneier" type="rss" xmlUrl="https://www.kill-the-newsletter.com/feeds/k33e88o998p7nj1yogvq.xml" htmlUrl="https://www.kill-the-newsletter.com/alternate"/>
+      <outline text="Devops Weekly" title="Devops Weekly" type="rss" xmlUrl="https://www.kill-the-newsletter.com/feeds/6j285p2hcl9vx1yfaxpa.xml" htmlUrl="https://www.kill-the-newsletter.com/alternate"/>
+      <outline text="Last Week in AWS" title="Last Week in AWS" type="rss" xmlUrl="https://kill-the-newsletter.com/feeds/p66ojkndts07716u9hdd.xml" htmlUrl="https://kill-the-newsletter.com/"/>
       <outline text="Top News: BBC, NYT, NDTV, Al Jazeera" title="Top News: BBC, NYT, NDTV, Al Jazeera" type="rss" xmlUrl="http://www.rssmix.com/u/12397086/rss.xml" htmlUrl="http://www.rssmix.com/"/>
       <outline text="Udemy+udemyfreebies : top scoring links" title="Udemy+udemyfreebies : top scoring links" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/Udemy%2Budemyfreebies/top/.rss" htmlUrl="https://www.reddit.com/r/Udemy+udemyfreebies/top/?t=1602012829"/>
       <outline text="Upwork,freelance: top scoring links" title="Upwork,freelance: top scoring links" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/Upwork%2Bfreelance/top/.rss" htmlUrl="https://www.reddit.com/r/Upwork+freelance/top/?t=1599397255"/>
@@ -15,7 +16,7 @@
       <outline text="aws, AWSCertifications:top scoring links" title="aws, AWSCertifications:top scoring links" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/AWSCertifications%2Baws/top/.rss" htmlUrl="https://www.reddit.com/r/AWSCertifications+aws/top/?t=1597993454"/>
       <outline text="Hacker News: 100 Points" title="Hacker News: 100 Points" type="rss" xmlUrl="https://hnrss.org/newest?points=100" htmlUrl="https://news.ycombinator.com/newest"/>
       <outline text="FastMail Status" title="FastMail Status" type="rss" xmlUrl="https://www.fastmailstatus.com/feed" htmlUrl="http://www.fastmailstatus.com/feed"/>
-      <outline text="Devops Weekly" title="Devops Weekly" type="rss" xmlUrl="https://www.kill-the-newsletter.com/feeds/6j285p2hcl9vx1yfaxpa.xml" htmlUrl="https://www.kill-the-newsletter.com/alternate"/>
+      <outline text="Crypto-Gram from Bruce Schneier" title="Crypto-Gram from Bruce Schneier" type="rss" xmlUrl="https://www.kill-the-newsletter.com/feeds/k33e88o998p7nj1yogvq.xml" htmlUrl="https://www.kill-the-newsletter.com/alternate"/>
       <outline text="Benedict Evans newsletter" title="Benedict Evans newsletter" type="rss" xmlUrl="https://www.kill-the-newsletter.com/feeds/5477x9vf3nsca3xprvew.xml" htmlUrl="https://www.kill-the-newsletter.com/alternate"/>
       <outline text="AppHookup" title="AppHookup" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/AppHookup/.rss" htmlUrl="https://www.reddit.com/r/AppHookup/?t=1585512865"/>
       <outline text="hackernewsletter" title="hackernewsletter" type="rss" xmlUrl="https://www.kill-the-newsletter.com/feeds/6yeqhs72sgt8xofd7swu.xml" htmlUrl="https://www.kill-the-newsletter.com/"/>
@@ -53,6 +54,7 @@
       <outline text="Today in Indian History" title="Today in Indian History" type="rss" xmlUrl="https://www.kill-the-newsletter.com/feeds/gen2jlmbnd2b316n3pwd.xml" htmlUrl="https://www.kill-the-newsletter.com/alternate"/>
       <outline text="Devops Weekly" title="Devops Weekly" type="rss" xmlUrl="https://www.kill-the-newsletter.com/feeds/6j285p2hcl9vx1yfaxpa.xml" htmlUrl="https://www.kill-the-newsletter.com/alternate"/>
       <outline text="mailmate" title="mailmate" type="rss" xmlUrl="https://kill-the-newsletter.com/feeds/cy5n8vmls4wzvyjcbl3i.xml" htmlUrl="https://kill-the-newsletter.com/"/>
+      <outline text="Last Week in AWS" title="Last Week in AWS" type="rss" xmlUrl="https://kill-the-newsletter.com/feeds/p66ojkndts07716u9hdd.xml" htmlUrl="https://kill-the-newsletter.com/"/>
     </outline>
     <outline text="Bookmarks" title="Bookmarks">
       <outline text="Pinboard (sharjeelsayed)" title="Pinboard (sharjeelsayed)" type="rss" xmlUrl="https://feeds.pinboard.in/rss/u:sharjeelsayed/" htmlUrl="https://pinboard.in/u:sharjeelsayed/public/"/>
@@ -75,6 +77,7 @@
       <outline text="The Practical Developer" title="The Practical Developer" type="rss" xmlUrl="https://dev.to/feed" htmlUrl="http://dev.to/"/>
       <outline text="netsec:top scoring links" title="netsec:top scoring links" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/netsec/top/.rss" htmlUrl="https://www.reddit.com/r/netsec/top/?t=1598199880"/>
       <outline text="Udemy+udemyfreebies : top scoring links" title="Udemy+udemyfreebies : top scoring links" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/Udemy%2Budemyfreebies/top/.rss" htmlUrl="https://www.reddit.com/r/Udemy+udemyfreebies/top/?t=1602012829"/>
+      <outline text="Last Week in AWS" title="Last Week in AWS" type="rss" xmlUrl="https://kill-the-newsletter.com/feeds/p66ojkndts07716u9hdd.xml" htmlUrl="https://kill-the-newsletter.com/"/>
     </outline>
     <outline text="Leisure" title="Leisure">
       <outline text="juul:top scoring links" title="juul:top scoring links" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/juul/top/.rss" htmlUrl="https://www.reddit.com/r/juul/top/?t=1598004533"/>
