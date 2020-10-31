@@ -1,7 +1,6 @@
 Curated Self Study Guide for Computer Science and DevOps/SRE/SysAdmin
 
     The latest updated copy of this page is at http://Learn.SharjeelSayed.com
-    Contribute with a pull request at https://github.com/SharjeelSayed/SharjeelSayed.github.io/blob/master/selfupgradeitprof.txt
     About me: http://SharjeelSayed.com
 
 Contents:
@@ -493,6 +492,7 @@ Contents:
             https://github.com/AcalephStorage/awesome-devops
             https://github.com/Artemmkin/infrastructure-as-code-tutorial
             https://github.com/danluu/post-mortems
+            https://github.com/dastergon/awesome-chaos-engineering
             https://github.com/dastergon/awesome-sre
             https://github.com/kahun/awesome-sysadmin
             https://github.com/Leo-G/DevopsWiki
@@ -714,6 +714,7 @@ Contents:
             Sources:
                 https://blog.pipetail.io/posts/2020-05-04-most-common-mistakes-k8s
                 https://chrisshort.net/kubernetes-illustrated-childrens-guide
+                https://devopsunlocked.com/kubernetes-learning-material
                 https://github.com/ahmetb/kubernetes-network-policy-recipes
                 https://github.com/askmeegs/learn-istio
                 https://github.com/dennyzhang/cheatsheet-kubernetes-A4
@@ -1610,11 +1611,10 @@ Contents:
                 https://news.ycombinator.com/item?id=24130286 (Ask HN: Self-taught webdev with lots of free time. What should I learn?)
                 https://www.reddit.com/r/learnprogramming/comments/bvlsf7/the_odin_project_vs_colt_steeles_web_dev_bootcamp
                 https://www.reddit.com/r/webdev/comments/8lvsxa/is_colt_steele_web_dev_bootcamp_still_the_go_to
+                https://www.udemy.com/courses/development/web-development
+                https://www.youtube.com/c/TraversyMedia
                 
             Books and Courses:
-                html & css is hard :A friendly web development tutorial for complete beginners
-                https://internetingishard.com/html-and-css
-                
                 freeCodeCamp 
                 https://www.freecodecamp.com
                 
@@ -1858,21 +1858,17 @@ Contents:
                 https://angel.co (5,741)
                 https://www.freshersworld.com (7,367)
                 https://www.iimjobs.com (8,978)
-                https://www.hirist.com (12462)
                 https://www.indeed.co.in (11,776)
+                https://www.hirist.com (12436)
+                https://weworkremotely.com/categories/remote-devops-sysadmin-jobs (12,510)
+                https://india.recruit.net (26,870)
+                https://www.placementindia.com (27,458)
+                https://www.simplyhired.co.in (31,413)
+                https://remoteok.io (31,905)
                 https://www.michaelpage.co.in (98,471)
                 https://www.jobleads.de (99,051)
+                https://whoishiring.io (1,041,887)
                 
-        Job Search Engines:
-            Sites:
-                https://stackoverflow.com/jobs
-                https://www.placementindia.com
-                https://india.recruit.net
-                https://www.simplyhired.co.in
-                https://whoishiring.io
-                https://weworkremotely.com/categories/remote-devops-sysadmin-jobs
-                https://remoteok.io
-
             Dubai Job Sites:
                 https://www.bayt.com (2,320)
                 https://www.naukrigulf.com (4,844)
@@ -2670,14 +2666,15 @@ Contents:
                 https://pinboard.in/u:SharjeelSayed/t:torrent
 
             Sites:
-                http://rarbg.to or https://rarbgprx.org/torrents.php
                 https://1337x.to
-                https://popcorntime.app
-                https://put.io
-                https://thepiratebay.org or https://thepiratebay-proxylist.org or https://piratebayproxy.info
-                https://torrentz2.eu
+                https://torrentz2.is or https://2torrentz.net
                 https://www.limetorrents.info
+                https://rutracker.org
+                http://rarbg.to or https://rarbgprx.org/torrents.php
+                https://popcorntime.app
+                https://thepiratebay.org or https://thepiratebay-proxylist.org or https://piratebayproxy.info
                 https://www.myanonamouse.net
+                https://put.io
                 https://www.qbittorrent.org
 
         Survival:
