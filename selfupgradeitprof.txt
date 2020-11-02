@@ -867,6 +867,9 @@ Contents:
                 https://github.com/aramalipoor/aws-cost-saver
                 https://github.com/awsdocs
                 https://github.com/donnemartin/awesome-aws
+                https://github.com/jckuester/awsls (A list command for AWS resources)
+                https://github.com/nccgroup/aws-inventory (Discover resources created in an AWS account)
+                https://github.com/rebuy-de/aws-nuke (Nuke a whole AWS account and delete all its resources.)
                 https://github.com/serverless/serverless
                 https://github.com/toniblyx/my-arsenal-of-aws-security-tools
                 https://github.com/topics/aws?o=desc&s=stars
@@ -1211,6 +1214,11 @@ Contents:
             Books and Courses:
                 https://www.elastic.co/guide/index.html
 
+        Prometheus:
+            Books and Courses:
+                Prometheus | The Complete Hands-On for Monitoring & Alerting by A to Z Mentors
+                https://www.udemy.com/course/prometheus-course
+
         Security:
             Sources:
                 http://www.fastrls.com/2017/10/30/offensive-security-training-videos
@@ -1544,9 +1552,10 @@ Contents:
                 https://github.com/dabeaz-course/practical-python
                 https://learning.oreilly.com/videos/python-programming-language/9780134217314
 
-                Automate the Boring Stuff with Python
+                Automate the Boring Stuff with Python by Al Sweigart
                 https://automatetheboringstuff.com/2e
                 https://www.udemy.com/course/automate
+                https://automatetheboringstuff.com/eval
                 https://inventwithpython.com/automateudemy (Coupon)
 
                 Learn Python 3 the Hard Way
@@ -1841,11 +1850,12 @@ Contents:
                 https://news.ycombinator.com/item?id=17047736 (Ask HN: How to become a remote contractor?)
                 https://news.ycombinator.com/item?id=19024575 (Ask HN: Highest paying remote companies?)
                 https://news.ycombinator.com/item?id=19280341 (Ask HN: Tools or sites you use to scope out a workplace before taking a job?)
+                https://www.indeed.com/career-advice/finding-a-job/rising-tech-jobs-and-skills
                 https://www.reddit.com/r/india/comments/81r29c/your_onestop_guide_to_emigrating_long_term_to
                 https://www.reddit.com/r/india/comments/gja5eo/advice_for_indians_looking_to_study_abroad_and
                 https://pinboard.in/u:SharjeelSayed/t:jobs
                 
-            Sites (Sorted by Alexa Rank):
+            Job Sites (Sorted by Alexa Rank):
                 https://stackoverflow.com/jobs (49)
                 https://www.linkedin.com/jobs (57)
                 https://www.naukri.com (441)
