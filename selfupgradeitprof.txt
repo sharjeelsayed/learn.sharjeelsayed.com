@@ -488,6 +488,7 @@ Contents:
         Sources:
             http://findlectures.com/?p=1&class1=Technology&category_l2_Technology=-DevOps
             http://serverfault.com/questions/1046/what-is-the-single-most-influential-book-every-sysadmin-should-read
+            http://www.devopsbookmarks.com
             https://devopsnewsletters.com
             https://github.com/AcalephStorage/awesome-devops
             https://github.com/Artemmkin/infrastructure-as-code-tutorial
@@ -606,6 +607,7 @@ Contents:
                 https://news.ycombinator.com/item?id=22975437 (Shell Productivity Tips and Tricks (balthazar-rouberol.com))
                 https://news.ycombinator.com/item?id=24880170 (/.bashrc VS –/.profile VS –/.bash_profile (leimao.github.io))
                 https://switowski.com/blog/favorite-cli-tools
+                https://www.reddit.com/r/usefulscripts/top
                 https://pinboard.in/u:SharjeelSayed/t:bash
             
             Books and Courses:
@@ -878,6 +880,7 @@ Contents:
                 https://www.ec2instances.info
                 https://www.reddit.com/r/aws
                 https://www.reddit.com/r/sysadmin/comments/8inzn5/so_you_want_to_learn_aws_aka_how_do_i_learn_to_be
+                https://youtu.be/B08iQQhXG1Y (The Most Important AWS Services (with an easy to follow example!))
                 https://pinboard.in/u:SharjeelSayed/t:aws
                 
             Books and Courses:
@@ -1011,6 +1014,7 @@ Contents:
                 https://github.com/ansible/ansible-lint (checks playbooks for practices and behaviour that could potentially be improved.)
                 https://github.com/Artemmkin/infrastructure-as-code-tutorial
                 https://github.com/topics/ansible?o=desc&s=stars
+                https://www.reddit.com/r/ansible
 
             Books and Courses:
                 Ansible for the Absolute Beginner - Hands-On - DevOps by Mumshad Mannambeth
@@ -1215,6 +1219,9 @@ Contents:
                 https://www.elastic.co/guide/index.html
 
         Prometheus:
+            Sources:
+                https://github.com/topics/prometheus?o=desc&s=stars
+                
             Books and Courses:
                 Prometheus | The Complete Hands-On for Monitoring & Alerting by A to Z Mentors
                 https://www.udemy.com/course/prometheus-course
@@ -1635,6 +1642,7 @@ Contents:
 
         JavaScript:
             Sources:
+                https://github.com/developer-resources/frontend-development
                 https://github.com/topics/javascript?o=desc&s=stars
                 https://hackr.io/tutorials/learn-javascript
                 https://news.ycombinator.com/item?id=22990926 (Eloquent JavaScript 3rd Edition (2018) (eloquentjavascript.net))
@@ -1659,6 +1667,9 @@ Contents:
 
                 Eloquent JavaScript 3rd edition
                 https://eloquentjavascript.net
+
+                The Complete JavaScript Course 2020: From Zero to Expert! by Jonas Schmedtmann
+                https://www.udemy.com/course/the-complete-javascript-course
 
                 Modern JavaScript Tutorial by The Net Ninja
                 https://www.youtube.com/playlist?list=PL4cUxeGkcC9haFPT7J25Q9GRB_ZkFrQAc
@@ -2449,7 +2460,7 @@ Contents:
                     https://www.techmeme.com
 
                 Reddit:
-                    https://www.reddit.com/r/1Password+AWSCertifications+Alfred+Android+AppHookup+AppleWatch+COVID19+Coronavirus+CryptoCurrency+DataHoarder+Documentaries+FreeEBOOKS+GooglePixel+ITCareerQuestions+IndiaInvestments+KindleFreebies+Piracy+Ubuntu+Udemy+Upwork+announcements+apple+aws+compsci+cscareerquestions+dataisbeautiful+devops+docker+forhire+freelance+gadgets+hackernews+india+ipad+iphone+juul+kindle+kubernetes+learnprogramming+linux+linuxadmin+linuxupskillchallenge+mac+macapps+movies+mumbai+netsec+nextdns+onebag+osx+programming+science+solotravel+sysadmin+technology+television+todayilearned+todoist+travel+udemyfreebies+worldnews
+                    https://www.reddit.com/r/1Password+AWSCertifications+Alfred+Android+AppHookup+AppleWatch+COVID19+Coronavirus+CryptoCurrency+DataHoarder+Documentaries+FreeEBOOKS+GooglePixel+ITCareerQuestions+IndiaInvestments+KindleFreebies+Piracy+Ubuntu+Udemy+Upwork+announcements+ansible+apple+aws+compsci+cscareerquestions+dataisbeautiful+devops+docker+forhire+freelance+gadgets+hackernews+india+ipad+iphone+juul+kindle+kubernetes+learnprogramming+linux+linuxadmin+linuxupskillchallenge+mac+macapps+movies+mumbai+netsec+nextdns+onebag+osx+programming+science+solotravel+sysadmin+technology+television+todayilearned+todoist+travel+udemyfreebies+usefulscripts+worldnews
                 
                 Hacker News:
                     https://apps.apple.com/us/app/hack-for-hacker-news-developer/id1464477788
