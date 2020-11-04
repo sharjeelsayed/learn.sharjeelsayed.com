@@ -12,6 +12,7 @@
       <outline text="Upwork,freelance: top scoring links" title="Upwork,freelance: top scoring links" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/Upwork%2Bfreelance/top/.rss" htmlUrl="https://www.reddit.com/r/Upwork+freelance/top/?t=1599397255"/>
       <outline text="technology:top scoring links" title="technology:top scoring links" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/technology/top/.rss" htmlUrl="https://www.reddit.com/r/technology/top/?t=1598200139"/>
       <outline text="worldnews:top scoring links" title="worldnews:top scoring links" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/worldnews/top/.rss" htmlUrl="https://www.reddit.com/r/worldnews/top/?t=1598200038"/>
+      <outline text="india, mumbai:top scoring links" title="india, mumbai:top scoring links" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/india%2Bmumbai/top/.rss" htmlUrl="https://www.reddit.com/r/india+mumbai/top/?t=1598175462"/>
       <outline text="docker, kubernetes:top scoring links" title="docker, kubernetes:top scoring links" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/docker%2Bkubernetes/top/.rss" htmlUrl="https://www.reddit.com/r/docker+kubernetes/top/?t=1597994224"/>
       <outline text="aws, AWSCertifications:top scoring links" title="aws, AWSCertifications:top scoring links" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/AWSCertifications%2Baws/top/.rss" htmlUrl="https://www.reddit.com/r/AWSCertifications+aws/top/?t=1597993454"/>
       <outline text="Hacker News: 100 Points" title="Hacker News: 100 Points" type="rss" xmlUrl="https://hnrss.org/newest?points=100" htmlUrl="https://news.ycombinator.com/newest"/>
@@ -78,6 +79,7 @@
       <outline text="netsec:top scoring links" title="netsec:top scoring links" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/netsec/top/.rss" htmlUrl="https://www.reddit.com/r/netsec/top/?t=1598199880"/>
       <outline text="Udemy+udemyfreebies : top scoring links" title="Udemy+udemyfreebies : top scoring links" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/Udemy%2Budemyfreebies/top/.rss" htmlUrl="https://www.reddit.com/r/Udemy+udemyfreebies/top/?t=1602012829"/>
       <outline text="Last Week in AWS" title="Last Week in AWS" type="rss" xmlUrl="https://kill-the-newsletter.com/feeds/p66ojkndts07716u9hdd.xml" htmlUrl="https://kill-the-newsletter.com/"/>
+      <outline text="ansible, usefulscript:top scoring links" title="ansible, usefulscript:top scoring links" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/ansible%2Busefulscripts/top/.rss" htmlUrl="https://www.reddit.com/r/ansible+usefulscripts/top/?t=1604510257"/>
     </outline>
     <outline text="Leisure" title="Leisure">
       <outline text="juul:top scoring links" title="juul:top scoring links" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/juul/top/.rss" htmlUrl="https://www.reddit.com/r/juul/top/?t=1598004533"/>
