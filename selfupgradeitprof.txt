@@ -778,12 +778,18 @@ Contents:
                 Kubernetes Hands-On - Deploy Microservices to the AWS Cloud by Richard Chesterwood, Virtual Pair Programmers and Prageeth Warnak
                 https://www.udemy.com/course/kubernetes-microservices
 
+                Certified Kubernetes Administrator 2020 by Zeal Vora
+                https://www.udemy.com/course/certified-kubernetes-administrator
+                https://github.com/zealvora/certified-kubernetes-administrator
+                https://github.com/zealvora/coupon-codes
+
                 Kubernetes: Up and Running: Dive into the Future of Infrastructure 2nd Edition
                 https://learning.oreilly.com/library/view/kubernetes-up-and/9781492046523
                 https://tanzu.vmware.com/content/ebooks/kubernetes-up-running-dive-into-the-future-of-infrastructure
                 https://www.amazon.com/Kubernetes-Running-Dive-Future-Infrastructure/dp/1492046531
                 
                 CKA/CKAD
+                https://github.com/cncf/curriculum
                 https://github.com/dgkanatsios/CKAD-exercises
                 https://github.com/lucassha/CKAD-resources
                 https://github.com/walidshaari/Kubernetes-Certified-Administrator
@@ -1884,6 +1890,7 @@ Contents:
                 https://weworkremotely.com/categories/remote-devops-sysadmin-jobs (12,510)
                 https://india.recruit.net (26,870)
                 https://www.placementindia.com (27,458)
+                https://www.jobisjob.co.in (29,650)
                 https://www.simplyhired.co.in (31,413)
                 https://remoteok.io (31,905)
                 https://www.michaelpage.co.in (98,471)
