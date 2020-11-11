@@ -1816,12 +1816,6 @@ Contents:
                 Search Interview Questions
                 https://www.glassdoor.com/Interview/index.htm
 
-                LeetCode
-                https://leetcode.com
-                
-                HackerRank
-                https://www.hackerrank.com
-                
                 Firecode.io
                 https://www.firecode.io
                 
@@ -1834,11 +1828,20 @@ Contents:
                 Watch technical mock interviews with engineers from Google, Facebook, Airbnb, and more
                 https://interviewing.io/recordings
                 
-                codewars
-                https://www.codewars.com
-                
                 Coding Interviews at FAANG
                 https://www.codinginterview.com
+            
+            Coding Challenge Websites (As per Alexa Rank):
+                https://leetcode.com (1,515)
+                https://www.hackerrank.com (2,012)
+                https://www.codechef.com (7,259)
+                https://www.codewars.com (16,376)
+                https://www.codingame.com (24,544)
+                https://www.topcoder.com (38,698)
+                https://www.coderbyte.com (46,500)
+                https://www.spoj.com (52,455)
+                https://exercism.io (55,108)
+                https://projecteuler.net (64,566)
 
         Resume Improvement:
             Sources:
@@ -2479,7 +2482,7 @@ Contents:
                     https://www.techmeme.com
 
                 Reddit:
-                    https://www.reddit.com/r/1Password+AWSCertifications+Alfred+Android+AppHookup+AppleWatch+COVID19+Coronavirus+CryptoCurrency+DataHoarder+Documentaries+FreeEBOOKS+GooglePixel+ITCareerQuestions+IndiaInvestments+KindleFreebies+Piracy+Ubuntu+Udemy+Upwork+announcements+ansible+apple+aws+compsci+cscareerquestions+dataisbeautiful+devops+docker+forhire+freelance+gadgets+hackernews+india+ipad+iphone+juul+kindle+kubernetes+learnprogramming+linux+linuxadmin+linuxupskillchallenge+mac+macapps+movies+mumbai+netsec+nextdns+onebag+osx+programming+science+solotravel+sysadmin+technology+television+todayilearned+todoist+travel+udemyfreebies+usefulscripts+worldnews
+                    https://www.reddit.com/r/1Password+AWSCertifications+Alfred+Android+AppHookup+AppleWatch+COVID19+Coronavirus+CryptoCurrency+DataHoarder+Documentaries+FreeEBOOKS+GooglePixel+ITCareerQuestions+IndiaInvestments+KindleFreebies+Piracy+Terraform+Ubuntu+Udemy+Upwork+announcements+ansible+apple+aws+compsci+cscareerquestions+dataisbeautiful+devops+docker+forhire+freelance+gadgets+hackernews+india+ipad+iphone+juul+kindle+kubernetes+learnprogramming+linux+linuxadmin+linuxupskillchallenge+mac+macapps+movies+mumbai+netsec+nextdns+onebag+osx+programming+science+solotravel+sysadmin+technology+television+todayilearned+todoist+travel+udemyfreebies+usefulscripts+worldnews
                 
                 Hacker News:
                     https://apps.apple.com/us/app/hack-for-hacker-news-developer/id1464477788
