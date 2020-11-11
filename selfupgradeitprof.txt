@@ -252,6 +252,7 @@ Contents:
                 https://www.reddit.com/r/compsci+cscareerquestions+learnprogramming+programming
                 https://www.reddit.com/r/cscareerquestions/comments/6hmlxr/what_are_the_most_indemand_software_skills_right/dizqiie
                 https://www.reddit.com/r/cscareerquestions/comments/6w4dej/what_books_should_every_software_engineer_read_to
+                https://www.reddit.com/r/dailyprogrammer/wiki
                 https://www.reddit.com/r/learnprogramming/comments/6l5u8s/what_one_thing_improved_your_skills_the_most
                 https://www.reddit.com/r/learnprogramming/comments/6lvvqq/audiobooks_on_programming
                 https://www.reddit.com/r/learnprogramming/comments/75qwen/im_34_and_i_got_my_first_programming_job_after
@@ -507,11 +508,14 @@ Contents:
             https://github.com/topics/sre?o=desc&s=stars
             https://github.com/topics/sysadmin?o=desc&s=stars
             https://github.com/trimstray/the-book-of-secret-knowledge
+            https://infinite.education/view/devops_engineer_2
+            https://landscape.cncf.io (CNCF Cloud Native Interactive Landscape)
             https://learn-anything.xyz/programming/software-development/devops
             https://news.ycombinator.com/item?id=14153545 (What Is ‘Site Reliability Engineering’?)
             https://news.ycombinator.com/item?id=14652993 (Ask HN: DevOps learning resources)
             https://news.ycombinator.com/item?id=16357368 (Ask HN: Which books describe modern devops?)
             https://pauljerimy.com/wp-content/uploads/2020/03/IT_CareerRoadmap2020smol.png (IT Career Roadmap)
+            https://roadmap.sh/devops
             https://www.bookadvice.co/sysadmin.html
             https://www.reddit.com/r/compsci+cscareerquestions+learnprogramming+linux+linuxadmin+netsec+networking+programming+sysadmin
             https://www.reddit.com/r/DevOps/wiki/resources
@@ -673,6 +677,7 @@ Contents:
             Sources:
                 https://containersfromthecouch.com
                 https://docs.docker.com
+                https://github.com/dokku/dokku
                 https://github.com/magicmark/composerize (Turns docker run commands into docker-compose files!)
                 https://github.com/p8952/bocker (Docker implemented in around 100 lines of bash)
                 https://github.com/tiangolo/dockerswarm.rocks
@@ -1023,6 +1028,13 @@ Contents:
                 https://www.reddit.com/r/ansible
 
             Books and Courses:
+                Ansible 101 by Jeff Geerling
+                https://www.youtube.com/playlist?list=PL2_OBreMn7FqZkvMYt6ATmgC0KAGGJNAN
+                
+                Ansible for DevOps by Jeff Geerling
+                https://www.ansiblefordevops.com
+                https://github.com/geerlingguy/ansible-for-devops
+
                 Ansible for the Absolute Beginner - Hands-On - DevOps by Mumshad Mannambeth
                 https://www.udemy.com/course/learn-ansible
                 https://learning.oreilly.com/videos/kubernetes-for-absolute/9781838555962
@@ -1034,13 +1046,6 @@ Contents:
                 Ansible Certification Preparation Course by Mumshad Mannambeth
                 https://kodekloud.com/p/ansible-certification
 
-                Ansible 101 by Jeff Geerling
-                https://www.youtube.com/playlist?list=PL2_OBreMn7FqZkvMYt6ATmgC0KAGGJNAN
-                
-                Ansible for DevOps by Jeff Geerling
-                https://www.ansiblefordevops.com
-                https://github.com/geerlingguy/ansible-for-devops
-                
                 Ansible tutorial
                 https://github.com/leucos/ansible-tuto
                 
@@ -1126,6 +1131,9 @@ Contents:
                 https://github.com/dhamaniasad/awesome-postgres
                 https://github.com/topics/postgresql?o=desc&s=stars
                 https://news.ycombinator.com/item?id=23208181 (Ask HN: What PostgreSQL client do you use?)
+                https://pgtune.leopard.in.ua
+                https://postgresqlco.nf
+                https://roadmap.sh/postgresql-dba
             
             Books and Courses:
                 https://www.postgresql.org/docs/current
@@ -1540,6 +1548,7 @@ Contents:
                 https://docs.python.org/3/tutorial
                 https://github.com/donnemartin/interactive-coding-challenges
                 https://github.com/pyenv/pyenv
+                https://github.com/TheAlgorithms/Python/blob/master/DIRECTORY.md
                 https://github.com/topics/python?o=desc&s=stars
                 https://github.com/tuvtran/project-based-learning#python
                 https://github.com/vinta/awesome-python
@@ -1556,11 +1565,11 @@ Contents:
                 https://www.reddit.com/r/learnpython/comments/609p5x/selftaught_people_how_did_you_learn_python
                 https://www.reddit.com/r/learnpython/top
                 https://www.reddit.com/r/learnpython/wiki
-                https://www.reddit.com/r/Python
+                https://www.reddit.com/r/Python/wiki
                 https://www.udemy.com/topic/python/?ratings=4.5&sort=popularity
 
             Books and Courses:
-                Practical Python Programming
+                Practical Python Programming by David Beazley
                 https://dabeaz-course.github.io/practical-python/Notes/Contents.html
                 https://github.com/dabeaz-course/practical-python
                 https://learning.oreilly.com/videos/python-programming-language/9780134217314
@@ -1571,7 +1580,7 @@ Contents:
                 https://automatetheboringstuff.com/eval
                 https://inventwithpython.com/automateudemy (Coupon)
 
-                Learn Python 3 the Hard Way
+                Learn Python 3 the Hard Way by Zed A. Shaw
                 https://learnpythonthehardway.org/python3
                 http://www.informit.com/promotions/book-registration-learn-python-3-the-hard-way-141409 (Videos)
                 
@@ -1649,6 +1658,7 @@ Contents:
         JavaScript:
             Sources:
                 https://github.com/developer-resources/frontend-development
+                https://github.com/sorrycc/awesome-javascript
                 https://github.com/topics/javascript?o=desc&s=stars
                 https://hackr.io/tutorials/learn-javascript
                 https://news.ycombinator.com/item?id=22990926 (Eloquent JavaScript 3rd Edition (2018) (eloquentjavascript.net))
@@ -1743,6 +1753,7 @@ Contents:
                 https://github.com/mxssl/sre-interview-prep-guide
                 https://github.com/topics/interview-questions?o=desc&s=stars
                 https://github.com/topics/interview?o=desc&s=stars
+                https://github.com/topics/leetcode?o=desc&s=stars
                 https://github.com/viraptor/reverse-interview
                 https://hn.algolia.com/?query=interview&sort=byPopularity&prefix&page=0&dateRange=all&type=story
                 https://news.ycombinator.com/item?id=11246917 (How to Pass a Programming Interview)
@@ -1893,6 +1904,7 @@ Contents:
                 https://www.jobisjob.co.in (29,650)
                 https://www.simplyhired.co.in (31,413)
                 https://remoteok.io (31,905)
+                https://snaphunt.com (48,339)
                 https://www.michaelpage.co.in (98,471)
                 https://www.jobleads.de (99,051)
                 https://whoishiring.io (1,041,887)
