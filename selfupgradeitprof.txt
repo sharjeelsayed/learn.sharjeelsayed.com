@@ -873,6 +873,7 @@ Contents:
             Sources:
                 https://adayinthelifeof.nl/2020/05/20/aws.html (A List of One-sentence Descriptions of AWS Services)
                 https://aws.amazon.com/getting-started/hands-on
+                https://awsstash.com
                 https://awsvideocatalog.com (AWS Video Catalog is a website that collects all the official Amazon videos)
                 https://bash-my-aws.org
                 https://expeditedsecurity.com/aws-in-plain-english
@@ -1547,6 +1548,7 @@ Contents:
                 https://boto3.amazonaws.com/v1/documentation/api/latest/index.html
                 https://docs.python.org/3/tutorial
                 https://github.com/donnemartin/interactive-coding-challenges
+                https://github.com/huangsam/ultimate-python
                 https://github.com/pyenv/pyenv
                 https://github.com/TheAlgorithms/Python/blob/master/DIRECTORY.md
                 https://github.com/topics/python?o=desc&s=stars
@@ -1658,6 +1660,7 @@ Contents:
         JavaScript:
             Sources:
                 https://github.com/developer-resources/frontend-development
+                https://github.com/getify/You-Dont-Know-JS
                 https://github.com/sorrycc/awesome-javascript
                 https://github.com/topics/javascript?o=desc&s=stars
                 https://hackr.io/tutorials/learn-javascript
@@ -1900,8 +1903,9 @@ Contents:
                 https://www.freshersworld.com (7,367)
                 https://www.iimjobs.com (8,978)
                 https://www.indeed.co.in (11,776)
-                https://www.hirist.com (12436)
+                https://www.hirist.com (12,436)
                 https://weworkremotely.com/categories/remote-devops-sysadmin-jobs (12,510)
+                https://neuvoo.co.in (21,596)
                 https://india.recruit.net (26,870)
                 https://www.placementindia.com (27,458)
                 https://www.jobisjob.co.in (29,650)
