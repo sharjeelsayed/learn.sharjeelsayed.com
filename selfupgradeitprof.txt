@@ -533,7 +533,9 @@ Contents:
                 https://dashdash.io (Linux Man Pages)
                 https://github.com/0xAX/linux-insides
                 https://github.com/luong-komorebi/Awesome-Linux-Software
+                https://github.com/topics/lamp?o=desc&s=stars
                 https://github.com/topics/linux?o=desc&s=stars
+                https://linuxcommandlibrary.com
                 https://news.ycombinator.com/item?id=22564665 (Linux Kernel Teaching (linux-kernel-labs.github.io))
                 https://news.ycombinator.com/item?id=24027366 (	Low latency tuning guide)
                 https://news.ycombinator.com/item?id=3257393 (What's the one Linux command you wish you knew years ago?)
@@ -545,7 +547,6 @@ Contents:
                 https://www.reddit.com/r/linuxadmin/comments/2s924h/how_did_you_get_your_start/cnnw1ma
                 https://www.reddit.com/r/linuxadmin/comments/7cw116/favorite_posts_youve_bookmarked_or_saved
                 https://www.reddit.com/r/Ubuntu+linux+linuxadmin
-                https://github.com/topics/lamp?o=desc&s=stars
                 
             Books and Courses:
                 Linux Journey
@@ -602,14 +603,18 @@ Contents:
                 https://github.com/jlevy/the-art-of-command-line
                 https://github.com/junegunn/fzf (A command-line fuzzy finder)
                 https://github.com/koalaman/shellcheck
+                https://github.com/learnbyexample/Command-line-text-processing
                 https://github.com/onceupon/Bash-Oneliner
                 https://github.com/pirate/bash-utils
                 https://github.com/rupa/z (z - jump around)
                 https://github.com/topics/bash?o=desc&s=stars
+                https://linoxide.com/linux-how-to/linux-commands-brief-outline-examples
+                https://linuxcommandlibrary.com/basic/oneliners.html
                 https://mywiki.wooledge.org/BashPitfalls
                 https://news.ycombinator.com/item?id=14634964 (Ask HN: How can I get better at bash?)
                 https://news.ycombinator.com/item?id=22975437 (Shell Productivity Tips and Tricks (balthazar-rouberol.com))
                 https://news.ycombinator.com/item?id=24880170 (/.bashrc VS –/.profile VS –/.bash_profile (leimao.github.io))
+                https://news.ycombinator.com/item?id=25069452 (Linux Command One-Liners (commandlinefu.com))
                 https://switowski.com/blog/favorite-cli-tools
                 https://www.reddit.com/r/usefulscripts/top
                 https://pinboard.in/u:SharjeelSayed/t:bash
@@ -1025,6 +1030,7 @@ Contents:
                 https://galaxy.ansible.com
                 https://github.com/ansible/ansible-lint (checks playbooks for practices and behaviour that could potentially be improved.)
                 https://github.com/Artemmkin/infrastructure-as-code-tutorial
+                https://github.com/dev-sec/ansible-os-hardening
                 https://github.com/topics/ansible?o=desc&s=stars
                 https://www.reddit.com/r/ansible
 
@@ -1245,6 +1251,7 @@ Contents:
             Sources:
                 http://www.fastrls.com/2017/10/30/offensive-security-training-videos
                 https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html-single/using_selinux
+                https://dev-sec.io (devops + security Server Hardening Automation)
                 https://en.wikipedia.org/wiki/List_of_computer_security_certifications#Most_Popular_Vendor_Neutral_Cyber_Security_Certifications_Among_employers
                 https://github.com/dafthack/CloudPentestCheatsheets
                 https://github.com/danielmiessler/SecLists
@@ -2746,6 +2753,7 @@ Contents:
         https://en.wikipedia.org/wiki/Wikipedia:Vital_articles
         https://freenode.net
         https://github.com/255kb/stack-on-a-budget
+        https://github.com/antontarasenko/smq/blob/master/reports/hackernews-links-in-comments.md (Most mentioned links in Hacker News comments, 2006–2015)
         https://github.com/jbranchaud/til
         https://github.com/jnv/lists
         https://github.com/kautukkundan/Awesome-Profile-README-templates
