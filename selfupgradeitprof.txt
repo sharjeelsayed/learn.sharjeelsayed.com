@@ -500,6 +500,7 @@ Contents:
             https://github.com/Leo-G/DevopsWiki
             https://github.com/madd86/awesome-system-design
             https://github.com/n1trux/awesome-sysadmin
+            https://github.com/nmarus/docker-devops-box
             https://github.com/ripienaar/free-for-dev
             https://github.com/theanalyst/awesome-distributed-systems
             https://github.com/Tikam02/DevOps-Guide
@@ -616,6 +617,7 @@ Contents:
                 https://news.ycombinator.com/item?id=24880170 (/.bashrc VS –/.profile VS –/.bash_profile (leimao.github.io))
                 https://news.ycombinator.com/item?id=25069452 (Linux Command One-Liners (commandlinefu.com))
                 https://switowski.com/blog/favorite-cli-tools
+                https://www.reddit.com/r/usefulscripts
                 https://www.reddit.com/r/usefulscripts/top
                 https://pinboard.in/u:SharjeelSayed/t:bash
             
@@ -798,10 +800,11 @@ Contents:
                 https://tanzu.vmware.com/content/ebooks/kubernetes-up-running-dive-into-the-future-of-infrastructure
                 https://www.amazon.com/Kubernetes-Running-Dive-Future-Infrastructure/dp/1492046531
                 
-                CKA/CKAD
+                CKA/CKAD/CKS
                 https://github.com/cncf/curriculum
                 https://github.com/dgkanatsios/CKAD-exercises
                 https://github.com/lucassha/CKAD-resources
+                https://github.com/walidshaari/Certified-Kubernetes-Security-Specialist
                 https://github.com/walidshaari/Kubernetes-Certified-Administrator
                 https://itnext.io/how-to-pass-the-new-cka-exam-released-at-september-2020-e0e014d67f78
                 https://killer.sh
@@ -1026,6 +1029,7 @@ Contents:
 
         Ansible:
             Sources:
+                https://discord.com/invite/sMJjuXb
                 https://docs.ansible.com/ansible
                 https://galaxy.ansible.com
                 https://github.com/ansible/ansible-lint (checks playbooks for practices and behaviour that could potentially be improved.)
@@ -1041,6 +1045,7 @@ Contents:
                 Ansible for DevOps by Jeff Geerling
                 https://www.ansiblefordevops.com
                 https://github.com/geerlingguy/ansible-for-devops
+                https://leanpub.com/ansible-for-devops
 
                 Ansible for the Absolute Beginner - Hands-On - DevOps by Mumshad Mannambeth
                 https://www.udemy.com/course/learn-ansible
@@ -1084,6 +1089,7 @@ Contents:
                 https://registry.terraform.io
                 https://www.facebook.com/groups/840062592768074 (Learn DevOps: Continuously Deliver Better Software)
                 https://www.katacoda.com/courses/terraform
+                https://www.reddit.com/r/Terraform
                 https://www.reddit.com/r/Terraform/comments/iguorh/best_terraform_course
                 https://www.thecloud.coach/terraform-crash-course
                 https://www.udemy.com/course/learn-devops-kubernetes-deployment-by-kops-and-terraform
@@ -1095,8 +1101,12 @@ Contents:
                 https://github.com/zealvora/terraform-beginner-to-advanced-resource
                 https://rutracker.org/forum/viewtopic.php?t=5936588
 
-                Terraform: Up & Running: Writing Infrastructure as Code 2nd Edition
+                Terraform: Up & Running: Writing Infrastructure as Code 2nd Edition By Yevgeniy Brikman
+                https://www.terraformupandrunning.com
+                https://learning.oreilly.com/library/view/terraform-up/9781492046899
+                https://www.oreilly.com/catalog/errata.csp?isbn=0636920225010
                 https://www.amazon.com/Terraform-Running-Writing-Infrastructure-Code/dp/1492046906
+                https://github.com/brikis98/terraform-up-and-running-code
 
             Additional Material:
                 Learn DevOps: Infrastructure Automation With Terraform by Edward Viaene
@@ -1126,7 +1136,7 @@ Contents:
 
         MySQL:
             Books and Courses:
-                https://dev.mysql.com/doc/refman/5.7/en
+                https://dev.mysql.com/doc
 
         SQL Server:
             Books and Courses:
@@ -1136,11 +1146,14 @@ Contents:
             Sources:
                 https://github.com/dbeaver/dbeaver
                 https://github.com/dhamaniasad/awesome-postgres
+                https://github.com/okbob/pspg (Unix pager designed for work with tables. Designed for PostgreSQL, but MySQL is supported too. Now it can be used as CSV or TSV viewer. Works well with pgcli too.)
                 https://github.com/topics/postgresql?o=desc&s=stars
                 https://news.ycombinator.com/item?id=23208181 (Ask HN: What PostgreSQL client do you use?)
                 https://pgtune.leopard.in.ua
                 https://postgresqlco.nf
                 https://roadmap.sh/postgresql-dba
+                https://tomcam.github.io/postgres (psql command line tutorial and cheat sheet)
+                https://www.pgcli.com
             
             Books and Courses:
                 https://www.postgresql.org/docs/current
@@ -1209,9 +1222,8 @@ Contents:
             Books and Courses:
                 
                 DevOps-Projects by Valaxy Technologies (Shankar AR)
-                Ansible for the DevOps Beginners & System Admins
                 https://www.youtube.com/playlist?list=PLxzKY3wu0_FJdJd3IKdiM4Om1hGo2Hsdt
-                https://www.udemy.com/course/valaxy-ansible/?referralCode=9F36DC2010AEB6D64263
+                https://www.udemy.com/course/devops-fundamentals-aws
                 
                 
             Additional Courses:
@@ -1251,6 +1263,7 @@ Contents:
             Sources:
                 http://www.fastrls.com/2017/10/30/offensive-security-training-videos
                 https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html-single/using_selinux
+                https://crowdsec.net
                 https://dev-sec.io (devops + security Server Hardening Automation)
                 https://en.wikipedia.org/wiki/List_of_computer_security_certifications#Most_Popular_Vendor_Neutral_Cyber_Security_Certifications_Among_employers
                 https://github.com/dafthack/CloudPentestCheatsheets
@@ -1332,6 +1345,7 @@ Contents:
                 https://defkey.com/apple-macos-shortcuts
                 https://github.com/donnemartin/dev-setup
                 https://github.com/drduh/macOS-Security-and-Privacy-Guide
+                https://github.com/geerlingguy/mac-dev-playbook
                 https://github.com/herrbischoff/awesome-macos-command-line
                 https://github.com/iCHAIT/awesome-macOS
                 https://github.com/jaywcjlove/awesome-mac
@@ -2156,6 +2170,7 @@ Contents:
                 https://1blocker.com
                 https://addons.mozilla.org/en-US/firefox/addon/minimalist-alexa-rank
                 https://addons.mozilla.org/en-US/firefox/addon/wayback-machine_new
+                https://darkreader.org
                 https://github.com/gorhill/uBlock
                 https://github.com/iamadamdev/bypass-paywalls-chrome
                 https://github.com/mozilla/contain-facebook
@@ -2779,6 +2794,7 @@ Contents:
         https://news.ycombinator.com/item?id=22849208 (Ask HN: Programs that saved you 100 hours?)
         https://news.ycombinator.com/item?id=23390308 (Ask HN: What is the cheapest way to make a website?)
         https://news.ycombinator.com/item?id=24436135 (Ask HN: What is your favorite motto?)
+        https://news.ycombinator.com/item?id=25136258 (Ask HN: What is the best money you have spent on professional development?)
         https://redditprofile.com (Find an Expert on Reddit)
         https://sourceful.co.uk (Discover the best public GoogleDocs and Sheets)
         https://twitter.com/search?q=Gone%20Free%20(from%3ASharjeelSayed)
