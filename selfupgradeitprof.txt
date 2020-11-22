@@ -1224,6 +1224,7 @@ Contents:
                 DevOps-Projects by Valaxy Technologies (Shankar AR)
                 https://www.youtube.com/playlist?list=PLxzKY3wu0_FJdJd3IKdiM4Om1hGo2Hsdt
                 https://www.udemy.com/course/devops-fundamentals-aws
+                https://github.com/ValaxyTech
                 
                 
             Additional Courses:
@@ -1452,6 +1453,7 @@ Contents:
                 https://bookauthority.org/books/best-science-books
                 https://docs.google.com/spreadsheets/d/17gv8uAydcInAeflJp5FrzpfmuUhOcyhBcutaZwVMans (Science communication Youtube channels)
                 https://en.wikipedia.org/wiki/Best_science_book_ever
+                https://en.wikipedia.org/wiki/List_of_science_magazines
                 https://en.wikipedia.org/wiki/Lists_of_important_publications_in_science
                 https://hn.algolia.com/?query=documentaries&sort=byPopularity&prefix&page=0&dateRange=all&type=story
                 https://news.ycombinator.com/item?id=18085765 (Ask HN: What are some of the best documentaries you've seen?)
@@ -1480,6 +1482,22 @@ Contents:
                 
                 Cosmos: A Spacetime Odyssey
                 https://en.wikipedia.org/wiki/Cosmos:_A_Spacetime_Odyssey
+
+            Science Magazines:
+                https://www.scientificamerican.com (4,564)
+                https://www.popularmechanics.com (6,207)
+                https://www.technologyreview.com (9,232)
+                https://www.newscientist.com (12,635)
+                https://www.popsci.com (12,738)
+                https://www.discovermagazine.com (15,775)
+                https://www.quantamagazine.org (30,809)
+                https://www.sciencenews.org (31,109)
+                https://www.annualreviews.org (34,028)
+                https://www.sciencefocus.com (38,774)
+                http://nautil.us (63,753)
+                https://physicsworld.com (88,698)
+                https://facts.net (113,410)
+                https://www.americanscientist.org (204,146)
 
         Design:
             Sources:
@@ -2448,9 +2466,26 @@ Contents:
                 https://www.reddit.com/user/SharjeelSayed
                 
             Sites and Apps:
-                RSS Apps:
-                Import http://Opml.SharjeelSayed.com , into https://www.inoreader.com or https://reederapp.com
+                RSS:
+                    Import http://Opml.SharjeelSayed.com , into https://www.inoreader.com or https://reederapp.com
                 
+                News Sites:
+                    https://cnn.com (68)
+                    https://www.nytimes.com (78)
+                    https://www.bbc.com (87)
+                    https://theguardian.com (133)
+                    https://indiatimes.com (134)
+                    https://www.washingtonpost.com (176)
+                    https://cnbc.com (270)
+                    https://forbes.com (281)
+                    https://ndtv.com (359)
+                    https://bloomberg.com (391)
+                    https://reuters.com (418)
+                    https://www.wsj.com (425)
+                    https://indianexpress.com (626)
+                    https://hindustantimes.com (829)
+                    https://www.aljazeera.com (1,319)
+
                 Telegram:
                     Sources:
                         http://thefeedreaderbot.com (The Feed Reader Bot monitors RSS feeds (and Twitter accounts), and sends messages when new posts are available.)
