@@ -768,6 +768,7 @@ Contents:
                 https://rancher.com
                 https://sparkle.adroitcorp.com.au/market (Flashcards)
                 https://techbeacon.com/enterprise-it/47-advanced-tutorials-mastering-kubernetes
+                https://www.datadoghq.com/container-report (Nov 2020 report on Kubernetes and Docker Usage)
                 https://www.eksworkshop.com
                 https://www.flatcar-linux.org
                 https://www.katacoda.com/courses/kubernetes
@@ -1219,9 +1220,11 @@ Contents:
                 https://www.jenkins.io/doc
                 https://www.udemy.com/topic/jenkins
 
-            Books and Courses:
+            Courses:
+                Jenkins Tutorial for Beginners by TechWorld with Nana
+                https://www.youtube.com/playlist?list=PLy7NrYWoggjw_LIiDK1LXdNN82uYuuuiC
                 
-                DevOps-Projects by Valaxy Technologies (Shankar AR)
+                DevOps-Projects by Valaxy Technologies by Shankar AR
                 https://www.youtube.com/playlist?list=PLxzKY3wu0_FJdJd3IKdiM4Om1hGo2Hsdt
                 https://www.udemy.com/course/devops-fundamentals-aws
                 https://github.com/ValaxyTech
@@ -1808,6 +1811,7 @@ Contents:
                 https://news.ycombinator.com/item?id=17908547 (Ask HN: Types of Questions to Ask Team Members Before Accepting Role?)
                 https://news.ycombinator.com/item?id=18253999 (C++ Programming Questions to Ask on Interview (2017) (tests4geeks.com))
                 https://news.ycombinator.com/item?id=20916749 (Questions to ask a company during a job interview (github.com))
+                https://www.naukri.com/pulse/top-it-skills
                 https://www.reddit.com/r/AskReddit/comments/74sskj/what_are_some_red_flags_in_a_job_interview
                 https://www.reddit.com/r/AskReddit/comments/9vbwy8/what_are_good_questions_to_ask_potential
                 https://www.reddit.com/r/AskReddit/comments/abljyl/what_is_a_massive_red_flag_about_a_new_workplace
