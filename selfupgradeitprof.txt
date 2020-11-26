@@ -1257,9 +1257,17 @@ Contents:
 
         Prometheus:
             Sources:
+                https://github.com/cloudalchemy/ansible-prometheus
+                https://github.com/roaldnefs/awesome-prometheus
                 https://github.com/topics/prometheus?o=desc&s=stars
+                https://github.com/yolossn/Prometheus-Basics
                 
             Books and Courses:
+                Prometheus: Up & Running: Infrastructure and Application Performance Monitoring 1st Edition
+                https://www.amazon.com/Prometheus-Infrastructure-Application-Performance-Monitoring/dp/1492034142
+                https://github.com/prometheus-up-and-running
+                https://learning.oreilly.com/library/view/prometheus-up/9781492034131
+                
                 Prometheus | The Complete Hands-On for Monitoring & Alerting by A to Z Mentors
                 https://www.udemy.com/course/prometheus-course
 
@@ -1927,6 +1935,8 @@ Contents:
                 https://news.ycombinator.com/item?id=17047736 (Ask HN: How to become a remote contractor?)
                 https://news.ycombinator.com/item?id=19024575 (Ask HN: Highest paying remote companies?)
                 https://news.ycombinator.com/item?id=19280341 (Ask HN: Tools or sites you use to scope out a workplace before taking a job?)
+                https://www.glassdoor.co.in/Salaries/us-devops-salary-SRCH_IL.0,2_IN1_KO3,9.htm (Devops Salaries in United States)
+                https://www.glassdoor.co.in/Salaries/india-devops-salary-SRCH_IL.0,5_IN115_KO6,12.htm (Devops Salaries in India)
                 https://www.indeed.com/career-advice/finding-a-job/rising-tech-jobs-and-skills
                 https://www.reddit.com/r/india/comments/81r29c/your_onestop_guide_to_emigrating_long_term_to
                 https://www.reddit.com/r/india/comments/gja5eo/advice_for_indians_looking_to_study_abroad_and
@@ -2684,6 +2694,7 @@ Contents:
                 https://news.ycombinator.com/item?id=24538758 (Domains for the Rest of Us (domainsfortherestofus.com))
                 https://tld-list.com
                 https://www.domainsfortherestofus.com
+                https://www.freenom.com
                 https://www.hayksaakian.com/most-popular-tlds
                 https://www.icdsoft.com/blog/what-are-the-most-popular-tlds-domain-extensions
                 https://www.spamhaus.org/statistics/tlds
