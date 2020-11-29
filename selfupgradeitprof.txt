@@ -1261,13 +1261,14 @@ Contents:
                 https://github.com/roaldnefs/awesome-prometheus
                 https://github.com/topics/prometheus?o=desc&s=stars
                 https://github.com/yolossn/Prometheus-Basics
+                https://www.udemy.com/topic/prometheus-software
                 
             Books and Courses:
                 Prometheus: Up & Running: Infrastructure and Application Performance Monitoring 1st Edition
                 https://www.amazon.com/Prometheus-Infrastructure-Application-Performance-Monitoring/dp/1492034142
                 https://github.com/prometheus-up-and-running
                 https://learning.oreilly.com/library/view/prometheus-up/9781492034131
-                
+
                 Prometheus | The Complete Hands-On for Monitoring & Alerting by A to Z Mentors
                 https://www.udemy.com/course/prometheus-course
 
@@ -1337,8 +1338,8 @@ Contents:
                 https://news.ycombinator.com/item?id=15733760 (What are hardware development learning web tutorials?)
                 
             Books and Courses:
-                Professor Messer’s CompTIA 220-901 and 220-902 A+ Training Videos
-                http://www.professormesser.com/free-a-plus-training/220-901/comptia-220-900-course
+                Professor Messer’s CompTIA 220-1001 and 220-1002 A+ Training Course
+                https://www.professormesser.com/free-a-plus-training/220-1001/220-1000-training-course
 
         Microsoft Excel:
             Sources:
@@ -1349,8 +1350,8 @@ Contents:
                 You Suck at Excel with Joel Spolsky
                 https://youtu.be/0nbkaYsR94c
                 
-                Excel 2016 Bible 1st Edition
-                https://www.amazon.com/Excel-2016-Bible-John-Walkenbach/dp/1119067510
+                Excel 2019 Bible 1st Edition
+                https://www.amazon.com/Excel-2019-Bible-Michael-Alexander/dp/1119514789
 
         macOS:
             Sources:
