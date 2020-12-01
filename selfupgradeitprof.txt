@@ -94,6 +94,7 @@ Contents:
         VPN
         BitTorrent
         Survival
+        Chess
 
     Computer Science:
         Sources:
@@ -515,6 +516,7 @@ Contents:
             https://news.ycombinator.com/item?id=14153545 (What Is ‘Site Reliability Engineering’?)
             https://news.ycombinator.com/item?id=14652993 (Ask HN: DevOps learning resources)
             https://news.ycombinator.com/item?id=16357368 (Ask HN: Which books describe modern devops?)
+            https://octopus.com/blog/devops-reading-list
             https://pauljerimy.com/wp-content/uploads/2020/03/IT_CareerRoadmap2020smol.png (IT Career Roadmap)
             https://roadmap.sh/devops
             https://www.bookadvice.co/sysadmin.html
@@ -1553,6 +1555,7 @@ Contents:
                 https://news.ycombinator.com/item?id=20385679 (Ask HN: What are your favorite YouTube channels to learn stuff?)
                 https://news.ycombinator.com/item?id=20583581 (Your favourite tutorial for total beginners?)
                 https://news.ycombinator.com/item?id=21450126 (Free Online Courses from Top Universities (openculture.com))
+                https://news.ycombinator.com/item?id=25245125 (Ask HN: Top Coursera Courses?)
                 https://www.classcentral.com/collection/ivy-league-moocs?subject=cs
                 https://www.classcentral.com/collection/top-free-online-courses
                 https://www.classcentral.com/starting-this-month
@@ -2813,6 +2816,21 @@ Contents:
                 Bushcraft 101: A Field Guide to the Art of Wilderness Survival
                 https://www.amazon.com/Bushcraft-101-Field-Wilderness-Survival/dp/1440579776
 
+        Chess:
+            Sources:
+                https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=chess&sort=byPopularity&type=all
+                https://pinboard.in/u:sharjeelsayed/t:chess
+                https://www.chessgames.com/chessstats.html
+                https://www.gautamnarula.com/how-to-get-good-at-chess-fast
+                https://www.reddit.com/r/chess/wiki/faq
+                
+            Sites:
+                https://chesstempo.com
+                https://en.wikibooks.org/wiki/Chess
+                https://lichess.org
+                https://stockfishchess.org
+                https://www.chesstactics.org
+
     Additional Sources :
         https://en.wikipedia.org/wiki/List_of_common_misconceptions
         https://en.wikipedia.org/wiki/List_of_lists_of_lists
@@ -2820,6 +2838,7 @@ Contents:
         https://freenode.net
         https://github.com/255kb/stack-on-a-budget
         https://github.com/antontarasenko/smq/blob/master/reports/hackernews-links-in-comments.md (Most mentioned links in Hacker News comments, 2006–2015)
+        https://github.com/instadoodledavid/Infosec-Deals-2020
         https://github.com/jbranchaud/til
         https://github.com/jnv/lists
         https://github.com/kautukkundan/Awesome-Profile-README-templates
