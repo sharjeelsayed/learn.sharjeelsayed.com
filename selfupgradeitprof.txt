@@ -1,6 +1,6 @@
 Curated Self Study Guide for Computer Science and DevOps/SRE/SysAdmin
 
-    The latest updated copy of this page is at http://Learn.SharjeelSayed.com
+    The latest updated copy of this page is at http://Learn.SharjeelSayed.com . Fork at https://github.com/sharjeelsayed/sharjeelsayed.github.io
     About me: http://SharjeelSayed.com
 
 Contents:
@@ -494,6 +494,7 @@ Contents:
             https://devopsnewsletters.com
             https://github.com/AcalephStorage/awesome-devops
             https://github.com/Artemmkin/infrastructure-as-code-tutorial
+            https://github.com/bregman-arie/devops-resources
             https://github.com/danluu/post-mortems
             https://github.com/dastergon/awesome-chaos-engineering
             https://github.com/dastergon/awesome-sre
@@ -520,6 +521,7 @@ Contents:
             https://pauljerimy.com/wp-content/uploads/2020/03/IT_CareerRoadmap2020smol.png (IT Career Roadmap)
             https://roadmap.sh/devops
             https://www.bookadvice.co/sysadmin.html
+            https://www.linkedin.com/groups/2825397 (DevOps Group)
             https://www.reddit.com/r/compsci+cscareerquestions+learnprogramming+linux+linuxadmin+netsec+networking+programming+sysadmin
             https://www.reddit.com/r/DevOps/wiki/resources
             https://www.reddit.com/r/homelab/wiki/software
@@ -729,6 +731,7 @@ Contents:
         Kubernetes:
             Sources:
                 https://blog.pipetail.io/posts/2020-05-04-most-common-mistakes-k8s
+                https://blog.udemy.com/kubernetes-interview-questions
                 https://chrisshort.net/kubernetes-illustrated-childrens-guide
                 https://devopsunlocked.com/kubernetes-learning-material
                 https://github.com/ahmetb/kubernetes-network-policy-recipes
