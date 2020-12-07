@@ -1,6 +1,6 @@
 Curated Self Study Guide for Computer Science and DevOps/SRE/SysAdmin
 
-    The latest updated copy of this page is at http://Learn.SharjeelSayed.com . Fork at https://github.com/sharjeelsayed/sharjeelsayed.github.io
+    The latest updated copy of this page is at http://Learn.SharjeelSayed.com . Fork/PR at https://github.com/sharjeelsayed/sharjeelsayed.github.io
     About me: http://SharjeelSayed.com
 
 Contents:
@@ -127,6 +127,7 @@ Contents:
             https://news.ycombinator.com/item?id=21919465 (Ask HN: How do I choose the right resource to learn CS fundamentals?)
             https://news.ycombinator.com/item?id=22692281 (Ask HN: Computer Science/History Books?)
             https://news.ycombinator.com/item?id=23588896 Teach Yourself Computer Science (teachyourselfcs.com)
+            https://news.ycombinator.com/item?id=25271676 (	Ask HN: What are the best advanced computer science courses online?)
             https://news.ycombinator.com/item?id=5019373 (How Harvard's CS50 Renewed My Hope For Online Education)
             https://ocw.mit.edu/courses/find-by-topic/#cat=engineering&subcat=computerscience
             https://spin.atomicobject.com/2015/05/15/obtaining-thorough-cs-background-online
@@ -244,6 +245,7 @@ Contents:
                 https://news.ycombinator.com/item?id=22011743 (Ask HN: Are there any openly available software architecture documents?)
                 https://news.ycombinator.com/item?id=22767351 (Most-recommended programming books:Overtime I've built my own list of lists.)
                 https://news.ycombinator.com/item?id=23468193 (	Ask HN: Which tools have made you a much better programmer?)
+                https://octoverse.github.com
                 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/index.htm
                 https://softwareengineeringdaily.com
                 https://toptalkedbooks.com/stackoverflow/all
@@ -290,6 +292,7 @@ Contents:
                 The Elements of Computing Systems: Building a Modern Computer from First Principles
                 https://www.amazon.com/Elements-Computing-Systems-Building-Principles/dp/0262640686
                 http://www.nand2tetris.org
+                http://nandgame.com
                 
                 Computer Organization and Design MIPS Edition, Fifth Edition
                 https://www.amazon.com/gp/product/0124077269
@@ -520,6 +523,7 @@ Contents:
             https://octopus.com/blog/devops-reading-list
             https://pauljerimy.com/wp-content/uploads/2020/03/IT_CareerRoadmap2020smol.png (IT Career Roadmap)
             https://roadmap.sh/devops
+            https://t.me/devopsish
             https://www.bookadvice.co/sysadmin.html
             https://www.linkedin.com/groups/2825397 (DevOps Group)
             https://www.reddit.com/r/compsci+cscareerquestions+learnprogramming+linux+linuxadmin+netsec+networking+programming+sysadmin
