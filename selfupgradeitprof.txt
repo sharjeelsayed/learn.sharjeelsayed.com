@@ -50,11 +50,8 @@ Contents:
         Security
         Hardware
         macOS
-        Microsoft Excel
-        Electronics
-        Science
-        Design
         MOOC
+        NewsLetters
     Development:
         SQL
         Python
@@ -86,6 +83,10 @@ Contents:
         Headphones
         Ear Plugs
     Miscellaneous:
+        Microsoft Excel
+        Electronics
+        Science
+        Design
         News
         Podcasts
         Email
@@ -494,7 +495,6 @@ Contents:
             http://findlectures.com/?p=1&class1=Technology&category_l2_Technology=-DevOps
             http://serverfault.com/questions/1046/what-is-the-single-most-influential-book-every-sysadmin-should-read
             http://www.devopsbookmarks.com
-            https://devopsnewsletters.com
             https://github.com/AcalephStorage/awesome-devops
             https://github.com/Artemmkin/infrastructure-as-code-tutorial
             https://github.com/bregman-arie/devops-resources
@@ -1350,18 +1350,6 @@ Contents:
                 Professor Messer’s CompTIA 220-1001 and 220-1002 A+ Training Course
                 https://www.professormesser.com/free-a-plus-training/220-1001/220-1000-training-course
 
-        Microsoft Excel:
-            Sources:
-                https://www.reddit.com/r/excel/comments/2e28s3/rexcel_advice_thread_repository
-                https://news.ycombinator.com/item?id=12448545 (You Suck at Excel with Joel Spolsky (2015) [video])
-                
-            Books and Courses:
-                You Suck at Excel with Joel Spolsky
-                https://youtu.be/0nbkaYsR94c
-                
-                Excel 2019 Bible 1st Edition
-                https://www.amazon.com/Excel-2019-Bible-Michael-Alexander/dp/1119514789
-
         macOS:
             Sources:
                 https://defkey.com/apple-macos-shortcuts
@@ -1451,91 +1439,6 @@ Contents:
                 https://www.manpagez.com/man/5/launchd.plist
                 https://www.soma-zone.com/LaunchControl
 
-        Electronics:
-            Sources:
-                https://news.ycombinator.com/item?id=16775744 (Ask HN: How to self-learn electronics?)
-                https://news.ycombinator.com/item?id=16920476 (Ask HN: Where did you learn modular electronics?)
-                https://news.ycombinator.com/item?id=20126760 (Open Source Electronics Lab for $30 (github.com))
-                https://news.ycombinator.com/item?id=23562181 (Ask HN: What are some good resources to learn how electricity works?)
-                https://www.reddit.com/r/AskElectronics/wiki
-                
-            Books and Courses:
-                The Art of Electronics 3rd Edition
-                https://www.amazon.com/Art-Electronics-Paul-Horowitz/dp/0521809266
-                
-                6.002.1x "Circuits and Electronics 1: Basic Circuit Analysis" Based on 6.002 MIT Course
-                https://courses.edx.org/courses/course-v1:MITx+6.002.1x_1+2T2016/info
-                
-                Lessons in Electric Circuits
-                https://www.allaboutcircuits.com/textbook
-
-        Science:
-            Sources:
-                https://bookauthority.org/books/best-science-books
-                https://docs.google.com/spreadsheets/d/17gv8uAydcInAeflJp5FrzpfmuUhOcyhBcutaZwVMans (Science communication Youtube channels)
-                https://en.wikipedia.org/wiki/Best_science_book_ever
-                https://en.wikipedia.org/wiki/List_of_science_magazines
-                https://en.wikipedia.org/wiki/Lists_of_important_publications_in_science
-                https://hn.algolia.com/?query=documentaries&sort=byPopularity&prefix&page=0&dateRange=all&type=story
-                https://news.ycombinator.com/item?id=18085765 (Ask HN: What are some of the best documentaries you've seen?)
-                https://sciurls.com
-                https://www.amazon.com/Best-Sellers-Books-Science-Math/zgbs/books/75
-                https://www.reddit.com/r/AskReddit/comments/5x2r6b/reddit_what_are_some_must_see_documentaries
-                https://www.reddit.com/r/AskReddit/comments/7yvhmi/what_is_the_most_interesting_documentary_youve
-                https://www.reddit.com/r/Documentaries/wiki
-                https://www.theguardian.com/books/booksblog/2017/jul/20/dawkins-sees-off-darwin-in-vote-for-most-influential-science-book
-                
-            Books and Courses:
-                What If?: Serious Scientific Answers to Absurd Hypothetical Questions
-                https://www.amazon.com/What-If-Scientific-Hypothetical-Questions-ebook/dp/B00IYUYF4A
-                
-                Thing Explainer: Complicated Stuff in Simple Words
-                https://www.amazon.com/Thing-Explainer-Complicated-Stuff-Simple-ebook/dp/B00XJYVF44
-                
-                The Selfish Gene
-                https://www.amazon.com/Selfish-Gene-Anniversary-Landmark-Science/dp/0198788606
-                
-                A Short History of Nearly Everything
-                https://www.amazon.com/Short-History-Nearly-Everything/dp/076790818X
-                
-                Planet Earth
-                https://en.wikipedia.org/wiki/Planet_Earth_(franchise)
-                
-                Cosmos: A Spacetime Odyssey
-                https://en.wikipedia.org/wiki/Cosmos:_A_Spacetime_Odyssey
-
-            Science Magazines:
-                https://www.scientificamerican.com (4,564)
-                https://www.popularmechanics.com (6,207)
-                https://www.technologyreview.com (9,232)
-                https://www.newscientist.com (12,635)
-                https://www.popsci.com (12,738)
-                https://www.discovermagazine.com (15,775)
-                https://www.quantamagazine.org (30,809)
-                https://www.sciencenews.org (31,109)
-                https://www.annualreviews.org (34,028)
-                https://www.sciencefocus.com (38,774)
-                http://nautil.us (63,753)
-                https://physicsworld.com (88,698)
-                https://facts.net (113,410)
-                https://www.americanscientist.org (204,146)
-
-        Design:
-            Sources:
-                https://github.com/bradtraversy/design-resources-for-developers
-                https://github.com/LisaDziuba/Awesome-Design-Tools
-                https://github.com/topics/design?o=desc&s=stars
-                https://github.com/topics/frontend?o=desc&s=stars
-                https://news.ycombinator.com/item?id=15328992 (Ask HN: Learn Modern web design and CSS)
-                https://nodesign.dev
-                
-            Books and Courses:
-                The Design of Everyday Things
-                https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654
-                
-                The ultimate guide for mobile developers, who want to design
-                https://medium.com/flawless-app-stories/https-medium-com-flawless-app-stories-the-ultimate-guide-for-mobile-developers-who-want-to-design-part1-a2d47c04fd49
-
         MOOC:
             Sources:
                 http://academictorrents.com
@@ -1584,7 +1487,26 @@ Contents:
                 https://www.udacity.com/courses/all
                 https://www.udemy.com/courses/free/?p=12&sort=popularity
                 https://yahnd.com (Best courses , talks and videos recommended on Hacker News)
+        
+        NewsLetters:
+            Sources:
+                https://devopsnewsletters.com
+                https://news.ycombinator.com/item?id=22280939 (Ask HN: What are the underrated newsletters you like reading?)
 
+            Sites:    
+                https://thenewstack.io/newsletter-archive (40,173)
+                https://ma.ttias.be/cronweekly (65,936)
+                https://danielmiessler.com/newsletter (84,576)
+                https://www.ben-evans.com/newsletter (84,591)
+                https://www.schneier.com/crypto-gram (126,206)
+                https://www.lastweekinaws.com (425,861)
+                https://hackernewsletter.com (873,902)
+                https://devopsish.com (2,523,997)
+                https://sreweekly.com (2,618,415)
+                https://www.devopsweekly.com (3,945,939)
+                https://kubeweekly.io (6,389,097)
+                https://thisweekindevops.com (5,288,621)
+                
     Development:
         SQL:
             Sources:
@@ -2452,6 +2374,103 @@ Contents:
 
     Miscellaneous:
 
+        Microsoft Excel:
+            Sources:
+                https://www.reddit.com/r/excel/comments/2e28s3/rexcel_advice_thread_repository
+                https://news.ycombinator.com/item?id=12448545 (You Suck at Excel with Joel Spolsky (2015) [video])
+                
+            Books and Courses:
+                You Suck at Excel with Joel Spolsky
+                https://youtu.be/0nbkaYsR94c
+                
+                Excel 2019 Bible 1st Edition
+                https://www.amazon.com/Excel-2019-Bible-Michael-Alexander/dp/1119514789
+
+        Electronics:
+            Sources:
+                https://news.ycombinator.com/item?id=16775744 (Ask HN: How to self-learn electronics?)
+                https://news.ycombinator.com/item?id=16920476 (Ask HN: Where did you learn modular electronics?)
+                https://news.ycombinator.com/item?id=20126760 (Open Source Electronics Lab for $30 (github.com))
+                https://news.ycombinator.com/item?id=23562181 (Ask HN: What are some good resources to learn how electricity works?)
+                https://www.reddit.com/r/AskElectronics/wiki
+                
+            Books and Courses:
+                The Art of Electronics 3rd Edition
+                https://www.amazon.com/Art-Electronics-Paul-Horowitz/dp/0521809266
+                
+                6.002.1x "Circuits and Electronics 1: Basic Circuit Analysis" Based on 6.002 MIT Course
+                https://courses.edx.org/courses/course-v1:MITx+6.002.1x_1+2T2016/info
+                
+                Lessons in Electric Circuits
+                https://www.allaboutcircuits.com/textbook
+
+        Science:
+            Sources:
+                https://bookauthority.org/books/best-science-books
+                https://docs.google.com/spreadsheets/d/17gv8uAydcInAeflJp5FrzpfmuUhOcyhBcutaZwVMans (Science communication Youtube channels)
+                https://en.wikipedia.org/wiki/Best_science_book_ever
+                https://en.wikipedia.org/wiki/List_of_science_magazines
+                https://en.wikipedia.org/wiki/Lists_of_important_publications_in_science
+                https://hn.algolia.com/?query=documentaries&sort=byPopularity&prefix&page=0&dateRange=all&type=story
+                https://news.ycombinator.com/item?id=18085765 (Ask HN: What are some of the best documentaries you've seen?)
+                https://sciurls.com
+                https://www.amazon.com/Best-Sellers-Books-Science-Math/zgbs/books/75
+                https://www.reddit.com/r/AskReddit/comments/5x2r6b/reddit_what_are_some_must_see_documentaries
+                https://www.reddit.com/r/AskReddit/comments/7yvhmi/what_is_the_most_interesting_documentary_youve
+                https://www.reddit.com/r/Documentaries/wiki
+                https://www.theguardian.com/books/booksblog/2017/jul/20/dawkins-sees-off-darwin-in-vote-for-most-influential-science-book
+                
+            Books and Courses:
+                What If?: Serious Scientific Answers to Absurd Hypothetical Questions
+                https://www.amazon.com/What-If-Scientific-Hypothetical-Questions-ebook/dp/B00IYUYF4A
+                
+                Thing Explainer: Complicated Stuff in Simple Words
+                https://www.amazon.com/Thing-Explainer-Complicated-Stuff-Simple-ebook/dp/B00XJYVF44
+                
+                The Selfish Gene
+                https://www.amazon.com/Selfish-Gene-Anniversary-Landmark-Science/dp/0198788606
+                
+                A Short History of Nearly Everything
+                https://www.amazon.com/Short-History-Nearly-Everything/dp/076790818X
+                
+                Planet Earth
+                https://en.wikipedia.org/wiki/Planet_Earth_(franchise)
+                
+                Cosmos: A Spacetime Odyssey
+                https://en.wikipedia.org/wiki/Cosmos:_A_Spacetime_Odyssey
+
+            Science Magazines:
+                https://www.scientificamerican.com (4,564)
+                https://www.popularmechanics.com (6,207)
+                https://www.technologyreview.com (9,232)
+                https://www.newscientist.com (12,635)
+                https://www.popsci.com (12,738)
+                https://www.discovermagazine.com (15,775)
+                https://www.quantamagazine.org (30,809)
+                https://www.sciencenews.org (31,109)
+                https://www.annualreviews.org (34,028)
+                https://www.sciencefocus.com (38,774)
+                http://nautil.us (63,753)
+                https://physicsworld.com (88,698)
+                https://facts.net (113,410)
+                https://www.americanscientist.org (204,146)
+
+        Design:
+            Sources:
+                https://github.com/bradtraversy/design-resources-for-developers
+                https://github.com/LisaDziuba/Awesome-Design-Tools
+                https://github.com/topics/design?o=desc&s=stars
+                https://github.com/topics/frontend?o=desc&s=stars
+                https://news.ycombinator.com/item?id=15328992 (Ask HN: Learn Modern web design and CSS)
+                https://nodesign.dev
+                
+            Books and Courses:
+                The Design of Everyday Things
+                https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654
+                
+                The ultimate guide for mobile developers, who want to design
+                https://medium.com/flawless-app-stories/https-medium-com-flawless-app-stories-the-ultimate-guide-for-mobile-developers-who-want-to-design-part1-a2d47c04fd49
+
         News:
             Sources:
                 https://en.wikipedia.org/wiki/Special:Random
@@ -2475,7 +2494,6 @@ Contents:
                 https://news.ycombinator.com/item?id=20023209 (Ask HN: What are your other favorite communities other than Hacker News?)
                 https://news.ycombinator.com/item?id=20719651 (Ask HN: What are some niche or alternative news aggregators worth checking out?)
                 https://news.ycombinator.com/item?id=21928170 (Ask HN: What niche blogs are worthwhile to follow?)
-                https://news.ycombinator.com/item?id=22280939 (Ask HN: What are the underrated newsletters you like reading?)
                 https://news.ycombinator.com/item?id=22800136 (Ask HN: What is your blog and why should I read it?)
                 https://news.ycombinator.com/item?id=23206259 (Ask HN: What are some hard-tech blogs that you follow?)
                 https://news.ycombinator.com/item?id=23583629 (RSS Box – RSS for websites that do not support RSS (rssbox.herokuapp.com))
