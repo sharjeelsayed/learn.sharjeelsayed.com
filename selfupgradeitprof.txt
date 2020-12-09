@@ -51,7 +51,6 @@ Contents:
         Hardware
         macOS
         MOOC
-        NewsLetters
     Development:
         SQL
         Python
@@ -88,6 +87,7 @@ Contents:
         Science
         Design
         News
+        NewsLetters
         Podcasts
         Email
         Backup
@@ -842,7 +842,7 @@ Contents:
                 Kubernetes for Full-Stack Developers
                 https://www.digitalocean.com/community/curriculums/kubernetes-for-full-stack-developers
 
-            K8s Visual management (Sorted by Alexa Rankings)
+            K8s Visual management: (Sorted by Alexa Rank)
                 https://k8slens.dev (536,393)
                 https://infra.app (1,617,880)
                 https://k9scli.io (2,196,732)
@@ -1488,25 +1488,6 @@ Contents:
                 https://www.udemy.com/courses/free/?p=12&sort=popularity
                 https://yahnd.com (Best courses , talks and videos recommended on Hacker News)
         
-        NewsLetters:
-            Sources:
-                https://devopsnewsletters.com
-                https://news.ycombinator.com/item?id=22280939 (Ask HN: What are the underrated newsletters you like reading?)
-
-            Sites:    
-                https://thenewstack.io/newsletter-archive (40,173)
-                https://ma.ttias.be/cronweekly (65,936)
-                https://danielmiessler.com/newsletter (84,576)
-                https://www.ben-evans.com/newsletter (84,591)
-                https://www.schneier.com/crypto-gram (126,206)
-                https://www.lastweekinaws.com (425,861)
-                https://hackernewsletter.com (873,902)
-                https://devopsish.com (2,523,997)
-                https://sreweekly.com (2,618,415)
-                https://www.devopsweekly.com (3,945,939)
-                https://kubeweekly.io (6,389,097)
-                https://thisweekindevops.com (5,288,621)
-                
     Development:
         SQL:
             Sources:
@@ -1818,7 +1799,7 @@ Contents:
                 Coding Interviews at FAANG
                 https://www.codinginterview.com
             
-            Coding Challenge Websites (As per Alexa Rank):
+            Coding Challenge Websites: (Sorted by Alexa Rank):
                 https://leetcode.com (1,515)
                 https://www.hackerrank.com (2,012)
                 https://www.codechef.com (7,259)
@@ -1875,7 +1856,7 @@ Contents:
                 https://www.reddit.com/r/india/comments/gja5eo/advice_for_indians_looking_to_study_abroad_and
                 https://pinboard.in/u:SharjeelSayed/t:jobs
                 
-            Job Sites (Sorted by Alexa Rank):
+            Job Sites: (Sorted by Alexa Rank)
                 https://stackoverflow.com/jobs (49)
                 https://www.linkedin.com/jobs (57)
                 https://www.naukri.com (441)
@@ -1934,7 +1915,7 @@ Contents:
                 https://www.youtube.com/watch?v=NxmcfrFrYEA&t=1327s (How the client sees your proposal)
                 https://youtu.be/PTzJlrahqgc (The COMPLETE Upwork Tutorial for Beginners!)
                 
-            Sites (Alexa rank sorted):
+            Sites: (Sorted by Alexa Rank)
                 https://www.fiverr.com (291)
                 https://www.upwork.com/freelance-jobs (591)
                 https://www.freelancer.com/jobs (1426)
@@ -2478,7 +2459,6 @@ Contents:
                 https://github.com/greybax/awesome-IT-films
                 https://github.com/learn-anything/blogs
                 https://github.com/topics/blogs?o=desc&s=stars
-                https://kill-the-newsletter.com
                 https://news.vinc.cc
                 https://news.ycombinator.com/item?id=14086259 (Ask HN: Mailing lists that HN readers ought to know about?)
                 https://news.ycombinator.com/item?id=14163905 (Ask HN: Which companies have the best blogs written by their engineering team?)
@@ -2618,6 +2598,26 @@ Contents:
                 
                 Tech News Notifications (iOS/Android):
                     Turn on the applet https://IFTTT.com/applets/456148p in the IFTTT Mobile app and add https://www.techmeme.com/feed.xml into the 'Feed URL' field of the applet.
+
+        NewsLetters: (Sorted by Alexa Rank)
+            Sources:
+                https://devopsnewsletters.com
+                https://kill-the-newsletter.com
+                https://news.ycombinator.com/item?id=22280939 (Ask HN: What are the underrated newsletters you like reading?)
+
+            Sites:    
+                https://thenewstack.io/newsletter-archive (40,173)
+                https://ma.ttias.be/cronweekly (65,936)
+                https://danielmiessler.com/newsletter (84,576)
+                https://www.ben-evans.com/newsletter (84,591)
+                https://www.schneier.com/crypto-gram (126,206)
+                https://www.lastweekinaws.com (425,861)
+                https://hackernewsletter.com (873,902)
+                https://devopsish.com (2,523,997)
+                https://sreweekly.com (2,618,415)
+                https://www.devopsweekly.com (3,945,939)
+                https://kubeweekly.io (6,389,097)
+                https://thisweekindevops.com (5,288,621)
 
         Podcasts:
             Sources:
