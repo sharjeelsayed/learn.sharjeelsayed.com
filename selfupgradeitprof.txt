@@ -503,6 +503,7 @@ Contents:
             https://github.com/dastergon/awesome-sre
             https://github.com/kahun/awesome-sysadmin
             https://github.com/Leo-G/DevopsWiki
+            https://github.com/linkedin/school-of-sre
             https://github.com/madd86/awesome-system-design
             https://github.com/n1trux/awesome-sysadmin
             https://github.com/nmarus/docker-devops-box
@@ -523,7 +524,6 @@ Contents:
             https://octopus.com/blog/devops-reading-list
             https://pauljerimy.com/wp-content/uploads/2020/03/IT_CareerRoadmap2020smol.png (IT Career Roadmap)
             https://roadmap.sh/devops
-            https://t.me/devopsish
             https://www.bookadvice.co/sysadmin.html
             https://www.linkedin.com/groups/2825397 (DevOps Group)
             https://www.reddit.com/r/compsci+cscareerquestions+learnprogramming+linux+linuxadmin+netsec+networking+programming+sysadmin
@@ -727,6 +727,9 @@ Contents:
                 Docker for Beginners
                 https://prakhar.me/docker-curriculum
                 
+                Docker and Kubernetes Tutorial | Full Course [2020] by  Amigoscode and Nana
+                https://youtu.be/bhBSlnQcq2k
+                
                 Docker Mastery: with Kubernetes +Swarm from a Docker Captain by Bret Fisher
                 https://www.udemy.com/course/docker-mastery
                 https://chat.bretfisher.com
@@ -809,7 +812,10 @@ Contents:
                 https://learning.oreilly.com/library/view/kubernetes-up-and/9781492046523
                 https://tanzu.vmware.com/content/ebooks/kubernetes-up-running-dive-into-the-future-of-infrastructure
                 https://www.amazon.com/Kubernetes-Running-Dive-Future-Infrastructure/dp/1492046531
-                
+
+                Kubernetes Tutorial for Beginners [FULL COURSE in 4 Hours] by TechWorld with Nana
+                https://youtu.be/X48VuDVv0do
+
                 CKA/CKAD/CKS
                 https://github.com/cncf/curriculum
                 https://github.com/dgkanatsios/CKAD-exercises
@@ -819,6 +825,7 @@ Contents:
                 https://itnext.io/how-to-pass-the-new-cka-exam-released-at-september-2020-e0e014d67f78
                 https://killer.sh
                 https://levelup.gitconnected.com/kubernetes-cka-example-questions-practical-challenge-86318d85b4d
+                https://ravikirans.com/cks-kubernetes-security-exam-study-guide
                 https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka
                 https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad
                 https://www.cncf.io/certification/training
@@ -1718,6 +1725,7 @@ Contents:
                 http://blog.interviewing.io/what-really-matters-in-technical-interviews-we-analyzed-thousands-of-interviews-on-everything-from-language-to-code-style-heres-what-we-found
                 https://github.com/kdn251/interviews
                 https://github.com/mxssl/sre-interview-prep-guide
+                https://github.com/Olshansk/interview
                 https://github.com/topics/interview-questions?o=desc&s=stars
                 https://github.com/topics/interview?o=desc&s=stars
                 https://github.com/topics/leetcode?o=desc&s=stars
@@ -1897,6 +1905,7 @@ Contents:
                 https://careernavigator.naukri.com
                 https://stackoverflow.com/jobs/salary
                 https://www.glassdoor.co.in/Salaries/india-salary-SRCH_IL.0,5_IN115.htm
+                https://www.glassdoor.co.in/member/home/companies.htm
                 https://www.levels.fyi
                 https://www.payscale.com/research/IN/Country=India/Salary
 
@@ -2527,6 +2536,7 @@ Contents:
                         https://telegramchannels.me/search?search=feed&type=bot (RSS Feed Bots)
                         https://tgram.io
                         https://tlgrm.eu/channels/tech (Technology Channels)
+                        https://t.me/devopsish (DevOps'ish Telegram Channel)
 
                     Telegram News Feed Setup:
                         Join these channels
