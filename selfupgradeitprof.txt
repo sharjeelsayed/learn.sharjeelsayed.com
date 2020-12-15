@@ -1,7 +1,7 @@
 Curated Self Study Guide for Computer Science and DevOps/SRE/SysAdmin
 
     The latest updated copy of this page is at http://Learn.SharjeelSayed.com . Fork/PR at https://github.com/sharjeelsayed/sharjeelsayed.github.io
-    About me: http://SharjeelSayed.com
+    About me: https://SharjeelSayed.com
 
 Contents:
     Computer Science:
@@ -2430,8 +2430,11 @@ Contents:
                 https://en.wikipedia.org/wiki/Cosmos:_A_Spacetime_Odyssey
 
             Science Magazines:
+                https://www.nationalgeographic.com (2,144)
                 https://www.scientificamerican.com (4,564)
                 https://www.popularmechanics.com (6,207)
+                https://www.smithsonianmag.com (6,780)
+                https://phys.org (7,777)
                 https://www.technologyreview.com (9,232)
                 https://www.newscientist.com (12,635)
                 https://www.popsci.com (12,738)
@@ -2501,7 +2504,7 @@ Contents:
                 RSS:
                     Import http://Opml.SharjeelSayed.com , into https://www.inoreader.com or https://reederapp.com
                 
-                News Sites:
+                News Sites: (Sorted by Alexa Rank)
                     https://cnn.com (68)
                     https://www.nytimes.com (78)
                     https://www.bbc.com (87)
@@ -2510,13 +2513,47 @@ Contents:
                     https://www.washingtonpost.com (176)
                     https://cnbc.com (270)
                     https://forbes.com (281)
+                    https://www.moneycontrol.com (352)
                     https://ndtv.com (359)
-                    https://bloomberg.com (391)
+                    https://bloomberg.com (401)
                     https://reuters.com (418)
                     https://www.wsj.com (425)
                     https://indianexpress.com (626)
+                    https://www.huffpost.com (795)
                     https://hindustantimes.com (829)
+                    https://apnews.com (912)
                     https://www.aljazeera.com (1,319)
+                    https://www.khaleejtimes.com (1,523)
+                    https://www.vox.com (1,881)
+                    https://www.khaleejtimes.com (4,984)
+
+                Tech News: (Sorted by Alexa Rank)
+                    https://www.cnet.com (169)
+                    https://www.theverge.com (696)
+                    https://www.pcmag.com (762)
+                    https://www.engadget.com (1,084)
+                    https://www.digitaltrends.com (1,307)
+                    https://www.wired.com (1,482)
+                    https://techcrunch.com (1,713)
+                    https://mashable.com (1,893)
+                    https://gizmodo.com (1,918)
+                    https://lifehacker.com (2,403)
+                    https://www.gadgetsnow.com (2,801)
+                    https://www.macrumors.com (2,827)
+                    https://www.zdnet.com (3,454)
+                    https://www.techrepublic.com (3,554)
+                    https://arstechnica.com (4,422)
+                    https://9to5mac.com (5,589)
+                    https://venturebeat.com (5,951)
+                    https://thenextweb.com (6,814)
+                    https://appleinsider.com (6,940)
+                    https://www.macworld.com (7,389)
+                    https://bgr.com (12,665)
+                    https://hackernoon.com (12,947)
+                    https://www.geekwire.com (13,375)
+                    https://www.slashgear.com (14,179)
+                    https://torrentfreak.com (15,675)
+                    https://www.cultofmac.com (26,712)
 
                 Telegram:
                     Sources:
@@ -2609,13 +2646,13 @@ Contents:
                 Tech News Notifications (iOS/Android):
                     Turn on the applet https://IFTTT.com/applets/456148p in the IFTTT Mobile app and add https://www.techmeme.com/feed.xml into the 'Feed URL' field of the applet.
 
-        NewsLetters: (Sorted by Alexa Rank)
+        NewsLetters:
             Sources:
                 https://devopsnewsletters.com
                 https://kill-the-newsletter.com
                 https://news.ycombinator.com/item?id=22280939 (Ask HN: What are the underrated newsletters you like reading?)
 
-            Sites:    
+            Sites: (Sorted by Alexa Rank)
                 https://thenewstack.io/newsletter-archive (40,173)
                 https://ma.ttias.be/cronweekly (65,936)
                 https://danielmiessler.com/newsletter (84,576)
