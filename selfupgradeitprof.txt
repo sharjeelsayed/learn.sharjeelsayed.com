@@ -693,6 +693,7 @@ Contents:
                 https://containersfromthecouch.com
                 https://docs.docker.com
                 https://github.com/dokku/dokku
+                https://github.com/hexops/dockerfile
                 https://github.com/magicmark/composerize (Turns docker run commands into docker-compose files!)
                 https://github.com/p8952/bocker (Docker implemented in around 100 lines of bash)
                 https://github.com/tiangolo/dockerswarm.rocks
@@ -2518,13 +2519,22 @@ Contents:
                     https://bloomberg.com (401)
                     https://reuters.com (418)
                     https://www.wsj.com (425)
-                    https://indianexpress.com (626)
+                    https://abcnews.go.com (521)
+                    https://indianexpress.com (643)
                     https://www.huffpost.com (795)
                     https://hindustantimes.com (829)
+                    https://www.news18.com (889)
                     https://apnews.com (912)
+                    https://www.thehindu.com (1,105)
                     https://www.aljazeera.com (1,319)
-                    https://www.khaleejtimes.com (1,523)
+                    https://www.telegraph.co.uk (1,328)
+                    https://scroll.in (1,648)
                     https://www.vox.com (1,881)
+                    https://www.livemint.com (2,043)
+                    https://news.abplive.com (2,235)
+                    https://www.financialexpress.com (2,585)
+                    https://www.firstpost.com (3,388)
+                    https://gulfnews.com (3,506)
                     https://www.khaleejtimes.com (4,984)
 
                 Tech News: (Sorted by Alexa Rank)
@@ -2543,11 +2553,13 @@ Contents:
                     https://www.zdnet.com (3,454)
                     https://www.techrepublic.com (3,554)
                     https://arstechnica.com (4,422)
+                    https://www.imore.com (5,513)
                     https://9to5mac.com (5,589)
                     https://venturebeat.com (5,951)
                     https://thenextweb.com (6,814)
                     https://appleinsider.com (6,940)
                     https://www.macworld.com (7,389)
+                    https://www.anandtech.com (8,028)
                     https://bgr.com (12,665)
                     https://hackernoon.com (12,947)
                     https://www.geekwire.com (13,375)
