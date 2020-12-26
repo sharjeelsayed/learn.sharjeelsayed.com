@@ -5,7 +5,7 @@
   </head>
   <body>
     <outline text="MustRead" title="MustRead">
-      <outline text="KubeWeekly" title="KubeWeekly" type="rss" xmlUrl="https://kill-the-newsletter.com/feeds/g5m5e5d3hspsxygppxz2.xml" htmlUrl="https://kill-the-newsletter.com/"/>
+      <outline text="SRE Weekly" title="SRE Weekly" type="rss" xmlUrl="https://kill-the-newsletter.com/feeds/guutk0rexxzufkwno9vg.xml" htmlUrl="https://kill-the-newsletter.com/"/>
       <outline text="FastMail blog" title="FastMail blog" type="rss" xmlUrl="https://fastmail.blog/rss/" htmlUrl="https://fastmail.blog/"/>
       <outline text="1Password Blog" title="1Password Blog" type="rss" xmlUrl="https://blog.1password.com/index.xml" htmlUrl="https://blog.1password.com/"/>
       <outline text="Udemy+udemyfreebies : top scoring links" title="Udemy+udemyfreebies : top scoring links" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/Udemy%2Budemyfreebies/top/.rss" htmlUrl="https://www.reddit.com/r/Udemy+udemyfreebies/top/?t=1602012829"/>
@@ -14,8 +14,8 @@
       <outline text="devops:top scoring links" title="devops:top scoring links" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/devops/top/.rss" htmlUrl="https://www.reddit.com/r/devops/top/?t=1604512964"/>
       <outline text="Terraform, ansible, usefulscripts:top scoring links" title="Terraform, ansible, usefulscripts:top scoring links" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/Terraform%2Bansible%2Busefulscripts/top/.rss" htmlUrl="https://www.reddit.com/r/Terraform+ansible+usefulscripts/top/?t=1605105575"/>
       <outline text="Benedict Evans' newsletter" title="Benedict Evans' newsletter" type="rss" xmlUrl="https://kill-the-newsletter.com/feeds/aplacga2s3avq4voe7p1.xml" htmlUrl="https://kill-the-newsletter.com/"/>
+      <outline text="KubeWeekly" title="KubeWeekly" type="rss" xmlUrl="https://kill-the-newsletter.com/feeds/g5m5e5d3hspsxygppxz2.xml" htmlUrl="https://kill-the-newsletter.com/"/>
       <outline text="Inoreader blog" title="Inoreader blog" type="rss" xmlUrl="https://www.inoreader.com/blog/feed" htmlUrl="https://blog.inoreader.com/"/>
-      <outline text="SRE Weekly" title="SRE Weekly" type="rss" xmlUrl="https://kill-the-newsletter.com/feeds/guutk0rexxzufkwno9vg.xml" htmlUrl="https://kill-the-newsletter.com/"/>
       <outline text="This Week in DevOps" title="This Week in DevOps" type="rss" xmlUrl="https://kill-the-newsletter.com/feeds/ig5w5c7hci54jvxs4kab.xml" htmlUrl="https://kill-the-newsletter.com/"/>
       <outline text="cron.weekly" title="cron.weekly" type="rss" xmlUrl="https://kill-the-newsletter.com/feeds/0fgxi92y8lp4en32hqjr.xml" htmlUrl="https://kill-the-newsletter.com/"/>
       <outline text="Scientific American Content: Global" title="Scientific American Content: Global" type="rss" xmlUrl="http://rss.sciam.com/ScientificAmerican-Global?format=xml" htmlUrl="http://www.scientificamerican.com/"/>
@@ -23,6 +23,7 @@
       <outline text="The New Stack" title="The New Stack" type="rss" xmlUrl="https://kill-the-newsletter.com/feeds/ztwy8899h9bluq9zx6yn.xml" htmlUrl="https://kill-the-newsletter.com/"/>
       <outline text="The Verge" title="The Verge" type="rss" xmlUrl="http://www.theverge.com/rss/index.xml" htmlUrl="http://www.theverge.com/"/>
       <outline text="MacRumors: Mac News and Rumors - Front Page" title="MacRumors: Mac News and Rumors - Front Page" type="rss" xmlUrl="http://www.macrumors.com/macrumors.xml" htmlUrl="http://www.macrumors.com/"/>
+      <outline text="MailMate" title="MailMate" type="rss" xmlUrl="https://blog.freron.com/feed.xml" htmlUrl="https://freron.com/"/>
       <outline text="technology:top scoring links" title="technology:top scoring links" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/technology/top/.rss" htmlUrl="https://www.reddit.com/r/technology/top/?t=1598200139"/>
       <outline text="The Hacker News" title="The Hacker News" type="rss" xmlUrl="http://thehackernews.com/feeds/posts/default" htmlUrl="http://thehackernews.com/"/>
       <outline text="Slashdot" title="Slashdot" type="rss" xmlUrl="http://rss.slashdot.org/Slashdot/slashdotMain" htmlUrl="http://slashdot.org/"/>
@@ -62,7 +63,6 @@
       <outline text="hackernewsletter" title="hackernewsletter" type="rss" xmlUrl="https://www.kill-the-newsletter.com/feeds/6yeqhs72sgt8xofd7swu.xml" htmlUrl="https://www.kill-the-newsletter.com/"/>
       <outline text="Crypto-Gram from Bruce Schneier" title="Crypto-Gram from Bruce Schneier" type="rss" xmlUrl="https://www.kill-the-newsletter.com/feeds/k33e88o998p7nj1yogvq.xml" htmlUrl="https://www.kill-the-newsletter.com/alternate"/>
       <outline text="Devops Weekly" title="Devops Weekly" type="rss" xmlUrl="https://www.kill-the-newsletter.com/feeds/6j285p2hcl9vx1yfaxpa.xml" htmlUrl="https://www.kill-the-newsletter.com/alternate"/>
-      <outline text="mailmate" title="mailmate" type="rss" xmlUrl="https://kill-the-newsletter.com/feeds/cy5n8vmls4wzvyjcbl3i.xml" htmlUrl="https://kill-the-newsletter.com/"/>
       <outline text="Last Week in AWS" title="Last Week in AWS" type="rss" xmlUrl="https://kill-the-newsletter.com/feeds/p66ojkndts07716u9hdd.xml" htmlUrl="https://kill-the-newsletter.com/"/>
       <outline text="Benedict Evans' newsletter" title="Benedict Evans' newsletter" type="rss" xmlUrl="https://kill-the-newsletter.com/feeds/aplacga2s3avq4voe7p1.xml" htmlUrl="https://kill-the-newsletter.com/"/>
       <outline text="KubeWeekly" title="KubeWeekly" type="rss" xmlUrl="https://kill-the-newsletter.com/feeds/g5m5e5d3hspsxygppxz2.xml" htmlUrl="https://kill-the-newsletter.com/"/>
@@ -104,7 +104,8 @@
       <outline text="The Hacker News" title="The Hacker News" type="rss" xmlUrl="http://thehackernews.com/feeds/posts/default" htmlUrl="http://thehackernews.com/"/>
     </outline>
     <outline text="Leisure" title="Leisure">
-      <outline text="Product Hunt — The best new products, every day" title="Product Hunt — The best new products, every day" type="rss" xmlUrl="https://www.producthunt.com/feed" htmlUrl="http://www.producthunt.com/"/>
+      <outline text="onebag:top scoring links" title="onebag:top scoring links" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/onebag/top/.rss" htmlUrl="https://www.reddit.com/r/onebag/top/?t=1598199295"/>
+      <outline text="MailMate" title="MailMate" type="rss" xmlUrl="https://blog.freron.com/feed.xml" htmlUrl="https://freron.com/"/>
       <outline text="MacRumors: Mac News and Rumors - Front Page" title="MacRumors: Mac News and Rumors - Front Page" type="rss" xmlUrl="http://www.macrumors.com/macrumors.xml" htmlUrl="http://www.macrumors.com/"/>
       <outline text="The Verge" title="The Verge" type="rss" xmlUrl="http://www.theverge.com/rss/index.xml" htmlUrl="http://www.theverge.com/"/>
       <outline text="Scientific American Content: Global" title="Scientific American Content: Global" type="rss" xmlUrl="http://rss.sciam.com/ScientificAmerican-Global?format=xml" htmlUrl="http://www.scientificamerican.com/"/>
@@ -115,8 +116,8 @@
       <outline text="todoist, 1Password, Alfred, nextdns:top scoring links" title="todoist, 1Password, Alfred, nextdns:top scoring links" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/1Password%2BAlfred%2Bnextdns%2Btodoist/top/.rss" htmlUrl="https://www.reddit.com/r/1Password+Alfred+nextdns+todoist/top/?t=1598199743"/>
       <outline text="gadgets:top scoring links" title="gadgets:top scoring links" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/gadgets/top/.rss" htmlUrl="https://www.reddit.com/r/gadgets/top/?t=1598199620"/>
       <outline text="IndiaInvestments:top scoring links" title="IndiaInvestments:top scoring links" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/IndiaInvestments/top/.rss" htmlUrl="https://www.reddit.com/r/IndiaInvestments/top/?t=1598199521"/>
-      <outline text="onebag:top scoring links" title="onebag:top scoring links" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/onebag/top/.rss" htmlUrl="https://www.reddit.com/r/onebag/top/?t=1598199295"/>
       <outline text="YouTube India Popular Right Now" title="YouTube India Popular Right Now" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?playlist_id=PL_yIBWagYVjyyqx_qPkbat5zufWZOyZEZ" htmlUrl="yt:playlist:PL_yIBWagYVjyyqx_qPkbat5zufWZOyZEZ"/>
+      <outline text="Product Hunt — The best new products, every day" title="Product Hunt — The best new products, every day" type="rss" xmlUrl="https://www.producthunt.com/feed" htmlUrl="http://www.producthunt.com/"/>
       <outline text="ipad, osx, AppleWatch, apple, macapps, mac, iphone:top scoring links " title="ipad, osx, AppleWatch, apple, macapps, mac, iphone:top scoring links " type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/AppleWatch%2Bapple%2Bipad%2Biphone%2Bmac%2Bmacapps%2Bosx/top/.rss" htmlUrl="https://www.reddit.com/r/AppleWatch+apple+ipad+iphone+mac+macapps+osx/top/?t=1598034869"/>
       <outline text="juul:top scoring links" title="juul:top scoring links" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/juul/top/.rss" htmlUrl="https://www.reddit.com/r/juul/top/?t=1598004533"/>
       <outline text="Piracy, DataHoarder:top scoring links" title="Piracy, DataHoarder:top scoring links" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/DataHoarder%2BPiracy/top/.rss" htmlUrl="https://www.reddit.com/r/DataHoarder+Piracy/top/?t=1598003867"/>
