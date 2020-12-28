@@ -433,9 +433,8 @@ Contents:
                 CCNA Routing and Switching 200-125 Official Cert Guide Library
                 https://www.amazon.com/Routing-Switching-200-125-Official-Library/dp/1587205815
                 
-                Cisco CCENT/CCNA CBT Nuggets by Jeremey Cioara
-                https://www.cbtnuggets.com/it-training/cisco-ccna-icnd1-100-105
-                https://www.cbtnuggets.com/it-training/icnd2-200-105
+                Cisco Certified Network Associate (200-301 CCNA) Online Training by Jeremey Cioara, Keith Barker and Chuck Keith
+                https://www.cbtnuggets.com/it-training/cisco/ccna
                 
                 Eli The Computer Guy
                 https://www.youtube.com/playlist?list=PLF360ED1082F6F2A5
@@ -443,6 +442,9 @@ Contents:
                 Load Balancing Servers, Firewalls, and Caches
                 https://www.amazon.com/Load-Balancing-Servers-Firewalls-Caches/dp/0471415502
                 
+                Professor Messer’s CompTIA N10-007 Network+ Course
+                https://www.professormesser.com/network-plus/n10-007/n10-007-training-course
+
                 Professor Messer - Seven Second Subnetting
                 https://youtu.be/ZxAwQB8TZsM
 
@@ -1316,9 +1318,11 @@ Contents:
                 https://news.ycombinator.com/item?id=17563857 (Ask HN: What are the best resources for learning security and pen testing?)
                 https://news.ycombinator.com/item?id=17749283 (Ask HN: Recommendations of good cybercrime novels?)
                 https://news.ycombinator.com/item?id=18487547 (Ask HN: Starting a career in security at 40?)
+                https://overthewire.org/wargames/bandit
                 https://room362.com/start
                 https://s3ctur.wordpress.com/2017/06/19/breaking-into-infosec-a-beginners-curriculum
                 https://security.stackexchange.com/questions/46666/at-what-length-does-a-password-stop-making-sense
+                https://twitter.com/thecybermentor/status/1343471818468978688 (So, you want to be a hacker: 2021 edition.)
                 https://www.cisecurity.org/cis-benchmarks
                 https://www.edx.org/learn/cybersecurity
                 https://www.reddit.com/r/crypto/wiki
@@ -1347,6 +1351,8 @@ Contents:
 
                 Practical Ethical Hacking - The Complete Course by Heath Adams
                 https://www.udemy.com/course/practical-ethical-hacking
+                https://academy.tcm-sec.com/p/practical-ethical-hacking-the-complete-course
+                https://youtu.be/WnN6dbos5u8
 
         Hardware:
             Sources:
@@ -1395,6 +1401,7 @@ Contents:
                 https://osxfuse.github.io
                 https://www.hammerspoon.org/go/#pasteblock
                 https://www.parallels.com/products/desktop
+                https://www.titanium-software.fr/en/onyx.html
                 https://xnipapp.com
 
             Alfred:
@@ -2514,8 +2521,8 @@ Contents:
                     https://www.washingtonpost.com (176)
                     https://cnbc.com (270)
                     https://forbes.com (281)
-                    https://www.moneycontrol.com (352)
-                    https://ndtv.com (359)
+                    https://www.moneycontrol.com (344)
+                    https://ndtv.com (371)
                     https://bloomberg.com (401)
                     https://reuters.com (418)
                     https://www.wsj.com (425)
@@ -2533,6 +2540,7 @@ Contents:
                     https://www.livemint.com (2,043)
                     https://news.abplive.com (2,235)
                     https://www.financialexpress.com (2,585)
+                    https://www.scmp.com (2,768)
                     https://www.firstpost.com (3,388)
                     https://gulfnews.com (3,506)
                     https://www.khaleejtimes.com (4,984)
@@ -2637,6 +2645,7 @@ Contents:
                     https://hndex.org (a search engine for finding articles posted to hacker news)
                     https://hnprofile.com ((Find an Expert on Hacker News))
                     https://news.ycombinator.com
+                    https://news.ycombinator.com/item?id=25556990 (	HN Alternative UIs (luke.lol))
                     https://readhacker.news
                     https://showcase.metamate.io/hackernews-trends
                     https://t.me/best_hacker_news
@@ -2711,7 +2720,7 @@ Contents:
 
         Email:
             Sources:
-                https://news.ycombinator.com/item?id=18054574 (Ask HN: Best alternative to Gmail?)
+                https://news.ycombinator.com/item?id=25497113 (Ask HN: Best Paid Gmail Replacement?)
                 https://nomoregoogle.com
                 https://pinboard.in/u:sharjeelsayed/t:email
                 https://stackoverflow.com/questions/9807909/are-email-addresses-case-sensitive
@@ -2902,8 +2911,12 @@ Contents:
 
         Chess:
             Sources:
+                https://chess.stackexchange.com/questions/75/what-are-examples-of-very-aggressive-openings
+                https://chesstempo.com/chess-tactics
+                https://dwheeler.com/chess-openings
                 https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=chess&sort=byPopularity&type=all
                 https://pinboard.in/u:sharjeelsayed/t:chess
+                https://www.chess.com/puzzles
                 https://www.chessgames.com/chessstats.html
                 https://www.gautamnarula.com/how-to-get-good-at-chess-fast
                 https://www.reddit.com/r/chess/wiki/faq
@@ -2949,6 +2962,7 @@ Contents:
         https://news.ycombinator.com/item?id=23390308 (Ask HN: What is the cheapest way to make a website?)
         https://news.ycombinator.com/item?id=24436135 (Ask HN: What is your favorite motto?)
         https://news.ycombinator.com/item?id=25136258 (Ask HN: What is the best money you have spent on professional development?)
+        https://news.ycombinator.com/item?id=25518730 (	Tips for a Better Life (lesswrong.com))
         https://redditprofile.com (Find an Expert on Reddit)
         https://sourceful.co.uk (Discover the best public GoogleDocs and Sheets)
         https://twitter.com/search?q=Gone%20Free%20(from%3ASharjeelSayed)
