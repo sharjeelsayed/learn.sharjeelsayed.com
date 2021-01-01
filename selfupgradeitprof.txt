@@ -1101,6 +1101,7 @@ Contents:
         Terraform:
             Sources:
                 https://github.com/Artemmkin/infrastructure-as-code-tutorial
+                https://github.com/nsriram/lambda-the-terraform-way
                 https://github.com/shuaibiyy/awesome-terraform
                 https://github.com/topics/infrastructure-as-code?o=desc&s=stars
                 https://github.com/topics/terraform?o=desc&s=stars
@@ -1831,6 +1832,7 @@ Contents:
             Sources:
                 https://gitconnected.com
                 https://github.com/posquit0/Awesome-CV
+                https://github.com/salomonelli/best-resume-ever
                 https://github.com/topics/cv?o=desc&s=stars
                 https://github.com/topics/resume?o=desc&s=stars
                 https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=resume%20&sort=byPopularity&type=story
@@ -2979,6 +2981,7 @@ Contents:
 
     Support this page with these referral links:
         http://amex.in/refer/sHARJsCJfI (American Express)
+        http://share.payoneer.com/nav/gJpTWscAr6xJD14ZBR4gK1Mz9pGKs23iSC5MeSpZ_3L11XA8Vnny4cwQciAVBRLRG1bc5d2c5jNqUK1E7kq17A2 ($25 on Sign Up)
         https://db.tt/YL0e12GN (Dropbox 500 MB of bonus space)
         https://m.do.co/c/d3160b5e33e8 (DigitalOcean Credits)
         https://mega.nz/C!vuhRiKpB (Mega.nz Extra Storage)
