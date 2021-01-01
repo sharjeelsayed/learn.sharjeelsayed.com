@@ -709,7 +709,7 @@ Contents:
                 https://sparkle.adroitcorp.com.au/market (Flashcards)
                 https://www.fb.com/groups/devopsdocker
                 https://www.reddit.com/r/docker
-                https://www.udemy.com/topic/docker
+                https://www.udemy.com/topic/docker/?ratings=4.5&sort=popularity
                 https://pinboard.in/u:SharjeelSayed/t:docker
                 
             Books and Courses:
@@ -961,7 +961,7 @@ Contents:
                 https://www.qwiklabs.com/quests/10 (Solutions Architect - Associate)
                 https://www.reddit.com/r/AWSCertifications
                 https://www.reddit.com/r/AWSCertifications/search/?q=course&restrict_sr=on&t=year
-                https://www.udemy.com/topic/aws-certification
+                https://www.udemy.com/topic/aws-certification/?ratings=4.5&sort=popularity
             
             Additional Material:
                 AWS Certified Solutions Architect - Associate 2020 (PASS THE EXAM!) | Ad-Free Course by freeCodeCamp.org
@@ -993,7 +993,7 @@ Contents:
 
         Heroku:
             Sources:
-                https://www.udemy.com/topic/heroku
+                https://www.udemy.com/topic/heroku/?ratings=4.5&sort=popularity
                 https://devcenter.heroku.com
 
             Books and Courses:
@@ -1114,6 +1114,7 @@ Contents:
                 https://www.reddit.com/r/Terraform/comments/iguorh/best_terraform_course
                 https://www.thecloud.coach/terraform-crash-course
                 https://www.udemy.com/course/learn-devops-kubernetes-deployment-by-kops-and-terraform
+                https://www.udemy.com/topic/terraform/?ratings=4.5&sort=popularity
 
             Books and Courses:
                 HashiCorp Certified: Terraform Associate 2020 by Zeal Vora
@@ -1175,6 +1176,7 @@ Contents:
                 https://roadmap.sh/postgresql-dba
                 https://tomcam.github.io/postgres (psql command line tutorial and cheat sheet)
                 https://www.pgcli.com
+                https://www.udemy.com/topic/postgresql/?ratings=4.5&sort=popularity
             
             Books and Courses:
                 https://www.postgresql.org/docs/current
@@ -1207,7 +1209,7 @@ Contents:
                 https://www.reddit.com/r/git/top
                 https://www.reddit.com/r/programming/comments/fd9zpj/becoming_a_git_pro_part_1_internal_git/fjge9vy
                 https://www.sourcetreeapp.com
-                https://www.udemy.com/topic/git
+                https://www.udemy.com/topic/git/?ratings=4.5&sort=popularity
                 https://xosh.org/explain-git-in-simple-words
                 
             Books and Courses:
@@ -1238,7 +1240,7 @@ Contents:
                 https://github.com/topics/jenkins?o=desc&s=stars
                 https://standard.cbu.cloudbees.com
                 https://www.jenkins.io/doc
-                https://www.udemy.com/topic/jenkins
+                https://www.udemy.com/topic/jenkins/?ratings=4.5&sort=popularity
 
             Courses:
                 Jenkins Tutorial for Beginners by TechWorld with Nana
@@ -1281,7 +1283,7 @@ Contents:
                 https://github.com/roaldnefs/awesome-prometheus
                 https://github.com/topics/prometheus?o=desc&s=stars
                 https://github.com/yolossn/Prometheus-Basics
-                https://www.udemy.com/topic/prometheus-software
+                https://www.udemy.com/topic/prometheus-software/?ratings=4.5&sort=popularity
                 
             Books and Courses:
                 Prometheus: Up & Running: Infrastructure and Application Performance Monitoring 1st Edition
@@ -1289,6 +1291,10 @@ Contents:
                 https://github.com/prometheus-up-and-running
                 https://learning.oreilly.com/library/view/prometheus-up/9781492034131
 
+                Prometheus Alerting and Monitoring by Sean Bradley
+                https://www.udemy.com/course/prometheus
+
+            Additional Courses:
                 Prometheus | The Complete Hands-On for Monitoring & Alerting by A to Z Mentors
                 https://www.udemy.com/course/prometheus-course
 
@@ -1624,7 +1630,7 @@ Contents:
                 https://news.ycombinator.com/item?id=24130286 (Ask HN: Self-taught webdev with lots of free time. What should I learn?)
                 https://www.reddit.com/r/learnprogramming/comments/bvlsf7/the_odin_project_vs_colt_steeles_web_dev_bootcamp
                 https://www.reddit.com/r/webdev/comments/8lvsxa/is_colt_steele_web_dev_bootcamp_still_the_go_to
-                https://www.udemy.com/courses/development/web-development
+                https://www.udemy.com/courses/development/web-development/?ratings=4.5&sort=popularity
                 https://www.youtube.com/c/TraversyMedia
                 
             Books and Courses:
@@ -1648,7 +1654,7 @@ Contents:
                 https://www.reddit.com/r/javascript/top/?sort=top&t=year
                 https://www.reddit.com/r/learnjavascript/top/?sort=top&t=year
                 https://www.reddit.com/r/learnjavascript/wiki
-                https://www.udemy.com/topic/javascript
+                https://www.udemy.com/topic/javascript/?ratings=4.5&sort=popularity
             
             Books and Courses:
                 The Modern JavaScript Tutorial
@@ -1682,7 +1688,7 @@ Contents:
                 https://github.com/topics/nodejs?o=desc&s=stars
                 https://nodeschool.io
                 https://www.reddit.com/r/node/top/?sort=top&t=year
-                https://www.udemy.com/topic/nodejs
+                https://www.udemy.com/topic/nodejs/?ratings=4.5&sort=popularity
                 
             Books and Courses:
                 Node.js Tutorial for Beginners: Learn Node in 1 Hour | Mosh
