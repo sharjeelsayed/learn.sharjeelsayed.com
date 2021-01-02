@@ -507,6 +507,7 @@ Contents:
             https://github.com/trimstray/the-book-of-secret-knowledge
             https://landscape.cncf.io (CNCF Cloud Native Interactive Landscape)
             https://pauljerimy.com/wp-content/uploads/2020/03/IT_CareerRoadmap2020smol.png (IT Career Roadmap)
+            https://www.atlassian.com/incident-management
             https://www.reddit.com/r/compsci+cscareerquestions+learnprogramming+linux+linuxadmin+netsec+networking+programming+sysadmin
             https://www.reddit.com/r/homelab/wiki/software
             https://www.reddit.com/r/ITCareerQuestions/comments/5nvltv/what_fieldsdisciplines_should_i_be_looking_into/dcf3ny0
@@ -2939,21 +2940,21 @@ Contents:
         Chess:
             Sources:
                 https://chess.stackexchange.com/questions/75/what-are-examples-of-very-aggressive-openings
-                https://chesstempo.com/chess-tactics
                 https://dwheeler.com/chess-openings
+                https://en.wikibooks.org/wiki/Chess
                 https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=chess&sort=byPopularity&type=all
-                https://pinboard.in/u:sharjeelsayed/t:chess
                 https://www.chess.com/puzzles
                 https://www.chessgames.com/chessstats.html
+                https://www.chesstactics.org
                 https://www.gautamnarula.com/how-to-get-good-at-chess-fast
                 https://www.reddit.com/r/chess/wiki/faq
+                https://pinboard.in/u:sharjeelsayed/t:chess
                 
-            Sites:
-                https://chesstempo.com
-                https://en.wikibooks.org/wiki/Chess
-                https://lichess.org
-                https://stockfishchess.org
-                https://www.chesstactics.org
+            Sites: (Sorted by Alexa Rank)
+                https://www.chess.com (228)
+                https://lichess.org (1,737)
+                https://chesstempo.com/chess-tactics (51,565)
+                https://stockfishchess.org (58,390)
 
     Additional Sources :
         https://en.wikipedia.org/wiki/List_of_common_misconceptions
