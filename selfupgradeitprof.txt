@@ -50,6 +50,8 @@ Contents:
         Jenkins
         Vim
         ELK
+        Prometheus
+        Grafana
         Security
         Hardware
         macOS
@@ -69,8 +71,8 @@ Contents:
         Interview Guides
         Resume Improvement
         Portfolio
-        Job Portals
-        Job Search Engines
+        Jobs
+        Job Sites
         Company and Salary Reviews
         Freelancing
         Management
@@ -1328,6 +1330,15 @@ Contents:
                 https://github.com/prometheus-up-and-running
                 https://learning.oreilly.com/library/view/prometheus-up/9781492034131
 
+        Grafana:
+            Sources:
+                https://www.udemy.com/topic/grafana/?ratings=4.0&sort=popularity
+
+            Courses:
+                Grafana by Sean Bradley
+                https://www.udemy.com/course/grafana-tutorial
+                https://sbcode.net/grafana
+
         Security:
             Sources:
                 http://www.fastrls.com/2017/10/30/offensive-security-training-videos
@@ -1890,7 +1901,7 @@ Contents:
                 https://github.com/topics/github-readme?o=desc&s=stars
                 https://youtu.be/n6d4KHSKqGk (UPDATE: Next Level GitHub Profile README (NEW) | GitHub Actions | Vercel | Spotify)
 
-        Job Portals:
+        Jobs:
             Sources:
                 https://docs.google.com/spreadsheets/d/1TLJSlNxCbwRNxy14Toe1PYwbCTY7h0CNHeer9J0VRzE/htmlview#gid=1279011369 (900+ Startups hiring Remotely in 2020 - by Remotive.io)
                 https://github.com/lukasz-madon/awesome-remote-job
@@ -1910,7 +1921,7 @@ Contents:
                 https://www.reddit.com/r/india/comments/gja5eo/advice_for_indians_looking_to_study_abroad_and
                 https://pinboard.in/u:SharjeelSayed/t:jobs
                 
-            Job Sites: (Sorted by Alexa Rank)
+        Job Sites: (Sorted by Alexa Rank)
                 https://stackoverflow.com/jobs (49)
                 https://www.linkedin.com/jobs (57)
                 https://www.naukri.com (441)
