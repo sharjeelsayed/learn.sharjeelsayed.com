@@ -730,6 +730,7 @@ Contents:
                 https://containersfromthecouch.com
                 https://docs.docker.com
                 https://github.com/dokku/dokku
+                https://github.com/hadolint/hadolint
                 https://github.com/hexops/dockerfile
                 https://github.com/magicmark/composerize (Turns docker run commands into docker-compose files!)
                 https://github.com/p8952/bocker (Docker implemented in around 100 lines of bash)
@@ -1978,6 +1979,7 @@ Contents:
                 https://www.upwork.com/press/2019/08/14/q2-2019-skills
                 https://www.upwork.com/press/2019/11/19/the-upwork-100-q3-2019
                 https://www.upwork.com/press/2020/09/01/upwork-releases-top-paying-programming-languages-for-independent-web-mobile-and-software-developers
+                https://www.upwork.com/press/releases/upwork-releases-top-15-most-in-demand-skills-for-independent-web-mobile-and-software-developers
                 https://www.youtube.com/watch?v=NxmcfrFrYEA&t=1327s (How the client sees your proposal)
                 https://youtu.be/PTzJlrahqgc (The COMPLETE Upwork Tutorial for Beginners!)
                 
@@ -2878,13 +2880,20 @@ Contents:
                 https://github.com/joedicastro/vps-comparison
                 https://github.com/Kickball/awesome-selfhosted
                 https://hn.algolia.com/?dateRange=pastYear&page=0&prefix=true&query=ask%20hn%3A%20vps&sort=byPopularity&type=story
-                https://joshtronic.com/vps-showdown
+                https://joshtronic.com/2021/01/03/vps-showdown-digitalocean-lightsail-linode-upcloud-vultr
                 https://lowendbox.com
                 https://news.ycombinator.com/item?id=15105601 (Ask HN: What are your favorites self hosted tools?)
-                https://twitter.com/nixcraft/status/1248353658829279232 (Twitter followers count of major cloud service providers)
                 https://www.reddit.com/r/VPS+homelab
                 https://www.vpsbenchmarks.com
                 https://pinboard.in/u:SharjeelSayed/t:vps
+
+            Sites:
+                https://www.digitalocean.com (2,492)
+                https://www.ovh.com (4,446)
+                https://www.linode.com (6,612)
+                https://www.hetzner.com (7,282)
+                https://www.vultr.com (11,689)
+                https://upcloud.com (13,683)
 
         VPN:
             Sources:
