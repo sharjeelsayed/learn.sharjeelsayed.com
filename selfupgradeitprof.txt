@@ -2887,7 +2887,7 @@ Contents:
                 https://www.vpsbenchmarks.com
                 https://pinboard.in/u:SharjeelSayed/t:vps
 
-            Sites:
+            Sites: (Sorted by Alexa Rank)
                 https://www.digitalocean.com (2,492)
                 https://www.ovh.com (4,446)
                 https://www.linode.com (6,612)
@@ -2920,7 +2920,7 @@ Contents:
                 https://github.com/Igglybuff/awesome-piracy
                 https://github.com/magicoflolis/Reddit-Piracy-Megathread
                 https://github.com/ngosang/trackerslist (Updated list of public BitTorrent trackers)
-                https://torrentfreak.com/top-10-most-popular-torrent-sites-of-2020-200105
+                https://torrentfreak.com/top-torrent-sites-2021-210103
                 https://torrentfreak.com/utorrent-is-the-most-used-bittorrent-client-by-far-200405
                 https://www.reddit.com/r/Addons4Kodi/wiki/preferred_addons
                 https://www.reddit.com/r/piracy/wiki/faq
@@ -2930,13 +2930,17 @@ Contents:
                 https://pinboard.in/u:SharjeelSayed/t:torrent
 
             Sites:
+                https://thepiratebay.org or https://piratebayproxy.info
+                https://yts.mx
                 https://1337x.to
-                https://torrentz2.is or https://2torrentz.net
-                https://www.limetorrents.info
-                https://rutracker.org
                 http://rarbg.to or https://rarbgprx.org/torrents.php
+                https://www.limetorrents.info
+                https://www.limetorrents.info
+                https://torrentgalaxy.to
+                https://zooqle.com
+                https://2torrentz.net
+                https://rutracker.org
                 https://popcorntime.app
-                https://thepiratebay.org or https://thepiratebay-proxylist.org or https://piratebayproxy.info
                 https://www.myanonamouse.net
                 https://put.io
                 https://www.qbittorrent.org
