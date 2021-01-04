@@ -1,4 +1,4 @@
-# Curated Self Study Guide for Computer Science and DevOps/SRE/SysAdmin
+# Curated Self Study Guide for Computer Science, DevOps, SRE & SysAdmin
 
   The latest updated copy of this page is at [Learn.SharjeelSayed.com](http://Learn.SharjeelSayed.com)
   
