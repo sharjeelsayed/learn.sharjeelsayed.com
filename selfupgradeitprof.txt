@@ -1,4 +1,4 @@
-Curated Self Study Guide for Computer Science and DevOps/SRE/SysAdmin
+Curated Self Study Guide for Computer Science, DevOps, SRE & SysAdmin
 
     The latest updated copy of this page is at http://Learn.SharjeelSayed.com . Fork/PR at https://github.com/sharjeelsayed/sharjeelsayed.github.io
     About me: https://SharjeelSayed.com
@@ -1333,6 +1333,7 @@ Contents:
 
         Grafana:
             Sources:
+                https://github.com/topics/grafana?o=desc&s=stars
                 https://www.udemy.com/topic/grafana/?ratings=4.0&sort=popularity
 
             Courses:
@@ -2894,6 +2895,7 @@ Contents:
                 https://www.hetzner.com (7,282)
                 https://www.vultr.com (11,689)
                 https://upcloud.com (13,683)
+                https://www.scaleway.com (16,100)
 
         VPN:
             Sources:
