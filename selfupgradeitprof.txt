@@ -758,6 +758,9 @@ Contents:
                 Docker - Swarm, Services and Stack - Hands-On by Mumshad Mannambeth
                 https://learning.oreilly.com/videos/docker-swarm/9781788991414
                 https://www.udemy.com/course/learn-docker-advanced
+
+                Docker for Developers: Develop and run your application with Docker containers using DevOps tools for continuous delivery by  Richard Bullington-McGuire, Andrew K. Dennis, Michael Schwartz
+                https://www.amazon.com/Docker-Developers-application-containers-continuous-ebook/dp/B08C5LSHGW
                 
             Additional Material:
                 Play with Docker Classroom
@@ -843,10 +846,8 @@ Contents:
                 Kubernetes Hands-On - Deploy Microservices to the AWS Cloud by Richard Chesterwood, Virtual Pair Programmers and Prageeth Warnak
                 https://www.udemy.com/course/kubernetes-microservices
 
-                Certified Kubernetes Administrator 2020 by Zeal Vora
-                https://www.udemy.com/course/certified-kubernetes-administrator
-                https://github.com/zealvora/certified-kubernetes-administrator
-                https://github.com/zealvora/coupon-codes
+                Kubernetes and Docker - An Enterprise Guide: Effectively containerize applications, integrate enterprise systems, and scale applications in your enterprise by Scott Surovich and Marc Boorshtein
+                https://www.amazon.com/Kubernetes-Docker-Effectively-containerize-applications/dp/183921340X
 
                 Kubernetes: Up and Running: Dive into the Future of Infrastructure 2nd Edition
                 https://learning.oreilly.com/library/view/kubernetes-up-and/9781492046523
@@ -879,9 +880,11 @@ Contents:
                 https://www.reddit.com/r/kubernetes
 
             Additional Material:
-                Kubernetes The Hard Way
-                https://linuxacademy.com/course/kubernetes-the-hard-way
-                
+                Certified Kubernetes Administrator 2020 by Zeal Vora
+                https://www.udemy.com/course/certified-kubernetes-administrator
+                https://github.com/zealvora/certified-kubernetes-administrator
+                https://github.com/zealvora/coupon-codes
+
                 Kubernetes Learning Path :50 Days From Zero To Hero with Kubernetes by Azure
                 https://azure.microsoft.com/en-us/resources/kubernetes-learning-path
                 https://www.youtube.com/playlist?list=PLLasX02E8BPCrIhFrc_ZiINhbRkYMKdPT Kubernetes Basics by Kubernetes cofounder Brendan Burns
@@ -1145,6 +1148,7 @@ Contents:
                 https://learn.hashicorp.com/terraform
                 https://medium.com/@brenspiration/free-online-courses-on-kubernetes-docker-products-terraform-2a3cd296ce95
                 https://registry.terraform.io
+                https://terragrunt.gruntwork.io
                 https://www.facebook.com/groups/840062592768074 (Learn DevOps: Continuously Deliver Better Software)
                 https://www.katacoda.com/courses/terraform
                 https://www.reddit.com/r/Terraform
