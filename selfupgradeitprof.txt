@@ -2940,7 +2940,6 @@ Contents:
                 https://1337x.to
                 http://rarbg.to or https://rarbgprx.org/torrents.php
                 https://www.limetorrents.info
-                https://www.limetorrents.info
                 https://torrentgalaxy.to
                 https://zooqle.com
                 https://2torrentz.net
