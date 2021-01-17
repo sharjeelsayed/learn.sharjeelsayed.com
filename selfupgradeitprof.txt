@@ -956,6 +956,7 @@ Contents:
                 https://github.com/toniblyx/my-arsenal-of-aws-security-tools
                 https://github.com/topics/aws?o=desc&s=stars
                 https://www.awsgeek.com (Cloud Diagrams & Notes)
+                https://www.cisecurity.org/benchmark/amazon_web_services
                 https://www.concurrencylabs.com/blog/choose-your-aws-region-wisely
                 https://www.ec2instances.info
                 https://www.reddit.com/r/aws
@@ -1358,6 +1359,7 @@ Contents:
                 https://crowdsec.net
                 https://dev-sec.io (devops + security Server Hardening Automation)
                 https://en.wikipedia.org/wiki/List_of_computer_security_certifications#Most_Popular_Vendor_Neutral_Cyber_Security_Certifications_Among_employers
+                https://github.com/chughes29/Cloud-DevSecOps-Learning/blob/main/Cloud%20%26%20DevSecOps%20Learning%20(1).md (Cloud-DevSecOps-Learning)
                 https://github.com/dafthack/CloudPentestCheatsheets
                 https://github.com/danielmiessler/SecLists
                 https://github.com/forter/security-101-for-saas-startups
@@ -1588,6 +1590,7 @@ Contents:
                 https://docs.python.org/3/tutorial
                 https://github.com/donnemartin/interactive-coding-challenges
                 https://github.com/huangsam/ultimate-python
+                https://github.com/ml-tooling/best-of-web-python
                 https://github.com/pyenv/pyenv
                 https://github.com/TheAlgorithms/Python/blob/master/DIRECTORY.md
                 https://github.com/topics/python?o=desc&s=stars
@@ -2988,6 +2991,7 @@ Contents:
                 https://www.chesstactics.org
                 https://www.gautamnarula.com/how-to-get-good-at-chess-fast
                 https://www.reddit.com/r/chess/wiki/faq
+                https://www.reddit.com/r/dataisbeautiful/comments/kz3l12/chess_best_opening_by_winning_color_oc
                 https://pinboard.in/u:sharjeelsayed/t:chess
                 
             Sites: (Sorted by Alexa Rank)
