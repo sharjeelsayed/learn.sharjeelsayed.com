@@ -116,6 +116,7 @@ Contents:
             https://github.com/prakhar1989/awesome-courses
             https://github.com/topics/computer-science?o=desc&s=stars
             https://github.com/watson/awesome-computer-history
+            https://laconicml.com/computer-science-curriculum-youtube-videos (This is The Entire Computer Science Curriculum in 1000 YouTube Videos)
             https://learn-anything.xyz/computer-science
             https://medium.freecodecamp.org/640-free-online-programming-computer-science-courses-you-can-start-in-september-f0bd3a184625
             https://news.ycombinator.com/item?id=13014900 (Ask HN: What are the bibles of Computer Science?)
@@ -726,6 +727,7 @@ Contents:
             Sources:
                 https://containersfromthecouch.com
                 https://docs.docker.com
+                https://github.com/docker/docker-install (Docker installation script)
                 https://github.com/dokku/dokku
                 https://github.com/hadolint/hadolint
                 https://github.com/hexops/dockerfile
@@ -756,8 +758,12 @@ Contents:
                 https://learning.oreilly.com/videos/docker-swarm/9781788991414
                 https://www.udemy.com/course/learn-docker-advanced
 
-                Docker for Developers: Develop and run your application with Docker containers using DevOps tools for continuous delivery by  Richard Bullington-McGuire, Andrew K. Dennis, Michael Schwartz
+                Docker Tutorial for Beginners [FULL COURSE in 3 Hours] by  TechWorld with Nana
+                https://youtu.be/3c-iBn73dDE
+
+                Docker for Developers: Develop and run your application with Docker containers using DevOps tools for continuous delivery by Richard Bullington-McGuire, Andrew K. Dennis, Michael Schwartz
                 https://www.amazon.com/Docker-Developers-application-containers-continuous-ebook/dp/B08C5LSHGW
+                https://www.packtpub.com/product/docker-for-developers/9781789536058
                 
             Additional Material:
                 Play with Docker Classroom
@@ -765,9 +771,6 @@ Contents:
                 
                 Docker for Beginners
                 https://prakhar.me/docker-curriculum
-                
-                Docker and Kubernetes Tutorial | Full Course [2020] by  Amigoscode and Nana
-                https://youtu.be/bhBSlnQcq2k
                 
                 Docker Mastery: with Kubernetes +Swarm from a Docker Captain by Bret Fisher
                 https://www.udemy.com/course/docker-mastery
@@ -819,6 +822,7 @@ Contents:
                 https://news.ycombinator.com/item?id=22689119 (Anyone have a recommended guide for Kubernetes?)
                 https://rancher.com
                 https://sparkle.adroitcorp.com.au/market (Flashcards)
+                https://t.me/learnk8s
                 https://techbeacon.com/enterprise-it/47-advanced-tutorials-mastering-kubernetes
                 https://www.datadoghq.com/container-report (Nov 2020 report on Kubernetes and Docker Usage)
                 https://www.eksworkshop.com
@@ -919,7 +923,6 @@ Contents:
                 https://github.com/int32bit/openstack-cheat-sheet
                 https://github.com/openstack/training-labs
                 https://github.com/topics/openstack?o=desc&s=stars
-                https://linuxacademy.com/openstack/courses
                 https://www.reddit.com/r/openstack/comments/92o38n/best_book_for_learning_openstack
                 
             Books and Courses:
@@ -992,6 +995,7 @@ Contents:
                 AWS Certifications:
                 https://aws.amazon.com/certification
                 https://aws.amazon.com/training/learning-paths
+                https://learn.cantrill.io/p/aws-certification-recommendations
                 https://tutorialsdojo.com/aws-cheat-sheets
                 https://tutorialsdojo.com/aws-study-path-notes
                 https://www.examtopics.com/exams/amazon
@@ -1328,6 +1332,9 @@ Contents:
                 Prometheus Alerting and Monitoring by Sean Bradley
                 https://www.udemy.com/course/prometheus
                 https://sbcode.net/prometheus
+
+                Prometheus Monitoring Full Tutorial by TechWorld with Nana
+                https://youtube.com/playlist?list=PLy7NrYWoggjxCF3av5JKwyG7FFF9eLeL4
 
                 Prometheus: Up & Running: Infrastructure and Application Performance Monitoring 1st Edition
                 https://www.amazon.com/Prometheus-Infrastructure-Application-Performance-Monitoring/dp/1492034142
@@ -2638,11 +2645,11 @@ Contents:
                         https://telegramchannels.me/search?search=feed&type=bot (RSS Feed Bots)
                         https://tgram.io
                         https://tlgrm.eu/channels/tech (Technology Channels)
-                        https://t.me/devopsish (DevOps'ish Telegram Channel)
-
+                    
                     Telegram News Feed Setup:
                         Join these channels
                         https://t.me/best_hacker_news
+                        https://t.me/devopsish (DevOps'ish Telegram Channel)
                         https://t.me/hacker_news_feed
 
                         Add this bot https://t.me/aximobot
@@ -2819,6 +2826,7 @@ Contents:
                 http://www.macdrifter.com/2013/11/mailmate-explorations.html
                 https://news.ycombinator.com/item?id=18057643 (Ask HN: Best email client for a Mac?)
                 https://news.ycombinator.com/item?id=19712437 (Ask HN: What email client do you use?)
+                https://sparkmailapp.com
                 https://thesweetsetup.com/apps/favorite-email-client-os-x
                 https://www.slant.co/topics/604/~best-e-mail-clients-for-macos
                 
@@ -2832,6 +2840,7 @@ Contents:
                     https://www.youtube.com/playlist?list=PLC4ZkBr87CO0jmrQvGQ77t44tCT-xklqU (MailMate: The Killer Email App for Mac OS)
 
             Tlds:
+                https://domaintyper.com/top-websites
                 https://hostingtribunal.com/blog/tld-statistics
                 https://news.ycombinator.com/item?id=24538758 (Domains for the Rest of Us (domainsfortherestofus.com))
                 https://tld-list.com
@@ -2868,7 +2877,7 @@ Contents:
                 https://db.tt/YL0e12GN (Dropbox 500 MB of bonus space)
                 https://mega.nz/C!vuhRiKpB (Mega.nz Extra Storage)
                 
-            Sites:
+            Tools:
                 Restic
                 https://restic.net
                 
@@ -2877,6 +2886,9 @@ Contents:
 
                 Backblaze B2 Cloud Storage
                 https://www.backblaze.com/b2/cloud-storage.html
+
+                Wasabi Object Storage
+                https://wasabi.com
 
         VPS:
             Sources:
@@ -2891,7 +2903,7 @@ Contents:
                 https://www.vpsbenchmarks.com
                 https://pinboard.in/u:SharjeelSayed/t:vps
 
-            Sites: (Sorted by Alexa Rank)
+            VPS Providers: (Sorted by Alexa Rank)
                 https://www.digitalocean.com (2,492)
                 https://www.ovh.com (4,446)
                 https://www.linode.com (6,612)
