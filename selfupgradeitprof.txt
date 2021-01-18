@@ -829,6 +829,7 @@ Contents:
                 https://www.flatcar-linux.org
                 https://www.katacoda.com/courses/kubernetes
                 https://www.reddit.com/r/kubernetes/comments/gldbkk/cka_exam_good_exercisemock_exam_resources
+                https://www.udemy.com/topic/kubernetes/?ratings=4.5&sort=popularity
                 https://youtu.be/0Omvgd7Hg1I (Life of a Packet [I] - Michael Rubin, Google)
                 https://pinboard.in/u:SharjeelSayed/t:kubernetes
                 
@@ -1929,9 +1930,10 @@ Contents:
                 https://news.ycombinator.com/item?id=17047736 (Ask HN: How to become a remote contractor?)
                 https://news.ycombinator.com/item?id=19024575 (Ask HN: Highest paying remote companies?)
                 https://news.ycombinator.com/item?id=19280341 (Ask HN: Tools or sites you use to scope out a workplace before taking a job?)
-                https://www.glassdoor.co.in/Salaries/us-devops-salary-SRCH_IL.0,2_IN1_KO3,9.htm (Devops Salaries in United States)
                 https://www.glassdoor.co.in/Salaries/india-devops-salary-SRCH_IL.0,5_IN115_KO6,12.htm (Devops Salaries in India)
+                https://www.glassdoor.co.in/Salaries/us-devops-salary-SRCH_IL.0,2_IN1_KO3,9.htm (Devops Salaries in United States)
                 https://www.indeed.com/career-advice/finding-a-job/rising-tech-jobs-and-skills
+                https://www.payscale.com/research/US/Job=Development_Operations_(DevOps)_Engineer/Salary 
                 https://www.reddit.com/r/india/comments/81r29c/your_onestop_guide_to_emigrating_long_term_to
                 https://www.reddit.com/r/india/comments/gja5eo/advice_for_indians_looking_to_study_abroad_and
                 https://pinboard.in/u:SharjeelSayed/t:jobs
@@ -2519,6 +2521,7 @@ Contents:
                 https://github.com/topics/frontend?o=desc&s=stars
                 https://news.ycombinator.com/item?id=15328992 (Ask HN: Learn Modern web design and CSS)
                 https://nodesign.dev
+                https://www.canva.com
                 
             Books and Courses:
                 The Design of Everyday Things
@@ -2950,7 +2953,6 @@ Contents:
                 https://pinboard.in/u:SharjeelSayed/t:torrent
 
             Sites:
-                https://thepiratebay.org or https://piratebayproxy.info
                 https://yts.mx
                 https://1337x.to
                 http://rarbg.to or https://rarbgprx.org/torrents.php
