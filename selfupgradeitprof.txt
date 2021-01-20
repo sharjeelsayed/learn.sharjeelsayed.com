@@ -858,6 +858,7 @@ Contents:
 
                 Kubernetes Tutorial for Beginners [FULL COURSE in 4 Hours] by TechWorld with Nana
                 https://youtu.be/X48VuDVv0do
+                https://gitlab.com/nanuchi/youtube-tutorial-series
 
                 CKA/CKAD/CKS
                 https://github.com/cncf/curriculum
@@ -986,11 +987,6 @@ Contents:
                 https://courses.datacumulus.com/downloads/certified-developer-k92
                 https://courses.datacumulus.com (Discount codes for the Course)
                 
-                Amazon Web Services in Action 2nd Edition
-                https://www.amazon.com/Amazon-Services-Action-Andreas-Wittig/dp/1617295116
-                https://www.manning.com/books/amazon-web-services-in-action-second-edition
-                https://github.com/AWSinAction
-                
                 Amazon Web Services — a practical guide
                 https://github.com/open-guides/og-aws
                 
@@ -1001,6 +997,7 @@ Contents:
                 https://tutorialsdojo.com/aws-cheat-sheets
                 https://tutorialsdojo.com/aws-study-path-notes
                 https://www.examtopics.com/exams/amazon
+                https://www.quora.com/What-is-the-best-formation-for-AWS-certification
                 https://www.qwiklabs.com/quests/10 (Solutions Architect - Associate)
                 https://www.reddit.com/r/AWSCertifications
                 https://www.reddit.com/r/AWSCertifications/search/?q=course&restrict_sr=on&t=year
@@ -1009,6 +1006,11 @@ Contents:
             Additional Material:
                 AWS Certified Solutions Architect - Associate 2020 (PASS THE EXAM!) | Ad-Free Course by freeCodeCamp.org
                 https://youtu.be/Ia-UEYYR44s
+
+                Amazon Web Services in Action 2nd Edition
+                https://www.amazon.com/Amazon-Services-Action-Andreas-Wittig/dp/1617295116
+                https://www.manning.com/books/amazon-web-services-in-action-second-edition
+                https://github.com/AWSinAction
         
         Azure:
             Sources:
@@ -1915,6 +1917,8 @@ Contents:
                 https://github.com/kautukkundan/Awesome-Profile-README-templates
                 https://github.com/topics/github-profile-readme?o=desc&s=stars
                 https://github.com/topics/github-readme?o=desc&s=stars
+                https://www.qrcode-monkey.com/#vcard
+                https://www.vistaprint.in/business-cards
                 https://youtu.be/n6d4KHSKqGk (UPDATE: Next Level GitHub Profile README (NEW) | GitHub Actions | Vercel | Spotify)
 
         Jobs:
@@ -2186,8 +2190,10 @@ Contents:
 
             Extensions:
                 https://1blocker.com
+                https://addons.mozilla.org/en-US/firefox/addon/enhancer-for-youtube
                 https://addons.mozilla.org/en-US/firefox/addon/minimalist-alexa-rank
                 https://addons.mozilla.org/en-US/firefox/addon/wayback-machine_new
+                https://addons.mozilla.org/en-US/firefox/search/?page=1&promoted=recommended&sort=users
                 https://darkreader.org
                 https://github.com/gorhill/uBlock
                 https://github.com/iamadamdev/bypass-paywalls-chrome
@@ -2199,6 +2205,7 @@ Contents:
                 https://privacybadger.org
                 https://support.1password.com/getting-started-1password-x
                 https://support.mozilla.org/en-US/kb/focus
+                https://tabliss.io
                 https://www.joinhoney.com
                 https://www.one-tab.com
 
