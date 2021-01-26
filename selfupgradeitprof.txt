@@ -964,6 +964,8 @@ Contents:
                 https://www.reddit.com/r/aws
                 https://www.reddit.com/r/sysadmin/comments/8inzn5/so_you_want_to_learn_aws_aka_how_do_i_learn_to_be
                 https://youtu.be/B08iQQhXG1Y (The Most Important AWS Services (with an easy to follow example!))
+                https://linuxacademy-community-slack.herokuapp.com
+                https://help.acloud.guru/hc/en-us/articles/360001389256-AWS-Cloud-Sandbox
                 https://pinboard.in/u:SharjeelSayed/t:aws
                 
             Books and Courses:
@@ -1145,6 +1147,7 @@ Contents:
 
         Terraform:
             Sources:
+                https://github.com/antonbabenko/terraform-best-practices
                 https://github.com/Artemmkin/infrastructure-as-code-tutorial
                 https://github.com/nsriram/lambda-the-terraform-way
                 https://github.com/shuaibiyy/awesome-terraform
@@ -1154,6 +1157,7 @@ Contents:
                 https://medium.com/@brenspiration/free-online-courses-on-kubernetes-docker-products-terraform-2a3cd296ce95
                 https://registry.terraform.io
                 https://terragrunt.gruntwork.io
+                https://terratest.gruntwork.io
                 https://www.facebook.com/groups/840062592768074 (Learn DevOps: Continuously Deliver Better Software)
                 https://www.katacoda.com/courses/terraform
                 https://www.reddit.com/r/Terraform
@@ -1178,6 +1182,9 @@ Contents:
                 https://github.com/brikis98/terraform-up-and-running-code
 
             Additional Material:
+                Deploy Infra in the Cloud using Terraform by Houssem Dellai
+                https://www.udemy.com/course/deploy-infra-in-the-cloud-using-terraform
+
                 Learn DevOps: Infrastructure Automation With Terraform by Edward Viaene
                 https://www.udemy.com/course/learn-devops-infrastructure-automation-with-terraform
                 https://github.com/wardviaene/terraform-course
@@ -1298,7 +1305,6 @@ Contents:
                 https://www.udemy.com/course/devops-fundamentals-aws
                 https://github.com/ValaxyTech
                 
-                
             Additional Courses:
                 Learn DevOps: CI/CD with Jenkins using Pipelines and Docker by Edward Viaene
                 https://www.udemy.com/course/learn-devops-ci-cd-with-jenkins-using-pipelines-and-docker
@@ -1311,6 +1317,7 @@ Contents:
             Sources:
                 https://news.ycombinator.com/item?id=15400037 (Interactive Vim tutorial)
                 https://news.ycombinator.com/item?id=2936670 (Learn Vim Progressively)
+                https://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim#1220118
                 https://pinboard.in/u:SharjeelSayed/t:vim
                 
             Books and Courses:
@@ -1567,6 +1574,29 @@ Contents:
                 https://www.udacity.com/courses/all
                 https://www.udemy.com/courses/free/?p=12&sort=popularity
                 https://yahnd.com (Best courses , talks and videos recommended on Hacker News)
+                https://www.g2.com/reports/momentum-grid-report-for-technical-skills-development-winter-2021
+
+            Online Course Portals: (Sorted by Alexa Rank)
+                https://www.linkedin.com/learning (54)
+                https://www.udemy.com (106)
+                https://www.coursera.org (265)
+                https://www.khanacademy.org (498)
+                https://www.edx.org (1,007)
+                https://www.freecodecamp.org (1,874)
+                https://www.udacity.com (2,756)
+                https://learning.oreilly.com (2,821)
+                https://www.datacamp.com (3,616)
+                https://www.pluralsight.com (4,783)
+                https://teamtreehouse.com (8,002)
+                https://acloud.guru (11,341)
+                https://www.infosecinstitute.com/skills (21,207)
+                https://www.whizlabs.com (24,015)
+                https://cloudacademy.com (28,697)
+                https://www.goskills.com (32,972)
+                https://www.skillsoft.com (36,295)
+                https://www.cbtnuggets.com (44,584)
+                https://kodekloud.com (65,218)
+                https://www.itpro.tv (90,504)
         
     Development:
         SQL:
@@ -1725,6 +1755,7 @@ Contents:
                 https://www.freetutorials.ca/course/beginnerjavascriptcom-beginner-javascript
                 https://github.com/wesbos/beginner-javascript
                 https://javascript30.com
+                https://github.com/wesbos/JavaScript30
 
                 Practical JavaScript
                 https://watchandcode.com
