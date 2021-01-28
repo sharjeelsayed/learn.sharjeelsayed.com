@@ -1597,6 +1597,7 @@ Contents:
                 https://www.cbtnuggets.com (44,584)
                 https://kodekloud.com (65,218)
                 https://www.itpro.tv (90,504)
+                https://learn.cantrill.io (137,485)
         
     Development:
         SQL:
@@ -1963,12 +1964,7 @@ Contents:
                 https://news.ycombinator.com/item?id=16492393 (Ask HN: How Did You Find a Job Abroad?)
                 https://news.ycombinator.com/item?id=16875868 (List of places to find remote jobs and freelancing projects)
                 https://news.ycombinator.com/item?id=17047736 (Ask HN: How to become a remote contractor?)
-                https://news.ycombinator.com/item?id=19024575 (Ask HN: Highest paying remote companies?)
-                https://news.ycombinator.com/item?id=19280341 (Ask HN: Tools or sites you use to scope out a workplace before taking a job?)
-                https://www.glassdoor.co.in/Salaries/india-devops-salary-SRCH_IL.0,5_IN115_KO6,12.htm (Devops Salaries in India)
-                https://www.glassdoor.co.in/Salaries/us-devops-salary-SRCH_IL.0,2_IN1_KO3,9.htm (Devops Salaries in United States)
                 https://www.indeed.com/career-advice/finding-a-job/rising-tech-jobs-and-skills
-                https://www.payscale.com/research/US/Job=Development_Operations_(DevOps)_Engineer/Salary 
                 https://www.reddit.com/r/india/comments/81r29c/your_onestop_guide_to_emigrating_long_term_to
                 https://www.reddit.com/r/india/comments/gja5eo/advice_for_indians_looking_to_study_abroad_and
                 https://pinboard.in/u:SharjeelSayed/t:jobs
@@ -2010,6 +2006,17 @@ Contents:
                 https://www.wisdomjobsgulf.com (860,577)
 
         Company and Salary Reviews:
+            Sources:
+                https://in.indeed.com/career/cloud-engineer/salaries
+                https://in.indeed.com/career/development-operations-engineer/salaries
+                https://news.ycombinator.com/item?id=19024575 (Ask HN: Highest paying remote companies?)
+                https://news.ycombinator.com/item?id=19280341 (Ask HN: Tools or sites you use to scope out a workplace before taking a job?)
+                https://www.glassdoor.co.in/Salaries/india-devops-salary-SRCH_IL.0,5_IN115_KO6,12.htm (Devops Salaries in India)
+                https://www.glassdoor.co.in/Salaries/us-devops-salary-SRCH_IL.0,2_IN1_KO3,9.htm (Devops Salaries in United States)
+                https://www.indeed.com/career/cloud-engineer/salaries
+                https://www.indeed.com/career/development-operations-engineer/salaries
+                https://www.payscale.com/research/US/Job=Development_Operations_(DevOps)_Engineer/Salary
+
             Sites:
                 https://careernavigator.naukri.com
                 https://stackoverflow.com/jobs/salary
