@@ -793,6 +793,7 @@ Contents:
                 https://github.com/kubernetes/kubernetes
                 https://github.com/LeCoupa/awesome-cheatsheets/blob/master/tools/kubernetes.md
                 https://github.com/nkuba/k8s-admin-helper
+                https://github.com/r0hi7/k8s-In-30Mins (Learn how to set up the Kubernetes cluster in 30 mins and deploy the application inside the cluster.)
                 https://github.com/ramitsurana/awesome-kubernetes
                 https://github.com/tomhuang12/awesome-k8s-resources
                 https://github.com/topics/cka?o=desc&s=stars
@@ -802,7 +803,6 @@ Contents:
                 https://hackr.io/tutorials/learn-kubernetes
                 https://k3s.io
                 https://k8syaml.com
-                https://k9scli.io (Kubernetes CLI To Manage Your Clusters In Style!)
                 https://kind.sigs.k8s.io
                 https://kompose.io (A conversion tool to go from Docker Compose to Kubernetes)
                 https://kops.sigs.k8s.io
@@ -821,6 +821,7 @@ Contents:
                 https://news.ycombinator.com/item?id=22597880 (Kind - run local Kubernetes clusters using Docker (k8s.io))
                 https://news.ycombinator.com/item?id=22689119 (Anyone have a recommended guide for Kubernetes?)
                 https://rancher.com
+                https://registry.terraform.io/modules/terraform-aws-modules/eks/aws
                 https://sparkle.adroitcorp.com.au/market (Flashcards)
                 https://t.me/learnk8s
                 https://techbeacon.com/enterprise-it/47-advanced-tutorials-mastering-kubernetes
@@ -864,6 +865,7 @@ Contents:
                 https://github.com/cncf/curriculum
                 https://github.com/dgkanatsios/CKAD-exercises
                 https://github.com/lucassha/CKAD-resources
+                https://github.com/stackrox/Kubernetes_Security_Specialist_Study_Guide
                 https://github.com/walidshaari/Certified-Kubernetes-Security-Specialist
                 https://github.com/walidshaari/Kubernetes-Certified-Administrator
                 https://itnext.io/how-to-pass-the-new-cka-exam-released-at-september-2020-e0e014d67f78
@@ -979,6 +981,7 @@ Contents:
                 https://github.com/acantril/aws-sa-associate-saac02
                 https://github.com/alozano-77/AWS-SAA-C02-Course
                 https://techstudyslack.com
+                https://talk.cantrill.io
 
                 AWS Certified Solutions Architect Associate Practice Exams by Jon Bonso
                 https://portal.tutorialsdojo.com/courses/aws-certified-solutions-architect-associate-practice-exams
@@ -1367,6 +1370,7 @@ Contents:
                 http://www.fastrls.com/2017/10/30/offensive-security-training-videos
                 https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html-single/using_selinux
                 https://crowdsec.net
+                https://danielmiessler.com/blog/build-successful-infosec-career
                 https://dev-sec.io (devops + security Server Hardening Automation)
                 https://en.wikipedia.org/wiki/List_of_computer_security_certifications#Most_Popular_Vendor_Neutral_Cyber_Security_Certifications_Among_employers
                 https://github.com/chughes29/Cloud-DevSecOps-Learning/blob/main/Cloud%20%26%20DevSecOps%20Learning%20(1).md (Cloud-DevSecOps-Learning)
@@ -1593,11 +1597,13 @@ Contents:
                 https://www.whizlabs.com (24,015)
                 https://cloudacademy.com (28,697)
                 https://www.goskills.com (32,972)
+                https://linuxacademy.com (32,977)
                 https://www.skillsoft.com (36,295)
                 https://www.cbtnuggets.com (44,584)
                 https://kodekloud.com (65,218)
                 https://www.itpro.tv (90,504)
                 https://learn.cantrill.io (137,485)
+                https://learnk8s.io (369,264)
         
     Development:
         SQL:
@@ -1943,6 +1949,7 @@ Contents:
         Portfolio:
             Sources:
                 https://about.me
+                https://arturssmirnovs.github.io/github-profile-readme-generator
                 https://github.com/abhisheknaiidu/awesome-github-profile-readme
                 https://github.com/arturssmirnovs/github-profile-readme-generator
                 https://github.com/ikatyang/emoji-cheat-sheet
@@ -2412,6 +2419,7 @@ Contents:
                     https://open.spotify.com/playlist/6UvxOYk0PE78QicUlv0V8t (The 50 Best Ambient Albums of All Time)
                     https://open.spotify.com/search/binaural/playlists
                     https://open.spotify.com/search/study/playlists
+                    https://open.spotify.com/show/2bAmrw0xKnOhOx4hqSL7vF (Relaxing White Noise Podcast)
                 
                 Apple Music:
                     https://music.apple.com/gb/playlist/sleep-sounds/pl.0ef59752c0cd457dbf1391f08cbd936f
