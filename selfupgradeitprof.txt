@@ -967,7 +967,6 @@ Contents:
                 https://www.reddit.com/r/sysadmin/comments/8inzn5/so_you_want_to_learn_aws_aka_how_do_i_learn_to_be
                 https://youtu.be/B08iQQhXG1Y (The Most Important AWS Services (with an easy to follow example!))
                 https://linuxacademy-community-slack.herokuapp.com
-                https://help.acloud.guru/hc/en-us/articles/360001389256-AWS-Cloud-Sandbox
                 https://pinboard.in/u:SharjeelSayed/t:aws
                 
             Books and Courses:
@@ -998,6 +997,8 @@ Contents:
                 AWS Certifications:
                 https://aws.amazon.com/certification
                 https://aws.amazon.com/training/learning-paths
+                https://digitalcloud.training/certification-training/aws-solutions-architect-associate
+                https://help.acloud.guru/hc/en-us/articles/360001389256-AWS-Cloud-Sandbox
                 https://learn.cantrill.io/p/aws-certification-recommendations
                 https://tutorialsdojo.com/aws-cheat-sheets
                 https://tutorialsdojo.com/aws-study-path-notes
@@ -1159,6 +1160,7 @@ Contents:
                 https://learn.hashicorp.com/terraform
                 https://medium.com/@brenspiration/free-online-courses-on-kubernetes-docker-products-terraform-2a3cd296ce95
                 https://registry.terraform.io
+                https://scalr.com/blog/top-20-terraform-providers
                 https://terragrunt.gruntwork.io
                 https://terratest.gruntwork.io
                 https://www.facebook.com/groups/840062592768074 (Learn DevOps: Continuously Deliver Better Software)
@@ -2585,6 +2587,7 @@ Contents:
 
         News:
             Sources:
+                https://bloggingfordevs.com/trends (Discover the best developer blogs on any tech stack)
                 https://en.wikipedia.org/wiki/Special:Random
                 https://fraidyc.at
                 https://github.com/greybax/awesome-IT-films
@@ -2611,12 +2614,12 @@ Contents:
                 https://news.ycombinator.com/item?id=24539445 (Ask HN: Favourite blogs?)
                 https://news.ycombinator.com/item?id=24658424 (Ask HN: What RSS Reader do you use?)
                 https://news.ycombinator.com/item?id=9836023 (Ask HN: What tech blogs, podcasts do you follow outside of HN?)
+                https://news.ycombinator.com/user?id=SharjeelSayed
+                https://twitter.com/SharjeelSayed
                 https://wiki.nikitavoloboev.xyz/research/blogs#favorite-blogs
                 https://www.reddit.com/r/AskReddit/comments/9nggyv/what_is_a_great_youtube_channel_to_binge_watch
                 https://www.reddit.com/r/AskReddit/comments/aa7zs9/what_youtube_channels_are_genuinely_worth_watching
                 https://www.to-rss.xyz/wikipedia
-                https://news.ycombinator.com/user?id=SharjeelSayed
-                https://twitter.com/SharjeelSayed
                 https://www.reddit.com/user/SharjeelSayed
                 
             Sites and Apps:
