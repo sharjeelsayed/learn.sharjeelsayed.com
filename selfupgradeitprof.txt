@@ -954,11 +954,13 @@ Contents:
                 https://github.com/awsdocs
                 https://github.com/donnemartin/awesome-aws
                 https://github.com/jckuester/awsls (A list command for AWS resources)
+                https://github.com/localstack/localstack (A fully functional local AWS cloud stack)
                 https://github.com/nccgroup/aws-inventory (Discover resources created in an AWS account)
                 https://github.com/rebuy-de/aws-nuke (Nuke a whole AWS account and delete all its resources.)
                 https://github.com/serverless/serverless
                 https://github.com/toniblyx/my-arsenal-of-aws-security-tools
                 https://github.com/topics/aws?o=desc&s=stars
+                https://linuxacademy-community-slack.herokuapp.com
                 https://www.awsgeek.com (Cloud Diagrams & Notes)
                 https://www.cisecurity.org/benchmark/amazon_web_services
                 https://www.concurrencylabs.com/blog/choose-your-aws-region-wisely
@@ -966,22 +968,21 @@ Contents:
                 https://www.reddit.com/r/aws
                 https://www.reddit.com/r/sysadmin/comments/8inzn5/so_you_want_to_learn_aws_aka_how_do_i_learn_to_be
                 https://youtu.be/B08iQQhXG1Y (The Most Important AWS Services (with an easy to follow example!))
-                https://linuxacademy-community-slack.herokuapp.com
                 https://pinboard.in/u:SharjeelSayed/t:aws
                 
             Books and Courses:
-                Ultimate AWS Certified Solutions Architect Associate 2020 by Stephane Maarek
-                https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c02
-                https://courses.datacumulus.com (Discount codes for the Course)
-                https://courses.datacumulus.com/downloads/certified-solutions-architect-pn9 (AWS Certified Solutions Architect Associate Code & Slides)
-                
                 AWS Certified Solutions Architect - Associate (SAA-C02) by Adrian Cantrill
                 https://learn.cantrill.io/p/aws-certified-solutions-architect-associate-saa-c02
                 https://github.com/acantril/aws-sa-associate-saac02
                 https://github.com/alozano-77/AWS-SAA-C02-Course
                 https://techstudyslack.com
                 https://talk.cantrill.io
-
+                
+                Ultimate AWS Certified Solutions Architect Associate 2020 by Stephane Maarek
+                https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c02
+                https://courses.datacumulus.com (Discount codes for the Course)
+                https://courses.datacumulus.com/downloads/certified-solutions-architect-pn9 (AWS Certified Solutions Architect Associate Code & Slides)
+                
                 AWS Certified Solutions Architect Associate Practice Exams by Jon Bonso
                 https://portal.tutorialsdojo.com/courses/aws-certified-solutions-architect-associate-practice-exams
                 https://www.udemy.com/course/aws-certified-solutions-architect-associate-amazon-practice-exams-saa-c02
@@ -1197,6 +1198,9 @@ Contents:
                 Terraform Tutorial by Will Brock
                 https://www.youtube.com/playlist?list=PL8HowI-L-3_9bkocmR3JahQ4Y-Pbqs2Nt
                 https://github.com/WillBrock/terraform-course-examples
+
+                More than Certified in Terraform by Derek Morgan
+                https://www.udemy.com/course/terraform-certified/?couponCode=JAN-1299
         
         Vagrant:
             Sources:
@@ -2004,6 +2008,7 @@ Contents:
                 https://www.michaelpage.co.in (98,471)
                 https://www.jobleads.de (99,051)
                 https://whoishiring.io (1,041,887)
+                https://arbeitnow.com/?tags=%5B%22visa%20sponsorship%22%5D
                 
             Dubai Job Sites:
                 https://www.bayt.com (2,320)
@@ -2992,6 +2997,26 @@ Contents:
                 https://www.reddit.com/r/NetflixViaVPN+VPN+vpncoupons+vpnreviews
                 https://www.sparklabs.com/viscosity
                 https://www.vpntierlist.com/vpn-tier-list
+
+            VPN Services: (Sorted by Alexa Rank)
+                https://nordvpn.com (2,025)
+                https://www.expressvpn.com (2,816)
+                https://protonvpn.com (7,326)
+                https://surfshark.com (9,399)
+                https://windscribe.com (13,806)
+                https://www.cyberghostvpn.com (13,908)
+                https://www.privateinternetaccess.com (16,261)
+                https://www.hidemyass.com (19,524)
+                https://www.tunnelbear.com (22,078)
+                https://www.ipvanish.com (27,305)
+                https://get.vyprvpn.com (57,237)
+                https://www.ghostery.com (63,679)
+                https://torguard.net (65,071)
+                https://mullvad.net (77,726)
+                https://privatevpn.com (83,344)
+                https://www.cactusvpn.com (166,070)
+                https://www.ivpn.net (259,729)
+                https://airvpn.org (264,998)
 
         BitTorrent:
             Sources:
