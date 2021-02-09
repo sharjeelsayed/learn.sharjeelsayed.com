@@ -944,6 +944,7 @@ Contents:
         AWS:
             Sources:
                 https://adayinthelifeof.nl/2020/05/20/aws.html (A List of One-sentence Descriptions of AWS Services)
+                https://aws.amazon.com/blogs/architecture/top-15-architecture-blog-posts-of-2020
                 https://aws.amazon.com/getting-started/hands-on
                 https://awsstash.com
                 https://awsvideocatalog.com (AWS Video Catalog is a website that collects all the official Amazon videos)
@@ -999,6 +1000,7 @@ Contents:
                 https://aws.amazon.com/certification
                 https://aws.amazon.com/training/learning-paths
                 https://digitalcloud.training/certification-training/aws-solutions-architect-associate
+                https://github.com/keenanromain/AWS-SAA-C02-Study-Guide
                 https://help.acloud.guru/hc/en-us/articles/360001389256-AWS-Cloud-Sandbox
                 https://learn.cantrill.io/p/aws-certification-recommendations
                 https://tutorialsdojo.com/aws-cheat-sheets
@@ -1009,15 +1011,6 @@ Contents:
                 https://www.reddit.com/r/AWSCertifications
                 https://www.reddit.com/r/AWSCertifications/search/?q=course&restrict_sr=on&t=year
                 https://www.udemy.com/topic/aws-certification/?ratings=4.5&sort=popularity
-            
-            Additional Material:
-                AWS Certified Solutions Architect - Associate 2020 (PASS THE EXAM!) | Ad-Free Course by freeCodeCamp.org
-                https://youtu.be/Ia-UEYYR44s
-
-                Amazon Web Services in Action 2nd Edition
-                https://www.amazon.com/Amazon-Services-Action-Andreas-Wittig/dp/1617295116
-                https://www.manning.com/books/amazon-web-services-in-action-second-edition
-                https://github.com/AWSinAction
         
         Azure:
             Sources:
@@ -1038,6 +1031,9 @@ Contents:
                 https://www.udemy.com/course/70534-azure
                 https://softwarearchitect.ca (Coupons)
                 https://www.facebook.com/groups/azureusergroupunofficial
+
+                Azure Solutions Architect AZ-303 + AZ-304 Certification Training Course by Mike Pfeiffer
+                https://cloudskills.io/courses/az-30x
 
         GCP:
             Sources:
@@ -1272,6 +1268,7 @@ Contents:
                 https://www.reddit.com/r/git/top
                 https://www.reddit.com/r/programming/comments/fd9zpj/becoming_a_git_pro_part_1_internal_git/fjge9vy
                 https://www.sourcetreeapp.com
+                https://www.toptal.com/developers/gitignore
                 https://www.udemy.com/topic/git/?ratings=4.5&sort=popularity
                 https://xosh.org/explain-git-in-simple-words
                 
@@ -1610,6 +1607,7 @@ Contents:
                 https://www.itpro.tv (90,504)
                 https://learn.cantrill.io (137,485)
                 https://learnk8s.io (369,264)
+                https://cloudskills.io (756,742)
         
     Development:
         SQL:
@@ -1724,6 +1722,7 @@ Contents:
             Sources:
                 https://digitaldefynd.com/best-free-web-development-courses-tutorials-certification
                 https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer
+                https://github.com/codeSTACKr/free-developer-resources
                 https://github.com/h5bp/Front-end-Developer-Interview-Questions
                 https://github.com/lauragift21/awesome-learning-resources
                 https://github.com/thedaviddias/Front-End-Performance-Checklist
@@ -2061,8 +2060,13 @@ Contents:
                 https://www.freelancer.com/jobs (1426)
                 https://www.peopleperhour.com/freelance-jobs (4363)
                 https://www.toptal.com (6462)
+                https://www.codementor.io (7250)
                 https://www.guru.com/d/jobs (7377)
+                https://www.truelancer.com (8671)
+                https://turing.com (23,229)
                 https://www.freelancermap.com/it-projects.html (94,605)
+                https://upstack.co (262,042)
+                https://gigster.com (279,501)
                 
         Management:
             Sources:
@@ -2329,6 +2333,7 @@ Contents:
                 https://www.reddit.com/r/FreeEBOOKS/comments/exw3gj/here_are_50_classic_books_that_you_can_download
                 https://www.reddit.com/r/freeEBOOKS/wiki/febooks
                 https://www.reddit.com/r/FreeEBOOKS+KindleFreebies
+                https://yahnd.com/books (The Best Books of Hacker News)
                 https://pinboard.in/u:SharjeelSayed/t:course
                 https://pinboard.in/u:SharjeelSayed/t:ebooks
                 https://pinboard.in/u:SharjeelSayed/t:learn
@@ -2994,6 +2999,7 @@ Contents:
                 https://tunnelblick.net
                 https://www.expressrefer.com/refer-friend?referrer_id=39360476 (ExpressVPN 30 days free)
                 https://www.privacytools.io/providers/vpn
+                https://www.reddit.com/r/NetflixViaVPN/wiki (What is the best VPN to use for Netflix?)
                 https://www.reddit.com/r/NetflixViaVPN+VPN+vpncoupons+vpnreviews
                 https://www.sparklabs.com/viscosity
                 https://www.vpntierlist.com/vpn-tier-list
@@ -3014,6 +3020,7 @@ Contents:
                 https://torguard.net (65,071)
                 https://mullvad.net (77,726)
                 https://privatevpn.com (83,344)
+                https://wevpn.com (89,306)
                 https://www.cactusvpn.com (166,070)
                 https://www.ivpn.net (259,729)
                 https://airvpn.org (264,998)
@@ -3118,6 +3125,7 @@ Contents:
         https://news.ycombinator.com/item?id=24436135 (Ask HN: What is your favorite motto?)
         https://news.ycombinator.com/item?id=25136258 (Ask HN: What is the best money you have spent on professional development?)
         https://news.ycombinator.com/item?id=25518730 (	Tips for a Better Life (lesswrong.com))
+        https://redditfavorites.com (Reddit Favorites From 3.5 billion comments)
         https://redditprofile.com (Find an Expert on Reddit)
         https://sourceful.co.uk (Discover the best public GoogleDocs and Sheets)
         https://twitter.com/search?q=Gone%20Free%20(from%3ASharjeelSayed)
