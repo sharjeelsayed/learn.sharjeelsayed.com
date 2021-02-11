@@ -1,7 +1,7 @@
 Curated Self Study Guide for Computer Science, DevOps, SRE & SysAdmin
 
     The latest updated copy of this page is at http://Learn.SharjeelSayed.com . Fork/PR at https://github.com/sharjeelsayed/sharjeelsayed.github.io
-    About me: https://SharjeelSayed.com
+    About me: SharjeelSayed.com
 
 Contents:
     Computer Science:
@@ -582,6 +582,7 @@ Contents:
                 https://linuxcommandlibrary.com
                 https://news.ycombinator.com/item?id=22564665 (Linux Kernel Teaching (linux-kernel-labs.github.io))
                 https://news.ycombinator.com/item?id=24027366 (	Low latency tuning guide)
+                https://news.ycombinator.com/item?id=26053323 (	A visual guide to SSH tunnels (robotmoon.com))
                 https://news.ycombinator.com/item?id=3257393 (What's the one Linux command you wish you knew years ago?)
                 https://tldr.sh (Simplified and community-driven man pages)
                 https://tuxurls.com
@@ -2800,12 +2801,13 @@ Contents:
             Sites: (Sorted by Alexa Rank)
                 https://thenewstack.io/newsletter-archive (40,173)
                 https://ma.ttias.be/cronweekly (65,936)
-                https://danielmiessler.com/newsletter (84,576)
-                https://www.ben-evans.com/newsletter (84,591)
+                https://danielmiessler.com/newsletter (82,331)
+                https://www.ben-evans.com/newsletter (88,204)
                 https://www.schneier.com/crypto-gram (126,206)
                 https://www.lastweekinaws.com (425,861)
                 https://hackernewsletter.com (873,902)
                 https://devopsish.com (2,523,997)
+                https://softwareleadweekly.com (2,607,781)
                 https://sreweekly.com (2,618,415)
                 https://www.devopsweekly.com (3,945,939)
                 https://kubeweekly.io (6,389,097)
