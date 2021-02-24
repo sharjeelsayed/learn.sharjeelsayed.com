@@ -1301,22 +1301,25 @@ Contents:
             Sources:
                 https://github.com/topics/jenkins?o=desc&s=stars
                 https://standard.cbu.cloudbees.com
-                https://www.jenkins.io/doc
+                https://www.jenkins.io/doc/book (Jenkins Handbook)
                 https://www.udemy.com/topic/jenkins/?ratings=4.5&sort=popularity
 
             Courses:
                 Certified Jenkins Engineer (2020) by Michael McClaren
                 https://acloud.guru/overview/9e73056f-b71d-43c5-b59d-d2053b15290d
 
+                Implementing a Full CI/CD Pipeline by William Boyd
+                https://acloud.guru/overview/93e6884d-ac98-49b6-a9cd-5e357d2dbb41
+
                 Jenkins Tutorial for Beginners by TechWorld with Nana
                 https://www.youtube.com/playlist?list=PLy7NrYWoggjw_LIiDK1LXdNN82uYuuuiC
                 
+            Additional Courses:
                 DevOps-Projects by Valaxy Technologies by Shankar AR
                 https://www.youtube.com/playlist?list=PLxzKY3wu0_FJdJd3IKdiM4Om1hGo2Hsdt
                 https://www.udemy.com/course/devops-fundamentals-aws
                 https://github.com/ValaxyTech
-                
-            Additional Courses:
+
                 Learn DevOps: CI/CD with Jenkins using Pipelines and Docker by Edward Viaene
                 https://www.udemy.com/course/learn-devops-ci-cd-with-jenkins-using-pipelines-and-docker
                 https://github.com/wardviaene/jenkins-course
@@ -2067,16 +2070,17 @@ Contents:
             Sites: (Sorted by Alexa Rank)
                 https://www.fiverr.com (291)
                 https://www.upwork.com/freelance-jobs (591)
-                https://www.freelancer.com/jobs (1426)
-                https://www.peopleperhour.com/freelance-jobs (4363)
-                https://www.toptal.com (6462)
-                https://www.codementor.io (7250)
-                https://www.guru.com/d/jobs (7377)
-                https://www.truelancer.com (8671)
+                https://www.freelancer.com/jobs (1,426)
+                https://www.peopleperhour.com/freelance-jobs (4,363)
+                https://www.toptal.com (6,462)
+                https://www.codementor.io (7,014)
+                https://www.guru.com/d/jobs (7,377)
+                https://www.truelancer.com (8,671)
                 https://turing.com (23,229)
                 https://www.freelancermap.com/it-projects.html (94,605)
                 https://upstack.co (262,042)
                 https://gigster.com (279,501)
+                https://calladev.com (2,729,529)
                 
         Management:
             Sources:
@@ -2633,6 +2637,7 @@ Contents:
                 https://news.ycombinator.com/item?id=23583629 (RSS Box – RSS for websites that do not support RSS (rssbox.herokuapp.com))
                 https://news.ycombinator.com/item?id=24539445 (Ask HN: Favourite blogs?)
                 https://news.ycombinator.com/item?id=24658424 (Ask HN: What RSS Reader do you use?)
+                https://news.ycombinator.com/item?id=26192817 (	Ask HN: What websites do you visit every day?)
                 https://news.ycombinator.com/item?id=9836023 (Ask HN: What tech blogs, podcasts do you follow outside of HN?)
                 https://news.ycombinator.com/user?id=SharjeelSayed
                 https://twitter.com/SharjeelSayed
@@ -2924,6 +2929,7 @@ Contents:
 
             Tlds:
                 https://domaintyper.com/top-websites
+                https://domcomp.com
                 https://hostingtribunal.com/blog/tld-statistics
                 https://news.ycombinator.com/item?id=24538758 (Domains for the Rest of Us (domainsfortherestofus.com))
                 https://tld-list.com
@@ -2975,7 +2981,6 @@ Contents:
 
         VPS:
             Sources:
-                https://domcomp.com
                 https://github.com/joedicastro/vps-comparison
                 https://github.com/Kickball/awesome-selfhosted
                 https://hn.algolia.com/?dateRange=pastYear&page=0&prefix=true&query=ask%20hn%3A%20vps&sort=byPopularity&type=story
@@ -3051,19 +3056,19 @@ Contents:
                 https://www.reddit.com/r/Piracy/wiki/megathread/tools
                 https://pinboard.in/u:SharjeelSayed/t:torrent
 
-            Sites:
-                https://yts.mx
-                https://1337x.to
-                http://rarbg.to or https://rarbgprx.org/torrents.php
-                https://www.limetorrents.info
-                https://torrentgalaxy.to
-                https://zooqle.com
-                https://2torrentz.net
-                https://rutracker.org
-                https://popcorntime.app
-                https://www.myanonamouse.net
-                https://put.io
-                https://www.qbittorrent.org
+            Sites: (Sorted by Alexa Rank)
+                https://yts.mx (402)
+                https://1337x.to (415)
+                https://rutracker.org (537)
+                http://rarbg.to (822) or https://rarbgprx.org/torrents.php
+                https://www.limetorrents.info (2,951)
+                https://torrentgalaxy.to (4,765)
+                https://zooqle.com (6,392)
+                https://www.qbittorrent.org (32,011)
+                https://www.myanonamouse.net (42,501)
+                https://put.io (45,131)
+                https://popcorntime.app (54,315)
+                https://2torrentz.net (136,917)
 
         Survival:
             Sources:
@@ -3105,6 +3110,7 @@ Contents:
         https://en.wikipedia.org/wiki/List_of_common_misconceptions
         https://en.wikipedia.org/wiki/List_of_lists_of_lists
         https://en.wikipedia.org/wiki/Wikipedia:Vital_articles
+        https://free-for.dev (This is a list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers)
         https://freenode.net
         https://github.com/255kb/stack-on-a-budget
         https://github.com/antontarasenko/smq/blob/master/reports/hackernews-links-in-comments.md (Most mentioned links in Hacker News comments, 2006–2015)
