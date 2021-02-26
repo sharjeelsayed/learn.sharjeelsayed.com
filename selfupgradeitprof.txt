@@ -796,6 +796,7 @@ Contents:
                 https://github.com/nkuba/k8s-admin-helper
                 https://github.com/r0hi7/k8s-In-30Mins (Learn how to set up the Kubernetes cluster in 30 mins and deploy the application inside the cluster.)
                 https://github.com/ramitsurana/awesome-kubernetes
+                https://github.com/terraform-aws-modules/terraform-aws-eks
                 https://github.com/tomhuang12/awesome-k8s-resources
                 https://github.com/topics/cka?o=desc&s=stars
                 https://github.com/topics/kubernetes?o=desc&s=stars
@@ -1010,7 +1011,6 @@ Contents:
                 https://www.examtopics.com/exams/amazon
                 https://www.quora.com/What-is-the-best-formation-for-AWS-certification
                 https://www.qwiklabs.com/quests/10 (Solutions Architect - Associate)
-                https://www.reddit.com/r/AWSCertifications
                 https://www.reddit.com/r/AWSCertifications/search/?q=course&restrict_sr=on&t=year
                 https://www.udemy.com/topic/aws-certification/?ratings=4.5&sort=popularity
         
@@ -1024,7 +1024,6 @@ Contents:
                 https://docs.microsoft.com/en-us/learn/certifications
                 https://www.examtopics.com/exams/microsoft
                 https://www.pluralsight.com/partners/microsoft/azure
-                https://www.reddit.com/r/AZURE
                 https://www.reddit.com/r/AZURE/search/?q=course&restrict_sr=on&t=year
                 https://www.whizlabs.com/blog/azure-certifications-path
 
@@ -1052,6 +1051,7 @@ Contents:
 
         NGINX:
             Sources:
+                https://blog.detectify.com/2020/11/10/common-nginx-misconfigurations
                 https://docs.nginx.com/nginx/admin-guide/monitoring/logging
                 https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange
                 https://en.wikipedia.org/wiki/Elliptic-curve_Diffie%E2%80%93Hellman
@@ -1178,6 +1178,9 @@ Contents:
                 https://github.com/zealvora/terraform-beginner-to-advanced-resource
                 https://rutracker.org/forum/viewtopic.php?t=5936588
 
+                More than Certified in Terraform by Derek Morgan
+                https://www.udemy.com/course/terraform-certified
+                
                 Terraform: Up & Running: Writing Infrastructure as Code 2nd Edition By Yevgeniy Brikman
                 https://www.terraformupandrunning.com
                 https://learning.oreilly.com/library/view/terraform-up/9781492046899
@@ -1197,9 +1200,6 @@ Contents:
                 https://www.youtube.com/playlist?list=PL8HowI-L-3_9bkocmR3JahQ4Y-Pbqs2Nt
                 https://github.com/WillBrock/terraform-course-examples
 
-                More than Certified in Terraform by Derek Morgan
-                https://www.udemy.com/course/terraform-certified/?couponCode=JAN-1299
-        
         Vagrant:
             Sources:
                 https://app.vagrantup.com/boxes/search?utf8=%E2%9C%93&sort=downloads&provider=virtualbox&q=ubuntu (Discover Vagrant Boxes)
@@ -2019,6 +2019,7 @@ Contents:
                 https://www.michaelpage.co.in (98,471)
                 https://www.jobleads.de (99,051)
                 https://www.workingnomads.co/jobs (128,494)
+                https://remoteleaf.com/whoishiring (684,542)
                 https://whoishiring.io (1,041,887)
                 https://arbeitnow.com/?tags=%5B%22visa%20sponsorship%22%5D (6,208,741)
                 
@@ -2087,8 +2088,10 @@ Contents:
                 http://sabok.org (Guide to the Systems Administration Body of Knowledge)
                 http://startupstash.com
                 http://www.toomas.net/2017/07/18/reverse-engineering-a-successful-lifestyle-business-heres-everything-ive-learned-from-reading-indiehackers-com
+                https://cofounderslab.com
                 https://github.com/dakshshah96/awesome-startup-credits (A collection of awesome companies offering free/discounted plans for eligible startups)
                 https://github.com/dwmkerr/hacker-laws
+                https://github.com/ryanburgess/engineer-manager
                 https://github.com/VGraupera/1on1-questions
                 https://news.ycombinator.com/item?id=11209066 (Why you probably don't need an MBA)
                 https://news.ycombinator.com/item?id=13207268 (Ask HN: How do I get freelance developer jobs?)
