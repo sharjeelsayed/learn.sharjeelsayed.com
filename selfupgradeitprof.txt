@@ -1,6 +1,8 @@
 Curated Self Study Guide for Computer Science, DevOps, SRE & SysAdmin
 
-    The latest updated copy of this page is at http://Learn.SharjeelSayed.com . Fork/PR at https://github.com/sharjeelsayed/learn.sharjeelsayed.com
+    The latest/greatest copy of this page is at http://Learn.SharjeelSayed.com .
+    Fork/PR at https://github.com/sharjeelsayed/learn.sharjeelsayed.com
+    
     About me: SharjeelSayed.com
 
 Contents:
@@ -1338,8 +1340,13 @@ Contents:
                 Learn Vim Progressively
                 http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively
                 
-                Practical Vim: Edit Text at the Speed of Thought , 2nd Edition
+                Practical Vim: Edit Text at the Speed of Thought , 2nd Edition (2015) by Drew Neil 
                 https://www.amazon.com/Practical-Vim-Edit-Speed-Thought/dp/1680501275
+
+                The Valuable Dev
+                https://thevaluable.dev/vim-beginner
+                https://thevaluable.dev/vim-intermediate
+                https://thevaluable.dev/vim-advanced
 
         ELK:
             Books and Courses:
@@ -2334,6 +2341,7 @@ Contents:
                 https://news.ycombinator.com/item?id=23151144 (Ask HN: Mind bending books to read and never be the same as before?)
                 https://news.ycombinator.com/item?id=23485477 (	Ask HN: What, in your opinion, are the greatest and most useful textbooks?)
                 https://news.ycombinator.com/item?id=23535060 (Ask HN: How do you read long PDFs?)
+                https://news.ycombinator.com/item?id=26321793 (Ask HN: Which books made you the most money?)
                 https://opentrackers.org/downloading-ebooks-textbooks
                 https://ramiro.org/vis/hn-most-linked-books
                 https://redditfavorites.com/books
