@@ -1731,10 +1731,12 @@ Contents:
                 https://digitaldefynd.com/best-free-web-development-courses-tutorials-certification
                 https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer
                 https://github.com/codeSTACKr/free-developer-resources
+                https://github.com/dypsilon/frontend-dev-bookmarks
                 https://github.com/h5bp/Front-end-Developer-Interview-Questions
                 https://github.com/lauragift21/awesome-learning-resources
                 https://github.com/thedaviddias/Front-End-Performance-Checklist
                 https://github.com/topics/front-end?o=desc&s=stars
+                https://github.com/topics/frontend?o=desc&s=stars
                 https://github.com/yangshun/front-end-interview-handbook
                 https://news.ycombinator.com/item?id=24130286 (Ask HN: Self-taught webdev with lots of free time. What should I learn?)
                 https://www.reddit.com/r/learnprogramming/comments/bvlsf7/the_odin_project_vs_colt_steeles_web_dev_bootcamp
@@ -2091,6 +2093,7 @@ Contents:
                 https://cofounderslab.com
                 https://github.com/dakshshah96/awesome-startup-credits (A collection of awesome companies offering free/discounted plans for eligible startups)
                 https://github.com/dwmkerr/hacker-laws
+                https://github.com/kuchin/awesome-cto (A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups)
                 https://github.com/ryanburgess/engineer-manager
                 https://github.com/VGraupera/1on1-questions
                 https://news.ycombinator.com/item?id=11209066 (Why you probably don't need an MBA)
