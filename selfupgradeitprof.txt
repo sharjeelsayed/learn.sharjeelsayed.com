@@ -1264,12 +1264,17 @@ Contents:
 
         Git:
             Sources:
+                https://codewords.recurse.com/issues/two/git-from-the-inside-out
+                https://github.com/FAQGURU/FAQGURU/blob/master/topics/en/git.md (A list of interview questions)
                 https://github.com/git-tips/tips
+                https://github.com/github/hub (A command-line tool that makes git easier to use with GitHub.)
+                https://github.com/jesseduffield/lazygit (simple terminal UI for git commands)
                 https://github.com/topics/git?o=desc&s=stars
                 https://news.ycombinator.com/item?id=18924921 (How to teach Git)
                 https://news.ycombinator.com/item?id=21189256 (99% of the Git commands you'll need at work, demonstrated in a single script (bitbucket.org))
+                https://nvie.com/posts/a-successful-git-branching-model
                 https://ohshitgit.com
-                https://www.reddit.com/r/git/top
+                https://www.reddit.com/r/git/top/?sort=top&t=all
                 https://www.reddit.com/r/programming/comments/fd9zpj/becoming_a_git_pro_part_1_internal_git/fjge9vy
                 https://www.sourcetreeapp.com
                 https://www.toptal.com/developers/gitignore
@@ -1277,25 +1282,29 @@ Contents:
                 https://xosh.org/explain-git-in-simple-words
                 
             Books and Courses:
+                Pro Git
+                https://git-scm.com/book/en/v2
+
+                Githug is designed to give you a practical way of learning git
+                https://github.com/Gazler/githug
+
+                Learn Git Branching
+                https://learngitbranching.js.org
+
                 Complete Git Guide: Understand and master Git and GitHub by Bogdan Stashchuk
                 https://www.udemy.com/course/git-and-github-complete-guide
                 https://youtu.be/3FKrszHcIsA
 
                 Git from the Bottom Up
-                https://github.com/jwiegley/git-from-the-bottom-up
                 https://jwiegley.github.io/git-from-the-bottom-up
+                https://github.com/jwiegley/git-from-the-bottom-up
                 http://ftp.newartisans.com/pub/git.from.bottom.up.pdf
                 
-                Learn Git Branching
-                https://learngitbranching.js.org
-                
-                Pro Git
-                https://git-scm.com/book/en/v2
-            
             Additional Material:
                 Git Video Tutorial by Derek Banas
+                http://www.newthinktank.com/2014/04/git-video-tutorial
                 https://youtu.be/r63f51ce84A
-
+                
                 Git and GitHub for Poets by The Coding Train
                 https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV
 
@@ -2028,6 +2037,7 @@ Contents:
                 https://www.michaelpage.co.in (98,471)
                 https://www.jobleads.de (99,051)
                 https://www.workingnomads.co/jobs (128,494)
+                https://relocate.me (155,692)
                 https://remoteleaf.com/whoishiring (684,542)
                 https://whoishiring.io (1,041,887)
                 https://arbeitnow.com/?tags=%5B%22visa%20sponsorship%22%5D (6,208,741)
