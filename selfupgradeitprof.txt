@@ -1624,7 +1624,6 @@ Contents:
                 https://www.whizlabs.com (24,015)
                 https://cloudacademy.com (28,697)
                 https://www.goskills.com (32,972)
-                https://linuxacademy.com (32,977)
                 https://www.skillsoft.com (36,295)
                 https://www.cbtnuggets.com (44,584)
                 https://kodekloud.com (65,218)
