@@ -499,6 +499,7 @@ Contents:
 
     DevOps/SRE/SysAdmin:
         Sources:
+            https://discord.gg/NwfDnNj54T (A Cloud Guru Community Hub)
             https://github.com/Artemmkin/infrastructure-as-code-tutorial
             https://github.com/danluu/post-mortems
             https://github.com/dastergon/awesome-chaos-engineering
@@ -1269,6 +1270,7 @@ Contents:
                 https://github.com/git-tips/tips
                 https://github.com/github/hub (A command-line tool that makes git easier to use with GitHub.)
                 https://github.com/jesseduffield/lazygit (simple terminal UI for git commands)
+                https://github.com/LeCoupa/awesome-cheatsheets/blob/master/tools/git.sh
                 https://github.com/topics/git?o=desc&s=stars
                 https://news.ycombinator.com/item?id=18924921 (How to teach Git)
                 https://news.ycombinator.com/item?id=21189256 (99% of the Git commands you'll need at work, demonstrated in a single script (bitbucket.org))
@@ -1340,6 +1342,7 @@ Contents:
 
         Vim:
             Sources:
+                https://github.com/LeCoupa/awesome-cheatsheets/blob/master/tools/vim.txt
                 https://news.ycombinator.com/item?id=15400037 (Interactive Vim tutorial)
                 https://news.ycombinator.com/item?id=2936670 (Learn Vim Progressively)
                 https://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim#1220118
