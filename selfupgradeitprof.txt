@@ -61,6 +61,7 @@ Contents:
     Development:
         SQL
         Python
+        Go
         C
         Java
         Web Development
@@ -1706,6 +1707,16 @@ Contents:
 
                 2020 Complete Python Bootcamp: From Zero to Hero in Python
                 https://www.udemy.com/course/complete-python-bootcamp
+        
+        Go:
+            Sources:
+                https://github.com/topics/go?o=desc&s=stars
+                https://www.udemy.com/topic/go-programming-language/?ratings=4.5&sort=popularity
+
+            Books and Courses:
+                Learn Go with Tests
+                https://quii.gitbook.io/learn-go-with-tests
+                https://github.com/quii/learn-go-with-tests
 
         C:
             Sources:
@@ -2231,6 +2242,7 @@ Contents:
         Foreign Language:
             Source:
                 http://www.runwes.com/2020/02/11/howilearnedfrench.html
+                https://duome.eu/tips/en (Duolingo's language notes all on one page)
                 
             Books and Courses:
                 https://www.duolingo.com
