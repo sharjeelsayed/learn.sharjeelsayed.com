@@ -1400,6 +1400,7 @@ Contents:
             Sources:
                 http://www.fastrls.com/2017/10/30/offensive-security-training-videos
                 https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html-single/using_selinux
+                https://cheatsheetseries.owasp.org (The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.)
                 https://crowdsec.net
                 https://danielmiessler.com/blog/build-successful-infosec-career
                 https://dev-sec.io (devops + security Server Hardening Automation)
@@ -2205,6 +2206,9 @@ Contents:
                 
                 ADP 6-22. Army Leadership and the Profession
                 https://fas.org/irp/doddir/army
+
+                The 48 Laws of Power by Robert Greene
+                https://www.amazon.com/48-Laws-Power-Robert-Greene/dp/0140280197
 
         Money:
             Sources:
