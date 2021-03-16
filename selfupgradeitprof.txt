@@ -553,6 +553,7 @@ Contents:
                 https://github.com/linkedin/school-of-sre
                 https://github.com/topics/sre?o=desc&s=stars
                 https://news.ycombinator.com/item?id=14153545 (What Is ‘Site Reliability Engineering’?)
+                https://gitlab.com/gitlab-com/runbooks (Run books for the stressed on call )
                 https://sre.google/books
 
             Books and Courses:
@@ -923,11 +924,11 @@ Contents:
                 https://www.youtube.com/user/VMwareLearning
                 
             Books and Courses:
-                VMware vSphere 6.5 (VCP6.5-DCV) with 6.7 Updates
-                https://www.cbtnuggets.com/it-training/vmware-vsphere-6-vcp6-5-dcv
+                vSphere 6.5 with 6.7 Updates Online Training by Jacob Moran
+                https://www.cbtnuggets.com/it-training/vmware/vsphere-6-5-with-6-7-updates
                 
-                Mastering VMware vSphere 6 1st Edition
-                https://www.amazon.com/Mastering-VMware-vSphere-Nick-Marshall/dp/1118925157
+                Mastering VMware vSphere 6.7 1st Edition by Nick Marshall, Mike Brown, G. Blair Fritz and Ryan Johnson
+                https://www.amazon.com/Mastering-VMware-vSphere-Nick-Marshall/dp/1119512948
 
         OpenStack:
             Sources:
@@ -1463,6 +1464,9 @@ Contents:
                 https://www.udemy.com/course/practical-ethical-hacking
                 https://academy.tcm-sec.com/p/practical-ethical-hacking-the-complete-course
                 https://youtu.be/WnN6dbos5u8
+
+                Incident Response & Computer Forensics, Third Edition 3rd Edition by Jason T. Luttgens, Matthew Pepe and Kevin Mandia
+                https://www.amazon.com/Incident-Response-Computer-Forensics-Third/dp/0071798684
 
         Hardware:
             Sources:
