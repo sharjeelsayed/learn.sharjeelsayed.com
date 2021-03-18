@@ -581,9 +581,12 @@ Contents:
                 http://stackoverflow.com/questions/236838/what-are-good-linuxunix-books-for-an-advancing-user
                 https://dashdash.io (Linux Man Pages)
                 https://github.com/0xAX/linux-insides
+                https://github.com/imthenachoman/How-To-Secure-A-Linux-Server
+                https://github.com/inputsh/awesome-linux
                 https://github.com/luong-komorebi/Awesome-Linux-Software
                 https://github.com/topics/lamp?o=desc&s=stars
                 https://github.com/topics/linux?o=desc&s=stars
+                https://github.com/trimstray/the-practical-linux-hardening-guide
                 https://linuxcommandlibrary.com
                 https://news.ycombinator.com/item?id=22564665 (Linux Kernel Teaching (linux-kernel-labs.github.io))
                 https://news.ycombinator.com/item?id=24027366 (	Low latency tuning guide)
@@ -739,6 +742,7 @@ Contents:
                 https://github.com/dokku/dokku
                 https://github.com/hadolint/hadolint
                 https://github.com/hexops/dockerfile
+                https://github.com/jessfraz/dockerfiles
                 https://github.com/magicmark/composerize (Turns docker run commands into docker-compose files!)
                 https://github.com/p8952/bocker (Docker implemented in around 100 lines of bash)
                 https://github.com/tiangolo/dockerswarm.rocks
@@ -1049,8 +1053,9 @@ Contents:
 
         Heroku:
             Sources:
-                https://www.udemy.com/topic/heroku/?ratings=4.5&sort=popularity
                 https://devcenter.heroku.com
+                https://github.com/ianstormtaylor/awesome-heroku
+                https://www.udemy.com/topic/heroku/?ratings=4.5&sort=popularity
 
             Books and Courses:
                 Salesforce Heroku Masterclass by João Gomes
@@ -1276,6 +1281,7 @@ Contents:
                 https://github.com/jesseduffield/lazygit (simple terminal UI for git commands)
                 https://github.com/LeCoupa/awesome-cheatsheets/blob/master/tools/git.sh
                 https://github.com/topics/git?o=desc&s=stars
+                https://github.com/toptal/gitignore.io
                 https://news.ycombinator.com/item?id=18924921 (How to teach Git)
                 https://news.ycombinator.com/item?id=21189256 (99% of the Git commands you'll need at work, demonstrated in a single script (bitbucket.org))
                 https://nvie.com/posts/a-successful-git-branching-model
@@ -1499,6 +1505,7 @@ Contents:
                 https://thesweetsetup.com/picks
                 https://www.reddit.com/r/apple+mac+macapps
                 https://youtu.be/HPQobUOx17o (Amazing Mac Tips You've Never Used! by Snazzy Labs)
+                https://dotfilehub.com
                 https://pinboard.in/u:SharjeelSayed/t:macos
 
             Tools:
@@ -1578,6 +1585,7 @@ Contents:
                 https://github.com/gerryguy311/CyberProfDevelopmentCovidResources
                 https://github.com/JoseDeFreitas/awesome-youtubers
                 https://github.com/learn-awesome/learn-awesome
+                https://github.com/r0oth3x49/udemy-dl (A cross-platform python based utility to download courses from udemy for personal offline use)
                 https://github.com/sindresorhus/awesome
                 https://hackr.io
                 https://lbry.com/news/20000-illegal-college-lectures-rescued
@@ -1605,6 +1613,7 @@ Contents:
                 https://www.edx.org/course/subject/computer-science
                 https://www.freecodecamp.org/news/best-online-courses
                 https://www.freecodecamp.org/news/free-courses-top-cs-universities
+                https://www.g2.com/reports/momentum-grid-report-for-technical-skills-development-winter-2021
                 https://www.masterclass.com
                 https://www.omscs.gatech.edu (Georgia Tech Online Master of Science in Computer Science)
                 https://www.real.discount (Discount coupons for Popular courses and MOOC Platforms)
@@ -1616,7 +1625,6 @@ Contents:
                 https://www.udacity.com/courses/all
                 https://www.udemy.com/courses/free/?p=12&sort=popularity
                 https://yahnd.com (Best courses , talks and videos recommended on Hacker News)
-                https://www.g2.com/reports/momentum-grid-report-for-technical-skills-development-winter-2021
 
             Online Course Portals: (Sorted by Alexa Rank)
                 https://www.linkedin.com/learning (54)
@@ -2060,6 +2068,7 @@ Contents:
                 https://relocate.me (155,692)
                 https://remoteleaf.com/whoishiring (684,542)
                 https://whoishiring.io (1,041,887)
+                https://sievejobs.com (3,711,141)
                 https://arbeitnow.com/?tags=%5B%22visa%20sponsorship%22%5D (6,208,741)
                 
             Dubai Job Sites:
@@ -3155,6 +3164,7 @@ Contents:
                 https://stockfishchess.org (58,390)
 
     Additional Sources :
+        https://awesome.digitalbunker.dev (Click to explore one of the awesome lists below)
         https://en.wikipedia.org/wiki/List_of_common_misconceptions
         https://en.wikipedia.org/wiki/List_of_lists_of_lists
         https://en.wikipedia.org/wiki/Wikipedia:Vital_articles
