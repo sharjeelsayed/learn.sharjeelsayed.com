@@ -745,6 +745,7 @@ Contents:
                 https://github.com/jessfraz/dockerfiles
                 https://github.com/magicmark/composerize (Turns docker run commands into docker-compose files!)
                 https://github.com/p8952/bocker (Docker implemented in around 100 lines of bash)
+                https://github.com/quay/clair (Vulnerability Static Analysis for Containers)
                 https://github.com/tiangolo/dockerswarm.rocks
                 https://github.com/topics/docker?o=desc&s=stars
                 https://github.com/veggiemonk/awesome-docker
@@ -982,6 +983,7 @@ Contents:
                 https://www.ec2instances.info
                 https://www.reddit.com/r/aws
                 https://www.reddit.com/r/sysadmin/comments/8inzn5/so_you_want_to_learn_aws_aka_how_do_i_learn_to_be
+                https://www.stackery.io/registry (Enter an AWS CloudFormation template for instant analysis)
                 https://youtu.be/B08iQQhXG1Y (The Most Important AWS Services (with an easy to follow example!))
                 https://pinboard.in/u:SharjeelSayed/t:aws
                 
@@ -3203,6 +3205,7 @@ Contents:
         https://redditfavorites.com (Reddit Favorites From 3.5 billion comments)
         https://redditprofile.com (Find an Expert on Reddit)
         https://sourceful.co.uk (Discover the best public GoogleDocs and Sheets)
+        https://tldrlegal.com (Software Licenses in Plain English)
         https://twitter.com/search?q=Gone%20Free%20(from%3ASharjeelSayed)
         https://wizardzines.com
         https://www.justwatch.com/in?genres=doc
