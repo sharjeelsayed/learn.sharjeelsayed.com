@@ -184,9 +184,11 @@ Contents:
             https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E?sort=titleSorter
 
             Distributed Systems 3.01 Edition
+            https://news.ycombinator.com/item?id=26534819 (Distributed Systems: A free online class (distributedsystemscourse.com))
             https://www.amazon.com/Distributed-Systems-Maarten-van-Steen/dp/1543057381
             https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB (MIT 6.824 Distributed Systems (Spring 2020))
             https://pdos.csail.mit.edu/6.824/schedule.html (MIT 6.824 Schedule: Spring 2020 )
+            http://www.distributedsystemscourse.com
 
         Programming Concepts:
             Sources:
@@ -756,6 +758,7 @@ Contents:
                 https://news.ycombinator.com/item?id=15822583 (Ask HN: Good resources on learning how docker works under the hood?)
                 https://sparkle.adroitcorp.com.au/market (Flashcards)
                 https://www.fb.com/groups/devopsdocker
+                https://www.freecodecamp.org/news/the-docker-handbook
                 https://www.reddit.com/r/docker
                 https://www.udemy.com/topic/docker/?ratings=4.5&sort=popularity
                 https://pinboard.in/u:SharjeelSayed/t:docker
@@ -1489,6 +1492,7 @@ Contents:
         macOS:
             Sources:
                 https://defkey.com/apple-macos-shortcuts
+                https://dotfilehub.com
                 https://github.com/donnemartin/dev-setup
                 https://github.com/drduh/macOS-Security-and-Privacy-Guide
                 https://github.com/geerlingguy/mac-dev-playbook
@@ -1496,6 +1500,7 @@ Contents:
                 https://github.com/iCHAIT/awesome-macOS
                 https://github.com/jaywcjlove/awesome-mac
                 https://github.com/mathiasbynens/dotfiles
+                https://github.com/mathiasbynens/dotfiles (🔧 .files, including ~/.macos — sensible hacker defaults for macOS)
                 https://github.com/nikitavoloboev/my-mac-os
                 https://github.com/rgcr/m-cli ( Swiss Army Knife for macOS)
                 https://github.com/serhii-londar/open-source-mac-os-apps
@@ -1505,9 +1510,9 @@ Contents:
                 https://opensource.com/article/19/5/python-3-default-mac (The right and wrong way to set Python 3 as default on a Mac)
                 https://support.apple.com/en-us/HT201236 (Mac keyboard shortcuts)
                 https://thesweetsetup.com/picks
+                https://www.bresink.com/osx/TinkerTool.html
                 https://www.reddit.com/r/apple+mac+macapps
                 https://youtu.be/HPQobUOx17o (Amazing Mac Tips You've Never Used! by Snazzy Labs)
-                https://dotfilehub.com
                 https://pinboard.in/u:SharjeelSayed/t:macos
 
             Tools:
@@ -2848,6 +2853,7 @@ Contents:
                     https://showcase.metamate.io/hackernews-trends
                     https://t.me/best_hacker_news
                     https://t.me/hacker_news_feed
+                    https://www.daemonology.net/hn-daily (The 10 highest-rated articles on Hacker News)
                     https://www.fb.com/hn.hiren.news
                     https://www.hackernewspapers.com
 
@@ -2885,6 +2891,7 @@ Contents:
                 https://www.devopsweekly.com (3,945,939)
                 https://kubeweekly.io (6,389,097)
                 https://thisweekindevops.com (5,288,621)
+                https://ipj.dreamhosters.com (The Internet Protocol Journal)
 
         Podcasts:
             Sources:
