@@ -1441,9 +1441,10 @@ Contents:
                 https://news.ycombinator.com/item?id=17749283 (Ask HN: Recommendations of good cybercrime novels?)
                 https://news.ycombinator.com/item?id=18487547 (Ask HN: Starting a career in security at 40?)
                 https://overthewire.org/wargames/bandit
-                https://room362.com/start
+                https://room362.com/start (Start in Infosec)
                 https://s3ctur.wordpress.com/2017/06/19/breaking-into-infosec-a-beginners-curriculum
                 https://security.stackexchange.com/questions/46666/at-what-length-does-a-password-stop-making-sense
+                https://tools.tldr.run (Curated list of security tools for Hackers & Builders!)
                 https://twitter.com/thecybermentor/status/1343471818468978688 (So, you want to be a hacker: 2021 edition.)
                 https://www.cisecurity.org/cis-benchmarks
                 https://www.edx.org/learn/cybersecurity
@@ -2093,6 +2094,7 @@ Contents:
                 https://in.indeed.com/career/development-operations-engineer/salaries
                 https://news.ycombinator.com/item?id=19024575 (Ask HN: Highest paying remote companies?)
                 https://news.ycombinator.com/item?id=19280341 (Ask HN: Tools or sites you use to scope out a workplace before taking a job?)
+                https://www.cloudanix.com/blog/the-devops-jobs-report
                 https://www.glassdoor.co.in/Salaries/india-devops-salary-SRCH_IL.0,5_IN115_KO6,12.htm (Devops Salaries in India)
                 https://www.glassdoor.co.in/Salaries/us-devops-salary-SRCH_IL.0,2_IN1_KO3,9.htm (Devops Salaries in United States)
                 https://www.indeed.com/career/cloud-engineer/salaries
