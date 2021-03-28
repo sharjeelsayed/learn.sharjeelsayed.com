@@ -1,7 +1,7 @@
 Curated Self Study Guide for Computer Science, DevOps, SRE & SysAdmin
 
     The latest copy of this page is at http://Learn.SharjeelSayed.com
-    Fork/PR at https://github.com/sharjeelsayed/learn.sharjeelsayed.com
+    Star/Watch/Fork at https://github.com/sharjeelsayed/learn.sharjeelsayed.com
     
     About me: SharjeelSayed.com
 
@@ -808,6 +808,7 @@ Contents:
                 https://github.com/kelseyhightower/kubernetes-the-hard-way
                 https://github.com/kubernetes/kubernetes
                 https://github.com/LeCoupa/awesome-cheatsheets/blob/master/tools/kubernetes.md
+                https://github.com/magnologan/awesome-k8s-security
                 https://github.com/nkuba/k8s-admin-helper
                 https://github.com/r0hi7/k8s-In-30Mins (Learn how to set up the Kubernetes cluster in 30 mins and deploy the application inside the cluster.)
                 https://github.com/ramitsurana/awesome-kubernetes
@@ -3001,6 +3002,7 @@ Contents:
                 https://hostingtribunal.com/blog/tld-statistics
                 https://news.ycombinator.com/item?id=24538758 (Domains for the Rest of Us (domainsfortherestofus.com))
                 https://tld-list.com
+                https://w3techs.com/technologies/overview/top_level_domain
                 https://www.domainsfortherestofus.com
                 https://www.freenom.com
                 https://www.hayksaakian.com/most-popular-tlds
@@ -3055,6 +3057,7 @@ Contents:
                 https://joshtronic.com/2021/01/03/vps-showdown-digitalocean-lightsail-linode-upcloud-vultr
                 https://lowendbox.com
                 https://news.ycombinator.com/item?id=15105601 (Ask HN: What are your favorites self hosted tools?)
+                https://news.ycombinator.com/item?id=26594242 (Ask HN: Cheapest/easiest way to host a static site?)
                 https://www.reddit.com/r/VPS+homelab
                 https://www.vpsbenchmarks.com
                 https://pinboard.in/u:SharjeelSayed/t:vps
