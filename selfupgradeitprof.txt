@@ -551,12 +551,15 @@ Contents:
         
         SRE:
             Sources:
+                https://enterprisersproject.com/article/2021/3/7-top-site-reliability-engineer-sre-job-interview-questions
                 https://github.com/dastergon/awesome-sre
                 https://github.com/linkedin/school-of-sre
                 https://github.com/topics/sre?o=desc&s=stars
-                https://news.ycombinator.com/item?id=14153545 (What Is ‘Site Reliability Engineering’?)
                 https://gitlab.com/gitlab-com/runbooks (Run books for the stressed on call )
+                https://news.ycombinator.com/item?id=14153545 (What Is ‘Site Reliability Engineering’?)
                 https://sre.google/books
+                https://www.meetup.com/topics/site-reliability-engineering
+                https://www.usenix.org/srecon
 
             Books and Courses:
                 Site Reliability Engineering: How Google Runs Production Systems
@@ -840,6 +843,7 @@ Contents:
                 https://news.ycombinator.com/item?id=22689119 (Anyone have a recommended guide for Kubernetes?)
                 https://rancher.com
                 https://registry.terraform.io/modules/terraform-aws-modules/eks/aws
+                https://snyk.io/blog/10-kubernetes-security-context-settings-you-should-understand
                 https://sparkle.adroitcorp.com.au/market (Flashcards)
                 https://t.me/learnk8s
                 https://techbeacon.com/enterprise-it/47-advanced-tutorials-mastering-kubernetes
@@ -1282,6 +1286,7 @@ Contents:
             Sources:
                 https://codewords.recurse.com/issues/two/git-from-the-inside-out
                 https://github.com/FAQGURU/FAQGURU/blob/master/topics/en/git.md (A list of interview questions)
+                https://github.com/gabrie30/ghorg (Quickly clone an entire org/users repositories into one directory - Supports GitHub, GitLab, Bitbucket, and more)
                 https://github.com/git-tips/tips
                 https://github.com/github/hub (A command-line tool that makes git easier to use with GitHub.)
                 https://github.com/jesseduffield/lazygit (simple terminal UI for git commands)
@@ -1594,6 +1599,7 @@ Contents:
                 https://github.com/gerryguy311/CyberProfDevelopmentCovidResources
                 https://github.com/JoseDeFreitas/awesome-youtubers
                 https://github.com/learn-awesome/learn-awesome
+                https://github.com/merry75/educative.io_courses
                 https://github.com/r0oth3x49/udemy-dl (A cross-platform python based utility to download courses from udemy for personal offline use)
                 https://github.com/sindresorhus/awesome
                 https://hackr.io
@@ -2033,6 +2039,7 @@ Contents:
                 https://docs.google.com/spreadsheets/d/1TLJSlNxCbwRNxy14Toe1PYwbCTY7h0CNHeer9J0VRzE/htmlview#gid=1279011369 (900+ Startups hiring Remotely in 2020 - by Remotive.io)
                 https://github.com/lukasz-madon/awesome-remote-job
                 https://github.com/poteto/hiring-without-whiteboards
+                https://github.com/randallkanna/awesome-job-list
                 https://news.ycombinator.com/item?id=14686745 (Ask HN: What are some of the best job boards you have seen (any industry)?)
                 https://news.ycombinator.com/item?id=15473776 (Ask HN: What do you care about the most in a tech job post?)
                 https://news.ycombinator.com/item?id=15646550 (Ask HN: What is your favorite place to find work?)
