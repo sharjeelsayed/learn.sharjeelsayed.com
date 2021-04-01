@@ -965,6 +965,7 @@ Contents:
 
         AWS:
             Sources:
+                http://flaws.cloud (Through a series of levels you'll learn about common mistakes and gotchas when using Amazon Web Services (AWS).)
                 https://adayinthelifeof.nl/2020/05/20/aws.html (A List of One-sentence Descriptions of AWS Services)
                 https://aws.amazon.com/blogs/architecture/top-15-architecture-blog-posts-of-2020
                 https://aws.amazon.com/getting-started/hands-on
@@ -2054,6 +2055,7 @@ Contents:
         Job Sites: (Sorted by Alexa Rank)
                 https://stackoverflow.com/jobs (49)
                 https://www.linkedin.com/jobs (57)
+                https://jobs.github.com (62)
                 https://www.naukri.com (441)
                 http://www.freejobalert.com (1,540)
                 https://www.glassdoor.co.in (2,149)
