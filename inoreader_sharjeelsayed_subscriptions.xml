@@ -84,6 +84,7 @@
       <outline text="Pinboard (sharjeelsayed)" title="Pinboard (sharjeelsayed)" type="rss" xmlUrl="https://feeds.pinboard.in/rss/u:sharjeelsayed/" htmlUrl="https://pinboard.in/u:sharjeelsayed/public/"/>
       <outline text="SharjeelSayed:My Reading List: Unread" title="SharjeelSayed:My Reading List: Unread" type="rss" xmlUrl="http://getpocket.com/users/sharjeelsayed/feed/unread" htmlUrl="http://readitlaterlist.com/users/sharjeelsayed/feed/unread"/>
       <outline text="SharjeelSayed on Twitter" title="SharjeelSayed on Twitter" type="rss" xmlUrl="https://rssbox.herokuapp.com/twitter/14121146/SharjeelSayed" htmlUrl="https://twitter.com/SharjeelSayed"/>
+      <outline text="learn.sharjeelsayed.com:master Recent Commits" title="learn.sharjeelsayed.com:master Recent Commits" type="rss" xmlUrl="https://github.com/sharjeelsayed/learn.sharjeelsayed.com/commits.atom" htmlUrl="https://github.com/sharjeelsayed/learn.sharjeelsayed.com/commits/master"/>
       <outline text="Pinboard (popular bookmarks)" title="Pinboard (popular bookmarks)" type="rss" xmlUrl="http://feeds.pinboard.in/rss/popular/" htmlUrl="https://pinboard.in/popular/"/>
     </outline>
     <outline text="DevOps" title="DevOps">
