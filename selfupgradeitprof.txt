@@ -984,6 +984,7 @@ Contents:
                 https://github.com/serverless/serverless
                 https://github.com/toniblyx/my-arsenal-of-aws-security-tools
                 https://github.com/topics/aws?o=desc&s=stars
+                https://github.com/undergroundwires/AWS-in-bullet-points
                 https://linuxacademy-community-slack.herokuapp.com
                 https://www.aws.training
                 https://www.awsgeek.com (Cloud Diagrams & Notes)
@@ -1175,6 +1176,7 @@ Contents:
             Sources:
                 https://github.com/antonbabenko/terraform-best-practices
                 https://github.com/Artemmkin/infrastructure-as-code-tutorial
+                https://github.com/camptocamp/terraboard (A web dashboard to inspect Terraform States)
                 https://github.com/nsriram/lambda-the-terraform-way
                 https://github.com/shuaibiyy/awesome-terraform
                 https://github.com/topics/infrastructure-as-code?o=desc&s=stars
@@ -1799,6 +1801,7 @@ Contents:
                 https://github.com/topics/frontend?o=desc&s=stars
                 https://github.com/yangshun/front-end-interview-handbook
                 https://news.ycombinator.com/item?id=24130286 (Ask HN: Self-taught webdev with lots of free time. What should I learn?)
+                https://www.photopea.com
                 https://www.reddit.com/r/learnprogramming/comments/bvlsf7/the_odin_project_vs_colt_steeles_web_dev_bootcamp
                 https://www.reddit.com/r/webdev/comments/8lvsxa/is_colt_steele_web_dev_bootcamp_still_the_go_to
                 https://www.udemy.com/courses/development/web-development/?ratings=4.5&sort=popularity
@@ -1993,6 +1996,9 @@ Contents:
                 
                 Coding Interviews at FAANG
                 https://www.codinginterview.com
+
+                Preparation links and resources for system design questions
+                https://github.com/shashank88/system_design
             
             Coding Challenge Websites: (Sorted by Alexa Rank):
                 https://leetcode.com (1,515)
@@ -2208,6 +2214,7 @@ Contents:
                 https://news.ycombinator.com/item?id=23152092 (	Ask HN: I've been promoted to Architect. What do I need to learn/do to excel?)
                 https://news.ycombinator.com/item?id=23759547 (	Ask HN: What makes a good technical leader – any recommended books?)
                 https://news.ycombinator.com/item?id=24123372 (Classic books for tech leads or those aspiring to be (sourcelevel.io))
+                https://news.ycombinator.com/item?id=26807085 (Ask HN: How to Speak Confidently?)
                 https://www.amazon.com/gp/bestsellers/books/2569 (Amazon Best Sellers in Time Management)
                 https://www.indiehackers.com
                 https://www.reddit.com/r/cscareerquestions/comments/6fnujy/soft_skills_for_programmers
@@ -3061,7 +3068,7 @@ Contents:
         VPS:
             Sources:
                 https://github.com/joedicastro/vps-comparison
-                https://github.com/Kickball/awesome-selfhosted
+                https://github.com/awesome-selfhosted/awesome-selfhosted
                 https://hn.algolia.com/?dateRange=pastYear&page=0&prefix=true&query=ask%20hn%3A%20vps&sort=byPopularity&type=story
                 https://joshtronic.com/2021/01/03/vps-showdown-digitalocean-lightsail-linode-upcloud-vultr
                 https://lowendbox.com
