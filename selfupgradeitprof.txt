@@ -469,7 +469,7 @@ Contents:
                 https://pinboard.in/u:SharjeelSayed/t:db
 
             Books and Courses:
-                15-445/645 Intro to Database Systems (Fall 2019)
+                15-445/645 Intro to Database Systems (Fall 2019) by Andy Pavlo, Carnegie Mellon University
                 https://www.youtube.com/playlist?list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi
 
                 15-721 Advanced Database Systems (Spring 2020)
@@ -2162,6 +2162,7 @@ Contents:
                 http://startupstash.com
                 http://www.toomas.net/2017/07/18/reverse-engineering-a-successful-lifestyle-business-heres-everything-ive-learned-from-reading-indiehackers-com
                 https://cofounderslab.com
+                https://diataxis.fr (The Grand Unified Theory of Documentation)
                 https://github.com/dakshshah96/awesome-startup-credits (A collection of awesome companies offering free/discounted plans for eligible startups)
                 https://github.com/dwmkerr/hacker-laws
                 https://github.com/kuchin/awesome-cto (A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups)
