@@ -1931,6 +1931,7 @@ Contents:
                 https://news.ycombinator.com/item?id=17908547 (Ask HN: Types of Questions to Ask Team Members Before Accepting Role?)
                 https://news.ycombinator.com/item?id=18253999 (C++ Programming Questions to Ask on Interview (2017) (tests4geeks.com))
                 https://news.ycombinator.com/item?id=20916749 (Questions to ask a company during a job interview (github.com))
+                https://news.ycombinator.com/item?id=26854130 (Questions to ask in a job interview that reveal company culture (fastcompany.com))
                 https://www.naukri.com/pulse/top-it-skills
                 https://www.reddit.com/r/AskReddit/comments/74sskj/what_are_some_red_flags_in_a_job_interview
                 https://www.reddit.com/r/AskReddit/comments/9vbwy8/what_are_good_questions_to_ask_potential
@@ -2216,6 +2217,7 @@ Contents:
                 https://news.ycombinator.com/item?id=23759547 (	Ask HN: What makes a good technical leader – any recommended books?)
                 https://news.ycombinator.com/item?id=24123372 (Classic books for tech leads or those aspiring to be (sourcelevel.io))
                 https://news.ycombinator.com/item?id=26807085 (Ask HN: How to Speak Confidently?)
+                https://news.ycombinator.com/item?id=26847816 (Ask HN: What was the biggest leadership challenge of your career?)
                 https://www.amazon.com/gp/bestsellers/books/2569 (Amazon Best Sellers in Time Management)
                 https://www.indiehackers.com
                 https://www.reddit.com/r/cscareerquestions/comments/6fnujy/soft_skills_for_programmers
