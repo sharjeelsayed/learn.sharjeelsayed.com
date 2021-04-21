@@ -664,6 +664,7 @@ Contents:
                 https://github.com/learnbyexample/Command-line-text-processing
                 https://github.com/onceupon/Bash-Oneliner
                 https://github.com/pirate/bash-utils
+                https://github.com/rothgar/awesome-tuis (List of projects that provide terminal user interfaces )
                 https://github.com/rupa/z (z - jump around)
                 https://github.com/topics/bash?o=desc&s=stars
                 https://linoxide.com/linux-how-to/linux-commands-brief-outline-examples
@@ -1288,24 +1289,31 @@ Contents:
         Git:
             Sources:
                 https://codewords.recurse.com/issues/two/git-from-the-inside-out
+                https://git-scm.com/book/en/v2/Git-Tools-Reset-Demystified (Reset vs Checkout)
                 https://github.com/FAQGURU/FAQGURU/blob/master/topics/en/git.md (A list of interview questions)
                 https://github.com/gabrie30/ghorg (Quickly clone an entire org/users repositories into one directory - Supports GitHub, GitLab, Bitbucket, and more)
-                https://github.com/git-tips/tips
+                https://github.com/git-tips/tips (Most commonly used git tips and tricks.)
                 https://github.com/github/hub (A command-line tool that makes git easier to use with GitHub.)
                 https://github.com/jesseduffield/lazygit (simple terminal UI for git commands)
                 https://github.com/LeCoupa/awesome-cheatsheets/blob/master/tools/git.sh
+                https://github.com/pluralsight/git-internals-pdf/releases (A PDF by Scott Chacon about how the Git source code control system stores files and revisions.)
                 https://github.com/topics/git?o=desc&s=stars
                 https://github.com/toptal/gitignore.io
+                https://grep.app (Search across a half million git repos)
+                https://jwiegley.github.io/git-from-the-bottom-up/1-Repository/7-branching-and-the-power-of-rebase.html (Best explanation of rebase vs merge)
                 https://news.ycombinator.com/item?id=18924921 (How to teach Git)
                 https://news.ycombinator.com/item?id=21189256 (99% of the Git commands you'll need at work, demonstrated in a single script (bitbucket.org))
                 https://nvie.com/posts/a-successful-git-branching-model
                 https://ohshitgit.com
+                https://sourcegraph.com/search (Search public code)
                 https://www.reddit.com/r/git/top/?sort=top&t=all
                 https://www.reddit.com/r/programming/comments/fd9zpj/becoming_a_git_pro_part_1_internal_git/fjge9vy
                 https://www.sourcetreeapp.com
+                https://www.sublimemerge.com
                 https://www.toptal.com/developers/gitignore
                 https://www.udemy.com/topic/git/?ratings=4.5&sort=popularity
                 https://xosh.org/explain-git-in-simple-words
+                https://youtu.be/1ffBJ4sVUb4 ([Linux.conf.au 2013] - Git For Ages 4 And Up)
                 
             Books and Courses:
                 Pro Git
