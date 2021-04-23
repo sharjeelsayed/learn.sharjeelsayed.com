@@ -1289,23 +1289,27 @@ Contents:
         Git:
             Sources:
                 https://codewords.recurse.com/issues/two/git-from-the-inside-out
+                https://firstaidgit.io (A searchable collection of the most frequently asked Git Questions)
                 https://git-scm.com/book/en/v2/Git-Tools-Reset-Demystified (Reset vs Checkout)
                 https://github.com/FAQGURU/FAQGURU/blob/master/topics/en/git.md (A list of interview questions)
                 https://github.com/gabrie30/ghorg (Quickly clone an entire org/users repositories into one directory - Supports GitHub, GitLab, Bitbucket, and more)
                 https://github.com/git-tips/tips (Most commonly used git tips and tricks.)
                 https://github.com/github/hub (A command-line tool that makes git easier to use with GitHub.)
                 https://github.com/jesseduffield/lazygit (simple terminal UI for git commands)
+                https://github.com/k88hudson/git-flight-rules (Flight rules for git)
                 https://github.com/LeCoupa/awesome-cheatsheets/blob/master/tools/git.sh
                 https://github.com/pluralsight/git-internals-pdf/releases (A PDF by Scott Chacon about how the Git source code control system stores files and revisions.)
                 https://github.com/topics/git?o=desc&s=stars
                 https://github.com/toptal/gitignore.io
                 https://grep.app (Search across a half million git repos)
                 https://jwiegley.github.io/git-from-the-bottom-up/1-Repository/7-branching-and-the-power-of-rebase.html (Best explanation of rebase vs merge)
-                https://news.ycombinator.com/item?id=18924921 (How to teach Git)
                 https://news.ycombinator.com/item?id=21189256 (99% of the Git commands you'll need at work, demonstrated in a single script (bitbucket.org))
+                https://nfarina.com/post/9868516270/git-is-simpler
                 https://nvie.com/posts/a-successful-git-branching-model
                 https://ohshitgit.com
+                https://shalithasuranga.medium.com/how-does-git-work-internally-7c36dcb1f2cf
                 https://sourcegraph.com/search (Search public code)
+                https://techtldr.com/19-git-tips-for-everyday-use
                 https://www.reddit.com/r/git/top/?sort=top&t=all
                 https://www.reddit.com/r/programming/comments/fd9zpj/becoming_a_git_pro_part_1_internal_git/fjge9vy
                 https://www.sourcetreeapp.com
@@ -1314,6 +1318,7 @@ Contents:
                 https://www.udemy.com/topic/git/?ratings=4.5&sort=popularity
                 https://xosh.org/explain-git-in-simple-words
                 https://youtu.be/1ffBJ4sVUb4 ([Linux.conf.au 2013] - Git For Ages 4 And Up)
+                https://youtu.be/2sjqTHE0zok (Lecture 6: Version Control (git) (2020))
                 
             Books and Courses:
                 Pro Git
@@ -1763,7 +1768,7 @@ Contents:
             Sources:
                 https://news.ycombinator.com/item?id=11606296 (To become a good C programmer (2011) (fabiensanglard.net))
                 https://news.ycombinator.com/item?id=12475383 (“Learn C the Hard Way” is no longer available for free)
-                https://news.ycombinator.com/item?id=15198093 (Beej's Guide to C Programming (2007))
+                https://news.ycombinator.com/item?id=26911399 (Beej's Guide to C Programming)
                 https://news.ycombinator.com/item?id=16196194 (Brushing up on operating systems and C programming)
                 https://news.ycombinator.com/item?id=16347309 (Ask HN: What project did you tackle to learn C?)
                 https://news.ycombinator.com/item?id=19126544 (Show HN: Learn C and its lower levels interactively, in the browser)
@@ -1776,6 +1781,9 @@ Contents:
                 
                 C Programming: A Modern Approach
                 https://www.amazon.com/C-Programming-Modern-Approach-2nd/dp/0393979504
+
+                Modern C by Jens Gustedt
+                https://modernc.gforge.inria.fr
 
         Java:
             Sources:
