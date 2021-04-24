@@ -809,6 +809,7 @@ Contents:
                 https://github.com/dennyzhang/cheatsheet-kubernetes-A4
                 https://github.com/eon01/kubernetes-workshop
                 https://github.com/jamiehannaford/what-happens-when-k8s
+                https://github.com/k8s-at-home/awesome-home-kubernetes
                 https://github.com/kelseyhightower/kubernetes-the-hard-way
                 https://github.com/kubernetes/kubernetes
                 https://github.com/LeCoupa/awesome-cheatsheets/blob/master/tools/kubernetes.md
@@ -852,7 +853,7 @@ Contents:
                 https://www.eksworkshop.com
                 https://www.flatcar-linux.org
                 https://www.katacoda.com/courses/kubernetes
-                https://www.reddit.com/r/kubernetes/comments/gldbkk/cka_exam_good_exercisemock_exam_resources
+                https://www.reddit.com/r/kubernetes/comments/mwpj1q/how_did_you_really_master_kubernetes
                 https://www.udemy.com/topic/kubernetes/?ratings=4.5&sort=popularity
                 https://youtu.be/0Omvgd7Hg1I (Life of a Packet [I] - Michael Rubin, Google)
                 https://pinboard.in/u:SharjeelSayed/t:kubernetes
