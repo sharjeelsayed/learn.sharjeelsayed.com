@@ -521,7 +521,6 @@ Contents:
             
         DevOps:
             Sources:
-                http://findlectures.com/?p=1&class1=Technology&category_l2_Technology=-DevOps
                 http://www.devopsbookmarks.com
                 https://github.com/AcalephStorage/awesome-devops
                 https://github.com/bregman-arie/devops-exercises
@@ -982,6 +981,7 @@ Contents:
                 https://github.com/jckuester/awsls (A list command for AWS resources)
                 https://github.com/localstack/localstack (A fully functional local AWS cloud stack)
                 https://github.com/nccgroup/aws-inventory (Discover resources created in an AWS account)
+                https://github.com/Netflix/consoleme (A Central Control Plane for AWS Permissions and Access)
                 https://github.com/rebuy-de/aws-nuke (Nuke a whole AWS account and delete all its resources.)
                 https://github.com/serverless/serverless
                 https://github.com/toniblyx/my-arsenal-of-aws-security-tools
@@ -1291,6 +1291,7 @@ Contents:
             Sources:
                 https://codewords.recurse.com/issues/two/git-from-the-inside-out
                 https://firstaidgit.io (A searchable collection of the most frequently asked Git Questions)
+                https://git-scm.com/book/en/v2/Git-Internals-Plumbing-and-Porcelain
                 https://git-scm.com/book/en/v2/Git-Tools-Reset-Demystified (Reset vs Checkout)
                 https://github.com/FAQGURU/FAQGURU/blob/master/topics/en/git.md (A list of interview questions)
                 https://github.com/gabrie30/ghorg (Quickly clone an entire org/users repositories into one directory - Supports GitHub, GitLab, Bitbucket, and more)
@@ -1310,6 +1311,7 @@ Contents:
                 https://ohshitgit.com
                 https://shalithasuranga.medium.com/how-does-git-work-internally-7c36dcb1f2cf
                 https://sourcegraph.com/search (Search public code)
+                https://stackoverflow.com/questions/tagged/git
                 https://techtldr.com/19-git-tips-for-everyday-use
                 https://www.reddit.com/r/git/top/?sort=top&t=all
                 https://www.reddit.com/r/programming/comments/fd9zpj/becoming_a_git_pro_part_1_internal_git/fjge9vy
@@ -1317,7 +1319,6 @@ Contents:
                 https://www.sublimemerge.com
                 https://www.toptal.com/developers/gitignore
                 https://www.udemy.com/topic/git/?ratings=4.5&sort=popularity
-                https://xosh.org/explain-git-in-simple-words
                 https://youtu.be/1ffBJ4sVUb4 ([Linux.conf.au 2013] - Git For Ages 4 And Up)
                 https://youtu.be/2sjqTHE0zok (Lecture 6: Version Control (git) (2020))
                 
@@ -1330,21 +1331,21 @@ Contents:
 
                 Learn Git Branching
                 https://learngitbranching.js.org
+                
+                Git from the Bottom Up
+                https://jwiegley.github.io/git-from-the-bottom-up
+                https://github.com/jwiegley/git-from-the-bottom-up
+                http://ftp.newartisans.com/pub/git.from.bottom.up.pdf
 
                 Complete Git Guide: Understand and master Git and GitHub by Bogdan Stashchuk
                 https://www.udemy.com/course/git-and-github-complete-guide
                 https://youtu.be/3FKrszHcIsA
 
-                Git from the Bottom Up
-                https://jwiegley.github.io/git-from-the-bottom-up
-                https://github.com/jwiegley/git-from-the-bottom-up
-                http://ftp.newartisans.com/pub/git.from.bottom.up.pdf
-                
             Additional Material:
                 Git Video Tutorial by Derek Banas
                 http://www.newthinktank.com/2014/04/git-video-tutorial
                 https://youtu.be/r63f51ce84A
-                
+
                 Git and GitHub for Poets by The Coding Train
                 https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV
 
@@ -2439,8 +2440,6 @@ Contents:
                 https://www.amazon.com/best-sellers-books-Amazon/zgbs/books
                 https://www.amazon.com/charts
                 https://www.amazon.com/gp/bestsellers/2020/books
-                https://www.bookbub.com
-                https://www.ereaderiq.com
                 https://www.goodreads.com/list
                 https://www.nytimes.com/section/books/review
                 https://www.reddit.com/r/AskReddit/comments/34m5n6/reddit_what_are_some_must_read_books
@@ -2456,27 +2455,26 @@ Contents:
                 https://pinboard.in/u:SharjeelSayed/t:learn
                 https://www.goodreads.com/SharjeelSayed
                 
-            Sites:
-                http://audiobookbay.nl
-                http://b-ok.org
-                http://breue.com/free_programming_books
-                http://ebb.la
-                http://findlectures.com
-                http://freebookspot.es
-                https://libgen.lc or https://libgen.is (https://en.wikipedia.org/wiki/Library_Genesis)
-                https://books.goalkicker.com
+            Sites: (Sorted by Alexa Rank)
+                https://www.oreilly.com (2,672)
+                https://www.gutenberg.org (6,947)
+                https://z-lib.org (7,764)
+                https://www.bookbub.com (8,749)
+                http://audiobookbay.nl (9,312)
+                https://1lib.in (23,377)
+                https://libgen.lc or https://libgen.is (https://en.wikipedia.org/wiki/Library_Genesis) (25,211)
+                https://forum.mobilism.org (35,907)
+                https://librivox.org (46,088)
+                https://ebookee.org (65,109)
+                https://books.goalkicker.com (84,815)
+                https://www.ereaderiq.com (121,075)
+                http://freebookspot.es (159,088)
+                https://standardebooks.org/ebooks (683,375)
+                http://breue.com/free_programming_books (1,030,459)
+                https://forcoder.su (1,156,891)
+                http://ebb.la (1,277,878)
                 https://cse.google.com/cse/publicurl?cx=001639227550064093264:dznewka3cca (Google Custom Search Engine for Ebooks)
                 https://cse.google.com/cse/publicurl?cx=011394183039475424659:5bfyqg89ers (Google Custom Search Engine for Ebooks)
-                https://ebookee.org
-                https://forcoder.su
-                https://forum.mobilism.org
-                https://librivox.org
-                https://standardebooks.org/ebooks
-                https://www.bookbub.com
-                https://www.ereaderiq.com
-                https://www.gutenberg.org
-                https://www.oreilly.com
-                https://z-lib.org
                 irc://irc.irchighway.net/ebooks
                 irc://irc.undernet.org/bookz
 
