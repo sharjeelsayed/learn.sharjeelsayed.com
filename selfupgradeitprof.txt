@@ -609,17 +609,14 @@ Contents:
                 Linux Journey
                 https://linuxjourney.com
 
-                The Linux Basics Course: Beginner to Sysadmin, Step by Step by tutoriaLinux
-                https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK
-                
-                UNIX and Linux System Administration Handbook (5th Edition)
-                https://www.amazon.com/UNIX-Linux-System-Administration-Handbook/dp/0134277554
-                
-                How Linux Works: What Every Superuser Should Know, Second Edition
-                https://www.amazon.com/How-Linux-Works-Superuser-Should/dp/1593275676
+                How Linux Works, 3rd Edition: What Every Superuser Should Know by Brian Ward
+                https://www.amazon.com/How-Linux-Works-Brian-Ward-ebook/dp/B07X7S1JMB
                 
                 RHCSA/RHCE Red Hat Linux Certification Study Guide, Seventh Edition (Exams EX200 & EX300)
                 https://www.amazon.com/RHCSA-Linux-Certification-Study-Seventh/dp/0071841962
+
+                UNIX and Linux System Administration Handbook (5th Edition)
+                https://www.amazon.com/UNIX-Linux-System-Administration-Handbook/dp/0134277554
                 
             Additional Material:
                 Linux From Scratch!
@@ -636,6 +633,9 @@ Contents:
                 
                 Product Documentation for Red Hat Enterprise Linux
                 https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux
+
+                The Linux Basics Course: Beginner to Sysadmin, Step by Step by tutoriaLinux
+                https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK
 
         FreeBSD:
             Sources:
@@ -751,6 +751,7 @@ Contents:
                 https://github.com/magicmark/composerize (Turns docker run commands into docker-compose files!)
                 https://github.com/p8952/bocker (Docker implemented in around 100 lines of bash)
                 https://github.com/quay/clair (Vulnerability Static Analysis for Containers)
+                https://github.com/quay/clair (Vulnerability Static Analysis for Containers)
                 https://github.com/tiangolo/dockerswarm.rocks
                 https://github.com/topics/docker?o=desc&s=stars
                 https://github.com/veggiemonk/awesome-docker
@@ -809,6 +810,7 @@ Contents:
                 https://github.com/eon01/kubernetes-workshop
                 https://github.com/jamiehannaford/what-happens-when-k8s
                 https://github.com/k8s-at-home/awesome-home-kubernetes
+                https://github.com/karmada-io/karmada (Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration)
                 https://github.com/kelseyhightower/kubernetes-the-hard-way
                 https://github.com/kubernetes/kubernetes
                 https://github.com/LeCoupa/awesome-cheatsheets/blob/master/tools/kubernetes.md
@@ -828,12 +830,14 @@ Contents:
                 https://kind.sigs.k8s.io
                 https://kompose.io (A conversion tool to go from Docker Compose to Kubernetes)
                 https://kops.sigs.k8s.io
+                https://kubenews.net (Kubernetes and Cloud Native Computing Foundation News Sources)
                 https://kubernetes.io/docs/concepts
                 https://kubernetes.io/docs/reference/kubectl/cheatsheet
                 https://kubernetes.io/docs/tasks
                 https://kubernetes.io/docs/tasks/manage-kubernetes-objects/imperative-command
                 https://kubernetes.io/training
                 https://kubernetesbyexample.com
+                https://kubernetesreadme.com (What books 📚 to read to learn more about Kubernetes)
                 https://labs.play-with-k8s.com
                 https://learning.oreilly.com/search/?query=kubernetes
                 https://medium.com/faun/35-advanced-tutorials-to-learn-kubernetes-dae5695b1f18
@@ -900,6 +904,7 @@ Contents:
                 https://www.cncf.io/certification/training
 
                 Support Groups
+                https://discuss.kubernetes.io (The official Kubernetes Discourse instance)
                 https://docs.google.com/forms/d/e/1FAIpQLSfdsupDfOWBtNVvVvXED6ULxtR4UIsYGCH_cQcRr0VcG1ZqQQ/viewform (https://istio.slack.com)
                 https://kubernauts-slack-join.herokuapp.com
                 https://slack.k8s.io
@@ -1303,6 +1308,7 @@ Contents:
                 https://github.com/pluralsight/git-internals-pdf/releases (A PDF by Scott Chacon about how the Git source code control system stores files and revisions.)
                 https://github.com/topics/git?o=desc&s=stars
                 https://github.com/toptal/gitignore.io
+                https://github.com/UnseenWizzard/git_training (An interactive git training meant to teach you how git works, not just which commands to execute)
                 https://grep.app (Search across a half million git repos)
                 https://jwiegley.github.io/git-from-the-bottom-up/1-Repository/7-branching-and-the-power-of-rebase.html (Best explanation of rebase vs merge)
                 https://news.ycombinator.com/item?id=21189256 (99% of the Git commands you'll need at work, demonstrated in a single script (bitbucket.org))
@@ -2912,6 +2918,7 @@ Contents:
             Sources:
                 https://devopsnewsletters.com
                 https://kill-the-newsletter.com
+                https://kubenews.net
                 https://news.ycombinator.com/item?id=22280939 (Ask HN: What are the underrated newsletters you like reading?)
 
             Sites: (Sorted by Alexa Rank)
