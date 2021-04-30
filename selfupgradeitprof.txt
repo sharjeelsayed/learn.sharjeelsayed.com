@@ -598,6 +598,7 @@ Contents:
                 https://news.ycombinator.com/item?id=3257393 (What's the one Linux command you wish you knew years ago?)
                 https://tldr.sh (Simplified and community-driven man pages)
                 https://tuxurls.com
+                https://www.amazon.com/Best-Sellers-Books-Linux-Operating-System/zgbs/books/3849 (Best Sellers in Linux Operating System)
                 https://www.digitalocean.com/community/tutorials?primary_filter=popular
                 https://www.reddit.com/r/linux/comments/gc1wmr/list_of_largest_linux_distro_subreddits
                 https://www.reddit.com/r/linux4noobs/wiki/resources
@@ -611,6 +612,9 @@ Contents:
 
                 How Linux Works, 3rd Edition: What Every Superuser Should Know by Brian Ward
                 https://www.amazon.com/How-Linux-Works-Brian-Ward-ebook/dp/B07X7S1JMB
+
+                The Linux Command Line by William Shotts
+                https://linuxcommand.org/tlcl.php
                 
                 RHCSA/RHCE Red Hat Linux Certification Study Guide, Seventh Edition (Exams EX200 & EX300)
                 https://www.amazon.com/RHCSA-Linux-Certification-Study-Seventh/dp/0071841962
@@ -1100,13 +1104,17 @@ Contents:
                 https://www.nginx.com/resources/wiki/start/topics/depth/ifisevil
                 https://www.nginx.com/resources/wiki/start/topics/examples/systemd
                 https://www.nginx.com/resources/wiki/start/topics/tutorials/config_pitfalls
+                https://www.udemy.com/topic/nginx/?ratings=4.5&sort=popularity
 
             Books and Courses:
+                The NGINX Handbook by Farhan Hasin Chowdhury
+                https://www.freecodecamp.org/news/the-nginx-handbook
+                
                 NGINX Fundamentals: High Performance Servers from Scratch by Ray Viljoen 
                 https://www.udemy.com/course/nginx-fundamentals
                 
-                NGINX HTTP Server - Third Edition
-                https://www.amazon.com/Nginx-HTTP-Server-Clement-Nedelcu-ebook/dp/B016DPU3JS
+                Nginx HTTP Server - Fourth Edition: Harness the power of Nginx to make the most of your infrastructure and serve pages faster than ever before by Martin Fjordvald and Clement Nedelcu
+                https://www.amazon.com/Nginx-HTTP-Server-Harness-infrastructure/dp/178862355X
                 
                 How to improve NGINX performance, security, and other important things
                 https://github.com/trimstray/nginx-admins-handbook
