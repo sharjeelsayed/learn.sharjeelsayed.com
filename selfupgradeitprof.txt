@@ -1306,6 +1306,7 @@ Contents:
                 https://firstaidgit.io (A searchable collection of the most frequently asked Git Questions)
                 https://git-scm.com/book/en/v2/Git-Internals-Plumbing-and-Porcelain
                 https://git-scm.com/book/en/v2/Git-Tools-Reset-Demystified (Reset vs Checkout)
+                https://github.com/dandavison/delta (A viewer for git and diff output)
                 https://github.com/FAQGURU/FAQGURU/blob/master/topics/en/git.md (A list of interview questions)
                 https://github.com/gabrie30/ghorg (Quickly clone an entire org/users repositories into one directory - Supports GitHub, GitLab, Bitbucket, and more)
                 https://github.com/git-tips/tips (Most commonly used git tips and tricks.)
@@ -1880,17 +1881,18 @@ Contents:
                 Eloquent JavaScript 3rd edition
                 https://eloquentjavascript.net
 
-                The Complete JavaScript Course 2020: From Zero to Expert! by Jonas Schmedtmann
+                The Complete JavaScript Course 2021: From Zero to Expert! by Jonas Schmedtmann
                 https://www.udemy.com/course/the-complete-javascript-course
 
                 Modern JavaScript Tutorial by The Net Ninja
                 https://www.youtube.com/playlist?list=PL4cUxeGkcC9haFPT7J25Q9GRB_ZkFrQAc
 
-                The Complete JavaScript Course 2020: From Zero to Expert! by Jonas Schmedtmann
-                https://www.udemy.com/course/the-complete-javascript-course
+                JavaScript: The Definitive Guide: Master the World's Most-Used Programming Language 7th Edition by David Flanagan
+                https://www.amazon.com/JavaScript-Definitive-Most-Used-Programming-Language/dp/1491952024
 
         Node.js:
             Sources:
+                https://github.com/goldbergyoni/nodebestpractices (The Node.js best practices list)
                 https://github.com/sindresorhus/awesome-nodejs
                 https://github.com/topics/nodejs?o=desc&s=stars
                 https://nodeschool.io
@@ -2166,6 +2168,7 @@ Contents:
                 https://news.ycombinator.com/item?id=18829691 (Ask HN: Fastest way to get started with freelancing?)
                 https://news.ycombinator.com/item?id=19133864 (Ask HN: How bad is freelancing?)
                 https://news.ycombinator.com/item?id=21728436 (Ask HN: What mistakes did you make when starting as a consultant/freelancer?)
+                https://news.ycombinator.com/item?id=26995874 (Ask HN: How did you transition from FTE to self-employed/sole proprietor?)
                 https://www.reddit.com/r/Upwork+forhire+freelance
                 https://www.upwork.com/press/2019/08/14/q2-2019-skills
                 https://www.upwork.com/press/2019/11/19/the-upwork-100-q3-2019
@@ -2731,6 +2734,7 @@ Contents:
                 https://fraidyc.at
                 https://github.com/greybax/awesome-IT-films
                 https://github.com/learn-anything/blogs
+                https://github.com/osmoscraft/osmosfeed (A web-based RSS reader running entirely from your GitHub repo.)
                 https://github.com/topics/blogs?o=desc&s=stars
                 https://news.vinc.cc
                 https://news.ycombinator.com/item?id=14086259 (Ask HN: Mailing lists that HN readers ought to know about?)
