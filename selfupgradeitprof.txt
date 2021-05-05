@@ -536,6 +536,7 @@ Contents:
                 https://octopus.com/blog/devops-reading-list
                 https://roadmap.sh/devops
                 https://www.linkedin.com/groups/2825397 (DevOps Group)
+                https://www.reddit.com/r/devops/comments/n2l9ja/which_are_your_favourite_youtube_channelsblogs
                 https://www.reddit.com/r/DevOps/wiki/resources
 
             Books and Courses:
@@ -677,6 +678,7 @@ Contents:
                 https://news.ycombinator.com/item?id=22975437 (Shell Productivity Tips and Tricks (balthazar-rouberol.com))
                 https://news.ycombinator.com/item?id=24880170 (/.bashrc VS –/.profile VS –/.bash_profile (leimao.github.io))
                 https://news.ycombinator.com/item?id=25069452 (Linux Command One-Liners (commandlinefu.com))
+                https://news.ycombinator.com/item?id=27023572 (	My Favorite One Liners (muhammadraza.me))
                 https://switowski.com/blog/favorite-cli-tools
                 https://www.reddit.com/r/usefulscripts
                 https://www.reddit.com/r/usefulscripts/top
@@ -803,6 +805,7 @@ Contents:
 
         Kubernetes:
             Sources:
+                https://100daysofkubernetes.io
                 https://argoproj.github.io/argo-cd
                 https://blog.pipetail.io/posts/2020-05-04-most-common-mistakes-k8s
                 https://blog.udemy.com/kubernetes-interview-questions
