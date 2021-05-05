@@ -143,7 +143,15 @@ Contents:
             https://spin.atomicobject.com/2015/05/15/obtaining-thorough-cs-background-online
             https://techdevguide.withgoogle.com
             https://www.amazon.com/Best-Sellers-Books-Computer-Science/zgbs/books/468204
+            https://www.classcentral.com/collection/ivy-league-moocs?subject=cs
+            https://www.classcentral.com/subject/cs
+            https://www.coursebuffet.com/sub/computer-science
+            https://www.coursera.org/browse/computer-science
+            https://www.edx.org/course/subject/computer-science
+            https://www.freecodecamp.org/news/free-courses-top-cs-universities
             https://www.google.com/about/careers/students/guide-to-technical-development.html
+            https://www.omscs.gatech.edu (Georgia Tech Online Master of Science in Computer Science)
+            https://www.openculture.com/computer_science_free_courses
             https://www.reddit.com/r/compsci/comments/20vbaw/what_book_made_you_a_better_computer_scientist
             https://www.reddit.com/r/compsci/comments/40mq3q/what_are_the_canon_books_in_computer_science
             https://www.reddit.com/r/compsci/comments/7s63d6/are_there_cs_related_podcast_to_listen_to
@@ -663,6 +671,7 @@ Contents:
         Bash:
             Sources:
                 https://github.com/alebcay/awesome-shell
+                https://github.com/alexanderepstein/Bash-Snippets (A collection of small bash scripts for heavy terminal users)
                 https://github.com/dylanaraps/pure-bash-bible
                 https://github.com/gleitz/howdoi (instant coding answers via the command line)
                 https://github.com/jlevy/the-art-of-command-line
@@ -1492,6 +1501,7 @@ Contents:
                 https://tools.tldr.run (Curated list of security tools for Hackers & Builders!)
                 https://twitter.com/thecybermentor/status/1343471818468978688 (So, you want to be a hacker: 2021 edition.)
                 https://www.cisecurity.org/cis-benchmarks
+                https://www.cybrary.it
                 https://www.edx.org/learn/cybersecurity
                 https://www.reddit.com/r/crypto/wiki
                 https://www.reddit.com/r/netsec/wiki
@@ -1631,7 +1641,6 @@ Contents:
         MOOC:
             Sources:
                 http://academictorrents.com
-                http://www.openculture.com/freeonlinecourses#Computer Science Courses
                 https://archive.org/search.php?query=subject%3A%22UC+Berkeley%22
                 https://blog.github.com/2018-03-20-top-10-courses-on-github
                 https://freelearninglist.org
@@ -1657,19 +1666,11 @@ Contents:
                 https://news.ycombinator.com/item?id=20583581 (Your favourite tutorial for total beginners?)
                 https://news.ycombinator.com/item?id=21450126 (Free Online Courses from Top Universities (openculture.com))
                 https://news.ycombinator.com/item?id=25245125 (Ask HN: Top Coursera Courses?)
-                https://www.classcentral.com/collection/ivy-league-moocs?subject=cs
                 https://www.classcentral.com/collection/top-free-online-courses
                 https://www.classcentral.com/starting-this-month
-                https://www.classcentral.com/subject/cs
-                https://www.coursebuffet.com/sub/computer-science
-                https://www.coursera.org/browse/computer-science
-                https://www.cybrary.it
-                https://www.edx.org/course/subject/computer-science
                 https://www.freecodecamp.org/news/best-online-courses
-                https://www.freecodecamp.org/news/free-courses-top-cs-universities
                 https://www.g2.com/reports/momentum-grid-report-for-technical-skills-development-winter-2021
                 https://www.masterclass.com
-                https://www.omscs.gatech.edu (Georgia Tech Online Master of Science in Computer Science)
                 https://www.real.discount (Discount coupons for Popular courses and MOOC Platforms)
                 https://www.reddit.com/r/DataHoarder/comments/c6fh4x/after_hoarding_over_50k_youtube_videos_here_is
                 https://www.reddit.com/r/sysadmin/comments/65wdum/whats_your_favorite_selfstudy_resource_paid_free
@@ -3274,6 +3275,7 @@ Contents:
         https://tldrlegal.com (Software Licenses in Plain English)
         https://twitter.com/search?q=Gone%20Free%20(from%3ASharjeelSayed)
         https://wizardzines.com
+        https://wizardzines.com/comics
         https://www.justwatch.com/in?genres=doc
         https://www.nala.ie/resources/better-handwriting-adults
         https://www.producthunt.com
