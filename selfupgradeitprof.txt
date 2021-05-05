@@ -503,27 +503,30 @@ Contents:
     DevOps/SRE/SysAdmin:
         Sources:
             https://discord.gg/NwfDnNj54T (A Cloud Guru Community Hub)
+            https://free-for.dev (This is a list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers)
+            https://github.com/255kb/stack-on-a-budget (A collection of services with great free tiers for developers on a budget.)
             https://github.com/Artemmkin/infrastructure-as-code-tutorial
             https://github.com/danluu/post-mortems
             https://github.com/dastergon/awesome-chaos-engineering
             https://github.com/madd86/awesome-system-design
-            https://github.com/ripienaar/free-for-dev
+            https://github.com/ripienaar/free-for-dev (A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev)
             https://github.com/theanalyst/awesome-distributed-systems
             https://github.com/topics/architecture?o=desc&s=stars
             https://github.com/trimstray/the-book-of-secret-knowledge
             https://landscape.cncf.io (CNCF Cloud Native Interactive Landscape)
+            https://news.ycombinator.com/item?id=14087880 (Ask HN: What are some great “Free” services provided by IBM, Amazon, etc.?)
             https://pauljerimy.com/wp-content/uploads/2020/03/IT_CareerRoadmap2020smol.png (IT Career Roadmap)
             https://www.atlassian.com/incident-management
             https://www.reddit.com/r/compsci+cscareerquestions+learnprogramming+linux+linuxadmin+netsec+networking+programming+sysadmin
             https://www.reddit.com/r/homelab/wiki/software
             https://www.reddit.com/r/ITCareerQuestions/comments/5nvltv/what_fieldsdisciplines_should_i_be_looking_into/dcf3ny0
             https://www.reddit.com/r/ITCareerQuestions/wiki
+            https://www.reddit.com/r/sysadmin/comments/4oxxgv/your_favorite_scripts_you_have_stolen_or_made
             
         DevOps:
             Sources:
                 http://www.devopsbookmarks.com
                 https://github.com/AcalephStorage/awesome-devops
-                https://github.com/bregman-arie/devops-exercises
                 https://github.com/bregman-arie/devops-resources
                 https://github.com/Leo-G/DevopsWiki
                 https://github.com/nmarus/docker-devops-box
@@ -3239,22 +3242,17 @@ Contents:
         https://en.wikipedia.org/wiki/List_of_common_misconceptions
         https://en.wikipedia.org/wiki/List_of_lists_of_lists
         https://en.wikipedia.org/wiki/Wikipedia:Vital_articles
-        https://free-for.dev (This is a list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers)
         https://freenode.net
-        https://github.com/255kb/stack-on-a-budget
         https://github.com/antontarasenko/smq/blob/master/reports/hackernews-links-in-comments.md (Most mentioned links in Hacker News comments, 2006–2015)
         https://github.com/instadoodledavid/Infosec-Deals-2020
         https://github.com/jbranchaud/til
-        https://github.com/jnv/lists
-        https://github.com/kautukkundan/Awesome-Profile-README-templates
-        https://github.com/ripienaar/free-for-dev
-        https://github.com/rsapkf/goodies
+        https://github.com/jnv/lists (The definitive list of lists (of lists) curated on GitHub and elsewhere )
+        https://github.com/rsapkf/42
         https://github.com/topics/awesome
         https://hackerspaces.org
         https://learn-anything.xyz
         https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#-48.5,-680.3,0
         https://news.ycombinator.com/item?id=12209446 (How to Read a Book [pdf])
-        https://news.ycombinator.com/item?id=14087880 (Ask HN: What are some great “Free” services provided by IBM, Amazon, etc.?)
         https://news.ycombinator.com/item?id=14637859 (Ask HN: What's your process for learning?)
         https://news.ycombinator.com/item?id=17272715 (Ask HN: Any resources to learn the fundamentals of critical thinking?)
         https://news.ycombinator.com/item?id=19521136 (Ask HN: What backpack are you using?)
@@ -3272,7 +3270,6 @@ Contents:
         https://news.ycombinator.com/item?id=25136258 (Ask HN: What is the best money you have spent on professional development?)
         https://news.ycombinator.com/item?id=25518730 (	Tips for a Better Life (lesswrong.com))
         https://redditfavorites.com (Reddit Favorites From 3.5 billion comments)
-        https://redditprofile.com (Find an Expert on Reddit)
         https://sourceful.co.uk (Discover the best public GoogleDocs and Sheets)
         https://tldrlegal.com (Software Licenses in Plain English)
         https://twitter.com/search?q=Gone%20Free%20(from%3ASharjeelSayed)
@@ -3285,7 +3282,6 @@ Contents:
         https://www.reddit.com/r/AskReddit/comments/6q2b8x/reddit_whats_become_clear_to_you_as_youve_gotten
         https://www.reddit.com/r/AskReddit/comments/70q5f2/reddit_what_are_the_most_useful_askreddit_posts
         https://www.reddit.com/r/india/wiki/useful_posts
-        https://www.reddit.com/r/sysadmin/comments/4oxxgv/your_favorite_scripts_you_have_stolen_or_made
 
     Support this page with these referral links:
         http://amex.in/refer/sHARJsCJfI (American Express)
