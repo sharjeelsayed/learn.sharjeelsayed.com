@@ -523,6 +523,7 @@ Contents:
             https://github.com/trimstray/the-book-of-secret-knowledge
             https://landscape.cncf.io (CNCF Cloud Native Interactive Landscape)
             https://news.ycombinator.com/item?id=14087880 (Ask HN: What are some great “Free” services provided by IBM, Amazon, etc.?)
+            https://news.ycombinator.com/item?id=20225118 (Ask HN: Best free compute and other resources for startups?)
             https://pauljerimy.com/wp-content/uploads/2020/03/IT_CareerRoadmap2020smol.png (IT Career Roadmap)
             https://www.atlassian.com/incident-management
             https://www.reddit.com/r/compsci+cscareerquestions+learnprogramming+linux+linuxadmin+netsec+networking+programming+sysadmin
@@ -1479,6 +1480,7 @@ Contents:
                 https://github.com/forter/security-101-for-saas-startups
                 https://github.com/Gr1mmie/Practical-Ethical-Hacking-Resources
                 https://github.com/Hack-with-Github/Awesome-Hacking
+                https://github.com/instadoodledavid/Infosec-Deals-2020
                 https://github.com/OWASP/CheatSheetSeries
                 https://github.com/qazbnm456/awesome-web-security
                 https://github.com/topics/oscp?o=desc&s=stars
@@ -2344,8 +2346,11 @@ Contents:
             https://alexvermeer.com/8760hours (8,760 Hours: How to get the most out of next year)
             https://collegeinfogeek.com/spaced-repetition-memory-technique
             https://en.wikipedia.org/wiki/Pomodoro_Technique
+            https://news.ycombinator.com/item?id=12209446 (How to Read a Book [pdf])
             https://news.ycombinator.com/item?id=14218408 (Ask HN: How do you keep improving?)
+            https://news.ycombinator.com/item?id=14637859 (Ask HN: What's your process for learning?)
             https://news.ycombinator.com/item?id=16202123 (How to Study: A Brief Guide (buffalo.edu))
+            https://news.ycombinator.com/item?id=21310030 (Ask HN: How do you share/organize knowledge at work and life?)
             https://news.ycombinator.com/item?id=23596471 (Ask HN: How do you take notes when reading a book?)
             https://www.comptia.org/testing/online-testing-interest-form
             https://www.coursera.org/learn/learning-how-to-learn
@@ -2386,16 +2391,20 @@ Contents:
                 https://news.ycombinator.com/item?id=23445382 (Show HN: Some Bookmarklets, I Use (ph-uhl.com))
 
             Extensions:
-                https://1blocker.com
-                https://addons.mozilla.org/en-US/firefox/addon/enhancer-for-youtube
+                https://addons.mozilla.org/en-GB/firefox/addon/foxytab
                 https://addons.mozilla.org/en-US/firefox/addon/minimalist-alexa-rank
                 https://addons.mozilla.org/en-US/firefox/addon/wayback-machine_new
                 https://addons.mozilla.org/en-US/firefox/search/?page=1&promoted=recommended&sort=users
-                https://darkreader.org
+                https://github.com/ClearURLs/Addon
+                https://github.com/Cookie-AutoDelete/Cookie-AutoDelete
+                https://github.com/deanishe/alfred-firefox
+                https://github.com/fuyu/alexa-rank-webextension
                 https://github.com/gorhill/uBlock
                 https://github.com/iamadamdev/bypass-paywalls-chrome
+                https://github.com/itsecurityco/to-google-translate
                 https://github.com/mozilla/contain-facebook
                 https://github.com/mozilla/multi-account-containers
+                https://keepa.com
                 https://languagetoolplus.com
                 https://newsit.benwinding.com
                 https://piro.sakura.ne.jp/xul/_treestyletab.html.en
@@ -2403,7 +2412,10 @@ Contents:
                 https://support.1password.com/getting-started-1password-x
                 https://support.mozilla.org/en-US/kb/focus
                 https://tabliss.io
+                https://www.eff.org/https-everywhere
+                https://www.fbpurity.com
                 https://www.joinhoney.com
+                https://www.mrfdev.com/enhancer-for-youtube
                 https://www.one-tab.com
 
         Books:
@@ -3245,24 +3257,18 @@ Contents:
         https://en.wikipedia.org/wiki/Wikipedia:Vital_articles
         https://freenode.net
         https://github.com/antontarasenko/smq/blob/master/reports/hackernews-links-in-comments.md (Most mentioned links in Hacker News comments, 2006–2015)
-        https://github.com/instadoodledavid/Infosec-Deals-2020
         https://github.com/jbranchaud/til
         https://github.com/jnv/lists (The definitive list of lists (of lists) curated on GitHub and elsewhere )
         https://github.com/rsapkf/42
         https://github.com/topics/awesome
         https://hackerspaces.org
         https://learn-anything.xyz
-        https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#-48.5,-680.3,0
-        https://news.ycombinator.com/item?id=12209446 (How to Read a Book [pdf])
-        https://news.ycombinator.com/item?id=14637859 (Ask HN: What's your process for learning?)
         https://news.ycombinator.com/item?id=17272715 (Ask HN: Any resources to learn the fundamentals of critical thinking?)
         https://news.ycombinator.com/item?id=19521136 (Ask HN: What backpack are you using?)
         https://news.ycombinator.com/item?id=20007108 (Ask HN: Do you keep a personal knowledge repository?)
         https://news.ycombinator.com/item?id=20110922 (How to Draw Animals (1930) (dessinoprimaire.blogspot.com))
         https://news.ycombinator.com/item?id=20146168 (Sleep tweaks boost night owls' wellbeing (bbc.com))
-        https://news.ycombinator.com/item?id=20225118 (Ask HN: Best free compute and other resources for startups?)
         https://news.ycombinator.com/item?id=20371095 (Ask HN: Best Office Chair for Remote (Home Office) Work)
-        https://news.ycombinator.com/item?id=21310030 (Ask HN: How do you share/organize knowledge at work and life?)
         https://news.ycombinator.com/item?id=21373931 (Ask HN: What do you automate in your life and work?)
         https://news.ycombinator.com/item?id=21581361 (Ask HN: What's the most valuable thing you can learn in an hour?)
         https://news.ycombinator.com/item?id=22849208 (Ask HN: Programs that saved you 100 hours?)
@@ -3274,7 +3280,6 @@ Contents:
         https://sourceful.co.uk (Discover the best public GoogleDocs and Sheets)
         https://tldrlegal.com (Software Licenses in Plain English)
         https://twitter.com/search?q=Gone%20Free%20(from%3ASharjeelSayed)
-        https://wizardzines.com
         https://wizardzines.com/comics
         https://www.justwatch.com/in?genres=doc
         https://www.nala.ie/resources/better-handwriting-adults
