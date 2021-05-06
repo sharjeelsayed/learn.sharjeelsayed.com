@@ -1964,6 +1964,7 @@ Contents:
                 https://github.com/topics/leetcode?o=desc&s=stars
                 https://github.com/viraptor/reverse-interview
                 https://hn.algolia.com/?query=interview&sort=byPopularity&prefix&page=0&dateRange=all&type=story
+                https://mysteries.wizardzines.com
                 https://news.ycombinator.com/item?id=11246917 (How to Pass a Programming Interview)
                 https://news.ycombinator.com/item?id=14037313 (Questions to ask at the end of a technical interview)
                 https://news.ycombinator.com/item?id=14218559 (How to talk about yourself in a developer interview)
