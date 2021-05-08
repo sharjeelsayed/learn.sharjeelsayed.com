@@ -1412,18 +1412,33 @@ Contents:
 
         Vim:
             Sources:
+                http://derekwyatt.org/vim/tutorials
+                http://vimcasts.org (Learn essential Vim skills with Drew Neil, author of Practical Vim)
+                http://zzapper.co.uk/vimtips.html
+                https://github.com/learnbyexample/scripting_course/blob/master/Vim_curated_resources.md
                 https://github.com/LeCoupa/awesome-cheatsheets/blob/master/tools/vim.txt
+                https://github.com/mhinz/vim-galore (All things Vim!)
+                https://github.com/neovim/neovim
+                https://github.com/topics/vim?o=desc&s=stars
+                https://laymanclass.com/vim-essential-setup-to-boost-your-productivity
                 https://news.ycombinator.com/item?id=15400037 (Interactive Vim tutorial)
                 https://news.ycombinator.com/item?id=2936670 (Learn Vim Progressively)
                 https://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim#1220118
+                https://stackoverflow.com/questions/726894/what-are-the-dark-corners-of-vim-your-mom-never-told-you-abouts
+                https://stackoverflow.com/questions/tagged/vim
+                https://youtu.be/XA2WjJbmmoM (How to Do 90% of What Plugins Do (With Just Vim))
                 https://pinboard.in/u:SharjeelSayed/t:vim
                 
             Books and Courses:
+                vimtutor
+                https://vimhelp.org/usr_01.txt.html#vimtutor
+
                 Learn Vim Progressively
                 http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively
                 
                 Practical Vim: Edit Text at the Speed of Thought , 2nd Edition (2015) by Drew Neil 
                 https://www.amazon.com/Practical-Vim-Edit-Speed-Thought/dp/1680501275
+                https://learning.oreilly.com/library/view/practical-vim-2nd/9781680501629
 
                 The Valuable Dev
                 https://thevaluable.dev/vim-beginner
@@ -1549,6 +1564,7 @@ Contents:
 
         macOS:
             Sources:
+                https://blog.bejarano.io/hardening-macos
                 https://defkey.com/apple-macos-shortcuts
                 https://dotfilehub.com
                 https://github.com/donnemartin/dev-setup
@@ -2949,6 +2965,8 @@ Contents:
         NewsLetters:
             Sources:
                 https://devopsnewsletters.com
+                https://github.com/topics/newsletter?o=desc&s=stars
+                https://github.com/zudochkin/awesome-newsletters
                 https://kill-the-newsletter.com
                 https://kubenews.net
                 https://news.ycombinator.com/item?id=22280939 (Ask HN: What are the underrated newsletters you like reading?)
