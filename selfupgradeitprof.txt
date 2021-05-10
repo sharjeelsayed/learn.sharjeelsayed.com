@@ -1318,22 +1318,23 @@ Contents:
 
         Git:
             Sources:
+                https://about.gitlab.com/images/press/git-cheat-sheet.pdf 
                 https://codewords.recurse.com/issues/two/git-from-the-inside-out
                 https://firstaidgit.io (A searchable collection of the most frequently asked Git Questions)
                 https://git-scm.com/book/en/v2/Git-Internals-Plumbing-and-Porcelain
                 https://git-scm.com/book/en/v2/Git-Tools-Reset-Demystified (Reset vs Checkout)
-                https://github.com/dandavison/delta (A viewer for git and diff output)
                 https://github.com/FAQGURU/FAQGURU/blob/master/topics/en/git.md (A list of interview questions)
+                https://github.com/LeCoupa/awesome-cheatsheets/blob/master/tools/git.sh
+                https://github.com/UnseenWizzard/git_training (An interactive git training meant to teach you how git works, not just which commands to execute)
+                https://github.com/dandavison/delta (A viewer for git and diff output)
                 https://github.com/gabrie30/ghorg (Quickly clone an entire org/users repositories into one directory - Supports GitHub, GitLab, Bitbucket, and more)
                 https://github.com/git-tips/tips (Most commonly used git tips and tricks.)
                 https://github.com/github/hub (A command-line tool that makes git easier to use with GitHub.)
                 https://github.com/jesseduffield/lazygit (simple terminal UI for git commands)
                 https://github.com/k88hudson/git-flight-rules (Flight rules for git)
-                https://github.com/LeCoupa/awesome-cheatsheets/blob/master/tools/git.sh
                 https://github.com/pluralsight/git-internals-pdf/releases (A PDF by Scott Chacon about how the Git source code control system stores files and revisions.)
                 https://github.com/topics/git?o=desc&s=stars
                 https://github.com/toptal/gitignore.io
-                https://github.com/UnseenWizzard/git_training (An interactive git training meant to teach you how git works, not just which commands to execute)
                 https://grep.app (Search across a half million git repos)
                 https://jwiegley.github.io/git-from-the-bottom-up/1-Repository/7-branching-and-the-power-of-rebase.html (Best explanation of rebase vs merge)
                 https://news.ycombinator.com/item?id=21189256 (99% of the Git commands you'll need at work, demonstrated in a single script (bitbucket.org))
@@ -1415,17 +1416,23 @@ Contents:
                 http://derekwyatt.org/vim/tutorials
                 http://vimcasts.org (Learn essential Vim skills with Drew Neil, author of Practical Vim)
                 http://zzapper.co.uk/vimtips.html
+                https://github.com/amix/vimrc (The ultimate Vim configuration (vimrc) )
                 https://github.com/learnbyexample/scripting_course/blob/master/Vim_curated_resources.md
                 https://github.com/LeCoupa/awesome-cheatsheets/blob/master/tools/vim.txt
                 https://github.com/mhinz/vim-galore (All things Vim!)
                 https://github.com/neovim/neovim
+                https://github.com/topics/dotfiles?o=desc&s=stars
                 https://github.com/topics/vim?o=desc&s=stars
+                https://github.com/topics/vimrc?o=desc&s=stars
+                https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=vim%20&sort=byPopularity&type=all
+                https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=vimrc%20&sort=byPopularity&type=all
                 https://laymanclass.com/vim-essential-setup-to-boost-your-productivity
                 https://news.ycombinator.com/item?id=15400037 (Interactive Vim tutorial)
                 https://news.ycombinator.com/item?id=2936670 (Learn Vim Progressively)
                 https://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim#1220118
                 https://stackoverflow.com/questions/726894/what-are-the-dark-corners-of-vim-your-mom-never-told-you-abouts
                 https://stackoverflow.com/questions/tagged/vim
+                https://vim.fandom.com
                 https://youtu.be/XA2WjJbmmoM (How to Do 90% of What Plugins Do (With Just Vim))
                 https://pinboard.in/u:SharjeelSayed/t:vim
                 
@@ -1435,10 +1442,17 @@ Contents:
 
                 Learn Vim Progressively
                 http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively
+
+                Learn Vim For the Last Time: A Tutorial and Primer
+                https://danielmiessler.com/study/vim
                 
                 Practical Vim: Edit Text at the Speed of Thought , 2nd Edition (2015) by Drew Neil 
-                https://www.amazon.com/Practical-Vim-Edit-Speed-Thought/dp/1680501275
                 https://learning.oreilly.com/library/view/practical-vim-2nd/9781680501629
+                https://pragprog.com/titles/dnvim2/practical-vim-second-edition
+                https://www.amazon.com/Practical-Vim-Edit-Speed-Thought/dp/1680501275
+
+                Modern Vim: Craft Your Development Environment with Vim 8 and Neovim by Drew Neil
+                https://www.amazon.com/Modern-Vim-Development-Environment-Neovim/dp/168050262X
 
                 The Valuable Dev
                 https://thevaluable.dev/vim-beginner
@@ -1750,6 +1764,7 @@ Contents:
                 https://github.com/donnemartin/interactive-coding-challenges
                 https://github.com/huangsam/ultimate-python
                 https://github.com/ml-tooling/best-of-web-python
+                https://github.com/pamoroso/free-python-books
                 https://github.com/pyenv/pyenv
                 https://github.com/TheAlgorithms/Python/blob/master/DIRECTORY.md
                 https://github.com/topics/python?o=desc&s=stars
@@ -1972,6 +1987,7 @@ Contents:
         Interview Guides:
             Sources:
                 http://blog.interviewing.io/what-really-matters-in-technical-interviews-we-analyzed-thousands-of-interviews-on-everything-from-language-to-code-style-heres-what-we-found
+                https://github.com/DopplerHQ/awesome-interview-questions
                 https://github.com/kdn251/interviews
                 https://github.com/mxssl/sre-interview-prep-guide
                 https://github.com/Olshansk/interview
@@ -2226,10 +2242,11 @@ Contents:
                 https://cofounderslab.com
                 https://diataxis.fr (The Grand Unified Theory of Documentation)
                 https://github.com/dakshshah96/awesome-startup-credits (A collection of awesome companies offering free/discounted plans for eligible startups)
-                https://github.com/dwmkerr/hacker-laws
+                https://github.com/dwmkerr/hacker-laws (Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws )
                 https://github.com/kuchin/awesome-cto (A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups)
-                https://github.com/ryanburgess/engineer-manager
-                https://github.com/VGraupera/1on1-questions
+                https://github.com/PharkMillups/beautiful-docs (Pointers to useful, well-written, and otherwise beautiful documentation.)
+                https://github.com/ryanburgess/engineer-manager (A list of engineering manager resource links. )
+                https://github.com/VGraupera/1on1-questions (Mega list of 1 on 1 meeting questions compiled from a variety to sources)
                 https://news.ycombinator.com/item?id=11209066 (Why you probably don't need an MBA)
                 https://news.ycombinator.com/item?id=13207268 (Ask HN: How do I get freelance developer jobs?)
                 https://news.ycombinator.com/item?id=13855577 (Ask HN: What do you use to align your daily todos with your long term goals?)
@@ -2421,6 +2438,7 @@ Contents:
                 https://github.com/itsecurityco/to-google-translate
                 https://github.com/mozilla/contain-facebook
                 https://github.com/mozilla/multi-account-containers
+                https://github.com/philc/vimium
                 https://keepa.com
                 https://languagetoolplus.com
                 https://newsit.benwinding.com
