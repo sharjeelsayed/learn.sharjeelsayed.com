@@ -1216,6 +1216,7 @@ Contents:
                 https://medium.com/@brenspiration/free-online-courses-on-kubernetes-docker-products-terraform-2a3cd296ce95
                 https://registry.terraform.io
                 https://scalr.com/blog/top-20-terraform-providers
+                https://terraform-docs.io (Generate Terraform modules documentation in various formats.)
                 https://terragrunt.gruntwork.io
                 https://terratest.gruntwork.io
                 https://www.facebook.com/groups/840062592768074 (Learn DevOps: Continuously Deliver Better Software)
