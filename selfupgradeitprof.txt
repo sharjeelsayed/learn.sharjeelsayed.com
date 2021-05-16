@@ -1422,7 +1422,6 @@ Contents:
                 https://github.com/LeCoupa/awesome-cheatsheets/blob/master/tools/vim.txt
                 https://github.com/mhinz/vim-galore (All things Vim!)
                 https://github.com/neovim/neovim
-                https://github.com/topics/dotfiles?o=desc&s=stars
                 https://github.com/topics/vim?o=desc&s=stars
                 https://github.com/topics/vimrc?o=desc&s=stars
                 https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=vim%20&sort=byPopularity&type=all
@@ -1588,7 +1587,6 @@ Contents:
                 https://github.com/herrbischoff/awesome-macos-command-line
                 https://github.com/iCHAIT/awesome-macOS
                 https://github.com/jaywcjlove/awesome-mac
-                https://github.com/mathiasbynens/dotfiles
                 https://github.com/mathiasbynens/dotfiles (🔧 .files, including ~/.macos — sensible hacker defaults for macOS)
                 https://github.com/nikitavoloboev/my-mac-os
                 https://github.com/rgcr/m-cli ( Swiss Army Knife for macOS)
@@ -1678,6 +1676,7 @@ Contents:
                 https://blog.github.com/2018-03-20-top-10-courses-on-github
                 https://freelearninglist.org
                 https://github.com/gerryguy311/CyberProfDevelopmentCovidResources
+                https://github.com/JanVanRyswyck/awesome-talks (Awesome online talks and screencasts )
                 https://github.com/JoseDeFreitas/awesome-youtubers
                 https://github.com/learn-awesome/learn-awesome
                 https://github.com/merry75/educative.io_courses
@@ -2009,6 +2008,7 @@ Contents:
                 https://news.ycombinator.com/item?id=18253999 (C++ Programming Questions to Ask on Interview (2017) (tests4geeks.com))
                 https://news.ycombinator.com/item?id=20916749 (Questions to ask a company during a job interview (github.com))
                 https://news.ycombinator.com/item?id=26854130 (Questions to ask in a job interview that reveal company culture (fastcompany.com))
+                https://news.ycombinator.com/item?id=27161901 (Ask HN: What lessons did you learn from your best or worst colleagues?)
                 https://www.naukri.com/pulse/top-it-skills
                 https://www.reddit.com/r/AskReddit/comments/74sskj/what_are_some_red_flags_in_a_job_interview
                 https://www.reddit.com/r/AskReddit/comments/9vbwy8/what_are_good_questions_to_ask_potential
@@ -2985,17 +2985,19 @@ Contents:
             Sources:
                 https://devopsnewsletters.com
                 https://github.com/topics/newsletter?o=desc&s=stars
+                https://github.com/topics/newsletters?o=desc&s=stars
                 https://github.com/zudochkin/awesome-newsletters
+                https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=newsletter&sort=byPopularity&type=all
                 https://kill-the-newsletter.com
                 https://kubenews.net
                 https://news.ycombinator.com/item?id=22280939 (Ask HN: What are the underrated newsletters you like reading?)
 
             Sites: (Sorted by Alexa Rank)
-                https://thenewstack.io/newsletter-archive (40,173)
-                https://ma.ttias.be/cronweekly (65,936)
-                https://danielmiessler.com/newsletter (82,331)
-                https://www.ben-evans.com/newsletter (88,204)
-                https://www.schneier.com/crypto-gram (126,206)
+                https://stratechery.com (31,753)
+                https://thenewstack.io/newsletter-archive (33,165)
+                https://www.ben-evans.com/newsletter (68,200)
+                https://danielmiessler.com/newsletter (87,140)
+                https://www.schneier.com/crypto-gram (124,344)
                 https://www.lastweekinaws.com (425,861)
                 https://hackernewsletter.com (873,902)
                 https://devopsish.com (2,523,997)
@@ -3298,7 +3300,9 @@ Contents:
         https://github.com/jbranchaud/til
         https://github.com/jnv/lists (The definitive list of lists (of lists) curated on GitHub and elsewhere )
         https://github.com/rsapkf/42
+        https://github.com/TheLocehiliosan/yadm (Yet Another Dotfiles Manager)
         https://github.com/topics/awesome
+        https://github.com/topics/dotfiles?o=desc&s=stars
         https://hackerspaces.org
         https://learn-anything.xyz
         https://news.ycombinator.com/item?id=17272715 (Ask HN: Any resources to learn the fundamentals of critical thinking?)
