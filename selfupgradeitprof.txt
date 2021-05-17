@@ -535,6 +535,7 @@ Contents:
         DevOps:
             Sources:
                 http://www.devopsbookmarks.com
+                https://devopsnewsletters.com
                 https://github.com/AcalephStorage/awesome-devops
                 https://github.com/bregman-arie/devops-resources
                 https://github.com/Leo-G/DevopsWiki
@@ -570,6 +571,7 @@ Contents:
                 https://gitlab.com/gitlab-com/runbooks (Run books for the stressed on call )
                 https://news.ycombinator.com/item?id=14153545 (What Is ‘Site Reliability Engineering’?)
                 https://sre.google/books
+                https://sreweekly.com
                 https://www.meetup.com/topics/site-reliability-engineering
                 https://www.usenix.org/srecon
 
@@ -2873,7 +2875,7 @@ Contents:
                     https://www.macrumors.com (2,827)
                     https://www.zdnet.com (3,454)
                     https://www.techrepublic.com (3,554)
-                    https://arstechnica.com (4,422)
+                    https://arstechnica.com (3,977)
                     https://www.imore.com (5,513)
                     https://9to5mac.com (5,589)
                     https://venturebeat.com (5,951)
@@ -2999,14 +3001,14 @@ Contents:
                 https://danielmiessler.com/newsletter (87,140)
                 https://www.schneier.com/crypto-gram (124,344)
                 https://www.lastweekinaws.com (425,861)
-                https://hackernewsletter.com (873,902)
+                https://hackernewsletter.com (850,211)
                 https://devopsish.com (2,523,997)
                 https://softwareleadweekly.com (2,607,781)
                 https://sreweekly.com (2,618,415)
                 https://www.devopsweekly.com (3,945,939)
                 https://kubeweekly.io (6,389,097)
                 https://thisweekindevops.com (5,288,621)
-                https://ipj.dreamhosters.com (The Internet Protocol Journal)
+                https://ipj.dreamhosters.com (The Internet Protocol Journal) (9,323,436)
 
         Podcasts:
             Sources:
