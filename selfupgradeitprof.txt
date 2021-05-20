@@ -681,6 +681,7 @@ Contents:
                 https://github.com/junegunn/fzf (A command-line fuzzy finder)
                 https://github.com/koalaman/shellcheck
                 https://github.com/learnbyexample/Command-line-text-processing
+                https://github.com/nvbn/thefuck
                 https://github.com/onceupon/Bash-Oneliner
                 https://github.com/pirate/bash-utils
                 https://github.com/rothgar/awesome-tuis (List of projects that provide terminal user interfaces )
@@ -3278,6 +3279,7 @@ Contents:
                 https://dwheeler.com/chess-openings
                 https://en.wikibooks.org/wiki/Chess
                 https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=chess&sort=byPopularity&type=all
+                https://www.chess.com/article/view/10-positions-chess-engines-just-dont-understand
                 https://www.chess.com/puzzles
                 https://www.chessgames.com/chessstats.html
                 https://www.chesstactics.org
