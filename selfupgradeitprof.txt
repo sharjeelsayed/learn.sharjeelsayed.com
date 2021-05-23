@@ -216,6 +216,7 @@ Contents:
                 https://github.com/EbookFoundation/free-programming-books
                 https://github.com/kamranahmedse/developer-roadmap
                 https://github.com/LeCoupa/awesome-cheatsheets
+                https://github.com/mehdihadeli/awesome-software-architecture (A curated list of awesome articles and resources to learn and practice about software architecture, patterns, and principles)
                 https://github.com/Michael0x2a/curated-programming-resources
                 https://github.com/mtdvio/every-programmer-should-know
                 https://github.com/P1xt/p1xt-guides
@@ -1208,6 +1209,7 @@ Contents:
 
         Terraform:
             Sources:
+                https://acloudguru.com/blog/engineering/the-ultimate-terraform-cheatsheet
                 https://github.com/antonbabenko/terraform-best-practices
                 https://github.com/Artemmkin/infrastructure-as-code-tutorial
                 https://github.com/camptocamp/terraboard (A web dashboard to inspect Terraform States)
@@ -1240,6 +1242,9 @@ Contents:
 
                 More than Certified in Terraform by Derek Morgan
                 https://www.udemy.com/course/terraform-certified
+                https://github.com/morethancertified/mtc-terraform
+                https://courses.derekops.com/terraform
+                https://techstudyslack.slack.com/archives/C01E7UKHR34
                 
                 Terraform: Up & Running: Writing Infrastructure as Code 2nd Edition By Yevgeniy Brikman
                 https://www.terraformupandrunning.com
