@@ -2,7 +2,7 @@ Curated Self Study Guide for Computer Science, DevOps, SRE & SysAdmin
 
     The latest copy of this page is at http://Learn.SharjeelSayed.com
     Star/Watch/Fork at https://github.com/sharjeelsayed/learn.sharjeelsayed.com
-    
+
     About me: SharjeelSayed.com
 
 Contents:
@@ -163,14 +163,14 @@ Contents:
             https://www.reddit.com/r/learnprogramming/comments/ani7nb/psa_many_of_berkeleys_courses_have_lectures_and
             https://www.scotthyoung.com/blog/myprojects/mit-challenge-2
             https://pinboard.in/u:SharjeelSayed/t:cs
-        
+
         Books and Courses:
             Teach Yourself Computer Science
             https://teachyourselfcs.com
-            
+
             Path to a free self-taught education in Computer Science!
             https://github.com/ossu/computer-science
-            
+
             Structure and Interpretation of Computer Programs - 2nd Edition
             http://inst.eecs.berkeley.edu/~cs61a/fa16 (Instructor: John DeNero)
             http://inst.eecs.berkeley.edu/~cs61a/sp17
@@ -184,7 +184,7 @@ Contents:
             https://mitpress.mit.edu/sites/default/files/sicp/index.html
             https://opendocs.github.io/sicp/sicp.pdf
             https://wizardforcel.gitbooks.io/sicp-in-python
-            
+
             Computer Systems: A Programmer's Perspective (3rd Edition)
             https://www.amazon.com/Computer-Systems-Programmers-Perspective-3rd/dp/013409266X
             http://csapp.cs.cmu.edu/3e/home.html
@@ -292,40 +292,40 @@ Contents:
                 https://www.reddit.com/r/programming/comments/6l689j/a_manually_curated_list_of_240_popular
                 https://www.theodinproject.com
                 https://www.udacity.com/course/intro-to-computer-science--cs101
-            
+
             Books and Courses:
                 CS50 Introduction to Computer Science , Harvard University
                 https://www.edx.org/course/introduction-computer-science-harvardx-cs50x
-                
+
                 Introduction to Computer Science and Programming Using Python , MIT
                 https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11
-                
+
                 How to Design Programs, Second Edition
                 http://www.htdp.org/2018-01-06/Book
 
         Computer Architecture:
             Sources:
                 https://news.ycombinator.com/item?id=14526344 (Build a Modern Computer from First Principles: Nand to Tetris Part II)
-            
+
             Books and Courses:
                 The Elements of Computing Systems: Building a Modern Computer from First Principles
                 https://www.amazon.com/Elements-Computing-Systems-Building-Principles/dp/0262640686
                 http://www.nand2tetris.org
                 http://nandgame.com
-                
+
                 Computer Organization and Design MIPS Edition, Fifth Edition
                 https://www.amazon.com/gp/product/0124077269
-                
+
                 Computer Science 61C, UCBerkeley 001 - Spring 2015
                 https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iCl2-D-FS5mk0jFF6cYSJs_?sort=titleSorter
-                
+
                 Computation Structures | Electrical Engineering and Computer Science | MIT OpenCourseWare
                 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-004-computation-structures-spring-2009
-                
+
             Additional Material:
                 Modern Microprocessors A 90-Minute Guide! A brief, pulls-no-punches, fast-paced introduction to the main design aspects of modern processor microarchitecture
                 http://www.lighterra.com/papers/modernmicroprocessors
-                
+
                 Computer Architecture, Fifth Edition: A Quantitative Approach (The Morgan Kaufmann Series in Computer Architecture and Design) 5th Edition
                 https://www.amazon.com/Computer-Architecture-Fifth-Quantitative-Approach/dp/012383872X
 
@@ -351,14 +351,14 @@ Contents:
                 https://link.springer.com/book/10.1007/978-1-84800-070-4
                 http://www3.cs.stonybrook.edu/~algorith/video-lectures (Steven Skiena Dept. of Computer Science Stony Brook University Video Lectures)
                 https://www.youtube.com/playlist?list=PLOtl7M3yp-DX32N0fVIyvn7ipWKNGmwpp (CSE373 - Analysis of Algorithms 2016 SBU)
-                
+
                 Algorithms by S. Dasgupta, C. H. Papadimitriou, and U. V. Vazirani
                 http://algorithmics.lsi.upc.edu/docs/Dasgupta-Papadimitriou-Vazirani.pdf
-                
+
             Additional Material:
                 Introduction to Algorithms, 3rd Edition
                 https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844
-                
+
                 Algorithms by Jeff Erickson
                 http://jeffe.cs.illinois.edu/teaching/algorithms
 
@@ -381,14 +381,14 @@ Contents:
             Books and Courses:
                 Lecture notes by László Lovász
                 http://www.cs.elte.hu/~lovasz/dmbook.ps
-                
+
                 Mathematics for Computer Science , MIT
                 https://courses.csail.mit.edu/6.042/spring17/mcs.pdf
                 https://www.youtube.com/playlist?list=PLUl4u3cNGP60UlabZBeeqOuoLuj_KNphQ (MIT 6.042J Mathematics for Computer Science, Spring 2015 YouTube)
-                
+
                 Essence of linear algebra
                 https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
-                
+
                 Introduction to Linear Algebra, Fifth Edition
                 https://www.amazon.com/Introduction-Linear-Algebra-Gilbert-Strang/dp/0980232775
 
@@ -403,14 +403,14 @@ Contents:
                 Operating Systems: Three Easy Pieces
                 http://pages.cs.wisc.edu/~remzi/OSTEP
                 http://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/Discussion/videos.html (Video Course based on the book by CS 537 at Wisconsin with Remzi)
-                
+
                 Computer Science 162, 001 - Spring 2015. Operating Systems and System Programming - John Kubiatowicz UCBerkeley
                 https://archive.org/details/ComputerScience162001Spring2012
-                
+
             Additional Material:
                 Operating System Concepts , 9th Edition
                 https://www.amazon.com/dp/1118063333
-                
+
                 Modern Operating Systems , 4th Edition
                 https://www.amazon.com/dp/013359162X
 
@@ -430,36 +430,36 @@ Contents:
                 The Bits and Bytes of Computer Networking -Grow with Google
                 https://www.coursera.org/learn/computer-networking
                 https://youtu.be/QKfk7YFILws (Computer Networking Complete Course by Google - Beginner to Advanced)
-                
+
                 Computer Networking: A Top-Down Approach (7th Edition)
                 https://www.amazon.com/Computer-Networking-Top-Down-Approach-7th/dp/0133594149
                 http://www-net.cs.umass.edu/wireshark-labs (Supplements: Wireshark Labs)
-                
+
                 CS144 Introduction to Computer Networking Stanford University
                 https://www.youtube.com/playlist?list=PLvFG2xYBrYAQCyz4Wx3NPoYJOFjvU7g2Z
-                
+
                 High Performance Browser Networking
                 https://hpbn.co
-                
+
                 Beej's Guide to Network Programming
                 http://beej.us/guide/bgnet
-                
+
                 Unix Network Programming, Volume 1: The Sockets Networking API (3rd Edition)
                 https://www.amazon.com/Unix-Network-Programming-Sockets-Networking/dp/0131411551
-                
+
             Additional Material:
                 CCNA Routing and Switching 200-125 Official Cert Guide Library
                 https://www.amazon.com/Routing-Switching-200-125-Official-Library/dp/1587205815
-                
+
                 Cisco Certified Network Associate (200-301 CCNA) Online Training by Jeremey Cioara, Keith Barker and Chuck Keith
                 https://www.cbtnuggets.com/it-training/cisco/ccna
-                
+
                 Eli The Computer Guy
                 https://www.youtube.com/playlist?list=PLF360ED1082F6F2A5
-                
+
                 Load Balancing Servers, Firewalls, and Caches
                 https://www.amazon.com/Load-Balancing-Servers-Firewalls-Caches/dp/0471415502
-                
+
                 Professor Messer’s CompTIA N10-007 Network+ Course
                 https://www.professormesser.com/network-plus/n10-007/n10-007-training-course
 
@@ -484,28 +484,28 @@ Contents:
 
                 15-721 Advanced Database Systems (Spring 2020)
                 https://www.youtube.com/playlist?list=PLSE8ODhjZXjasmrEd2_Yi1deeE360zv5O
-                
+
                 Database Internals: A Deep Dive into How Distributed Data Systems Work
                 https://www.amazon.com/gp/product/1492040347
-                
+
                 Architecture of a Database System
                 http://db.cs.berkeley.edu/papers/fntdb07-architecture.pdf
-                
+
                 Readings in Database Systems
                 http://www.redbook.io
-                
+
                 Computer Science 186, 001 - Spring 2015 UCBerkeley Introduction to Database Systems - Joseph Hellerstein
                 https://archive.org/details/UCBerkeley_Course_Computer_Science_186
-                
+
                 Stanford's Databases MOOC
                 https://cs.stanford.edu/people/widom/DB-mooc.html
-                
+
                 Database Design by Caleb Curry
                 https://www.youtube.com/playlist?list=PL_c9BZzLwBRK0Pc28IdvPQizD2mJlgoID
-                
+
                 Database Design for Mere Mortals: A Hands-On Guide to Relational Database Design (3rd Edition)
                 https://www.amazon.com/Database-Design-Mere-Mortals-Hands/dp/0321884493
-                
+
                 Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems
                 https://dataintensive.net
                 https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable-ebook/dp/B06XPJML5D
@@ -533,7 +533,7 @@ Contents:
             https://www.reddit.com/r/ITCareerQuestions/comments/5nvltv/what_fieldsdisciplines_should_i_be_looking_into/dcf3ny0
             https://www.reddit.com/r/ITCareerQuestions/wiki
             https://www.reddit.com/r/sysadmin/comments/4oxxgv/your_favorite_scripts_you_have_stolen_or_made
-            
+
         DevOps:
             Sources:
                 http://www.devopsbookmarks.com
@@ -557,13 +557,13 @@ Contents:
             Books and Courses:
                 The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win
                 https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262509
-                
+
                 The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations
                 https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002
 
                 The Practice of System and Network Administration: Volume 1: DevOps and other Best Practices for Enterprise IT (3rd Edition)
                 https://www.amazon.com/dp/0321919165
-        
+
         SRE:
             Sources:
                 https://enterprisersproject.com/article/2021/3/7-top-site-reliability-engineer-sre-job-interview-questions
@@ -622,7 +622,7 @@ Contents:
                 https://www.reddit.com/r/linuxadmin/comments/2s924h/how_did_you_get_your_start/cnnw1ma
                 https://www.reddit.com/r/linuxadmin/comments/7cw116/favorite_posts_youve_bookmarked_or_saved
                 https://www.reddit.com/r/Ubuntu+linux+linuxadmin
-                
+
             Books and Courses:
                 Linux Journey
                 https://linuxjourney.com
@@ -632,26 +632,26 @@ Contents:
 
                 The Linux Command Line by William Shotts
                 https://linuxcommand.org/tlcl.php
-                
+
                 RHCSA/RHCE Red Hat Linux Certification Study Guide, Seventh Edition (Exams EX200 & EX300)
                 https://www.amazon.com/RHCSA-Linux-Certification-Study-Seventh/dp/0071841962
 
                 UNIX and Linux System Administration Handbook (5th Edition)
                 https://www.amazon.com/UNIX-Linux-System-Administration-Handbook/dp/0134277554
-                
+
             Additional Material:
                 Linux From Scratch!
                 http://www.linuxfromscratch.org
-                
+
                 Build yourself a Linux
                 https://github.com/MichielDerhaeg/build-linux
-                
+
                 The Linux Programming Interface: A Linux and UNIX System Programming Handbook
                 https://www.amazon.com/Linux-Programming-Interface-System-Handbook/dp/1593272200
-                
+
                 Unix Power Tools,Third Edition
                 https://www.amazon.com/Power-Tools-Third-Shelley-Powers/dp/0596003307
-                
+
                 Product Documentation for Red Hat Enterprise Linux
                 https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux
 
@@ -662,14 +662,14 @@ Contents:
             Sources:
                 https://www.freebsd.org/docs/books.html
                 https://hn.algolia.com/?query=freebsd&sort=byPopularity&prefix=false&page=0&dateRange=all&type=story
-                
+
             Books and Courses:
                 FreeBSD Quickstart Guide for Linux Users
                 https://www.freebsd.org/doc/en/articles/linux-users
-                
+
                 FreeBSD Handbook
                 https://www.freebsd.org/doc/en_US.ISO8859-1/books/handbook
-                
+
                 The Design and Implementation of the FreeBSD Operating System (2nd Edition)
                 https://www.amazon.com/Design-Implementation-FreeBSD-Operating-System/dp/0321968972
 
@@ -701,14 +701,14 @@ Contents:
                 https://www.reddit.com/r/usefulscripts
                 https://www.reddit.com/r/usefulscripts/top
                 https://pinboard.in/u:SharjeelSayed/t:bash
-            
+
             Books and Courses:
                 ABS Guide
                 http://tldp.org/LDP/abs/html
-                
+
                 All commands sorted by votes | commandlinefu.com
                 http://www.commandlinefu.com/commands/browse/sort-by-votes
-                
+
                 HackerRank Bash Challenges
                 https://www.hackerrank.com/domains/shell/bash
 
@@ -739,10 +739,10 @@ Contents:
             Books and Courses:
                 Windows Server documentation - Microsoft
                 https://docs.microsoft.com/en-us/windows-server
-                
+
                 Windows Server Courses from Microsoft Virtual Academy
                 https://mva.microsoft.com/LearningPaths.aspx
-                
+
                 Windows Internals, Part 1: System architecture, processes, threads, memory management, and more (7th Edition)
                 https://www.amazon.com/Windows-Internals-Part-architecture-management/dp/0735684189
                 https://docs.microsoft.com/en-us/sysinternals/learn/windows-internals
@@ -750,7 +750,7 @@ Contents:
         Powershell:
             Sources:
                 https://www.reddit.com/r/PowerShell
-                
+
             Books and Courses:
                 Learn Windows PowerShell in a Month of Lunches 3rd Edition
                 https://www.amazon.com/Learn-Windows-PowerShell-Month-Lunches/dp/1617294160
@@ -790,14 +790,14 @@ Contents:
                 https://www.reddit.com/r/docker
                 https://www.udemy.com/topic/docker/?ratings=4.5&sort=popularity
                 https://pinboard.in/u:SharjeelSayed/t:docker
-                
+
             Books and Courses:
                 Docker for Beginners: Full Course by Mumshad Mannambeth
                 https://youtu.be/zJ6WbK9zFpI
                 https://www.kodekloud.com/p/docker-labs
                 https://www.udemy.com/course/learn-docker
                 https://learning.oreilly.com/videos/docker-for-the/9781788991315
-                
+
                 Docker - Swarm, Services and Stack - Hands-On by Mumshad Mannambeth
                 https://learning.oreilly.com/videos/docker-swarm/9781788991414
                 https://www.udemy.com/course/learn-docker-advanced
@@ -808,14 +808,14 @@ Contents:
                 Docker for Developers: Develop and run your application with Docker containers using DevOps tools for continuous delivery by Richard Bullington-McGuire, Andrew K. Dennis, Michael Schwartz
                 https://www.amazon.com/Docker-Developers-application-containers-continuous-ebook/dp/B08C5LSHGW
                 https://www.packtpub.com/product/docker-for-developers/9781789536058
-                
+
             Additional Material:
                 Play with Docker Classroom
                 https://training.play-with-docker.com
-                
+
                 Docker for Beginners
                 https://prakhar.me/docker-curriculum
-                
+
                 Docker Mastery: with Kubernetes +Swarm from a Docker Captain by Bret Fisher
                 https://www.udemy.com/course/docker-mastery
                 https://chat.bretfisher.com
@@ -885,7 +885,7 @@ Contents:
                 https://www.udemy.com/topic/kubernetes/?ratings=4.5&sort=popularity
                 https://youtu.be/0Omvgd7Hg1I (Life of a Packet [I] - Michael Rubin, Google)
                 https://pinboard.in/u:SharjeelSayed/t:kubernetes
-                
+
             Books and Courses:
                 Certified Kubernetes Administrator (CKA) with Practice Tests by Mumshad Mannambeth
                 https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests
@@ -897,7 +897,7 @@ Contents:
                 https://kodekloud.com/purchase?product_id=1521961&coupon_code=UDEMYSTUDENT1718 (Labs - Certified Kubernetes Administrator with Practice Tests)
                 https://www.fb.com/kodekloudtraining
                 https://www.youtube.com/playlist?list=PL2We04F3Y_41lFKy19ig_9u-5Sj_RWTDL (JSON PATH)
- 
+
                 Kubernetes Hands-On - Deploy Microservices to the AWS Cloud by Richard Chesterwood, Virtual Pair Programmers and Prageeth Warnak
                 https://www.udemy.com/course/kubernetes-microservices
 
@@ -956,7 +956,7 @@ Contents:
                 https://k9scli.io (2,196,732)
                 https://kubevious.io (2,345,385)
                 https://octant.dev (4,053,937)
-        
+
         VMware:
             Sources:
                 https://communities.vmware.com/community/vmtn/resources/how
@@ -966,11 +966,11 @@ Contents:
                 https://www.vmware.com/education-services/certification.html
                 https://www.youtube.com/user/VMwareKB
                 https://www.youtube.com/user/VMwareLearning
-                
+
             Books and Courses:
                 vSphere 6.5 with 6.7 Updates Online Training by Jacob Moran
                 https://www.cbtnuggets.com/it-training/vmware/vsphere-6-5-with-6-7-updates
-                
+
                 Mastering VMware vSphere 6.7 1st Edition by Nick Marshall, Mike Brown, G. Blair Fritz and Ryan Johnson
                 https://www.amazon.com/Mastering-VMware-vSphere-Nick-Marshall/dp/1119512948
 
@@ -981,11 +981,11 @@ Contents:
                 https://github.com/openstack/training-labs
                 https://github.com/topics/openstack?o=desc&s=stars
                 https://www.reddit.com/r/openstack/comments/92o38n/best_book_for_learning_openstack
-                
+
             Books and Courses:
                 OpenStack for Architects: Design production-ready private cloud infrastructure, 2nd Edition
                 https://www.amazon.com/OpenStack-Architects-production-ready-private-infrastructure/dp/1788624513
-                
+
                 OpenStack Cloud Computing Cookbook - Fourth Edition
                 https://www.amazon.com/OpenStack-Cloud-Computing-Cookbook-networking/dp/1788398769
 
@@ -1028,7 +1028,7 @@ Contents:
                 https://www.stackery.io/registry (Enter an AWS CloudFormation template for instant analysis)
                 https://youtu.be/B08iQQhXG1Y (The Most Important AWS Services (with an easy to follow example!))
                 https://pinboard.in/u:SharjeelSayed/t:aws
-                
+
             Books and Courses:
                 AWS Certified Solutions Architect - Associate (SAA-C02) by Adrian Cantrill
                 https://learn.cantrill.io/p/aws-certified-solutions-architect-associate-saa-c02
@@ -1036,12 +1036,12 @@ Contents:
                 https://github.com/alozano-77/AWS-SAA-C02-Course (Personal notes for SAA-C02 test from: https://learn.cantrill.io)
                 https://techstudyslack.com
                 https://talk.cantrill.io
-                
+
                 Ultimate AWS Certified Solutions Architect Associate 2020 by Stephane Maarek
                 https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c02
                 https://courses.datacumulus.com (Discount codes for the Course)
                 https://courses.datacumulus.com/downloads/certified-solutions-architect-pn9 (AWS Certified Solutions Architect Associate Code & Slides)
-                
+
                 AWS Certified Solutions Architect Associate Practice Exams by Jon Bonso
                 https://portal.tutorialsdojo.com/courses/aws-certified-solutions-architect-associate-practice-exams
                 https://www.udemy.com/course/aws-certified-solutions-architect-associate-amazon-practice-exams-saa-c02
@@ -1050,10 +1050,10 @@ Contents:
                 https://www.udemy.com/course/aws-certified-developer-associate-dva-c01
                 https://courses.datacumulus.com/downloads/certified-developer-k92
                 https://courses.datacumulus.com (Discount codes for the Course)
-                
+
                 Amazon Web Services — a practical guide
                 https://github.com/open-guides/og-aws
-                
+
                 AWS Certifications:
                 https://aws.amazon.com/certification
                 https://aws.amazon.com/training/learning-paths
@@ -1068,7 +1068,7 @@ Contents:
                 https://www.qwiklabs.com/quests/10 (Solutions Architect - Associate)
                 https://www.reddit.com/r/AWSCertifications/search/?q=course&restrict_sr=on&t=year
                 https://www.udemy.com/topic/aws-certification/?ratings=4.5&sort=popularity
-        
+
         Azure:
             Sources:
                 https://acloud.guru/azure-cloud-training
@@ -1130,13 +1130,13 @@ Contents:
             Books and Courses:
                 The NGINX Handbook by Farhan Hasin Chowdhury
                 https://www.freecodecamp.org/news/the-nginx-handbook
-                
-                NGINX Fundamentals: High Performance Servers from Scratch by Ray Viljoen 
+
+                NGINX Fundamentals: High Performance Servers from Scratch by Ray Viljoen
                 https://www.udemy.com/course/nginx-fundamentals
-                
+
                 Nginx HTTP Server - Fourth Edition: Harness the power of Nginx to make the most of your infrastructure and serve pages faster than ever before by Martin Fjordvald and Clement Nedelcu
                 https://www.amazon.com/Nginx-HTTP-Server-Harness-infrastructure/dp/178862355X
-                
+
                 How to improve NGINX performance, security, and other important things
                 https://github.com/trimstray/nginx-admins-handbook
 
@@ -1171,7 +1171,7 @@ Contents:
             Books and Courses:
                 Ansible 101 by Jeff Geerling
                 https://www.youtube.com/playlist?list=PL2_OBreMn7FqZkvMYt6ATmgC0KAGGJNAN
-                
+
                 Ansible for DevOps by Jeff Geerling
                 https://www.ansiblefordevops.com
                 https://github.com/geerlingguy/ansible-for-devops
@@ -1180,27 +1180,27 @@ Contents:
                 Ansible for the Absolute Beginner - Hands-On - DevOps by Mumshad Mannambeth
                 https://www.udemy.com/course/learn-ansible
                 https://learning.oreilly.com/videos/kubernetes-for-absolute/9781838555962
-                
+
                 Ansible Advanced - Hands-On - DevOps by Mumshad Mannambeth
                 https://www.udemy.com/course/learn-ansible-advanced
                 https://learning.oreilly.com/videos/ansible-advanced/9781789136470
-                
+
                 Ansible Certification Preparation Course by Mumshad Mannambeth
                 https://kodekloud.com/p/ansible-certification
 
                 Ansible tutorial
                 https://github.com/leucos/ansible-tuto
-                
+
                 Interactive Ansible tutorials with dead simple setup via Docker
                 https://github.com/turkenh/ansible-interactive-tutorial
 
                 Ansible for Kubernetes by Jeff Geerling
                 https://www.ansibleforkubernetes.com
                 https://github.com/geerlingguy/ansible-for-kubernetes
-                
+
                 Ansible Videos
                 https://www.ansible.com/videos
-                
+
                 Ansible Essentials: Simplicity in Automation Technical Overview
                 https://www.redhat.com/en/services/training/do007-ansible-essentials-simplicity-automation-technical-overview
 
@@ -1246,7 +1246,7 @@ Contents:
                 https://github.com/morethancertified/mtc-terraform
                 https://courses.derekops.com/terraform
                 https://techstudyslack.slack.com/archives/C01E7UKHR34
-                
+
                 Terraform: Up & Running: Writing Infrastructure as Code 2nd Edition By Yevgeniy Brikman
                 https://www.terraformupandrunning.com
                 https://learning.oreilly.com/library/view/terraform-up/9781492046899
@@ -1261,7 +1261,7 @@ Contents:
                 Learn DevOps: Infrastructure Automation With Terraform by Edward Viaene
                 https://www.udemy.com/course/learn-devops-infrastructure-automation-with-terraform
                 https://github.com/wardviaene/terraform-course
-                
+
                 Terraform Tutorial by Will Brock
                 https://www.youtube.com/playlist?list=PL8HowI-L-3_9bkocmR3JahQ4Y-Pbqs2Nt
                 https://github.com/WillBrock/terraform-course-examples
@@ -1279,7 +1279,7 @@ Contents:
             Books and Courses:
                 Download the Puppet Learning VM
                 https://puppet.com/download-learning-vm
-                
+
                 Puppet 5 Beginner's Guide - Third Edition: Go from newbie to pro with Puppet 5
                 https://www.amazon.com/Puppet-Beginners-Guide-Third-newbie/dp/178847290X
 
@@ -1304,7 +1304,7 @@ Contents:
                 https://tomcam.github.io/postgres (psql command line tutorial and cheat sheet)
                 https://www.pgcli.com
                 https://www.udemy.com/topic/postgresql/?ratings=4.5&sort=popularity
-            
+
             Books and Courses:
                 https://www.postgresql.org/docs/current
                 https://pgexercises.com
@@ -1320,7 +1320,7 @@ Contents:
         Memcached:
             Books and Courses:
                 https://github.com/memcached/memcached/wiki
-                
+
         Tomcat:
             Books and Courses:
                 Tomcat: The Definitive Guide
@@ -1328,7 +1328,7 @@ Contents:
 
         Git:
             Sources:
-                https://about.gitlab.com/images/press/git-cheat-sheet.pdf 
+                https://about.gitlab.com/images/press/git-cheat-sheet.pdf
                 https://codewords.recurse.com/issues/two/git-from-the-inside-out
                 https://firstaidgit.io (A searchable collection of the most frequently asked Git Questions)
                 https://git-scm.com/book/en/v2/Git-Internals-Plumbing-and-Porcelain
@@ -1363,7 +1363,7 @@ Contents:
                 https://www.udemy.com/topic/git/?ratings=4.5&sort=popularity
                 https://youtu.be/1ffBJ4sVUb4 ([Linux.conf.au 2013] - Git For Ages 4 And Up)
                 https://youtu.be/2sjqTHE0zok (Lecture 6: Version Control (git) (2020))
-                
+
             Books and Courses:
                 Pro Git
                 https://git-scm.com/book/en/v2
@@ -1373,7 +1373,7 @@ Contents:
 
                 Learn Git Branching
                 https://learngitbranching.js.org
-                
+
                 Git from the Bottom Up
                 https://jwiegley.github.io/git-from-the-bottom-up
                 https://github.com/jwiegley/git-from-the-bottom-up
@@ -1407,7 +1407,7 @@ Contents:
 
                 Jenkins Tutorial for Beginners by TechWorld with Nana
                 https://www.youtube.com/playlist?list=PLy7NrYWoggjw_LIiDK1LXdNN82uYuuuiC
-                
+
             Additional Courses:
                 DevOps-Projects by Valaxy Technologies by Shankar AR
                 https://www.youtube.com/playlist?list=PLxzKY3wu0_FJdJd3IKdiM4Om1hGo2Hsdt
@@ -1444,7 +1444,7 @@ Contents:
                 https://vim.fandom.com
                 https://youtu.be/XA2WjJbmmoM (How to Do 90% of What Plugins Do (With Just Vim))
                 https://pinboard.in/u:SharjeelSayed/t:vim
-                
+
             Books and Courses:
                 vimtutor
                 https://vimhelp.org/usr_01.txt.html#vimtutor
@@ -1454,8 +1454,8 @@ Contents:
 
                 Learn Vim For the Last Time: A Tutorial and Primer
                 https://danielmiessler.com/study/vim
-                
-                Practical Vim: Edit Text at the Speed of Thought , 2nd Edition (2015) by Drew Neil 
+
+                Practical Vim: Edit Text at the Speed of Thought , 2nd Edition (2015) by Drew Neil
                 https://learning.oreilly.com/library/view/practical-vim-2nd/9781680501629
                 https://pragprog.com/titles/dnvim2/practical-vim-second-edition
                 https://www.amazon.com/Practical-Vim-Edit-Speed-Thought/dp/1680501275
@@ -1479,7 +1479,7 @@ Contents:
                 https://github.com/topics/prometheus?o=desc&s=stars
                 https://github.com/yolossn/Prometheus-Basics
                 https://www.udemy.com/topic/prometheus-software/?ratings=4.5&sort=popularity
-                
+
             Books and Courses:
                 Prometheus Alerting and Monitoring by Sean Bradley
                 https://www.udemy.com/course/prometheus
@@ -1550,20 +1550,20 @@ Contents:
                 https://www.reddit.com/r/netsecstudents/wiki
                 https://xapax.github.io/blog/2017/01/14/OSCP.html
                 https://pinboard.in/u:SharjeelSayed/t:security
-                
+
             Books and Courses:
                 Penetration Testing: A Hands-On Introduction to Hacking
                 https://www.amazon.com/Penetration-Testing-Hands-Introduction-Hacking/dp/1593275641
-                
+
                 Offensive Computer Security Spring 2014 Homepage Florida State University
                 http://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity
-                
+
                 Offensive Security Certified Professional
                 https://www.offensive-security.com/information-security-certifications/oscp-offensive-security-certified-professional
-                
+
                 The Hacker Playbook 3: Practical Guide To Penetration Testing
                 https://www.amazon.com/Hacker-Playbook-Practical-Penetration-Testing/dp/1980901759
-                
+
                 MIT Course Number 6.858 :Computer Systems Security
                 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014
 
@@ -1580,7 +1580,7 @@ Contents:
                 https://github.com/alexellis/awesome-baremetal
                 https://news.ycombinator.com/item?id=14123394 (Ask HN: What's the Hacker News of hardware?)
                 https://news.ycombinator.com/item?id=15733760 (What are hardware development learning web tutorials?)
-                
+
             Books and Courses:
                 Professor Messer’s CompTIA 220-1001 and 220-1002 A+ Training Course
                 https://www.professormesser.com/free-a-plus-training/220-1001/220-1000-training-course
@@ -1660,7 +1660,7 @@ Contents:
                 https://github.com/GoldenChaos/GoldenChaos-BTT
                 https://www.reddit.com/r/apple/comments/3ek0o5/share_your_better_touch_tool_gestures
                 https://youtu.be/CCJVbooKspo (Better Touch Tool: In-Depth Tutorial)
-            
+
             Keyboard Maestro:
                 https://www.keyboardmaestro.com
                 https://wiki.nikitavoloboev.xyz/macos/macos-apps/keyboard-maestro
@@ -1746,7 +1746,7 @@ Contents:
                 https://learn.cantrill.io (137,485)
                 https://learnk8s.io (369,264)
                 https://cloudskills.io (756,742)
-        
+
     Development:
         SQL:
             Sources:
@@ -1757,11 +1757,11 @@ Contents:
             Books and Courses:
                 Stanford DB5 Course on SQL
                 https://lagunita.stanford.edu/courses/DB/SQL/SelfPaced/about
-                
+
                 https://sqlzoo.net
-                
+
                 https://www.sqlteaching.com
-                
+
                 https://www.w3schools.com/sql
 
                 https://use-the-index-luke.com
@@ -1810,7 +1810,7 @@ Contents:
                 Learn Python 3 the Hard Way by Zed A. Shaw
                 https://learnpythonthehardway.org/python3
                 http://www.informit.com/promotions/book-registration-learn-python-3-the-hard-way-141409 (Videos)
-                
+
                 A Gentle Introduction to Programming Using Python
                 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011
 
@@ -1819,7 +1819,7 @@ Contents:
 
                 2020 Complete Python Bootcamp: From Zero to Hero in Python
                 https://www.udemy.com/course/complete-python-bootcamp
-        
+
         Go:
             Sources:
                 https://github.com/topics/go?o=desc&s=stars
@@ -1839,12 +1839,12 @@ Contents:
                 https://news.ycombinator.com/item?id=16347309 (Ask HN: What project did you tackle to learn C?)
                 https://news.ycombinator.com/item?id=19126544 (Show HN: Learn C and its lower levels interactively, in the browser)
                 https://news.ycombinator.com/item?id=22519876 (	Ask HN: How do I learn C properly?)
-                
+
             Books and Courses:
                 Learn C The Hard Way
                 https://learncodethehardway.org/c
                 http://www.informit.com/promotions/book-registration-learn-c-the-hard-way-140880 (Videos)
-                
+
                 C Programming: A Modern Approach
                 https://www.amazon.com/C-Programming-Modern-Approach-2nd/dp/0393979504
 
@@ -1856,17 +1856,17 @@ Contents:
                 https://github.com/akullpp/awesome-java
                 https://github.com/topics/java?o=desc&s=stars
                 https://www.reddit.com/r/learnprogramming/wiki/online#wiki_java
-                
+
             Books and Courses:
                 Object-Oriented programming with Java
                 http://mooc.fi/courses/2013/programming-part-1
-                
+
                 Complete Java Masterclass
                 https://www.udemy.com/java-the-complete-java-developer-course
-                
+
                 Head First Java 2nd Edition
                 https://www.amazon.com/Head-First-Java-Kathy-Sierra/dp/0596009208
-                
+
                 Murach's Java Servlets and JSP
                 https://www.amazon.com/Murachs-Java-Servlets-JSP-2nd/dp/1890774448
 
@@ -1888,14 +1888,14 @@ Contents:
                 https://www.reddit.com/r/webdev/comments/8lvsxa/is_colt_steele_web_dev_bootcamp_still_the_go_to
                 https://www.udemy.com/courses/development/web-development/?ratings=4.5&sort=popularity
                 https://www.youtube.com/c/TraversyMedia
-                
+
             Books and Courses:
-                freeCodeCamp 
+                freeCodeCamp
                 https://www.freecodecamp.com
-                
+
                 The Web Developer Bootcamp by Colt Steele
                 https://www.udemy.com/the-web-developer-bootcamp
-                
+
                 CS50's Web Programming with Python and JavaScript
                 https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript-web
 
@@ -1911,7 +1911,7 @@ Contents:
                 https://www.reddit.com/r/learnjavascript/top/?sort=top&t=year
                 https://www.reddit.com/r/learnjavascript/wiki
                 https://www.udemy.com/topic/javascript/?ratings=4.5&sort=popularity
-            
+
             Books and Courses:
                 The Modern JavaScript Tutorial
                 https://javascript.info
@@ -1947,11 +1947,11 @@ Contents:
                 https://nodeschool.io
                 https://www.reddit.com/r/node/top/?sort=top&t=year
                 https://www.udemy.com/topic/nodejs/?ratings=4.5&sort=popularity
-                
+
             Books and Courses:
                 Node.js Tutorial for Beginners: Learn Node in 1 Hour | Mosh
                 https://youtu.be/TlB_eWDSMt4
-                
+
                 Node JS Tutorial for Beginners
                 https://www.youtube.com/playlist?list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp
 
@@ -1962,14 +1962,14 @@ Contents:
             Sources:
                 https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=regex&sort=byPopularity&type=story
                 https://news.ycombinator.com/item?id=20608032 (Regex for Noobs – An Illustrated Guide (janmeppe.com))
-                
+
             Books and Courses:
                 Regular Expressions Cookbook: Detailed Solutions in Eight Programming Languages 2nd Edition
                 https://www.amazon.com/Regular-Expressions-Cookbook-Solutions-Programming/dp/1449319432
-                
+
                 Learn regex the easy way
                 https://github.com/ziishaned/learn-regex
-                
+
                 Online regex tester and debugger
                 https://regex101.com
 
@@ -1984,11 +1984,11 @@ Contents:
                 https://news.ycombinator.com/item?id=16493489 (Machine Learning Crash Course)
                 https://news.ycombinator.com/item?id=18321665 (Foundations of ML and AI: Book recommendations (dragan.rocks))
                 https://news.ycombinator.com/item?id=20674745 (Ask HN: What Neural Networks/Deep Learning Books Should I Read?)
-                
+
             Books and Courses:
                 Machine Learning by Andrew Ng
                 https://www.coursera.org/learn/machine-learning
-                
+
                 Deep Learning Specialization by Andrew Ng
                 https://www.coursera.org/specializations/deep-learning
 
@@ -2072,65 +2072,65 @@ Contents:
                 https://pinboard.in/u:SharjeelSayed/t:cheatsheet
                 https://pinboard.in/u:SharjeelSayed/t:interview
                 https://pinboard.in/u:SharjeelSayed/t:jobs
-                
+
             Material:
                 An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
                 https://github.com/alex/what-happens-when
-                
+
                 Linux System Administrator/DevOps Interview Questions
                 https://github.com/chassing/linux-sysadmin-interview-questions
-                
+
                 The System Design Primer
                 https://github.com/donnemartin/system-design-primer
-                
+
                 Awesome Interviews
                 https://github.com/MaximAbramchuck/awesome-interview-questions
-                
+
                 Coding Interview University
                 https://github.com/jwasham/coding-interview-university
-                
+
                 Everything you need to prepare for your technical interview
                 https://github.com/andreis/interview
-                
+
                 Algorithms, front end and behavioral content for rocking your coding interview
                 https://github.com/yangshun/tech-interview-handbook
-                
+
                 500 Data Structures and Algorithms practice problems and their solutions
                 https://techiedelight.quora.com/500-Data-Structures-and-Algorithms-practice-problems-and-their-solutions
-                
+
                 Cracking the Coding Interview: 189 Programming Questions and Solutions
                 https://www.amazon.com/Cracking-Coding-Interview-6th-Programming/dp/0984782850
-                
+
                 Elements of Programming Interviews in Python: The Insiders' Guide
                 https://www.amazon.com/Elements-Programming-Interviews-Python-Insiders/dp/1537713949
-                
+
                 Company Interview Corner - GeeksforGeeks
                 http://www.geeksforgeeks.org/company-interview-corner
-                
+
                 Technical Interview Questions | CareerCup
                 https://www.careercup.com/categories
-                
+
                 Search Interview Questions
                 https://www.glassdoor.com/Interview/index.htm
 
                 Firecode.io
                 https://www.firecode.io
-                
+
                 codesignal
                 https://codesignal.com
-                
-                A collection of Linux Sysadmin Test Questions and Answers 
+
+                A collection of Linux Sysadmin Test Questions and Answers
                 https://github.com/trimstray/test-your-sysadmin-skills
-                
+
                 Watch technical mock interviews with engineers from Google, Facebook, Airbnb, and more
                 https://interviewing.io/recordings
-                
+
                 Coding Interviews at FAANG
                 https://www.codinginterview.com
 
                 Preparation links and resources for system design questions
                 https://github.com/shashank88/system_design
-            
+
             Coding Challenge Websites: (Sorted by Alexa Rank):
                 https://leetcode.com (1,515)
                 https://www.hackerrank.com (2,012)
@@ -2188,7 +2188,7 @@ Contents:
                 https://www.reddit.com/r/india/comments/81r29c/your_onestop_guide_to_emigrating_long_term_to
                 https://www.reddit.com/r/india/comments/gja5eo/advice_for_indians_looking_to_study_abroad_and
                 https://pinboard.in/u:SharjeelSayed/t:jobs
-                
+
         Job Sites: (Sorted by Alexa Rank)
                 https://stackoverflow.com/jobs (49)
                 https://www.linkedin.com/jobs (57)
@@ -2225,7 +2225,7 @@ Contents:
                 https://whoishiring.io (1,041,887)
                 https://sievejobs.com (3,711,141)
                 https://arbeitnow.com/?tags=%5B%22visa%20sponsorship%22%5D (6,208,741)
-                
+
             Dubai Job Sites:
                 https://www.bayt.com (2,320)
                 https://www.naukrigulf.com (4,844)
@@ -2272,7 +2272,7 @@ Contents:
                 https://www.upwork.com/press/releases/upwork-releases-top-15-most-in-demand-skills-for-independent-web-mobile-and-software-developers
                 https://www.youtube.com/watch?v=NxmcfrFrYEA&t=1327s (How the client sees your proposal)
                 https://youtu.be/PTzJlrahqgc (The COMPLETE Upwork Tutorial for Beginners!)
-                
+
             Sites: (Sorted by Alexa Rank)
                 https://www.fiverr.com (291)
                 https://www.upwork.com/freelance-jobs (591)
@@ -2287,7 +2287,7 @@ Contents:
                 https://upstack.co (262,042)
                 https://gigster.com (279,501)
                 https://calladev.com (2,729,529)
-                
+
         Management:
             Sources:
                 http://sabok.org (Guide to the Systems Administration Body of Knowledge)
@@ -2353,33 +2353,33 @@ Contents:
                 https://www.amazon.com/gp/bestsellers/books/2569 (Amazon Best Sellers in Time Management)
                 https://www.indiehackers.com
                 https://www.reddit.com/r/cscareerquestions/comments/6fnujy/soft_skills_for_programmers
-                
+
             Books and Courses:
                 The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change
                 https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897
-                
+
                 The Personal MBA: Master the Art of Business
                 https://www.amazon.com/Personal-MBA-Master-Art-Business/dp/1591845572
-                
+
                 The Art Of War
                 https://www.amazon.com/Art-War-Sun-Tzu/dp/1599869772
                 https://www.gutenberg.org/ebooks/132
-                
+
                 How to Win Friends & Influence People
                 https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034
-                
+
                 The Power Broker: Robert Moses and the Fall of New York
                 https://www.amazon.com/Power-Broker-Robert-Moses-Fall/dp/0394720245
-                
+
                 Zero to One: Notes on Start Ups, or How to Build the Future
                 https://www.amazon.com/Zero-One-Notes-Start-Future-ebook/dp/B00KHX0II4
-                
+
                 Startup School is a free 10-week massively open online course (MOOC)
                 https://www.startupschool.org
-                
+
                 Never Split the Difference: Negotiating as if Your Life Depended on It
                 https://www.amazon.com/Never-Split-Difference-Negotiating-Depended/dp/B01COR1GM2
-                
+
                 ADP 6-22. Army Leadership and the Profession
                 https://fas.org/irp/doddir/army
 
@@ -2405,17 +2405,17 @@ Contents:
                 https://www.reddit.com/r/Economics/wiki/reading
                 https://www.reddit.com/r/india/comments/6b480c/psa_investing_in_mutual_funds_101
                 https://www.reddit.com/r/IndiaInvestments/wiki
-                
+
             Books and Courses:
                 Basic Economics 5th Edition
                 https://www.amazon.com/Basic-Economics-Thomas-Sowell/dp/0465060730
-                
+
                 Financial Markets by Robert Shiller
                 https://www.coursera.org/learn/financial-markets-global
-                
+
                 The Intelligent Investor
                 https://www.amazon.com/Intelligent-Investor-Definitive-Investing-Essentials/dp/0060555661
-                
+
                 The Plain Bagel Basics
                 https://www.youtube.com/playlist?list=PLD18sR-9Y-XHGlrT_3aKElcyzz9eTDGsy
 
@@ -2423,7 +2423,7 @@ Contents:
             Source:
                 http://www.runwes.com/2020/02/11/howilearnedfrench.html
                 https://duome.eu/tips/en (Duolingo's language notes all on one page)
-                
+
             Books and Courses:
                 https://www.duolingo.com
                 https://www.memrise.com
@@ -2460,7 +2460,7 @@ Contents:
 
                 Forest:
                     https://www.forestapp.cc
-                
+
                 Focusmate:
                     https://www.focusmate.com
                     https://www.fb.com/groups/focusmate/files
@@ -2579,7 +2579,7 @@ Contents:
                 https://pinboard.in/u:SharjeelSayed/t:ebooks
                 https://pinboard.in/u:SharjeelSayed/t:learn
                 https://www.goodreads.com/SharjeelSayed
-                
+
             Sites: (Sorted by Alexa Rank)
                 https://www.oreilly.com (2,672)
                 https://www.gutenberg.org (6,947)
@@ -2642,14 +2642,14 @@ Contents:
                 https://www.reddit.com/r/ambientmusic/top
                 https://www.reddit.com/r/medicalschool/comments/9m4afb/serious_spotify_playlists_to_listen_to_while
                 https://pinboard.in/u:SharjeelSayed/t:music+study
-                
+
             Sites:
                 soma fm's Drone Zone Channel
                     https://somafm.com/player/#/now-playing/dronezone
                     https://music.apple.com/station/somafm-drone-zone/ra.1460960905
                     https://open.spotify.com/playlist/1raR4ZD2jZH65dbw5wzfnl (SomaFM Drone Zone)
                     https://open.spotify.com/playlist/6buS3xfirKekKanY53l2fN (Soma FM Drone Zone & Deep Space One)
-                
+
                 Spotify:
                     https://open.spotify.com/album/6035JmOXELaAUjbaCzq7bu (Studying Music: Binaural Beats Sounds For Studying, Focus, Concentration and Ambient Study Music)
                     https://open.spotify.com/album/6XRukyQYxofq4QbPirgtpc (Brown Noise DLX)
@@ -2672,7 +2672,7 @@ Contents:
                     https://open.spotify.com/search/binaural/playlists
                     https://open.spotify.com/search/study/playlists
                     https://open.spotify.com/show/2bAmrw0xKnOhOx4hqSL7vF (Relaxing White Noise Podcast)
-                
+
                 Apple Music:
                     https://music.apple.com/gb/playlist/sleep-sounds/pl.0ef59752c0cd457dbf1391f08cbd936f
                     https://music.apple.com/in/activity/focus/976439521
@@ -2702,24 +2702,24 @@ Contents:
                 https://www.fb.com/groups/The.Indian.Audiophile.Forum
                 https://www.reddit.com/r/headphones/comments/9u2s09/what_tracks_do_you_play_to_test_the_full_range_of
                 https://www.reddit.com/r/LifeProTips/comments/6hljyv/lpt_if_you_are_buying_headphonesspeakers_test
-                
+
             Sites:
                 Best Sellers in Audio Headphones
                 https://www.amazon.com/Best-Sellers-Electronics-Audio-Headphones/zgbs/electronics/172541
-                
+
                 crinacle's BUYER'S GUIDE Best (sounding) True Wireless Earphones
                 https://crinacle.com/guide/tws
-                
+
                 /r/headphones
                 https://www.reddit.com/r/headphones/wiki/purchaseadvice
                 https://sites.google.com/view/quipa
-                
+
                 Best Headphones (rtings.com)
                 https://www.rtings.com/headphones
-                
+
                 SoundGuys Best
                 https://www.soundguys.com/best
-                
+
                 The Best Noise-Cancelling Headphones
                 https://www.nytimes.com/wirecutter/reviews/best-noise-cancelling-headphones
 
@@ -2738,11 +2738,11 @@ Contents:
             Sources:
                 https://www.reddit.com/r/excel/comments/2e28s3/rexcel_advice_thread_repository
                 https://news.ycombinator.com/item?id=12448545 (You Suck at Excel with Joel Spolsky (2015) [video])
-                
+
             Books and Courses:
                 You Suck at Excel with Joel Spolsky
                 https://youtu.be/0nbkaYsR94c
-                
+
                 Excel 2019 Bible 1st Edition
                 https://www.amazon.com/Excel-2019-Bible-Michael-Alexander/dp/1119514789
 
@@ -2753,14 +2753,14 @@ Contents:
                 https://news.ycombinator.com/item?id=20126760 (Open Source Electronics Lab for $30 (github.com))
                 https://news.ycombinator.com/item?id=23562181 (Ask HN: What are some good resources to learn how electricity works?)
                 https://www.reddit.com/r/AskElectronics/wiki
-                
+
             Books and Courses:
                 The Art of Electronics 3rd Edition
                 https://www.amazon.com/Art-Electronics-Paul-Horowitz/dp/0521809266
-                
+
                 6.002.1x "Circuits and Electronics 1: Basic Circuit Analysis" Based on 6.002 MIT Course
                 https://courses.edx.org/courses/course-v1:MITx+6.002.1x_1+2T2016/info
-                
+
                 Lessons in Electric Circuits
                 https://www.allaboutcircuits.com/textbook
 
@@ -2779,23 +2779,23 @@ Contents:
                 https://www.reddit.com/r/AskReddit/comments/7yvhmi/what_is_the_most_interesting_documentary_youve
                 https://www.reddit.com/r/Documentaries/wiki
                 https://www.theguardian.com/books/booksblog/2017/jul/20/dawkins-sees-off-darwin-in-vote-for-most-influential-science-book
-                
+
             Books and Courses:
                 What If?: Serious Scientific Answers to Absurd Hypothetical Questions
                 https://www.amazon.com/What-If-Scientific-Hypothetical-Questions-ebook/dp/B00IYUYF4A
-                
+
                 Thing Explainer: Complicated Stuff in Simple Words
                 https://www.amazon.com/Thing-Explainer-Complicated-Stuff-Simple-ebook/dp/B00XJYVF44
-                
+
                 The Selfish Gene
                 https://www.amazon.com/Selfish-Gene-Anniversary-Landmark-Science/dp/0198788606
-                
+
                 A Short History of Nearly Everything
                 https://www.amazon.com/Short-History-Nearly-Everything/dp/076790818X
-                
+
                 Planet Earth
                 https://en.wikipedia.org/wiki/Planet_Earth_(franchise)
-                
+
                 Cosmos: A Spacetime Odyssey
                 https://en.wikipedia.org/wiki/Cosmos:_A_Spacetime_Odyssey
 
@@ -2827,11 +2827,11 @@ Contents:
                 https://news.ycombinator.com/item?id=15328992 (Ask HN: Learn Modern web design and CSS)
                 https://nodesign.dev
                 https://www.canva.com
-                
+
             Books and Courses:
                 The Design of Everyday Things
                 https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654
-                
+
                 The ultimate guide for mobile developers, who want to design
                 https://medium.com/flawless-app-stories/https-medium-com-flawless-app-stories-the-ultimate-guide-for-mobile-developers-who-want-to-design-part1-a2d47c04fd49
 
@@ -2873,11 +2873,11 @@ Contents:
                 https://www.reddit.com/r/AskReddit/comments/aa7zs9/what_youtube_channels_are_genuinely_worth_watching
                 https://www.to-rss.xyz/wikipedia
                 https://www.reddit.com/user/SharjeelSayed
-                
+
             Sites and Apps:
                 RSS:
                     Import http://Opml.SharjeelSayed.com , into https://www.inoreader.com or https://reederapp.com
-                
+
                 News Sites: (Sorted by Alexa Rank)
                     https://cnn.com (68)
                     https://www.nytimes.com (78)
@@ -2959,7 +2959,7 @@ Contents:
                         https://telegramchannels.me/search?search=feed&type=bot (RSS Feed Bots)
                         https://tgram.io
                         https://tlgrm.eu/channels/tech (Technology Channels)
-                    
+
                     Telegram News Feed Setup:
                         Join these channels
                         https://t.me/best_hacker_news
@@ -2987,7 +2987,7 @@ Contents:
                     https://news.google.com?ned=in&gl=IN&hl=en-IN&num=1&topic=h (India)
                     https://news.google.com/local/section/geo/Mumbai/Mumbai,%20Maharashtra?ned=in&hl=en-IN&gl=IN (Mumbai)
                     https://news.google.com/topics/CAAqBwgKMOXWjQswrYGgAw?hl=en-IN&gl=IN&ceid=IN:en (Maharashtra)
-                
+
                 News Aggregators:
                     https://en.wikipedia.org/wiki/Portal:Current_events
                     https://lobste.rs
@@ -3000,7 +3000,7 @@ Contents:
 
                 Reddit:
                     https://www.reddit.com/r/1Password+AWSCertifications+Alfred+AppHookup+AppleWatch+CryptoCurrency+DataHoarder+Documentaries+FreeEBOOKS+ITCareerQuestions+IndiaInvestments+KindleFreebies+Piracy+Terraform+Ubuntu+Udemy+Upwork+announcements+ansible+apple+aws+compsci+cscareerquestions+dataisbeautiful+devops+docker+freelance+gadgets+hackernews+india+ipad+iphone+juul+kindle+kubernetes+learnprogramming+linux+linuxadmin+linuxupskillchallenge+mac+macapps+movies+mumbai+netsec+nextdns+onebag+osx+programming+science+solotravel+sysadmin+technology+television+todayilearned+todoist+travel+udemyfreebies+usefulscripts+worldnews
-                
+
                 Hacker News:
                     https://apps.apple.com/us/app/hack-for-hacker-news-developer/id1464477788
                     https://edavis.github.io/hnrss
@@ -3024,13 +3024,13 @@ Contents:
                     https://www.youtube.com/channel/UCF0pVplsI8R5kcAqgtoRqoA (YouTube Worldwide Popular Right Now)
                     https://www.youtube.com/channel/UCAh9DbAZny_eoGFsYlH2JZw (YouTube India Popular Right Now)
                     https://www.youtube.com/user/SayedSharjeel/channels
-                
+
                 Bookmarks:
                     Import http://Bookmarks.SharjeelSayed.com into your Browser or view online at https://pinboard.in/u:SharjeelSayed
                     https://github.com/SharjeelSayed?direction=desc&sort=stars&tab=stars (Starred Github Repositories)
                     https://stackexchange.com/users/6550/sharjeel?tab=bookmarks
                     https://cse.google.com/cse/publicurl?cx=013208504250323700475:mqurmsvnc8k (Google Custom Search Engine for Sharjeel's Bookmarks)
-                
+
                 Tech News Notifications (iOS/Android):
                     Turn on the applet https://IFTTT.com/applets/456148p in the IFTTT Mobile app and add https://www.techmeme.com/feed.xml into the 'Feed URL' field of the applet.
 
@@ -3057,6 +3057,7 @@ Contents:
                 https://softwareleadweekly.com (2,607,781)
                 https://sreweekly.com (2,618,415)
                 https://www.devopsweekly.com (3,945,939)
+                https://tldrsec.com (4,105,507)
                 https://kubeweekly.io (6,389,097)
                 https://thisweekindevops.com (5,288,621)
                 https://ipj.dreamhosters.com (The Internet Protocol Journal) (9,323,436)
@@ -3081,11 +3082,11 @@ Contents:
                 https://www.reddit.com/r/sysadmin/comments/au8ugd/what_are_your_preferred_tech_podcasts_as_a
                 https://www.reddit.com/r/sysadmin/comments/han44w/interesting_it_related_podcasts (Interesting IT related Podcasts (self.sysadmin))
                 https://pinboard.in/u:SharjeelSayed/t:podcast
-                
+
             Sites:
                 Collection of awesome podcasts
                 https://github.com/rShetty/awesome-podcasts
-                
+
                 Netflix for Podcasts!
                 https://podflix.app
 
@@ -3098,7 +3099,7 @@ Contents:
                 https://nomoregoogle.com
                 https://pinboard.in/u:sharjeelsayed/t:email
                 https://stackoverflow.com/questions/9807909/are-email-addresses-case-sensitive
-            
+
             Email Hosting:
                 https://gsuite.google.co.in/intl/en_in/pricing.html
                 https://improvmx.com
@@ -3112,12 +3113,12 @@ Contents:
                 https://www.rackspace.com/email-hosting/webmail/pricing
                 https://www.reddit.com/r/degoogle/wiki
                 https://www.zoho.com/mail/zohomail-pricing.html
-                    
+
                 Fastmail.com:
                     https://news.ycombinator.com/item?id=12247401 (Moving 12 years of email from GMail to FastMail (cpbotha.net))
                     https://www.emaildiscussions.com/forumdisplay.php?f=27 (FastMail Forum)
                     https://ref.fm/u24474904 (Fastmail.com 10% off)
-            
+
             Self Hosted email:
                 https://bridge.grumpy-troll.org/2020/07/small-mailserver-bcp
                 https://github.com/mailcow/mailcow-dockerized
@@ -3143,7 +3144,7 @@ Contents:
                 https://news.ycombinator.com/item?id=22846851 (Ask HN: How do you backup your email?)
                 https://takeout.google.com/settings/takeout
                 https://www.offlineimap.org
-            
+
             Email Clients:
                 http://www.macdrifter.com/2013/11/mailmate-explorations.html
                 https://news.ycombinator.com/item?id=18057643 (Ask HN: Best email client for a Mac?)
@@ -3151,7 +3152,7 @@ Contents:
                 https://sparkmailapp.com
                 https://thesweetsetup.com/apps/favorite-email-client-os-x
                 https://www.slant.co/topics/604/~best-e-mail-clients-for-macos
-                
+
                 MailMate:
                     https://freron.com (MailMate)
                     https://freron.lighthouseapp.com/projects/58672-mailmate/tickets?q=state%3Aopen
@@ -3200,11 +3201,11 @@ Contents:
                 https://www.tarsnap.com
                 https://db.tt/YL0e12GN (Dropbox 500 MB of bonus space)
                 https://mega.nz/C!vuhRiKpB (Mega.nz Extra Storage)
-                
+
             Tools:
                 Restic
                 https://restic.net
-                
+
                 rclone - rsync for cloud storage
                 https://rclone.org
 
@@ -3312,14 +3313,14 @@ Contents:
                 https://www.amazon.com/gp/bestsellers/books/465688 (Best Sellers in Safety & First Aid)
                 https://www.amazon.com/gp/bestsellers/books/689734011 (Best Sellers in Emergency Medicine)
                 https://www.amazon.com/gp/bestsellers/books/8975382011 (Best Sellers in Survival & Emergency Preparedness)
-                
+
             Books:
                 Where There Is No Doctor: A Village Health Care Handbook, Revised Edition
                 https://www.amazon.com/Where-There-No-Doctor-Handbook/dp/0942364155
-                
+
                 The Survival Medicine Handbook: THE essential guide for when medical help is NOT on the way 3rd Edition
                 https://www.amazon.com/Survival-Medicine-Handbook-essential-medical/dp/0988872552
-                
+
                 Bushcraft 101: A Field Guide to the Art of Wilderness Survival
                 https://www.amazon.com/Bushcraft-101-Field-Wilderness-Survival/dp/1440579776
 
@@ -3337,7 +3338,7 @@ Contents:
                 https://www.reddit.com/r/chess/wiki/faq
                 https://www.reddit.com/r/dataisbeautiful/comments/kz3l12/chess_best_opening_by_winning_color_oc
                 https://pinboard.in/u:sharjeelsayed/t:chess
-                
+
             Sites: (Sorted by Alexa Rank)
                 https://www.chess.com (228)
                 https://lichess.org (1,737)
@@ -3396,4 +3397,4 @@ Contents:
         https://ref.fm/u24474904 (Fastmail.com 10% off)
         https://repl.it/upgrade/sharjeelsayed
         https://todoist.com/r/Sharjeel_Sayed_pndvuw (Todoist Premium free for 2 months)
-        https://www.expressrefer.com/refer-friend?referrer_id=39360476 (ExpressVPN 30 days free
+        https://www.expressrefer.com/refer-friend?referrer_id=39360476 (ExpressVPN 30 days free)
