@@ -70,6 +70,7 @@ Contents:
         Regex
         iOS/Android
         Machine Learning
+        IDE
     Career:
         Interview Guides
         Resume Improvement
@@ -1991,6 +1992,50 @@ Contents:
                 Deep Learning Specialization by Andrew Ng
                 https://www.coursera.org/specializations/deep-learning
 
+        IDE:
+            Visual Studio Code:
+                Sources:
+                    https://news.ycombinator.com/item?id=27231033 (Disable autocorrect in vscode)
+                    https://www.reddit.com/r/vscode/comments/8zbcb3/window_tabs/e2toon2 (Enable windows tabs in vscode)
+
+                Extensions:
+                    https://marketplace.visualstudio.com/items?itemName=4ops.terraform
+                    https://marketplace.visualstudio.com/items?itemName=aws-scripting-guy.cform
+                    https://marketplace.visualstudio.com/items?itemName=ban.spellright
+                    https://marketplace.visualstudio.com/items?itemName=bbenoist.vagrant
+                    https://marketplace.visualstudio.com/items?itemName=codezombiech.gitignore
+                    https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2
+                    https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula
+                    https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
+                    https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
+                    https://marketplace.visualstudio.com/items?itemName=hangxingliu.vscode-nginx-conf-hint
+                    https://marketplace.visualstudio.com/items?itemName=HashiCorp.terraform
+                    https://marketplace.visualstudio.com/items?itemName=jack89ita.copy-filename
+                    https://marketplace.visualstudio.com/items?itemName=marlon407.code-groovy
+                    https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker
+                    https://marketplace.visualstudio.com/items?itemName=ms-python.python
+                    https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh
+                    https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh-edit
+                    https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow
+                    https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme
+                    https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml
+                    https://marketplace.visualstudio.com/items?itemName=timonwong.shellcheck
+                    https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one
+
+            IntelliJ IDEA:
+                Extensions:
+                    https://plugins.jetbrains.com/plugin/10080-rainbow-brackets
+                    https://plugins.jetbrains.com/plugin/10485-kubernetes
+                    https://plugins.jetbrains.com/plugin/11058-extra-icons
+                    https://plugins.jetbrains.com/plugin/12062-vscode-keymap
+                    https://plugins.jetbrains.com/plugin/12275-dracula-theme
+                    https://plugins.jetbrains.com/plugin/13308-indent-rainbow
+                    https://plugins.jetbrains.com/plugin/14893-ansible
+                    https://plugins.jetbrains.com/plugin/201-browsewordatcaret
+                    https://plugins.jetbrains.com/plugin/7495--ignore
+                    https://plugins.jetbrains.com/plugin/7499-gittoolbox
+                    https://plugins.jetbrains.com/plugin/7808-hashicorp-terraform--hcl-language-support
+
     Career:
         Interview Guides:
             Sources:
@@ -3351,4 +3396,4 @@ Contents:
         https://ref.fm/u24474904 (Fastmail.com 10% off)
         https://repl.it/upgrade/sharjeelsayed
         https://todoist.com/r/Sharjeel_Sayed_pndvuw (Todoist Premium free for 2 months)
-        https://www.expressrefer.com/refer-friend?referrer_id=39360476 (ExpressVPN 30 days free)
+        https://www.expressrefer.com/refer-friend?referrer_id=39360476 (ExpressVPN 30 days free
