@@ -1530,6 +1530,7 @@ Contents:
                 https://github.com/topics/websecurity?o=desc&s=stars
                 https://github.com/veeral-patel/learn-security-engineering
                 https://hrushikeshk.github.io/blog/2018/01/15/security-resources
+                https://ishaqmohammed.me/posts/application-security-knowledgebase (Application Security Knowledgebase)
                 https://jhalon.github.io/becoming-a-pentester
                 https://krebsonsecurity.com/2020/07/thinking-of-a-cybersecurity-career-read-this
                 https://news.ycombinator.com/item?id=12140477 (A practical security guide for web developers (github.com))
@@ -1596,10 +1597,12 @@ Contents:
                 https://dotfilehub.com
                 https://github.com/donnemartin/dev-setup
                 https://github.com/drduh/macOS-Security-and-Privacy-Guide
+                https://github.com/exelban/stats ( macOS system monitor in your menu bar)
                 https://github.com/geerlingguy/mac-dev-playbook
                 https://github.com/herrbischoff/awesome-macos-command-line
                 https://github.com/iCHAIT/awesome-macOS
                 https://github.com/jaywcjlove/awesome-mac
+                https://github.com/mangerlahn/Latest (A small utility app for macOS that makes sure you know about all the latest updates to the apps you use.)
                 https://github.com/mathiasbynens/dotfiles (🔧 .files, including ~/.macos — sensible hacker defaults for macOS)
                 https://github.com/nikitavoloboev/my-mac-os
                 https://github.com/rgcr/m-cli ( Swiss Army Knife for macOS)
@@ -1610,6 +1613,7 @@ Contents:
                 https://opensource.com/article/19/5/python-3-default-mac (The right and wrong way to set Python 3 as default on a Mac)
                 https://support.apple.com/en-us/HT201236 (Mac keyboard shortcuts)
                 https://thesweetsetup.com/picks
+                https://universvm.medium.com/20-macos-apps-to-boost-your-productivity-74accb372c9c
                 https://www.bresink.com/osx/TinkerTool.html
                 https://www.reddit.com/r/apple+mac+macapps
                 https://youtu.be/HPQobUOx17o (Amazing Mac Tips You've Never Used! by Snazzy Labs)
@@ -1682,9 +1686,13 @@ Contents:
                 https://www.manpagez.com/man/5/launchd.plist
                 https://www.soma-zone.com/LaunchControl
 
+            Amethyst:
+                https://github.com/ianyh/Amethyst
+                https://kimsereylam.com/2020/02/14/manage-windows-on-macos-with-amethyst.html
+                https://medium.com/devnotes/manage-windows-on-macos-using-amethyst-3817b2804f29
+                https://youtu.be/GaIPWp071jM (Amethyst Tiling Window Manager | Demo, Review, & Key Bindings!)
+
         MOOC:
-            Sources:
-                http://academictorrents.com
                 https://archive.org/search.php?query=subject%3A%22UC+Berkeley%22
                 https://blog.github.com/2018-03-20-top-10-courses-on-github
                 https://freelearninglist.org
