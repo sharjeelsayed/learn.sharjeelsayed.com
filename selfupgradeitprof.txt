@@ -1693,6 +1693,7 @@ Contents:
                 https://youtu.be/GaIPWp071jM (Amethyst Tiling Window Manager | Demo, Review, & Key Bindings!)
 
         MOOC:
+                https://academictorrents.com
                 https://archive.org/search.php?query=subject%3A%22UC+Berkeley%22
                 https://blog.github.com/2018-03-20-top-10-courses-on-github
                 https://freelearninglist.org
