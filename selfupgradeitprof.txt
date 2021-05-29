@@ -1025,6 +1025,7 @@ Contents:
                 https://www.cisecurity.org/benchmark/amazon_web_services
                 https://www.concurrencylabs.com/blog/choose-your-aws-region-wisely
                 https://www.ec2instances.info
+                https://www.lastweekinaws.com/blog/the-17-ways-to-run-containers-on-aws
                 https://www.reddit.com/r/aws
                 https://www.reddit.com/r/sysadmin/comments/8inzn5/so_you_want_to_learn_aws_aka_how_do_i_learn_to_be
                 https://www.stackery.io/registry (Enter an AWS CloudFormation template for instant analysis)
@@ -2541,6 +2542,7 @@ Contents:
                 https://en.wikipedia.org/wiki/Lists_of_100_best_books
                 https://en.wikipedia.org/wiki/Pulitzer_Prize
                 https://en.wikipedia.org/wiki/Time%27s_List_of_the_100_Best_Novels
+                https://github.com/laxyapahuja/bunken (A chrome extension to download ebooks directly from Goodreads.)
                 https://hackernewsbooks.com
                 https://hn.algolia.com/?query=books&sort=byPopularity&prefix&page=0&dateRange=all&type=story
                 https://mapfilterfold.com (Meta Recommendations from HN)
@@ -2597,13 +2599,15 @@ Contents:
                 https://www.goodreads.com/SharjeelSayed
 
             Sites: (Sorted by Alexa Rank)
+                https://www.pdfdrive.com (1,061)
                 https://www.oreilly.com (2,672)
+                https://libgen.lc or https://libgen.is (https://en.wikipedia.org/wiki/Library_Genesis) (4,910)
                 https://www.gutenberg.org (6,947)
-                https://z-lib.org (7,764)
+                https://z-lib.org (7,892)
                 https://www.bookbub.com (8,749)
                 http://audiobookbay.nl (9,312)
-                https://1lib.in (23,377)
-                https://libgen.lc or https://libgen.is (https://en.wikipedia.org/wiki/Library_Genesis) (25,211)
+                https://b-ok.asia (18,183)
+                https://1lib.in (20,965)
                 https://forum.mobilism.org (35,907)
                 https://librivox.org (46,088)
                 https://ebookee.org (65,109)
@@ -2860,6 +2864,7 @@ Contents:
                 https://github.com/learn-anything/blogs
                 https://github.com/osmoscraft/osmosfeed (A web-based RSS reader running entirely from your GitHub repo.)
                 https://github.com/topics/blogs?o=desc&s=stars
+                https://hnblogs.substack.com (HackerNews Blogs Newsletter)
                 https://news.vinc.cc
                 https://news.ycombinator.com/item?id=14086259 (Ask HN: Mailing lists that HN readers ought to know about?)
                 https://news.ycombinator.com/item?id=14163905 (Ask HN: Which companies have the best blogs written by their engineering team?)
@@ -2881,6 +2886,7 @@ Contents:
                 https://news.ycombinator.com/item?id=24539445 (Ask HN: Favourite blogs?)
                 https://news.ycombinator.com/item?id=24658424 (Ask HN: What RSS Reader do you use?)
                 https://news.ycombinator.com/item?id=26192817 (	Ask HN: What websites do you visit every day?)
+                https://news.ycombinator.com/item?id=27302195 (Ask HN: Favorite Blogs by Individuals?)
                 https://news.ycombinator.com/item?id=9836023 (Ask HN: What tech blogs, podcasts do you follow outside of HN?)
                 https://news.ycombinator.com/user?id=SharjeelSayed
                 https://twitter.com/SharjeelSayed
