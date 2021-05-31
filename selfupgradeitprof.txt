@@ -1598,15 +1598,12 @@ Contents:
                 https://dotfilehub.com
                 https://github.com/donnemartin/dev-setup
                 https://github.com/drduh/macOS-Security-and-Privacy-Guide
-                https://github.com/exelban/stats ( macOS system monitor in your menu bar)
                 https://github.com/geerlingguy/mac-dev-playbook
                 https://github.com/herrbischoff/awesome-macos-command-line
                 https://github.com/iCHAIT/awesome-macOS
                 https://github.com/jaywcjlove/awesome-mac
-                https://github.com/mangerlahn/Latest (A small utility app for macOS that makes sure you know about all the latest updates to the apps you use.)
                 https://github.com/mathiasbynens/dotfiles (🔧 .files, including ~/.macos — sensible hacker defaults for macOS)
                 https://github.com/nikitavoloboev/my-mac-os
-                https://github.com/rgcr/m-cli ( Swiss Army Knife for macOS)
                 https://github.com/serhii-londar/open-source-mac-os-apps
                 https://github.com/topics/macos?o=desc&s=stars
                 https://news.ycombinator.com/item?id=19515627 (Ask HN: What are your favorite utility desktop apps?)
@@ -1615,27 +1612,30 @@ Contents:
                 https://support.apple.com/en-us/HT201236 (Mac keyboard shortcuts)
                 https://thesweetsetup.com/picks
                 https://universvm.medium.com/20-macos-apps-to-boost-your-productivity-74accb372c9c
-                https://www.bresink.com/osx/TinkerTool.html
                 https://www.reddit.com/r/apple+mac+macapps
                 https://youtu.be/HPQobUOx17o (Amazing Mac Tips You've Never Used! by Snazzy Labs)
                 https://pinboard.in/u:SharjeelSayed/t:macos
 
             Tools:
-                https://apps.apple.com/app/amphetamine/id937984704 (Amphetamine 4+ Powerful keep-awake utility)
-                https://brew.sh
-                https://flexibits.com/fantastical
-                https://getfenet.re (Picture in picture for your mac)
-                https://github.com/alichtman/shallow-backup
-                https://github.com/Mortennn/Dozer (Hide status bar icons on macOS)
-                https://github.com/nextdns/nextdns/wiki/MacOS
-                https://github.com/sekey/sekey
-                https://github.com/x74353/Amphetamine-Enhancer
-                https://objective-see.com/products/lulu.html (free, open-source macOS firewall)
-                https://osxfuse.github.io
-                https://www.hammerspoon.org/go/#pasteblock
-                https://www.parallels.com/products/desktop
-                https://www.titanium-software.fr/en/onyx.html
-                https://xnipapp.com
+                Https://Apps.Apple.Com/App/Amphetamine/Id937984704 (Amphetamine 4+ Powerful Keep-Awake Utility)
+                Https://Brew.Sh
+                Https://Flexibits.Com/Fantastical
+                Https://Getfenet.Re (Picture In Picture For Your Mac)
+                Https://Github.Com/Alichtman/Shallow-Backup
+                Https://Github.Com/Mortennn/Dozer (Hide Status Bar Icons On Macos)
+                Https://Github.Com/Nextdns/Nextdns/Wiki/Macos
+                Https://Github.Com/Sekey/Sekey
+                Https://Github.Com/X74353/Amphetamine-Enhancer
+                Https://Objective-See.Com/Products/Lulu.Html (Free, Open-Source Macos Firewall)
+                Https://Osxfuse.Github.Io
+                Https://Www.Hammerspoon.Org/Go/#Pasteblock
+                Https://Www.Parallels.Com/Products/Desktop
+                Https://Www.Titanium-Software.Fr/En/Onyx.Html
+                Https://Xnipapp.Com
+                Https://Github.Com/Rgcr/M-Cli ( Swiss Army Knife For Macos)
+                Https://Www.Bresink.Com/Osx/Tinkertool.Html
+                Https://Github.Com/Exelban/Stats ( Macos System Monitor In Your Menu Bar)
+                Https://Github.Com/Mangerlahn/Latest (A Small Utility App For Macos That Makes Sure You Know About All The Latest Updates To The Apps You Use.)
 
             Alfred:
                 http://www.packal.org
@@ -2177,7 +2177,8 @@ Contents:
 
         Portfolio:
             Sources:
-                https://about.me
+                https://linktr.ee (304)
+                https://about.me (5,086)
                 https://arturssmirnovs.github.io/github-profile-readme-generator
                 https://github.com/abhisheknaiidu/awesome-github-profile-readme
                 https://github.com/arturssmirnovs/github-profile-readme-generator
@@ -2307,69 +2308,70 @@ Contents:
 
         Management:
             Sources:
-                http://sabok.org (Guide to the Systems Administration Body of Knowledge)
-                http://startupstash.com
-                http://www.toomas.net/2017/07/18/reverse-engineering-a-successful-lifestyle-business-heres-everything-ive-learned-from-reading-indiehackers-com
-                https://cofounderslab.com
-                https://diataxis.fr (The Grand Unified Theory of Documentation)
-                https://github.com/dakshshah96/awesome-startup-credits (A collection of awesome companies offering free/discounted plans for eligible startups)
-                https://github.com/dwmkerr/hacker-laws (Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws )
-                https://github.com/kuchin/awesome-cto (A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups)
-                https://github.com/PharkMillups/beautiful-docs (Pointers to useful, well-written, and otherwise beautiful documentation.)
-                https://github.com/ryanburgess/engineer-manager (A list of engineering manager resource links. )
-                https://github.com/VGraupera/1on1-questions (Mega list of 1 on 1 meeting questions compiled from a variety to sources)
-                https://news.ycombinator.com/item?id=11209066 (Why you probably don't need an MBA)
-                https://news.ycombinator.com/item?id=13207268 (Ask HN: How do I get freelance developer jobs?)
-                https://news.ycombinator.com/item?id=13855577 (Ask HN: What do you use to align your daily todos with your long term goals?)
-                https://news.ycombinator.com/item?id=14146850 (Ask HN: Best business advice for software developers)
-                https://news.ycombinator.com/item?id=14279870 (Ask HN: Should I create a clone of a popular SaaS with rock-bottom pricing?)
-                https://news.ycombinator.com/item?id=14316349 (Ask HN: Freelance Management Services/Apps)
-                https://news.ycombinator.com/item?id=14569154 (Ask HN: Where to find co-developers for side projects?)
-                https://news.ycombinator.com/item?id=14653564 (Ask HN: As an employee of a company, how do you assess its health?)
-                https://news.ycombinator.com/item?id=14726130 (Ask HN: How to prepare for an Engineering Manager interview?)
-                https://news.ycombinator.com/item?id=15039829 (Ask HN: What costly inefficiency do you see at work?)
-                https://news.ycombinator.com/item?id=15579047 (Ask HN: How do you take idea notes / voice memos / reminders to yourself?)
-                https://news.ycombinator.com/item?id=15831046 (Ask HN: Time Management Tricks and Tips)
-                https://news.ycombinator.com/item?id=16322942 (Ask HN: Simple tools/hack for small project management)
-                https://news.ycombinator.com/item?id=16377523 (Ask HN: Best project management practices in 2018?)
-                https://news.ycombinator.com/item?id=16453227 (Ask HN: How do you overcome the problems of task switching?)
-                https://news.ycombinator.com/item?id=16482392 (Ask HN: Successful one-person online businesses?)
-                https://news.ycombinator.com/item?id=16508308 (Ask HN: What are your best domestic time saving tips?)
-                https://news.ycombinator.com/item?id=16522756 (Ask HN: What are good writing tips for software developers?)
-                https://news.ycombinator.com/item?id=16560812 (Ask HN: What tools have most helped your day-to-day productivity?)
-                https://news.ycombinator.com/item?id=16671944 (How to Fall Asleep in Two Minutes or Less)
-                https://news.ycombinator.com/item?id=16852410 (Tell HN: My best productivity hack)
-                https://news.ycombinator.com/item?id=17031588 (Ask HN: Advice to your younger self)
-                https://news.ycombinator.com/item?id=17204467 (Ask HN: Recommendations on books and documentaries on tech companies/people?)
-                https://news.ycombinator.com/item?id=17238135 (How to be a Manager – A step-by-step guide to leading a team)
-                https://news.ycombinator.com/item?id=17291127 (Ask HN: Is there a new habit you cultivated recently that is really paying off?)
-                https://news.ycombinator.com/item?id=17295064 (Ask HN: How do you manage your mental health?)
-                https://news.ycombinator.com/item?id=17385291 (Ask HN: What are the things that you have automated in your personal life?)
-                https://news.ycombinator.com/item?id=17398726 (Ask HN: Which project management and team communication software do you use?)
-                https://news.ycombinator.com/item?id=17544764 (Ask HN: How do you focus at work?)
-                https://news.ycombinator.com/item?id=17892731 (Ask HN: How to organize personal knowledge?)
-                https://news.ycombinator.com/item?id=17942709 (Ask HN: As a technical founder what is the best business book you've read?)
-                https://news.ycombinator.com/item?id=18071909 (Ask HN: What was the best decision you made in your career?)
-                https://news.ycombinator.com/item?id=18098992 (Ask HN: What things have richly rewarded the time invested in mastering them?)
-                https://news.ycombinator.com/item?id=18132736 (Ask HN: What did you learn the hard way?)
-                https://news.ycombinator.com/item?id=18179972 (How to Get Things Done When You Don't Feel Like It (acm.org))
-                https://news.ycombinator.com/item?id=18588727 (Ask HN: What are your ?brain hacks? that help you manage every day situations?)
-                https://news.ycombinator.com/item?id=19349676 (Ask HN: How to speak like a leader, not like an engineer?)
-                https://news.ycombinator.com/item?id=19996062 (Ask HN: What tools/methods do you use to focus your time well?)
-                https://news.ycombinator.com/item?id=20230133 (Ask HN: What are the signs that you have a great manager?)
-                https://news.ycombinator.com/item?id=20503813 (Ask HN: What people skills do you wish you learned earlier in your career?)
-                https://news.ycombinator.com/item?id=21712194 (Ask HN: Best book / resources on leadership, especially for tech teams?)
-                https://news.ycombinator.com/item?id=22092303 (Ask HN: Courses/resources to improve my self-esteem and believe in myself more?)
-                https://news.ycombinator.com/item?id=23050717 (Ask HN: Learning the business-side of things as a developer?)
-                https://news.ycombinator.com/item?id=23118940 (Ask HN: What are your favorite developer-efficiency tips?)
-                https://news.ycombinator.com/item?id=23152092 (	Ask HN: I've been promoted to Architect. What do I need to learn/do to excel?)
-                https://news.ycombinator.com/item?id=23759547 (	Ask HN: What makes a good technical leader – any recommended books?)
-                https://news.ycombinator.com/item?id=24123372 (Classic books for tech leads or those aspiring to be (sourcelevel.io))
-                https://news.ycombinator.com/item?id=26807085 (Ask HN: How to Speak Confidently?)
-                https://news.ycombinator.com/item?id=26847816 (Ask HN: What was the biggest leadership challenge of your career?)
-                https://www.amazon.com/gp/bestsellers/books/2569 (Amazon Best Sellers in Time Management)
-                https://www.indiehackers.com
-                https://www.reddit.com/r/cscareerquestions/comments/6fnujy/soft_skills_for_programmers
+                Http://Sabok.Org (Guide To The Systems Administration Body Of Knowledge)
+                Http://Startupstash.Com
+                Http://Www.Toomas.Net/2017/07/18/Reverse-Engineering-A-Successful-Lifestyle-Business-Heres-Everything-Ive-Learned-From-Reading-Indiehackers-Com
+                Https://Cofounderslab.Com
+                Https://Diataxis.Fr (The Grand Unified Theory Of Documentation)
+                Https://Github.Com/Dakshshah96/Awesome-Startup-Credits (A Collection Of Awesome Companies Offering Free/Discounted Plans For Eligible Startups)
+                Https://Github.Com/Dwmkerr/Hacker-Laws (Laws, Theories, Principles And Patterns That Developers Will Find Useful. #Hackerlaws )
+                Https://Github.Com/Kuchin/Awesome-Cto (A Curated And Opinionated List Of Resources For Chief Technology Officers, With The Emphasis On Startups)
+                Https://Github.Com/Pharkmillups/Beautiful-Docs (Pointers To Useful, Well-Written, And Otherwise Beautiful Documentation.)
+                Https://Github.Com/Ryanburgess/Engineer-Manager (A List Of Engineering Manager Resource Links. )
+                Https://Github.Com/Vgraupera/1on1-Questions (Mega List Of 1 On 1 Meeting Questions Compiled From A Variety To Sources)
+                Https://News.Ycombinator.Com/Item?Id=11209066 (Why You Probably Don'T Need An Mba)
+                Https://News.Ycombinator.Com/Item?Id=13207268 (Ask Hn: How Do I Get Freelance Developer Jobs?)
+                Https://News.Ycombinator.Com/Item?Id=13855577 (Ask Hn: What Do You Use To Align Your Daily Todos With Your Long Term Goals?)
+                Https://News.Ycombinator.Com/Item?Id=14146850 (Ask Hn: Best Business Advice For Software Developers)
+                Https://News.Ycombinator.Com/Item?Id=14279870 (Ask Hn: Should I Create A Clone Of A Popular Saas With Rock-Bottom Pricing?)
+                Https://News.Ycombinator.Com/Item?Id=14316349 (Ask Hn: Freelance Management Services/Apps)
+                Https://News.Ycombinator.Com/Item?Id=14569154 (Ask Hn: Where To Find Co-Developers For Side Projects?)
+                Https://News.Ycombinator.Com/Item?Id=14653564 (Ask Hn: As An Employee Of A Company, How Do You Assess Its Health?)
+                Https://News.Ycombinator.Com/Item?Id=14726130 (Ask Hn: How To Prepare For An Engineering Manager Interview?)
+                Https://News.Ycombinator.Com/Item?Id=15039829 (Ask Hn: What Costly Inefficiency Do You See At Work?)
+                Https://News.Ycombinator.Com/Item?Id=15579047 (Ask Hn: How Do You Take Idea Notes / Voice Memos / Reminders To Yourself?)
+                Https://News.Ycombinator.Com/Item?Id=15831046 (Ask Hn: Time Management Tricks And Tips)
+                Https://News.Ycombinator.Com/Item?Id=16322942 (Ask Hn: Simple Tools/Hack For Small Project Management)
+                Https://News.Ycombinator.Com/Item?Id=16377523 (Ask Hn: Best Project Management Practices In 2018?)
+                Https://News.Ycombinator.Com/Item?Id=16453227 (Ask Hn: How Do You Overcome The Problems Of Task Switching?)
+                Https://News.Ycombinator.Com/Item?Id=16482392 (Ask Hn: Successful One-Person Online Businesses?)
+                Https://News.Ycombinator.Com/Item?Id=16508308 (Ask Hn: What Are Your Best Domestic Time Saving Tips?)
+                Https://News.Ycombinator.Com/Item?Id=16522756 (Ask Hn: What Are Good Writing Tips For Software Developers?)
+                Https://News.Ycombinator.Com/Item?Id=16560812 (Ask Hn: What Tools Have Most Helped Your Day-To-Day Productivity?)
+                Https://News.Ycombinator.Com/Item?Id=16671944 (How To Fall Asleep In Two Minutes Or Less)
+                Https://News.Ycombinator.Com/Item?Id=16852410 (Tell Hn: My Best Productivity Hack)
+                Https://News.Ycombinator.Com/Item?Id=17031588 (Ask Hn: Advice To Your Younger Self)
+                Https://News.Ycombinator.Com/Item?Id=17204467 (Ask Hn: Recommendations On Books And Documentaries On Tech Companies/People?)
+                Https://News.Ycombinator.Com/Item?Id=17238135 (How To Be A Manager – A Step-By-Step Guide To Leading A Team)
+                Https://News.Ycombinator.Com/Item?Id=17291127 (Ask Hn: Is There A New Habit You Cultivated Recently That Is Really Paying Off?)
+                Https://News.Ycombinator.Com/Item?Id=17295064 (Ask Hn: How Do You Manage Your Mental Health?)
+                Https://News.Ycombinator.Com/Item?Id=17385291 (Ask Hn: What Are The Things That You Have Automated In Your Personal Life?)
+                Https://News.Ycombinator.Com/Item?Id=17398726 (Ask Hn: Which Project Management And Team Communication Software Do You Use?)
+                Https://News.Ycombinator.Com/Item?Id=17544764 (Ask Hn: How Do You Focus At Work?)
+                Https://News.Ycombinator.Com/Item?Id=17892731 (Ask Hn: How To Organize Personal Knowledge?)
+                Https://News.Ycombinator.Com/Item?Id=17942709 (Ask Hn: As A Technical Founder What Is The Best Business Book You'Ve Read?)
+                Https://News.Ycombinator.Com/Item?Id=18071909 (Ask Hn: What Was The Best Decision You Made In Your Career?)
+                Https://News.Ycombinator.Com/Item?Id=18098992 (Ask Hn: What Things Have Richly Rewarded The Time Invested In Mastering Them?)
+                Https://News.Ycombinator.Com/Item?Id=18132736 (Ask Hn: What Did You Learn The Hard Way?)
+                Https://News.Ycombinator.Com/Item?Id=18179972 (How To Get Things Done When You Don'T Feel Like It (Acm.Org))
+                Https://News.Ycombinator.Com/Item?Id=18588727 (Ask Hn: What Are Your ?Brain Hacks? That Help You Manage Every Day Situations?)
+                Https://News.Ycombinator.Com/Item?Id=19349676 (Ask Hn: How To Speak Like A Leader, Not Like An Engineer?)
+                Https://News.Ycombinator.Com/Item?Id=19996062 (Ask Hn: What Tools/Methods Do You Use To Focus Your Time Well?)
+                Https://News.Ycombinator.Com/Item?Id=20230133 (Ask Hn: What Are The Signs That You Have A Great Manager?)
+                Https://News.Ycombinator.Com/Item?Id=20503813 (Ask Hn: What People Skills Do You Wish You Learned Earlier In Your Career?)
+                Https://News.Ycombinator.Com/Item?Id=21712194 (Ask Hn: Best Book / Resources On Leadership, Especially For Tech Teams?)
+                Https://News.Ycombinator.Com/Item?Id=22092303 (Ask Hn: Courses/Resources To Improve My Self-Esteem And Believe In Myself More?)
+                Https://News.Ycombinator.Com/Item?Id=23050717 (Ask Hn: Learning The Business-Side Of Things As A Developer?)
+                Https://News.Ycombinator.Com/Item?Id=23118940 (Ask Hn: What Are Your Favorite Developer-Efficiency Tips?)
+                Https://News.Ycombinator.Com/Item?Id=23152092 (	Ask Hn: I'Ve Been Promoted To Architect. What Do I Need To Learn/Do To Excel?)
+                Https://News.Ycombinator.Com/Item?Id=23759547 (	Ask Hn: What Makes A Good Technical Leader – Any Recommended Books?)
+                Https://News.Ycombinator.Com/Item?Id=24123372 (Classic Books For Tech Leads Or Those Aspiring To Be (Sourcelevel.Io))
+                Https://News.Ycombinator.Com/Item?Id=26807085 (Ask Hn: How To Speak Confidently?)
+                Https://News.Ycombinator.Com/Item?Id=26847816 (Ask Hn: What Was The Biggest Leadership Challenge Of Your Career?)
+                Https://Www.Amazon.Com/Gp/Bestsellers/Books/2569 (Amazon Best Sellers In Time Management)
+                Https://Www.Indiehackers.Com
+                Https://Www.Reddit.Com/R/Cscareerquestions/Comments/6fnujy/Soft_skills_for_programmers
+                Https://News.Ycombinator.Com/Item?Id=27333260 (Drunk Post: Things I'Ve Learned As A Sr Engineer (Reddit.Com))
 
             Books and Courses:
                 The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change
