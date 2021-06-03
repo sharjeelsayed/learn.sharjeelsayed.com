@@ -786,6 +786,7 @@ Contents:
                 https://man7.org/linux/man-pages/man7/namespaces.7.html
                 https://news.ycombinator.com/item?id=15822583 (Ask HN: Good resources on learning how docker works under the hood?)
                 https://sparkle.adroitcorp.com.au/market (Flashcards)
+                https://sysdig.com/blog/dockerfile-best-practices
                 https://www.fb.com/groups/devopsdocker
                 https://www.freecodecamp.org/news/the-docker-handbook
                 https://www.reddit.com/r/docker
@@ -1003,12 +1004,13 @@ Contents:
                 https://aws.amazon.com/getting-started/hands-on
                 https://awsstash.com
                 https://awsvideocatalog.com (AWS Video Catalog is a website that collects all the official Amazon videos)
-                https://bash-my-aws.org
                 https://expeditedsecurity.com/aws-in-plain-english
                 https://github.com/anaibol/awesome-serverless
-                https://github.com/aramalipoor/aws-cost-saver
+                https://github.com/aramalipoor/aws-cost-saver (A tiny CLI tool to help save costs in development environments when you're asleep and don't need them!)
                 https://github.com/awsdocs
                 https://github.com/baobabKoodaa/cloudbite (Flashcards to learn AWS skills)
+                https://github.com/bash-my-aws/bash-my-aws (Simple but powerful CLI commands for managing AWS resources)
+                https://github.com/dannysteenman/aws-toolbox
                 https://github.com/donnemartin/awesome-aws
                 https://github.com/jckuester/awsls (A list command for AWS resources)
                 https://github.com/localstack/localstack (A fully functional local AWS cloud stack)
@@ -1018,7 +1020,9 @@ Contents:
                 https://github.com/serverless/serverless
                 https://github.com/toniblyx/my-arsenal-of-aws-security-tools
                 https://github.com/topics/aws?o=desc&s=stars
+                https://github.com/turbot/steampipe (Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required.)
                 https://github.com/undergroundwires/AWS-in-bullet-points
+                https://github.com/wallix/awless (A Mighty CLI for AWS)
                 https://linuxacademy-community-slack.herokuapp.com
                 https://www.aws.training
                 https://www.awsgeek.com (Cloud Diagrams & Notes)
