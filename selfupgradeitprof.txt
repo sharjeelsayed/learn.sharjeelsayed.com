@@ -112,6 +112,7 @@ Contents:
             http://cdn.cs50.net/guide/guide-15.pdf (Unofficial Guide to CS at Harvard)
             http://matt.might.net/articles/what-cs-majors-should-know
             https://begriffs.com/posts/2017-04-13-longterm-computing-reading.html
+            https://docs.google.com/spreadsheets/d/1zfw8nPvJeewxcFUBpKUKmAVE8PjnJI7H0CKimdQXxr0/htmlview (Stanford CS Curriculum)
             https://en.wikipedia.org/wiki/Outline_of_computer_science
             https://github.com/Developer-Y/cs-video-courses
             https://github.com/mvillaloboz/open-source-cs-degree
@@ -529,6 +530,7 @@ Contents:
             https://news.ycombinator.com/item?id=20225118 (Ask HN: Best free compute and other resources for startups?)
             https://pauljerimy.com/wp-content/uploads/2020/03/IT_CareerRoadmap2020smol.png (IT Career Roadmap)
             https://www.atlassian.com/incident-management
+            https://www.dsicommunity.org (DevOps, SRE & Infrastructure Discord Group)
             https://www.reddit.com/r/compsci+cscareerquestions+learnprogramming+linux+linuxadmin+netsec+networking+programming+sysadmin
             https://www.reddit.com/r/homelab/wiki/software
             https://www.reddit.com/r/ITCareerQuestions/comments/5nvltv/what_fieldsdisciplines_should_i_be_looking_into/dcf3ny0
@@ -538,6 +540,7 @@ Contents:
         DevOps:
             Sources:
                 http://www.devopsbookmarks.com
+                https://devopsengineers.com (SLACK CHANNEL)
                 https://devopsnewsletters.com
                 https://github.com/AcalephStorage/awesome-devops
                 https://github.com/bregman-arie/devops-resources
@@ -551,6 +554,7 @@ Contents:
                 https://news.ycombinator.com/item?id=16357368 (Ask HN: Which books describe modern devops?)
                 https://octopus.com/blog/devops-reading-list
                 https://roadmap.sh/devops
+                https://slack.cloudposse.com (SweetOps Slack Group)
                 https://www.linkedin.com/groups/2825397 (DevOps Group)
                 https://www.reddit.com/r/devops/comments/n2l9ja/which_are_your_favourite_youtube_channelsblogs
                 https://www.reddit.com/r/DevOps/wiki/resources
@@ -1034,6 +1038,7 @@ Contents:
                 https://www.reddit.com/r/sysadmin/comments/8inzn5/so_you_want_to_learn_aws_aka_how_do_i_learn_to_be
                 https://www.stackery.io/registry (Enter an AWS CloudFormation template for instant analysis)
                 https://youtu.be/B08iQQhXG1Y (The Most Important AWS Services (with an easy to follow example!))
+                https://discord.gg/RePKRaYGqM (AWS Discord Group)
                 https://pinboard.in/u:SharjeelSayed/t:aws
 
             Books and Courses:
@@ -1336,22 +1341,23 @@ Contents:
         Git:
             Sources:
                 https://about.gitlab.com/images/press/git-cheat-sheet.pdf
+                https://bakkenbaeck.github.io/a-random-walk-through-git (This tutorial is an in-depth look at how Git works)
                 https://codewords.recurse.com/issues/two/git-from-the-inside-out
                 https://firstaidgit.io (A searchable collection of the most frequently asked Git Questions)
                 https://git-scm.com/book/en/v2/Git-Internals-Plumbing-and-Porcelain
                 https://git-scm.com/book/en/v2/Git-Tools-Reset-Demystified (Reset vs Checkout)
-                https://github.com/FAQGURU/FAQGURU/blob/master/topics/en/git.md (A list of interview questions)
-                https://github.com/LeCoupa/awesome-cheatsheets/blob/master/tools/git.sh
-                https://github.com/UnseenWizzard/git_training (An interactive git training meant to teach you how git works, not just which commands to execute)
                 https://github.com/dandavison/delta (A viewer for git and diff output)
+                https://github.com/FAQGURU/FAQGURU/blob/master/topics/en/git.md (A list of interview questions)
                 https://github.com/gabrie30/ghorg (Quickly clone an entire org/users repositories into one directory - Supports GitHub, GitLab, Bitbucket, and more)
                 https://github.com/git-tips/tips (Most commonly used git tips and tricks.)
                 https://github.com/github/hub (A command-line tool that makes git easier to use with GitHub.)
                 https://github.com/jesseduffield/lazygit (simple terminal UI for git commands)
                 https://github.com/k88hudson/git-flight-rules (Flight rules for git)
+                https://github.com/LeCoupa/awesome-cheatsheets/blob/master/tools/git.sh
                 https://github.com/pluralsight/git-internals-pdf/releases (A PDF by Scott Chacon about how the Git source code control system stores files and revisions.)
                 https://github.com/topics/git?o=desc&s=stars
                 https://github.com/toptal/gitignore.io
+                https://github.com/UnseenWizzard/git_training (An interactive git training meant to teach you how git works, not just which commands to execute)
                 https://grep.app (Search across a half million git repos)
                 https://jwiegley.github.io/git-from-the-bottom-up/1-Repository/7-branching-and-the-power-of-rebase.html (Best explanation of rebase vs merge)
                 https://news.ycombinator.com/item?id=21189256 (99% of the Git commands you'll need at work, demonstrated in a single script (bitbucket.org))
@@ -1522,6 +1528,7 @@ Contents:
                 https://github.com/chughes29/Cloud-DevSecOps-Learning/blob/main/Cloud%20%26%20DevSecOps%20Learning%20(1).md (Cloud-DevSecOps-Learning)
                 https://github.com/dafthack/CloudPentestCheatsheets
                 https://github.com/danielmiessler/SecLists
+                https://github.com/fabionoth/awesome-cyber-security
                 https://github.com/forter/security-101-for-saas-startups
                 https://github.com/Gr1mmie/Practical-Ethical-Hacking-Resources
                 https://github.com/Hack-with-Github/Awesome-Hacking
@@ -1530,6 +1537,7 @@ Contents:
                 https://github.com/OWASP/CheatSheetSeries
                 https://github.com/pluja/awesome-privacy (A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.)
                 https://github.com/qazbnm456/awesome-web-security
+                https://github.com/sbilly/awesome-security
                 https://github.com/topics/oscp?o=desc&s=stars
                 https://github.com/topics/security?o=desc&s=stars
                 https://github.com/topics/websecurity?o=desc&s=stars
@@ -1608,6 +1616,7 @@ Contents:
                 https://github.com/jaywcjlove/awesome-mac
                 https://github.com/mathiasbynens/dotfiles (🔧 .files, including ~/.macos — sensible hacker defaults for macOS)
                 https://github.com/nikitavoloboev/my-mac-os
+                https://github.com/sb2nov/mac-setup (Installing Development environment on macOS)
                 https://github.com/serhii-londar/open-source-mac-os-apps
                 https://github.com/topics/macos?o=desc&s=stars
                 https://news.ycombinator.com/item?id=19515627 (Ask HN: What are your favorite utility desktop apps?)
@@ -2618,6 +2627,7 @@ Contents:
                 http://audiobookbay.nl (9,312)
                 https://b-ok.asia (18,183)
                 https://1lib.in (20,965)
+                https://btdig.com (31,311)
                 https://forum.mobilism.org (35,907)
                 https://librivox.org (46,088)
                 https://ebookee.org (65,109)
@@ -2628,6 +2638,7 @@ Contents:
                 http://breue.com/free_programming_books (1,030,459)
                 https://forcoder.su (1,156,891)
                 http://ebb.la (1,277,878)
+                https://cse.google.com/cse?cx=c46414ccb6a943e39 (Google Custom Search Engine for Ebooks)
                 https://cse.google.com/cse/publicurl?cx=001639227550064093264:dznewka3cca (Google Custom Search Engine for Ebooks)
                 https://cse.google.com/cse/publicurl?cx=011394183039475424659:5bfyqg89ers (Google Custom Search Engine for Ebooks)
                 irc://irc.irchighway.net/ebooks
@@ -2919,11 +2930,11 @@ Contents:
                     https://www.washingtonpost.com (176)
                     https://cnbc.com (270)
                     https://forbes.com (281)
-                    https://www.moneycontrol.com (344)
-                    https://ndtv.com (371)
-                    https://bloomberg.com (401)
-                    https://reuters.com (418)
-                    https://www.wsj.com (425)
+                    https://www.moneycontrol.com (318)
+                    https://bloomberg.com 396)
+                    https://www.wsj.com (428)
+                    https://reuters.com (430)
+                    https://ndtv.com (453)
                     https://abcnews.go.com (521)
                     https://indianexpress.com (643)
                     https://www.huffpost.com (795)
@@ -2964,6 +2975,7 @@ Contents:
                     https://venturebeat.com (5,951)
                     https://thenextweb.com (6,814)
                     https://appleinsider.com (6,940)
+                    https://www.bleepingcomputer.com (7,105)
                     https://www.macworld.com (7,389)
                     https://www.anandtech.com (8,028)
                     https://bgr.com (12,665)
@@ -3410,6 +3422,7 @@ Contents:
         https://news.ycombinator.com/item?id=24436135 (Ask HN: What is your favorite motto?)
         https://news.ycombinator.com/item?id=25136258 (Ask HN: What is the best money you have spent on professional development?)
         https://news.ycombinator.com/item?id=25518730 (	Tips for a Better Life (lesswrong.com))
+        https://rfc.fyi (Browse RFCs by keywords, id or collection)
         https://sourceful.co.uk (Discover the best public GoogleDocs and Sheets)
         https://tldrlegal.com (Software Licenses in Plain English)
         https://twitter.com/search?q=Gone%20Free%20(from%3ASharjeelSayed)
