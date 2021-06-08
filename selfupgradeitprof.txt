@@ -2424,6 +2424,7 @@ Contents:
         Money:
             Sources:
                 https://codewithoutrules.com/2016/08/08/living-below-your-means
+                https://discord.gg/hqBNg4u (/rindiainvestments Discord Channel)
                 https://finurls.com
                 https://news.ycombinator.com/item?id=12556160 (Ask HN: What are the must-read books about economics/finance?)
                 https://news.ycombinator.com/item?id=15140182 (A Guide to Crypto Currencies (mycrypto.guide))
@@ -2437,9 +2438,9 @@ Contents:
                 https://news.ycombinator.com/item?id=22573204 (Ask HN: Book recommendations for understanding financial systems?)
                 https://news.ycombinator.com/item?id=22709843 (Ask HN: Introductory Books on the Stock Market?)
                 https://www.amazon.com/gp/bestsellers/books/491584
+                https://www.indiainvestments.wiki
+                https://www.indiainvestments.wiki/start-here/zero-to-investing
                 https://www.reddit.com/r/Economics/wiki/reading
-                https://www.reddit.com/r/india/comments/6b480c/psa_investing_in_mutual_funds_101
-                https://www.reddit.com/r/IndiaInvestments/wiki
 
             Books and Courses:
                 Basic Economics 5th Edition
@@ -2453,6 +2454,24 @@ Contents:
 
                 The Plain Bagel Basics
                 https://www.youtube.com/playlist?list=PLD18sR-9Y-XHGlrT_3aKElcyzz9eTDGsy
+
+            MF Sites and Apps: (Sorted by Alexa Rank)
+                https://coin.zerodha.com (212)
+                https://groww.in (3,185)
+                https://www.mobikwik.com (11,878)
+                https://www.paytmmoney.com (12,657)
+                https://www.etmoney.com (14,775)
+                https://www.indmoney.com (25,584)
+                https://kuvera.in (32,195)
+                https://www.goniyo.com (57,497)
+                https://www.mfuindia.com (333,486)
+
+            Stock Trading Sites and Apps: (Sorted by Alexa Rank)
+                https://zerodha.com (212)
+                https://upstox.com (1,341)
+                https://groww.in (3,185)
+                https://www.5paisa.com (11,083)
+                https://www.paytmmoney.com (12,657)
 
         Foreign Language:
             Source:
