@@ -680,6 +680,7 @@ Contents:
 
         Bash:
             Sources:
+                http://redsymbol.net/articles/unofficial-bash-strict-mode
                 https://github.com/alebcay/awesome-shell
                 https://github.com/alexanderepstein/Bash-Snippets (A collection of small bash scripts for heavy terminal users)
                 https://github.com/dylanaraps/pure-bash-bible
@@ -845,6 +846,7 @@ Contents:
                 https://github.com/kelseyhightower/kubernetes-the-hard-way
                 https://github.com/kubernetes/kubernetes
                 https://github.com/LeCoupa/awesome-cheatsheets/blob/master/tools/kubernetes.md
+                https://github.com/madhuakula/kubernetes-goat (Kubernetes Goat is "Vulnerable by Design" Kubernetes Cluster)
                 https://github.com/magnologan/awesome-k8s-security
                 https://github.com/nkuba/k8s-admin-helper
                 https://github.com/r0hi7/k8s-In-30Mins (Learn how to set up the Kubernetes cluster in 30 mins and deploy the application inside the cluster.)
@@ -1008,6 +1010,7 @@ Contents:
                 https://aws.amazon.com/getting-started/hands-on
                 https://awsstash.com
                 https://awsvideocatalog.com (AWS Video Catalog is a website that collects all the official Amazon videos)
+                https://discord.gg/RePKRaYGqM (AWS Discord Group)
                 https://expeditedsecurity.com/aws-in-plain-english
                 https://github.com/anaibol/awesome-serverless
                 https://github.com/aramalipoor/aws-cost-saver (A tiny CLI tool to help save costs in development environments when you're asleep and don't need them!)
@@ -1016,6 +1019,7 @@ Contents:
                 https://github.com/bash-my-aws/bash-my-aws (Simple but powerful CLI commands for managing AWS resources)
                 https://github.com/dannysteenman/aws-toolbox
                 https://github.com/donnemartin/awesome-aws
+                https://github.com/dpritchett/aws-budget-limiter (Simple Terraform script for capping monthly AWS spend)
                 https://github.com/jckuester/awsls (A list command for AWS resources)
                 https://github.com/localstack/localstack (A fully functional local AWS cloud stack)
                 https://github.com/nccgroup/aws-inventory (Discover resources created in an AWS account)
@@ -1038,7 +1042,6 @@ Contents:
                 https://www.reddit.com/r/sysadmin/comments/8inzn5/so_you_want_to_learn_aws_aka_how_do_i_learn_to_be
                 https://www.stackery.io/registry (Enter an AWS CloudFormation template for instant analysis)
                 https://youtu.be/B08iQQhXG1Y (The Most Important AWS Services (with an easy to follow example!))
-                https://discord.gg/RePKRaYGqM (AWS Discord Group)
                 https://pinboard.in/u:SharjeelSayed/t:aws
 
             Books and Courses:
@@ -2437,6 +2440,7 @@ Contents:
                 https://news.ycombinator.com/item?id=20521902 (Ask HN: What did you do when you suddenly got rich?)
                 https://news.ycombinator.com/item?id=22573204 (Ask HN: Book recommendations for understanding financial systems?)
                 https://news.ycombinator.com/item?id=22709843 (Ask HN: Introductory Books on the Stock Market?)
+                https://trello.com/b/NPlSa3C7/journey-board (Agile Sprint Board for next initiatives of r/IndiaInvestments)
                 https://www.amazon.com/gp/bestsellers/books/491584
                 https://www.indiainvestments.wiki
                 https://www.indiainvestments.wiki/start-here/zero-to-investing
@@ -3211,7 +3215,7 @@ Contents:
                 https://news.ycombinator.com/item?id=18650238 (Ask HN: How to backup emails?)
                 https://news.ycombinator.com/item?id=22846851 (Ask HN: How do you backup your email?)
                 https://takeout.google.com/settings/takeout
-                https://www.offlineimap.org
+                https://sourceforge.net/projects/isync
 
             Email Clients:
                 http://www.macdrifter.com/2013/11/mailmate-explorations.html
