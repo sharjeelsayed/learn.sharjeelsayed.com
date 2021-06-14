@@ -3211,11 +3211,16 @@ Contents:
 
             Email Backup:
                 http://gmvault.org
-                https://news.ycombinator.com/item?id=12986433 (Gmvault: Backup and restore your Gmail account (github.com))
-                https://news.ycombinator.com/item?id=18650238 (Ask HN: How to backup emails?)
-                https://news.ycombinator.com/item?id=22846851 (Ask HN: How do you backup your email?)
+                https://github.com/jay0lee/got-your-back
                 https://takeout.google.com/settings/takeout
-                https://sourceforge.net/projects/isync
+
+                isync / mbsync:
+                    https://github.com/LukeSmithxyz/mutt-wizard
+                    https://github.com/neomutt/neomutt/issues/1195#issuecomment-388016804 # bind <ctrl-o> to sidebar-open not working
+                    https://isync.sourceforge.io/mbsync.html
+                    https://serverfault.com/a/1040984/3501 (gpg: what do I need to backup?)
+                    https://sourceforge.net/p/isync/isync/ci/master/tree/src/mbsync.1#l522
+                    https://wiki.archlinux.org/title/Isync
 
             Email Clients:
                 http://www.macdrifter.com/2013/11/mailmate-explorations.html
