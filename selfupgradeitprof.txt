@@ -1564,6 +1564,7 @@ Contents:
                 https://www.cisecurity.org/cis-benchmarks
                 https://www.cybrary.it
                 https://www.edx.org/learn/cybersecurity
+                https://www.netmeister.org/blog/infosec-competencies.html ((Technical) Infosec Core Competencies)
                 https://www.reddit.com/r/crypto/wiki
                 https://www.reddit.com/r/netsec/wiki
                 https://www.reddit.com/r/netsec+privacy+SocialEngineering+onions+ReverseEngineering+crypto+blackhat+security+Malware+pwned+netsecstudents+computerforensics+HackBloc+securityCTF+xss+vrd+rootkit+REMath
@@ -1610,6 +1611,7 @@ Contents:
             Sources:
                 https://blog.bejarano.io/hardening-macos
                 https://defkey.com/apple-macos-shortcuts
+                https://dev.to/wes/how2-using-gpg-on-macos-without-gpgtools-428f
                 https://dotfilehub.com
                 https://github.com/donnemartin/dev-setup
                 https://github.com/drduh/macOS-Security-and-Privacy-Guide
@@ -1622,6 +1624,7 @@ Contents:
                 https://github.com/sb2nov/mac-setup (Installing Development environment on macOS)
                 https://github.com/serhii-londar/open-source-mac-os-apps
                 https://github.com/topics/macos?o=desc&s=stars
+                https://medium.com/@cav/foss-password-management-with-passwordstore-9d34fec2fe84
                 https://news.ycombinator.com/item?id=19515627 (Ask HN: What are your favorite utility desktop apps?)
                 https://news.ycombinator.com/item?id=24091707 (Ask HN: What feature did you find after years of using macOS?)
                 https://opensource.com/article/19/5/python-3-default-mac (The right and wrong way to set Python 3 as default on a Mac)
@@ -3218,7 +3221,6 @@ Contents:
                     https://github.com/LukeSmithxyz/mutt-wizard
                     https://github.com/neomutt/neomutt/issues/1195#issuecomment-388016804 # bind <ctrl-o> to sidebar-open not working
                     https://isync.sourceforge.io/mbsync.html
-                    https://serverfault.com/a/1040984/3501 (gpg: what do I need to backup?)
                     https://sourceforge.net/p/isync/isync/ci/master/tree/src/mbsync.1#l522
                     https://wiki.archlinux.org/title/Isync
 
@@ -3257,6 +3259,7 @@ Contents:
                 http://gaul.org/object-store-comparison
                 https://clonezilla.org
                 https://cryptomator.org
+                https://db.tt/YL0e12GN (Dropbox 500 MB of bonus space)
                 https://github.com/gilbertchen/benchmarking
                 https://github.com/gilbertchen/cloud-storage-comparison
                 https://github.com/gilbertchen/duplicacy
@@ -3265,19 +3268,19 @@ Contents:
                 https://github.com/schollz/croc
                 https://github.com/simon987/awesome-datahoarding
                 https://github.com/topics/backup?o=desc&s=stars
+                https://mega.nz/C!vuhRiKpB (Mega.nz Extra Storage)
                 https://news.ycombinator.com/item?id=17603348 (Ask HN: How do you backup your files without depending on a third party service?)
                 https://news.ycombinator.com/item?id=18692844 (Ask HN: Best Centralized Backup Solution)
                 https://news.ycombinator.com/item?id=21410833 (Restic – Backups Done Right (restic.net))
                 https://nuetzlich.net/gocryptfs/comparison
                 https://restic.readthedocs.io/en/stable/100_references.html#design
                 https://ruderich.org/simon/notes/append-only-backups-with-restic-and-rclone
+                https://serverfault.com/a/1040984/3501 (gpg: what do I need to backup?)
                 https://syncthing.net
                 https://szymonkrajewski.pl/synchronize-local-files-cryptomator-vault
                 https://www.backblaze.com/b2/cloud-storage-pricing.html
                 https://www.reddit.com/r/DataHoarder/comments/axvxwl/anything_cheaper_than_backblaze_b2
                 https://www.tarsnap.com
-                https://db.tt/YL0e12GN (Dropbox 500 MB of bonus space)
-                https://mega.nz/C!vuhRiKpB (Mega.nz Extra Storage)
 
             Tools:
                 Restic
