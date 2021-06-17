@@ -310,8 +310,8 @@ Contents:
                 https://news.ycombinator.com/item?id=14526344 (Build a Modern Computer from First Principles: Nand to Tetris Part II)
 
             Books and Courses:
-                The Elements of Computing Systems: Building a Modern Computer from First Principles
-                https://www.amazon.com/Elements-Computing-Systems-Building-Principles/dp/0262640686
+                The Elements of Computing Systems: Building a Modern Computer from First Principles 2nd Edition by Noam Nisan and Shimon Schocken
+                https://www.amazon.com/Elements-Computing-Systems-second-Principles-dp-0262539802/dp/0262539802
                 http://www.nand2tetris.org
                 http://nandgame.com
 
@@ -607,6 +607,7 @@ Contents:
                 http://stackoverflow.com/questions/236838/what-are-good-linuxunix-books-for-an-advancing-user
                 https://dashdash.io (Linux Man Pages)
                 https://github.com/0xAX/linux-insides
+                https://github.com/ibraheemdev/modern-unix (A collection of modern/faster/saner alternatives or complements to common unix commands.)
                 https://github.com/imthenachoman/How-To-Secure-A-Linux-Server
                 https://github.com/inputsh/awesome-linux
                 https://github.com/luong-komorebi/Awesome-Linux-Software
