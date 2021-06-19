@@ -2080,6 +2080,7 @@ Contents:
         Interview Guides:
             Sources:
                 http://blog.interviewing.io/what-really-matters-in-technical-interviews-we-analyzed-thousands-of-interviews-on-everything-from-language-to-code-style-heres-what-we-found
+                https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation (This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Love Babbar Bhaiya, FAANG Questions), Technical Subjects (OS + DBMS + SQL + CN + OOPs) Theory+Questions, FAANG Interview questions, and Miscellaneous Stuff (Programming MCQs, Puzzles, Aptitude, Reasoning).)
                 https://github.com/DopplerHQ/awesome-interview-questions
                 https://github.com/kdn251/interviews
                 https://github.com/mxssl/sre-interview-prep-guide
@@ -2391,10 +2392,11 @@ Contents:
                 Https://News.Ycombinator.Com/Item?Id=24123372 (Classic Books For Tech Leads Or Those Aspiring To Be (Sourcelevel.Io))
                 Https://News.Ycombinator.Com/Item?Id=26807085 (Ask Hn: How To Speak Confidently?)
                 Https://News.Ycombinator.Com/Item?Id=26847816 (Ask Hn: What Was The Biggest Leadership Challenge Of Your Career?)
+                Https://News.Ycombinator.Com/Item?Id=27333260 (Drunk Post: Things I'Ve Learned As A Sr Engineer (Reddit.Com))
+                https://news.ycombinator.com/item?id=27408120 (Ask HN: Books for Effective Communication)
                 Https://Www.Amazon.Com/Gp/Bestsellers/Books/2569 (Amazon Best Sellers In Time Management)
                 Https://Www.Indiehackers.Com
                 Https://Www.Reddit.Com/R/Cscareerquestions/Comments/6fnujy/Soft_skills_for_programmers
-                Https://News.Ycombinator.Com/Item?Id=27333260 (Drunk Post: Things I'Ve Learned As A Sr Engineer (Reddit.Com))
 
             Books and Courses:
                 The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change
@@ -3122,21 +3124,26 @@ Contents:
                 https://news.ycombinator.com/item?id=22280939 (Ask HN: What are the underrated newsletters you like reading?)
 
             Sites: (Sorted by Alexa Rank)
+                https://www.morningbrew.com/emerging-tech (11,443)
                 https://stratechery.com (31,753)
                 https://thenewstack.io/newsletter-archive (33,165)
+                https://finshots.in (53,547)
                 https://www.ben-evans.com/newsletter (68,200)
                 https://danielmiessler.com/newsletter (87,140)
                 https://www.schneier.com/crypto-gram (124,344)
                 https://www.lastweekinaws.com (425,861)
-                https://hackernewsletter.com (850,211)
+                https://hackernewsletter.com (888,419)
                 https://devopsish.com (2,523,997)
                 https://softwareleadweekly.com (2,607,781)
                 https://sreweekly.com (2,618,415)
+                https://unreadit.com (2,766,276)
                 https://www.devopsweekly.com (3,945,939)
                 https://tldrsec.com (4,105,507)
                 https://kubeweekly.io (6,389,097)
                 https://thisweekindevops.com (5,288,621)
                 https://ipj.dreamhosters.com (The Internet Protocol Journal) (9,323,436)
+                https://meanwhileinsecurity.com (n/a)
+
 
         Podcasts:
             Sources:
@@ -3200,6 +3207,7 @@ Contents:
                 https://github.com/mailcow/mailcow-dockerized
                 https://github.com/sovereign/sovereign
                 https://github.com/tomav/docker-mailserver
+                https://maddy.email
                 https://mailcow.email
                 https://mailinabox.email
                 https://mailu.io
