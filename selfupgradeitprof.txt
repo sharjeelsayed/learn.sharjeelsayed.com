@@ -870,7 +870,7 @@ Contents:
                 https://kubernetes.io/docs/tasks
                 https://kubernetes.io/docs/tasks/manage-kubernetes-objects/imperative-command
                 https://kubernetes.io/training
-                https://kubernetesbyexample.com
+                https://kubernetesbyexample.com (KBE lessons emphasize an ‘absorb by doing’ approach so you can practices skills as they are explored and explained to learn Kubernetes By Example)
                 https://kubernetesreadme.com (What books 📚 to read to learn more about Kubernetes)
                 https://labs.play-with-k8s.com
                 https://learning.oreilly.com/search/?query=kubernetes
@@ -1182,6 +1182,7 @@ Contents:
                 https://github.com/Artemmkin/infrastructure-as-code-tutorial
                 https://github.com/dev-sec/ansible-os-hardening
                 https://github.com/topics/ansible?o=desc&s=stars
+                https://dev-sec.io (devops + security Server Hardening Automation Using Ansible)
                 https://www.reddit.com/r/ansible
 
             Books and Courses:
@@ -1527,7 +1528,7 @@ Contents:
                 https://cheatsheetseries.owasp.org (The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.)
                 https://crowdsec.net
                 https://danielmiessler.com/blog/build-successful-infosec-career
-                https://dev-sec.io (devops + security Server Hardening Automation)
+                https://dev-sec.io (devops + security Server Hardening Automation Using Ansible)
                 https://en.wikipedia.org/wiki/List_of_computer_security_certifications#Most_Popular_Vendor_Neutral_Cyber_Security_Certifications_Among_employers
                 https://github.com/chughes29/Cloud-DevSecOps-Learning/blob/main/Cloud%20%26%20DevSecOps%20Learning%20(1).md (Cloud-DevSecOps-Learning)
                 https://github.com/dafthack/CloudPentestCheatsheets
@@ -3228,13 +3229,14 @@ Contents:
 
                 isync / mbsync:
                     https://github.com/LukeSmithxyz/mutt-wizard
-                    https://github.com/neomutt/neomutt/issues/1195#issuecomment-388016804 # bind <ctrl-o> to sidebar-open not working
                     https://isync.sourceforge.io/mbsync.html
                     https://sourceforge.net/p/isync/isync/ci/master/tree/src/mbsync.1#l522
                     https://wiki.archlinux.org/title/Isync
 
             Email Clients:
                 http://www.macdrifter.com/2013/11/mailmate-explorations.html
+                http://www.mutt.org
+                https://github.com/neomutt/neomutt/issues/1195#issuecomment-388016804 # bind <ctrl-o> to sidebar-open not working
                 https://news.ycombinator.com/item?id=18057643 (Ask HN: Best email client for a Mac?)
                 https://news.ycombinator.com/item?id=19712437 (Ask HN: What email client do you use?)
                 https://sparkmailapp.com
