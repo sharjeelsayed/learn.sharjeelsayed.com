@@ -1,7 +1,7 @@
 Curated Self Study Guide for Computer Science, DevOps, SRE & SysAdmin
 
     The latest copy of this page is at http://Learn.SharjeelSayed.com
-    
+
     Star/Watch/Fork at https://github.com/sharjeelsayed/learn.sharjeelsayed.com
     Track updates to this page via https://github.com/sharjeelsayed/learn.sharjeelsayed.com/commits.atom
 
@@ -3458,7 +3458,6 @@ Contents:
         https://news.ycombinator.com/item?id=20007108 (Ask HN: Do you keep a personal knowledge repository?)
         https://news.ycombinator.com/item?id=20110922 (How to Draw Animals (1930) (dessinoprimaire.blogspot.com))
         https://news.ycombinator.com/item?id=20146168 (Sleep tweaks boost night owls' wellbeing (bbc.com))
-        https://news.ycombinator.com/item?id=20371095 (Ask HN: Best Office Chair for Remote (Home Office) Work)
         https://news.ycombinator.com/item?id=21373931 (Ask HN: What do you automate in your life and work?)
         https://news.ycombinator.com/item?id=21581361 (Ask HN: What's the most valuable thing you can learn in an hour?)
         https://news.ycombinator.com/item?id=22849208 (Ask HN: Programs that saved you 100 hours?)
@@ -3466,6 +3465,7 @@ Contents:
         https://news.ycombinator.com/item?id=24436135 (Ask HN: What is your favorite motto?)
         https://news.ycombinator.com/item?id=25136258 (Ask HN: What is the best money you have spent on professional development?)
         https://news.ycombinator.com/item?id=25518730 (	Tips for a Better Life (lesswrong.com))
+        https://news.ycombinator.com/item?id=27540941 (Ask HN: Have you found a good desk chair?)
         https://rfc.fyi (Browse RFCs by keywords, id or collection)
         https://sourceful.co.uk (Discover the best public GoogleDocs and Sheets)
         https://tldrlegal.com (Software Licenses in Plain English)
@@ -3491,3 +3491,4 @@ Contents:
         https://repl.it/upgrade/sharjeelsayed
         https://todoist.com/r/Sharjeel_Sayed_pndvuw (Todoist Premium free for 2 months)
         https://www.expressrefer.com/refer-friend?referrer_id=39360476 (ExpressVPN 30 days free)
+        https://www.stickermule.com/unlock?ref_id=0324563701 ($10 Credit for stickers)
