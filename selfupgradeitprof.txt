@@ -683,6 +683,7 @@ Contents:
 
         Bash:
             Sources:
+                http://bashrcgenerator.com (Bash PS1 Generator)
                 http://redsymbol.net/articles/unofficial-bash-strict-mode
                 https://github.com/alebcay/awesome-shell
                 https://github.com/alexanderepstein/Bash-Snippets (A collection of small bash scripts for heavy terminal users)
@@ -706,6 +707,7 @@ Contents:
                 https://news.ycombinator.com/item?id=24880170 (/.bashrc VS –/.profile VS –/.bash_profile (leimao.github.io))
                 https://news.ycombinator.com/item?id=25069452 (Linux Command One-Liners (commandlinefu.com))
                 https://news.ycombinator.com/item?id=27023572 (	My Favorite One Liners (muhammadraza.me))
+                https://news.ycombinator.com/item?id=27615516 (Bash PS1 Generator (bashrcgenerator.com))
                 https://switowski.com/blog/favorite-cli-tools
                 https://www.reddit.com/r/usefulscripts
                 https://www.reddit.com/r/usefulscripts/top
@@ -2626,6 +2628,7 @@ Contents:
                 https://news.ycombinator.com/item?id=23485477 (	Ask HN: What, in your opinion, are the greatest and most useful textbooks?)
                 https://news.ycombinator.com/item?id=23535060 (Ask HN: How do you read long PDFs?)
                 https://news.ycombinator.com/item?id=26321793 (Ask HN: Which books made you the most money?)
+                https://news.ycombinator.com/item?id=27636743 (Ask HN: Which book or course gave you an unfair advantage?)
                 https://opentrackers.org/downloading-ebooks-textbooks
                 https://ramiro.org/vis/hn-most-linked-books
                 https://redditfavorites.com/books
