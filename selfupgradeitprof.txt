@@ -523,6 +523,7 @@ Contents:
             https://github.com/danluu/post-mortems
             https://github.com/dastergon/awesome-chaos-engineering
             https://github.com/madd86/awesome-system-design
+            https://github.com/mhadidg/software-architecture-books (A curated list of books on Software Architecture.)
             https://github.com/ripienaar/free-for-dev (A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev)
             https://github.com/theanalyst/awesome-distributed-systems
             https://github.com/topics/architecture?o=desc&s=stars
@@ -577,6 +578,7 @@ Contents:
                 https://github.com/dastergon/awesome-sre
                 https://github.com/linkedin/school-of-sre
                 https://github.com/topics/sre?o=desc&s=stars
+                https://github.com/upgundecha/howtheysre (A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE))
                 https://gitlab.com/gitlab-com/runbooks (Run books for the stressed on call )
                 https://news.ycombinator.com/item?id=14153545 (What Is ‘Site Reliability Engineering’?)
                 https://sre.google/books
@@ -1489,6 +1491,8 @@ Contents:
                 https://thevaluable.dev/vim-beginner
                 https://thevaluable.dev/vim-intermediate
                 https://thevaluable.dev/vim-advanced
+                https://thevaluable.dev/vim-adept
+                https://thevaluable.dev/vim-veteran
 
         ELK:
             Books and Courses:
@@ -2542,6 +2546,7 @@ Contents:
 
         Web Browser:
             Sources:
+                http://ebin.city/~werwolf/posts/firefox-hardening-guide
                 https://news.ycombinator.com/item?id=15696056 (What are your favorite browser extensions/add-ons for Firefox or chrome?)
                 https://news.ycombinator.com/item?id=22105561 (Ask HN: How do you manage your bookmarks?)
                 https://news.ycombinator.com/item?id=22778123 (Ask HN: What do you use to keep track of bookmarks/notes/snippets?)
@@ -3117,6 +3122,10 @@ Contents:
 
                 Tech News Notifications (iOS/Android):
                     Turn on the applet https://IFTTT.com/applets/456148p in the IFTTT Mobile app and add https://www.techmeme.com/feed.xml into the 'Feed URL' field of the applet.
+
+                Cross-Posting Social Media:
+                    https://ifttt.com/applets/rnvTEjV9-automatically-share-new-links-you-post-on-facebook-to-twitter
+                    https://ifttt.com/applets/yfaY7BnX-Tweet-your-Facebook-status-updates
 
         NewsLetters:
             Sources:
