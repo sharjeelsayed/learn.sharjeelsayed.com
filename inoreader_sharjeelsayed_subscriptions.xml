@@ -5,8 +5,7 @@
   </head>
   <body>
     <outline text="MustRead" title="MustRead">
-      <outline text="Google Apps Status Dashboard" title="Google Apps Status Dashboard" type="rss" xmlUrl="https://www.google.com/appsstatus/rss/en" htmlUrl="http://www.google.com/appsstatus/rss/en"/>
-      <outline text="DevOps’ish" title="DevOps’ish" type="rss" xmlUrl="https://kill-the-newsletter.com/feeds/psbxjpwqd40mv0y9pzaj.xml" htmlUrl="https://kill-the-newsletter.com/"/>
+      <outline text="Krebs on Security" title="Krebs on Security" type="rss" xmlUrl="https://krebsonsecurity.com/feed/" htmlUrl="https://krebsonsecurity.com/"/>
       <outline text="The New Stack" title="The New Stack" type="rss" xmlUrl="https://kill-the-newsletter.com/feeds/ztwy8899h9bluq9zx6yn.xml" htmlUrl="https://kill-the-newsletter.com/"/>
       <outline text="The Verge" title="The Verge" type="rss" xmlUrl="http://www.theverge.com/rss/index.xml" htmlUrl="http://www.theverge.com/"/>
       <outline text="MacRumors: Mac News and Rumors - Front Page" title="MacRumors: Mac News and Rumors - Front Page" type="rss" xmlUrl="http://www.macrumors.com/macrumors.xml" htmlUrl="http://www.macrumors.com/"/>
@@ -19,20 +18,21 @@
       <outline text="AWS Recent Announcements" title="AWS Recent Announcements" type="rss" xmlUrl="https://aws.amazon.com/about-aws/whats-new/recent/feed/" htmlUrl="https://aws.amazon.com/about-aws/whats-new/recent/"/>
       <outline text="The GitHub Blog" title="The GitHub Blog" type="rss" xmlUrl="https://github.blog/feed/" htmlUrl="https://github.blog/"/>
       <outline text="GitHub Status - Incident History" title="GitHub Status - Incident History" type="rss" xmlUrl="https://www.githubstatus.com/history.atom" htmlUrl="https://www.githubstatus.com/"/>
-      <outline text="Scientific American Content: Global" title="Scientific American Content: Global" type="rss" xmlUrl="http://rss.sciam.com/ScientificAmerican-Global?format=xml" htmlUrl="http://www.scientificamerican.com/"/>
-      <outline text="Krebs on Security" title="Krebs on Security" type="rss" xmlUrl="https://krebsonsecurity.com/feed/" htmlUrl="https://krebsonsecurity.com/"/>
+      <outline text="Google Apps Status Dashboard" title="Google Apps Status Dashboard" type="rss" xmlUrl="https://www.google.com/appsstatus/rss/en" htmlUrl="http://www.google.com/appsstatus/rss/en"/>
+      <outline text="DevOps’ish" title="DevOps’ish" type="rss" xmlUrl="https://kill-the-newsletter.com/feeds/psbxjpwqd40mv0y9pzaj.xml" htmlUrl="https://kill-the-newsletter.com/"/>
       <outline text="stratechery by Ben Thompson" title="stratechery by Ben Thompson" type="rss" xmlUrl="http://stratechery.com/feed/" htmlUrl="http://stratechery.com/"/>
       <outline text="Kubernetes" title="Kubernetes" type="rss" xmlUrl="https://kubernetes.io/feed.xml" htmlUrl="https://kubernetes.io/"/>
       <outline text="The JetBrains Blog" title="The JetBrains Blog" type="rss" xmlUrl="https://blog.jetbrains.com/feed/" htmlUrl="https://blog.jetbrains.com/"/>
       <outline text="Visual Studio Code - Code Editing. Redefined." title="Visual Studio Code - Code Editing. Redefined." type="rss" xmlUrl="https://code.visualstudio.com/feed.xml" htmlUrl="http://code.visualstudio.com/"/>
       <outline text="Ars Technica" title="Ars Technica" type="rss" xmlUrl="http://feeds.arstechnica.com/arstechnica/index" htmlUrl="http://arstechnica.com/"/>
-      <outline text="unreadit.com" title="unreadit.com" type="rss" xmlUrl="https://kill-the-newsletter.com/feeds/x6vphmxc24u3kyxk.xml" htmlUrl="https://kill-the-newsletter.com/"/>
-      <outline text="morningbrew.com" title="morningbrew.com" type="rss" xmlUrl="https://kill-the-newsletter.com/feeds/eqd3qdj1s17moziq.xml" htmlUrl="https://kill-the-newsletter.com/"/>
       <outline text="Blog on restic" title="Blog on restic" type="rss" xmlUrl="https://restic.net/blog/index.xml" htmlUrl="https://restic.net/blog/"/>
       <outline text="tl;dr sec" title="tl;dr sec" type="rss" xmlUrl="https://tldrsec.com/feed.xml" htmlUrl="https://tldrsec.com/"/>
       <outline text="Application Management Blog" title="Application Management Blog" type="rss" xmlUrl="http://blogs.aws.amazon.com/application-management/blog/feed/recentPosts.rss" htmlUrl="http://blogs.aws.amazon.com/application-management/blog/feed/recentPosts.rss"/>
       <outline text="AWS Security Blog" title="AWS Security Blog" type="rss" xmlUrl="http://blogs.aws.amazon.com/security/blog/feed/recentPosts.rss" htmlUrl="http://blogs.aws.amazon.com/security/blog/feed/recentPosts.rss"/>
-      <outline text="KubeWeekly" title="KubeWeekly" type="rss" xmlUrl="https://kill-the-newsletter.com/feeds/g5m5e5d3hspsxygppxz2.xml" htmlUrl="https://kill-the-newsletter.com/"/>
+      <outline text="unreadit-tech" title="unreadit-tech" type="rss" xmlUrl="https://kill-the-newsletter.com/feeds/g288aerkywijvvna.xml" htmlUrl="https://kill-the-newsletter.com/"/>
+      <outline text="morningbrew-emergingtech" title="morningbrew-emergingtech" type="rss" xmlUrl="https://kill-the-newsletter.com/feeds/i66i4fnoxm8nb0a1.xml" htmlUrl="https://kill-the-newsletter.com/"/>
+      <outline text="AWS Official Blog" title="AWS Official Blog" type="rss" xmlUrl="https://aws.amazon.com/blogs/aws/feed/" htmlUrl="https://aws.amazon.com/blogs/aws/"/>
+      <outline text="Scientific American Content: Global" title="Scientific American Content: Global" type="rss" xmlUrl="http://rss.sciam.com/ScientificAmerican-Global?format=xml" htmlUrl="http://www.scientificamerican.com/"/>
       <outline text="The Hacker News" title="The Hacker News" type="rss" xmlUrl="http://thehackernews.com/feeds/posts/default" htmlUrl="http://thehackernews.com/"/>
       <outline text="Slashdot" title="Slashdot" type="rss" xmlUrl="http://rss.slashdot.org/Slashdot/slashdotMain" htmlUrl="http://slashdot.org/"/>
       <outline text="Trending  repositories on GitHub today · GitHub" title="Trending  repositories on GitHub today · GitHub" type="rss" xmlUrl="https://rsshub.app/github/trending/daily" htmlUrl="https://github.com/trending/?since=daily"/>
@@ -56,32 +56,35 @@
       <outline text="devops:top scoring links" title="devops:top scoring links" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/devops/top/.rss" htmlUrl="https://www.reddit.com/r/devops/top/?t=1604512964"/>
       <outline text="Terraform, ansible, usefulscripts:top scoring links" title="Terraform, ansible, usefulscripts:top scoring links" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/Terraform%2Bansible%2Busefulscripts/top/.rss" htmlUrl="https://www.reddit.com/r/Terraform+ansible+usefulscripts/top/?t=1605105575"/>
       <outline text="Benedict Evans' newsletter" title="Benedict Evans' newsletter" type="rss" xmlUrl="https://kill-the-newsletter.com/feeds/aplacga2s3avq4voe7p1.xml" htmlUrl="https://kill-the-newsletter.com/"/>
+      <outline text="KubeWeekly" title="KubeWeekly" type="rss" xmlUrl="https://kill-the-newsletter.com/feeds/g5m5e5d3hspsxygppxz2.xml" htmlUrl="https://kill-the-newsletter.com/"/>
       <outline text="Pinboard (popular bookmarks)" title="Pinboard (popular bookmarks)" type="rss" xmlUrl="http://feeds.pinboard.in/rss/popular/" htmlUrl="https://pinboard.in/popular/"/>
       <outline text="Techmeme" title="Techmeme" type="rss" xmlUrl="http://www.techmeme.com/index.xml" htmlUrl="http://www.techmeme.com/"/>
     </outline>
     <outline text="News" title="News">
-      <outline text="The Hacker News" title="The Hacker News" type="rss" xmlUrl="http://thehackernews.com/feeds/posts/default" htmlUrl="http://thehackernews.com/"/>
-      <outline text="Slashdot" title="Slashdot" type="rss" xmlUrl="http://rss.slashdot.org/Slashdot/slashdotMain" htmlUrl="http://slashdot.org/"/>
-      <outline text="News from wikipedia events" title="News from wikipedia events" type="rss" xmlUrl="https://news.vinc.cc/search.atom?q=wikipedia+events" htmlUrl="https://news.vinc.cc/"/>
-      <outline text="Unsupervised Learning, by Daniel Miessler" title="Unsupervised Learning, by Daniel Miessler" type="rss" xmlUrl="https://www.kill-the-newsletter.com/feeds/lf0ejx0el0d6ifd6dkk5.xml" htmlUrl="https://www.kill-the-newsletter.com/"/>
-      <outline text="hackernewsletter" title="hackernewsletter" type="rss" xmlUrl="https://www.kill-the-newsletter.com/feeds/6yeqhs72sgt8xofd7swu.xml" htmlUrl="https://www.kill-the-newsletter.com/"/>
-      <outline text="Hacker News: 100 Points" title="Hacker News: 100 Points" type="rss" xmlUrl="https://hnrss.org/newest?points=100" htmlUrl="https://news.ycombinator.com/newest"/>
-      <outline text="india, mumbai:top scoring links" title="india, mumbai:top scoring links" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/india%2Bmumbai/top/.rss" htmlUrl="https://www.reddit.com/r/india+mumbai/top/?t=1598175462"/>
-      <outline text="worldnews:top scoring links" title="worldnews:top scoring links" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/worldnews/top/.rss" htmlUrl="https://www.reddit.com/r/worldnews/top/?t=1598200038"/>
       <outline text="technology:top scoring links" title="technology:top scoring links" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/technology/top/.rss" htmlUrl="https://www.reddit.com/r/technology/top/?t=1598200139"/>
-      <outline text="BBC, NYT, NDTV, Al Jazeera:Top News: " title="BBC, NYT, NDTV, Al Jazeera:Top News: " type="rss" xmlUrl="http://www.rssmix.com/u/12397086/rss.xml" htmlUrl="http://www.rssmix.com/"/>
-      <outline text="Benedict Evans' newsletter" title="Benedict Evans' newsletter" type="rss" xmlUrl="https://kill-the-newsletter.com/feeds/aplacga2s3avq4voe7p1.xml" htmlUrl="https://kill-the-newsletter.com/"/>
-      <outline text="finshots.in" title="finshots.in" type="rss" xmlUrl="https://kill-the-newsletter.com/feeds/8v6o1n48lmrt56ph.xml" htmlUrl="https://kill-the-newsletter.com/"/>
+      <outline text="morningbrew-emergingtech" title="morningbrew-emergingtech" type="rss" xmlUrl="https://kill-the-newsletter.com/feeds/i66i4fnoxm8nb0a1.xml" htmlUrl="https://kill-the-newsletter.com/"/>
+      <outline text="unreadit-tech" title="unreadit-tech" type="rss" xmlUrl="https://kill-the-newsletter.com/feeds/g288aerkywijvvna.xml" htmlUrl="https://kill-the-newsletter.com/"/>
       <outline text="Ars Technica" title="Ars Technica" type="rss" xmlUrl="http://feeds.arstechnica.com/arstechnica/index" htmlUrl="http://arstechnica.com/"/>
-      <outline text="unreadit.com" title="unreadit.com" type="rss" xmlUrl="https://kill-the-newsletter.com/feeds/x6vphmxc24u3kyxk.xml" htmlUrl="https://kill-the-newsletter.com/"/>
-      <outline text="morningbrew.com" title="morningbrew.com" type="rss" xmlUrl="https://kill-the-newsletter.com/feeds/eqd3qdj1s17moziq.xml" htmlUrl="https://kill-the-newsletter.com/"/>
+      <outline text="stratechery by Ben Thompson" title="stratechery by Ben Thompson" type="rss" xmlUrl="http://stratechery.com/feed/" htmlUrl="http://stratechery.com/"/>
+      <outline text="Meanwhile in Security" title="Meanwhile in Security" type="rss" xmlUrl="https://kill-the-newsletter.com/feeds/m9w6fmjmlkfkwq13.xml" htmlUrl="https://kill-the-newsletter.com/"/>
+      <outline text="finshots.in" title="finshots.in" type="rss" xmlUrl="https://kill-the-newsletter.com/feeds/8v6o1n48lmrt56ph.xml" htmlUrl="https://kill-the-newsletter.com/"/>
+      <outline text="Benedict Evans' newsletter" title="Benedict Evans' newsletter" type="rss" xmlUrl="https://kill-the-newsletter.com/feeds/aplacga2s3avq4voe7p1.xml" htmlUrl="https://kill-the-newsletter.com/"/>
+      <outline text="BBC, NYT, NDTV, Al Jazeera:Top News: " title="BBC, NYT, NDTV, Al Jazeera:Top News: " type="rss" xmlUrl="http://www.rssmix.com/u/12397086/rss.xml" htmlUrl="http://www.rssmix.com/"/>
+      <outline text="worldnews:top scoring links" title="worldnews:top scoring links" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/worldnews/top/.rss" htmlUrl="https://www.reddit.com/r/worldnews/top/?t=1598200038"/>
+      <outline text="india, mumbai:top scoring links" title="india, mumbai:top scoring links" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/india%2Bmumbai/top/.rss" htmlUrl="https://www.reddit.com/r/india+mumbai/top/?t=1598175462"/>
+      <outline text="Hacker News: 100 Points" title="Hacker News: 100 Points" type="rss" xmlUrl="https://hnrss.org/newest?points=100" htmlUrl="https://news.ycombinator.com/newest"/>
+      <outline text="hackernewsletter" title="hackernewsletter" type="rss" xmlUrl="https://www.kill-the-newsletter.com/feeds/6yeqhs72sgt8xofd7swu.xml" htmlUrl="https://www.kill-the-newsletter.com/"/>
+      <outline text="Unsupervised Learning, by Daniel Miessler" title="Unsupervised Learning, by Daniel Miessler" type="rss" xmlUrl="https://www.kill-the-newsletter.com/feeds/lf0ejx0el0d6ifd6dkk5.xml" htmlUrl="https://www.kill-the-newsletter.com/"/>
+      <outline text="News from wikipedia events" title="News from wikipedia events" type="rss" xmlUrl="https://news.vinc.cc/search.atom?q=wikipedia+events" htmlUrl="https://news.vinc.cc/"/>
+      <outline text="Slashdot" title="Slashdot" type="rss" xmlUrl="http://rss.slashdot.org/Slashdot/slashdotMain" htmlUrl="http://slashdot.org/"/>
+      <outline text="The Hacker News" title="The Hacker News" type="rss" xmlUrl="http://thehackernews.com/feeds/posts/default" htmlUrl="http://thehackernews.com/"/>
       <outline text="Techmeme" title="Techmeme" type="rss" xmlUrl="http://www.techmeme.com/index.xml" htmlUrl="http://www.techmeme.com/"/>
     </outline>
     <outline text="Newsletters" title="Newsletters">
       <outline text="SRE WEEKLY" title="SRE WEEKLY" type="rss" xmlUrl="http://sreweekly.com/feed/" htmlUrl="http://sreweekly.com/"/>
+      <outline text="morningbrew-emergingtech" title="morningbrew-emergingtech" type="rss" xmlUrl="https://kill-the-newsletter.com/feeds/i66i4fnoxm8nb0a1.xml" htmlUrl="https://kill-the-newsletter.com/"/>
+      <outline text="unreadit-tech" title="unreadit-tech" type="rss" xmlUrl="https://kill-the-newsletter.com/feeds/g288aerkywijvvna.xml" htmlUrl="https://kill-the-newsletter.com/"/>
       <outline text="tl;dr sec" title="tl;dr sec" type="rss" xmlUrl="https://tldrsec.com/feed.xml" htmlUrl="https://tldrsec.com/"/>
-      <outline text="morningbrew.com" title="morningbrew.com" type="rss" xmlUrl="https://kill-the-newsletter.com/feeds/eqd3qdj1s17moziq.xml" htmlUrl="https://kill-the-newsletter.com/"/>
-      <outline text="unreadit.com" title="unreadit.com" type="rss" xmlUrl="https://kill-the-newsletter.com/feeds/x6vphmxc24u3kyxk.xml" htmlUrl="https://kill-the-newsletter.com/"/>
       <outline text="stratechery by Ben Thompson" title="stratechery by Ben Thompson" type="rss" xmlUrl="http://stratechery.com/feed/" htmlUrl="http://stratechery.com/"/>
       <outline text="Meanwhile in Security" title="Meanwhile in Security" type="rss" xmlUrl="https://kill-the-newsletter.com/feeds/m9w6fmjmlkfkwq13.xml" htmlUrl="https://kill-the-newsletter.com/"/>
       <outline text="finshots.in" title="finshots.in" type="rss" xmlUrl="https://kill-the-newsletter.com/feeds/8v6o1n48lmrt56ph.xml" htmlUrl="https://kill-the-newsletter.com/"/>
@@ -104,17 +107,16 @@
       <outline text="Pinboard (popular bookmarks)" title="Pinboard (popular bookmarks)" type="rss" xmlUrl="http://feeds.pinboard.in/rss/popular/" htmlUrl="https://pinboard.in/popular/"/>
     </outline>
     <outline text="DevOps" title="DevOps">
-      <outline text="Google Apps Status Dashboard" title="Google Apps Status Dashboard" type="rss" xmlUrl="https://www.google.com/appsstatus/rss/en" htmlUrl="http://www.google.com/appsstatus/rss/en"/>
+      <outline text="Krebs on Security" title="Krebs on Security" type="rss" xmlUrl="https://krebsonsecurity.com/feed/" htmlUrl="https://krebsonsecurity.com/"/>
       <outline text="The New Stack" title="The New Stack" type="rss" xmlUrl="https://kill-the-newsletter.com/feeds/ztwy8899h9bluq9zx6yn.xml" htmlUrl="https://kill-the-newsletter.com/"/>
       <outline text="SRE WEEKLY" title="SRE WEEKLY" type="rss" xmlUrl="http://sreweekly.com/feed/" htmlUrl="http://sreweekly.com/"/>
       <outline text="softwareleadweekly.com" title="softwareleadweekly.com" type="rss" xmlUrl="https://kill-the-newsletter.com/feeds/kx9mntw5ho9jchq2.xml" htmlUrl="https://kill-the-newsletter.com/"/>
       <outline text="Schneier on Security" title="Schneier on Security" type="rss" xmlUrl="https://www.schneier.com/feed/atom" htmlUrl="https://www.schneier.com/"/>
-      <outline text="Meanwhile in Security" title="Meanwhile in Security" type="rss" xmlUrl="https://kill-the-newsletter.com/feeds/m9w6fmjmlkfkwq13.xml" htmlUrl="https://kill-the-newsletter.com/"/>
       <outline text="AWS Recent Announcements" title="AWS Recent Announcements" type="rss" xmlUrl="https://aws.amazon.com/about-aws/whats-new/recent/feed/" htmlUrl="https://aws.amazon.com/about-aws/whats-new/recent/"/>
       <outline text="The GitHub Blog" title="The GitHub Blog" type="rss" xmlUrl="https://github.blog/feed/" htmlUrl="https://github.blog/"/>
       <outline text="GitHub Status - Incident History" title="GitHub Status - Incident History" type="rss" xmlUrl="https://www.githubstatus.com/history.atom" htmlUrl="https://www.githubstatus.com/"/>
+      <outline text="Google Apps Status Dashboard" title="Google Apps Status Dashboard" type="rss" xmlUrl="https://www.google.com/appsstatus/rss/en" htmlUrl="http://www.google.com/appsstatus/rss/en"/>
       <outline text="DevOps’ish" title="DevOps’ish" type="rss" xmlUrl="https://kill-the-newsletter.com/feeds/psbxjpwqd40mv0y9pzaj.xml" htmlUrl="https://kill-the-newsletter.com/"/>
-      <outline text="Krebs on Security" title="Krebs on Security" type="rss" xmlUrl="https://krebsonsecurity.com/feed/" htmlUrl="https://krebsonsecurity.com/"/>
       <outline text="Kubernetes" title="Kubernetes" type="rss" xmlUrl="https://kubernetes.io/feed.xml" htmlUrl="https://kubernetes.io/"/>
       <outline text="The JetBrains Blog" title="The JetBrains Blog" type="rss" xmlUrl="https://blog.jetbrains.com/feed/" htmlUrl="https://blog.jetbrains.com/"/>
       <outline text="Visual Studio Code - Code Editing. Redefined." title="Visual Studio Code - Code Editing. Redefined." type="rss" xmlUrl="https://code.visualstudio.com/feed.xml" htmlUrl="http://code.visualstudio.com/"/>
@@ -122,6 +124,7 @@
       <outline text="tl;dr sec" title="tl;dr sec" type="rss" xmlUrl="https://tldrsec.com/feed.xml" htmlUrl="https://tldrsec.com/"/>
       <outline text="Application Management Blog" title="Application Management Blog" type="rss" xmlUrl="http://blogs.aws.amazon.com/application-management/blog/feed/recentPosts.rss" htmlUrl="http://blogs.aws.amazon.com/application-management/blog/feed/recentPosts.rss"/>
       <outline text="AWS Security Blog" title="AWS Security Blog" type="rss" xmlUrl="http://blogs.aws.amazon.com/security/blog/feed/recentPosts.rss" htmlUrl="http://blogs.aws.amazon.com/security/blog/feed/recentPosts.rss"/>
+      <outline text="AWS Official Blog" title="AWS Official Blog" type="rss" xmlUrl="https://aws.amazon.com/blogs/aws/feed/" htmlUrl="https://aws.amazon.com/blogs/aws/"/>
       <outline text="Ubuntu, linuxadmin, linux:top scoring links" title="Ubuntu, linuxadmin, linux:top scoring links" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/Ubuntu%2Blinux%2Blinuxadmin/top/.rss" htmlUrl="https://www.reddit.com/r/Ubuntu+linux+linuxadmin/top/?t=1597994437"/>
       <outline text="The Hacker News" title="The Hacker News" type="rss" xmlUrl="http://thehackernews.com/feeds/posts/default" htmlUrl="http://thehackernews.com/"/>
       <outline text="Trending  repositories on GitHub today · GitHub" title="Trending  repositories on GitHub today · GitHub" type="rss" xmlUrl="https://rsshub.app/github/trending/daily" htmlUrl="https://github.com/trending/?since=daily"/>
