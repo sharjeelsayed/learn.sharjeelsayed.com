@@ -2809,16 +2809,18 @@ Contents:
             Sources:
                 https://atlasheadrest.com/products/headrest-for-remastered-aeron-chair
                 https://dack.com/misc/aeron.html (The Aeron Chair Sucks)
-                https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=ask%20hn%3A%20chair&sort=byPopularity&type=comment (ask hn: chair)
+                https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=ask%20HN%3A%20chair%20&sort=byPopularity&type=all (ask HN: chair )
                 https://news.ycombinator.com/item?id=27540941 (Ask HN: Have you found a good desk chair?)
                 https://www.lumens.com/how-tos-and-advice/buyers-guide-to-aeron-chair.html
                 https://www.nytimes.com/wirecutter/reviews/best-office-chair
                 https://www.reddit.com/r/hermanmiller/wiki
                 https://www.reddit.com/r/OfficeChairs
                 https://www.store.hermanmiller.in/products/chairs-office-chairs-embody/bill-stumpf-and-jeff-weber/embody-chair/pid-11056242.aspx
+                https://www.youtube.com/results?search_query=herman+miller+embody&sp=CAM%253D (herman miller embody)
                 https://youtu.be/NHFqCFe0i2k (The TRUTH About The Herman Miller AERON Ergonomic Office Chair | Steelcase Leap V2 vs Aeron Review)
                 https://youtu.be/x-aeDaHIEbY (Get A Herman Miller Aeron for CHEAP + Buying Guide!!!)
-                https://youtu.be/XeHughLsLAw (Herman Miller Aeron Classic vs. Remastered: 8 Major Differences)
+
+            The Four Kings of chairs are the Herman-Miller Aeron, the HM Embody, the Steelcase Leap, & the Steelcase Gesture
 
         Ear Plugs:
             Sources:
