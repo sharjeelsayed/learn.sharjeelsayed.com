@@ -91,6 +91,7 @@ Contents:
         Kindle
         Study Music
         Headphones
+        Mouse
         Chair
         Ear Plugs
     Miscellaneous:
@@ -1380,6 +1381,7 @@ Contents:
                 https://sourcegraph.com/search (Search public code)
                 https://stackoverflow.com/questions/tagged/git
                 https://techtldr.com/19-git-tips-for-everyday-use
+                https://useful-forks.github.io (t aims at increasing the discoverability of useful forks of open-source projects.)
                 https://www.reddit.com/r/git/top/?sort=top&t=all
                 https://www.reddit.com/r/programming/comments/fd9zpj/becoming_a_git_pro_part_1_internal_git/fjge9vy
                 https://www.sourcetreeapp.com
@@ -1539,6 +1541,7 @@ Contents:
                 https://danielmiessler.com/blog/build-successful-infosec-career
                 https://dev-sec.io (devops + security Server Hardening Automation Using Ansible)
                 https://en.wikipedia.org/wiki/List_of_computer_security_certifications#Most_Popular_Vendor_Neutral_Cyber_Security_Certifications_Among_employers
+                https://github.com/Arudjreis/awesome-security-GRC (Curated list of resources for security Governance, Risk Management, Compliance and Audit professionals and enthusiasts (if they exist).)
                 https://github.com/chughes29/Cloud-DevSecOps-Learning/blob/main/Cloud%20%26%20DevSecOps%20Learning%20(1).md (Cloud-DevSecOps-Learning)
                 https://github.com/dafthack/CloudPentestCheatsheets
                 https://github.com/danielmiessler/SecLists
@@ -1556,6 +1559,7 @@ Contents:
                 https://github.com/topics/security?o=desc&s=stars
                 https://github.com/topics/websecurity?o=desc&s=stars
                 https://github.com/veeral-patel/learn-security-engineering
+                https://github.com/z1pti3/jimi (Jimi is an automation first no-code platform designed and developed originally for Security Orchestration and Response. Since its launch jimi has developed into a fully fledged IT automation platform which effortlessly integrates with your existing tools unlocking the potential for autonomous IT and Security operations.)
                 https://hrushikeshk.github.io/blog/2018/01/15/security-resources
                 https://ishaqmohammed.me/posts/application-security-knowledgebase (Application Security Knowledgebase)
                 https://jhalon.github.io/becoming-a-pentester
@@ -1620,6 +1624,7 @@ Contents:
 
         macOS:
             Sources:
+                https://apple.stackexchange.com/questions/374138/how-to-enable-double-tap-to-drag-in-mac-os-x-catalina
                 https://blog.bejarano.io/hardening-macos
                 https://defkey.com/apple-macos-shortcuts
                 https://dev.to/wes/how2-using-gpg-on-macos-without-gpgtools-428f
@@ -1666,6 +1671,7 @@ Contents:
                 Https://Www.Bresink.Com/Osx/Tinkertool.Html
                 Https://Github.Com/Exelban/Stats ( Macos System Monitor In Your Menu Bar)
                 Https://Github.Com/Mangerlahn/Latest (A Small Utility App For Macos That Makes Sure You Know About All The Latest Updates To The Apps You Use.)
+                https://github.com/Caldis/Mos (A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS )
 
             Alfred:
                 http://www.packal.org
@@ -2057,6 +2063,7 @@ Contents:
                     https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula
                     https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
                     https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
+                    https://marketplace.visualstudio.com/items?itemName=GitHub.copilot
                     https://marketplace.visualstudio.com/items?itemName=hangxingliu.vscode-nginx-conf-hint
                     https://marketplace.visualstudio.com/items?itemName=HashiCorp.terraform
                     https://marketplace.visualstudio.com/items?itemName=jack89ita.copy-filename
@@ -2805,6 +2812,17 @@ Contents:
                 The Best Noise-Cancelling Headphones
                 https://www.nytimes.com/wirecutter/reviews/best-noise-cancelling-headphones
 
+        Mouse:
+            Sources:
+                https://www.amazon.com/gp/bestsellers/pc/11036491
+                https://www.amazon.in/gp/bestsellers/computers/1375420031
+                https://www.logitech.com/en-us/products/mice/mx-master-3.910-005620.html
+                https://www.nytimes.com/wirecutter/reviews/best-wireless-mouse
+                https://www.rtings.com/mouse
+                https://www.youtube.com/results?search_query=best+mouse+mac&sp=CAM%253D (Best Mouse for Mac)
+                https://www.youtube.com/results?search_query=mx+master+3&sp=CAM%253D (MX Master 3 Reviews)
+                https://www.youtube.com/watch?v=eYu8CzaFymU&t=307s (I found the best Mouse for Programming)
+
         Chair:
             Sources:
                 https://atlasheadrest.com/products/headrest-for-remastered-aeron-chair
@@ -3229,6 +3247,7 @@ Contents:
                 https://www.rackspace.com/email-hosting/webmail/pricing
                 https://www.reddit.com/r/degoogle/wiki
                 https://www.zoho.com/mail/zohomail-pricing.html
+                https://mxroute.com
 
                 Fastmail.com:
                     https://news.ycombinator.com/item?id=12247401 (Moving 12 years of email from GMail to FastMail (cpbotha.net))
