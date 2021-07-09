@@ -894,6 +894,7 @@ Contents:
                 https://sparkle.adroitcorp.com.au/market (Flashcards)
                 https://t.me/learnk8s
                 https://techbeacon.com/enterprise-it/47-advanced-tutorials-mastering-kubernetes
+                https://www.atomiccommits.io/everything-useful-i-know-about-kubectl
                 https://www.datadoghq.com/container-report (Nov 2020 report on Kubernetes and Docker Usage)
                 https://www.eksworkshop.com
                 https://www.flatcar-linux.org
@@ -1469,6 +1470,7 @@ Contents:
                 https://stackoverflow.com/questions/726894/what-are-the-dark-corners-of-vim-your-mom-never-told-you-abouts
                 https://stackoverflow.com/questions/tagged/vim
                 https://vim.fandom.com
+                https://www.youtube.com/playlist?list=PLu-ydI-PCl0OEG0ZEqLRRuCrMJGAAI0tW (Vim as IDE)
                 https://youtu.be/XA2WjJbmmoM (How to Do 90% of What Plugins Do (With Just Vim))
                 https://pinboard.in/u:SharjeelSayed/t:vim
 
@@ -2725,8 +2727,10 @@ Contents:
                 https://news.ycombinator.com/item?id=17118269 (Ask HN: What, if anything, do you listen to while coding?)
                 https://news.ycombinator.com/item?id=18493075 (Brain.fm: Music to improve focus, meditation and sleep)
                 https://news.ycombinator.com/item?id=20724959 (Ask HN: Where do you find new music to listen to online?)
+                https://news.ycombinator.com/item?id=27737887 (	Music for Programming (musicforprogramming.net))
                 https://news.ycombinator.com/item?id=9767943 (Do Binaural Beats Really Affect Brainwaves? (autodidacts.io))
                 https://open.spotify.com/user/22jszrk35ji6sm6qewxzsly4a?si=DVuJ0DSLQ7mLqfXy4nkLTQ
+                https://www.musicforprogramming.net
                 https://www.reddit.com/r/ambientmusic/comments/3tuiu7/ambientmusic_voted_your_top_25_ambient_albums
                 https://www.reddit.com/r/ambientmusic/top
                 https://www.reddit.com/r/medicalschool/comments/9m4afb/serious_spotify_playlists_to_listen_to_while
@@ -2814,14 +2818,17 @@ Contents:
 
         Mouse:
             Sources:
+                https://mos.caldis.me (A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on MacOS)
                 https://www.amazon.com/gp/bestsellers/pc/11036491
                 https://www.amazon.in/gp/bestsellers/computers/1375420031
                 https://www.logitech.com/en-us/products/mice/mx-master-3.910-005620.html
                 https://www.nytimes.com/wirecutter/reviews/best-wireless-mouse
                 https://www.rtings.com/mouse
+                https://www.smoothscroll.net/mac (SmoothScroll will give your mouse wheel (Finder, Safari, Chrome, etc.) buttery smooth scrolling)
                 https://www.youtube.com/results?search_query=best+mouse+mac&sp=CAM%253D (Best Mouse for Mac)
                 https://www.youtube.com/results?search_query=mx+master+3&sp=CAM%253D (MX Master 3 Reviews)
                 https://www.youtube.com/watch?v=eYu8CzaFymU&t=307s (I found the best Mouse for Programming)
+                https://youtu.be/3qTzJfzDkwM (MX Master 3 - Advanced wireless mouse - Tutorial on app specific settings)
 
         Chair:
             Sources:
@@ -2981,7 +2988,9 @@ Contents:
                 https://news.ycombinator.com/item?id=23206259 (Ask HN: What are some hard-tech blogs that you follow?)
                 https://news.ycombinator.com/item?id=23583629 (RSS Box – RSS for websites that do not support RSS (rssbox.herokuapp.com))
                 https://news.ycombinator.com/item?id=24539445 (Ask HN: Favourite blogs?)
+                https://news.ycombinator.com/item?id=24539445 (Ask HN: Favourite blogs?)
                 https://news.ycombinator.com/item?id=24658424 (Ask HN: What RSS Reader do you use?)
+                https://news.ycombinator.com/item?id=25159931 (Ask HN: What are some of your favorite journals or magazines?)
                 https://news.ycombinator.com/item?id=26192817 (	Ask HN: What websites do you visit every day?)
                 https://news.ycombinator.com/item?id=27302195 (Ask HN: Favorite Blogs by Individuals?)
                 https://news.ycombinator.com/item?id=9836023 (Ask HN: What tech blogs, podcasts do you follow outside of HN?)
@@ -3024,6 +3033,7 @@ Contents:
                     https://www.vox.com (1,881)
                     https://www.livemint.com (2,043)
                     https://news.abplive.com (2,235)
+                    https://www.economist.com (2,515)
                     https://www.financialexpress.com (2,585)
                     https://www.scmp.com (2,768)
                     https://www.firstpost.com (3,388)
@@ -3514,6 +3524,7 @@ Contents:
         https://news.ycombinator.com/item?id=24436135 (Ask HN: What is your favorite motto?)
         https://news.ycombinator.com/item?id=25136258 (Ask HN: What is the best money you have spent on professional development?)
         https://news.ycombinator.com/item?id=25518730 (	Tips for a Better Life (lesswrong.com))
+        https://news.ycombinator.com/item?id=27219759 (Ask HN: Favorite purchases of last two years?)
         https://rfc.fyi (Browse RFCs by keywords, id or collection)
         https://sourceful.co.uk (Discover the best public GoogleDocs and Sheets)
         https://tldrlegal.com (Software Licenses in Plain English)
