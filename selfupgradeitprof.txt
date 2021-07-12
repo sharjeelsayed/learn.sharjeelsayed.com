@@ -127,6 +127,7 @@ Contents:
             https://github.com/watson/awesome-computer-history
             https://laconicml.com/computer-science-curriculum-youtube-videos (This is The Entire Computer Science Curriculum in 1000 YouTube Videos)
             https://learn-anything.xyz/computer-science
+            https://matt.might.net/articles/what-cs-majors-should-know
             https://medium.freecodecamp.org/640-free-online-programming-computer-science-courses-you-can-start-in-september-f0bd3a184625
             https://news.ycombinator.com/item?id=13014900 (Ask HN: What are the bibles of Computer Science?)
             https://news.ycombinator.com/item?id=13406638 (Ask HN: What's the best computer science book you've read recently?)
@@ -889,6 +890,7 @@ Contents:
                 https://news.ycombinator.com/item?id=22597880 (Kind - run local Kubernetes clusters using Docker (k8s.io))
                 https://news.ycombinator.com/item?id=22689119 (Anyone have a recommended guide for Kubernetes?)
                 https://rancher.com
+                https://redhatspain.com/kubernetes (A curated list of awesome references collected since 2018.)
                 https://registry.terraform.io/modules/terraform-aws-modules/eks/aws
                 https://snyk.io/blog/10-kubernetes-security-context-settings-you-should-understand
                 https://sparkle.adroitcorp.com.au/market (Flashcards)
@@ -2988,7 +2990,6 @@ Contents:
                 https://news.ycombinator.com/item?id=23206259 (Ask HN: What are some hard-tech blogs that you follow?)
                 https://news.ycombinator.com/item?id=23583629 (RSS Box – RSS for websites that do not support RSS (rssbox.herokuapp.com))
                 https://news.ycombinator.com/item?id=24539445 (Ask HN: Favourite blogs?)
-                https://news.ycombinator.com/item?id=24539445 (Ask HN: Favourite blogs?)
                 https://news.ycombinator.com/item?id=24658424 (Ask HN: What RSS Reader do you use?)
                 https://news.ycombinator.com/item?id=25159931 (Ask HN: What are some of your favorite journals or magazines?)
                 https://news.ycombinator.com/item?id=26192817 (	Ask HN: What websites do you visit every day?)
@@ -3347,7 +3348,7 @@ Contents:
                 https://nuetzlich.net/gocryptfs/comparison
                 https://restic.readthedocs.io/en/stable/100_references.html#design
                 https://ruderich.org/simon/notes/append-only-backups-with-restic-and-rclone
-                https://serverfault.com/a/1040984/3501 (gpg: what do I need to backup?)
+                https://serverfault.com/questions/86048/gpg-what-do-i-need-to-backup/1040984#1040984
                 https://syncthing.net
                 https://szymonkrajewski.pl/synchronize-local-files-cryptomator-vault
                 https://www.backblaze.com/b2/cloud-storage-pricing.html
