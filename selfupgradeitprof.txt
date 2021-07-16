@@ -1244,8 +1244,10 @@ Contents:
                 https://github.com/camptocamp/terraboard (A web dashboard to inspect Terraform States)
                 https://github.com/nsriram/lambda-the-terraform-way
                 https://github.com/shuaibiyy/awesome-terraform
+                https://github.com/tfutils/tfenv (Terraform version manager)
                 https://github.com/topics/infrastructure-as-code?o=desc&s=stars
                 https://github.com/topics/terraform?o=desc&s=stars
+                https://github.com/warrensbox/terraform-switcher (A command line tool to switch between different versions of terraform)
                 https://learn.hashicorp.com/terraform
                 https://medium.com/@brenspiration/free-online-courses-on-kubernetes-docker-products-terraform-2a3cd296ce95
                 https://registry.terraform.io
@@ -1656,26 +1658,27 @@ Contents:
                 https://pinboard.in/u:SharjeelSayed/t:macos
 
             Tools:
-                Https://Apps.Apple.Com/App/Amphetamine/Id937984704 (Amphetamine 4+ Powerful Keep-Awake Utility)
-                Https://Brew.Sh
-                Https://Flexibits.Com/Fantastical
-                Https://Getfenet.Re (Picture In Picture For Your Mac)
-                Https://Github.Com/Alichtman/Shallow-Backup
-                Https://Github.Com/Mortennn/Dozer (Hide Status Bar Icons On Macos)
-                Https://Github.Com/Nextdns/Nextdns/Wiki/Macos
-                Https://Github.Com/Sekey/Sekey
-                Https://Github.Com/X74353/Amphetamine-Enhancer
-                Https://Objective-See.Com/Products/Lulu.Html (Free, Open-Source Macos Firewall)
-                Https://Osxfuse.Github.Io
-                Https://Www.Hammerspoon.Org/Go/#Pasteblock
-                Https://Www.Parallels.Com/Products/Desktop
-                Https://Www.Titanium-Software.Fr/En/Onyx.Html
-                Https://Xnipapp.Com
-                Https://Github.Com/Rgcr/M-Cli ( Swiss Army Knife For Macos)
-                Https://Www.Bresink.Com/Osx/Tinkertool.Html
-                Https://Github.Com/Exelban/Stats ( Macos System Monitor In Your Menu Bar)
-                Https://Github.Com/Mangerlahn/Latest (A Small Utility App For Macos That Makes Sure You Know About All The Latest Updates To The Apps You Use.)
+                https://Apps.Apple.Com/App/Amphetamine/Id937984704 (Amphetamine 4+ Powerful Keep-Awake Utility)
+                https://Brew.Sh
+                https://Flexibits.Com/Fantastical
+                https://Getfenet.Re (Picture In Picture For Your Mac)
+                https://github.Com/Alichtman/Shallow-Backup
                 https://github.com/Caldis/Mos (A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS )
+                https://github.Com/Exelban/Stats ( Macos System Monitor In Your Menu Bar)
+                https://github.Com/Mangerlahn/Latest (A Small Utility App For Macos That Makes Sure You Know About All The Latest Updates To The Apps You Use.)
+                https://github.Com/Mortennn/Dozer (Hide Status Bar Icons On Macos)
+                https://github.Com/Nextdns/Nextdns/Wiki/Macos
+                https://github.Com/Rgcr/M-Cli ( Swiss Army Knife For Macos)
+                https://github.Com/Sekey/Sekey
+                https://github.Com/X74353/Amphetamine-Enhancer
+                https://bbjective-See.Com/Products/Lulu.Html (Free, Open-Source Macos Firewall)
+                https://osxfuse.Github.Io
+                https://www.Bresink.Com/Osx/Tinkertool.Html
+                https://www.Hammerspoon.Org/Go/#Pasteblock
+                https://www.Parallels.Com/Products/Desktop
+                https://www.Titanium-Software.Fr/En/Onyx.Html
+                https://www.usboverdrive.com (Take full advantage of any USB or Bluetooth mouse, keyboard, trackball, joystick or gamepad)
+                https://Xnipapp.Com
 
             Alfred:
                 http://www.packal.org
@@ -1932,9 +1935,11 @@ Contents:
                 https://github.com/dypsilon/frontend-dev-bookmarks
                 https://github.com/h5bp/Front-end-Developer-Interview-Questions
                 https://github.com/lauragift21/awesome-learning-resources
+                https://github.com/markodenic/web-development-resources
                 https://github.com/thedaviddias/Front-End-Performance-Checklist
                 https://github.com/topics/front-end?o=desc&s=stars
                 https://github.com/topics/frontend?o=desc&s=stars
+                https://github.com/topics/webdevelopment?o=desc&s=stars
                 https://github.com/yangshun/front-end-interview-handbook
                 https://news.ycombinator.com/item?id=24130286 (Ask HN: Self-taught webdev with lots of free time. What should I learn?)
                 https://www.photopea.com
