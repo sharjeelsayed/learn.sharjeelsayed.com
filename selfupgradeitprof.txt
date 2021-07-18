@@ -95,6 +95,7 @@ Contents:
         Chair
         Ear Plugs
     Miscellaneous:
+        Touch Typing
         Microsoft Excel
         Electronics
         Science
@@ -713,6 +714,7 @@ Contents:
                 https://news.ycombinator.com/item?id=25069452 (Linux Command One-Liners (commandlinefu.com))
                 https://news.ycombinator.com/item?id=27023572 (	My Favorite One Liners (muhammadraza.me))
                 https://news.ycombinator.com/item?id=27615516 (Bash PS1 Generator (bashrcgenerator.com))
+                https://pragmaticpineapple.com/four-useful-fzf-tricks-for-your-terminal
                 https://switowski.com/blog/favorite-cli-tools
                 https://www.reddit.com/r/usefulscripts
                 https://www.reddit.com/r/usefulscripts/top
@@ -1654,31 +1656,34 @@ Contents:
                 https://thesweetsetup.com/picks
                 https://universvm.medium.com/20-macos-apps-to-boost-your-productivity-74accb372c9c
                 https://www.reddit.com/r/apple+mac+macapps
+                https://youtu.be/H3hUk0zsxc4 (How To Use Multiple Desktops On Your Mac by macmostvideo)
                 https://youtu.be/HPQobUOx17o (Amazing Mac Tips You've Never Used! by Snazzy Labs)
+                https://youtu.be/STLnca2hjwc (Mac Window Positioning Tips And Tricks by macmostvideo)
                 https://pinboard.in/u:SharjeelSayed/t:macos
 
             Tools:
-                https://Apps.Apple.Com/App/Amphetamine/Id937984704 (Amphetamine 4+ Powerful Keep-Awake Utility)
-                https://Brew.Sh
-                https://Flexibits.Com/Fantastical
-                https://Getfenet.Re (Picture In Picture For Your Mac)
-                https://github.Com/Alichtman/Shallow-Backup
-                https://github.com/Caldis/Mos (A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS )
-                https://github.Com/Exelban/Stats ( Macos System Monitor In Your Menu Bar)
-                https://github.Com/Mangerlahn/Latest (A Small Utility App For Macos That Makes Sure You Know About All The Latest Updates To The Apps You Use.)
-                https://github.Com/Mortennn/Dozer (Hide Status Bar Icons On Macos)
-                https://github.Com/Nextdns/Nextdns/Wiki/Macos
-                https://github.Com/Rgcr/M-Cli ( Swiss Army Knife For Macos)
-                https://github.Com/Sekey/Sekey
-                https://github.Com/X74353/Amphetamine-Enhancer
-                https://bbjective-See.Com/Products/Lulu.Html (Free, Open-Source Macos Firewall)
-                https://osxfuse.Github.Io
-                https://www.Bresink.Com/Osx/Tinkertool.Html
-                https://www.Hammerspoon.Org/Go/#Pasteblock
-                https://www.Parallels.Com/Products/Desktop
-                https://www.Titanium-Software.Fr/En/Onyx.Html
+                https://apps.apple.Com/app/amphetamine/id937984704 (Amphetamine 4+ Powerful Keep-Awake Utility)
+                https://bbjective-See.Com/products/lulu.html (Free, Open-Source Macos Firewall)
+                https://brew.sh
+                https://flexibits.Com/fantastical
+                https://getfenet.re (Picture In Picture For Your Mac)
+                https://github.com/alichtman/shallow-backup
+                https://github.com/caldis/mos (A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS )
+                https://github.com/exelban/stats ( Macos System Monitor In Your Menu Bar)
+                https://github.com/mangerlahn/latest (A Small Utility App For Macos That Makes Sure You Know About All The Latest Updates To The Apps You Use.)
+                https://github.com/mortennn/dozer (Hide Status Bar Icons On Macos)
+                https://github.com/nextdns/nextdns/wiki/macos
+                https://github.com/rgcr/m-cli ( Swiss Army Knife For Macos)
+                https://github.com/sekey/sekey
+                https://github.com/X74353/amphetamine-enhancer
+                https://monodraw.helftone.com (Powerful ASCII art editor designed for the Mac)
+                https://osxfuse.github.io
+                https://www.bresink.com/osx/TinkerTool.html
+                https://www.hammerspoon.Org/go/#pasteblock
+                https://www.parallels.com/products/desktop
+                https://www.titanium-software.fr/en/onyx.html
                 https://www.usboverdrive.com (Take full advantage of any USB or Bluetooth mouse, keyboard, trackball, joystick or gamepad)
-                https://Xnipapp.Com
+                https://xnipapp.com
 
             Alfred:
                 http://www.packal.org
@@ -2864,6 +2869,13 @@ Contents:
                 https://www.amazon.com/Macks-Ultra-Soft-Foam-Earplugs/dp/B0051U7W32
 
     Miscellaneous:
+        Touch Typing:
+            Tools: (Sorted by alexa rank)
+                https://www.typingclub.com (3,533)
+                https://10fastfingers.com (3,880)
+                https://www.keybr.com (9,760)
+                https://play.typeracer.com (10,476)
+                https://monkeytype.com (13,516)
 
         Microsoft Excel:
             Sources:
@@ -3039,7 +3051,7 @@ Contents:
                     https://www.vox.com (1,881)
                     https://www.livemint.com (2,043)
                     https://news.abplive.com (2,235)
-                    https://www.economist.com (2,515)
+                    https://www.economist.com (2,387)
                     https://www.financialexpress.com (2,585)
                     https://www.scmp.com (2,768)
                     https://www.firstpost.com (3,388)
