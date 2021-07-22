@@ -2116,6 +2116,7 @@ Contents:
                 https://github.com/kdn251/interviews
                 https://github.com/mxssl/sre-interview-prep-guide
                 https://github.com/Olshansk/interview
+                https://github.com/seanprashad/leetcode-patterns (A curated list of leetcode questions grouped by their common patterns)
                 https://github.com/topics/interview-questions?o=desc&s=stars
                 https://github.com/topics/interview?o=desc&s=stars
                 https://github.com/topics/leetcode?o=desc&s=stars
@@ -2603,6 +2604,7 @@ Contents:
                 https://www.joinhoney.com
                 https://www.mrfdev.com/enhancer-for-youtube
                 https://www.one-tab.com
+                https://bookmarkify.it/33985 (Dark Mode bookmarklet)
 
         Books:
             Sources:
