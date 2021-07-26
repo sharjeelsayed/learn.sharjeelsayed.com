@@ -898,6 +898,7 @@ Contents:
                 https://sparkle.adroitcorp.com.au/market (Flashcards)
                 https://t.me/learnk8s
                 https://techbeacon.com/enterprise-it/47-advanced-tutorials-mastering-kubernetes
+                https://tf-eks-workshop.workshop.aws (Amazon EKS Terraform Workshop)
                 https://www.atomiccommits.io/everything-useful-i-know-about-kubectl
                 https://www.datadoghq.com/container-report (Nov 2020 report on Kubernetes and Docker Usage)
                 https://www.eksworkshop.com
@@ -1053,6 +1054,7 @@ Contents:
                 https://www.ec2instances.info
                 https://www.lastweekinaws.com/blog/the-17-ways-to-run-containers-on-aws
                 https://www.reddit.com/r/aws
+                https://www.reddit.com/r/aws/comments/on154c/lessons_learned_if_you_could_do_it_all_from_the (Lessons learned: if you could do it "all" from the start again, what would you do differently / anew in your AWS? (self.aws))
                 https://www.reddit.com/r/sysadmin/comments/8inzn5/so_you_want_to_learn_aws_aka_how_do_i_learn_to_be
                 https://www.stackery.io/registry (Enter an AWS CloudFormation template for instant analysis)
                 https://youtu.be/B08iQQhXG1Y (The Most Important AWS Services (with an easy to follow example!))
@@ -1257,6 +1259,7 @@ Contents:
                 https://terraform-docs.io (Generate Terraform modules documentation in various formats.)
                 https://terragrunt.gruntwork.io
                 https://terratest.gruntwork.io
+                https://tf-eks-workshop.workshop.aws (Amazon EKS Terraform Workshop)
                 https://www.facebook.com/groups/840062592768074 (Learn DevOps: Continuously Deliver Better Software)
                 https://www.katacoda.com/courses/terraform
                 https://www.reddit.com/r/Terraform
@@ -1545,6 +1548,7 @@ Contents:
                 http://www.fastrls.com/2017/10/30/offensive-security-training-videos
                 https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html-single/using_selinux
                 https://cheatsheetseries.owasp.org (The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.)
+                https://cipher387.github.io/osint_stuff_tool_collection (OSINT Tool Collection)
                 https://crowdsec.net
                 https://danielmiessler.com/blog/build-successful-infosec-career
                 https://dev-sec.io (devops + security Server Hardening Automation Using Ansible)
@@ -2742,6 +2746,7 @@ Contents:
                 https://news.ycombinator.com/item?id=18493075 (Brain.fm: Music to improve focus, meditation and sleep)
                 https://news.ycombinator.com/item?id=20724959 (Ask HN: Where do you find new music to listen to online?)
                 https://news.ycombinator.com/item?id=27737887 (	Music for Programming (musicforprogramming.net))
+                https://news.ycombinator.com/item?id=27908441 (Yet another background music for developer, if you missed working at cafe (sudo.fm))
                 https://news.ycombinator.com/item?id=9767943 (Do Binaural Beats Really Affect Brainwaves? (autodidacts.io))
                 https://open.spotify.com/user/22jszrk35ji6sm6qewxzsly4a?si=DVuJ0DSLQ7mLqfXy4nkLTQ
                 https://www.musicforprogramming.net
@@ -2801,6 +2806,7 @@ Contents:
                     https://www.reddit.com/r/spotify/comments/gu81es/my_collection_of_spotify_and_other_music_related
                     https://www.reddit.com/r/spotify/top
                     https://www.reddit.com/r/spotify/wiki
+                    https://jetsetradio.live (LO-FI)
 
         Headphones:
             Sources:
