@@ -1100,6 +1100,10 @@ Contents:
                 https://www.reddit.com/r/AWSCertifications/search/?q=course&restrict_sr=on&t=year
                 https://www.udemy.com/topic/aws-certification/?ratings=4.5&sort=popularity
 
+            Free AWS Labs:
+                https://run.qwiklabs.com/catalog?keywords=introduction&locale=&cloud%5B%5D=AWS&format%5B%5D=any&level%5B%5D=any&duration%5B%5D=any&price%5B%5D=free&modality%5B%5D=any&language%5B%5D=any
+                https://aws.amazon.com/training/self-paced-labs/
+
         Azure:
             Sources:
                 https://acloud.guru/azure-cloud-training
@@ -2096,6 +2100,7 @@ Contents:
                     https://marketplace.visualstudio.com/items?itemName=timonwong.shellcheck
                     https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons
                     https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one
+                    https://marketplace.visualstudio.com/items?itemName=zbr.vscode-ansible
 
             IntelliJ IDEA:
                 Extensions:
@@ -3551,6 +3556,7 @@ Contents:
         https://news.ycombinator.com/item?id=25136258 (Ask HN: What is the best money you have spent on professional development?)
         https://news.ycombinator.com/item?id=25518730 (	Tips for a Better Life (lesswrong.com))
         https://news.ycombinator.com/item?id=27219759 (Ask HN: Favorite purchases of last two years?)
+        https://news.ycombinator.com/item?id=28017289 (Ask HN: Do you have a process or a framework to learn specific skills quickly?)
         https://rfc.fyi (Browse RFCs by keywords, id or collection)
         https://sourceful.co.uk (Discover the best public GoogleDocs and Sheets)
         https://tldrlegal.com (Software Licenses in Plain English)
