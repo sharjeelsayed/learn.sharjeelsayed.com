@@ -237,7 +237,7 @@ Contents:
                 https://github.com/tuvtran/project-based-learning
                 https://github.com/twowaits/SDE-Interview-Questions
                 https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=every%20programmer&sort=byPopularity&type=story (Things every programmer should know)
-                https://insights.stackoverflow.com/survey/2020
+                https://insights.stackoverflow.com/survey/2021
                 https://learnxinyminutes.com
                 https://mapfilterfold.com/?genre=programming
                 https://missing.csail.mit.edu (The Missing Semester of Your CS Education)
@@ -2994,6 +2994,7 @@ Contents:
         News:
             Sources:
                 https://bloggingfordevs.com/trends (Discover the best developer blogs on any tech stack)
+                https://burkybang.com/reddit_rss (Reddit has a limit to how often RSS feeds can be fetched. This breaks that limit!)
                 https://en.wikipedia.org/wiki/Special:Random
                 https://fraidyc.at
                 https://github.com/greybax/awesome-IT-films
@@ -3133,15 +3134,15 @@ Contents:
                         /add rss http://rss.slashdot.org/Slashdot/slashdotMain
                         /add rss https://feeds.feedburner.com/ndtvnews-top-stories?format=xml
                         /add rss https://feeds.feedburner.com/TheHackersNews?format=xml
-                        /add rss https://smithsdownunder.com/reddit_rss/?rss=r/AppHookup/.rss
-                        /add rss https://smithsdownunder.com/reddit_rss/?rss=r/worldnews/.rss
+                        /add rss https://burkybang.com/reddit_rss/?rss=r/AppHookup/.rss
+                        /add rss https://burkybang.com/reddit_rss/?rss=r/worldnews/.rss
                         /add rss https://www.aljazeera.com/xml/rss/all.xml
                         /add rss https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/section/world/rss.xml
                         /add rss https://www.techmeme.com/feed.xml
 
                         Add this bot https://t.me/TheFeedReaderBot
                         Go to the "Feed Reader Bot" conversation and type
-                        /add https://smithsdownunder.com/reddit_rss/?rss=r/technology/.rss
+                        /add https://burkybang.com/reddit_rss/?rss=r/technology/.rss
 
                 Google News:
                     https://newsmap-js.herokuapp.com
@@ -3165,7 +3166,7 @@ Contents:
                         https://redditfavorites.com (Reddit Favorites From 3.5 billion comments)
 
                     Subscriptions:
-                        https://www.reddit.com/r/1Password+AWSCertifications+Alfred+AppHookup+AppleWatch+CryptoCurrency+DataHoarder+Documentaries+FreeEBOOKS+ITCareerQuestions+IndiaInvestments+KindleFreebies+Piracy+Terraform+Ubuntu+Udemy+Upwork+announcements+ansible+apple+aws+compsci+cscareerquestions+dataisbeautiful+devops+docker+freelance+gadgets+hackernews+india+ipad+iphone+juul+kindle+kubernetes+learnprogramming+linux+linuxadmin+linuxupskillchallenge+mac+macapps+movies+mumbai+netsec+nextdns+onebag+osx+programming+science+solotravel+sysadmin+technology+television+todayilearned+todoist+travel+udemyfreebies+usefulscripts+worldnews
+                        https://www.reddit.com/r/1Password+AWSCertifications+Alfred+AppHookup+AppleWatch+CryptoCurrency+DataHoarder+Documentaries+FreeEBOOKS+ITCareerQuestions+IndiaInvestments+KindleFreebies+Piracy+Terraform+Ubuntu+Udemy+Upwork+announcements+ansible+apple+appletv+aws+compsci+cscareerquestions+dataisbeautiful+devops+docker+freelance+gadgets+hackernews+india+ipad+iphone+juul+kindle+kubernetes+learnprogramming+linux+linuxadmin+linuxupskillchallenge+mac+macapps+movies+mumbai+netsec+nextdns+onebag+osx+programming+science+solotravel+sysadmin+technology+television+todayilearned+todoist+travel+udemyfreebies+usefulscripts+worldnews
 
                 Hacker News:
                     https://apps.apple.com/us/app/hack-for-hacker-news-developer/id1464477788
