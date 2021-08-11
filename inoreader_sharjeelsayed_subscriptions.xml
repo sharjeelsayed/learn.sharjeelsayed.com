@@ -21,7 +21,6 @@
       <outline text="tl;dr sec" title="tl;dr sec" type="rss" xmlUrl="https://tldrsec.com/feed.xml" htmlUrl="https://tldrsec.com/"/>
       <outline text="Schneier on Security" title="Schneier on Security" type="rss" xmlUrl="https://www.schneier.com/feed/atom" htmlUrl="https://www.schneier.com/"/>
       <outline text="AWS Security Blog" title="AWS Security Blog" type="rss" xmlUrl="http://blogs.aws.amazon.com/security/blog/feed/recentPosts.rss" htmlUrl="http://blogs.aws.amazon.com/security/blog/feed/recentPosts.rss"/>
-      <outline text="unreadit-tech" title="unreadit-tech" type="rss" xmlUrl="https://kill-the-newsletter.com/feeds/g288aerkywijvvna.xml" htmlUrl="https://kill-the-newsletter.com/"/>
       <outline text="morningbrew-emergingtech" title="morningbrew-emergingtech" type="rss" xmlUrl="https://kill-the-newsletter.com/feeds/i66i4fnoxm8nb0a1.xml" htmlUrl="https://kill-the-newsletter.com/"/>
       <outline text="AWS Official Blog" title="AWS Official Blog" type="rss" xmlUrl="https://aws.amazon.com/blogs/aws/feed/" htmlUrl="https://aws.amazon.com/blogs/aws/"/>
       <outline text="Udemy, udemyfreebies: top scoring links" title="Udemy, udemyfreebies: top scoring links" type="rss" xmlUrl="https://burkybang.com/reddit_rss/?rss=r/Udemy%2Budemyfreebies/top/.rss" htmlUrl="https://www.reddit.com/r/Udemy+udemyfreebies/top/?t=1628080556"/>
@@ -32,6 +31,7 @@
       <outline text="technology: top scoring links" title="technology: top scoring links" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/technology/top/.rss" htmlUrl="https://www.reddit.com/r/technology/top/?t=1598200139"/>
       <outline text="devops: top scoring links" title="devops: top scoring links" type="rss" xmlUrl="https://burkybang.com/reddit_rss/?rss=r/devops/top/.rss" htmlUrl="https://www.reddit.com/r/devops/top/?t=1628082157"/>
       <outline text="AppHookup: top scoring links" title="AppHookup: top scoring links" type="rss" xmlUrl="https://burkybang.com/reddit_rss/?rss=r/AppHookup/top/.rss" htmlUrl="https://www.reddit.com/r/AppHookup/top/?t=1628082308"/>
+      <outline text="Unreadit Tech" title="Unreadit Tech" type="rss" xmlUrl="https://kill-the-newsletter.com/feeds/ronwsv5lwgdg90h1.xml" htmlUrl="https://kill-the-newsletter.com/"/>
       <outline text="softwareleadweekly.com" title="softwareleadweekly.com" type="rss" xmlUrl="https://kill-the-newsletter.com/feeds/kx9mntw5ho9jchq2.xml" htmlUrl="https://kill-the-newsletter.com/"/>
       <outline text="The Hacker News" title="The Hacker News" type="rss" xmlUrl="http://thehackernews.com/feeds/posts/default" htmlUrl="http://thehackernews.com/"/>
       <outline text="Slashdot" title="Slashdot" type="rss" xmlUrl="http://rss.slashdot.org/Slashdot/slashdotMain" htmlUrl="http://slashdot.org/"/>
@@ -62,10 +62,10 @@
     </outline>
     <outline text="News" title="News">
       <outline text="Benedict Evans' newsletter" title="Benedict Evans' newsletter" type="rss" xmlUrl="https://kill-the-newsletter.com/feeds/aplacga2s3avq4voe7p1.xml" htmlUrl="https://kill-the-newsletter.com/"/>
+      <outline text="Unreadit Tech" title="Unreadit Tech" type="rss" xmlUrl="https://kill-the-newsletter.com/feeds/ronwsv5lwgdg90h1.xml" htmlUrl="https://kill-the-newsletter.com/"/>
       <outline text="technology: top scoring links" title="technology: top scoring links" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/technology/top/.rss" htmlUrl="https://www.reddit.com/r/technology/top/?t=1598200139"/>
       <outline text="worldnews: top scoring links" title="worldnews: top scoring links" type="rss" xmlUrl="https://burkybang.com/reddit_rss/?rss=r/worldnews/top/.rss" htmlUrl="https://www.reddit.com/r/worldnews/top/?t=1628081840"/>
       <outline text="morningbrew-emergingtech" title="morningbrew-emergingtech" type="rss" xmlUrl="https://kill-the-newsletter.com/feeds/i66i4fnoxm8nb0a1.xml" htmlUrl="https://kill-the-newsletter.com/"/>
-      <outline text="unreadit-tech" title="unreadit-tech" type="rss" xmlUrl="https://kill-the-newsletter.com/feeds/g288aerkywijvvna.xml" htmlUrl="https://kill-the-newsletter.com/"/>
       <outline text="Ars Technica" title="Ars Technica" type="rss" xmlUrl="http://feeds.arstechnica.com/arstechnica/index" htmlUrl="http://arstechnica.com/"/>
       <outline text="stratechery by Ben Thompson" title="stratechery by Ben Thompson" type="rss" xmlUrl="http://stratechery.com/feed/" htmlUrl="http://stratechery.com/"/>
       <outline text="Meanwhile in Security" title="Meanwhile in Security" type="rss" xmlUrl="https://kill-the-newsletter.com/feeds/m9w6fmjmlkfkwq13.xml" htmlUrl="https://kill-the-newsletter.com/"/>
@@ -82,8 +82,8 @@
     </outline>
     <outline text="Newsletters" title="Newsletters">
       <outline text="SRE WEEKLY" title="SRE WEEKLY" type="rss" xmlUrl="http://sreweekly.com/feed/" htmlUrl="http://sreweekly.com/"/>
+      <outline text="Unreadit Tech" title="Unreadit Tech" type="rss" xmlUrl="https://kill-the-newsletter.com/feeds/ronwsv5lwgdg90h1.xml" htmlUrl="https://kill-the-newsletter.com/"/>
       <outline text="morningbrew-emergingtech" title="morningbrew-emergingtech" type="rss" xmlUrl="https://kill-the-newsletter.com/feeds/i66i4fnoxm8nb0a1.xml" htmlUrl="https://kill-the-newsletter.com/"/>
-      <outline text="unreadit-tech" title="unreadit-tech" type="rss" xmlUrl="https://kill-the-newsletter.com/feeds/g288aerkywijvvna.xml" htmlUrl="https://kill-the-newsletter.com/"/>
       <outline text="tl;dr sec" title="tl;dr sec" type="rss" xmlUrl="https://tldrsec.com/feed.xml" htmlUrl="https://tldrsec.com/"/>
       <outline text="stratechery by Ben Thompson" title="stratechery by Ben Thompson" type="rss" xmlUrl="http://stratechery.com/feed/" htmlUrl="http://stratechery.com/"/>
       <outline text="Meanwhile in Security" title="Meanwhile in Security" type="rss" xmlUrl="https://kill-the-newsletter.com/feeds/m9w6fmjmlkfkwq13.xml" htmlUrl="https://kill-the-newsletter.com/"/>
