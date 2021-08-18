@@ -861,6 +861,7 @@ Contents:
                 https://github.com/LeCoupa/awesome-cheatsheets/blob/master/tools/kubernetes.md
                 https://github.com/madhuakula/kubernetes-goat (Kubernetes Goat is "Vulnerable by Design" Kubernetes Cluster)
                 https://github.com/magnologan/awesome-k8s-security
+                https://github.com/nevalla/lens-resource-map-extension (Lens - The Kubernetes IDE extension that displays Kubernetes resources and their relations as a force graph.)
                 https://github.com/nkuba/k8s-admin-helper
                 https://github.com/r0hi7/k8s-In-30Mins (Learn how to set up the Kubernetes cluster in 30 mins and deploy the application inside the cluster.)
                 https://github.com/ramitsurana/awesome-kubernetes
@@ -1026,6 +1027,7 @@ Contents:
                 https://aws.amazon.com/getting-started/hands-on
                 https://awsstash.com
                 https://awsvideocatalog.com (AWS Video Catalog is a website that collects all the official Amazon videos)
+                https://d1.awsstatic.com/whitepapers/building_an_aws_perimeter.pdf (Building an AWS Perimeter)
                 https://discord.gg/RePKRaYGqM (AWS Discord Group)
                 https://expeditedsecurity.com/aws-in-plain-english
                 https://github.com/anaibol/awesome-serverless
@@ -1050,6 +1052,7 @@ Contents:
                 https://linuxacademy-community-slack.herokuapp.com
                 https://www.aws.training
                 https://www.awsgeek.com (Cloud Diagrams & Notes)
+                https://www.chrisfarris.com/post/aws-organizations-in-2021 (AWS Organizations - Checklist for 2021)
                 https://www.cisecurity.org/benchmark/amazon_web_services
                 https://www.concurrencylabs.com/blog/choose-your-aws-region-wisely
                 https://www.ec2instances.info
@@ -1603,6 +1606,7 @@ Contents:
                 https://www.reddit.com/r/netsec+privacy+SocialEngineering+onions+ReverseEngineering+crypto+blackhat+security+Malware+pwned+netsecstudents+computerforensics+HackBloc+securityCTF+xss+vrd+rootkit+REMath
                 https://www.reddit.com/r/netsecstudents/top/?sort=top&t=all
                 https://www.reddit.com/r/netsecstudents/wiki
+                https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets
                 https://xapax.github.io/blog/2017/01/14/OSCP.html
                 https://pinboard.in/u:SharjeelSayed/t:security
 
@@ -2265,6 +2269,7 @@ Contents:
                 https://github.com/lukasz-madon/awesome-remote-job
                 https://github.com/poteto/hiring-without-whiteboards
                 https://github.com/randallkanna/awesome-job-list
+                https://hn.algolia.com/?dateRange=pastYear&page=0&prefix=false&query=Ask%20HN%3A%20Who%20is%20hiring%3F&sort=byPopularity&type=story (Ask HN: Who is hiring?)
                 https://news.ycombinator.com/item?id=14686745 (Ask HN: What are some of the best job boards you have seen (any industry)?)
                 https://news.ycombinator.com/item?id=15473776 (Ask HN: What do you care about the most in a tech job post?)
                 https://news.ycombinator.com/item?id=15646550 (Ask HN: What is your favorite place to find work?)
