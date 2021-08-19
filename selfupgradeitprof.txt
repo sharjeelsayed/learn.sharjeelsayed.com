@@ -900,10 +900,8 @@ Contents:
                 https://sparkle.adroitcorp.com.au/market (Flashcards)
                 https://t.me/learnk8s
                 https://techbeacon.com/enterprise-it/47-advanced-tutorials-mastering-kubernetes
-                https://tf-eks-workshop.workshop.aws (Amazon EKS Terraform Workshop)
                 https://www.atomiccommits.io/everything-useful-i-know-about-kubectl
                 https://www.datadoghq.com/container-report (Nov 2020 report on Kubernetes and Docker Usage)
-                https://www.eksworkshop.com
                 https://www.flatcar-linux.org
                 https://www.katacoda.com/courses/kubernetes
                 https://www.reddit.com/r/kubernetes/comments/mwpj1q/how_did_you_really_master_kubernetes
@@ -937,6 +935,13 @@ Contents:
                 Kubernetes Tutorial for Beginners [FULL COURSE in 4 Hours] by TechWorld with Nana
                 https://youtu.be/X48VuDVv0do
                 https://gitlab.com/nanuchi/youtube-tutorial-series
+
+                EKS Workshop by Containers from the Couch
+                https://www.eksworkshop.com
+                https://youtube.com/playlist?list=PLehXSATXjcQF3NZgGeaNOgo2MRzi0arKY
+
+                Amazon EKS Terraform Workshop
+                https://tf-eks-workshop.workshop.aws
 
                 CKA/CKAD/CKS
                 https://github.com/cncf/curriculum
@@ -1088,6 +1093,13 @@ Contents:
 
                 Amazon Web Services — a practical guide
                 https://github.com/open-guides/og-aws
+
+                EKS Workshop by Containers from the Couch
+                https://www.eksworkshop.com
+                https://youtube.com/playlist?list=PLehXSATXjcQF3NZgGeaNOgo2MRzi0arKY
+
+                Amazon EKS Terraform Workshop
+                https://tf-eks-workshop.workshop.aws
 
                 AWS Certifications:
                 https://aws.amazon.com/certification
@@ -1267,7 +1279,6 @@ Contents:
                 https://terraform-docs.io (Generate Terraform modules documentation in various formats.)
                 https://terragrunt.gruntwork.io
                 https://terratest.gruntwork.io
-                https://tf-eks-workshop.workshop.aws (Amazon EKS Terraform Workshop)
                 https://www.facebook.com/groups/840062592768074 (Learn DevOps: Continuously Deliver Better Software)
                 https://www.katacoda.com/courses/terraform
                 https://www.reddit.com/r/Terraform
@@ -1296,6 +1307,9 @@ Contents:
                 https://www.oreilly.com/catalog/errata.csp?isbn=0636920225010
                 https://www.amazon.com/Terraform-Running-Writing-Infrastructure-Code/dp/1492046906
                 https://github.com/brikis98/terraform-up-and-running-code
+
+                Amazon EKS Terraform Workshop
+                https://tf-eks-workshop.workshop.aws
 
             Additional Material:
                 Deploy Infra in the Cloud using Terraform by Houssem Dellai
@@ -3582,6 +3596,7 @@ Contents:
         https://www.reddit.com/r/AskReddit/comments/6q2b8x/reddit_whats_become_clear_to_you_as_youve_gotten
         https://www.reddit.com/r/AskReddit/comments/70q5f2/reddit_what_are_the_most_useful_askreddit_posts
         https://www.reddit.com/r/india/wiki/useful_posts
+        https://www.stickermule.com/unixstickers (Unixstickers powered by Sticker Mule)
 
     Support this page with these referral links:
         http://amex.in/refer/sHARJsCJfI (American Express)
