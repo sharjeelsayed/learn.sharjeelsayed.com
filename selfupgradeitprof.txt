@@ -848,6 +848,7 @@ Contents:
                 https://blog.pipetail.io/posts/2020-05-04-most-common-mistakes-k8s
                 https://blog.udemy.com/kubernetes-interview-questions
                 https://chrisshort.net/kubernetes-illustrated-childrens-guide
+                https://cloud.redhat.com/blog/top-open-source-kubernetes-security-tools-of-2021 (Top Open Source Kubernetes Security Tools of 2021)
                 https://devopsunlocked.com/kubernetes-learning-material
                 https://github.com/ahmetb/kubernetes-network-policy-recipes
                 https://github.com/askmeegs/learn-istio
@@ -904,6 +905,7 @@ Contents:
                 https://www.datadoghq.com/container-report (Nov 2020 report on Kubernetes and Docker Usage)
                 https://www.flatcar-linux.org
                 https://www.katacoda.com/courses/kubernetes
+                https://www.nsa.gov/News-Features/Feature-Stories/Article-View/Article/2716980/nsa-cisa-release-kubernetes-hardening-guidance (NSA, CISA release Kubernetes Hardening Guidance)
                 https://www.reddit.com/r/kubernetes/comments/mwpj1q/how_did_you_really_master_kubernetes
                 https://www.udemy.com/topic/kubernetes/?ratings=4.5&sort=popularity
                 https://youtu.be/0Omvgd7Hg1I (Life of a Packet [I] - Michael Rubin, Google)
@@ -1572,6 +1574,7 @@ Contents:
                 https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html-single/using_selinux
                 https://cheatsheetseries.owasp.org (The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.)
                 https://cipher387.github.io/osint_stuff_tool_collection (OSINT Tool Collection)
+                https://cloud.redhat.com/blog/top-open-source-kubernetes-security-tools-of-2021 (Top Open Source Kubernetes Security Tools of 2021)
                 https://crowdsec.net
                 https://danielmiessler.com/blog/build-successful-infosec-career
                 https://dev-sec.io (devops + security Server Hardening Automation Using Ansible)
@@ -1615,6 +1618,7 @@ Contents:
                 https://www.cybrary.it
                 https://www.edx.org/learn/cybersecurity
                 https://www.netmeister.org/blog/infosec-competencies.html ((Technical) Infosec Core Competencies)
+                https://www.nsa.gov/News-Features/Feature-Stories/Article-View/Article/2716980/nsa-cisa-release-kubernetes-hardening-guidance (NSA, CISA release Kubernetes Hardening Guidance)
                 https://www.reddit.com/r/crypto/wiki
                 https://www.reddit.com/r/netsec/wiki
                 https://www.reddit.com/r/netsec+privacy+SocialEngineering+onions+ReverseEngineering+crypto+blackhat+security+Malware+pwned+netsecstudents+computerforensics+HackBloc+securityCTF+xss+vrd+rootkit+REMath
@@ -3583,6 +3587,7 @@ Contents:
         https://news.ycombinator.com/item?id=27219759 (Ask HN: Favorite purchases of last two years?)
         https://news.ycombinator.com/item?id=28017289 (Ask HN: Do you have a process or a framework to learn specific skills quickly?)
         https://news.ycombinator.com/item?id=28119393 (Ask HN: What tiny purchases have disproportionately improved your life?)
+        https://news.ycombinator.com/item?id=28232165 (Ask HN: What's the most life-changing blog post you've ever read?)
         https://rfc.fyi (Browse RFCs by keywords, id or collection)
         https://sourceful.co.uk (Discover the best public GoogleDocs and Sheets)
         https://tldrlegal.com (Software Licenses in Plain English)
