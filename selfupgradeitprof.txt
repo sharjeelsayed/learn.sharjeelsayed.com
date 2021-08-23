@@ -1268,6 +1268,7 @@ Contents:
                 https://github.com/antonbabenko/terraform-best-practices
                 https://github.com/Artemmkin/infrastructure-as-code-tutorial
                 https://github.com/camptocamp/terraboard (A web dashboard to inspect Terraform States)
+                https://github.com/GoogleCloudPlatform/terraformer (CLI tool to generate terraform files from existing infrastructure (reverse Terraform))
                 https://github.com/nsriram/lambda-the-terraform-way
                 https://github.com/shuaibiyy/awesome-terraform
                 https://github.com/tfutils/tfenv (Terraform version manager)
@@ -2519,6 +2520,7 @@ Contents:
                 https://www.amazon.com/gp/bestsellers/books/491584
                 https://www.indiainvestments.wiki
                 https://www.indiainvestments.wiki/start-here/zero-to-investing
+                https://www.investopedia.com
                 https://www.reddit.com/r/Economics/wiki/reading
 
             Books and Courses:
@@ -2534,7 +2536,15 @@ Contents:
                 The Plain Bagel Basics
                 https://www.youtube.com/playlist?list=PLD18sR-9Y-XHGlrT_3aKElcyzz9eTDGsy
 
-            MF Sites and Apps: (Sorted by Alexa Rank)
+            Mutual Funds 101:
+                https://economictimes.indiatimes.com/mf/analysis/should-you-choose-debt-or-equity-mutual-funds-for-your-investments/articleshow/80700533.cms
+                https://groww.in/beginners-guide-mutual-funds
+                https://www.financialexpress.com/money/mutual-funds/mutual-funds-balancing-between-equity-and-debt-funds/2247336
+                https://www.indiainvestments.wiki/start-here/all-about-mutual-funds
+                https://www.investopedia.com/mutual-funds-4427787
+                https://www.investopedia.com/articles/investing/092915/trading-mutual-funds-beginners.asp
+
+            Mutual Funds Sites and Apps: (Sorted by Alexa Rank)
                 https://coin.zerodha.com (212)
                 https://groww.in (3,185)
                 https://www.mobikwik.com (11,878)
@@ -2544,8 +2554,15 @@ Contents:
                 https://kuvera.in (32,195)
                 https://www.goniyo.com (57,497)
                 https://www.mfuindia.com (333,486)
+                https://www.niyomoney.com (1,055,497)
 
-            Stock Trading Sites and Apps: (Sorted by Alexa Rank)
+            Mutual Fund Review Sites: (Sorted by Alexa Rank)
+                https://www.moneycontrol.com/mutualfundindia (287)
+                https://www.valueresearchonline.com (8,881)
+                https://www.etmoney.com/mutual-funds/featured/mutual-fund-for-beginners/14 (15,105)
+                https://morningstar.in/funds/featuredreports.aspx?mstab=qual (43,582)
+
+             Stock Trading Sites and Apps: (Sorted by Alexa Rank)
                 https://zerodha.com (212)
                 https://upstox.com (1,341)
                 https://groww.in (3,185)
@@ -3588,6 +3605,7 @@ Contents:
         https://news.ycombinator.com/item?id=28017289 (Ask HN: Do you have a process or a framework to learn specific skills quickly?)
         https://news.ycombinator.com/item?id=28119393 (Ask HN: What tiny purchases have disproportionately improved your life?)
         https://news.ycombinator.com/item?id=28232165 (Ask HN: What's the most life-changing blog post you've ever read?)
+        https://per.quest (Enter a URL to an article, post or page with some text on it to listen to it)
         https://rfc.fyi (Browse RFCs by keywords, id or collection)
         https://sourceful.co.uk (Discover the best public GoogleDocs and Sheets)
         https://tldrlegal.com (Software Licenses in Plain English)
