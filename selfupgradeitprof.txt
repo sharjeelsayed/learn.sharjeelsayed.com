@@ -2536,31 +2536,32 @@ Contents:
                 The Plain Bagel Basics
                 https://www.youtube.com/playlist?list=PLD18sR-9Y-XHGlrT_3aKElcyzz9eTDGsy
 
-            Mutual Funds 101:
-                https://economictimes.indiatimes.com/mf/analysis/should-you-choose-debt-or-equity-mutual-funds-for-your-investments/articleshow/80700533.cms
-                https://groww.in/beginners-guide-mutual-funds
-                https://www.financialexpress.com/money/mutual-funds/mutual-funds-balancing-between-equity-and-debt-funds/2247336
-                https://www.indiainvestments.wiki/start-here/all-about-mutual-funds
-                https://www.investopedia.com/mutual-funds-4427787
-                https://www.investopedia.com/articles/investing/092915/trading-mutual-funds-beginners.asp
+            Mutual Funds:
+                Mutual Funds 101:
+                    https://economictimes.indiatimes.com/mf/analysis/should-you-choose-debt-or-equity-mutual-funds-for-your-investments/articleshow/80700533.cms
+                    https://groww.in/beginners-guide-mutual-funds
+                    https://www.financialexpress.com/money/mutual-funds/mutual-funds-balancing-between-equity-and-debt-funds/2247336
+                    https://www.indiainvestments.wiki/start-here/all-about-mutual-funds
+                    https://www.investopedia.com/mutual-funds-4427787
+                    https://www.investopedia.com/articles/investing/092915/trading-mutual-funds-beginners.asp
 
-            Mutual Funds Sites and Apps: (Sorted by Alexa Rank)
-                https://coin.zerodha.com (212)
-                https://groww.in (3,185)
-                https://www.mobikwik.com (11,878)
-                https://www.paytmmoney.com (12,657)
-                https://www.etmoney.com (14,775)
-                https://www.indmoney.com (25,584)
-                https://kuvera.in (32,195)
-                https://www.goniyo.com (57,497)
-                https://www.mfuindia.com (333,486)
-                https://www.niyomoney.com (1,055,497)
+                Mutual Fund Review Sites: (Sorted by Alexa Rank)
+                    https://www.moneycontrol.com/mutualfundindia (287)
+                    https://www.valueresearchonline.com/funds (8,881)
+                    https://www.etmoney.com/mutual-funds/featured/mutual-fund-for-beginners/14 (15,105)
+                    https://morningstar.in/funds/featuredreports.aspx?mstab=qual (43,582)
 
-            Mutual Fund Review Sites: (Sorted by Alexa Rank)
-                https://www.moneycontrol.com/mutualfundindia (287)
-                https://www.valueresearchonline.com (8,881)
-                https://www.etmoney.com/mutual-funds/featured/mutual-fund-for-beginners/14 (15,105)
-                https://morningstar.in/funds/featuredreports.aspx?mstab=qual (43,582)
+                Mutual Funds Sites and Apps: (Sorted by Alexa Rank)
+                    https://coin.zerodha.com (212)
+                    https://groww.in (3,185)
+                    https://www.mobikwik.com (11,878)
+                    https://www.paytmmoney.com (12,657)
+                    https://www.etmoney.com (14,775)
+                    https://www.indmoney.com (25,584)
+                    https://kuvera.in (32,195)
+                    https://www.goniyo.com (57,497)
+                    https://www.mfuindia.com (333,486)
+                    https://www.niyomoney.com (1,055,497)
 
              Stock Trading Sites and Apps: (Sorted by Alexa Rank)
                 https://zerodha.com (212)
