@@ -851,6 +851,7 @@ Contents:
                 https://cloud.redhat.com/blog/top-open-source-kubernetes-security-tools-of-2021 (Top Open Source Kubernetes Security Tools of 2021)
                 https://devopsunlocked.com/kubernetes-learning-material
                 https://github.com/ahmetb/kubernetes-network-policy-recipes
+                https://github.com/armosec/kubescape (kubescape is the first tool for testing if Kubernetes is deployed securely as defined in Kubernetes Hardening Guidance by to NSA and CISA)
                 https://github.com/askmeegs/learn-istio
                 https://github.com/dennyzhang/cheatsheet-kubernetes-A4
                 https://github.com/eon01/kubernetes-workshop
@@ -1580,6 +1581,7 @@ Contents:
                 https://danielmiessler.com/blog/build-successful-infosec-career
                 https://dev-sec.io (devops + security Server Hardening Automation Using Ansible)
                 https://en.wikipedia.org/wiki/List_of_computer_security_certifications#Most_Popular_Vendor_Neutral_Cyber_Security_Certifications_Among_employers
+                https://github.com/armosec/kubescape (kubescape is the first tool for testing if Kubernetes is deployed securely as defined in Kubernetes Hardening Guidance by to NSA and CISA)
                 https://github.com/Arudjreis/awesome-security-GRC (Curated list of resources for security Governance, Risk Management, Compliance and Audit professionals and enthusiasts (if they exist).)
                 https://github.com/chughes29/Cloud-DevSecOps-Learning/blob/main/Cloud%20%26%20DevSecOps%20Learning%20(1).md (Cloud-DevSecOps-Learning)
                 https://github.com/dafthack/CloudPentestCheatsheets
@@ -2522,6 +2524,8 @@ Contents:
                 https://www.indiainvestments.wiki/start-here/zero-to-investing
                 https://www.investopedia.com
                 https://www.reddit.com/r/Economics/wiki/reading
+                https://www.reddit.com/r/IndiaInvestments
+                https://zerodha.com/varsity
 
             Books and Courses:
                 Basic Economics 5th Edition
@@ -2542,8 +2546,9 @@ Contents:
                     https://groww.in/beginners-guide-mutual-funds
                     https://www.financialexpress.com/money/mutual-funds/mutual-funds-balancing-between-equity-and-debt-funds/2247336
                     https://www.indiainvestments.wiki/start-here/all-about-mutual-funds
-                    https://www.investopedia.com/mutual-funds-4427787
                     https://www.investopedia.com/articles/investing/092915/trading-mutual-funds-beginners.asp
+                    https://www.investopedia.com/mutual-funds-4427787
+                    https://zerodha.com/varsity/chapter/introduction-to-mutual-funds
 
                 Mutual Fund Review Sites: (Sorted by Alexa Rank)
                     https://www.moneycontrol.com/mutualfundindia (287)
