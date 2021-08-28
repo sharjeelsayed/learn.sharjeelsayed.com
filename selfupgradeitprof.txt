@@ -119,6 +119,7 @@ Contents:
             https://begriffs.com/posts/2017-04-13-longterm-computing-reading.html
             https://docs.google.com/spreadsheets/d/1zfw8nPvJeewxcFUBpKUKmAVE8PjnJI7H0CKimdQXxr0/htmlview (Stanford CS Curriculum)
             https://en.wikipedia.org/wiki/Outline_of_computer_science
+            https://github.com/cs-books/influential-cs-books (Most influential books on Computer Science/programming)
             https://github.com/Developer-Y/cs-video-courses
             https://github.com/mvillaloboz/open-source-cs-degree
             https://github.com/nushackers/notes-to-cs-freshmen-from-the-future
@@ -715,6 +716,7 @@ Contents:
                 https://news.ycombinator.com/item?id=25069452 (Linux Command One-Liners (commandlinefu.com))
                 https://news.ycombinator.com/item?id=27023572 (	My Favorite One Liners (muhammadraza.me))
                 https://news.ycombinator.com/item?id=27615516 (Bash PS1 Generator (bashrcgenerator.com))
+                https://news.ycombinator.com/item?id=27992073 (	Command line tools for productive programmers (earthly.dev))
                 https://pragmaticpineapple.com/four-useful-fzf-tricks-for-your-terminal
                 https://switowski.com/blog/favorite-cli-tools
                 https://www.reddit.com/r/usefulscripts
@@ -2173,6 +2175,7 @@ Contents:
                 https://news.ycombinator.com/item?id=20916749 (Questions to ask a company during a job interview (github.com))
                 https://news.ycombinator.com/item?id=26854130 (Questions to ask in a job interview that reveal company culture (fastcompany.com))
                 https://news.ycombinator.com/item?id=27161901 (Ask HN: What lessons did you learn from your best or worst colleagues?)
+                https://techinterviewhandbook.org (Curated interview preparation materials for busy engineers.Brought to you by the author of the Blind 75 List)
                 https://www.naukri.com/pulse/top-it-skills
                 https://www.reddit.com/r/AskReddit/comments/74sskj/what_are_some_red_flags_in_a_job_interview
                 https://www.reddit.com/r/AskReddit/comments/9vbwy8/what_are_good_questions_to_ask_potential
@@ -2211,6 +2214,7 @@ Contents:
 
                 Cracking the Coding Interview: 189 Programming Questions and Solutions
                 https://www.amazon.com/Cracking-Coding-Interview-6th-Programming/dp/0984782850
+                https://github.com/careercup/CtCI-6th-Edition-JavaScript
 
                 Elements of Programming Interviews in Python: The Insiders' Guide
                 https://www.amazon.com/Elements-Programming-Interviews-Python-Insiders/dp/1537713949
@@ -3452,13 +3456,14 @@ Contents:
 
         VPS:
             Sources:
-                https://github.com/joedicastro/vps-comparison
                 https://github.com/awesome-selfhosted/awesome-selfhosted
+                https://github.com/joedicastro/vps-comparison
                 https://hn.algolia.com/?dateRange=pastYear&page=0&prefix=true&query=ask%20hn%3A%20vps&sort=byPopularity&type=story
                 https://joshtronic.com/2021/01/03/vps-showdown-digitalocean-lightsail-linode-upcloud-vultr
                 https://lowendbox.com
                 https://news.ycombinator.com/item?id=15105601 (Ask HN: What are your favorites self hosted tools?)
                 https://news.ycombinator.com/item?id=26594242 (Ask HN: Cheapest/easiest way to host a static site?)
+                https://news.ycombinator.com/item?id=28299053 (Ask HN: Companies of one, what is your tech stack?)
                 https://www.reddit.com/r/VPS+homelab
                 https://www.vpsbenchmarks.com
                 https://pinboard.in/u:SharjeelSayed/t:vps
