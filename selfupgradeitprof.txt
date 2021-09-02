@@ -1060,6 +1060,7 @@ Contents:
                 https://github.com/undergroundwires/AWS-in-bullet-points
                 https://github.com/wallix/awless (A Mighty CLI for AWS)
                 https://linuxacademy-community-slack.herokuapp.com
+                https://trustoncloud.com/the-last-s3-security-document-that-well-ever-need (The last S3 security document that we’ll ever need, and how to use it)
                 https://www.aws.training
                 https://www.awsgeek.com (Cloud Diagrams & Notes)
                 https://www.chrisfarris.com/post/aws-organizations-in-2021 (AWS Organizations - Checklist for 2021)
@@ -1279,6 +1280,7 @@ Contents:
                 https://github.com/topics/terraform?o=desc&s=stars
                 https://github.com/warrensbox/terraform-switcher (A command line tool to switch between different versions of terraform)
                 https://learn.hashicorp.com/terraform
+                https://learn.hashicorp.com/tutorials/terraform/associate-study (Study Guide - Terraform Associate Certification)
                 https://medium.com/@brenspiration/free-online-courses-on-kubernetes-docker-products-terraform-2a3cd296ce95
                 https://registry.terraform.io
                 https://scalr.com/blog/top-20-terraform-providers
@@ -1286,6 +1288,7 @@ Contents:
                 https://terragrunt.gruntwork.io
                 https://terratest.gruntwork.io
                 https://www.facebook.com/groups/840062592768074 (Learn DevOps: Continuously Deliver Better Software)
+                https://www.hashicorp.com/community/office-hours (Public, Virtual Office Hours)
                 https://www.katacoda.com/courses/terraform
                 https://www.reddit.com/r/Terraform
                 https://www.reddit.com/r/Terraform/comments/iguorh/best_terraform_course
@@ -1328,6 +1331,9 @@ Contents:
                 Terraform Tutorial by Will Brock
                 https://www.youtube.com/playlist?list=PL8HowI-L-3_9bkocmR3JahQ4Y-Pbqs2Nt
                 https://github.com/WillBrock/terraform-course-examples
+
+                Terraform Full Course for Beginners | Hashicorp Terraform Associate Certification Exam Prep course by Sandip Das
+                https://youtu.be/EJ3N-hhiWv0
 
         Vagrant:
             Sources:
@@ -2578,6 +2584,17 @@ Contents:
                 https://groww.in (3,185)
                 https://www.5paisa.com (11,083)
                 https://www.paytmmoney.com (12,657)
+
+            Credit Cards: (Sorted by Alexa Rank)
+                https://www.bankbazaar.com/credit-card/top-10-credit-cards-in-india.html (1,978)
+                https://www.paisabazaar.com/credit-card/top-10-credit-cards-in-india (3,433)
+                https://www.creditmantri.com/credit-card (26,983)
+                https://www.wishfin.com/best-credit-cards/best-credit-cards-in-india-apply-online (38,303)
+                https://www.cardexpert.in/best-credit-cards-in-india-2021 (50,768)
+                https://finshots.in/infographic/who-dominates-the-credit-card-market-in-india (57,577)
+                https://www.cashoverflow.in/best-credit-cards-india-2021 (59,776)
+                https://www.mymoneymantra.com/blog/top-10-credit-cards-in-india-for-2019 (133,119)
+                https://cardinfo.in/best-credit-cards-in-india-for-2021 (236,015)
 
         Foreign Language:
             Source:
