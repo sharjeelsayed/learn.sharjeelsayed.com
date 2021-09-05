@@ -846,13 +846,14 @@ Contents:
         Kubernetes:
             Sources:
                 https://100daysofkubernetes.io
-                https://argoproj.github.io/argo-cd
+                https://argoproj.github.io/argo-cd (Declarative GitOps CD for Kubernetes)
                 https://blog.pipetail.io/posts/2020-05-04-most-common-mistakes-k8s
                 https://blog.udemy.com/kubernetes-interview-questions
                 https://chrisshort.net/kubernetes-illustrated-childrens-guide
                 https://cloud.redhat.com/blog/top-open-source-kubernetes-security-tools-of-2021 (Top Open Source Kubernetes Security Tools of 2021)
                 https://devopsunlocked.com/kubernetes-learning-material
                 https://github.com/ahmetb/kubernetes-network-policy-recipes
+                https://github.com/aquasecurity/kube-bench (Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark )
                 https://github.com/armosec/kubescape (kubescape is the first tool for testing if Kubernetes is deployed securely as defined in Kubernetes Hardening Guidance by to NSA and CISA)
                 https://github.com/askmeegs/learn-istio
                 https://github.com/dennyzhang/cheatsheet-kubernetes-A4
@@ -951,6 +952,7 @@ Contents:
                 CKA/CKAD/CKS
                 https://github.com/cncf/curriculum
                 https://github.com/dgkanatsios/CKAD-exercises
+                https://github.com/kmjayadeep/cka-learning (My notes and preparation materials for Certified Kubernetes Administrator Exam)
                 https://github.com/lucassha/CKAD-resources
                 https://github.com/stackrox/Kubernetes_Security_Specialist_Study_Guide
                 https://github.com/walidshaari/Certified-Kubernetes-Security-Specialist
@@ -1630,6 +1632,7 @@ Contents:
                 https://www.edx.org/learn/cybersecurity
                 https://www.netmeister.org/blog/infosec-competencies.html ((Technical) Infosec Core Competencies)
                 https://www.nsa.gov/News-Features/Feature-Stories/Article-View/Article/2716980/nsa-cisa-release-kubernetes-hardening-guidance (NSA, CISA release Kubernetes Hardening Guidance)
+                https://www.open-scap.org (Discover a wide array of tools for managing system security and standards compliance)
                 https://www.reddit.com/r/crypto/wiki
                 https://www.reddit.com/r/netsec/wiki
                 https://www.reddit.com/r/netsec+privacy+SocialEngineering+onions+ReverseEngineering+crypto+blackhat+security+Malware+pwned+netsecstudents+computerforensics+HackBloc+securityCTF+xss+vrd+rootkit+REMath
@@ -1681,6 +1684,7 @@ Contents:
                 https://defkey.com/apple-macos-shortcuts
                 https://dev.to/wes/how2-using-gpg-on-macos-without-gpgtools-428f
                 https://dotfilehub.com
+                https://github.com/agarrharr/awesome-macos-screensavers (A curated list of screensavers for Mac OS X)
                 https://github.com/donnemartin/dev-setup
                 https://github.com/drduh/macOS-Security-and-Privacy-Guide
                 https://github.com/geerlingguy/mac-dev-playbook
