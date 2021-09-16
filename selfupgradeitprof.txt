@@ -857,6 +857,7 @@ Contents:
                 https://github.com/armosec/kubescape (kubescape is the first tool for testing if Kubernetes is deployed securely as defined in Kubernetes Hardening Guidance by to NSA and CISA)
                 https://github.com/askmeegs/learn-istio
                 https://github.com/dennyzhang/cheatsheet-kubernetes-A4
+                https://github.com/diegolnasc/kubernetes-best-practices (https://github.com/diegolnasc/kubernetes-best-practices)
                 https://github.com/eon01/kubernetes-workshop
                 https://github.com/jamiehannaford/what-happens-when-k8s
                 https://github.com/k8s-at-home/awesome-home-kubernetes
@@ -892,9 +893,11 @@ Contents:
                 https://kubernetesreadme.com (What books 📚 to read to learn more about Kubernetes)
                 https://labs.play-with-k8s.com
                 https://learning.oreilly.com/search/?query=kubernetes
+                https://learnk8s.io/troubleshooting-deployments (A visual guide on troubleshooting Kubernetes deployments)
                 https://medium.com/faun/35-advanced-tutorials-to-learn-kubernetes-dae5695b1f18
                 https://medium.com/faun/be-fast-with-kubectl-1-18-ckad-cka-31be00acc443
                 https://minikube.sigs.k8s.io
+                https://mjarosie.github.io/dev/2021/09/15/iam-roles-for-kubernetes-service-accounts-deep-dive.html (IAM roles for Kubernetes service accounts - deep dive)
                 https://napo.io/posts/kubernetes-the-real-hard-way-on-aws
                 https://news.ycombinator.com/item?id=22597880 (Kind - run local Kubernetes clusters using Docker (k8s.io))
                 https://news.ycombinator.com/item?id=22689119 (Anyone have a recommended guide for Kubernetes?)
@@ -2426,6 +2429,7 @@ Contents:
                 https://Github.Com/Dakshshah96/Awesome-Startup-Credits (A Collection Of Awesome Companies Offering Free/Discounted Plans For Eligible Startups)
                 https://Github.Com/Dwmkerr/Hacker-Laws (Laws, Theories, Principles And Patterns That Developers Will Find Useful. #Hackerlaws )
                 https://Github.Com/Kuchin/Awesome-Cto (A Curated And Opinionated List Of Resources For Chief Technology Officers, With The Emphasis On Startups)
+                https://github.com/pdfernhout/High-Performance-Organizations-Reading-List (Ideas for creating and sustaining high performance organizations)
                 https://Github.Com/Pharkmillups/Beautiful-Docs (Pointers To Useful, Well-Written, And Otherwise Beautiful Documentation.)
                 https://Github.Com/Ryanburgess/Engineer-Manager (A List Of Engineering Manager Resource Links. )
                 https://Github.Com/Vgraupera/1on1-Questions (Mega List Of 1 On 1 Meeting Questions Compiled From A Variety To Sources)
