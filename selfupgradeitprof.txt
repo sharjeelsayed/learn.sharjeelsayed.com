@@ -693,6 +693,7 @@ Contents:
             Sources:
                 http://bashrcgenerator.com (Bash PS1 Generator)
                 http://redsymbol.net/articles/unofficial-bash-strict-mode
+                https://explainshell.com (write down a command-line to see the help text that matches each argument)
                 https://github.com/alebcay/awesome-shell
                 https://github.com/alexanderepstein/Bash-Snippets (A collection of small bash scripts for heavy terminal users)
                 https://github.com/dylanaraps/pure-bash-bible
@@ -856,8 +857,9 @@ Contents:
                 https://github.com/aquasecurity/kube-bench (Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark )
                 https://github.com/armosec/kubescape (kubescape is the first tool for testing if Kubernetes is deployed securely as defined in Kubernetes Hardening Guidance by to NSA and CISA)
                 https://github.com/askmeegs/learn-istio
+                https://github.com/aws/eks-anywhere (Run Amazon EKS on your own infrastructure)
                 https://github.com/dennyzhang/cheatsheet-kubernetes-A4
-                https://github.com/diegolnasc/kubernetes-best-practices (https://github.com/diegolnasc/kubernetes-best-practices)
+                https://github.com/diegolnasc/kubernetes-best-practices (A cookbook with the best practices for working with kubernetes)
                 https://github.com/eon01/kubernetes-workshop
                 https://github.com/jamiehannaford/what-happens-when-k8s
                 https://github.com/k8s-at-home/awesome-home-kubernetes
@@ -2885,13 +2887,14 @@ Contents:
 
                 Additional Sources:
                     https://hypem.com
+                    https://jetsetradio.live (LO-FI)
+                    https://neal.fun
                     https://open.spotify.com/playlist/51GTWGAMzL5zt7oUPcxwne (The Perfect Playlist from the AskReddit thread)
                     https://www.reddit.com/r/Music/comments/5nu2vt/112_hour_playlist_of_the_most_recognizable_songs
                     https://www.reddit.com/r/spotify/comments/aj7wkz/the_perfect_playlist_from_the_askreddit_thread
                     https://www.reddit.com/r/spotify/comments/gu81es/my_collection_of_spotify_and_other_music_related
                     https://www.reddit.com/r/spotify/top
                     https://www.reddit.com/r/spotify/wiki
-                    https://jetsetradio.live (LO-FI)
 
         Headphones:
             Sources:
