@@ -1180,6 +1180,7 @@ Contents:
                 https://github.com/fcambus/nginx-resources
                 https://github.com/topics/nginx?o=desc&s=stars
                 https://github.com/trimstray/nginx-admins-handbook
+                https://jvns.ca/blog/2021/09/24/new-tool--an-nginx-playground (Nginx Playground)
                 https://news.ycombinator.com/item?id=23597294 (Nginx UI – Access and modify the Nginx configurations files without CLI (github.com))
                 https://nginx.org/en/docs
                 https://www.digitalocean.com/community/tools/nginx (The easiest way to configure a performant, secure, and stable NGINX server.)
@@ -2284,13 +2285,14 @@ Contents:
                 https://news.ycombinator.com/item?id=16479922 (Ask HN: Resumes that look good but professional too)
                 https://news.ycombinator.com/item?id=17671490 (Building a Kickass Portfolio)
                 https://news.ycombinator.com/item?id=22709183 (	Show HN: RxResume – A free and open-source resume builder (web.app))
+                https://resumake.io
+                https://resumetopdf.com
                 https://thetechresume.com
                 https://www.reddit.com/r/sysadminresumes/top
                 https://pinboard.in/u:SharjeelSayed/t:resume
 
         Portfolio:
             Sources:
-                https://linktr.ee (304)
                 https://about.me (5,086)
                 https://arturssmirnovs.github.io/github-profile-readme-generator
                 https://github.com/abhisheknaiidu/awesome-github-profile-readme
@@ -2299,6 +2301,8 @@ Contents:
                 https://github.com/kautukkundan/Awesome-Profile-README-templates
                 https://github.com/topics/github-profile-readme?o=desc&s=stars
                 https://github.com/topics/github-readme?o=desc&s=stars
+                https://linktr.ee (304)
+                https://luckyresumemaker.com (Make a professional resume in minutes)
                 https://www.qrcode-monkey.com/#vcard
                 https://www.vistaprint.in/business-cards
                 https://youtu.be/n6d4KHSKqGk (UPDATE: Next Level GitHub Profile README (NEW) | GitHub Actions | Vercel | Spotify)
@@ -2716,6 +2720,7 @@ Contents:
                 https://en.wikipedia.org/wiki/Pulitzer_Prize
                 https://en.wikipedia.org/wiki/Time%27s_List_of_the_100_Best_Novels
                 https://github.com/laxyapahuja/bunken (A chrome extension to download ebooks directly from Goodreads.)
+                https://hacker-recommended-books.vercel.app (40,000 HackerNews book recommendations identified using NLP and deep learning)
                 https://hackernewsbooks.com
                 https://hn.algolia.com/?query=books&sort=byPopularity&prefix&page=0&dateRange=all&type=story
                 https://mapfilterfold.com (Meta Recommendations from HN)
@@ -2840,6 +2845,7 @@ Contents:
                 https://www.reddit.com/r/ambientmusic/comments/3tuiu7/ambientmusic_voted_your_top_25_ambient_albums
                 https://www.reddit.com/r/ambientmusic/top
                 https://www.reddit.com/r/medicalschool/comments/9m4afb/serious_spotify_playlists_to_listen_to_while
+                https://www.rollingstone.com/music/music-lists/best-songs-of-all-time-1224767
                 https://pinboard.in/u:SharjeelSayed/t:music+study
 
             Sites:
@@ -3109,6 +3115,7 @@ Contents:
                 https://news.ycombinator.com/item?id=25159931 (Ask HN: What are some of your favorite journals or magazines?)
                 https://news.ycombinator.com/item?id=26192817 (	Ask HN: What websites do you visit every day?)
                 https://news.ycombinator.com/item?id=27302195 (Ask HN: Favorite Blogs by Individuals?)
+                https://news.ycombinator.com/item?id=28632002 (Ask HN: What are some other general link aggregators aside from HN?)
                 https://news.ycombinator.com/item?id=9836023 (Ask HN: What tech blogs, podcasts do you follow outside of HN?)
                 https://news.ycombinator.com/user?id=SharjeelSayed
                 https://twitter.com/SharjeelSayed
