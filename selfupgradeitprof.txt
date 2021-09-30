@@ -857,7 +857,6 @@ Contents:
                 https://github.com/aquasecurity/kube-bench (Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark )
                 https://github.com/armosec/kubescape (kubescape is the first tool for testing if Kubernetes is deployed securely as defined in Kubernetes Hardening Guidance by to NSA and CISA)
                 https://github.com/askmeegs/learn-istio
-                https://github.com/aws/eks-anywhere (Run Amazon EKS on your own infrastructure)
                 https://github.com/dennyzhang/cheatsheet-kubernetes-A4
                 https://github.com/diegolnasc/kubernetes-best-practices (A cookbook with the best practices for working with kubernetes)
                 https://github.com/eon01/kubernetes-workshop
@@ -869,6 +868,7 @@ Contents:
                 https://github.com/LeCoupa/awesome-cheatsheets/blob/master/tools/kubernetes.md
                 https://github.com/madhuakula/kubernetes-goat (Kubernetes Goat is "Vulnerable by Design" Kubernetes Cluster)
                 https://github.com/magnologan/awesome-k8s-security
+                https://github.com/marcel-dempers/docker-development-youtube-series (A Collection of tools, hands-on walkthroughs with source code.
                 https://github.com/nevalla/lens-resource-map-extension (Lens - The Kubernetes IDE extension that displays Kubernetes resources and their relations as a force graph.)
                 https://github.com/nkuba/k8s-admin-helper
                 https://github.com/r0hi7/k8s-In-30Mins (Learn how to set up the Kubernetes cluster in 30 mins and deploy the application inside the cluster.)
@@ -918,6 +918,7 @@ Contents:
                 https://www.reddit.com/r/kubernetes/comments/mwpj1q/how_did_you_really_master_kubernetes
                 https://www.udemy.com/topic/kubernetes/?ratings=4.5&sort=popularity
                 https://youtu.be/0Omvgd7Hg1I (Life of a Packet [I] - Michael Rubin, Google)
+The Ultimate Swiss Army knife for DevOps, Developers and Platform Engineers)
                 https://pinboard.in/u:SharjeelSayed/t:kubernetes
 
             Books and Courses:
@@ -1066,6 +1067,7 @@ Contents:
                 https://github.com/turbot/steampipe (Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required.)
                 https://github.com/undergroundwires/AWS-in-bullet-points
                 https://github.com/wallix/awless (A Mighty CLI for AWS)
+                https://iam.cloudonaut.io (Creating IAM policies is hard. We collect information from the AWS Documentation to make writing IAM policies easier)
                 https://linuxacademy-community-slack.herokuapp.com
                 https://trustoncloud.com/the-last-s3-security-document-that-well-ever-need (The last S3 security document that we’ll ever need, and how to use it)
                 https://www.aws.training
@@ -1281,6 +1283,7 @@ Contents:
                 https://github.com/Artemmkin/infrastructure-as-code-tutorial
                 https://github.com/camptocamp/terraboard (A web dashboard to inspect Terraform States)
                 https://github.com/GoogleCloudPlatform/terraformer (CLI tool to generate terraform files from existing infrastructure (reverse Terraform))
+                https://github.com/im2nguyen/rover (Interactive Terraform visualization. State and configuration explorer.)
                 https://github.com/nsriram/lambda-the-terraform-way
                 https://github.com/shuaibiyy/awesome-terraform
                 https://github.com/tfutils/tfenv (Terraform version manager)
@@ -1611,6 +1614,7 @@ Contents:
                 https://github.com/OWASP/CheatSheetSeries
                 https://github.com/pluja/awesome-privacy (A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.)
                 https://github.com/qazbnm456/awesome-web-security
+                https://github.com/robertdavidgraham/masscan (TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.)
                 https://github.com/sbilly/awesome-security
                 https://github.com/topics/oscp?o=desc&s=stars
                 https://github.com/topics/security?o=desc&s=stars
@@ -2147,7 +2151,6 @@ Contents:
                     https://marketplace.visualstudio.com/items?itemName=timonwong.shellcheck
                     https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons
                     https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one
-                    https://marketplace.visualstudio.com/items?itemName=zbr.vscode-ansible
 
             IntelliJ IDEA:
                 Extensions:
@@ -2310,6 +2313,7 @@ Contents:
         Jobs:
             Sources:
                 https://docs.google.com/spreadsheets/d/1TLJSlNxCbwRNxy14Toe1PYwbCTY7h0CNHeer9J0VRzE/htmlview#gid=1279011369 (900+ Startups hiring Remotely in 2020 - by Remotive.io)
+                https://github.com/Kaustubh-Natuskar/companies-to-apply (This repository contains opportunities for you to apply to more than 150 product base companies(NOT JUST FAANG ) & good start-ups.)
                 https://github.com/lukasz-madon/awesome-remote-job
                 https://github.com/poteto/hiring-without-whiteboards
                 https://github.com/randallkanna/awesome-job-list
@@ -2631,6 +2635,7 @@ Contents:
             https://news.ycombinator.com/item?id=16202123 (How to Study: A Brief Guide (buffalo.edu))
             https://news.ycombinator.com/item?id=21310030 (Ask HN: How do you share/organize knowledge at work and life?)
             https://news.ycombinator.com/item?id=23596471 (Ask HN: How do you take notes when reading a book?)
+            https://news.ycombinator.com/item?id=28482726 (	Ask HN: How Do You Learn?)
             https://www.comptia.org/testing/online-testing-interest-form
             https://www.coursera.org/learn/learning-how-to-learn
 
