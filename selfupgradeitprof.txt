@@ -1638,6 +1638,7 @@ The Ultimate Swiss Army knife for DevOps, Developers and Platform Engineers)
                 https://tools.tldr.run (Curated list of security tools for Hackers & Builders!)
                 https://twitter.com/thecybermentor/status/1343471818468978688 (So, you want to be a hacker: 2021 edition.)
                 https://www.cisecurity.org/cis-benchmarks
+                https://www.coursera.org/learn/crypto (Cryptography I Course by Dan Boneh (Stanford))
                 https://www.cybrary.it
                 https://www.edx.org/learn/cybersecurity
                 https://www.netmeister.org/blog/infosec-competencies.html ((Technical) Infosec Core Competencies)
