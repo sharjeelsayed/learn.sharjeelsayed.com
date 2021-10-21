@@ -945,6 +945,9 @@ Contents:
                 https://tanzu.vmware.com/content/ebooks/kubernetes-up-running-dive-into-the-future-of-infrastructure
                 https://www.amazon.com/Kubernetes-Running-Dive-Future-Infrastructure/dp/1492046531
 
+                Kubernetes in Action, Second Edition by Marko Lukša
+                https://www.manning.com/books/kubernetes-in-action-second-edition (In Prgress, expected to complete by Spring 2022)
+
                 Kubernetes Tutorial for Beginners [FULL COURSE in 4 Hours] by TechWorld with Nana
                 https://youtu.be/X48VuDVv0do
                 https://gitlab.com/nanuchi/youtube-tutorial-series
@@ -1639,6 +1642,7 @@ Contents:
                 https://room362.com/start (Start in Infosec)
                 https://s3ctur.wordpress.com/2017/06/19/breaking-into-infosec-a-beginners-curriculum
                 https://security.stackexchange.com/questions/46666/at-what-length-does-a-password-stop-making-sense
+                https://toc.cryptobook.us (A Graduate Course in Applied Cryptography)
                 https://tools.tldr.run (Curated list of security tools for Hackers & Builders!)
                 https://twitter.com/thecybermentor/status/1343471818468978688 (So, you want to be a hacker: 2021 edition.)
                 https://www.cisecurity.org/cis-benchmarks
@@ -2032,6 +2036,7 @@ Contents:
                 https://github.com/developer-resources/frontend-development
                 https://github.com/getify/You-Dont-Know-JS
                 https://github.com/sorrycc/awesome-javascript
+                https://github.com/sudheerj/javascript-interview-questions (List of 1000 JavaScript Interview Questions)
                 https://github.com/topics/javascript?o=desc&s=stars
                 https://hackr.io/tutorials/learn-javascript
                 https://news.ycombinator.com/item?id=22990926 (Eloquent JavaScript 3rd Edition (2018) (eloquentjavascript.net))
