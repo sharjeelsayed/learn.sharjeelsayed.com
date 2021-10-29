@@ -1049,6 +1049,7 @@ Contents:
                 https://aws.amazon.com/getting-started/hands-on
                 https://awsstash.com
                 https://awsvideocatalog.com (AWS Video Catalog is a website that collects all the official Amazon videos)
+                https://comparecloud.in (Public Cloud Services Comparison)
                 https://d1.awsstatic.com/whitepapers/building_an_aws_perimeter.pdf (Building an AWS Perimeter)
                 https://discord.gg/RePKRaYGqM (AWS Discord Group)
                 https://expeditedsecurity.com/aws-in-plain-english
@@ -1605,7 +1606,8 @@ Contents:
                 https://cheatsheetseries.owasp.org (The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.)
                 https://cipher387.github.io/osint_stuff_tool_collection (OSINT Tool Collection)
                 https://cloud.redhat.com/blog/top-open-source-kubernetes-security-tools-of-2021 (Top Open Source Kubernetes Security Tools of 2021)
-                https://crowdsec.net
+                https://cloudseclist.com (A low volume newsletter (delivered once per week) that highlights security-related news focused on the cloud native landscape, hand curated by Marco Lancini.)
+                https://crowdsec.net (CrowdSec is an open-source and collaborative IPS for Linux)
                 https://danielmiessler.com/blog/build-successful-infosec-career
                 https://dev-sec.io (devops + security Server Hardening Automation Using Ansible)
                 https://en.wikipedia.org/wiki/List_of_computer_security_certifications#Most_Popular_Vendor_Neutral_Cyber_Security_Certifications_Among_employers
@@ -1714,6 +1716,7 @@ Contents:
                 https://github.com/jaywcjlove/awesome-mac
                 https://github.com/mathiasbynens/dotfiles (🔧 .files, including ~/.macos — sensible hacker defaults for macOS)
                 https://github.com/nikitavoloboev/my-mac-os
+                https://github.com/samschott/maestral (Open-source Dropbox client for macOS and Linux)
                 https://github.com/sb2nov/mac-setup (Installing Development environment on macOS)
                 https://github.com/serhii-londar/open-source-mac-os-apps
                 https://github.com/topics/macos?o=desc&s=stars
@@ -3336,7 +3339,7 @@ Contents:
                 https://www.ben-evans.com/newsletter (68,200)
                 https://danielmiessler.com/newsletter (87,140)
                 https://www.schneier.com/crypto-gram (124,344)
-                https://www.lastweekinaws.com (425,861)
+                https://www.lastweekinaws.com (240,093)
                 https://hackernewsletter.com (888,419)
                 https://devopsish.com (2,523,997)
                 https://softwareleadweekly.com (2,607,781)
@@ -3347,8 +3350,7 @@ Contents:
                 https://kubeweekly.io (6,389,097)
                 https://thisweekindevops.com (5,288,621)
                 https://ipj.dreamhosters.com (The Internet Protocol Journal) (9,323,436)
-                https://meanwhileinsecurity.com (n/a)
-
+                https://cloudseclist.com (n/a) (A low volume newsletter (delivered once per week) that highlights security-related news focused on the cloud native landscape, hand curated by Marco Lancini.)
 
         Podcasts:
             Sources:
