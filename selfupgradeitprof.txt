@@ -1086,6 +1086,7 @@ Contents:
                 https://www.reddit.com/r/aws/comments/on154c/lessons_learned_if_you_could_do_it_all_from_the (Lessons learned: if you could do it "all" from the start again, what would you do differently / anew in your AWS? (self.aws))
                 https://www.reddit.com/r/sysadmin/comments/8inzn5/so_you_want_to_learn_aws_aka_how_do_i_learn_to_be
                 https://www.stackery.io/registry (Enter an AWS CloudFormation template for instant analysis)
+                https://www.wellarchitectedlabs.com (This repository contains documentation and code in the format of hands-on labs to help you learn, measure, and build using architectural best practices)
                 https://youtu.be/B08iQQhXG1Y (The Most Important AWS Services (with an easy to follow example!))
                 https://pinboard.in/u:SharjeelSayed/t:aws
 
@@ -1124,15 +1125,16 @@ Contents:
                 AWS Certifications:
                 https://aws.amazon.com/certification
                 https://aws.amazon.com/training/learning-paths
-                https://digitalcloud.training/certification-training/aws-solutions-architect-associate
+                https://digitalcloud.training/certification-training (AWS Certification Training Notes [Cheat Sheets] by Neal Davis)
                 https://github.com/keenanromain/AWS-SAA-C02-Study-Guide
                 https://help.acloud.guru/hc/en-us/articles/360001389256-AWS-Cloud-Sandbox
                 https://learn.cantrill.io/p/aws-certification-recommendations
-                https://tutorialsdojo.com/aws-cheat-sheets
+                https://tutorialsdojo.com/aws-cheat-sheets (AWS Cheat Sheets)
                 https://tutorialsdojo.com/aws-study-path-notes
                 https://www.examtopics.com/exams/amazon
                 https://www.quora.com/What-is-the-best-formation-for-AWS-certification
                 https://www.qwiklabs.com/quests/10 (Solutions Architect - Associate)
+                https://www.reddit.com/r/AWSCertifications/comments/pcj2nk/free_learning_resources_needed_for_aws_solutions/haje9xi
                 https://www.reddit.com/r/AWSCertifications/search/?q=course&restrict_sr=on&t=year
                 https://www.udemy.com/topic/aws-certification/?ratings=4.5&sort=popularity
 
@@ -2152,6 +2154,7 @@ Contents:
                     https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
                     https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
                     https://marketplace.visualstudio.com/items?itemName=GitHub.copilot
+                    https://marketplace.visualstudio.com/items?itemName=GitHub.copilot
                     https://marketplace.visualstudio.com/items?itemName=hangxingliu.vscode-nginx-conf-hint
                     https://marketplace.visualstudio.com/items?itemName=HashiCorp.terraform
                     https://marketplace.visualstudio.com/items?itemName=jack89ita.copy-filename
@@ -2177,6 +2180,7 @@ Contents:
                     https://plugins.jetbrains.com/plugin/12275-dracula-theme
                     https://plugins.jetbrains.com/plugin/13308-indent-rainbow
                     https://plugins.jetbrains.com/plugin/14893-ansible
+                    https://plugins.jetbrains.com/plugin/17718-github-copilot
                     https://plugins.jetbrains.com/plugin/201-browsewordatcaret
                     https://plugins.jetbrains.com/plugin/7495--ignore
                     https://plugins.jetbrains.com/plugin/7499-gittoolbox
@@ -2689,6 +2693,7 @@ Contents:
         Web Browser:
             Sources:
                 http://ebin.city/~werwolf/posts/firefox-hardening-guide
+                https://browser.engineering (This book explains, building a basic but complete web browser, from networking to JavaScript, in a thousand lines of Python.)
                 https://news.ycombinator.com/item?id=15696056 (What are your favorite browser extensions/add-ons for Firefox or chrome?)
                 https://news.ycombinator.com/item?id=22105561 (Ask HN: How do you manage your bookmarks?)
                 https://news.ycombinator.com/item?id=22778123 (Ask HN: What do you use to keep track of bookmarks/notes/snippets?)
