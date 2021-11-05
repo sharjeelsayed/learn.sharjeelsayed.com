@@ -1529,6 +1529,7 @@ Contents:
                 https://github.com/LeCoupa/awesome-cheatsheets/blob/master/tools/vim.txt
                 https://github.com/mhinz/vim-galore (All things Vim!)
                 https://github.com/neovim/neovim
+                https://github.com/rockerBOO/awesome-neovim ( Collections of awesome neovim plugins.)
                 https://github.com/topics/vim?o=desc&s=stars
                 https://github.com/topics/vimrc?o=desc&s=stars
                 https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=vim%20&sort=byPopularity&type=all
@@ -1540,9 +1541,9 @@ Contents:
                 https://stackoverflow.com/questions/726894/what-are-the-dark-corners-of-vim-your-mom-never-told-you-abouts
                 https://stackoverflow.com/questions/tagged/vim
                 https://vim.fandom.com
+                https://www.shortcutfoo.com/app/dojos/vim (Choose shortcuts to practice)
                 https://www.youtube.com/playlist?list=PLu-ydI-PCl0OEG0ZEqLRRuCrMJGAAI0tW (Vim as IDE)
                 https://youtu.be/XA2WjJbmmoM (How to Do 90% of What Plugins Do (With Just Vim))
-                https://www.shortcutfoo.com/app/dojos/vim (Choose shortcuts to practice)
                 https://pinboard.in/u:SharjeelSayed/t:vim
 
             Books and Courses:
@@ -1652,9 +1653,9 @@ Contents:
                 https://room362.com/start (Start in Infosec)
                 https://s3ctur.wordpress.com/2017/06/19/breaking-into-infosec-a-beginners-curriculum
                 https://security.stackexchange.com/questions/46666/at-what-length-does-a-password-stop-making-sense
+                https://tcm-sec.com/so-you-want-to-be-a-hacker-2021-edition (So You Want to Be a Hacker: 2021 Edition)
                 https://toc.cryptobook.us (A Graduate Course in Applied Cryptography)
                 https://tools.tldr.run (Curated list of security tools for Hackers & Builders!)
-                https://twitter.com/thecybermentor/status/1343471818468978688 (So, you want to be a hacker: 2021 edition.)
                 https://www.cisecurity.org/cis-benchmarks
                 https://www.coursera.org/learn/crypto (Cryptography I Course by Dan Boneh (Stanford))
                 https://www.cybrary.it
@@ -1713,6 +1714,8 @@ Contents:
                 https://defkey.com/apple-macos-shortcuts
                 https://dev.to/wes/how2-using-gpg-on-macos-without-gpgtools-428f
                 https://dotfilehub.com
+                https://ghuntley.com/anywhere (Reflections on software development from anywhere on an iPad)
+                https://gist.github.com/nmcc/4e8ead6c380d8331fedd04e1aa41d351 (Install Consolas font on Mac)
                 https://github.com/agarrharr/awesome-macos-screensavers (A curated list of screensavers for Mac OS X)
                 https://github.com/donnemartin/dev-setup
                 https://github.com/drduh/macOS-Security-and-Privacy-Guide
@@ -1743,10 +1746,12 @@ Contents:
                 https://apps.apple.Com/app/amphetamine/id937984704 (Amphetamine 4+ Powerful Keep-Awake Utility)
                 https://bbjective-See.Com/products/lulu.html (Free, Open-Source Macos Firewall)
                 https://brew.sh
+                https://dynamicwallpaper.club/gallery?section=best (Dynamic Wallpaper Club)
                 https://flexibits.Com/fantastical
                 https://getfenet.re (Picture In Picture For Your Mac)
                 https://github.com/alichtman/shallow-backup
                 https://github.com/caldis/mos (A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS )
+                https://github.com/dwarvesf/hidden (An ultra-light MacOS utility that helps hide menu bar icons)
                 https://github.com/exelban/stats ( Macos System Monitor In Your Menu Bar)
                 https://github.com/mangerlahn/latest (A Small Utility App For Macos That Makes Sure You Know About All The Latest Updates To The Apps You Use.)
                 https://github.com/mortennn/dozer (Hide Status Bar Icons On Macos)
@@ -1762,7 +1767,7 @@ Contents:
                 https://www.parallels.com/products/desktop
                 https://www.titanium-software.fr/en/onyx.html
                 https://www.usboverdrive.com (Take full advantage of any USB or Bluetooth mouse, keyboard, trackball, joystick or gamepad)
-                https://xnipapp.com
+                https://xnipapp.com (Handy Screenshot App for Mac)
 
             Alfred:
                 http://www.packal.org
@@ -2017,6 +2022,7 @@ Contents:
                 https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer
                 https://github.com/codeSTACKr/free-developer-resources
                 https://github.com/dypsilon/frontend-dev-bookmarks
+                https://github.com/h5bp/Front-end-Developer-Interview-Questions
                 https://github.com/h5bp/Front-end-Developer-Interview-Questions
                 https://github.com/lauragift21/awesome-learning-resources
                 https://github.com/markodenic/web-development-resources
@@ -2352,6 +2358,7 @@ Contents:
                 https://www.indeed.com/career-advice/finding-a-job/rising-tech-jobs-and-skills
                 https://www.reddit.com/r/india/comments/81r29c/your_onestop_guide_to_emigrating_long_term_to
                 https://www.reddit.com/r/india/comments/gja5eo/advice_for_indians_looking_to_study_abroad_and
+                https://www.reddit.com/r/recruitinghell/top (This subreddit is for all of those recruiters and candidates who really don't get it. Post your horror stories and show us those amazing job offers!)
                 https://pinboard.in/u:SharjeelSayed/t:jobs
 
         Job Sites: (Sorted by Alexa Rank)
