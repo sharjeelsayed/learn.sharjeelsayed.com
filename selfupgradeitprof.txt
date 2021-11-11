@@ -791,6 +791,7 @@ Contents:
                 https://docs.docker.com
                 https://github.com/docker/docker-bench-security
                 https://github.com/docker/docker-install (Docker installation script)
+                https://github.com/dockersamples/example-voting-app (Example Docker Compose app)
                 https://github.com/dokku/dokku
                 https://github.com/hadolint/hadolint
                 https://github.com/hexops/dockerfile
@@ -2169,7 +2170,6 @@ Contents:
                     https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula
                     https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
                     https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
-                    https://marketplace.visualstudio.com/items?itemName=GitHub.copilot
                     https://marketplace.visualstudio.com/items?itemName=GitHub.copilot
                     https://marketplace.visualstudio.com/items?itemName=hangxingliu.vscode-nginx-conf-hint
                     https://marketplace.visualstudio.com/items?itemName=HashiCorp.terraform
