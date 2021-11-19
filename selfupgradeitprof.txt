@@ -695,6 +695,7 @@ Contents:
                 http://bashrcgenerator.com (Bash PS1 Generator)
                 http://redsymbol.net/articles/unofficial-bash-strict-mode
                 https://explainshell.com (write down a command-line to see the help text that matches each argument)
+                https://github.com/adrianscheff/useful-sed (Useful sed scripts & patterns)
                 https://github.com/alebcay/awesome-shell
                 https://github.com/alexanderepstein/Bash-Snippets (A collection of small bash scripts for heavy terminal users)
                 https://github.com/dylanaraps/pure-bash-bible
@@ -1408,6 +1409,19 @@ Contents:
                 The Complete SQL Bootcamp 2020: Go from Zero to Hero by Jose Portilla
                 https://www.udemy.com/course/the-complete-sql-bootcamp
                 https://github.com/jmportilla/Udemy-notes (Coupon)
+
+            PostgreSQL Clients: (Sorted by Alexa Rank)
+                https://www.jetbrains.com/datagrip (1,677)
+                https://tableplus.com (41,038)
+                https://www.navicat.com (52,231)
+                https://www.pgadmin.org (54,523)
+                https://dbeaver.io (57,261)
+                https://www.heidisql.com (59,588)
+                https://www.dbvis.com (288,493)
+                https://eggerapps.at/postico (433,213)
+                https://www.pgcli.com (4,635,481)
+                https://www.valentina-db.com/en/valentina-studio-overview (626,733)
+                https://www.malcolmhardie.com/sqleditor (5,931,983)
 
         Redis:
             Books and Courses:
@@ -3162,13 +3176,14 @@ Contents:
                 https://news.ycombinator.com/item?id=26192817 (	Ask HN: What websites do you visit every day?)
                 https://news.ycombinator.com/item?id=27302195 (Ask HN: Favorite Blogs by Individuals?)
                 https://news.ycombinator.com/item?id=28632002 (Ask HN: What are some other general link aggregators aside from HN?)
+                https://news.ycombinator.com/item?id=29237308 (Ask HN: What are some great engineering blogs?)
                 https://news.ycombinator.com/item?id=9836023 (Ask HN: What tech blogs, podcasts do you follow outside of HN?)
                 https://news.ycombinator.com/user?id=SharjeelSayed
                 https://twitter.com/SharjeelSayed
                 https://wiki.nikitavoloboev.xyz/research/blogs#favorite-blogs
                 https://www.reddit.com/r/AskReddit/comments/9nggyv/what_is_a_great_youtube_channel_to_binge_watch
                 https://www.reddit.com/r/AskReddit/comments/aa7zs9/what_youtube_channels_are_genuinely_worth_watching
-                https://www.to-rss.xyz/wikipedia
+                https://www.to-rss.xyz/
                 https://www.reddit.com/user/SharjeelSayed
 
             Sites and Apps:
