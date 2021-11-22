@@ -617,10 +617,12 @@ Contents:
                 https://biriukov.dev/docs/page-cache/0-linux-page-cache-for-sre ( SRE deep dive into Linux Page Cache)
                 https://dashdash.io (Linux Man Pages)
                 https://github.com/0xAX/linux-insides
+                https://github.com/canonical/multipass (Multipass orchestrates virtual Ubuntu instances)
                 https://github.com/ibraheemdev/modern-unix (A collection of modern/faster/saner alternatives or complements to common unix commands.)
                 https://github.com/imthenachoman/How-To-Secure-A-Linux-Server
                 https://github.com/inputsh/awesome-linux
                 https://github.com/luong-komorebi/Awesome-Linux-Software
+                https://github.com/r-darwish/topgrade (Upgrade everything)
                 https://github.com/sysprog21/lkmpg (The Linux Kernel Module Programming Guide (updated for 5.x kernels))
                 https://github.com/topics/lamp?o=desc&s=stars
                 https://github.com/topics/linux?o=desc&s=stars
@@ -1063,6 +1065,7 @@ Contents:
                 https://github.com/dannysteenman/aws-toolbox
                 https://github.com/donnemartin/awesome-aws
                 https://github.com/dpritchett/aws-budget-limiter (Simple Terraform script for capping monthly AWS spend)
+                https://github.com/dutchcoders/cloudman (Textual user interface to manage ec2 instances.)
                 https://github.com/elpy1/ssh-over-ssm (SSH over AWS SSM. No bastions or public-facing instances. SSH user management through IAM. No requirement to store SSH keys locally or on server.)
                 https://github.com/jckuester/awsls (A list command for AWS resources)
                 https://github.com/localstack/localstack (A fully functional local AWS cloud stack)
@@ -1390,7 +1393,7 @@ Contents:
         PostgreSQL:
             Sources:
                 https://github.com/dbeaver/dbeaver
-                https://github.com/dhamaniasad/awesome-postgres
+                https://github.com/dhamaniasad/awesome-postgres (A curated list of awesome PostgreSQL software, libraries, tools and resources, inspired by awesome-mysql)
                 https://github.com/okbob/pspg (Unix pager designed for work with tables. Designed for PostgreSQL, but MySQL is supported too. Now it can be used as CSV or TSV viewer. Works well with pgcli too.)
                 https://github.com/topics/postgresql?o=desc&s=stars
                 https://news.ycombinator.com/item?id=23208181 (Ask HN: What PostgreSQL client do you use?)
@@ -1399,7 +1402,6 @@ Contents:
                 https://roadmap.sh/postgresql-dba
                 https://theartofpostgresql.com (The book that teaches SQL to developers: Learn to replace thousands of lines of code with simple queries!)
                 https://tomcam.github.io/postgres (psql command line tutorial and cheat sheet)
-                https://www.pgcli.com
                 https://www.udemy.com/topic/postgresql/?ratings=4.5&sort=popularity
 
             Books and Courses:
@@ -1635,6 +1637,7 @@ Contents:
                 https://danielmiessler.com/blog/build-successful-infosec-career
                 https://dev-sec.io (devops + security Server Hardening Automation Using Ansible)
                 https://en.wikipedia.org/wiki/List_of_computer_security_certifications#Most_Popular_Vendor_Neutral_Cyber_Security_Certifications_Among_employers
+                https://github.com/0x90n/InfoSec-Black-Friday (All the deals for InfoSec related software/tools this Black Friday)
                 https://github.com/armosec/kubescape (kubescape is the first tool for testing if Kubernetes is deployed securely as defined in Kubernetes Hardening Guidance by to NSA and CISA)
                 https://github.com/Arudjreis/awesome-security-GRC (Curated list of resources for security Governance, Risk Management, Compliance and Audit professionals and enthusiasts (if they exist).)
                 https://github.com/chughes29/Cloud-DevSecOps-Learning/blob/main/Cloud%20%26%20DevSecOps%20Learning%20(1).md (Cloud-DevSecOps-Learning)
@@ -1673,6 +1676,7 @@ Contents:
                 https://tcm-sec.com/so-you-want-to-be-a-hacker-2021-edition (So You Want to Be a Hacker: 2021 Edition)
                 https://toc.cryptobook.us (A Graduate Course in Applied Cryptography)
                 https://tools.tldr.run (Curated list of security tools for Hackers & Builders!)
+                https://www.cisa.gov/sites/default/files/publications/Federal_Government_Cybersecurity_Incident_and_Vulnerability_Response_Playbooks_508C.pdf (CISA Cybersecurity Incident and Vulnerability Response Playbooks)
                 https://www.cisecurity.org/cis-benchmarks
                 https://www.coursera.org/learn/crypto (Cryptography I Course by Dan Boneh (Stanford))
                 https://www.cybrary.it
@@ -1742,6 +1746,7 @@ Contents:
                 https://github.com/jaywcjlove/awesome-mac
                 https://github.com/mathiasbynens/dotfiles (🔧 .files, including ~/.macos — sensible hacker defaults for macOS)
                 https://github.com/nikitavoloboev/my-mac-os
+                https://github.com/r-darwish/topgrade (Upgrade everything)
                 https://github.com/samschott/maestral (Open-source Dropbox client for macOS and Linux)
                 https://github.com/sb2nov/mac-setup (Installing Development environment on macOS)
                 https://github.com/serhii-londar/open-source-mac-os-apps
@@ -2171,10 +2176,12 @@ Contents:
             Visual Studio Code:
                 Sources:
                     https://news.ycombinator.com/item?id=27231033 (Disable autocorrect in vscode)
+                    https://news.ycombinator.com/item?id=29278370 (	Ask HN: What extensions/packs of VS Code are must for web/developers to install?)
                     https://www.reddit.com/r/vscode/comments/8zbcb3/window_tabs/e2toon2 (Enable windows tabs in vscode)
 
                 Extensions:
                     https://marketplace.visualstudio.com/items?itemName=4ops.terraform
+                    https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks
                     https://marketplace.visualstudio.com/items?itemName=aws-scripting-guy.cform
                     https://marketplace.visualstudio.com/items?itemName=ban.spellright
                     https://marketplace.visualstudio.com/items?itemName=bbenoist.vagrant
@@ -2189,6 +2196,7 @@ Contents:
                     https://marketplace.visualstudio.com/items?itemName=HashiCorp.terraform
                     https://marketplace.visualstudio.com/items?itemName=jack89ita.copy-filename
                     https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock
+                    https://marketplace.visualstudio.com/items?itemName=kddejong.vscode-cfn-lint
                     https://marketplace.visualstudio.com/items?itemName=marlon407.code-groovy
                     https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph
                     https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker
@@ -3422,6 +3430,7 @@ Contents:
 
         Email:
             Sources:
+                https://blog.boomerangapp.com/2017/01/how-to-end-an-email-email-sign-offs
                 https://news.ycombinator.com/item?id=25497113 (Ask HN: Best Paid Gmail Replacement?)
                 https://nomoregoogle.com
                 https://pinboard.in/u:sharjeelsayed/t:email
