@@ -560,6 +560,7 @@ Contents:
                 https://learn-anything.xyz/programming/software-development/devops
                 https://news.ycombinator.com/item?id=14652993 (Ask HN: DevOps learning resources)
                 https://news.ycombinator.com/item?id=16357368 (Ask HN: Which books describe modern devops?)
+                https://news.ycombinator.com/item?id=29251343 (Ask HN: What is the fastest way to ramp up on DevOps, k8 and GCP?)
                 https://octopus.com/blog/devops-reading-list
                 https://roadmap.sh/devops
                 https://slack.cloudposse.com (SweetOps Slack Group)
@@ -908,6 +909,7 @@ Contents:
                 https://napo.io/posts/kubernetes-the-real-hard-way-on-aws
                 https://news.ycombinator.com/item?id=22597880 (Kind - run local Kubernetes clusters using Docker (k8s.io))
                 https://news.ycombinator.com/item?id=22689119 (Anyone have a recommended guide for Kubernetes?)
+                https://news.ycombinator.com/item?id=29251343 (Ask HN: What is the fastest way to ramp up on DevOps, k8 and GCP?)
                 https://rancher.com
                 https://redhatspain.com/kubernetes (A curated list of awesome references collected since 2018.)
                 https://registry.terraform.io/modules/terraform-aws-modules/eks/aws
@@ -1392,7 +1394,6 @@ Contents:
 
         PostgreSQL:
             Sources:
-                https://github.com/dbeaver/dbeaver
                 https://github.com/dhamaniasad/awesome-postgres (A curated list of awesome PostgreSQL software, libraries, tools and resources, inspired by awesome-mysql)
                 https://github.com/okbob/pspg (Unix pager designed for work with tables. Designed for PostgreSQL, but MySQL is supported too. Now it can be used as CSV or TSV viewer. Works well with pgcli too.)
                 https://github.com/topics/postgresql?o=desc&s=stars
@@ -1787,13 +1788,13 @@ Contents:
                 https://iterm2.com/documentation-shell-integration.html (iTerm2 Shell Integration)
                 https://monodraw.helftone.com (Powerful ASCII art editor designed for the Mac)
                 https://osxfuse.github.io (macFUSE allows you to extend macOS's native file handling capabilities via third-party file systems.)
-                https://www.bresink.com/osx/TinkerTool.html
+                https://www.bresink.com/osx/TinkerTool.html (TinkerTool is an application that gives you access to additional preference settings Apple has built into macOS.)
                 https://www.hammerspoon.Org/go/#pasteblock (Defeating paste blocking)
+                https://www.macbartender.com (Take control of your menu bar)
                 https://www.macbartender.com/Bartender4 (Take control of your menu bar)
                 https://www.parallels.com/products/desktop
-                https://www.titanium-software.fr/en/onyx.html
+                https://www.titanium-software.fr/en/onyx.html (OnyX is a multifunction utility that you can use to verify the structure of the system files, to run miscellaneous maintenance and cleaning tasks, to configure parameters in the Finder, Dock, Safari, and some Apple applications, to delete caches, to remove certain problematic folders and files, to rebuild various databases and indexes, and more.)
                 https://www.usboverdrive.com (Take full advantage of any USB or Bluetooth mouse, keyboard, trackball, joystick or gamepad)
-                https://xnipapp.com (Handy Screenshot App for Mac)
 
             Alfred:
                 http://www.packal.org
@@ -2733,10 +2734,10 @@ Contents:
             Sources:
                 http://ebin.city/~werwolf/posts/firefox-hardening-guide
                 https://browser.engineering (This book explains, building a basic but complete web browser, from networking to JavaScript, in a thousand lines of Python.)
-                https://news.ycombinator.com/item?id=15696056 (What are your favorite browser extensions/add-ons for Firefox or chrome?)
                 https://news.ycombinator.com/item?id=22105561 (Ask HN: How do you manage your bookmarks?)
                 https://news.ycombinator.com/item?id=22778123 (Ask HN: What do you use to keep track of bookmarks/notes/snippets?)
                 https://news.ycombinator.com/item?id=23445382 (Show HN: Some Bookmarklets, I Use (ph-uhl.com))
+                https://news.ycombinator.com/item?id=29314560 (Ask HN: What browser extensions are a must-have in 2021?)
 
             Extensions:
                 https://addons.mozilla.org/en-GB/firefox/addon/foxytab
