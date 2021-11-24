@@ -1747,11 +1747,8 @@ Contents:
                 https://github.com/jaywcjlove/awesome-mac
                 https://github.com/mathiasbynens/dotfiles (🔧 .files, including ~/.macos — sensible hacker defaults for macOS)
                 https://github.com/nikitavoloboev/my-mac-os
-                https://github.com/r-darwish/topgrade (Upgrade everything)
-                https://github.com/samschott/maestral (Open-source Dropbox client for macOS and Linux)
                 https://github.com/sb2nov/mac-setup (Installing Development environment on macOS)
                 https://github.com/serhii-londar/open-source-mac-os-apps
-                https://github.com/sshuttle/sshuttle (Transparent proxy server that works as a poor man's VPN. Forwards over ssh. Doesn't require admin. Works with Linux and MacOS. Supports DNS tunneling.)
                 https://github.com/topics/macos?o=desc&s=stars
                 https://medium.com/@cav/foss-password-management-with-passwordstore-9d34fec2fe84
                 https://news.ycombinator.com/item?id=19515627 (Ask HN: What are your favorite utility desktop apps?)
@@ -1773,24 +1770,21 @@ Contents:
                 https://brew.sh
                 https://dynamicwallpaper.club/gallery?section=best (Dynamic Wallpaper Club)
                 https://flexibits.Com/fantastical
-                https://getfenet.re (Picture In Picture For Your Mac)
                 https://github.com/alichtman/shallow-backup
                 https://github.com/caldis/mos (A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS )
                 https://github.com/dwarvesf/hidden (An ultra-light MacOS utility that helps hide menu bar icons)
-                https://github.com/exelban/stats ( Macos System Monitor In Your Menu Bar)
-                https://github.com/mangerlahn/latest (A Small Utility App For Macos That Makes Sure You Know About All The Latest Updates To The Apps You Use.)
-                https://github.com/mortennn/dozer (Hide Status Bar Icons On Macos)
                 https://github.com/nextdns/nextdns/wiki/macos
+                https://github.com/r-darwish/topgrade (Upgrade everything)
                 https://github.com/rgcr/m-cli ( Swiss Army Knife For Macos)
-                https://github.com/rxhanson/Rectangle (Move and resize windows on macOS with keyboard shortcuts and snap areas)
+                https://github.com/samschott/maestral (Open-source Dropbox client for macOS and Linux)
                 https://github.com/sekey/sekey (Use Touch ID / Secure Enclave for SSH Authentication!)
+                https://github.com/sshuttle/sshuttle (Transparent proxy server that works as a poor man's VPN. Forwards over ssh. Doesn't require admin. Works with Linux and MacOS. Supports DNS tunneling.)
                 https://github.com/X74353/amphetamine-enhancer (Add new abilities to the macOS keep-awake utility, Amphetamine.)
                 https://iterm2.com/documentation-shell-integration.html (iTerm2 Shell Integration)
                 https://monodraw.helftone.com (Powerful ASCII art editor designed for the Mac)
                 https://osxfuse.github.io (macFUSE allows you to extend macOS's native file handling capabilities via third-party file systems.)
                 https://www.bresink.com/osx/TinkerTool.html (TinkerTool is an application that gives you access to additional preference settings Apple has built into macOS.)
                 https://www.hammerspoon.Org/go/#pasteblock (Defeating paste blocking)
-                https://www.macbartender.com (Take control of your menu bar)
                 https://www.macbartender.com/Bartender4 (Take control of your menu bar)
                 https://www.parallels.com/products/desktop
                 https://www.titanium-software.fr/en/onyx.html (OnyX is a multifunction utility that you can use to verify the structure of the system files, to run miscellaneous maintenance and cleaning tasks, to configure parameters in the Finder, Dock, Safari, and some Apple applications, to delete caches, to remove certain problematic folders and files, to rebuild various databases and indexes, and more.)
@@ -1828,13 +1822,6 @@ Contents:
                 https://github.com/GoldenChaos/GoldenChaos-BTT
                 https://www.reddit.com/r/apple/comments/3ek0o5/share_your_better_touch_tool_gestures
                 https://youtu.be/CCJVbooKspo (Better Touch Tool: In-Depth Tutorial)
-
-            Keyboard Maestro:
-                https://www.keyboardmaestro.com
-                https://wiki.nikitavoloboev.xyz/macos/macos-apps/keyboard-maestro
-                https://forum.keyboardmaestro.com
-                https://www.macstories.net/tag/keyboard-maestro
-                https://www.youtube.com/watch?v=C-M2ECt9gIc&list=PLa0EpEatE4TIUSob_dkMuDP7MpPceth30 (Keyboard Maestro Tutorials by Ez Buttons)
 
             launchd:
                 https://alvinalexander.com/mac-os-x/mac-osx-startup-crontab-launchd-jobs
@@ -3536,7 +3523,7 @@ Contents:
                 https://mega.nz/C!vuhRiKpB (Mega.nz Extra Storage)
                 https://news.ycombinator.com/item?id=17603348 (Ask HN: How do you backup your files without depending on a third party service?)
                 https://news.ycombinator.com/item?id=18692844 (Ask HN: Best Centralized Backup Solution)
-                https://news.ycombinator.com/item?id=21410833 (Restic – Backups Done Right (restic.net))
+                https://news.ycombinator.com/item?id=29209455 (Restic – Backups Done Right (restic.net))
                 https://nuetzlich.net/gocryptfs/comparison
                 https://restic.readthedocs.io/en/stable/100_references.html#design
                 https://ruderich.org/simon/notes/append-only-backups-with-restic-and-rclone
