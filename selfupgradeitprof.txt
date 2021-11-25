@@ -1059,6 +1059,7 @@ Contents:
                 https://d1.awsstatic.com/whitepapers/building_an_aws_perimeter.pdf (Building an AWS Perimeter)
                 https://discord.gg/RePKRaYGqM (AWS Discord Group)
                 https://expeditedsecurity.com/aws-in-plain-english
+                https://explore.skillbuilder.aws/learn
                 https://github.com/anaibol/awesome-serverless
                 https://github.com/aramalipoor/aws-cost-saver (A tiny CLI tool to help save costs in development environments when you're asleep and don't need them!)
                 https://github.com/awsdocs
@@ -1083,6 +1084,7 @@ Contents:
                 https://iam.cloudonaut.io (Creating IAM policies is hard. We collect information from the AWS Documentation to make writing IAM policies easier)
                 https://linuxacademy-community-slack.herokuapp.com
                 https://trustoncloud.com/the-last-s3-security-document-that-well-ever-need (The last S3 security document that we’ll ever need, and how to use it)
+                https://www.amazon.com/aws-courses/b/?node=14297978011
                 https://www.aws.training
                 https://www.awsgeek.com (Cloud Diagrams & Notes)
                 https://www.chrisfarris.com/post/aws-organizations-in-2021 (AWS Organizations - Checklist for 2021)
@@ -1105,6 +1107,7 @@ Contents:
                 https://github.com/alozano-77/AWS-SAA-C02-Course (Personal notes for SAA-C02 test from: https://learn.cantrill.io)
                 https://techstudyslack.com
                 https://talk.cantrill.io
+                https://cantrill.io.i-aws.cloud
 
                 Ultimate AWS Certified Solutions Architect Associate 2021 by Stephane Maarek
                 https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c02
@@ -1152,7 +1155,12 @@ Contents:
 
             Free AWS Labs:
                 https://run.qwiklabs.com/catalog?keywords=introduction&locale=&cloud%5B%5D=AWS&format%5B%5D=any&level%5B%5D=any&duration%5B%5D=any&price%5B%5D=free&modality%5B%5D=any&language%5B%5D=any
-                https://aws.amazon.com/training/self-paced-labs/
+                https://aws.amazon.com/training/self-paced-labs
+                https://awesome-aws-workshops.com
+                https://awssecworkshops.com
+                https://awsworkshop.io
+                https://workshops.aws
+                https://www.wellarchitectedlabs.com
 
         Azure:
             Sources:
@@ -2173,6 +2181,7 @@ Contents:
                     https://marketplace.visualstudio.com/items?itemName=aws-scripting-guy.cform
                     https://marketplace.visualstudio.com/items?itemName=ban.spellright
                     https://marketplace.visualstudio.com/items?itemName=bbenoist.vagrant
+                    https://marketplace.visualstudio.com/items?itemName=Boto3typed.boto3-ide
                     https://marketplace.visualstudio.com/items?itemName=codezombiech.gitignore
                     https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2
                     https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory
@@ -3102,23 +3111,23 @@ Contents:
                 https://en.wikipedia.org/wiki/Cosmos:_A_Spacetime_Odyssey
 
             Science Magazines:
-                https://www.nationalgeographic.com (2,144)
-                https://www.scientificamerican.com (4,564)
-                https://www.popularmechanics.com (6,207)
-                https://www.smithsonianmag.com (6,780)
-                https://phys.org (7,777)
-                https://www.technologyreview.com (9,232)
-                https://www.newscientist.com (12,635)
-                https://www.popsci.com (12,738)
-                https://www.discovermagazine.com (15,775)
-                https://www.quantamagazine.org (30,809)
-                https://www.sciencenews.org (31,109)
-                https://www.annualreviews.org (34,028)
-                https://www.sciencefocus.com (38,774)
-                http://nautil.us (63,753)
-                https://physicsworld.com (88,698)
-                https://facts.net (113,410)
-                https://www.americanscientist.org (204,146)
+                https://www.nationalgeographic.com (4,426)
+                https://www.scientificamerican.com (6,101)
+                https://www.popularmechanics.com (8,179)
+                https://www.smithsonianmag.com (8,337)
+                https://www.technologyreview.com (10,796)
+                https://phys.org (11,820)
+                https://www.popsci.com (13,367)
+                https://www.newscientist.com (15,396)
+                https://www.discovermagazine.com (19,361)
+                https://www.sciencefocus.com (34,323)
+                https://www.annualreviews.org (35,964)
+                https://www.quantamagazine.org (38,811)
+                https://www.sciencenews.org (42,832)
+                http://nautil.us (78,693)
+                https://physicsworld.com (104,938)
+                https://facts.net (125,154)
+                https://www.americanscientist.org (200,804)
 
         Design:
             Sources:
@@ -3187,38 +3196,40 @@ Contents:
                     Import http://Opml.SharjeelSayed.com , into https://www.inoreader.com or https://reederapp.com
 
                 News Sites: (Sorted by Alexa Rank)
-                    https://cnn.com (68)
-                    https://www.nytimes.com (78)
-                    https://www.bbc.com (87)
-                    https://theguardian.com (133)
-                    https://indiatimes.com (134)
-                    https://www.washingtonpost.com (176)
-                    https://cnbc.com (270)
-                    https://forbes.com (281)
-                    https://www.moneycontrol.com (318)
-                    https://bloomberg.com 396)
-                    https://www.wsj.com (428)
-                    https://reuters.com (430)
-                    https://ndtv.com (453)
-                    https://abcnews.go.com (521)
-                    https://indianexpress.com (643)
-                    https://www.huffpost.com (795)
-                    https://hindustantimes.com (829)
-                    https://www.news18.com (889)
-                    https://apnews.com (912)
-                    https://www.thehindu.com (1,105)
-                    https://www.aljazeera.com (1,319)
-                    https://www.telegraph.co.uk (1,328)
-                    https://scroll.in (1,648)
-                    https://www.vox.com (1,881)
-                    https://www.livemint.com (2,043)
-                    https://news.abplive.com (2,235)
-                    https://www.economist.com (2,387)
-                    https://www.financialexpress.com (2,585)
-                    https://www.scmp.com (2,768)
-                    https://www.firstpost.com (3,388)
-                    https://gulfnews.com (3,506)
-                    https://www.khaleejtimes.com (4,984)
+                    https://cnn.com (108)
+                    https://www.nytimes.com (111)
+                    https://www.bbc.com (115)
+                    https://indiatimes.com (143)
+                    https://theguardian.com (176)
+                    https://www.washingtonpost.com (210)
+                    https://forbes.com (228)
+                    https://cnbc.com (245)
+                    https://ndtv.com (328)
+                    https://www.moneycontrol.com (330)
+                    https://bloomberg.com (354)
+                    https://www.wsj.com (368)
+                    https://reuters.com (372)
+                    https://abcnews.go.com (483)
+                    https://www.news18.com (549)
+                    https://hindustantimes.com (642)
+                    https://indianexpress.com (665)
+                    https://www.livemint.com (866)
+                    https://apnews.com (1,203)
+                    https://www.thehindu.com (1,293)
+                    https://www.huffpost.com (1,414)
+                    https://www.telegraph.co.uk (1,791)
+                    https://www.theatlantic.com (1,935)
+                    https://www.aljazeera.com (2,054)
+                    https://news.abplive.com (2,130)
+                    https://www.economist.com (2,439)
+                    https://www.financialexpress.com (2,532)
+                    https://www.scmp.com (2,884)
+                    https://scroll.in (3,362)
+                    https://www.vox.com (3,019)
+                    https://www.khaleejtimes.com (3,566)
+                    https://www.firstpost.com (4,079)
+                    https://gulfnews.com (5,265)
+                    https://thewire.in (14,985)
 
                 Tech News: (Sorted by Alexa Rank)
                     https://www.cnet.com (169)
