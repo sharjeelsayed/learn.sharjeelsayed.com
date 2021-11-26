@@ -1761,17 +1761,17 @@ Contents:
                 https://dotfilehub.com
                 https://ghuntley.com/anywhere (Reflections on software development from anywhere on an iPad)
                 https://gist.github.com/nmcc/4e8ead6c380d8331fedd04e1aa41d351 (Install Consolas font on Mac)
+                https://git.herrbischoff.com/awesome-macos-command-line/about (A curated list of shell commands and tools specific to macOS)
                 https://github.com/agarrharr/awesome-macos-screensavers (A curated list of screensavers for Mac OS X)
-                https://github.com/donnemartin/dev-setup
+                https://github.com/donnemartin/dev-setup (macOS development environment setup: Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduce, AWS, Heroku, JavaScript web development, Android development, common data stores, and dev-based OS X defaults.)
                 https://github.com/drduh/macOS-Security-and-Privacy-Guide (Guide to securing and improving privacy on macOS)
-                https://github.com/geerlingguy/mac-dev-playbook
-                https://github.com/herrbischoff/awesome-macos-command-line
-                https://github.com/iCHAIT/awesome-macOS
-                https://github.com/jaywcjlove/awesome-mac
+                https://github.com/geerlingguy/mac-dev-playbook (Mac setup and configuration via Ansible.)
+                https://github.com/iCHAIT/awesome-macOS ( A curated list of awesome applications, softwares, tools and shiny things for macOS.)
+                https://github.com/jaywcjlove/awesome-mac (awesome macOS software in various categories)
                 https://github.com/mathiasbynens/dotfiles (🔧 .files, including ~/.macos — sensible hacker defaults for macOS)
                 https://github.com/nikitavoloboev/my-mac-os (List of applications and tools that make my macOS experience even more amazing)
                 https://github.com/sb2nov/mac-setup (Installing Development environment on macOS)
-                https://github.com/serhii-londar/open-source-mac-os-apps
+                https://github.com/serhii-londar/open-source-mac-os-apps (🚀 Awesome list of open source applications for macOS.)
                 https://github.com/topics/macos?o=desc&s=stars
                 https://medium.com/@cav/foss-password-management-with-passwordstore-9d34fec2fe84
                 https://news.ycombinator.com/item?id=19515627 (Ask HN: What are your favorite utility desktop apps?)
