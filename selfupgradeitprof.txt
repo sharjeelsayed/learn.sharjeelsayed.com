@@ -1763,13 +1763,13 @@ Contents:
                 https://gist.github.com/nmcc/4e8ead6c380d8331fedd04e1aa41d351 (Install Consolas font on Mac)
                 https://github.com/agarrharr/awesome-macos-screensavers (A curated list of screensavers for Mac OS X)
                 https://github.com/donnemartin/dev-setup
-                https://github.com/drduh/macOS-Security-and-Privacy-Guide
+                https://github.com/drduh/macOS-Security-and-Privacy-Guide (Guide to securing and improving privacy on macOS)
                 https://github.com/geerlingguy/mac-dev-playbook
                 https://github.com/herrbischoff/awesome-macos-command-line
                 https://github.com/iCHAIT/awesome-macOS
                 https://github.com/jaywcjlove/awesome-mac
                 https://github.com/mathiasbynens/dotfiles (🔧 .files, including ~/.macos — sensible hacker defaults for macOS)
-                https://github.com/nikitavoloboev/my-mac-os
+                https://github.com/nikitavoloboev/my-mac-os (List of applications and tools that make my macOS experience even more amazing)
                 https://github.com/sb2nov/mac-setup (Installing Development environment on macOS)
                 https://github.com/serhii-londar/open-source-mac-os-apps
                 https://github.com/topics/macos?o=desc&s=stars
@@ -2568,6 +2568,7 @@ Contents:
                 https://News.Ycombinator.Com/Item?Id=26847816 (Ask Hn: What Was The Biggest Leadership Challenge Of Your Career?)
                 https://News.Ycombinator.Com/Item?Id=27333260 (Drunk Post: Things I'Ve Learned As A Sr Engineer (Reddit.Com))
                 https://news.ycombinator.com/item?id=27408120 (Ask HN: Books for Effective Communication)
+                https://news.ycombinator.com/item?id=29336234 (Ask HN: I’d like to hire a personal/executive assistant – any tips or advice?)
                 https://www.Amazon.Com/Gp/Bestsellers/Books/2569 (Amazon Best Sellers In Time Management)
                 https://www.Indiehackers.Com
                 https://www.Reddit.Com/R/Cscareerquestions/Comments/6fnujy/Soft_skills_for_programmers
@@ -3241,6 +3242,7 @@ Contents:
                     https://www.scmp.com (2,884)
                     https://scroll.in (3,362)
                     https://www.vox.com (3,019)
+                    https://www.newyorker.com (3,419)
                     https://www.khaleejtimes.com (3,566)
                     https://www.firstpost.com (4,079)
                     https://gulfnews.com (5,265)
