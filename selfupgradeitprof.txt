@@ -557,6 +557,7 @@ Based on the awesome Teach Yourself Computer Science curriculum!)
                 https://github.com/AcalephStorage/awesome-devops
                 https://github.com/bregman-arie/devops-resources
                 https://github.com/Leo-G/DevopsWiki
+                https://github.com/microsoft/code-with-engineering-playbook (This is the playbook for "code-with" customer or partner engagements)
                 https://github.com/nmarus/docker-devops-box
                 https://github.com/Tikam02/DevOps-Guide
                 https://github.com/topics/devops?o=desc&s=stars
@@ -1669,6 +1670,7 @@ Based on the awesome Teach Yourself Computer Science curriculum!)
                 https://github.com/chughes29/Cloud-DevSecOps-Learning/blob/main/Cloud%20%26%20DevSecOps%20Learning%20(1).md (Cloud-DevSecOps-Learning)
                 https://github.com/dafthack/CloudPentestCheatsheets
                 https://github.com/danielmiessler/SecLists
+                https://github.com/devsecops/awesome-devsecops (An authoritative list of awesome devsecops tools with the help from community experiments and contributions.)
                 https://github.com/fabionoth/awesome-cyber-security
                 https://github.com/forter/security-101-for-saas-startups
                 https://github.com/Gr1mmie/Practical-Ethical-Hacking-Resources
@@ -1680,6 +1682,8 @@ Based on the awesome Teach Yourself Computer Science curriculum!)
                 https://github.com/qazbnm456/awesome-web-security
                 https://github.com/robertdavidgraham/masscan (TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.)
                 https://github.com/sbilly/awesome-security
+                https://github.com/security-prince/Application-Security-Engineer-Interview-Questions (Some of the questions which i was asked when i was giving interviews for Application/Product Security roles.)
+                https://github.com/topics/devsecops?o=desc&s=stars
                 https://github.com/topics/oscp?o=desc&s=stars
                 https://github.com/topics/security?o=desc&s=stars
                 https://github.com/topics/websecurity?o=desc&s=stars
@@ -2250,6 +2254,7 @@ Based on the awesome Teach Yourself Computer Science curriculum!)
                 https://github.com/mxssl/sre-interview-prep-guide
                 https://github.com/Olshansk/interview
                 https://github.com/seanprashad/leetcode-patterns (A curated list of leetcode questions grouped by their common patterns)
+                https://github.com/security-prince/Application-Security-Engineer-Interview-Questions (Some of the questions which i was asked when i was giving interviews for Application/Product Security roles.)
                 https://github.com/topics/interview-questions?o=desc&s=stars
                 https://github.com/topics/interview?o=desc&s=stars
                 https://github.com/topics/leetcode?o=desc&s=stars
@@ -3717,6 +3722,7 @@ Based on the awesome Teach Yourself Computer Science curriculum!)
         https://en.wikipedia.org/wiki/Wikipedia:Vital_articles
         https://freenode.net
         https://github.com/antontarasenko/smq/blob/master/reports/hackernews-links-in-comments.md (Most mentioned links in Hacker News comments, 2006–2015)
+        https://github.com/gothinkster/realworld ("The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more)
         https://github.com/jbranchaud/til
         https://github.com/jnv/lists (The definitive list of lists (of lists) curated on GitHub and elsewhere )
         https://github.com/rsapkf/42
