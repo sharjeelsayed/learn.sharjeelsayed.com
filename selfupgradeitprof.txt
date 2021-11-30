@@ -911,9 +911,11 @@ Based on the awesome Teach Yourself Computer Science curriculum!)
                 https://kops.sigs.k8s.io
                 https://kubenews.net (Kubernetes and Cloud Native Computing Foundation News Sources)
                 https://kubernetes.io/docs/concepts
-                https://kubernetes.io/docs/reference/kubectl/cheatsheet
+                https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands (Kubernetes Commands)
+                https://kubernetes.io/docs/reference/kubectl/cheatsheet (kubectl Cheat Sheet)
                 https://kubernetes.io/docs/tasks
                 https://kubernetes.io/docs/tasks/manage-kubernetes-objects/imperative-command
+                https://kubernetes.io/docs/tutorials/kubernetes-basics (Learn Kubernetes Basics)
                 https://kubernetes.io/training
                 https://kubernetesbyexample.com (KBE lessons emphasize an ‘absorb by doing’ approach so you can practices skills as they are explored and explained to learn Kubernetes By Example)
                 https://kubernetesreadme.com (What books 📚 to read to learn more about Kubernetes)
@@ -938,7 +940,7 @@ Based on the awesome Teach Yourself Computer Science curriculum!)
                 https://www.atomiccommits.io/everything-useful-i-know-about-kubectl
                 https://www.datadoghq.com/container-report (Nov 2020 report on Kubernetes and Docker Usage)
                 https://www.flatcar-linux.org
-                https://www.katacoda.com/courses/kubernetes
+                https://www.katacoda.com/courses/kubernetes (Learn Kubernetes using Interactive Browser-Based Scenarios By Ben Hall, Jonathan Johnson, Richard Li, Peter Benjamin)
                 https://www.nsa.gov/News-Features/Feature-Stories/Article-View/Article/2716980/nsa-cisa-release-kubernetes-hardening-guidance (NSA, CISA release Kubernetes Hardening Guidance)
                 https://www.reddit.com/r/kubernetes/comments/mwpj1q/how_did_you_really_master_kubernetes
                 https://www.udemy.com/topic/kubernetes/?ratings=4.5&sort=popularity
@@ -997,6 +999,7 @@ Based on the awesome Teach Yourself Computer Science curriculum!)
                 https://ravikirans.com/cks-kubernetes-security-exam-study-guide
                 https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka
                 https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad
+                https://www.reddit.com/r/kubernetes/comments/r4q1ec/ckad_free_materials (CKAD - free materials)
                 https://www.cncf.io/certification/training
 
                 Support Groups
@@ -1862,12 +1865,6 @@ Based on the awesome Teach Yourself Computer Science curriculum!)
                 https://superuser.com/questions/36087/how-do-i-run-a-launchd-command-as-root
                 https://www.manpagez.com/man/5/launchd.plist
                 https://www.soma-zone.com/LaunchControl
-
-            Amethyst:
-                https://github.com/ianyh/Amethyst
-                https://kimsereylam.com/2020/02/14/manage-windows-on-macos-with-amethyst.html
-                https://medium.com/devnotes/manage-windows-on-macos-using-amethyst-3817b2804f29
-                https://youtu.be/GaIPWp071jM (Amethyst Tiling Window Manager | Demo, Review, & Key Bindings!)
 
         MOOC:
                 https://academictorrents.com
@@ -3767,6 +3764,7 @@ Based on the awesome Teach Yourself Computer Science curriculum!)
         http://amex.in/refer/sHARJsCJfI (American Express)
         http://share.payoneer.com/nav/gJpTWscAr6xJD14ZBR4gK1Mz9pGKs23iSC5MeSpZ_3L11XA8Vnny4cwQciAVBRLRG1bc5d2c5jNqUK1E7kq17A2 ($25 on Sign Up)
         https://db.tt/YL0e12GN (Dropbox 500 MB of bonus space)
+        https://go.setapp.com/invite/f1crlo8n (Setapp.com free for 1 month)
         https://m.do.co/c/d3160b5e33e8 (DigitalOcean Credits)
         https://mega.nz/C!vuhRiKpB (Mega.nz Extra Storage)
         https://nextdns.io/?from=s2bsnju6 (30% off)
