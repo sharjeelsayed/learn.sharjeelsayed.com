@@ -98,6 +98,7 @@ Contents:
     Miscellaneous:
         Touch Typing
         Microsoft Excel
+        Diagrams
         Electronics
         Science
         Design
@@ -817,6 +818,7 @@ Based on the awesome Teach Yourself Computer Science curriculum!)
                 https://github.com/dokku/dokku
                 https://github.com/hadolint/hadolint
                 https://github.com/hexops/dockerfile
+                https://github.com/jesseduffield/lazydocker (The lazier way to manage everything docker)
                 https://github.com/jessfraz/dockerfiles
                 https://github.com/magicmark/composerize (Turns docker run commands into docker-compose files!)
                 https://github.com/p8952/bocker (Docker implemented in around 100 lines of bash)
@@ -1104,6 +1106,7 @@ Based on the awesome Teach Yourself Computer Science curriculum!)
                 https://github.com/wallix/awless (A Mighty CLI for AWS)
                 https://iam.cloudonaut.io (Creating IAM policies is hard. We collect information from the AWS Documentation to make writing IAM policies easier)
                 https://linuxacademy-community-slack.herokuapp.com
+                https://slack.lastweekinaws.com (Last Week in AWS Slack Group)
                 https://trustoncloud.com/the-last-s3-security-document-that-well-ever-need (The last S3 security document that we’ll ever need, and how to use it)
                 https://www.amazon.com/aws-courses/b/?node=14297978011
                 https://www.aws.training
@@ -1791,6 +1794,7 @@ Based on the awesome Teach Yourself Computer Science curriculum!)
                 https://thesweetsetup.com/picks
                 https://universvm.medium.com/20-macos-apps-to-boost-your-productivity-74accb372c9c
                 https://unsplash.com/apps (Unsplash Wallpapers)
+                https://www.applegamingwiki.com/wiki/M1_compatible_games_master_list (M1 compatible games master list)
                 https://www.reddit.com/r/apple+mac+macapps
                 https://youtu.be/H3hUk0zsxc4 (How To Use Multiple Desktops On Your Mac by macmostvideo)
                 https://youtu.be/HPQobUOx17o (Amazing Mac Tips You've Never Used! by Snazzy Labs)
@@ -1799,12 +1803,10 @@ Based on the awesome Teach Yourself Computer Science curriculum!)
 
             Tools:
                 https://apps.apple.Com/app/amphetamine/id937984704 (Amphetamine 4+ Powerful Keep-Awake Utility)
-                https://bbjective-See.Com/products/lulu.html (Free, Open-Source Macos Firewall)
                 https://bjango.com/mac/istatmenus (An advanced Mac monitor system monitor for your menu bar)
                 https://brew.sh
                 https://dynamicwallpaper.club/gallery?section=best (Dynamic Wallpaper Club)
                 https://flexibits.Com/fantastical
-                https://github.com/alichtman/shallow-backup
                 https://github.com/caldis/mos (A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS )
                 https://github.com/dwarvesf/hidden (An ultra-light MacOS utility that helps hide menu bar icons)
                 https://github.com/nextdns/nextdns/wiki/macos
@@ -1816,6 +1818,7 @@ Based on the awesome Teach Yourself Computer Science curriculum!)
                 https://iterm2.com/documentation-shell-integration.html (iTerm2 Shell Integration)
                 https://monodraw.helftone.com (Powerful ASCII art editor designed for the Mac)
                 https://osxfuse.github.io (macFUSE allows you to extend macOS's native file handling capabilities via third-party file systems.)
+                https://setapp.com
                 https://www.bresink.com/osx/TinkerTool.html (TinkerTool is an application that gives you access to additional preference settings Apple has built into macOS.)
                 https://www.hammerspoon.Org/go/#pasteblock (Defeating paste blocking)
                 https://www.macbartender.com/Bartender4 (Take control of your menu bar)
@@ -1865,6 +1868,14 @@ Based on the awesome Teach Yourself Computer Science curriculum!)
                 https://superuser.com/questions/36087/how-do-i-run-a-launchd-command-as-root
                 https://www.manpagez.com/man/5/launchd.plist
                 https://www.soma-zone.com/LaunchControl
+
+            Little Snitch:
+                https://www.obdev.at/products/littlesnitch (Macos Firewall App)
+                https://github.com/naveednajam/Little-Snitch---Rule-Groups (This repo provide rule groups for Little Snitch based on unified host list to block ads, malware and fake news)
+                https://github.com/StevenBlack/hosts (🔒 Consolidating and extending hosts files from several well-curated sources)
+                https://help.obdev.at/littlesnitch5/ref-lsrules-file-format
+                https://pgl.yoyo.org/adservers/news.php#littlesnitch-rule-group-subscriptions
+                https://weekly.elfitz.com/2019/02/12/block-ads-and-trackers-on-your-mac-with-little-snitch (Block ads and trackers on your Mac with Little Snitch)
 
         MOOC:
                 https://academictorrents.com
@@ -2378,6 +2389,7 @@ Based on the awesome Teach Yourself Computer Science curriculum!)
                 https://github.com/arturssmirnovs/github-profile-readme-generator
                 https://github.com/ikatyang/emoji-cheat-sheet
                 https://github.com/kautukkundan/Awesome-Profile-README-templates
+                https://github.com/rahuldkjain/github-profile-readme-generator (🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.)
                 https://github.com/topics/github-profile-readme?o=desc&s=stars
                 https://github.com/topics/github-readme?o=desc&s=stars
                 https://linktr.ee (304)
@@ -2422,10 +2434,13 @@ Based on the awesome Teach Yourself Computer Science curriculum!)
                 https://www.flexjobs.com (5,904)
                 https://news.ycombinator.com/jobs (6,806)
                 https://www.freshersworld.com (7,367)
+                https://www.dice.com (7,817)
+                https://www.theladders.com (8,190)
                 https://www.iimjobs.com (8,978)
                 https://www.indeed.co.in (11,776)
                 https://www.hirist.com (12,436)
                 https://weworkremotely.com/categories/remote-devops-sysadmin-jobs (12,908)
+                https://www.instahyre.com (21,258)
                 https://neuvoo.co.in (21,596)
                 https://india.recruit.net (26,870)
                 https://www.placementindia.com (27,458)
@@ -3076,6 +3091,12 @@ Based on the awesome Teach Yourself Computer Science curriculum!)
 
                 Excel 2019 Bible 1st Edition
                 https://www.amazon.com/Excel-2019-Bible-Michael-Alexander/dp/1119514789
+
+        Diagrams:
+            Tools:
+                https://diagrams.mingrammer.com (Diagrams lets you draw the cloud system architecture in Python code)
+                https://app.diagrams.net (draw.io)
+                https://www.cloudcraft.co (Create smart AWS diagrams)
 
         Electronics:
             Sources:
