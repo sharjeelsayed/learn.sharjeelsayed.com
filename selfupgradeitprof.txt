@@ -112,6 +112,7 @@ Contents:
         BitTorrent
         Survival
         Chess
+        Weather
 
     Computer Science:
         Sources:
@@ -752,6 +753,7 @@ Based on the awesome Teach Yourself Computer Science curriculum!)
                 https://github.com/moul/awesome-ssh
                 https://github.com/topics/ssh?o=desc&s=stars
                 https://news.ycombinator.com/item?id=26053323 (	A visual guide to SSH tunnels (robotmoon.com))
+                https://unix.stackexchange.com/a/118650/289353 (How does reverse SSH tunneling work?)
 
             Tools:
                 https://github.com/elpy1/ssh-over-ssm (SSH over AWS SSM. No bastions or public-facing instances. SSH user management through IAM. No requirement to store SSH keys locally or on server.)
@@ -1143,7 +1145,7 @@ Based on the awesome Teach Yourself Computer Science curriculum!)
                 https://www.udemy.com/course/aws-certified-solutions-architect-associate-amazon-practice-exams-saa-c02
                 https://tutorialsdojo.com/aws-certified-solutions-architect-associate-saa-c02
 
-                Ultimate AWS Certified Developer Associate 2020 - NEW! by Stephane Maarek
+                Ultimate AWS Certified Developer Associate 2021 - NEW! by Stephane Maarek
                 https://www.udemy.com/course/aws-certified-developer-associate-dva-c01
                 https://courses.datacumulus.com/downloads/certified-developer-k92
                 https://courses.datacumulus.com (Discount codes for the Course)
@@ -2178,6 +2180,7 @@ Based on the awesome Teach Yourself Computer Science curriculum!)
 
         iOS/Android:
             Books and Courses:
+                https://github.com/skydoves/android-developer-roadmap (🗺 Android Developer Roadmap 2022 suggests learning paths to understanding Android development.)
                 https://www.raywenderlich.com
 
         Machine Learning:
@@ -2770,12 +2773,16 @@ Based on the awesome Teach Yourself Computer Science curriculum!)
                 https://news.ycombinator.com/item?id=22778123 (Ask HN: What do you use to keep track of bookmarks/notes/snippets?)
                 https://news.ycombinator.com/item?id=23445382 (Show HN: Some Bookmarklets, I Use (ph-uhl.com))
                 https://news.ycombinator.com/item?id=29314560 (Ask HN: What browser extensions are a must-have in 2021?)
+                https://www.forbesconrad.com/blog/enable-password-pasting (Enable Password Pasting in Firefox)
 
             Extensions:
                 https://addons.mozilla.org/en-GB/firefox/addon/foxytab
+                https://addons.mozilla.org/en-US/firefox/addon/auto-tab-discard
+                https://addons.mozilla.org/en-US/firefox/addon/honey
                 https://addons.mozilla.org/en-US/firefox/addon/minimalist-alexa-rank
                 https://addons.mozilla.org/en-US/firefox/addon/wayback-machine_new
                 https://addons.mozilla.org/en-US/firefox/search/?page=1&promoted=recommended&sort=users
+                https://bookmarkify.it/33985 (Dark Mode bookmarklet)
                 https://github.com/ClearURLs/Addon
                 https://github.com/Cookie-AutoDelete/Cookie-AutoDelete
                 https://github.com/deanishe/alfred-firefox
@@ -2800,7 +2807,6 @@ Based on the awesome Teach Yourself Computer Science curriculum!)
                 https://www.joinhoney.com
                 https://www.mrfdev.com/enhancer-for-youtube
                 https://www.one-tab.com
-                https://bookmarkify.it/33985 (Dark Mode bookmarklet)
 
         Books:
             Sources:
@@ -3482,16 +3488,17 @@ Based on the awesome Teach Yourself Computer Science curriculum!)
                 https://gsuite.google.co.in/intl/en_in/pricing.html
                 https://improvmx.com
                 https://mailbox.org/en
+                https://mxroute.com
                 https://open.spotify.com/episode/4w4PMbfjoBnxV1YkPbz6KT (The Privacy, Security, & OSINT Show 095-Better Email with Fastmail)
                 https://restoreprivacy.com/google-alternatives
                 https://restoreprivacy.com/private-secure-email
                 https://runbox.com
                 https://w3techs.com/technologies/overview/email_server
                 https://www.microsoft.com/en-in/microsoft-365/business/compare-all-microsoft-365-business-products
+                https://www.migadu.com
                 https://www.rackspace.com/email-hosting/webmail/pricing
                 https://www.reddit.com/r/degoogle/wiki
                 https://www.zoho.com/mail/zohomail-pricing.html
-                https://mxroute.com
 
                 Fastmail.com:
                     https://news.ycombinator.com/item?id=12247401 (Moving 12 years of email from GMail to FastMail (cpbotha.net))
@@ -3733,6 +3740,16 @@ Based on the awesome Teach Yourself Computer Science curriculum!)
                 https://chesstempo.com/chess-tactics (51,565)
                 https://stockfishchess.org (58,390)
 
+        Weather:
+            Sites: (Sorted by Alexa Rank)
+                https://weather.com (315)
+                https://www.accuweather.com (646)
+                https://darksky.net (26,241)
+                https://www.foreca.com (56,912)
+                https://www.dtn.com (114,833)
+                https://www.tomorrow.io (132,752)
+                https://www.aerisweather.com (482.092)
+
     Additional Sources :
         https://awesome.digitalbunker.dev (Click to explore one of the awesome lists below)
         https://en.wikipedia.org/wiki/List_of_common_misconceptions
@@ -3783,7 +3800,7 @@ Based on the awesome Teach Yourself Computer Science curriculum!)
 
     Support this page with these referral links:
         http://amex.in/refer/sHARJsCJfI (American Express)
-        http://share.payoneer.com/nav/gJpTWscAr6xJD14ZBR4gK1Mz9pGKs23iSC5MeSpZ_3L11XA8Vnny4cwQciAVBRLRG1bc5d2c5jNqUK1E7kq17A2 ($25 on Sign Up)
+        http://share.payoneer.com/nav/fNDwSrQzVfdG8-xoVyx0Bw_ZDmVq9EROCSP2BPIK6ZXFGNfkLTA-k6YqnGHb8YozBtA2obVkitQbtq50VTZ5Bg2 ($25 on Sign Up)
         https://db.tt/YL0e12GN (Dropbox 500 MB of bonus space)
         https://go.setapp.com/invite/f1crlo8n (Setapp.com free for 1 month)
         https://m.do.co/c/d3160b5e33e8 (DigitalOcean Credits)
