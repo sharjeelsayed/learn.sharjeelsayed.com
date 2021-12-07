@@ -244,7 +244,7 @@ Based on the awesome Teach Yourself Computer Science curriculum!)
                 https://github.com/tuvtran/project-based-learning
                 https://github.com/twowaits/SDE-Interview-Questions
                 https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=every%20programmer&sort=byPopularity&type=story (Things every programmer should know)
-                https://insights.stackoverflow.com/survey/2021
+                https://insights.stackoverflow.com/survey/2021 (2021 Developer Survey)
                 https://learnxinyminutes.com
                 https://mapfilterfold.com/?genre=programming
                 https://missing.csail.mit.edu (The Missing Semester of Your CS Education)
@@ -288,6 +288,7 @@ Based on the awesome Teach Yourself Computer Science curriculum!)
                 https://toptalkedbooks.com/stackoverflow/all
                 https://www.daolf.com/posts/best-programming-books
                 https://www.discoverdev.io
+                https://www.jetbrains.com/lp/devecosystem-2021 (The State of Developer Ecosystem 2021)
                 https://www.microsoft.com/en-us/research/blog/category/podcast
                 https://www.reddit.com/r/compsci+cscareerquestions+learnprogramming+programming
                 https://www.reddit.com/r/cscareerquestions/comments/6hmlxr/what_are_the_most_indemand_software_skills_right/dizqiie
@@ -1591,11 +1592,12 @@ Based on the awesome Teach Yourself Computer Science curriculum!)
                 https://laymanclass.com/vim-essential-setup-to-boost-your-productivity
                 https://news.ycombinator.com/item?id=15400037 (Interactive Vim tutorial)
                 https://news.ycombinator.com/item?id=2936670 (Learn Vim Progressively)
-                https://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim#1220118
-                https://stackoverflow.com/questions/726894/what-are-the-dark-corners-of-vim-your-mom-never-told-you-abouts
+                https://stackoverflow.com/a/1220118/11065 (What is your most productive shortcut with Vim?)
+                https://stackoverflow.com/questions/726894/what-are-the-dark-corners-of-vim-your-mom-never-told-you-abouts (What are the dark corners of Vim your mom never told you about?)
                 https://stackoverflow.com/questions/tagged/vim
                 https://vim.fandom.com
                 https://www.shortcutfoo.com/app/dojos/vim (Choose shortcuts to practice)
+                https://www.vim.so (We help you master vim with interactive exercises)
                 https://www.youtube.com/playlist?list=PLu-ydI-PCl0OEG0ZEqLRRuCrMJGAAI0tW (Vim as IDE)
                 https://youtu.be/XA2WjJbmmoM (How to Do 90% of What Plugins Do (With Just Vim))
                 https://pinboard.in/u:SharjeelSayed/t:vim
@@ -2416,6 +2418,7 @@ Based on the awesome Teach Yourself Computer Science curriculum!)
                 https://news.ycombinator.com/item?id=16875868 (List of places to find remote jobs and freelancing projects)
                 https://news.ycombinator.com/item?id=17047736 (Ask HN: How to become a remote contractor?)
                 https://www.indeed.com/career-advice/finding-a-job/rising-tech-jobs-and-skills
+                https://www.reddit.com/r/antiwork/top (Antiwork: Unemployment for all, not just the rich!)
                 https://www.reddit.com/r/india/comments/81r29c/your_onestop_guide_to_emigrating_long_term_to
                 https://www.reddit.com/r/india/comments/gja5eo/advice_for_indians_looking_to_study_abroad_and
                 https://www.reddit.com/r/recruitinghell/top (This subreddit is for all of those recruiters and candidates who really don't get it. Post your horror stories and show us those amazing job offers!)
@@ -2861,6 +2864,7 @@ Based on the awesome Teach Yourself Computer Science curriculum!)
                 https://news.ycombinator.com/item?id=23535060 (Ask HN: How do you read long PDFs?)
                 https://news.ycombinator.com/item?id=26321793 (Ask HN: Which books made you the most money?)
                 https://news.ycombinator.com/item?id=27636743 (Ask HN: Which book or course gave you an unfair advantage?)
+                https://news.ycombinator.com/item?id=29462663 (	Ask HN: What are some must read books?)
                 https://opentrackers.org/downloading-ebooks-textbooks
                 https://ramiro.org/vis/hn-most-linked-books
                 https://redditfavorites.com/books
@@ -2897,7 +2901,6 @@ Based on the awesome Teach Yourself Computer Science curriculum!)
                 https://btdig.com (31,311)
                 https://forum.mobilism.org (35,907)
                 https://librivox.org (46,088)
-                https://ebookee.org (65,109)
                 https://books.goalkicker.com (84,815)
                 https://www.ereaderiq.com (121,075)
                 http://freebookspot.es (159,088)
@@ -3374,7 +3377,7 @@ Based on the awesome Teach Yourself Computer Science curriculum!)
                         https://redditfavorites.com (Reddit Favorites From 3.5 billion comments)
 
                     Subscriptions:
-                        https://www.reddit.com/r/1Password+AWSCertifications+Alfred+AppHookup+AppleWatch+CryptoCurrency+DataHoarder+Documentaries+FreeEBOOKS+ITCareerQuestions+IndiaInvestments+KindleFreebies+Piracy+Terraform+Ubuntu+Udemy+Upwork+announcements+ansible+apple+appletv+aws+compsci+cscareerquestions+dataisbeautiful+devops+docker+freelance+gadgets+hackernews+india+ipad+iphone+juul+kindle+kubernetes+learnprogramming+linux+linuxadmin+linuxupskillchallenge+mac+macapps+movies+mumbai+netsec+nextdns+onebag+osx+programming+science+solotravel+sysadmin+technology+television+todayilearned+todoist+travel+udemyfreebies+usefulscripts+worldnews
+                        https://old.reddit.com/r/1Password+AWSCertifications+Alfred+AppHookup+AppleWatch+CryptoCurrency+DataHoarder+Documentaries+FreeEBOOKS+ITCareerQuestions+IndiaInvestments+KindleFreebies+Piracy+Terraform+Ubuntu+Udemy+Upwork+announcements+ansible+antiwork+apple+appletv+aws+compsci+cscareerquestions+dataisbeautiful+devops+docker+freelance+gadgets+hackernews+india+ipad+iphone+juul+kindle+kubernetes+learnprogramming+linux+linuxadmin+linuxupskillchallenge+mac+macapps+movies+mumbai+netsec+nextdns+onebag+osx+programming+science+solotravel+sysadmin+technology+television+todayilearned+todoist+travel+udemyfreebies+usefulscripts+worldnews
 
                 Hacker News:
                     https://apps.apple.com/us/app/hack-for-hacker-news-developer/id1464477788
