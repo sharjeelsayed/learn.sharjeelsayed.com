@@ -1833,7 +1833,7 @@ Based on the awesome Teach Yourself Computer Science curriculum!)
             Alfred:
                 http://www.packal.org
                 https://github.com/benknight/hue-alfred-workflow
-                https://github.com/deanishe/alfred-convert
+                https://github.com/biati-digital/alfred-calculate-anything (Alfred Workflow to calculate anything with natural language)
                 https://github.com/deanishe/alfred-firefox
                 https://github.com/deanishe/alfred-pwgen
                 https://github.com/derimagia/awesome-alfred-workflows
@@ -2206,6 +2206,7 @@ Based on the awesome Teach Yourself Computer Science curriculum!)
 
             Visual Studio Code:
                 Sources:
+                    https://code.visualstudio.com/docs/editor/github
                     https://news.ycombinator.com/item?id=27231033 (Disable autocorrect in vscode)
                     https://news.ycombinator.com/item?id=29278370 (	Ask HN: What extensions/packs of VS Code are must for web/developers to install?)
                     https://www.reddit.com/r/vscode/comments/8zbcb3/window_tabs/e2toon2 (Enable windows tabs in vscode)
