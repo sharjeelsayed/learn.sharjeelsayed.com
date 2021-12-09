@@ -801,9 +801,12 @@ Based on the awesome Teach Yourself Computer Science curriculum!)
                 https://www.reddit.com/r/PowerShell
 
             Books and Courses:
-                Learn Windows PowerShell in a Month of Lunches 3rd Edition
+                Learn Windows PowerShell in a Month of Lunches 3rd Edition (2016) by Donald W. Jones
                 https://www.amazon.com/Learn-Windows-PowerShell-Month-Lunches/dp/1617294160
                 https://www.youtube.com/playlist?list=PL6D474E721138865A
+
+                PowerShell Cookbook: Your Complete Guide to Scripting the Ubiquitous Object-Based Shell 4th Edition (2021) by Lee Holmes
+                https://www.amazon.com/PowerShell-Cookbook-Scripting-Ubiquitous-Object-Based/dp/109810160X
 
         Storage:
             Books and Courses:
@@ -894,6 +897,7 @@ Based on the awesome Teach Yourself Computer Science curriculum!)
                 https://github.com/k8s-at-home/awesome-home-kubernetes
                 https://github.com/karmada-io/karmada (Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration)
                 https://github.com/kelseyhightower/kubernetes-the-hard-way
+                https://github.com/ksoclabs/awesome-kubernetes-security (A curated list of awesome Kubernetes security resources)
                 https://github.com/kubernetes/kubernetes
                 https://github.com/LeCoupa/awesome-cheatsheets/blob/master/tools/kubernetes.md
                 https://github.com/madhuakula/kubernetes-goat (Kubernetes Goat is "Vulnerable by Design" Kubernetes Cluster)
@@ -1503,7 +1507,7 @@ Based on the awesome Teach Yourself Computer Science curriculum!)
                 https://nvie.com/posts/a-successful-git-branching-model
                 https://ohshitgit.com
                 https://shalithasuranga.medium.com/how-does-git-work-internally-7c36dcb1f2cf
-                https://sourcegraph.com/search (Search public code)
+                https://sourcegraph.com/search (Search your code and 2M+ open source repositories)
                 https://stackoverflow.com/questions/tagged/git
                 https://techtldr.com/19-git-tips-for-everyday-use
                 https://useful-forks.github.io (It aims at increasing the discoverability of useful forks of open-source projects.)
@@ -2179,6 +2183,9 @@ Based on the awesome Teach Yourself Computer Science curriculum!)
 
                 Online regex tester and debugger
                 https://regex101.com
+
+                Learn RegEx step by step, from zero to advanced
+                https://github.com/aykutkardas/regexlearn.com ( regexlearn.com)
 
         iOS/Android:
             Books and Courses:
@@ -3779,6 +3786,7 @@ Based on the awesome Teach Yourself Computer Science curriculum!)
         https://news.ycombinator.com/item?id=21581361 (Ask HN: What's the most valuable thing you can learn in an hour?)
         https://news.ycombinator.com/item?id=22849208 (Ask HN: Programs that saved you 100 hours?)
         https://news.ycombinator.com/item?id=23390308 (Ask HN: What is the cheapest way to make a website?)
+        https://news.ycombinator.com/item?id=24351073 (	Most-favorited Hacker News posts)
         https://news.ycombinator.com/item?id=24436135 (Ask HN: What is your favorite motto?)
         https://news.ycombinator.com/item?id=25136258 (Ask HN: What is the best money you have spent on professional development?)
         https://news.ycombinator.com/item?id=25518730 (	Tips for a Better Life (lesswrong.com))
