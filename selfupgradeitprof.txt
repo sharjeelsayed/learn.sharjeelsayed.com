@@ -131,7 +131,6 @@ Contents:
             https://github.com/topics/computer-science?o=desc&s=stars
             https://github.com/tpkahlon/cs1000 (A reference site for a beginner, to gain insight into various subjects present around CS and Software engineering. It can serve as a handy material for students to complement their existing undergraduate program.)
             https://github.com/watson/awesome-computer-history
-            https://jointeachyourselfcs.carrd.co (A supportive Discord community (500+ members and counting) to teach yourself computer science.
             https://laconicml.com/computer-science-curriculum-youtube-videos (This is The Entire Computer Science Curriculum in 1000 YouTube Videos)
             https://learn-anything.xyz/computer-science
             https://matt.might.net/articles/what-cs-majors-should-know
@@ -152,6 +151,7 @@ Contents:
             https://news.ycombinator.com/item?id=22692281 (Ask HN: Computer Science/History Books?)
             https://news.ycombinator.com/item?id=23588896 Teach Yourself Computer Science (teachyourselfcs.com)
             https://news.ycombinator.com/item?id=25271676 (	Ask HN: What are the best advanced computer science courses online?)
+            https://news.ycombinator.com/item?id=29498220 (Ask HN: I'm looking for a good book on the fundamentals of CS)
             https://news.ycombinator.com/item?id=5019373 (How Harvard's CS50 Renewed My Hope For Online Education)
             https://ocw.mit.edu/courses/find-by-topic/#cat=engineering&subcat=computerscience
             https://spin.atomicobject.com/2015/05/15/obtaining-thorough-cs-background-online
@@ -175,12 +175,12 @@ Contents:
             https://www.reddit.com/r/learnprogramming/comments/764cs8/trello_board_for_teach_yourself_computer_science
             https://www.reddit.com/r/learnprogramming/comments/ani7nb/psa_many_of_berkeleys_courses_have_lectures_and
             https://www.scotthyoung.com/blog/myprojects/mit-challenge-2
-Based on the awesome Teach Yourself Computer Science curriculum!)
             https://pinboard.in/u:SharjeelSayed/t:cs
 
         Books and Courses:
             Teach Yourself Computer Science
             https://teachyourselfcs.com
+            https://jointeachyourselfcs.carrd.co (A supportive Discord community (500+ members and counting) to teach yourself computer science.)
 
             Path to a free self-taught education in Computer Science!
             https://github.com/ossu/computer-science
@@ -371,9 +371,15 @@ Based on the awesome Teach Yourself Computer Science curriculum!)
                 Algorithms by S. Dasgupta, C. H. Papadimitriou, and U. V. Vazirani
                 http://algorithmics.lsi.upc.edu/docs/Dasgupta-Papadimitriou-Vazirani.pdf
 
+                Algorithms (4th Edition) 4th Edition (2011) by Robert Sedgewick and Kevin Wayne
+                https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X
+                https://www.coursera.org/learn/algorithms-part1
+                https://www.coursera.org/learn/algorithms-part2
+
             Additional Material:
-                Introduction to Algorithms, 3rd Edition
+                Introduction to Algorithms, 3rd Edition (2009) by Thomas H. Cormen
                 https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844
+                https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011
 
                 Algorithms by Jeff Erickson
                 http://jeffe.cs.illinois.edu/teaching/algorithms
