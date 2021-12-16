@@ -1829,7 +1829,7 @@ Contents:
                 https://alt-tab-macos.netlify.app (AltTab brings the power of Windows’s “alt-tab” window switcher to macOS)
                 https://apps.apple.Com/app/amphetamine/id937984704 (Amphetamine 4+ Powerful Keep-Awake Utility)
                 https://bjango.com/mac/istatmenus (An advanced Mac monitor system monitor for your menu bar)
-                https://brew.sh
+                https://brew.sh (The Missing Package Manager for macOS (or Linux))
                 https://cleanshot.com (Capture your Mac’s screen like a pro.)
                 https://dynamicwallpaper.club/gallery?section=best (Dynamic Wallpaper Club)
                 https://flexibits.Com/fantastical
@@ -1847,6 +1847,7 @@ Contents:
                 https://monodraw.helftone.com (Powerful ASCII art editor designed for the Mac)
                 https://news.ycombinator.com/item?id=19515627 (Ask HN: What are your favorite utility desktop apps?)
                 https://osxfuse.github.io (macFUSE allows you to extend macOS's native file handling capabilities via third-party file systems.)
+                https://privacy.sexy (Enforce privacy & security on Windows and macOS)
                 https://setapp.com (One-stop subscription to solving every task on Mac and iPhone.)
                 https://www.bresink.com/osx/TinkerTool.html (TinkerTool is an application that gives you access to additional preference settings Apple has built into macOS.)
                 https://www.hammerspoon.Org/go/#pasteblock (Defeating paste blocking)
@@ -3613,7 +3614,7 @@ Contents:
                 https://github.com/gilbertchen/duplicacy
                 https://github.com/jbruchon/jdupes
                 https://github.com/restic/others
-                https://github.com/schollz/croc
+                https://github.com/schollz/croc (Easily and securely send things from one computer to another 🐊 📦)
                 https://github.com/simon987/awesome-datahoarding
                 https://github.com/topics/backup?o=desc&s=stars
                 https://mega.nz/C!vuhRiKpB (Mega.nz Extra Storage)
