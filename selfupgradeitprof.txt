@@ -312,6 +312,12 @@ Contents:
             Books and Courses:
                 CS50 Introduction to Computer Science , Harvard University
                 https://www.edx.org/course/introduction-computer-science-harvardx-cs50x
+                https://cs50.stackexchange.com
+                https://cs50x.slack.com
+                https://discord.gg/cs50
+                https://www.facebook.com/groups/cs50
+                https://www.linkedin.com/groups/7437240
+                https://www.reddit.com/r/cs50
 
                 Introduction to Computer Science and Programming Using Python , MIT
                 https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11
@@ -711,6 +717,7 @@ Contents:
             Sources:
                 http://bashrcgenerator.com (Bash PS1 Generator)
                 http://redsymbol.net/articles/unofficial-bash-strict-mode
+                https://altbox.dev (A collection of power tools for the Linux/Unix/macOS command line)
                 https://explainshell.com (write down a command-line to see the help text that matches each argument)
                 https://github.com/adrianscheff/useful-sed (Useful sed scripts & patterns)
                 https://github.com/alebcay/awesome-shell (A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.)
@@ -718,6 +725,7 @@ Contents:
                 https://github.com/Bash-it/bash-it (Bash-it is a collection of community Bash commands and scripts for Bash 3.2+.)
                 https://github.com/dylanaraps/pure-bash-bible
                 https://github.com/gleitz/howdoi (instant coding answers via the command line)
+                https://github.com/ibraheemdev/modern-unix (A collection of modern/faster/saner alternatives or complements to common unix commands.)
                 https://github.com/jlevy/the-art-of-command-line
                 https://github.com/junegunn/fzf (A command-line fuzzy finder)
                 https://github.com/koalaman/shellcheck
@@ -728,6 +736,8 @@ Contents:
                 https://github.com/rothgar/awesome-tuis (List of projects that provide terminal user interfaces )
                 https://github.com/rupa/z (z - jump around)
                 https://github.com/topics/bash?o=desc&s=stars
+                https://github.com/topics/cli?o=desc&s=stars (Command line interface)
+                https://github.com/topics/command-line?o=desc&s=stars (Command line)
                 https://linoxide.com/linux-how-to/linux-commands-brief-outline-examples
                 https://linuxcommandlibrary.com/basic/oneliners.html
                 https://mywiki.wooledge.org/BashPitfalls
@@ -2237,7 +2247,6 @@ Contents:
                     https://marketplace.visualstudio.com/items?itemName=bbenoist.vagrant
                     https://marketplace.visualstudio.com/items?itemName=Boto3typed.boto3-ide
                     https://marketplace.visualstudio.com/items?itemName=codezombiech.gitignore
-                    https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2
                     https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory
                     https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula
                     https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
@@ -2313,6 +2322,7 @@ Contents:
                 https://www.reddit.com/r/cscareerquestions/comments/4ce2s3/resource_interview_questions_my_massive
                 https://www.reddit.com/r/cscareerquestions/comments/8387zj/what_is_your_favorite_method_for_figuring_out_if
                 https://www.reddit.com/r/cscareerquestions/wiki
+                https://www.reddit.com/r/ExperiencedDevs
                 https://pinboard.in/u:SharjeelSayed/t:cheatsheet
                 https://pinboard.in/u:SharjeelSayed/t:interview
                 https://pinboard.in/u:SharjeelSayed/t:jobs
@@ -3059,13 +3069,16 @@ Contents:
 
         Mouse:
             Sources:
+                https://manytricks.com/keycodes (Displays the key code, unicode value, and modifier keys state for any key combination you press)
                 https://mos.caldis.me (A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on MacOS)
+                https://news.ycombinator.com/item?id=27958431 (	Ask HN: Does anyone use keyboard/mouse extra buttons for coding?)
                 https://www.amazon.com/gp/bestsellers/pc/11036491
                 https://www.amazon.in/gp/bestsellers/computers/1375420031
                 https://www.logitech.com/en-us/products/mice/mx-master-3.910-005620.html
                 https://www.nytimes.com/wirecutter/reviews/best-wireless-mouse
                 https://www.rtings.com/mouse
                 https://www.smoothscroll.net/mac (SmoothScroll will give your mouse wheel (Finder, Safari, Chrome, etc.) buttery smooth scrolling)
+                https://www.usboverdrive.com (Take full advantage of any USB or Bluetooth mouse, keyboard, trackball, joystick or gamepad.)
                 https://www.youtube.com/results?search_query=best+mouse+mac&sp=CAM%253D (Best Mouse for Mac)
                 https://www.youtube.com/results?search_query=mx+master+3&sp=CAM%253D (MX Master 3 Reviews)
                 https://www.youtube.com/watch?v=eYu8CzaFymU&t=307s (I found the best Mouse for Programming)
@@ -3204,6 +3217,7 @@ Contents:
                 https://github.com/topics/design?o=desc&s=stars
                 https://github.com/topics/frontend?o=desc&s=stars
                 https://news.ycombinator.com/item?id=15328992 (Ask HN: Learn Modern web design and CSS)
+                https://news.ycombinator.com/item?id=29353980 (Ask HN: What are the best-designed things you've ever used?)
                 https://nodesign.dev
                 https://www.canva.com
 
@@ -3335,6 +3349,7 @@ Contents:
                     Sources:
                         http://thefeedreaderbot.com (The Feed Reader Bot monitors RSS feeds (and Twitter accounts), and sends messages when new posts are available.)
                         https://docs.google.com/spreadsheets/d/1uQP3f2bWuPapTn_1FUcL67jW9MwLzSjysji39pmyUxY (/r/TelegramBots - Master Bot List)
+                        https://draculatheme.com/telegram-ios (Dark theme for Telegram iOS)
                         https://github.com/ebertti/awesome-telegram
                         https://github.com/topics/telegram?o=desc&s=stars
                         https://ifttt.com/telegram
@@ -3394,7 +3409,7 @@ Contents:
                         https://redditfavorites.com (Reddit Favorites From 3.5 billion comments)
 
                     Subscriptions:
-                        https://old.reddit.com/r/1Password+AWSCertifications+Alfred+AppHookup+AppleWatch+CryptoCurrency+DataHoarder+Documentaries+FreeEBOOKS+ITCareerQuestions+IndiaInvestments+KindleFreebies+Piracy+Terraform+Ubuntu+Udemy+Upwork+announcements+ansible+antiwork+apple+appletv+aws+compsci+cscareerquestions+dataisbeautiful+devops+docker+freelance+gadgets+hackernews+india+ipad+iphone+juul+kindle+kubernetes+learnprogramming+linux+linuxadmin+linuxupskillchallenge+mac+macapps+movies+mumbai+netsec+nextdns+onebag+osx+programming+science+solotravel+sysadmin+technology+television+todayilearned+todoist+travel+udemyfreebies+usefulscripts+worldnews
+                        https://www.reddit.com/r/1Password+AWSCertifications+Alfred+AppHookup+AppleWatch+CryptoCurrency+DataHoarder+Documentaries+ExperiencedDevs+FreeEBOOKS+ITCareerQuestions+IndiaInvestments+KindleFreebies+Piracy+Terraform+Ubuntu+Udemy+Upwork+announcements+ansible+antiwork+apple+appletv+aws+compsci+cscareerquestions+dataisbeautiful+devops+docker+freelance+gadgets+hackernews+india+ipad+iphone+juul+kindle+kubernetes+learnprogramming+linux+linuxadmin+linuxupskillchallenge+mac+macapps+movies+mumbai+netsec+nextdns+onebag+osx+programming+science+solotravel+sysadmin+technology+television+todayilearned+todoist+travel+udemyfreebies+usefulscripts+worldnews
 
                 Hacker News:
                     https://apps.apple.com/us/app/hack-for-hacker-news-developer/id1464477788
