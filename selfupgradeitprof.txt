@@ -117,7 +117,7 @@ Contents:
     Computer Science:
         Sources:
             http://blog.agupieware.com/2014/06/online-learning-intensive-bachelors.html
-            http://cdn.cs50.net/guide/guide-15.pdf (Unofficial Guide to CS at Harvard)
+
             http://matt.might.net/articles/what-cs-majors-should-know
             https://begriffs.com/posts/2017-04-13-longterm-computing-reading.html
             https://docs.google.com/spreadsheets/d/1zfw8nPvJeewxcFUBpKUKmAVE8PjnJI7H0CKimdQXxr0/htmlview (Stanford CS Curriculum)
@@ -311,13 +311,14 @@ Contents:
 
             Books and Courses:
                 CS50 Introduction to Computer Science , Harvard University
-                https://www.edx.org/course/introduction-computer-science-harvardx-cs50x
+                https://cs50.harvard.edu
                 https://cs50.stackexchange.com
                 https://cs50x.slack.com
                 https://discord.gg/cs50
                 https://www.facebook.com/groups/cs50
                 https://www.linkedin.com/groups/7437240
                 https://www.reddit.com/r/cs50
+                https://cdn.cs50.net/guide/guide-20.pdf (Unofficial Guide to CS at Harvard)
 
                 Introduction to Computer Science and Programming Using Python , MIT
                 https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11
@@ -2134,7 +2135,7 @@ Contents:
                 https://www.udemy.com/the-web-developer-bootcamp
 
                 CS50's Web Programming with Python and JavaScript
-                https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript-web
+                https://cs50.edx.org/programs/web
 
         JavaScript:
             Sources:
@@ -2931,8 +2932,6 @@ Contents:
                 https://z-lib.org (7,892)
                 https://www.bookbub.com (8,749)
                 http://audiobookbay.nl (9,312)
-                https://b-ok.asia (18,183)
-                https://1lib.in (20,965)
                 https://btdig.com (31,311)
                 https://forum.mobilism.org (35,907)
                 https://librivox.org (46,088)
