@@ -1736,6 +1736,7 @@ Contents:
                 https://news.ycombinator.com/item?id=17563857 (Ask HN: What are the best resources for learning security and pen testing?)
                 https://news.ycombinator.com/item?id=17749283 (Ask HN: Recommendations of good cybercrime novels?)
                 https://news.ycombinator.com/item?id=18487547 (Ask HN: Starting a career in security at 40?)
+                https://news.ycombinator.com/item?id=29577272 (Clever uses of pass, the Unix password manager (vitalyparnas.com))
                 https://overthewire.org/wargames/bandit
                 https://room362.com/start (Start in Infosec)
                 https://s3ctur.wordpress.com/2017/06/19/breaking-into-infosec-a-beginners-curriculum
@@ -1819,6 +1820,7 @@ Contents:
                 https://github.com/topics/macos?o=desc&s=stars
                 https://medium.com/@cav/foss-password-management-with-passwordstore-9d34fec2fe84
                 https://news.ycombinator.com/item?id=24091707 (Ask HN: What feature did you find after years of using macOS?)
+                https://news.ycombinator.com/item?id=29577272 (Clever uses of pass, the Unix password manager (vitalyparnas.com))
                 https://objective-see.com/products.html (Free Mac Security Tools)
                 https://opensource.com/article/19/5/python-3-default-mac (The right and wrong way to set Python 3 as default on a Mac)
                 https://support.apple.com/en-us/HT201236 (Mac keyboard shortcuts)
@@ -3841,12 +3843,12 @@ Contents:
         https://www.reddit.com/r/AskReddit/comments/6q2b8x/reddit_whats_become_clear_to_you_as_youve_gotten
         https://www.reddit.com/r/AskReddit/comments/70q5f2/reddit_what_are_the_most_useful_askreddit_posts
         https://www.reddit.com/r/india/wiki/useful_posts
-        https://www.stickermule.com/unixstickers (Unixstickers powered by Sticker Mule)
-        https://www.redwolf.in/vinyl-stickers-india (Vinyl Stickers powered by RedWolf)
+        http://unixstickers.com (Unixstickers powered by Sticker Mule)
 
     Support this page with these referral links:
         http://amex.in/refer/sHARJsCJfI (American Express)
         http://share.payoneer.com/nav/fNDwSrQzVfdG8-xoVyx0Bw_ZDmVq9EROCSP2BPIK6ZXFGNfkLTA-k6YqnGHb8YozBtA2obVkitQbtq50VTZ5Bg2 ($25 on Sign Up)
+        http://thefrenchieco.refr.cc/sharjeels (10% off)
         https://db.tt/YL0e12GN (Dropbox 500 MB of bonus space)
         https://go.setapp.com/invite/f1crlo8n (Setapp.com free for 1 month)
         https://m.do.co/c/d3160b5e33e8 (DigitalOcean Credits)
