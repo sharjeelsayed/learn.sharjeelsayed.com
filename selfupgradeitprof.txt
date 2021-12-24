@@ -911,7 +911,7 @@ Contents:
                 https://github.com/dennyzhang/cheatsheet-kubernetes-A4
                 https://github.com/diegolnasc/kubernetes-best-practices (A cookbook with the best practices for working with kubernetes)
                 https://github.com/eon01/kubernetes-workshop (A Gentle introduction to Kubernetes with more than just the basics.)
-                https://github.com/jamiehannaford/what-happens-when-k8s
+                https://github.com/jamiehannaford/what-happens-when-k8s (What happens when I type kubectl run?)
                 https://github.com/k8s-at-home/awesome-home-kubernetes
                 https://github.com/karmada-io/karmada (Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration)
                 https://github.com/kelseyhightower/kubernetes-the-hard-way
@@ -934,7 +934,7 @@ Contents:
                 https://hackr.io/tutorials/learn-kubernetes
                 https://k3s.io
                 https://k8syaml.com (Kubernetes YAML Generator)
-                https://kind.sigs.k8s.io
+                https://kind.sigs.k8s.io (kind is a tool for running local Kubernetes clusters using Docker container “nodes”.)
                 https://kompose.io (A conversion tool to go from Docker Compose to Kubernetes)
                 https://kops.sigs.k8s.io
                 https://kubenews.net (Kubernetes and Cloud Native Computing Foundation News Sources)
@@ -962,17 +962,18 @@ Contents:
                 https://rancher.com
                 https://redhatspain.com/kubernetes (A curated list of awesome references collected since 2018.)
                 https://registry.terraform.io/modules/terraform-aws-modules/eks/aws
-                https://snyk.io/blog/10-kubernetes-security-context-settings-you-should-understand
+                https://snyk.io/blog/10-kubernetes-security-context-settings-you-should-understand (10 Kubernetes Security Context settings you should understand)
                 https://sparkle.adroitcorp.com.au/market (Flashcards)
                 https://t.me/learnk8s
                 https://techbeacon.com/enterprise-it/47-advanced-tutorials-mastering-kubernetes
                 https://www.atomiccommits.io/everything-useful-i-know-about-kubectl
-                https://www.datadoghq.com/container-report (Nov 2020 report on Kubernetes and Docker Usage)
+                https://www.datadoghq.com/container-report (Oct 2021 report on Kubernetes and Docker Usage)
                 https://www.flatcar-linux.org
                 https://www.katacoda.com/courses/kubernetes (Learn Kubernetes using Interactive Browser-Based Scenarios By Ben Hall, Jonathan Johnson, Richard Li, Peter Benjamin)
                 https://www.nsa.gov/News-Features/Feature-Stories/Article-View/Article/2716980/nsa-cisa-release-kubernetes-hardening-guidance (NSA, CISA release Kubernetes Hardening Guidance)
                 https://www.reddit.com/r/kubernetes/comments/mwpj1q/how_did_you_really_master_kubernetes
                 https://www.udemy.com/topic/kubernetes/?ratings=4.5&sort=popularity
+                https://ymmt2005.hatenablog.com/entry/k8s-things (47 Things To Become a Kubernetes Expert)
                 https://youtu.be/0Omvgd7Hg1I (Life of a Packet [I] - Michael Rubin, Google)
                 https://pinboard.in/u:SharjeelSayed/t:kubernetes
 
@@ -1705,7 +1706,7 @@ Contents:
                 https://github.com/Arudjreis/awesome-security-GRC (Curated list of resources for security Governance, Risk Management, Compliance and Audit professionals and enthusiasts (if they exist).)
                 https://github.com/chughes29/Cloud-DevSecOps-Learning/blob/main/Cloud%20%26%20DevSecOps%20Learning%20(1).md (Cloud-DevSecOps-Learning)
                 https://github.com/dafthack/CloudPentestCheatsheets
-                https://github.com/danielmiessler/SecLists
+                https://github.com/danielmiessler/SecLists (It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.)
                 https://github.com/devsecops/awesome-devsecops (An authoritative list of awesome devsecops tools with the help from community experiments and contributions.)
                 https://github.com/fabionoth/awesome-cyber-security
                 https://github.com/forter/security-101-for-saas-startups
@@ -1928,6 +1929,7 @@ Contents:
                 https://github.com/merry75/educative.io_courses
                 https://github.com/r0oth3x49/udemy-dl (A cross-platform python based utility to download courses from udemy for personal offline use)
                 https://github.com/sindresorhus/awesome
+                https://github.com/yt-dlp/yt-dlp (A youtube-dl fork with additional features and fixes)
                 https://hackr.io
                 https://lbry.com/news/20000-illegal-college-lectures-rescued
                 https://learning.oreilly.com
@@ -3795,6 +3797,8 @@ Contents:
                 https://www.aerisweather.com (482.092)
 
     Additional Sources :
+        http://unixstickers.com (Unixstickers powered by Sticker Mule)
+        https://allblackscreen.com (Make your screen black)
         https://awesome.digitalbunker.dev (Click to explore one of the awesome lists below)
         https://en.wikipedia.org/wiki/List_of_common_misconceptions
         https://en.wikipedia.org/wiki/List_of_lists_of_lists
@@ -3809,7 +3813,6 @@ Contents:
         https://github.com/TheLocehiliosan/yadm (Yet Another Dotfiles Manager)
         https://github.com/topics/awesome
         https://github.com/topics/dotfiles?o=desc&s=stars
-        https://github.com/yt-dlp/yt-dlp (A youtube-dl fork with additional features and fixes)
         https://hackerspaces.org (Hackerspaces are community-operated physical places, where people share their interest in tinkering with technology, meet and work on their projects, and learn from each other)
         https://learn-anything.xyz
         https://news.ycombinator.com/item?id=17272715 (Ask HN: Any resources to learn the fundamentals of critical thinking?)
@@ -3843,7 +3846,7 @@ Contents:
         https://www.reddit.com/r/AskReddit/comments/6q2b8x/reddit_whats_become_clear_to_you_as_youve_gotten
         https://www.reddit.com/r/AskReddit/comments/70q5f2/reddit_what_are_the_most_useful_askreddit_posts
         https://www.reddit.com/r/india/wiki/useful_posts
-        http://unixstickers.com (Unixstickers powered by Sticker Mule)
+        https://www.nytimes.com/interactive/2021/science/astronomy-space-calendar.html (Sync your calendar with the solar system)
 
     Support this page with these referral links:
         http://amex.in/refer/sHARJsCJfI (American Express)
