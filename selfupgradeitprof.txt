@@ -306,7 +306,6 @@ Contents:
                 https://www.reddit.com/r/learnprogramming/wiki/faq
                 https://www.reddit.com/r/learnprogramming/wiki/online
                 https://www.reddit.com/r/programming/comments/6l689j/a_manually_curated_list_of_240_popular
-                https://www.theodinproject.com
                 https://www.udacity.com/course/intro-to-computer-science--cs101
 
             Books and Courses:
@@ -2135,6 +2134,9 @@ Contents:
                 freeCodeCamp
                 https://www.freecodecamp.com
 
+                The Odin Project (Full Stack JavaScript and Full Stack Ruby on Rails for Free)
+                https://www.theodinproject.com
+
                 The Web Developer Bootcamp by Colt Steele
                 https://www.udemy.com/the-web-developer-bootcamp
 
@@ -3420,7 +3422,7 @@ Contents:
                         https://redditfavorites.com (Reddit Favorites From 3.5 billion comments)
 
                     Subscriptions:
-                        https://www.reddit.com/r/1Password+AWSCertifications+Alfred+AppHookup+AppleWatch+CryptoCurrency+DataHoarder+Documentaries+ExperiencedDevs+FreeEBOOKS+ITCareerQuestions+IndiaInvestments+KindleFreebies+Piracy+Terraform+Ubuntu+Udemy+Upwork+announcements+ansible+antiwork+apple+appletv+aws+compsci+cscareerquestions+dataisbeautiful+devops+docker+freelance+gadgets+hackernews+india+ipad+iphone+juul+kindle+kubernetes+learnprogramming+linux+linuxadmin+linuxupskillchallenge+mac+macapps+movies+mumbai+netsec+nextdns+onebag+osx+programming+science+solotravel+sysadmin+technology+television+todayilearned+todoist+travel+udemyfreebies+usefulscripts+worldnews
+                        https://www.reddit.com/r/1Password+AWSCertifications+Alfred+AppHookup+AppleWatch+CryptoCurrency+DataHoarder+Documentaries+ExperiencedDevs+FreeEBOOKS+ITCareerQuestions+IndiaInvestments+KindleFreebies+Piracy+Terraform+Ubuntu+Udemy+Upwork+announcements+ansible+antiwork+apple+appletv+aws+compsci+cscareerquestions+dataisbeautiful+devops+docker+freelance+hackernews+india+ipad+iphone+juul+kindle+kubernetes+learnprogramming+linux+linuxadmin+linuxupskillchallenge+mac+macapps+movies+mumbai+netsec+nextdns+onebag+osx+programming+science+solotravel+sysadmin+technology+television+todayilearned+todoist+travel+udemyfreebies+usefulscripts+worldnews
 
                 Hacker News:
                     https://apps.apple.com/us/app/hack-for-hacker-news-developer/id1464477788
@@ -3660,10 +3662,11 @@ Contents:
                 https://github.com/joedicastro/vps-comparison
                 https://hn.algolia.com/?dateRange=pastYear&page=0&prefix=true&query=ask%20hn%3A%20vps&sort=byPopularity&type=story
                 https://joshtronic.com/2021/01/03/vps-showdown-digitalocean-lightsail-linode-upcloud-vultr
-                https://lowendbox.com
+                https://lowendbox.com (Featuring the Best Cheap VPS Hosting, Dedicated Server and Hosting Deals Daily Plus Much More)
                 https://news.ycombinator.com/item?id=15105601 (Ask HN: What are your favorites self hosted tools?)
                 https://news.ycombinator.com/item?id=26594242 (Ask HN: Cheapest/easiest way to host a static site?)
                 https://news.ycombinator.com/item?id=28299053 (Ask HN: Companies of one, what is your tech stack?)
+                https://www.lowendstock.com (Compare and check the stock of the cheapest low end virtual private server offers!)
                 https://www.reddit.com/r/VPS+homelab
                 https://www.vpsbenchmarks.com
                 https://pinboard.in/u:SharjeelSayed/t:vps
@@ -3832,6 +3835,7 @@ Contents:
         https://news.ycombinator.com/item?id=28017289 (Ask HN: Do you have a process or a framework to learn specific skills quickly?)
         https://news.ycombinator.com/item?id=28119393 (Ask HN: What tiny purchases have disproportionately improved your life?)
         https://news.ycombinator.com/item?id=28232165 (Ask HN: What's the most life-changing blog post you've ever read?)
+        https://news.ycombinator.com/item?id=29675397 (	Ask HN: Where are you getting your money's worth?)
         https://per.quest (Enter a URL to an article, post or page with some text on it to listen to it)
         https://rfc.fyi (Browse RFCs by keywords, id or collection)
         https://sourceful.co.uk (Discover the best public GoogleDocs and Sheets)
@@ -3840,13 +3844,13 @@ Contents:
         https://wizardzines.com/comics
         https://www.justwatch.com/in?genres=doc
         https://www.nala.ie/resources/better-handwriting-adults
+        https://www.nytimes.com/interactive/2021/science/astronomy-space-calendar.html (Sync your calendar with the solar system)
         https://www.producthunt.com
         https://www.reddit.com/r/AskReddit/comments/4q91g9/what_free_things_online_should_everyone_take/d4r8foy
         https://www.reddit.com/r/AskReddit/comments/6k0p7l/what_are_the_best_free_online_certificates_you
         https://www.reddit.com/r/AskReddit/comments/6q2b8x/reddit_whats_become_clear_to_you_as_youve_gotten
         https://www.reddit.com/r/AskReddit/comments/70q5f2/reddit_what_are_the_most_useful_askreddit_posts
         https://www.reddit.com/r/india/wiki/useful_posts
-        https://www.nytimes.com/interactive/2021/science/astronomy-space-calendar.html (Sync your calendar with the solar system)
 
     Support this page with these referral links:
         http://amex.in/refer/sHARJsCJfI (American Express)
