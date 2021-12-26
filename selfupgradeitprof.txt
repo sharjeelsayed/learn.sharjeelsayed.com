@@ -1,6 +1,6 @@
 Curated Self Study Guide for Computer Science, DevOps, SRE & SysAdmin
 
-    The latest copy of this page is at http://Learn.SharjeelSayed.com
+    The latest copy of this page is at https://Learn.SharjeelSayed.com
 
     Star/Watch/Fork at https://github.com/sharjeelsayed/learn.sharjeelsayed.com
     Track updates to this page via https://github.com/sharjeelsayed/learn.sharjeelsayed.com/commits.atom
@@ -1189,7 +1189,7 @@ Contents:
                 AWS Certified Solutions Architect - Associate 2020 (PASS THE EXAM!) by Andrew Brown of ExamPro, freecodecamp.org
                 https://youtu.be/Ia-UEYYR44s
 
-            AWS Certifications:
+            AWS Certification Resources:
                 https://aws.amazon.com/certification
                 https://aws.amazon.com/training/learning-paths
                 https://digitalcloud.training/certification-training (AWS Certification Training Notes [Cheat Sheets] by Neal Davis)
@@ -1197,10 +1197,8 @@ Contents:
                 https://help.acloud.guru/hc/en-us/articles/360001389256-AWS-Cloud-Sandbox
                 https://learn.cantrill.io/p/aws-certification-recommendations
                 https://tutorialsdojo.com/aws-cheat-sheets (AWS Cheat Sheets)
-                https://tutorialsdojo.com/aws-study-path-notes
+                https://tutorialsdojo.com/aws-study-path-notes (AWS Exam Study Guides)
                 https://www.examtopics.com/exams/amazon
-                https://www.quora.com/What-is-the-best-formation-for-AWS-certification
-                https://www.qwiklabs.com/quests/10 (Solutions Architect - Associate)
                 https://www.reddit.com/r/AWSCertifications/comments/pcj2nk/free_learning_resources_needed_for_aws_solutions/haje9xi
                 https://www.reddit.com/r/AWSCertifications/search/?q=course&restrict_sr=on&t=year
                 https://www.udemy.com/topic/aws-certification/?ratings=4.5&sort=popularity
