@@ -1013,7 +1013,7 @@ Contents:
                 Amazon EKS Terraform Workshop
                 https://tf-eks-workshop.workshop.aws
 
-                CKA/CKAD/CKS
+            CKA/CKAD/CKS
                 https://github.com/cncf/curriculum
                 https://github.com/dgkanatsios/CKAD-exercises
                 https://github.com/jayendrapatil/kubernetes-exercises (Collection covers kubernetes exercises categorized topics-wise and referred back to the individual Kubernetes certification exams.)
@@ -1032,7 +1032,7 @@ Contents:
                 https://www.cncf.io/certification/training
                 https://www.reddit.com/r/kubernetes/comments/r4q1ec/ckad_free_materials (CKAD - free materials)
 
-                Support Groups
+            Support Groups
                 https://discuss.kubernetes.io (The official Kubernetes Discourse instance)
                 https://docs.google.com/forms/d/e/1FAIpQLSfdsupDfOWBtNVvVvXED6ULxtR4UIsYGCH_cQcRr0VcG1ZqQQ/viewform (https://istio.slack.com)
                 https://kubernauts-slack-join.herokuapp.com
@@ -1116,7 +1116,7 @@ Contents:
                 https://github.com/awsdocs
                 https://github.com/baobabKoodaa/cloudbite (Flashcards to learn AWS skills)
                 https://github.com/bash-my-aws/bash-my-aws (Simple but powerful CLI commands for managing AWS resources)
-                https://github.com/dannysteenman/aws-toolbox
+                https://github.com/dannysteenman/aws-toolbox (A Collection of Awesome Tools and Scripts for Cloud Engineers )
                 https://github.com/donnemartin/awesome-aws
                 https://github.com/dpritchett/aws-budget-limiter (Simple Terraform script for capping monthly AWS spend)
                 https://github.com/dutchcoders/cloudman (Textual user interface to manage ec2 instances.)
@@ -1137,7 +1137,7 @@ Contents:
                 https://slack.lastweekinaws.com (Last Week in AWS Slack Group)
                 https://trustoncloud.com/the-last-s3-security-document-that-well-ever-need (The last S3 security document that we’ll ever need, and how to use it)
                 https://www.amazon.com/aws-courses/b/?node=14297978011
-                https://www.aws.training
+                https://www.aws.training (The only set of training programs and offerings built by the experts at AWS.)
                 https://www.awsgeek.com (Cloud Diagrams & Notes)
                 https://www.chrisfarris.com/post/aws-organizations-in-2021 (AWS Organizations - Checklist for 2021)
                 https://www.cisecurity.org/benchmark/amazon_web_services
@@ -1189,7 +1189,7 @@ Contents:
                 AWS Certified Solutions Architect - Associate 2020 (PASS THE EXAM!) by Andrew Brown of ExamPro, freecodecamp.org
                 https://youtu.be/Ia-UEYYR44s
 
-                AWS Certifications:
+            AWS Certifications:
                 https://aws.amazon.com/certification
                 https://aws.amazon.com/training/learning-paths
                 https://digitalcloud.training/certification-training (AWS Certification Training Notes [Cheat Sheets] by Neal Davis)
