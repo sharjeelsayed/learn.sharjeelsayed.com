@@ -459,9 +459,11 @@ Contents:
                 https://www.coursera.org/learn/computer-networking
                 https://youtu.be/QKfk7YFILws (Computer Networking Complete Course by Google - Beginner to Advanced)
 
-                Computer Networking: A Top-Down Approach (7th Edition)
-                https://www.amazon.com/Computer-Networking-Top-Down-Approach-7th/dp/0133594149
-                http://www-net.cs.umass.edu/wireshark-labs (Supplements: Wireshark Labs)
+                Computer Networking: A Top-Down Approach, 8th Edition (2021) by James F. Kurose and Keith Ross
+                https://www.amazon.com/Computer-Networking-Global-James-Kurose/dp/1292405465
+                https://www.pearson.com/us/higher-education/program/Kurose-Pearson-e-Text-Computer-Networking-Access-Card-8th-Edition/PGM2877610.html
+                https://gaia.cs.umass.edu/kurose_ross/lectures.php (Online lectures and review questions)
+                https://gaia.cs.umass.edu/kurose_ross/wireshark.php (Supplements: Wireshark Labs)
 
                 CS144 Introduction to Computer Networking Stanford University
                 https://www.youtube.com/playlist?list=PLvFG2xYBrYAQCyz4Wx3NPoYJOFjvU7g2Z
@@ -1161,18 +1163,18 @@ Contents:
                 https://talk.cantrill.io
                 https://cantrill.io.i-aws.cloud
 
-                Ultimate AWS Certified Solutions Architect Associate 2021 by Stephane Maarek
+                Ultimate AWS Certified Solutions Architect Associate 2022 by Stephane Maarek
                 https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c02
                 https://courses.datacumulus.com (Discount codes for the Course)
                 https://courses.datacumulus.com/downloads/certified-solutions-architect-pn9 (AWS Certified Solutions Architect Associate Code & Slides)
 
-                AWS Certified Solutions Architect Associate Practice Exams 2021 by Jon Bonso
-                https://portal.tutorialsdojo.com/courses/aws-certified-solutions-architect-associate-practice-exams
+                AWS Certified Solutions Architect Associate Practice Exams 2022 by Jon Bonso
+                https://portal.tutorialsdojo.com/product/aws-certified-solutions-architect-associate-practice-exams
                 https://www.udemy.com/course/aws-certified-solutions-architect-associate-amazon-practice-exams-saa-c02
                 https://tutorialsdojo.com/aws-certified-solutions-architect-associate-saa-c02
                 http://slack.tutorialsdojo.com
 
-                Ultimate AWS Certified Developer Associate 2021 - NEW! by Stephane Maarek
+                Ultimate AWS Certified Developer Associate 2022 - NEW! by Stephane Maarek
                 https://www.udemy.com/course/aws-certified-developer-associate-dva-c01
                 https://courses.datacumulus.com/downloads/certified-developer-k92
                 https://courses.datacumulus.com (Discount codes for the Course)
@@ -1200,7 +1202,7 @@ Contents:
                 https://tutorialsdojo.com/aws-cheat-sheets (AWS Cheat Sheets)
                 https://tutorialsdojo.com/aws-study-path-notes (AWS Exam Study Guides)
                 https://www.examtopics.com/exams/amazon
-                https://www.reddit.com/r/AWSCertifications/comments/pcj2nk/free_learning_resources_needed_for_aws_solutions/haje9xi
+                https://www.reddit.com/r/AWSCertifications/comments/pcj2nk/free_learning_resources_needed_for_aws_solutions/haje9xi (Free Learning Resources needed for "AWS Solutions Architect Associate" exam)
                 https://www.reddit.com/r/AWSCertifications/search/?q=course&restrict_sr=on&t=year
                 https://www.udemy.com/topic/aws-certification/?ratings=4.5&sort=popularity (Udemy Courses rated 4.5 stars and above)
 
@@ -1389,17 +1391,17 @@ Contents:
                 https://youtu.be/V4waklkBC38 (HashiCorp Terraform Associate Certification Course - Pass the Exam! by  Andrew Brown (reeCodeCamp.org))
 
             Books and Courses:
+                More than Certified in Terraform by Derek Morgan
+                https://courses.morethancertified.com
+                https://www.udemy.com/course/terraform-certified
+                https://github.com/morethancertified/mtc-terraform
+                https://techstudyslack.slack.com/archives/C01E7UKHR34
+
                 HashiCorp Certified: Terraform Associate 2020 by Zeal Vora
                 https://www.udemy.com/course/terraform-beginner-to-advanced
                 https://github.com/zealvora/coupon-codes
                 https://github.com/zealvora/terraform-beginner-to-advanced-resource
                 https://rutracker.org/forum/viewtopic.php?t=5936588
-
-                More than Certified in Terraform by Derek Morgan
-                https://www.udemy.com/course/terraform-certified
-                https://github.com/morethancertified/mtc-terraform
-                https://courses.derekops.com/terraform
-                https://techstudyslack.slack.com/archives/C01E7UKHR34
 
                 Terraform: Up & Running: Writing Infrastructure as Code 2nd Edition By Yevgeniy Brikman
                 https://www.terraformupandrunning.com
@@ -2829,7 +2831,6 @@ Contents:
                 https://addons.mozilla.org/en-US/firefox/addon/minimalist-alexa-rank
                 https://addons.mozilla.org/en-US/firefox/addon/wayback-machine_new
                 https://addons.mozilla.org/en-US/firefox/search/?page=1&promoted=recommended&sort=users
-                https://bookmarkify.it/33985 (Dark Mode bookmarklet)
                 https://github.com/ClearURLs/Addon
                 https://github.com/Cookie-AutoDelete/Cookie-AutoDelete
                 https://github.com/deanishe/alfred-firefox
@@ -3809,7 +3810,7 @@ Contents:
         https://freenode.net
         https://github.com/antontarasenko/smq/blob/master/reports/hackernews-links-in-comments.md (Most mentioned links in Hacker News comments, 2006–2015)
         https://github.com/gothinkster/realworld ("The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more)
-        https://github.com/jbranchaud/til (oday I Learned)
+        https://github.com/jbranchaud/til (Today I Learned)
         https://github.com/jnv/lists (The definitive list of lists (of lists) curated on GitHub and elsewhere )
         https://github.com/mendel5/alternative-front-ends (Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.))
         https://github.com/rsapkf/42 (This is an ongoing personal collection of over 5000+ sites and resources that I use or have used in the past to learn programming, puzzle-solving, web development and other intellectually stimulating things, categorized (more or less))
