@@ -772,11 +772,15 @@ Contents:
 
         ssh:
             Sources:
+                http://www.g-loaded.eu/2006/11/24/auto-closing-ssh-tunnels # Auto-closing SSH tunnels
                 https://github.com/anderspitman/awesome-tunneling (List of ngrok alternatives and other ngrok-like tunneling software and services. Focus on self-hosting)
                 https://github.com/moul/awesome-ssh
                 https://github.com/topics/ssh?o=desc&s=stars
+                https://news.ycombinator.com/item?id=10726158 (Poor man's VPN via ssh socks proxy (redpill-linpro.com))
                 https://news.ycombinator.com/item?id=26053323 (	A visual guide to SSH tunnels (robotmoon.com))
+                https://susam.in/blog/file-transfer-with-ssh-tee-and-base64.html (File Transfer with SSH, Tee, and Base64)
                 https://unix.stackexchange.com/a/118650/289353 (How does reverse SSH tunneling work?)
+                https://unix.stackexchange.com/a/2869/187607 (Download or Upload files using SSH)
 
             Tools:
                 https://github.com/elpy1/ssh-over-ssm (SSH over AWS SSM. No bastions or public-facing instances. SSH user management through IAM. No requirement to store SSH keys locally or on server.)
