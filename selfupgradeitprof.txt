@@ -103,6 +103,7 @@ Contents:
         Science
         Design
         News
+        Blogs
         NewsLetters
         Podcasts
         Email
@@ -1819,6 +1820,7 @@ Contents:
                 https://github.com/agarrharr/awesome-macos-screensavers (A curated list of screensavers for Mac OS X)
                 https://github.com/donnemartin/dev-setup (macOS development environment setup: Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduce, AWS, Heroku, JavaScript web development, Android development, common data stores, and dev-based OS X defaults.)
                 https://github.com/drduh/macOS-Security-and-Privacy-Guide (Guide to securing and improving privacy on macOS)
+                https://github.com/exelban/stats (macOS system monitor in your menu bar)
                 https://github.com/geerlingguy/mac-dev-playbook (Mac setup and configuration via Ansible.)
                 https://github.com/iCHAIT/awesome-macOS ( A curated list of awesome applications, softwares, tools and shiny things for macOS.)
                 https://github.com/jaywcjlove/awesome-mac (awesome macOS software in various categories)
@@ -3254,18 +3256,11 @@ Contents:
 
         News:
             Sources:
-                https://bloggingfordevs.com/trends (Discover the best developer blogs on any tech stack)
-                https://burkybang.com/reddit_rss (Reddit has a limit to how often RSS feeds can be fetched. This breaks that limit!)
                 https://en.wikipedia.org/wiki/Special:Random
-                https://fraidyc.at
                 https://github.com/greybax/awesome-IT-films
-                https://github.com/learn-anything/blogs
-                https://github.com/osmoscraft/osmosfeed (A web-based RSS reader running entirely from your GitHub repo.)
                 https://github.com/topics/blogs?o=desc&s=stars
-                https://hnblogs.substack.com (HackerNews Blogs Newsletter)
-                https://news.vinc.cc
+                https://news.vinc.cc (Search the news)
                 https://news.ycombinator.com/item?id=14086259 (Ask HN: Mailing lists that HN readers ought to know about?)
-                https://news.ycombinator.com/item?id=14163905 (Ask HN: Which companies have the best blogs written by their engineering team?)
                 https://news.ycombinator.com/item?id=14378536 (Ask HN: Which websites do you visit?)
                 https://news.ycombinator.com/item?id=14724092 (Ask HN: Which sites you visit on a regular basis for knowledge and inspiration?)
                 https://news.ycombinator.com/item?id=14918647 (Ask HN: What is your content discovery daily routine?)
@@ -3277,28 +3272,24 @@ Contents:
                 https://news.ycombinator.com/item?id=18384680 (Ask HN: Other online communities like HN?)
                 https://news.ycombinator.com/item?id=20023209 (Ask HN: What are your other favorite communities other than Hacker News?)
                 https://news.ycombinator.com/item?id=20719651 (Ask HN: What are some niche or alternative news aggregators worth checking out?)
-                https://news.ycombinator.com/item?id=21928170 (Ask HN: What niche blogs are worthwhile to follow?)
-                https://news.ycombinator.com/item?id=22800136 (Ask HN: What is your blog and why should I read it?)
-                https://news.ycombinator.com/item?id=23206259 (Ask HN: What are some hard-tech blogs that you follow?)
-                https://news.ycombinator.com/item?id=23583629 (RSS Box – RSS for websites that do not support RSS (rssbox.herokuapp.com))
-                https://news.ycombinator.com/item?id=24539445 (Ask HN: Favourite blogs?)
-                https://news.ycombinator.com/item?id=24658424 (Ask HN: What RSS Reader do you use?)
                 https://news.ycombinator.com/item?id=25159931 (Ask HN: What are some of your favorite journals or magazines?)
                 https://news.ycombinator.com/item?id=26192817 (	Ask HN: What websites do you visit every day?)
-                https://news.ycombinator.com/item?id=27302195 (Ask HN: Favorite Blogs by Individuals?)
                 https://news.ycombinator.com/item?id=28632002 (Ask HN: What are some other general link aggregators aside from HN?)
-                https://news.ycombinator.com/item?id=29237308 (Ask HN: What are some great engineering blogs?)
-                https://news.ycombinator.com/item?id=9836023 (Ask HN: What tech blogs, podcasts do you follow outside of HN?)
-                https://news.ycombinator.com/user?id=SharjeelSayed
-                https://twitter.com/SharjeelSayed
-                https://wiki.nikitavoloboev.xyz/research/blogs#favorite-blogs
                 https://www.reddit.com/r/AskReddit/comments/9nggyv/what_is_a_great_youtube_channel_to_binge_watch
                 https://www.reddit.com/r/AskReddit/comments/aa7zs9/what_youtube_channels_are_genuinely_worth_watching
-                https://www.to-rss.xyz/
+                https://news.ycombinator.com/user?id=SharjeelSayed
+                https://twitter.com/SharjeelSayed
                 https://www.reddit.com/user/SharjeelSayed
 
             Sites and Apps:
                 RSS:
+                    Sources:
+                        https://burkybang.com/reddit_rss (Reddit has a limit to how often RSS feeds can be fetched. This breaks that limit!)
+                        https://github.com/osmoscraft/osmosfeed (A web-based RSS reader running entirely from your GitHub repo.)
+                        https://news.ycombinator.com/item?id=23583629 (RSS Box – RSS for websites that do not support RSS (rssbox.herokuapp.com))
+                        https://news.ycombinator.com/item?id=24658424 (Ask HN: What RSS Reader do you use?)
+                        https://www.to-rss.xyz
+
                     Import http://Opml.SharjeelSayed.com , into https://www.inoreader.com or https://reederapp.com
 
                 News Sites: (Sorted by Alexa Rank)
@@ -3471,6 +3462,27 @@ Contents:
                 Cross-Posting Social Media:
                     https://ifttt.com/applets/rnvTEjV9-automatically-share-new-links-you-post-on-facebook-to-twitter
                     https://ifttt.com/applets/yfaY7BnX-Tweet-your-Facebook-status-updates
+
+        Blogs:
+            Sources:
+                https://bloggingfordevs.com/trends (Discover the best developer blogs on any tech stack)
+                https://fraidyc.at (Fraidycat is a desktop app or browser extension for Firefox or Chrome used to follow people on Twitter, a blog, YouTube, even on a public TiddlyWiki)
+                https://github.com/kaizensoze/security-blogs (A list of security blogs.)
+                https://github.com/kilimchoi/engineering-blogs (A curated list of engineering blogs)
+                https://github.com/learn-anything/blogs
+                https://hnblogs.substack.com (HackerNews Blogs Newsletter)
+                https://news.ycombinator.com/item?id=14163905 (Ask HN: Which companies have the best blogs written by their engineering team?)
+                https://news.ycombinator.com/item?id=21928170 (Ask HN: What niche blogs are worthwhile to follow?)
+                https://news.ycombinator.com/item?id=22800136 (Ask HN: What is your blog and why should I read it?)
+                https://news.ycombinator.com/item?id=23206259 (Ask HN: What are some hard-tech blogs that you follow?)
+                https://news.ycombinator.com/item?id=27302195 (Ask HN: Favorite Blogs by Individuals?)
+                https://news.ycombinator.com/item?id=29237308 (Ask HN: What are some great engineering blogs?)
+                https://news.ycombinator.com/item?id=29758396 (Ask HN: Best Engineering Blog Posts?)
+                https://news.ycombinator.com/item?id=9836023 (Ask HN: What tech blogs, podcasts do you follow outside of HN?)
+                https://refined.blog (Curated list of personal blogs)
+                https://news.ycombinator.com/item?id=24539445 (Ask HN: Favourite blogs?)
+                https://wiki.nikitavoloboev.xyz/research/blogs#favorite-blogs
+                https://danluu.com/programming-blogs (Some programming blogs to consider reading)
 
         NewsLetters:
             Sources:
