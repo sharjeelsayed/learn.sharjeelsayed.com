@@ -1831,7 +1831,9 @@ Contents:
                 https://github.com/topics/macos?o=desc&s=stars
                 https://medium.com/@cav/foss-password-management-with-passwordstore-9d34fec2fe84
                 https://news.ycombinator.com/item?id=24091707 (Ask HN: What feature did you find after years of using macOS?)
+                https://news.ycombinator.com/item?id=24391899 (	Hard to discover tips and apps for macOS (thume.ca))
                 https://news.ycombinator.com/item?id=29577272 (Clever uses of pass, the Unix password manager (vitalyparnas.com))
+                https://news.ycombinator.com/item?id=29742551 (	macOS Setup after 15 Years of Linux (hookrace.net))
                 https://objective-see.com/products.html (Free Mac Security Tools)
                 https://opensource.com/article/19/5/python-3-default-mac (The right and wrong way to set Python 3 as default on a Mac)
                 https://support.apple.com/en-us/HT201236 (Mac keyboard shortcuts)
@@ -2929,6 +2931,7 @@ Contents:
                 https://www.amazon.com/charts
                 https://www.amazon.com/gp/bestsellers/2020/books
                 https://www.goodreads.com/list
+                https://www.nytimes.com/interactive/2021/12/28/books/best-book-winners.html (What’s the Best Book of the Past 125 Years?)
                 https://www.nytimes.com/section/books/review
                 https://www.reddit.com/r/AskReddit/comments/34m5n6/reddit_what_are_some_must_read_books
                 https://www.reddit.com/r/AskReddit/comments/8cl833/what_are_some_good_books_that_would_make_the
@@ -3424,7 +3427,7 @@ Contents:
                         https://redditfavorites.com (Reddit Favorites From 3.5 billion comments)
 
                     Subscriptions:
-                        https://www.reddit.com/r/1Password+AWSCertifications+Alfred+AppHookup+AppleWatch+CryptoCurrency+DataHoarder+Documentaries+ExperiencedDevs+FreeEBOOKS+ITCareerQuestions+IndiaInvestments+KindleFreebies+Piracy+Terraform+Ubuntu+Udemy+Upwork+announcements+ansible+antiwork+apple+appletv+aws+compsci+cscareerquestions+dataisbeautiful+devops+docker+freelance+hackernews+india+ipad+iphone+juul+kindle+kubernetes+learnprogramming+linux+linuxadmin+linuxupskillchallenge+mac+macapps+movies+mumbai+netsec+nextdns+onebag+osx+programming+science+solotravel+sysadmin+technology+television+todayilearned+todoist+travel+udemyfreebies+usefulscripts+worldnews
+                        https://www.reddit.com/r/1Password+AWSCertifications+Alfred+AppHookup+AppleWatch+CryptoCurrency+DataHoarder+Documentaries+ExperiencedDevs+FreeEBOOKS+ITCareerQuestions+IndiaInvestments+KindleFreebies+Piracy+Terraform+Ubuntu+Udemy+Upwork+announcements+ansible+antiwork+apple+appletv+aws+compsci+cscareerquestions+dataisbeautiful+devops+docker+freelance+hackernews+india+ipad+iphone+juul+kindle+kubernetes+learnprogramming+linux+linuxadmin+linuxupskillchallenge+mac+macapps+movies+netsec+nextdns+onebag+osx+programming+science+solotravel+sysadmin+technology+television+todayilearned+todoist+travel+udemyfreebies+usefulscripts+worldnews
 
                 Hacker News:
                     https://apps.apple.com/us/app/hack-for-hacker-news-developer/id1464477788
