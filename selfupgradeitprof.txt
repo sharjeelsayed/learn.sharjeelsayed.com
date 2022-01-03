@@ -444,6 +444,7 @@ Contents:
 
         Networking :
             Sources:
+                https://github.com/gchq/CyberChef (The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis)
                 https://github.com/mininet/mininet/wiki/Teaching-and-Learning-with-Mininet
                 https://github.com/saminiir/level-ip
                 https://news.ycombinator.com/item?id=13983212 (Beej's Guide to Network Programming)
@@ -1719,6 +1720,7 @@ Contents:
                 https://github.com/devsecops/awesome-devsecops (An authoritative list of awesome devsecops tools with the help from community experiments and contributions.)
                 https://github.com/fabionoth/awesome-cyber-security
                 https://github.com/forter/security-101-for-saas-startups
+                https://github.com/gchq/CyberChef (The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis)
                 https://github.com/Gr1mmie/Practical-Ethical-Hacking-Resources
                 https://github.com/Hack-with-Github/Awesome-Hacking
                 https://github.com/iacsecurity/tool-compare (infrastructure-as-code security tools comparison)
@@ -1848,17 +1850,20 @@ Contents:
                 https://pinboard.in/u:SharjeelSayed/t:macos
 
             Tools:
+                https://allblackscreen.com (Make your screen black)
                 https://alt-tab-macos.netlify.app (AltTab brings the power of Windows’s “alt-tab” window switcher to macOS)
                 https://apps.apple.Com/app/amphetamine/id937984704 (Amphetamine 4+ Powerful Keep-Awake Utility)
                 https://bjango.com/mac/istatmenus (An advanced Mac monitor system monitor for your menu bar)
                 https://brew.sh (The Missing Package Manager for macOS (or Linux))
                 https://cleanshot.com (Capture your Mac’s screen like a pro.)
+                https://devutils.app (Offline Toolbox for Developers)
                 https://dynamicwallpaper.club/gallery?section=best (Dynamic Wallpaper Club)
                 https://flexibits.Com/fantastical
                 https://folivora.ai/keyboardcleantool (A super simple little tool which blocks all Keyboard and TouchBar input)
                 https://github.com/caldis/mos (A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS )
+                https://github.com/koekeishiya/yabai (A tiling window manager for macOS based on binary space partitioning)
                 https://github.com/Mortennn/Dozer (Hide menu bar icons on macOS)
-                https://github.com/nextdns/nextdns/wiki/macos
+                https://github.com/nextdns/nextdns/wiki/macos (NextDNS CLI client (DoH Proxy) )
                 https://github.com/r-darwish/topgrade (Upgrade everything)
                 https://github.com/rgcr/m-cli ( Swiss Army Knife For Macos)
                 https://github.com/samschott/maestral (Open-source Dropbox client for macOS and Linux)
@@ -1879,6 +1884,7 @@ Contents:
                 https://www.parallels.com/products/desktop
                 https://www.titanium-software.fr/en/onyx.html (OnyX is a multifunction utility that you can use to verify the structure of the system files)
                 https://www.usboverdrive.com (Take full advantage of any USB or Bluetooth mouse, keyboard, trackball, joystick or gamepad)
+                https://www.zeiss.co.in/vision-care/eye-care-professionals/other-products/lens-cleaning-solutions.html#overlay-benefits-1697194224 (Zeiss Pre-Moistened Lens Cloths Wipes)
 
             Alfred:
                 http://www.packal.org
@@ -2843,6 +2849,7 @@ Contents:
                 https://addons.mozilla.org/en-US/firefox/addon/auto-tab-discard
                 https://addons.mozilla.org/en-US/firefox/addon/honey
                 https://addons.mozilla.org/en-US/firefox/addon/minimalist-alexa-rank
+                https://addons.mozilla.org/en-US/firefox/addon/to-google-translate (To Google Translate)
                 https://addons.mozilla.org/en-US/firefox/addon/wayback-machine_new
                 https://addons.mozilla.org/en-US/firefox/search/?page=1&promoted=recommended&sort=users
                 https://github.com/ClearURLs/Addon
@@ -3827,7 +3834,6 @@ Contents:
 
     Additional Sources :
         http://unixstickers.com (Unixstickers powered by Sticker Mule)
-        https://allblackscreen.com (Make your screen black)
         https://awesome.digitalbunker.dev (Click to explore one of the awesome lists below)
         https://en.wikipedia.org/wiki/List_of_common_misconceptions
         https://en.wikipedia.org/wiki/List_of_lists_of_lists
