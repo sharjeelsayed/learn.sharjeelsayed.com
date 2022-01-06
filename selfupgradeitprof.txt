@@ -467,10 +467,10 @@ Contents:
                 https://www.pearson.com/us/higher-education/program/Kurose-Pearson-e-Text-Computer-Networking-Access-Card-8th-Edition/PGM2877610.html
                 https://gaia.cs.umass.edu/kurose_ross/lectures.php (Online lectures and review questions)
                 https://gaia.cs.umass.edu/kurose_ross/wireshark.php (Supplements: Wireshark Labs)
+                https://youtube.com/playlist?list=PLvFG2xYBrYASIUH_y2hYaMCro8KUe_yL8 (Computer Networking: A Top-Down Approach 8th edition by Jim Kurose and Keith Ross Playlist)
 
-                CS144 Introduction to Computer Networking Stanford University
-                https://www.youtube.com/playlist?list=PLvFG2xYBrYAQCyz4Wx3NPoYJOFjvU7g2Z
-                https://www.youtube.com/playlist?list=PLoCMsyE1cvdWKsLVyf6cPwCLDIZnOj0NS
+                CS144 Introduction to Computer Networking Stanford University by Philip Levis and Nick McKeown
+                https://youtube.com/playlist?list=PLoCMsyE1cvdWKsLVyf6cPwCLDIZnOj0NS
 
                 High Performance Browser Networking
                 https://hpbn.co
@@ -943,7 +943,7 @@ Contents:
                 https://github.com/zegl/kube-score (Kubernetes object analysis with recommendations for improved reliability and security)
                 https://goo.gl/Rywkpd (The Kubernetes Learning Resources List)
                 https://hackr.io/tutorials/learn-kubernetes
-                https://k3s.io
+                https://k3s.io (The certified Kubernetes distribution built for IoT & Edge computing)
                 https://k8syaml.com (Kubernetes YAML Generator)
                 https://kind.sigs.k8s.io (kind is a tool for running local Kubernetes clusters using Docker container “nodes”.)
                 https://kompose.io (A conversion tool to go from Docker Compose to Kubernetes)
@@ -958,19 +958,18 @@ Contents:
                 https://kubernetes.io/training
                 https://kubernetesbyexample.com (KBE lessons emphasize an ‘absorb by doing’ approach so you can practices skills as they are explored and explained to learn Kubernetes By Example)
                 https://kubernetesreadme.com (What books 📚 to read to learn more about Kubernetes)
-                https://labs.play-with-k8s.com
+                https://labs.play-with-k8s.com (Play with Kubernetes is a labs site provided by Docker and created by Tutorius.)
                 https://learning.oreilly.com/search/?query=kubernetes
                 https://learnk8s.io/troubleshooting-deployments (A visual guide on troubleshooting Kubernetes deployments)
                 https://medium.com/faun/35-advanced-tutorials-to-learn-kubernetes-dae5695b1f18
                 https://medium.com/faun/be-fast-with-kubectl-1-18-ckad-cka-31be00acc443
-                https://minikube.sigs.k8s.io
-                https://mjarosie.github.io/dev/2021/09/15/iam-roles-for-kubernetes-service-accounts-deep-dive.html (IAM roles for Kubernetes service accounts - deep dive)
+                https://minikube.sigs.k8s.io (minikube quickly sets up a local Kubernetes cluster on macOS, Linux, and Windows.)
                 https://mjarosie.github.io/dev/2021/09/15/iam-roles-for-kubernetes-service-accounts-deep-dive.html (IAM roles for Kubernetes service accounts - deep dive)
                 https://napo.io/posts/kubernetes-the-real-hard-way-on-aws
                 https://news.ycombinator.com/item?id=22597880 (Kind - run local Kubernetes clusters using Docker (k8s.io))
                 https://news.ycombinator.com/item?id=22689119 (Anyone have a recommended guide for Kubernetes?)
                 https://news.ycombinator.com/item?id=29251343 (Ask HN: What is the fastest way to ramp up on DevOps, k8 and GCP?)
-                https://rancher.com
+                https://rancher.com (Rancher is a Kubernetes-based container orchestration platform)
                 https://redhatspain.com/kubernetes (A curated list of awesome references collected since 2018.)
                 https://registry.terraform.io/modules/terraform-aws-modules/eks/aws
                 https://snyk.io/blog/10-kubernetes-security-context-settings-you-should-understand (10 Kubernetes Security Context settings you should understand)
@@ -1792,8 +1791,9 @@ Contents:
                 Practical Ethical Hacking - The Complete Course by Heath Adams
                 https://www.udemy.com/course/practical-ethical-hacking
                 https://academy.tcm-sec.com/p/practical-ethical-hacking-the-complete-course
-                https://youtu.be/WnN6dbos5u8
+                https://youtu.be/fNzpcB7ODxQ (Ethical Hacking in 12 Hours - Full Course - Learn to Hack!)
                 https://github.com/TCM-Course-Resources/Practical-Ethical-Hacking-Resources
+                https://youtu.be/WnN6dbos5u8 (Full Ethical Hacking Course - Beginner Network Penetration Testing (2019))
 
                 Incident Response & Computer Forensics, Third Edition 3rd Edition by Jason T. Luttgens, Matthew Pepe and Kevin Mandia
                 https://www.amazon.com/Incident-Response-Computer-Forensics-Third/dp/0071798684
@@ -2303,6 +2303,7 @@ Contents:
                     https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml
                     https://marketplace.visualstudio.com/items?itemName=timonwong.shellcheck
                     https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons
+                    https://marketplace.visualstudio.com/items?itemName=xyz.local-history (Plugin for maintaining local history of files)
                     https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one
 
             IntelliJ IDEA:
