@@ -311,6 +311,7 @@ Contents:
             Books and Courses:
                 CS50 Introduction to Computer Science , Harvard University
                 https://cs50.harvard.edu
+                https://cs50.edx.org
                 https://cs50.stackexchange.com
                 https://cs50x.slack.com
                 https://discord.gg/cs50
@@ -318,6 +319,7 @@ Contents:
                 https://www.linkedin.com/groups/7437240
                 https://www.reddit.com/r/cs50
                 https://cdn.cs50.net/guide/guide-20.pdf (Unofficial Guide to CS at Harvard)
+                https://www.youtube.com/c/cs50 (cs50 YouTube channel)
 
                 Introduction to Computer Science and Programming Using Python , MIT
                 https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11
@@ -1115,20 +1117,20 @@ Contents:
                 https://adayinthelifeof.nl/2020/05/20/aws.html (A List of One-sentence Descriptions of AWS Services)
                 https://aws.amazon.com/blogs/architecture/top-15-architecture-blog-posts-of-2020
                 https://aws.amazon.com/getting-started/hands-on
-                https://awsstash.com
+                https://awsstash.com (A collection of AWS related videos, podcasts, code repositories, whitepapers, and feature releases, all in a single, easy to search interface.)
                 https://awsvideocatalog.com (AWS Video Catalog is a website that collects all the official Amazon videos)
                 https://comparecloud.in (Public Cloud Services Comparison)
                 https://d1.awsstatic.com/whitepapers/building_an_aws_perimeter.pdf (Building an AWS Perimeter)
                 https://discord.gg/RePKRaYGqM (AWS Discord Group)
                 https://expeditedsecurity.com/aws-in-plain-english
-                https://explore.skillbuilder.aws/learn
+                https://explore.skillbuilder.aws/learn (Your learning center to build in-demand cloud skills)
                 https://github.com/anaibol/awesome-serverless
                 https://github.com/aramalipoor/aws-cost-saver (A tiny CLI tool to help save costs in development environments when you're asleep and don't need them!)
-                https://github.com/awsdocs
+                https://github.com/awsdocs (Amazon Web Services - Documentation)
                 https://github.com/baobabKoodaa/cloudbite (Flashcards to learn AWS skills)
                 https://github.com/bash-my-aws/bash-my-aws (Simple but powerful CLI commands for managing AWS resources)
                 https://github.com/dannysteenman/aws-toolbox (A Collection of Awesome Tools and Scripts for Cloud Engineers )
-                https://github.com/donnemartin/awesome-aws
+                https://github.com/donnemartin/awesome-aws (A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources)
                 https://github.com/dpritchett/aws-budget-limiter (Simple Terraform script for capping monthly AWS spend)
                 https://github.com/dutchcoders/cloudman (Textual user interface to manage ec2 instances.)
                 https://github.com/elpy1/ssh-over-ssm (SSH over AWS SSM. No bastions or public-facing instances. SSH user management through IAM. No requirement to store SSH keys locally or on server.)
@@ -1137,13 +1139,14 @@ Contents:
                 https://github.com/nccgroup/aws-inventory (Discover resources created in an AWS account)
                 https://github.com/Netflix/consoleme (A Central Control Plane for AWS Permissions and Access)
                 https://github.com/rebuy-de/aws-nuke (Nuke a whole AWS account and delete all its resources.)
-                https://github.com/serverless/serverless
-                https://github.com/toniblyx/my-arsenal-of-aws-security-tools
+                https://github.com/serverless/serverless (⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more!)
+                https://github.com/toniblyx/my-arsenal-of-aws-security-tools (List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc. )
                 https://github.com/topics/aws?o=desc&s=stars
                 https://github.com/turbot/steampipe (Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required.)
                 https://github.com/undergroundwires/AWS-in-bullet-points
                 https://github.com/wallix/awless (A Mighty CLI for AWS)
                 https://iam.cloudonaut.io (Creating IAM policies is hard. We collect information from the AWS Documentation to make writing IAM policies easier)
+                https://instances.vantage.sh (Easy Amazon EC2 Instance Comparison)
                 https://linuxacademy-community-slack.herokuapp.com
                 https://slack.lastweekinaws.com (Last Week in AWS Slack Group)
                 https://trustoncloud.com/the-last-s3-security-document-that-well-ever-need (The last S3 security document that we’ll ever need, and how to use it)
@@ -1151,10 +1154,9 @@ Contents:
                 https://www.aws.training (The only set of training programs and offerings built by the experts at AWS.)
                 https://www.awsgeek.com (Cloud Diagrams & Notes)
                 https://www.chrisfarris.com/post/aws-organizations-in-2021 (AWS Organizations - Checklist for 2021)
-                https://www.cisecurity.org/benchmark/amazon_web_services
+                https://www.cisecurity.org/benchmark/amazon_web_services (A step-by-step checklist to secure Amazon Web Services:)
                 https://www.concurrencylabs.com/blog/choose-your-aws-region-wisely
-                https://www.ec2instances.info
-                https://www.lastweekinaws.com/blog/the-17-ways-to-run-containers-on-aws
+                https://www.lastweekinaws.com/blog/the-17-ways-to-run-containers-on-aws (The 17 Ways to Run Containers on AWS)
                 https://www.reddit.com/r/aws
                 https://www.reddit.com/r/aws/comments/on154c/lessons_learned_if_you_could_do_it_all_from_the (Lessons learned: if you could do it "all" from the start again, what would you do differently / anew in your AWS? (self.aws))
                 https://www.reddit.com/r/sysadmin/comments/8inzn5/so_you_want_to_learn_aws_aka_how_do_i_learn_to_be
@@ -1723,6 +1725,7 @@ Contents:
                 https://github.com/Gr1mmie/Practical-Ethical-Hacking-Resources
                 https://github.com/Hack-with-Github/Awesome-Hacking
                 https://github.com/iacsecurity/tool-compare (infrastructure-as-code security tools comparison)
+                https://github.com/Igglybuff/awesome-piracy (A curated list of awesome warez and piracy links)
                 https://github.com/instadoodledavid/Infosec-Deals-2020
                 https://github.com/OWASP/CheatSheetSeries
                 https://github.com/pluja/awesome-privacy (A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.)
