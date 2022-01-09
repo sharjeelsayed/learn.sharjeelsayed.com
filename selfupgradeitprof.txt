@@ -680,6 +680,9 @@ Contents:
                 How Linux Works, 3rd Edition: What Every Superuser Should Know by Brian Ward
                 https://www.amazon.com/How-Linux-Works-Brian-Ward-ebook/dp/B07X7S1JMB
 
+                Introduction to Linux by The Linux Foundation
+                https://www.edx.org/course/introduction-to-linux
+
                 The Linux Command Line by William Shotts
                 https://linuxcommand.org/tlcl.php
 
@@ -1115,19 +1118,15 @@ Contents:
             Sources:
                 http://flaws.cloud (Through a series of levels you'll learn about common mistakes and gotchas when using Amazon Web Services (AWS).)
                 https://adayinthelifeof.nl/2020/05/20/aws.html (A List of One-sentence Descriptions of AWS Services)
-                https://aws.amazon.com/blogs/architecture/top-15-architecture-blog-posts-of-2020
-                https://aws.amazon.com/getting-started/hands-on
+                https://aws.amazon.com/blogs/architecture/top-10-architecture-blog-posts-of-2021 (Top 10 Architecture Blog Posts of 2021)
                 https://awsstash.com (A collection of AWS related videos, podcasts, code repositories, whitepapers, and feature releases, all in a single, easy to search interface.)
                 https://awsvideocatalog.com (AWS Video Catalog is a website that collects all the official Amazon videos)
                 https://comparecloud.in (Public Cloud Services Comparison)
                 https://d1.awsstatic.com/whitepapers/building_an_aws_perimeter.pdf (Building an AWS Perimeter)
-                https://discord.gg/RePKRaYGqM (AWS Discord Group)
                 https://expeditedsecurity.com/aws-in-plain-english
-                https://explore.skillbuilder.aws/learn (Your learning center to build in-demand cloud skills)
                 https://github.com/anaibol/awesome-serverless
                 https://github.com/aramalipoor/aws-cost-saver (A tiny CLI tool to help save costs in development environments when you're asleep and don't need them!)
                 https://github.com/awsdocs (Amazon Web Services - Documentation)
-                https://github.com/baobabKoodaa/cloudbite (Flashcards to learn AWS skills)
                 https://github.com/bash-my-aws/bash-my-aws (Simple but powerful CLI commands for managing AWS resources)
                 https://github.com/dannysteenman/aws-toolbox (A Collection of Awesome Tools and Scripts for Cloud Engineers )
                 https://github.com/donnemartin/awesome-aws (A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources)
@@ -1148,20 +1147,14 @@ Contents:
                 https://iam.cloudonaut.io (Creating IAM policies is hard. We collect information from the AWS Documentation to make writing IAM policies easier)
                 https://instances.vantage.sh (Easy Amazon EC2 Instance Comparison)
                 https://linuxacademy-community-slack.herokuapp.com
-                https://slack.lastweekinaws.com (Last Week in AWS Slack Group)
                 https://trustoncloud.com/the-last-s3-security-document-that-well-ever-need (The last S3 security document that we’ll ever need, and how to use it)
                 https://www.amazon.com/aws-courses/b/?node=14297978011
-                https://www.aws.training (The only set of training programs and offerings built by the experts at AWS.)
-                https://www.awsgeek.com (Cloud Diagrams & Notes)
                 https://www.chrisfarris.com/post/aws-organizations-in-2021 (AWS Organizations - Checklist for 2021)
-                https://www.cisecurity.org/benchmark/amazon_web_services (A step-by-step checklist to secure Amazon Web Services:)
+                https://www.cisecurity.org/benchmark/amazon_web_services (A step-by-step checklist to secure Amazon Web Services)
                 https://www.concurrencylabs.com/blog/choose-your-aws-region-wisely
                 https://www.lastweekinaws.com/blog/the-17-ways-to-run-containers-on-aws (The 17 Ways to Run Containers on AWS)
-                https://www.reddit.com/r/aws
                 https://www.reddit.com/r/aws/comments/on154c/lessons_learned_if_you_could_do_it_all_from_the (Lessons learned: if you could do it "all" from the start again, what would you do differently / anew in your AWS? (self.aws))
-                https://www.reddit.com/r/sysadmin/comments/8inzn5/so_you_want_to_learn_aws_aka_how_do_i_learn_to_be
                 https://www.stackery.io/registry (Enter an AWS CloudFormation template for instant analysis)
-                https://www.wellarchitectedlabs.com (This repository contains documentation and code in the format of hands-on labs to help you learn, measure, and build using architectural best practices)
                 https://youtu.be/B08iQQhXG1Y (The Most Important AWS Services (with an easy to follow example!))
                 https://pinboard.in/u:SharjeelSayed/t:aws
 
@@ -1203,6 +1196,15 @@ Contents:
                 AWS Certified Solutions Architect - Associate 2020 (PASS THE EXAM!) by Andrew Brown of ExamPro, freecodecamp.org
                 https://youtu.be/Ia-UEYYR44s
 
+            AWS Training Resources:
+                https://aws.amazon.com/getting-started/hands-on (Find the hands-on tutorials for your AWS needs)
+                https://explore.skillbuilder.aws/learn (Your learning center to build in-demand cloud skills)
+                https://github.com/baobabKoodaa/cloudbite (Flashcards to learn AWS skills)
+                https://www.aws.training (The only set of training programs and offerings built by the experts at AWS.)
+                https://www.awsgeek.com (Cloud Diagrams & Notes)
+                https://www.reddit.com/r/sysadmin/comments/8inzn5/so_you_want_to_learn_aws_aka_how_do_i_learn_to_be (So, you want to learn AWS? AKA, "How do I learn to be a Cloud Engineer?")
+                https://www.wellarchitectedlabs.com (This repository contains documentation and code in the format of hands-on labs to help you learn, measure, and build using architectural best practices)
+
             AWS Certification Resources:
                 https://aws.amazon.com/certification (AWS Certification Official Page)
                 https://aws.amazon.com/training/learning-paths
@@ -1214,7 +1216,7 @@ Contents:
                 https://tutorialsdojo.com/aws-study-path-notes (AWS Exam Study Guides)
                 https://www.examtopics.com/exams/amazon
                 https://www.reddit.com/r/AWSCertifications/comments/pcj2nk/free_learning_resources_needed_for_aws_solutions/haje9xi (Free Learning Resources needed for "AWS Solutions Architect Associate" exam)
-                https://www.reddit.com/r/AWSCertifications/search/?q=course&restrict_sr=on&t=year
+                https://www.reddit.com/r/AWSCertifications/search/?q=course&restrict_sr=on&t=year (This subreddit focuses solely on AWS Certifications.)
                 https://www.udemy.com/topic/aws-certification/?ratings=4.5&sort=popularity (Udemy Courses rated 4.5 stars and above)
 
             Free AWS Labs:
@@ -1225,6 +1227,11 @@ Contents:
                 https://awsworkshop.io
                 https://workshops.aws
                 https://www.wellarchitectedlabs.com
+
+            AWS Support Groups:
+                https://discord.gg/RePKRaYGqM (AWS Discord Group)
+                https://slack.lastweekinaws.com (Last Week in AWS Slack Group)
+                https://www.reddit.com/r/aws/top (News, articles and tools covering Amazon Web Services (AWS))
 
         Azure:
             Sources:
@@ -1733,6 +1740,7 @@ Contents:
                 https://github.com/robertdavidgraham/masscan (TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.)
                 https://github.com/sbilly/awesome-security
                 https://github.com/security-prince/Application-Security-Engineer-Interview-Questions (Some of the questions which i was asked when i was giving interviews for Application/Product Security roles.)
+                https://github.com/toniblyx/my-arsenal-of-aws-security-tools (List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.)
                 https://github.com/topics/devsecops?o=desc&s=stars
                 https://github.com/topics/oscp?o=desc&s=stars
                 https://github.com/topics/security?o=desc&s=stars
@@ -1759,6 +1767,7 @@ Contents:
                 https://toc.cryptobook.us (A Graduate Course in Applied Cryptography)
                 https://tools.tldr.run (Curated list of security tools for Hackers & Builders!)
                 https://www.cisa.gov/sites/default/files/publications/Federal_Government_Cybersecurity_Incident_and_Vulnerability_Response_Playbooks_508C.pdf (CISA Cybersecurity Incident and Vulnerability Response Playbooks)
+                https://www.cisecurity.org/benchmark/amazon_web_services (A step-by-step checklist to secure Amazon Web Services)
                 https://www.cisecurity.org/cis-benchmarks
                 https://www.coursera.org/learn/crypto (Cryptography I Course by Dan Boneh (Stanford))
                 https://www.cybrary.it
@@ -1944,6 +1953,7 @@ Contents:
                 https://academictorrents.com
                 https://archive.org/search.php?query=subject%3A%22UC+Berkeley%22
                 https://blog.github.com/2018-03-20-top-10-courses-on-github
+                https://coupenger.com/the-curated-list-of-best-coursera-free-courses-for-2022 (The Curated List of Best Coursera Free Courses for (2022))
                 https://freelearninglist.org
                 https://github.com/gerryguy311/CyberProfDevelopmentCovidResources
                 https://github.com/JanVanRyswyck/awesome-talks (Awesome online talks and screencasts )
@@ -2869,6 +2879,7 @@ Contents:
                 https://github.com/philc/vimium
                 https://keepa.com
                 https://languagetoolplus.com
+                https://news.ycombinator.com/item?id=23446504 ("Remove sticky" bookmarklet)
                 https://newsit.benwinding.com
                 https://privacybadger.org
                 https://support.1password.com/getting-started-1password-x
@@ -3480,7 +3491,9 @@ Contents:
         Blogs:
             Sources:
                 https://bloggingfordevs.com/trends (Discover the best developer blogs on any tech stack)
+                https://danluu.com/programming-blogs (Some programming blogs to consider reading)
                 https://fraidyc.at (Fraidycat is a desktop app or browser extension for Firefox or Chrome used to follow people on Twitter, a blog, YouTube, even on a public TiddlyWiki)
+                https://github.com/donnemartin/awesome-aws#blogs (A curated list of AWS blogs)
                 https://github.com/kaizensoze/security-blogs (A list of security blogs.)
                 https://github.com/kilimchoi/engineering-blogs (A curated list of engineering blogs)
                 https://github.com/learn-anything/blogs
@@ -3489,14 +3502,13 @@ Contents:
                 https://news.ycombinator.com/item?id=21928170 (Ask HN: What niche blogs are worthwhile to follow?)
                 https://news.ycombinator.com/item?id=22800136 (Ask HN: What is your blog and why should I read it?)
                 https://news.ycombinator.com/item?id=23206259 (Ask HN: What are some hard-tech blogs that you follow?)
+                https://news.ycombinator.com/item?id=24539445 (Ask HN: Favourite blogs?)
                 https://news.ycombinator.com/item?id=27302195 (Ask HN: Favorite Blogs by Individuals?)
                 https://news.ycombinator.com/item?id=29237308 (Ask HN: What are some great engineering blogs?)
                 https://news.ycombinator.com/item?id=29758396 (Ask HN: Best Engineering Blog Posts?)
                 https://news.ycombinator.com/item?id=9836023 (Ask HN: What tech blogs, podcasts do you follow outside of HN?)
                 https://refined.blog (Curated list of personal blogs)
-                https://news.ycombinator.com/item?id=24539445 (Ask HN: Favourite blogs?)
                 https://wiki.nikitavoloboev.xyz/research/blogs#favorite-blogs
-                https://danluu.com/programming-blogs (Some programming blogs to consider reading)
 
         NewsLetters:
             Sources:
