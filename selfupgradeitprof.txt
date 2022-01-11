@@ -1169,8 +1169,8 @@ Contents:
 
                 Ultimate AWS Certified Solutions Architect Associate 2022 by Stephane Maarek
                 https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c02
-                https://courses.datacumulus.com (Discount codes for the Course)
                 https://courses.datacumulus.com/downloads/certified-solutions-architect-pn9 (AWS Certified Solutions Architect Associate Code & Slides)
+                https://courses.datacumulus.com (Discount codes for the Course)
 
                 AWS Certified Solutions Architect Associate Practice Exams 2022 by Jon Bonso
                 https://portal.tutorialsdojo.com/product/aws-certified-solutions-architect-associate-practice-exams
@@ -1806,6 +1806,9 @@ Contents:
                 https://youtu.be/fNzpcB7ODxQ (Ethical Hacking in 12 Hours - Full Course - Learn to Hack!)
                 https://github.com/TCM-Course-Resources/Practical-Ethical-Hacking-Resources
                 https://youtu.be/WnN6dbos5u8 (Full Ethical Hacking Course - Beginner Network Penetration Testing (2019))
+
+                Open-Source Intelligence (OSINT) in 5 Hours - Full Course - Learn OSINT! by Heath Adams
+                https://youtu.be/qwA6MmbeGNo
 
                 Incident Response & Computer Forensics, Third Edition 3rd Edition by Jason T. Luttgens, Matthew Pepe and Kevin Mandia
                 https://www.amazon.com/Incident-Response-Computer-Forensics-Third/dp/0071798684
@@ -2852,6 +2855,7 @@ Contents:
             Sources:
                 http://ebin.city/~werwolf/posts/firefox-hardening-guide
                 https://browser.engineering (This book explains, building a basic but complete web browser, from networking to JavaScript, in a thousand lines of Python.)
+                https://github.com/topics/bookmark-manager?o=desc&s=stars (Bookmark Manager)
                 https://news.ycombinator.com/item?id=22105561 (Ask HN: How do you manage your bookmarks?)
                 https://news.ycombinator.com/item?id=22778123 (Ask HN: What do you use to keep track of bookmarks/notes/snippets?)
                 https://news.ycombinator.com/item?id=23445382 (Show HN: Some Bookmarklets, I Use (ph-uhl.com))
@@ -3163,6 +3167,9 @@ Contents:
 
     Miscellaneous:
         Touch Typing:
+            Sources:
+                https://news.ycombinator.com/item?id=29867058 (Show HN: Keyboard Drill – Minimalist Typing Drill to fix common mistakes (keyboard-drill.com))
+
             Tools: (Sorted by alexa rank)
                 https://www.typingclub.com (3,533)
                 https://10fastfingers.com (3,880)
@@ -3590,6 +3597,7 @@ Contents:
                 https://restoreprivacy.com/google-alternatives
                 https://restoreprivacy.com/private-secure-email
                 https://runbox.com
+                https://temp-mail.org (Temp Mail provides temporary, secure, anonymous, free, disposable email address.)
                 https://w3techs.com/technologies/overview/email_server
                 https://www.microsoft.com/en-in/microsoft-365/business/compare-all-microsoft-365-business-products
                 https://www.migadu.com
@@ -3886,6 +3894,7 @@ Contents:
         https://news.ycombinator.com/item?id=28232165 (Ask HN: What's the most life-changing blog post you've ever read?)
         https://news.ycombinator.com/item?id=29675397 (	Ask HN: Where are you getting your money's worth?)
         https://per.quest (Enter a URL to an article, post or page with some text on it to listen to it)
+        https://receive-sms-free.cc (Receive SMS online anonymously and fast, without register or a mobile phone)
         https://rfc.fyi (Browse RFCs by keywords, id or collection)
         https://sourceful.co.uk (Discover the best public GoogleDocs and Sheets)
         https://tldrlegal.com (Software Licenses in Plain English)
