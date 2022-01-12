@@ -1853,7 +1853,12 @@ Contents:
                 https://news.ycombinator.com/item?id=29742551 (	macOS Setup after 15 Years of Linux (hookrace.net))
                 https://objective-see.com/products.html (Free Mac Security Tools)
                 https://opensource.com/article/19/5/python-3-default-mac (The right and wrong way to set Python 3 as default on a Mac)
-                https://support.apple.com/en-us/HT201236 (Mac keyboard shortcuts)
+                https://support.apple.com/en-in/guide/terminal/trmlshtcts/mac (Keyboard shortcuts in Terminal on Mac)
+                https://support.apple.com/en-in/HT201236 (Mac keyboard shortcuts)
+                https://support.google.com/chrome/answer/157179 (Chrome keyboard shortcuts)
+                https://support.microsoft.com/en-us/office/keyboard-shortcuts-for-microsoft-teams-2e8e2a70-e8d8-4a19-949b-4c36dd5292d2 (Keyboard shortcuts for Microsoft Teams)
+                https://support.mozilla.org/en-US/kb/keyboard-shortcuts-perform-firefox-tasks-quickly (Keyboard shortcuts - Perform common Firefox tasks quickly)
+                https://support.zoom.us/hc/en-us/articles/205683899-Hot-keys-and-keyboard-shortcuts#collapseMac (Zoom Hot keys and keyboard shortcuts)
                 https://thesweetsetup.com/picks
                 https://universvm.medium.com/20-macos-apps-to-boost-your-productivity-74accb372c9c
                 https://unsplash.com/apps (Unsplash Wallpapers)
@@ -1900,6 +1905,13 @@ Contents:
                 https://www.titanium-software.fr/en/onyx.html (OnyX is a multifunction utility that you can use to verify the structure of the system files)
                 https://www.usboverdrive.com (Take full advantage of any USB or Bluetooth mouse, keyboard, trackball, joystick or gamepad)
                 https://www.zeiss.co.in/vision-care/eye-care-professionals/other-products/lens-cleaning-solutions.html#overlay-benefits-1697194224 (Zeiss Pre-Moistened Lens Cloths Wipes)
+
+            HomeBrew:
+                Essential HomeBrew packages:
+                    amazon-ecs-cli awk awscli bash-completion@2 bind cabextract cheat coreutils eslint ffmpeg findutils fzf gabrie30/utils/ghorg git gnu-sed grep htop isync jq lsof lynx macos-trash moreutils msmtp mutt neomutt neovim nextdns/tap/nextdns openssh openssl@3 pass php pinentry-mac postgresql pstree pyenv rclone restic ripgrep-all rsync screen shellcheck sshuttle telnet tmux topgrade vim watch weaveworks/tap/eksctl wget yt-dlp/taps/yt-dlp z zip
+
+                Essential HomeBrew Casks:
+                    1password alfred alt-tab appcleaner bettertouchtool brave-browser cryptomator dbeaver-community docker evernote fantastical firefox github google-chrome google-drive iina intellij-idea istat-menus iterm2 keepassxc keyboardcleantool launchcontrol little-snitch macfuse microsoft-auto-update microsoft-remote-desktop microsoft-teams mmhmm mos mullvadvpn omnidisksweeper pdf-expert pgadmin4 session-manager-plugin setapp skype slack sublime-merge usb-overdrive veracrypt visual-studio-code zoom
 
             Alfred:
                 http://www.packal.org
@@ -3587,6 +3599,7 @@ Contents:
                 https://nomoregoogle.com
                 https://pinboard.in/u:sharjeelsayed/t:email
                 https://stackoverflow.com/questions/9807909/are-email-addresses-case-sensitive
+                https://www.learndmarc.com (Learn and Test DMARC)
 
             Email Hosting:
                 https://gsuite.google.co.in/intl/en_in/pricing.html
