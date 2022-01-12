@@ -92,7 +92,7 @@ Contents:
         Kindle
         Study Music
         Headphones
-        Mouse
+        Keyboard and Mouse
         Chair
         Ear Plugs
     Miscellaneous:
@@ -1847,6 +1847,7 @@ Contents:
                 https://github.com/serhii-londar/open-source-mac-os-apps (🚀 Awesome list of open source applications for macOS.)
                 https://github.com/topics/macos?o=desc&s=stars
                 https://medium.com/@cav/foss-password-management-with-passwordstore-9d34fec2fe84
+                https://news.ycombinator.com/item?id=20621224 (Ask HN: The most useful Mac keyboard shortcuts?)
                 https://news.ycombinator.com/item?id=24091707 (Ask HN: What feature did you find after years of using macOS?)
                 https://news.ycombinator.com/item?id=24391899 (	Hard to discover tips and apps for macOS (thume.ca))
                 https://news.ycombinator.com/item?id=29577272 (Clever uses of pass, the Unix password manager (vitalyparnas.com))
@@ -3134,19 +3135,32 @@ Contents:
                 The Best Noise-Cancelling Headphones
                 https://www.nytimes.com/wirecutter/reviews/best-noise-cancelling-headphones
 
-        Mouse:
+        Keyboard and Mouse:
             Sources:
                 https://manytricks.com/keycodes (Displays the key code, unicode value, and modifier keys state for any key combination you press)
                 https://mos.caldis.me (A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on MacOS)
+                https://news.ycombinator.com/item?id=20621224 (	Ask HN: The most useful Mac keyboard shortcuts?)
+                https://news.ycombinator.com/item?id=26995906 (	Ask HN: What's your keyboard and what you love and hate about it?)
                 https://news.ycombinator.com/item?id=27958431 (	Ask HN: Does anyone use keyboard/mouse extra buttons for coding?)
+                https://support.apple.com/en-in/guide/terminal/trmlshtcts/mac (Keyboard shortcuts in Terminal on Mac)
+                https://support.apple.com/en-in/HT201236 (Mac keyboard shortcuts)
+                https://support.google.com/chrome/answer/157179 (Chrome keyboard shortcuts)
+                https://support.microsoft.com/en-us/office/keyboard-shortcuts-for-microsoft-teams-2e8e2a70-e8d8-4a19-949b-4c36dd5292d2 (Keyboard shortcuts for Microsoft Teams)
+                https://support.mozilla.org/en-US/kb/keyboard-shortcuts-perform-firefox-tasks-quickly (Keyboard shortcuts - Perform common Firefox tasks quickly)
+                https://support.zoom.us/hc/en-us/articles/205683899-Hot-keys-and-keyboard-shortcuts#collapseMac (Zoom Hot keys and keyboard shortcuts)
+                https://www.amazon.com/Best-Sellers-Computers-Accessories-Keyboards/zgbs/pc/12879431 (Best Sellers in Computer Keyboards)
                 https://www.amazon.com/gp/bestsellers/pc/11036491
+                https://www.amazon.in/gp/bestsellers/computers/1375419031 (Bestsellers in Keyboards)
                 https://www.amazon.in/gp/bestsellers/computers/1375420031
+                https://www.logitech.com/en-in/products/keyboards/mx-keys-mini.920-010506.html (MX Keys Mini)
                 https://www.logitech.com/en-us/products/mice/mx-master-3.910-005620.html
                 https://www.nytimes.com/wirecutter/reviews/best-wireless-mouse
+                https://www.nytimes.com/wirecutter/reviews/the-best-bluetooth-keyboard (The Best Bluetooth Keyboard)
                 https://www.rtings.com/mouse
                 https://www.smoothscroll.net/mac (SmoothScroll will give your mouse wheel (Finder, Safari, Chrome, etc.) buttery smooth scrolling)
                 https://www.usboverdrive.com (Take full advantage of any USB or Bluetooth mouse, keyboard, trackball, joystick or gamepad.)
                 https://www.youtube.com/results?search_query=best+mouse+mac&sp=CAM%253D (Best Mouse for Mac)
+                https://www.youtube.com/results?search_query=mx+keys+mini (MX Keys Mini Reviews)
                 https://www.youtube.com/results?search_query=mx+master+3&sp=CAM%253D (MX Master 3 Reviews)
                 https://www.youtube.com/watch?v=eYu8CzaFymU&t=307s (I found the best Mouse for Programming)
                 https://youtu.be/3qTzJfzDkwM (MX Master 3 - Advanced wireless mouse - Tutorial on app specific settings)
