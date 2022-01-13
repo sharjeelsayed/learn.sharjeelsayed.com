@@ -2883,6 +2883,7 @@ Contents:
                 https://addons.mozilla.org/en-US/firefox/addon/to-google-translate (To Google Translate)
                 https://addons.mozilla.org/en-US/firefox/addon/wayback-machine_new
                 https://addons.mozilla.org/en-US/firefox/search/?page=1&promoted=recommended&sort=users
+                https://darkreader.org (Dark Reader is an open source eye-care browser extension)
                 https://github.com/ClearURLs/Addon
                 https://github.com/Cookie-AutoDelete/Cookie-AutoDelete
                 https://github.com/deanishe/alfred-firefox
@@ -3478,8 +3479,9 @@ Contents:
 
                 Reddit:
                     Sources:
-                        https://www.findareddit.com (Find Subreddits for your Niche)
                         https://redditfavorites.com (Reddit Favorites From 3.5 billion comments)
+                        https://subredditstats.com/subreddit-user-overlaps (Type a subreddit name to list its overlaps with other subreddits)
+                        https://www.findareddit.com (Find Subreddits for your Niche)
 
                     Subscriptions:
                         https://www.reddit.com/r/1Password+AWSCertifications+Alfred+AppHookup+AppleWatch+CryptoCurrency+DataHoarder+Documentaries+ExperiencedDevs+FreeEBOOKS+ITCareerQuestions+IndiaInvestments+KindleFreebies+Piracy+Terraform+Ubuntu+Udemy+Upwork+announcements+ansible+antiwork+apple+appletv+aws+compsci+cscareerquestions+dataisbeautiful+devops+docker+freelance+hackernews+india+ipad+iphone+juul+kindle+kubernetes+learnprogramming+linux+linuxadmin+linuxupskillchallenge+mac+macapps+movies+netsec+nextdns+onebag+osx+programming+science+solotravel+sysadmin+technology+television+todayilearned+todoist+travel+udemyfreebies+usefulscripts+worldnews
