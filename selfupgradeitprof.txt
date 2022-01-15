@@ -580,12 +580,14 @@ Contents:
                 https://devopsengineers.com (SLACK CHANNEL)
                 https://devopsnewsletters.com
                 https://github.com/AcalephStorage/awesome-devops
-                https://github.com/bregman-arie/devops-resources
+                https://github.com/bregman-arie/devops-exercises
+                https://github.com/bregman-arie/devops-resources (DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP Topics)
                 https://github.com/Leo-G/DevopsWiki
                 https://github.com/microsoft/code-with-engineering-playbook (This is the playbook for "code-with" customer or partner engagements)
                 https://github.com/nmarus/docker-devops-box
                 https://github.com/Tikam02/DevOps-Guide
                 https://github.com/topics/devops?o=desc&s=stars
+                https://github.com/wmariuss/awesome-devops ( A curated list of awesome DevOps tools, platforms and resources)
                 https://infinite.education/view/devops_engineer_2
                 https://learn-anything.xyz/programming/software-development/devops
                 https://news.ycombinator.com/item?id=14652993 (Ask HN: DevOps learning resources)
@@ -783,6 +785,7 @@ Contents:
                 https://github.com/anderspitman/awesome-tunneling (List of ngrok alternatives and other ngrok-like tunneling software and services. Focus on self-hosting)
                 https://github.com/moul/awesome-ssh
                 https://github.com/topics/ssh?o=desc&s=stars
+                https://goteleport.com/blog/security-hardening-ssh-bastion-best-practices (SSH Bastion Host Best Practices)
                 https://news.ycombinator.com/item?id=10726158 (Poor man's VPN via ssh socks proxy (redpill-linpro.com))
                 https://news.ycombinator.com/item?id=26053323 (	A visual guide to SSH tunnels (robotmoon.com))
                 https://susam.in/blog/file-transfer-with-ssh-tee-and-base64.html (File Transfer with SSH, Tee, and Base64)
@@ -2600,10 +2603,10 @@ Contents:
                 https://news.ycombinator.com/item?id=21728436 (Ask HN: What mistakes did you make when starting as a consultant/freelancer?)
                 https://news.ycombinator.com/item?id=26995874 (Ask HN: How did you transition from FTE to self-employed/sole proprietor?)
                 https://www.reddit.com/r/Upwork+forhire+freelance
-                https://www.upwork.com/press/2019/08/14/q2-2019-skills
-                https://www.upwork.com/press/2019/11/19/the-upwork-100-q3-2019
                 https://www.upwork.com/press/2020/09/01/upwork-releases-top-paying-programming-languages-for-independent-web-mobile-and-software-developers
                 https://www.upwork.com/press/releases/upwork-releases-top-15-most-in-demand-skills-for-independent-web-mobile-and-software-developers
+                https://www.upwork.com/press/releases/upwork-releases-top-paying-programming-languages-for-independent-web-mobile-and-software-developers
+                https://www.upwork.com/press/releases/upwork-unveils-top-10-most-in-demand-skills-for-technology-marketing-and-customer-service-independent-talent-in-2022
                 https://www.youtube.com/watch?v=NxmcfrFrYEA&t=1327s (How the client sees your proposal)
                 https://youtu.be/PTzJlrahqgc (The COMPLETE Upwork Tutorial for Beginners!)
 
