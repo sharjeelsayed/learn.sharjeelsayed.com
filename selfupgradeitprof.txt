@@ -784,6 +784,7 @@ Contents:
                 http://www.g-loaded.eu/2006/11/24/auto-closing-ssh-tunnels # Auto-closing SSH tunnels
                 https://github.com/anderspitman/awesome-tunneling (List of ngrok alternatives and other ngrok-like tunneling software and services. Focus on self-hosting)
                 https://github.com/moul/awesome-ssh
+                https://github.com/opsdisk/the_cyber_plumbers_handbook (The definitive guide to Secure Shell (SSH) tunneling, port redirection, and bending traffic like a boss.)
                 https://github.com/topics/ssh?o=desc&s=stars
                 https://goteleport.com/blog/security-hardening-ssh-bastion-best-practices (SSH Bastion Host Best Practices)
                 https://news.ycombinator.com/item?id=10726158 (Poor man's VPN via ssh socks proxy (redpill-linpro.com))
@@ -1168,7 +1169,7 @@ Contents:
                 https://github.com/alozano-77/AWS-SAA-C02-Course (Personal notes for SAA-C02 test from: https://learn.cantrill.io)
                 https://techstudyslack.com
                 https://talk.cantrill.io
-                https://cantrill.io.i-aws.cloud
+                https://cantrill.io.i-aws.cloud (Statistics about Adrian Cantrill's courses)
 
                 Ultimate AWS Certified Solutions Architect Associate 2022 by Stephane Maarek
                 https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c02
@@ -1834,6 +1835,7 @@ Contents:
                 https://dev.to/wes/how2-using-gpg-on-macos-without-gpgtools-428f
                 https://discord.gg/apple (Discord server for /r/Apple)
                 https://dotfilehub.com
+                https://draculatheme.com (A dark theme)
                 https://ghuntley.com/anywhere (Reflections on software development from anywhere on an iPad)
                 https://gist.github.com/nmcc/4e8ead6c380d8331fedd04e1aa41d351 (Install Consolas font on Mac)
                 https://git.herrbischoff.com/awesome-macos-command-line/about (A curated list of shell commands and tools specific to macOS)
