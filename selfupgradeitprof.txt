@@ -918,7 +918,7 @@ Contents:
                 https://100daysofkubernetes.io
                 https://argoproj.github.io/argo-cd (Declarative GitOps CD for Kubernetes)
                 https://blog.pipetail.io/posts/2020-05-04-most-common-mistakes-k8s
-                https://blog.udemy.com/kubernetes-interview-questions
+                https://blog.udemy.com/kubernetes-interview-questions (7 Kubernetes Interview Questions You Should Be Able to Answer)
                 https://catalog.us-east-1.prod.workshops.aws/v2/workshops/9da471a0-266a-4d36-8596-e5934aeedd1f/en-US (AWS Policy as Code Workshop)
                 https://chrisshort.net/kubernetes-illustrated-childrens-guide
                 https://cloud.redhat.com/blog/top-open-source-kubernetes-security-tools-of-2021 (Top Open Source Kubernetes Security Tools of 2021)
@@ -1541,7 +1541,7 @@ Contents:
                 https://github.com/jesseduffield/lazygit (simple terminal UI for git commands)
                 https://github.com/k88hudson/git-flight-rules (Flight rules for git)
                 https://github.com/LeCoupa/awesome-cheatsheets/blob/master/tools/git.sh
-                https://github.com/pluralsight/git-internals-pdf/releases (A PDF by Scott Chacon about how the Git source code control system stores files and revisions.)
+                https://github.com/pluralsight/git-internals-pdf/releases (PeepCode Git Internals PDF:A PDF by Scott Chacon about how the Git source code control system stores files and revisions.)
                 https://github.com/topics/git?o=desc&s=stars
                 https://github.com/toptal/gitignore.io
                 https://github.com/UnseenWizzard/git_training (An interactive git training meant to teach you how git works, not just which commands to execute)
@@ -2264,6 +2264,7 @@ Contents:
             Sources:
                 https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=regex&sort=byPopularity&type=story
                 https://news.ycombinator.com/item?id=20608032 (Regex for Noobs – An Illustrated Guide (janmeppe.com))
+                https://news.ycombinator.com/item?id=29251702 (Learn RegEx step by step, from zero to advanced (regexlearn.com))
 
             Books and Courses:
                 Regular Expressions Cookbook: Detailed Solutions in Eight Programming Languages 2nd Edition
