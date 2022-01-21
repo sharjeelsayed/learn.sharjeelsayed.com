@@ -93,6 +93,7 @@ Contents:
         Study Music
         Headphones
         Keyboard and Mouse
+        Webcam
         Chair
         Ear Plugs
     Miscellaneous:
@@ -186,11 +187,11 @@ Contents:
 
             Structure and Interpretation of Computer Programs - 2nd Edition
             Sources:
+                https://news.ycombinator.com/item?id=11465234 (Composing Programs – Python 3 in the tradition of SICP)
+                https://news.ycombinator.com/item?id=13918465 (Beautiful Online SICP)
                 https://news.ycombinator.com/item?id=17651797 (Composing Programs – An introduction to programming in the tradition of SICP)
                 https://news.ycombinator.com/item?id=17666133 (Paul Graham on SICP (2000))
                 https://news.ycombinator.com/item?id=18890417 (If not SICP, then what? Maybe HTDP?)
-                https://news.ycombinator.com/item?id=13918465 (Beautiful Online SICP)
-                https://news.ycombinator.com/item?id=11465234 (Composing Programs – Python 3 in the tradition of SICP)
                 https://news.ycombinator.com/item?id=30016323 (SICP: JavaScript Edition available for pre-order (mitpress.mit.edu))
 
             SICP Online:
@@ -199,23 +200,23 @@ Contents:
                 https://xuanji.appspot.com/isicp (Interactive Structure and Interpretation of Computer Programs)
 
             SICP MIT 6.001:
+                https://mitpress.mit.edu/sites/default/files/sicp/index.html (This site is a companion to the influential computer-science text Structure and Interpretation of Computer Programs, by Abelson, Sussman, and Sussman)
                 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005 (MIT Course Number 6.001 Spring 2005 by Peter Szolovits and Trevor Darrell)
                 https://www.youtube.com/playlist?list=PL7BcsI5ueSNFPCEisbaoQ0kXIDX9rR5FF (MIT's legendary introductory computer science course, 6.001 Structure and Interpretation of Computer Programs (SICP), as taught by Prof. Eric Grimson in 2004)
-                https://mitpress.mit.edu/sites/default/files/sicp/index.html (This site is a companion to the influential computer-science text Structure and Interpretation of Computer Programs, by Abelson, Sussman, and Sussman)
                 https://www.youtube.com/playlist?list=PLE18841CABEA24090 (These twenty video lectures by Hal Abelson and Gerald Jay Sussman are a complete presentation of the course, given in July 1986 for Hewlett-Packard employees
 
             SICP CS 61A Berkeley:
                 https://cs61a.org (CS 61A: Structure and Interpretation of Computer Programs Spring 2022 by Pamela Fox)
-                http://inst.eecs.berkeley.edu/~cs61a/fa16 (CS 61A: The Structure and Interpretation of Computer Programs - Fall 2016  by John DeNero)
                 http://inst.eecs.berkeley.edu/~cs61a/sp17 (CS 61A: The Structure and Interpretation of Computer Programs - Spring 2017 by Paul Hilfinger)
+                http://inst.eecs.berkeley.edu/~cs61a/fa16 (CS 61A: The Structure and Interpretation of Computer Programs - Fall 2016  by John DeNero)
 
             SICP Python Edition:
-                http://www.composingprograms.com (These concepts are illustrated primarily using the Python 3 programming language)
                 https://wizardforcel.gitbooks.io/sicp-in-python (This book is derived from the classic textbook Structure and Interpretation of Computer Programs by Abelson, Sussman, and Sussman. John Denero originally modified if for Python for the Fall 2011 semester)
+                https://www.composingprograms.com (These concepts are illustrated primarily using the Python 3 programming language)
 
             SICP JavaScript Edition:
-                https://sourceacademy.org/sicpjs/index (SICP JavaScript Edition By Harold Abelson, Gerald Jay Sussman, Martin Henz and Tobias Wrigstad)
                 https://github.com/source-academy/sicp (XML sources of SICP and SICP JS, and support for generating Interactive SICP JS, PDF, e-book and comparison editions)
+                https://sourceacademy.org/sicpjs/index (SICP JavaScript Edition By Harold Abelson, Gerald Jay Sussman, Martin Henz and Tobias Wrigstad)
 
             Computer Systems: A Programmer's Perspective (3rd Edition)
             https://www.amazon.com/Computer-Systems-Programmers-Perspective-3rd/dp/013409266X
@@ -3185,6 +3186,22 @@ Contents:
                 https://www.youtube.com/results?search_query=mx+master+3&sp=CAM%253D (MX Master 3 Reviews)
                 https://www.youtube.com/watch?v=eYu8CzaFymU&t=307s (I found the best Mouse for Programming)
                 https://youtu.be/3qTzJfzDkwM (MX Master 3 - Advanced wireless mouse - Tutorial on app specific settings)
+
+        Webcam:
+            Sources:
+                https://www.amazon.com/gp/bestsellers/pc/172511 (Best Sellers in Webcams)
+                https://www.amazon.in/gp/bestsellers/computers/1375463031 (Best Sellers in Webcams)
+                https://www.nytimes.com/wirecutter/reviews/the-best-webcams
+                https://www.theverge.com/22652783/best-webcam-camera
+
+            Logitech Brio 4K Webcam:
+                https://prosupport.logi.com/hc/en-in/articles/360039591834-Downloads-BRIO (BRIO Downloads)
+                https://www.amazon.com/Logitech-Calling-Noise-Canceling-Correction-Microsoft/dp/B01N5UOYC4
+                https://www.logitech.com/en-in/products/webcams/brio-4k-hdr-webcam.960-001105.html
+
+            Webcam Softwares:
+                https://obsproject.com (Free and open source software for video recording and live streaming.)
+                https://www.mmhmm.app (Phenomenal videos, simply produced)
 
         Chair:
             Sources:
