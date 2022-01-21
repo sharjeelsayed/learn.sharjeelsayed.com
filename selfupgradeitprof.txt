@@ -3314,23 +3314,23 @@ Contents:
                 https://en.wikipedia.org/wiki/Cosmos:_A_Spacetime_Odyssey
 
             Science Magazines:
-                https://www.nationalgeographic.com (4,426)
-                https://www.scientificamerican.com (6,101)
-                https://www.popularmechanics.com (8,179)
-                https://www.smithsonianmag.com (8,337)
-                https://www.technologyreview.com (10,796)
-                https://phys.org (11,820)
-                https://www.popsci.com (13,367)
-                https://www.newscientist.com (15,396)
-                https://www.discovermagazine.com (19,361)
-                https://www.sciencefocus.com (34,323)
-                https://www.annualreviews.org (35,964)
-                https://www.quantamagazine.org (38,811)
-                https://www.sciencenews.org (42,832)
-                http://nautil.us (78,693)
-                https://physicsworld.com (104,938)
-                https://facts.net (125,154)
-                https://www.americanscientist.org (200,804)
+                https://www.nationalgeographic.com (5,262)
+                https://www.scientificamerican.com (6,255)
+                https://www.popularmechanics.com (9,174)
+                https://www.smithsonianmag.com (9,333)
+                https://www.technologyreview.com (12,480)
+                https://www.popsci.com (12,904)
+                https://www.newscientist.com (13,688)
+                https://phys.org (13,801)
+                https://www.discovermagazine.com (21,119)
+                https://www.sciencefocus.com (32,681)
+                https://www.quantamagazine.org (34,649)
+                https://www.annualreviews.org (36,761)
+                https://www.sciencenews.org (42,973)
+                http://nautil.us (95,454)
+                https://facts.net (103,967)
+                https://physicsworld.com (132,956)
+                https://www.americanscientist.org (239,806)
 
         Design:
             Sources:
@@ -3966,6 +3966,7 @@ Contents:
         https://tldrlegal.com (Software Licenses in Plain English)
         https://twitter.com/search?q=Gone%20Free%20(from%3ASharjeelSayed)
         https://wizardzines.com/comics
+        https://www.codingfont.com (Gamified experience to help you find your true love of coding fonts!)
         https://www.justwatch.com/in?genres=doc
         https://www.nala.ie/resources/better-handwriting-adults
         https://www.nytimes.com/interactive/2021/science/astronomy-space-calendar.html (Sync your calendar with the solar system)
