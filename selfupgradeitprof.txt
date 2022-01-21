@@ -144,7 +144,6 @@ Contents:
             https://news.ycombinator.com/item?id=15899383 (	Ask HN: Fully online CS degrees?)
             https://news.ycombinator.com/item?id=16591918 (Ask HN: “Write your own” or “Build your own” software projects)
             https://news.ycombinator.com/item?id=17031609 (Ask HN: Books you should have read when you start a career in SE / CS?)
-            https://news.ycombinator.com/item?id=18890417 (If not SICP, then what? Maybe HTDP?)
             https://news.ycombinator.com/item?id=20729252 (Ask HN: What book to read to get a footing in CS theory?)
             https://news.ycombinator.com/item?id=21311302 (Ask HN: What are the most fundamental books on computer science?)
             https://news.ycombinator.com/item?id=21919465 (Ask HN: How do I choose the right resource to learn CS fundamentals?)
@@ -186,18 +185,37 @@ Contents:
             https://github.com/ossu/computer-science
 
             Structure and Interpretation of Computer Programs - 2nd Edition
-            http://inst.eecs.berkeley.edu/~cs61a/fa16 (Instructor: John DeNero)
-            http://inst.eecs.berkeley.edu/~cs61a/sp17
-            http://sarabander.github.io/sicp
-            http://www.composingprograms.com
-            https://cs61a.org
-            https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/index.htm
-            https://www.youtube.com/playlist?list=PL7BcsI5ueSNFPCEisbaoQ0kXIDX9rR5FF
-            https://www.youtube.com/playlist?list=PLE18841CABEA24090
-            https://xuanji.appspot.com/isicp
-            https://mitpress.mit.edu/sites/default/files/sicp/index.html
-            https://opendocs.github.io/sicp/sicp.pdf
-            https://wizardforcel.gitbooks.io/sicp-in-python
+            Sources:
+                https://news.ycombinator.com/item?id=17651797 (Composing Programs – An introduction to programming in the tradition of SICP)
+                https://news.ycombinator.com/item?id=17666133 (Paul Graham on SICP (2000))
+                https://news.ycombinator.com/item?id=18890417 (If not SICP, then what? Maybe HTDP?)
+                https://news.ycombinator.com/item?id=13918465 (Beautiful Online SICP)
+                https://news.ycombinator.com/item?id=11465234 (Composing Programs – Python 3 in the tradition of SICP)
+                https://news.ycombinator.com/item?id=30016323 (SICP: JavaScript Edition available for pre-order (mitpress.mit.edu))
+
+            SICP Online:
+                http://sarabander.github.io/sicp (Unofficial Texinfo Format 2.andresraba6.6)
+                https://opendocs.github.io/sicp/sicp.pdf (Unofficial Texinfo Format 2.andresraba6.6)
+                https://xuanji.appspot.com/isicp (Interactive Structure and Interpretation of Computer Programs)
+
+            SICP MIT 6.001:
+                https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005 (MIT Course Number 6.001 Spring 2005 by Peter Szolovits and Trevor Darrell)
+                https://www.youtube.com/playlist?list=PL7BcsI5ueSNFPCEisbaoQ0kXIDX9rR5FF (MIT's legendary introductory computer science course, 6.001 Structure and Interpretation of Computer Programs (SICP), as taught by Prof. Eric Grimson in 2004)
+                https://mitpress.mit.edu/sites/default/files/sicp/index.html (This site is a companion to the influential computer-science text Structure and Interpretation of Computer Programs, by Abelson, Sussman, and Sussman)
+                https://www.youtube.com/playlist?list=PLE18841CABEA24090 (These twenty video lectures by Hal Abelson and Gerald Jay Sussman are a complete presentation of the course, given in July 1986 for Hewlett-Packard employees
+
+            SICP CS 61A Berkeley:
+                https://cs61a.org (CS 61A: Structure and Interpretation of Computer Programs Spring 2022 by Pamela Fox)
+                http://inst.eecs.berkeley.edu/~cs61a/fa16 (CS 61A: The Structure and Interpretation of Computer Programs - Fall 2016  by John DeNero)
+                http://inst.eecs.berkeley.edu/~cs61a/sp17 (CS 61A: The Structure and Interpretation of Computer Programs - Spring 2017 by Paul Hilfinger)
+
+            SICP Python Edition:
+                http://www.composingprograms.com (These concepts are illustrated primarily using the Python 3 programming language)
+                https://wizardforcel.gitbooks.io/sicp-in-python (This book is derived from the classic textbook Structure and Interpretation of Computer Programs by Abelson, Sussman, and Sussman. John Denero originally modified if for Python for the Fall 2011 semester)
+
+            SICP JavaScript Edition:
+                https://sourceacademy.org/sicpjs/index (SICP JavaScript Edition By Harold Abelson, Gerald Jay Sussman, Martin Henz and Tobias Wrigstad)
+                https://github.com/source-academy/sicp (XML sources of SICP and SICP JS, and support for generating Interactive SICP JS, PDF, e-book and comparison editions)
 
             Computer Systems: A Programmer's Perspective (3rd Edition)
             https://www.amazon.com/Computer-Systems-Programmers-Perspective-3rd/dp/013409266X
@@ -249,11 +267,9 @@ Contents:
                 https://mapfilterfold.com/?genre=programming
                 https://missing.csail.mit.edu (The Missing Semester of Your CS Education)
                 https://morningcupofcoding.com
-                https://news.ycombinator.com/item?id=11465234 (Composing Programs – Python 3 in the tradition of SICP)
                 https://news.ycombinator.com/item?id=12702651 (Ask HN: What is your favorite YouTube channel for developers?)
                 https://news.ycombinator.com/item?id=12718102 (Programming books you might want to consider reading)
                 https://news.ycombinator.com/item?id=13597949 (The most mentioned books on Stack Overflow)
-                https://news.ycombinator.com/item?id=13918465 (Beautiful Online SICP)
                 https://news.ycombinator.com/item?id=14169760 (Resources on creating programming languages)
                 https://news.ycombinator.com/item?id=14486657 (Ask HN: What language-agnostic programming books should I read?)
                 https://news.ycombinator.com/item?id=14627137 (CS61A Structure and Interpretation of Computer Programs)
@@ -271,8 +287,6 @@ Contents:
                 https://news.ycombinator.com/item?id=16535886 (Ask HN: Best way to learn modern C++?)
                 https://news.ycombinator.com/item?id=16952222 (Competitive Programmer's Handbook (2017) [pdf] (cses.fi))
                 https://news.ycombinator.com/item?id=17390527 (DevTube: Searchable index of developer videos (dev.tube))
-                https://news.ycombinator.com/item?id=17651797 (Composing Programs – An introduction to programming in the tradition of SICP)
-                https://news.ycombinator.com/item?id=17666133 (Paul Graham on SICP (2000))
                 https://news.ycombinator.com/item?id=17965917 (Ask HN: What's a starting point for learning how to write programming languages?)
                 https://news.ycombinator.com/item?id=18046722 (What are some things that only someone who has been programming 20 years knows? (quora.com))
                 https://news.ycombinator.com/item?id=18128477 (Ask HN: What is your best advice for a junior software developer?)
@@ -2171,8 +2185,8 @@ Contents:
                 https://github.com/codeSTACKr/free-developer-resources
                 https://github.com/dypsilon/frontend-dev-bookmarks
                 https://github.com/h5bp/Front-end-Developer-Interview-Questions
-                https://github.com/h5bp/Front-end-Developer-Interview-Questions
                 https://github.com/lauragift21/awesome-learning-resources
+                https://github.com/loettz/interview-process-survival (🌈 🦄 this repository is a interview process guide for developers (web/frontend focused))
                 https://github.com/markodenic/web-development-resources
                 https://github.com/thedaviddias/Front-End-Performance-Checklist
                 https://github.com/topics/front-end?o=desc&s=stars
