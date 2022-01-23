@@ -16,6 +16,7 @@ Contents:
         Operating Systems Concepts
         Networking
         Data Engineering
+        Electronics
     DevOps/SRE/SysAdmin:
         DevOps
         SRE
@@ -92,15 +93,14 @@ Contents:
         Kindle
         Study Music
         Headphones
-        Keyboard and Mouse
-        Webcam
         Chair
         Ear Plugs
     Miscellaneous:
-        Touch Typing
         Microsoft Excel
+        Touch Typing
+        Keyboard and Mouse
+        Webcam
         Diagrams
-        Electronics
         Science
         Design
         News
@@ -562,6 +562,25 @@ Contents:
                 Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems
                 https://dataintensive.net
                 https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable-ebook/dp/B06XPJML5D
+
+        Electronics:
+            Sources:
+                https://electroagenda.com/en/a-summary-of-electronics
+                https://news.ycombinator.com/item?id=16775744 (Ask HN: How to self-learn electronics?)
+                https://news.ycombinator.com/item?id=16920476 (Ask HN: Where did you learn modular electronics?)
+                https://news.ycombinator.com/item?id=20126760 (Open Source Electronics Lab for $30 (github.com))
+                https://news.ycombinator.com/item?id=23562181 (Ask HN: What are some good resources to learn how electricity works?)
+                https://www.reddit.com/r/AskElectronics/wiki
+
+            Books and Courses:
+                The Art of Electronics 3rd Edition
+                https://www.amazon.com/Art-Electronics-Paul-Horowitz/dp/0521809266
+
+                6.002.1x "Circuits and Electronics 1: Basic Circuit Analysis" Based on 6.002 MIT Course
+                https://courses.edx.org/courses/course-v1:MITx+6.002.1x_1+2T2016/info
+
+                Lessons in Electric Circuits
+                https://www.allaboutcircuits.com/textbook
 
     DevOps/SRE/SysAdmin:
         Sources:
@@ -1832,6 +1851,9 @@ Contents:
                 Incident Response & Computer Forensics, Third Edition 3rd Edition by Jason T. Luttgens, Matthew Pepe and Kevin Mandia
                 https://www.amazon.com/Incident-Response-Computer-Forensics-Third/dp/0071798684
 
+                Security Engineering: A Guide to Building Dependable Distributed Systems by Ross Anderson 3rd Edition 2020
+                https://www.amazon.com/Security-Engineering-Building-Dependable-Distributed/dp/1119642787
+
         Hardware:
             Sources:
                 https://github.com/alexellis/awesome-baremetal
@@ -2317,6 +2339,7 @@ Contents:
         IDE:
             Sources:
                 https://editorconfig.org
+                https://www.codingfont.com (Gamified experience to help you find your true love of coding fonts!)
 
             Visual Studio Code:
                 Sources:
@@ -3157,6 +3180,57 @@ Contents:
                 The Best Noise-Cancelling Headphones
                 https://www.nytimes.com/wirecutter/reviews/best-noise-cancelling-headphones
 
+        Chair:
+            Sources:
+                https://atlasheadrest.com/products/headrest-for-remastered-aeron-chair
+                https://dack.com/misc/aeron.html (The Aeron Chair Sucks)
+                https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=ask%20HN%3A%20chair%20&sort=byPopularity&type=all (ask HN: chair )
+                https://news.ycombinator.com/item?id=27540941 (Ask HN: Have you found a good desk chair?)
+                https://www.lumens.com/how-tos-and-advice/buyers-guide-to-aeron-chair.html
+                https://www.nytimes.com/wirecutter/reviews/best-office-chair
+                https://www.reddit.com/r/hermanmiller/wiki
+                https://www.reddit.com/r/OfficeChairs
+                https://www.store.hermanmiller.in/products/chairs-office-chairs-embody/bill-stumpf-and-jeff-weber/embody-chair/pid-11056242.aspx
+                https://www.youtube.com/results?search_query=herman+miller+embody&sp=CAM%253D (herman miller embody)
+                https://youtu.be/NHFqCFe0i2k (The TRUTH About The Herman Miller AERON Ergonomic Office Chair | Steelcase Leap V2 vs Aeron Review)
+                https://youtu.be/x-aeDaHIEbY (Get A Herman Miller Aeron for CHEAP + Buying Guide!!!)
+
+            The Four Kings of chairs are the Herman-Miller Aeron, the HM Embody, the Steelcase Leap, & the Steelcase Gesture
+
+        Ear Plugs:
+            Sources:
+                https://www.nytimes.com/wirecutter/reviews/best-earplugs-for-sleeping
+                https://www.amazon.com/gp/bestsellers/hpc/3779871
+
+            Sites:
+                Mack's Ultra Soft Foam Earplugs
+                https://www.amazon.com/Macks-Ultra-Soft-Foam-Earplugs/dp/B0051U7W32
+
+    Miscellaneous:
+        Microsoft Excel:
+            Sources:
+                https://www.reddit.com/r/excel/comments/2e28s3/rexcel_advice_thread_repository
+                https://news.ycombinator.com/item?id=12448545 (You Suck at Excel with Joel Spolsky (2015) [video])
+
+            Books and Courses:
+                You Suck at Excel with Joel Spolsky
+                https://youtu.be/0nbkaYsR94c
+
+                Excel 2019 Bible 1st Edition
+                https://www.amazon.com/Excel-2019-Bible-Michael-Alexander/dp/1119514789
+
+        Touch Typing:
+            Sources:
+                https://news.ycombinator.com/item?id=29867058 (Show HN: Keyboard Drill – Minimalist Typing Drill to fix common mistakes (keyboard-drill.com))
+
+            Tools: (Sorted by alexa rank)
+                https://www.typingclub.com (3,533)
+                https://10fastfingers.com (3,880)
+                https://www.keybr.com (9,760)
+                https://play.typeracer.com (10,476)
+                https://monkeytype.com (13,516)
+                https://keyboard-drill.com (2,771,972)
+
         Keyboard and Mouse:
             Sources:
                 https://manytricks.com/keycodes (Displays the key code, unicode value, and modifier keys state for any key combination you press)
@@ -3189,9 +3263,11 @@ Contents:
 
         Webcam:
             Sources:
+                https://github.com/Itaybre/CameraController (📷 Control USB Cameras from an app)
                 https://www.amazon.com/gp/bestsellers/pc/172511 (Best Sellers in Webcams)
                 https://www.amazon.in/gp/bestsellers/computers/1375463031 (Best Sellers in Webcams)
                 https://www.nytimes.com/wirecutter/reviews/the-best-webcams
+                https://www.reddit.com/r/mac/comments/s3yeq1/tip_if_your_mac_supports_portrait_mode_you_might
                 https://www.theverge.com/22652783/best-webcam-camera
 
             Logitech Brio 4K Webcam:
@@ -3203,80 +3279,11 @@ Contents:
                 https://obsproject.com (Free and open source software for video recording and live streaming.)
                 https://www.mmhmm.app (Phenomenal videos, simply produced)
 
-        Chair:
-            Sources:
-                https://atlasheadrest.com/products/headrest-for-remastered-aeron-chair
-                https://dack.com/misc/aeron.html (The Aeron Chair Sucks)
-                https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=ask%20HN%3A%20chair%20&sort=byPopularity&type=all (ask HN: chair )
-                https://news.ycombinator.com/item?id=27540941 (Ask HN: Have you found a good desk chair?)
-                https://www.lumens.com/how-tos-and-advice/buyers-guide-to-aeron-chair.html
-                https://www.nytimes.com/wirecutter/reviews/best-office-chair
-                https://www.reddit.com/r/hermanmiller/wiki
-                https://www.reddit.com/r/OfficeChairs
-                https://www.store.hermanmiller.in/products/chairs-office-chairs-embody/bill-stumpf-and-jeff-weber/embody-chair/pid-11056242.aspx
-                https://www.youtube.com/results?search_query=herman+miller+embody&sp=CAM%253D (herman miller embody)
-                https://youtu.be/NHFqCFe0i2k (The TRUTH About The Herman Miller AERON Ergonomic Office Chair | Steelcase Leap V2 vs Aeron Review)
-                https://youtu.be/x-aeDaHIEbY (Get A Herman Miller Aeron for CHEAP + Buying Guide!!!)
-
-            The Four Kings of chairs are the Herman-Miller Aeron, the HM Embody, the Steelcase Leap, & the Steelcase Gesture
-
-        Ear Plugs:
-            Sources:
-                https://www.nytimes.com/wirecutter/reviews/best-earplugs-for-sleeping
-                https://www.amazon.com/gp/bestsellers/hpc/3779871
-
-            Sites:
-                Mack's Ultra Soft Foam Earplugs
-                https://www.amazon.com/Macks-Ultra-Soft-Foam-Earplugs/dp/B0051U7W32
-
-    Miscellaneous:
-        Touch Typing:
-            Sources:
-                https://news.ycombinator.com/item?id=29867058 (Show HN: Keyboard Drill – Minimalist Typing Drill to fix common mistakes (keyboard-drill.com))
-
-            Tools: (Sorted by alexa rank)
-                https://www.typingclub.com (3,533)
-                https://10fastfingers.com (3,880)
-                https://www.keybr.com (9,760)
-                https://play.typeracer.com (10,476)
-                https://monkeytype.com (13,516)
-
-        Microsoft Excel:
-            Sources:
-                https://www.reddit.com/r/excel/comments/2e28s3/rexcel_advice_thread_repository
-                https://news.ycombinator.com/item?id=12448545 (You Suck at Excel with Joel Spolsky (2015) [video])
-
-            Books and Courses:
-                You Suck at Excel with Joel Spolsky
-                https://youtu.be/0nbkaYsR94c
-
-                Excel 2019 Bible 1st Edition
-                https://www.amazon.com/Excel-2019-Bible-Michael-Alexander/dp/1119514789
-
         Diagrams:
             Tools:
                 https://diagrams.mingrammer.com (Diagrams lets you draw the cloud system architecture in Python code)
                 https://app.diagrams.net (draw.io)
                 https://www.cloudcraft.co (Create smart AWS diagrams)
-
-        Electronics:
-            Sources:
-                https://electroagenda.com/en/a-summary-of-electronics
-                https://news.ycombinator.com/item?id=16775744 (Ask HN: How to self-learn electronics?)
-                https://news.ycombinator.com/item?id=16920476 (Ask HN: Where did you learn modular electronics?)
-                https://news.ycombinator.com/item?id=20126760 (Open Source Electronics Lab for $30 (github.com))
-                https://news.ycombinator.com/item?id=23562181 (Ask HN: What are some good resources to learn how electricity works?)
-                https://www.reddit.com/r/AskElectronics/wiki
-
-            Books and Courses:
-                The Art of Electronics 3rd Edition
-                https://www.amazon.com/Art-Electronics-Paul-Horowitz/dp/0521809266
-
-                6.002.1x "Circuits and Electronics 1: Basic Circuit Analysis" Based on 6.002 MIT Course
-                https://courses.edx.org/courses/course-v1:MITx+6.002.1x_1+2T2016/info
-
-                Lessons in Electric Circuits
-                https://www.allaboutcircuits.com/textbook
 
         Science:
             Sources:
@@ -3966,7 +3973,6 @@ Contents:
         https://tldrlegal.com (Software Licenses in Plain English)
         https://twitter.com/search?q=Gone%20Free%20(from%3ASharjeelSayed)
         https://wizardzines.com/comics
-        https://www.codingfont.com (Gamified experience to help you find your true love of coding fonts!)
         https://www.justwatch.com/in?genres=doc
         https://www.nala.ie/resources/better-handwriting-adults
         https://www.nytimes.com/interactive/2021/science/astronomy-space-calendar.html (Sync your calendar with the solar system)
