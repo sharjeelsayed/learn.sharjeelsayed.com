@@ -1,7 +1,8 @@
 # Curated Self Study Guide for Computer Science, DevOps, SRE & SysAdmin
-  [https://Learn.SharjeelSayed.com](https://Learn.SharjeelSayed.com)  
+  [Learn.SharjeelSayed.com](https://Learn.SharjeelSayed.com)  
   
 # Curated Reading List 
-  Import http://Opml.SharjeelSayed.com , into https://www.inoreader.com or https://reederapp.com
-<br/><br/>
-### About me: [SharjeelSayed.com](https://SharjeelSayed.com)
+  Import [Opml.SharjeelSayed.com](http://Opml.SharjeelSayed.com) , into [Inoreader.com](https://www.Inoreader.com) or [Reederapp.com](https://Reederapp.com)
+
+# About me: 
+[SharjeelSayed.com](https://SharjeelSayed.com)
