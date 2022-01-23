@@ -3,3 +3,5 @@
   
 # Curated Reading List 
   Import http://Opml.SharjeelSayed.com , into https://www.inoreader.com or https://reederapp.com
+  
+# About me: [SharjeelSayed.com](https://SharjeelSayed.com)
