@@ -5,6 +5,7 @@
   </head>
   <body>
     <outline text="MustRead" title="MustRead">
+      <outline text="LWN.net" title="LWN.net" type="rss" xmlUrl="http://lwn.net/headlines/newrss" htmlUrl="http://lwn.net/"/>
       <outline text="Dan Luu" title="Dan Luu" type="rss" xmlUrl="https://danluu.com/atom.xml" htmlUrl="http://danluu.com/"/>
       <outline text="netsec:top scoring links" title="netsec:top scoring links" type="rss" xmlUrl="https://burkybang.com/reddit_rss/?rss=r/netsec/top/.rss" htmlUrl="https://www.reddit.com/r/netsec/top/?t=1640475529"/>
       <outline text="AWSCertifications, aws: top scoring links" title="AWSCertifications, aws: top scoring links" type="rss" xmlUrl="https://burkybang.com/reddit_rss/?rss=r/AWSCertifications%2Baws/top/.rss" htmlUrl="https://www.reddit.com/r/AWSCertifications+aws/top/?t=1640473430"/>
@@ -65,10 +66,12 @@
       <outline text="Techmeme" title="Techmeme" type="rss" xmlUrl="http://www.techmeme.com/index.xml" htmlUrl="http://www.techmeme.com/"/>
     </outline>
     <outline text="Newsletters" title="Newsletters">
+      <outline text="LWN.net" title="LWN.net" type="rss" xmlUrl="http://lwn.net/headlines/newrss" htmlUrl="http://lwn.net/"/>
       <outline text="CloudSecList" title="CloudSecList" type="rss" xmlUrl="https://cloudseclist.com/feed.xml" htmlUrl="https://cloudseclist.com/"/>
       <outline text="Last Week in AWS" title="Last Week in AWS" type="rss" xmlUrl="https://www.lastweekinaws.com/feed" htmlUrl="https://www.lastweekinaws.com/"/>
       <outline text="stratechery by Ben Thompson" title="stratechery by Ben Thompson" type="rss" xmlUrl="http://stratechery.com/feed/" htmlUrl="http://stratechery.com/"/>
       <outline text="tl;dr sec" title="tl;dr sec" type="rss" xmlUrl="https://tldrsec.com/feed.xml" htmlUrl="https://tldrsec.com/"/>
+      <outline text="Unsupervised Learning, by Daniel Miessler" title="Unsupervised Learning, by Daniel Miessler" type="rss" xmlUrl="https://www.kill-the-newsletter.com/feeds/lf0ejx0el0d6ifd6dkk5.xml" htmlUrl="https://www.kill-the-newsletter.com/"/>
       <outline text="Schneier on Security" title="Schneier on Security" type="rss" xmlUrl="https://www.schneier.com/feed/atom" htmlUrl="https://www.schneier.com/"/>
       <outline text="SRE WEEKLY" title="SRE WEEKLY" type="rss" xmlUrl="http://sreweekly.com/feed/" htmlUrl="http://sreweekly.com/"/>
     </outline>
@@ -80,6 +83,7 @@
       <outline text="Pinboard (popular bookmarks)" title="Pinboard (popular bookmarks)" type="rss" xmlUrl="http://feeds.pinboard.in/rss/popular/" htmlUrl="https://pinboard.in/popular/"/>
     </outline>
     <outline text="DevOps" title="DevOps">
+      <outline text="LWN.net" title="LWN.net" type="rss" xmlUrl="http://lwn.net/headlines/newrss" htmlUrl="http://lwn.net/"/>
       <outline text="Dan Luu" title="Dan Luu" type="rss" xmlUrl="https://danluu.com/atom.xml" htmlUrl="http://danluu.com/"/>
       <outline text="linux, linuxadmin, Ubuntu:top scoring links" title="linux, linuxadmin, Ubuntu:top scoring links" type="rss" xmlUrl="https://burkybang.com/reddit_rss/?rss=r/Ubuntu%2Blinux%2Blinuxadmin/top/.rss" htmlUrl="https://www.reddit.com/r/Ubuntu+linux+linuxadmin/top/?t=1640774786"/>
       <outline text="ITCareerQuestions, sysadmin:top scoring links" title="ITCareerQuestions, sysadmin:top scoring links" type="rss" xmlUrl="https://burkybang.com/reddit_rss/?rss=r/ITCareerQuestions%2Bsysadmin/top/.rss" htmlUrl="https://www.reddit.com/r/ITCareerQuestions+sysadmin/top/?t=1640682839"/>
@@ -138,7 +142,5 @@
     </outline>
   </body>
 </opml>
-
-
 
 
