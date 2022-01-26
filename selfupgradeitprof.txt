@@ -630,6 +630,7 @@ Contents:
                 https://octopus.com/blog/devops-reading-list
                 https://roadmap.sh/devops
                 https://slack.cloudposse.com (SweetOps Slack Group)
+                https://www.actionsbyexample.com (GitHub Actions by Example is an introduction to the service through annotated examples.)
                 https://www.linkedin.com/groups/2825397 (DevOps Group)
                 https://www.reddit.com/r/devops/comments/n2l9ja/which_are_your_favourite_youtube_channelsblogs
                 https://www.reddit.com/r/DevOps/wiki/resources
@@ -699,6 +700,7 @@ Contents:
                 https://news.ycombinator.com/item?id=24027366 (	Low latency tuning guide)
                 https://news.ycombinator.com/item?id=26053323 (	A visual guide to SSH tunnels (robotmoon.com))
                 https://news.ycombinator.com/item?id=3257393 (What's the one Linux command you wish you knew years ago?)
+                https://systemd-by-example.com (The playground allows you to learn about systemd interactively, right from your browser!)
                 https://tldr.sh (Simplified and community-driven man pages)
                 https://tuxurls.com
                 https://www.amazon.com/Best-Sellers-Books-Linux-Operating-System/zgbs/books/3849 (Best Sellers in Linux Operating System)
@@ -799,6 +801,7 @@ Contents:
                 https://news.ycombinator.com/item?id=27615516 (Bash PS1 Generator (bashrcgenerator.com))
                 https://news.ycombinator.com/item?id=27992073 (	Command line tools for productive programmers (earthly.dev))
                 https://pragmaticpineapple.com/four-useful-fzf-tricks-for-your-terminal
+                https://stackoverflow.com/a/19866239/11065 (Test if remote TCP port is open from a bash shell script)
                 https://switowski.com/blog/favorite-cli-tools
                 https://www.reddit.com/r/usefulscripts/top
                 https://pinboard.in/u:SharjeelSayed/t:bash
