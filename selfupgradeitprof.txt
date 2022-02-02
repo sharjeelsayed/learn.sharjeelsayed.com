@@ -2054,6 +2054,7 @@ Contents:
                 https://www.tutorialbar.com (Udemy Coupons)
                 https://www.udacity.com/courses/all
                 https://www.udemy.com/courses/free/?p=12&sort=popularity
+                https://www.udemy.com/featured-topics (Popular and trending topics)
                 https://yahnd.com (Best courses , talks and videos recommended on Hacker News)
 
             Online Course Portals: (Sorted by Alexa Rank)
@@ -3946,6 +3947,7 @@ Contents:
         https://github.com/jnv/lists (The definitive list of lists (of lists) curated on GitHub and elsewhere )
         https://github.com/mendel5/alternative-front-ends (Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.))
         https://github.com/rsapkf/42 (This is an ongoing personal collection of over 5000+ sites and resources that I use or have used in the past to learn programming, puzzle-solving, web development and other intellectually stimulating things, categorized (more or less))
+        https://github.com/RunaCapital/awesome-oss-alternatives (Awesome list of open-source startup alternatives to well-known SaaS products)
         https://github.com/TheLocehiliosan/yadm (Yet Another Dotfiles Manager)
         https://github.com/topics/awesome
         https://github.com/topics/dotfiles?o=desc&s=stars
