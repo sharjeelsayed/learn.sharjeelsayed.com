@@ -773,6 +773,7 @@ Contents:
                 https://github.com/adrianscheff/useful-sed (Useful sed scripts & patterns)
                 https://github.com/alebcay/awesome-shell (A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.)
                 https://github.com/alexanderepstein/Bash-Snippets (A collection of small bash scripts for heavy terminal users)
+                https://github.com/anordal/shellharden/blob/master/how_to_do_things_safely_in_bash.md (Safe ways to do things in bash)
                 https://github.com/Bash-it/bash-it (Bash-it is a collection of community Bash commands and scripts for Bash 3.2+.)
                 https://github.com/cheat/cheat (cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not frequently enough to remember.)
                 https://github.com/dylanaraps/pure-bash-bible
@@ -803,6 +804,7 @@ Contents:
                 https://pragmaticpineapple.com/four-useful-fzf-tricks-for-your-terminal
                 https://stackoverflow.com/a/19866239/11065 (Test if remote TCP port is open from a bash shell script)
                 https://switowski.com/blog/favorite-cli-tools
+                https://wiki.bash-hackers.org/scripting/debuggingtips (Debugging a script)
                 https://www.reddit.com/r/usefulscripts/top
                 https://pinboard.in/u:SharjeelSayed/t:bash
 
@@ -1781,6 +1783,7 @@ Contents:
                 https://github.com/robertdavidgraham/masscan (TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.)
                 https://github.com/sbilly/awesome-security
                 https://github.com/security-prince/Application-Security-Engineer-Interview-Questions (Some of the questions which i was asked when i was giving interviews for Application/Product Security roles.)
+                https://github.com/TalEliyahu/awesome-security-newsletters (Periodic cyber security newsletters that capture the latest news, summaries of conference talks, research, best practices, tools, events, vulnerabilities, and analysis of trending threats and attacks)
                 https://github.com/toniblyx/my-arsenal-of-aws-security-tools (List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.)
                 https://github.com/topics/devsecops?o=desc&s=stars
                 https://github.com/topics/oscp?o=desc&s=stars
@@ -3393,7 +3396,10 @@ Contents:
                 RSS:
                     Sources:
                         https://burkybang.com/reddit_rss (Reddit has a limit to how often RSS feeds can be fetched. This breaks that limit!)
+                        https://github.com/DIYgod/RSSHub (🍰 Everything is RSSible)
+                        https://github.com/mshibanami/GitHubTrendingRSS (Unofficial RSS feed generator for GitHub Trending)
                         https://github.com/osmoscraft/osmosfeed (A web-based RSS reader running entirely from your GitHub repo.)
+                        https://github.com/topics/rss?o=desc&s=stars
                         https://news.ycombinator.com/item?id=23583629 (RSS Box – RSS for websites that do not support RSS (rssbox.herokuapp.com))
                         https://news.ycombinator.com/item?id=24658424 (Ask HN: What RSS Reader do you use?)
                         https://www.to-rss.xyz
@@ -3597,6 +3603,7 @@ Contents:
         NewsLetters:
             Sources:
                 https://devopsnewsletters.com
+                https://github.com/TalEliyahu/awesome-security-newsletters (Periodic cyber security newsletters that capture the latest news, summaries of conference talks, research, best practices, tools, events, vulnerabilities, and analysis of trending threats and attacks)
                 https://github.com/topics/newsletter?o=desc&s=stars
                 https://github.com/topics/newsletters?o=desc&s=stars
                 https://github.com/zudochkin/awesome-newsletters
