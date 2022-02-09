@@ -236,6 +236,7 @@ Contents:
             Sources:
                 http://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read
                 http://www.flyingmachinestudios.com/programming/learn-programming-languages-efficiently
+                https://abseil.io/resources/swe-book (Software Engineering at Google)
                 https://blog.codinghorror.com/recommended-reading-for-developers
                 https://blog.rutikwankhade.dev/github-repositories-every-aspiring-developer-should-check-out
                 https://dev.to
@@ -527,6 +528,7 @@ Contents:
                 https://news.ycombinator.com/item?id=21793270 (Database Internals (databass.dev))
                 https://news.ycombinator.com/item?id=23138297 (Advanced SQL and database books and resources (neilwithdata.com))
                 https://news.ycombinator.com/item?id=24762734 (Ask HN: What are good resources to learn system design?)
+                https://news.ycombinator.com/item?id=25987664 (Ask HN: Recommended books and papers on distributed systems?)
                 https://ottertune.com/blog/2021-databases-retrospective (Databases in 2021: A Year in Review)
                 https://www.reddit.com/r/Database
                 https://pinboard.in/u:SharjeelSayed/t:db
@@ -559,9 +561,12 @@ Contents:
                 Database Design for Mere Mortals: A Hands-On Guide to Relational Database Design (3rd Edition)
                 https://www.amazon.com/Database-Design-Mere-Mortals-Hands/dp/0321884493
 
-                Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems
+                Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems by Martin Kleppmann
                 https://dataintensive.net
                 https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable-ebook/dp/B06XPJML5D
+                https://youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB (MIT 6.824 Distributed Systems (Spring 2020))
+                https://youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB (Distributed Systems lecture series)
+                https://github.com/ept/ddia-references (Literature references for “Designing Data-Intensive Applications” by Ept)
 
         Electronics:
             Sources:
@@ -2391,6 +2396,7 @@ Contents:
                     https://plugins.jetbrains.com/plugin/10080-rainbow-brackets
                     https://plugins.jetbrains.com/plugin/10485-kubernetes
                     https://plugins.jetbrains.com/plugin/11058-extra-icons
+                    https://plugins.jetbrains.com/plugin/11349-aws-toolkit
                     https://plugins.jetbrains.com/plugin/12062-vscode-keymap
                     https://plugins.jetbrains.com/plugin/12275-dracula-theme
                     https://plugins.jetbrains.com/plugin/13308-indent-rainbow
