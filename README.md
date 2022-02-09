@@ -2,7 +2,7 @@
   [Learn.SharjeelSayed.com](https://Learn.SharjeelSayed.com)  
   
 # Curated Reading List 
-  Import [Opml.SharjeelSayed.com](http://Opml.SharjeelSayed.com) , into any RSS reader like [Inoreader.com](https://www.Inoreader.com) or [Reederapp.com](https://Reederapp.com)
+  Import [Opml.SharjeelSayed.com](http://Opml.SharjeelSayed.com) , into an RSS reader like [Inoreader.com](https://www.Inoreader.com) or [Reederapp.com](https://Reederapp.com)
 
 # About me: 
 [SharjeelSayed.com](https://SharjeelSayed.com)
