@@ -1430,6 +1430,7 @@ Contents:
                 https://github.com/camptocamp/terraboard (A web dashboard to inspect Terraform States)
                 https://github.com/GoogleCloudPlatform/terraformer (CLI tool to generate terraform files from existing infrastructure (reverse Terraform))
                 https://github.com/im2nguyen/rover (Interactive Terraform visualization. State and configuration explorer.)
+                https://github.com/infracost/infracost (Cloud cost estimates for Terraform in pull requests💰📉 Love your cloud bill!)
                 https://github.com/nsriram/lambda-the-terraform-way
                 https://github.com/shuaibiyy/awesome-terraform
                 https://github.com/tfutils/tfenv (Terraform version manager)
@@ -1450,6 +1451,7 @@ Contents:
                 https://www.katacoda.com/courses/terraform
                 https://www.reddit.com/r/Terraform
                 https://www.reddit.com/r/Terraform/comments/iguorh/best_terraform_course
+                https://www.revolgy.com/insights/blog/complete-guide-for-picking-the-right-tool-for-terraform-security-code-analysis (Complete guide for picking the right tool for Terraform Security Code Analysis)
                 https://www.runatlantis.io
                 https://www.thecloud.coach/terraform-crash-course
                 https://www.udemy.com/course/learn-devops-kubernetes-deployment-by-kops-and-terraform
@@ -1773,6 +1775,7 @@ Contents:
                 https://github.com/chughes29/Cloud-DevSecOps-Learning/blob/main/Cloud%20%26%20DevSecOps%20Learning%20(1).md (Cloud-DevSecOps-Learning)
                 https://github.com/dafthack/CloudPentestCheatsheets
                 https://github.com/danielmiessler/SecLists (It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.)
+                https://github.com/decalage2/awesome-security-hardening (A collection of awesome security hardening guides, tools and other resources)
                 https://github.com/devsecops/awesome-devsecops (An authoritative list of awesome devsecops tools with the help from community experiments and contributions.)
                 https://github.com/fabionoth/awesome-cyber-security
                 https://github.com/forter/security-101-for-saas-startups
@@ -3410,7 +3413,7 @@ Contents:
                         https://news.ycombinator.com/item?id=24658424 (Ask HN: What RSS Reader do you use?)
                         https://www.to-rss.xyz
 
-                    Import Opml.SharjeelSayed.com , into any RSS reader like Inoreader.com or Reederapp.com
+                    Import Opml.SharjeelSayed.com , into an RSS reader like Inoreader.com or Reederapp.com
 
                 News Sites: (Sorted by Alexa Rank)
                     https://cnn.com (108)
