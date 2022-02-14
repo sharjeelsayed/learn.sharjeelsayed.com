@@ -9,7 +9,7 @@ Curated Self Study Guide for Computer Science, DevOps, SRE & SysAdmin
 
 Contents:
     Computer Science:
-        Programming Concepts
+        Software Engineering
         Computer Architecture
         Algorithms and Data Structures
         Mathematics for Computer Science
@@ -232,7 +232,7 @@ Contents:
             https://pdos.csail.mit.edu/6.824/schedule.html (MIT 6.824 Schedule: Spring 2020 )
             http://www.distributedsystemscourse.com
 
-        Programming Concepts:
+        Software Engineering:
             Sources:
                 http://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read
                 http://www.flyingmachinestudios.com/programming/learn-programming-languages-efficiently
@@ -298,6 +298,7 @@ Contents:
                 https://news.ycombinator.com/item?id=22011743 (Ask HN: Are there any openly available software architecture documents?)
                 https://news.ycombinator.com/item?id=22767351 (Most-recommended programming books:Overtime I've built my own list of lists.)
                 https://news.ycombinator.com/item?id=23468193 (	Ask HN: Which tools have made you a much better programmer?)
+                https://news.ycombinator.com/item?id=30228261 (Ask HN: Best books on managing software complexity?)
                 https://octoverse.github.com
                 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/index.htm
                 https://softwareengineeringdaily.com
@@ -1812,6 +1813,7 @@ Contents:
                 https://news.ycombinator.com/item?id=18487547 (Ask HN: Starting a career in security at 40?)
                 https://news.ycombinator.com/item?id=29577272 (Clever uses of pass, the Unix password manager (vitalyparnas.com))
                 https://overthewire.org/wargames/bandit
+                https://portswigger.net/research/top-10-web-hacking-techniques-of-2021 (Top 10 Web Hacking Techniques of 2021)
                 https://room362.com/start (Start in Infosec)
                 https://s3ctur.wordpress.com/2017/06/19/breaking-into-infosec-a-beginners-curriculum
                 https://security.stackexchange.com/questions/46666/at-what-length-does-a-password-stop-making-sense
@@ -3023,6 +3025,7 @@ Contents:
                 https://news.ycombinator.com/item?id=26321793 (Ask HN: Which books made you the most money?)
                 https://news.ycombinator.com/item?id=27636743 (Ask HN: Which book or course gave you an unfair advantage?)
                 https://news.ycombinator.com/item?id=29462663 (	Ask HN: What are some must read books?)
+                https://news.ycombinator.com/item?id=30241190 (Ask HN: What is one book you would recommend everyone to read?)
                 https://opentrackers.org/downloading-ebooks-textbooks
                 https://ramiro.org/vis/hn-most-linked-books
                 https://redditfavorites.com/books
@@ -3605,9 +3608,13 @@ Contents:
                 https://news.ycombinator.com/item?id=27302195 (Ask HN: Favorite Blogs by Individuals?)
                 https://news.ycombinator.com/item?id=29237308 (Ask HN: What are some great engineering blogs?)
                 https://news.ycombinator.com/item?id=29758396 (Ask HN: Best Engineering Blog Posts?)
+                https://news.ycombinator.com/item?id=30245247 (Ask HN: Great Blogs by Programmers)
                 https://news.ycombinator.com/item?id=9836023 (Ask HN: What tech blogs, podcasts do you follow outside of HN?)
                 https://refined.blog (Curated list of personal blogs)
                 https://wiki.nikitavoloboev.xyz/research/blogs#favorite-blogs
+                https://github.com/jkup/awesome-personal-blogs (A delightful list of personal tech blogs)
+                https://github.com/markodenic/awesome-tech-blogs (A list of Tech Blogs.)
+                https://github.com/crispgm/awesome-engineering-blogs (A curated list of engineering blogs)
 
         NewsLetters:
             Sources:
