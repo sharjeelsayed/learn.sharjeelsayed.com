@@ -660,6 +660,7 @@ Contents:
                 https://github.com/upgundecha/howtheysre (A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE))
                 https://gitlab.com/gitlab-com/runbooks (Run books for the stressed on call )
                 https://news.ycombinator.com/item?id=14153545 (What Is ‘Site Reliability Engineering’?)
+                https://rootly.com/blog/analyzing-sre-job-postings-from-amazon-to-microsoft (Analyzing SRE Job Postings - From Amazon to Microsoft)
                 https://sre.google/books
                 https://sreweekly.com
                 https://www.meetup.com/topics/site-reliability-engineering
@@ -909,8 +910,8 @@ Contents:
                 https://github.com/jesseduffield/lazydocker (The lazier way to manage everything docker)
                 https://github.com/jessfraz/dockerfiles
                 https://github.com/magicmark/composerize (Turns docker run commands into docker-compose files!)
+                https://github.com/myugan/awesome-docker-security (A curated list of awesome Docker security resources)
                 https://github.com/p8952/bocker (Docker implemented in around 100 lines of bash)
-                https://github.com/quay/clair (Vulnerability Static Analysis for Containers)
                 https://github.com/quay/clair (Vulnerability Static Analysis for Containers)
                 https://github.com/tiangolo/dockerswarm.rocks
                 https://github.com/topics/docker?o=desc&s=stars
@@ -1173,6 +1174,7 @@ Contents:
                 https://comparecloud.in (Public Cloud Services Comparison)
                 https://d1.awsstatic.com/whitepapers/building_an_aws_perimeter.pdf (Building an AWS Perimeter)
                 https://expeditedsecurity.com/aws-in-plain-english
+                https://github.com/4ndersonLin/awesome-cloud-security (Awesome Cloud Security Resources)
                 https://github.com/anaibol/awesome-serverless
                 https://github.com/aramalipoor/aws-cost-saver (A tiny CLI tool to help save costs in development environments when you're asleep and don't need them!)
                 https://github.com/awsdocs (Amazon Web Services - Documentation)
@@ -1771,6 +1773,7 @@ Contents:
                 https://dev-sec.io (devops + security Server Hardening Automation Using Ansible)
                 https://en.wikipedia.org/wiki/List_of_computer_security_certifications#Most_Popular_Vendor_Neutral_Cyber_Security_Certifications_Among_employers
                 https://github.com/0x90n/InfoSec-Black-Friday (All the deals for InfoSec related software/tools this Black Friday)
+                https://github.com/4ndersonLin/awesome-cloud-security (Awesome Cloud Security Resources)
                 https://github.com/armosec/kubescape (kubescape is the first tool for testing if Kubernetes is deployed securely as defined in Kubernetes Hardening Guidance by to NSA and CISA)
                 https://github.com/Arudjreis/awesome-security-GRC (Curated list of resources for security Governance, Risk Management, Compliance and Audit professionals and enthusiasts (if they exist).)
                 https://github.com/chughes29/Cloud-DevSecOps-Learning/blob/main/Cloud%20%26%20DevSecOps%20Learning%20(1).md (Cloud-DevSecOps-Learning)
@@ -1786,6 +1789,7 @@ Contents:
                 https://github.com/iacsecurity/tool-compare (infrastructure-as-code security tools comparison)
                 https://github.com/Igglybuff/awesome-piracy (A curated list of awesome warez and piracy links)
                 https://github.com/instadoodledavid/Infosec-Deals-2020
+                https://github.com/myugan/awesome-docker-security (A curated list of awesome Docker security resources)
                 https://github.com/OWASP/CheatSheetSeries
                 https://github.com/pluja/awesome-privacy (A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.)
                 https://github.com/qazbnm456/awesome-web-security
@@ -2941,6 +2945,7 @@ Contents:
             Extensions:
                 https://addons.mozilla.org/en-GB/firefox/addon/foxytab
                 https://addons.mozilla.org/en-US/firefox/addon/auto-tab-discard
+                https://addons.mozilla.org/en-US/firefox/addon/bypass-paywalls-clean
                 https://addons.mozilla.org/en-US/firefox/addon/honey
                 https://addons.mozilla.org/en-US/firefox/addon/minimalist-alexa-rank
                 https://addons.mozilla.org/en-US/firefox/addon/to-google-translate (To Google Translate)
@@ -2958,6 +2963,7 @@ Contents:
                 https://github.com/mozilla/contain-facebook
                 https://github.com/mozilla/multi-account-containers
                 https://github.com/philc/vimium
+                https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean
                 https://keepa.com
                 https://languagetoolplus.com
                 https://news.ycombinator.com/item?id=23446504 ("Remove sticky" bookmarklet)
