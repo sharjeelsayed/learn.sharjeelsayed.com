@@ -152,6 +152,7 @@ Contents:
             https://news.ycombinator.com/item?id=23588896 Teach Yourself Computer Science (teachyourselfcs.com)
             https://news.ycombinator.com/item?id=25271676 (	Ask HN: What are the best advanced computer science courses online?)
             https://news.ycombinator.com/item?id=29498220 (Ask HN: I'm looking for a good book on the fundamentals of CS)
+            https://news.ycombinator.com/item?id=30485544 (Ask HN: The book that did it for you in math and/or CS?)
             https://news.ycombinator.com/item?id=5019373 (How Harvard's CS50 Renewed My Hope For Online Education)
             https://ocw.mit.edu/courses/find-by-topic/#cat=engineering&subcat=computerscience
             https://spin.atomicobject.com/2015/05/15/obtaining-thorough-cs-background-online
@@ -800,6 +801,7 @@ Contents:
                 https://github.com/topics/command-line?o=desc&s=stars (Command line)
                 https://linoxide.com/linux-how-to/linux-commands-brief-outline-examples
                 https://linuxcommandlibrary.com/basic/oneliners.html
+                https://mywiki.wooledge.org/BashFAQ/105 (Why doesn't set -e (or set -o errexit, or trap ERR) do what I expected?)
                 https://mywiki.wooledge.org/BashPitfalls
                 https://news.ycombinator.com/item?id=14634964 (Ask HN: How can I get better at bash?)
                 https://news.ycombinator.com/item?id=22975437 (Shell Productivity Tips and Tricks (balthazar-rouberol.com))
@@ -1775,6 +1777,7 @@ Contents:
                 https://en.wikipedia.org/wiki/List_of_computer_security_certifications#Most_Popular_Vendor_Neutral_Cyber_Security_Certifications_Among_employers
                 https://github.com/0x90n/InfoSec-Black-Friday (All the deals for InfoSec related software/tools this Black Friday)
                 https://github.com/4ndersonLin/awesome-cloud-security (Awesome Cloud Security Resources)
+                https://github.com/aquasecurity/cloudsploit (CloudSploit by Aqua is an open-source project designed to allow detection of security risks in cloud infrastructure accounts, including: Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform (GCP), Oracle Cloud Infrastructure (OCI), and GitHub.)
                 https://github.com/armosec/kubescape (kubescape is the first tool for testing if Kubernetes is deployed securely as defined in Kubernetes Hardening Guidance by to NSA and CISA)
                 https://github.com/Arudjreis/awesome-security-GRC (Curated list of resources for security Governance, Risk Management, Compliance and Audit professionals and enthusiasts (if they exist).)
                 https://github.com/chughes29/Cloud-DevSecOps-Learning/blob/main/Cloud%20%26%20DevSecOps%20Learning%20(1).md (Cloud-DevSecOps-Learning)
@@ -2628,7 +2631,8 @@ Contents:
                 https://www.workingnomads.co/jobs (128,494)
                 https://relocate.me (155,692)
                 https://remoteleaf.com/whoishiring (684,542)
-                https://whoishiring.io (1,041,887)
+                https://allremote.jobs (749,536)
+                https://whoishiring.io (934,790)
                 https://sievejobs.com (3,711,141)
                 https://arbeitnow.com/?tags=%5B%22visa%20sponsorship%22%5D (6,208,741)
 
@@ -2905,6 +2909,7 @@ Contents:
             https://news.ycombinator.com/item?id=21310030 (Ask HN: How do you share/organize knowledge at work and life?)
             https://news.ycombinator.com/item?id=23596471 (Ask HN: How do you take notes when reading a book?)
             https://news.ycombinator.com/item?id=28482726 (	Ask HN: How Do You Learn?)
+            https://news.ycombinator.com/item?id=30473322 (Ask HN: Any scientifically proven techniques to boost concentration?)
             https://www.comptia.org/testing/online-testing-interest-form
             https://www.coursera.org/learn/learning-how-to-learn
 
@@ -3441,8 +3446,8 @@ Contents:
                     https://ndtv.com (328)
                     https://www.moneycontrol.com (330)
                     https://bloomberg.com (354)
-                    https://www.wsj.com (368)
-                    https://reuters.com (372)
+                    https://www.wsj.com (373)
+                    https://reuters.com (375)
                     https://abcnews.go.com (483)
                     https://www.news18.com (549)
                     https://hindustantimes.com (642)
@@ -3450,20 +3455,22 @@ Contents:
                     https://www.livemint.com (866)
                     https://apnews.com (1,203)
                     https://www.thehindu.com (1,293)
-                    https://www.huffpost.com (1,414)
-                    https://www.telegraph.co.uk (1,791)
-                    https://www.theatlantic.com (1,935)
-                    https://www.aljazeera.com (2,054)
-                    https://news.abplive.com (2,130)
-                    https://www.economist.com (2,439)
+                    https://www.huffpost.com (1,428)
+                    https://news.abplive.com (1,551)
+                    https://www.aljazeera.com (1,707)
+                    https://www.ft.com (1,861)
+                    https://www.telegraph.co.uk (2,006)
+                    https://www.theatlantic.com (2,200)
+                    https://www.economist.com (2,624)
                     https://www.financialexpress.com (2,532)
                     https://www.scmp.com (2,884)
                     https://scroll.in (3,362)
                     https://www.vox.com (3,019)
-                    https://www.newyorker.com (3,419)
+                    https://www.newyorker.com (3,501)
                     https://www.khaleejtimes.com (3,566)
                     https://www.firstpost.com (4,079)
                     https://gulfnews.com (5,265)
+                    https://www.nationalreview.com (11,308)
                     https://thewire.in (14,985)
 
                 Tech News: (Sorted by Alexa Rank)
@@ -3971,6 +3978,7 @@ Contents:
     Additional Sources :
         http://unixstickers.com (Unixstickers powered by Sticker Mule)
         https://awesome.digitalbunker.dev (Click to explore one of the awesome lists below)
+        https://drawabox.com (Drawabox is a set of free exercise-based lessons that focus on the fundamentals of drawing)
         https://en.wikipedia.org/wiki/List_of_common_misconceptions
         https://en.wikipedia.org/wiki/List_of_lists_of_lists
         https://en.wikipedia.org/wiki/Wikipedia:Vital_articles
@@ -4006,6 +4014,7 @@ Contents:
         https://news.ycombinator.com/item?id=28119393 (Ask HN: What tiny purchases have disproportionately improved your life?)
         https://news.ycombinator.com/item?id=28232165 (Ask HN: What's the most life-changing blog post you've ever read?)
         https://news.ycombinator.com/item?id=29675397 (	Ask HN: Where are you getting your money's worth?)
+        https://news.ycombinator.com/item?id=30469036 (Ask HN: Anyone here have good material for learning how to sketch from scratch?)
         https://per.quest (Enter a URL to an article, post or page with some text on it to listen to it)
         https://receive-sms-free.cc (Receive SMS online anonymously and fast, without register or a mobile phone)
         https://rfc.fyi (Browse RFCs by keywords, id or collection)
