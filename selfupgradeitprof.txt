@@ -424,6 +424,7 @@ Contents:
                 https://news.ycombinator.com/item?id=21346272 (Ask HN: Are there books for mathematics like Feynman's lectures on physics?)
                 https://news.ycombinator.com/item?id=23711942 (Ask HN: Recommend a maths book for a teenager?)
                 https://www.reddit.com/r/learnprogramming/comments/70rh9q/is_there_a_cs50_for_math
+                https://www.susanrigetti.com/math (So You Want to Study Mathematics)
                 https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw (3Blue1Brown Channel)
 
             Books and Courses:
@@ -497,6 +498,11 @@ Contents:
 
                 Beej's Guide to Network Programming
                 http://beej.us/guide/bgnet
+
+                Networking for Systems Administrators (2015) by Michael W Lucas.mobi
+                https://www.amazon.com/Networking-Systems-Administrators-Mastery-Book-ebook/dp/B00STLTH74
+                https://mwlucas.gumroad.com/l/XfZsR
+                https://mwl.io/nonfiction/networking#n4sa
 
                 Unix Network Programming, Volume 1: The Sockets Networking API (3rd Edition)
                 https://www.amazon.com/Unix-Network-Programming-Sockets-Networking/dp/0131411551
@@ -1171,6 +1177,7 @@ Contents:
                 http://flaws.cloud (Through a series of levels you'll learn about common mistakes and gotchas when using Amazon Web Services (AWS).)
                 https://adayinthelifeof.nl/2020/05/20/aws.html (A List of One-sentence Descriptions of AWS Services)
                 https://aws.amazon.com/blogs/architecture/top-10-architecture-blog-posts-of-2021 (Top 10 Architecture Blog Posts of 2021)
+                https://aws.amazon.com/training/digital/aws-security-fundamentals (AWS Security Fundamentals (Second Edition))
                 https://awsstash.com (A collection of AWS related videos, podcasts, code repositories, whitepapers, and feature releases, all in a single, easy to search interface.)
                 https://awsvideocatalog.com (AWS Video Catalog is a website that collects all the official Amazon videos)
                 https://comparecloud.in (Public Cloud Services Comparison)
@@ -1767,6 +1774,7 @@ Contents:
             Sources:
                 http://www.fastrls.com/2017/10/30/offensive-security-training-videos
                 https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html-single/using_selinux
+                https://aws.amazon.com/training/digital/aws-security-fundamentals (AWS Security Fundamentals (Second Edition))
                 https://cheatsheetseries.owasp.org (The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.)
                 https://cipher387.github.io/osint_stuff_tool_collection (OSINT Tool Collection)
                 https://cloud.redhat.com/blog/top-open-source-kubernetes-security-tools-of-2021 (Top Open Source Kubernetes Security Tools of 2021)
@@ -1794,6 +1802,7 @@ Contents:
                 https://github.com/Igglybuff/awesome-piracy (A curated list of awesome warez and piracy links)
                 https://github.com/instadoodledavid/Infosec-Deals-2020
                 https://github.com/krol3/container-security-checklist (Checklist for container security - devsecops practices)
+                https://github.com/myugan/awesome-cicd-security (📚 A curated list of awesome CI CD security resources)
                 https://github.com/myugan/awesome-docker-security (A curated list of awesome Docker security resources)
                 https://github.com/OWASP/CheatSheetSeries (The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics. )
                 https://github.com/pluja/awesome-privacy (A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.)
@@ -2661,8 +2670,9 @@ Contents:
             Sites:
                 https://careernavigator.naukri.com
                 https://stackoverflow.com/jobs/salary
-                https://www.glassdoor.co.in/Salaries/india-salary-SRCH_IL.0,5_IN115.htm
+                https://vanhack.com/tech-salary-calculator (VanHack Tech Salary Calculator)
                 https://www.glassdoor.co.in/member/home/companies.htm
+                https://www.glassdoor.co.in/Salaries/india-salary-SRCH_IL.0,5_IN115.htm
                 https://www.levels.fyi
                 https://www.payscale.com/research/IN/Country=India/Salary
 
@@ -2767,6 +2777,7 @@ Contents:
                 https://news.ycombinator.com/item?Id=27333260 (Drunk Post: Things I'Ve Learned As A Sr Engineer (Reddit.Com))
                 https://news.ycombinator.com/item?id=27408120 (Ask HN: Books for Effective Communication)
                 https://news.ycombinator.com/item?id=29336234 (Ask HN: I’d like to hire a personal/executive assistant – any tips or advice?)
+                https://news.ycombinator.com/item?id=30497703 (Ask HN: Books to read when you transform from SWE into SWE Management?)
                 https://www.amazon.Com/Gp/Bestsellers/Books/2569 (Amazon Best Sellers In Time Management)
                 https://www.indiehackers.Com
                 https://www.reddit.Com/r/cscareerquestions/comments/6fnujy/Soft_skills_for_programmers
@@ -2889,12 +2900,19 @@ Contents:
 
         Foreign Language:
             Source:
-                http://www.runwes.com/2020/02/11/howilearnedfrench.html
                 https://duome.eu/tips/en (Duolingo's language notes all on one page)
+                https://news.ycombinator.com/item?id=30467597 (How I learned French in 12 months (2020) (runwes.com))
 
-            Books and Courses:
-                https://www.duolingo.com
-                https://www.memrise.com
+            Books and Courses: (Sorted by Alexa Rank)
+                https://www.duolingo.com (683)
+                https://www.italki.com (4,511)
+                https://www.memrise.com (14,863)
+                https://www.pimsleur.com (43,028)
+                https://www.newsinslowspanish.com (170,545)
+                https://coffeebreaklanguages.com (317,223)
+                https://www.languagetransfer.org (486,141)
+                https://www.michelthomas.com (1,419,292)
+                https://www.youtube.com/c/DreamingSpanish
 
     Study Tools:
         Sources:
@@ -2967,13 +2985,13 @@ Contents:
                 https://github.com/deanishe/alfred-firefox
                 https://github.com/fuyu/alexa-rank-webextension
                 https://github.com/gorhill/uBlock
-                https://github.com/iamadamdev/bypass-paywalls-chrome
                 https://github.com/itsecurityco/to-google-translate
                 https://github.com/mbnuqw/sidebery
                 https://github.com/mozilla/contain-facebook
                 https://github.com/mozilla/multi-account-containers
                 https://github.com/philc/vimium
-                https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean
+                https://github.com/quenhus/uBlock-Origin-dev-filter (Filters to block and remove copycat-websites from DuckDuckGo, Google and other search engines. Specific to dev websites like StackOverflow or GitHub.)
+                https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean (Extension allows you to read articles from (supported) sites that implement a paywall.)
                 https://keepa.com
                 https://languagetoolplus.com
                 https://news.ycombinator.com/item?id=23446504 ("Remove sticky" bookmarklet)
@@ -3448,10 +3466,11 @@ Contents:
                     https://bloomberg.com (354)
                     https://www.wsj.com (373)
                     https://reuters.com (375)
-                    https://abcnews.go.com (483)
-                    https://www.news18.com (549)
-                    https://hindustantimes.com (642)
-                    https://indianexpress.com (665)
+                    https://abcnews.go.com (514)
+                    https://indianexpress.com (583)
+                    https://www.news18.com (612)
+                    https://hindustantimes.com (640)
+                    https://www.indiatoday.in (785)
                     https://www.livemint.com (866)
                     https://apnews.com (1,203)
                     https://www.thehindu.com (1,293)
