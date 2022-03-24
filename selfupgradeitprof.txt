@@ -1484,7 +1484,7 @@ Contents:
                 https://github.com/zealvora/terraform-beginner-to-advanced-resource
                 https://rutracker.org/forum/viewtopic.php?t=5936588
 
-                Terraform: Up & Running: Writing Infrastructure as Code 2nd Edition By Yevgeniy Brikman
+                Terraform: Up & Running: Writing Infrastructure as Code 3rd Edition By Yevgeniy Brikman
                 https://www.terraformupandrunning.com
                 https://learning.oreilly.com/library/view/terraform-up/9781492046899
                 https://www.oreilly.com/catalog/errata.csp?isbn=0636920225010
