@@ -300,6 +300,7 @@ Contents:
                 https://news.ycombinator.com/item?id=22767351 (Most-recommended programming books:Overtime I've built my own list of lists.)
                 https://news.ycombinator.com/item?id=23468193 (	Ask HN: Which tools have made you a much better programmer?)
                 https://news.ycombinator.com/item?id=30228261 (Ask HN: Best books on managing software complexity?)
+                https://news.ycombinator.com/item?id=30752540 (	Ask HN: Codebases with great, easy to read code?)
                 https://octoverse.github.com
                 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/index.htm
                 https://softwareengineeringdaily.com
@@ -344,6 +345,9 @@ Contents:
 
                 How to Design Programs, Second Edition
                 http://www.htdp.org/2018-01-06/Book
+
+                The Architecture of Open Source Applications
+                http://aosabook.org
 
         Computer Architecture:
             Sources:
@@ -1043,7 +1047,7 @@ Contents:
                 https://www.datadoghq.com/container-report (Oct 2021 report on Kubernetes and Docker Usage)
                 https://www.flatcar-linux.org
                 https://www.katacoda.com/courses/kubernetes (Learn Kubernetes using Interactive Browser-Based Scenarios By Ben Hall, Jonathan Johnson, Richard Li, Peter Benjamin)
-                https://www.nsa.gov/News-Features/Feature-Stories/Article-View/Article/2716980/nsa-cisa-release-kubernetes-hardening-guidance (NSA, CISA release Kubernetes Hardening Guidance)
+                https://www.nsa.gov/Press-Room/News-Highlights/Article/Article/2716980/nsa-cisa-release-kubernetes-hardening-guidance/utm_source/nsa-cisa-release-kubernetes-hardening-guidance (NSA, CISA release Kubernetes Hardening Guidance)
                 https://www.reddit.com/r/kubernetes/comments/mwpj1q/how_did_you_really_master_kubernetes
                 https://www.udemy.com/topic/kubernetes/?ratings=4.5&sort=popularity (Udemy Courses rated 4.5 stars and above)
                 https://ymmt2005.hatenablog.com/entry/k8s-things (47 Things To Become a Kubernetes Expert)
@@ -1822,6 +1826,7 @@ Contents:
                 https://ishaqmohammed.me/posts/application-security-knowledgebase (Application Security Knowledgebase)
                 https://jhalon.github.io/becoming-a-pentester
                 https://krebsonsecurity.com/2020/07/thinking-of-a-cybersecurity-career-read-this
+                https://media.defense.gov/2022/Mar/01/2002947139/-1/-1/0/CTR_NSA_NETWORK_INFRASTRUCTURE_SECURITY_GUIDANCE_20220301.PDF (National Security Agency Cybersecurity Technical Report Network Infrastructure Security Guidance March 2022)
                 https://myaccount.google.com/stateattackwarning (Find out if someone is trying to access your Google account)
                 https://news.ycombinator.com/item?id=12140477 (A practical security guide for web developers (github.com))
                 https://news.ycombinator.com/item?id=14791255 (Cybersecurity Humble Book Bundle)
@@ -1845,7 +1850,7 @@ Contents:
                 https://www.cybrary.it
                 https://www.edx.org/learn/cybersecurity
                 https://www.netmeister.org/blog/infosec-competencies.html ((Technical) Infosec Core Competencies)
-                https://www.nsa.gov/News-Features/Feature-Stories/Article-View/Article/2716980/nsa-cisa-release-kubernetes-hardening-guidance (NSA, CISA release Kubernetes Hardening Guidance)
+                https://www.nsa.gov/Press-Room/News-Highlights/Article/Article/2716980/nsa-cisa-release-kubernetes-hardening-guidance/utm_source/nsa-cisa-release-kubernetes-hardening-guidance (NSA, CISA release Kubernetes Hardening Guidance)
                 https://www.open-scap.org (Discover a wide array of tools for managing system security and standards compliance)
                 https://www.reddit.com/r/crypto/wiki
                 https://www.reddit.com/r/netsec/wiki
