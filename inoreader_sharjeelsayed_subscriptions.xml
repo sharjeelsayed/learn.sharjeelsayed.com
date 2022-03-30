@@ -51,18 +51,15 @@
       <outline text="Techmeme" title="Techmeme" type="rss" xmlUrl="http://www.techmeme.com/index.xml" htmlUrl="http://www.techmeme.com/"/>
     </outline>
     <outline text="News" title="News">
-      <outline text="india:top scoring links" title="india:top scoring links" type="rss" xmlUrl="https://burkybang.com/reddit_rss/?rss=r/india/top/.rss" htmlUrl="https://www.reddit.com/r/india/top/?t=1641107300"/>
-      <outline text="The Verge" title="The Verge" type="rss" xmlUrl="http://www.theverge.com/rss/index.xml" htmlUrl="http://www.theverge.com/"/>
-      <outline text="technology: top scoring links" title="technology: top scoring links" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/technology/top/.rss" htmlUrl="https://www.reddit.com/r/technology/top/?t=1598200139"/>
-      <outline text="worldnews: top scoring links" title="worldnews: top scoring links" type="rss" xmlUrl="https://burkybang.com/reddit_rss/?rss=r/worldnews/top/.rss" htmlUrl="https://www.reddit.com/r/worldnews/top/?t=1628081840"/>
-      <outline text="Ars Technica" title="Ars Technica" type="rss" xmlUrl="http://feeds.arstechnica.com/arstechnica/index" htmlUrl="http://arstechnica.com/"/>
-      <outline text="stratechery by Ben Thompson" title="stratechery by Ben Thompson" type="rss" xmlUrl="http://stratechery.com/feed/" htmlUrl="http://stratechery.com/"/>
-      <outline text="MacRumors: Mac News and Rumors - Front Page" title="MacRumors: Mac News and Rumors - Front Page" type="rss" xmlUrl="http://www.macrumors.com/macrumors.xml" htmlUrl="http://www.macrumors.com/"/>
-      <outline text="Scientific American Content: Global" title="Scientific American Content: Global" type="rss" xmlUrl="http://rss.sciam.com/ScientificAmerican-Global?format=xml" htmlUrl="http://www.scientificamerican.com/"/>
-      <outline text="Hacker News: 100 Points" title="Hacker News: 100 Points" type="rss" xmlUrl="https://hnrss.org/newest?points=100" htmlUrl="https://news.ycombinator.com/newest"/>
-      <outline text="News from wikipedia events" title="News from wikipedia events" type="rss" xmlUrl="https://news.vinc.cc/search.atom?q=wikipedia+events" htmlUrl="https://news.vinc.cc/"/>
-      <outline text="Slashdot" title="Slashdot" type="rss" xmlUrl="http://rss.slashdot.org/Slashdot/slashdotMain" htmlUrl="http://slashdot.org/"/>
       <outline text="The Hacker News" title="The Hacker News" type="rss" xmlUrl="http://thehackernews.com/feeds/posts/default" htmlUrl="http://thehackernews.com/"/>
+      <outline text="Slashdot" title="Slashdot" type="rss" xmlUrl="http://rss.slashdot.org/Slashdot/slashdotMain" htmlUrl="http://slashdot.org/"/>
+      <outline text="News from wikipedia events" title="News from wikipedia events" type="rss" xmlUrl="https://news.vinc.cc/search.atom?q=wikipedia+events" htmlUrl="https://news.vinc.cc/"/>
+      <outline text="Hacker News: 100 Points" title="Hacker News: 100 Points" type="rss" xmlUrl="https://hnrss.org/newest?points=100" htmlUrl="https://news.ycombinator.com/newest"/>
+      <outline text="Scientific American Content: Global" title="Scientific American Content: Global" type="rss" xmlUrl="http://rss.sciam.com/ScientificAmerican-Global?format=xml" htmlUrl="http://www.scientificamerican.com/"/>
+      <outline text="The Verge" title="The Verge" type="rss" xmlUrl="http://www.theverge.com/rss/index.xml" htmlUrl="http://www.theverge.com/"/>
+      <outline text="MacRumors: Mac News and Rumors - Front Page" title="MacRumors: Mac News and Rumors - Front Page" type="rss" xmlUrl="http://www.macrumors.com/macrumors.xml" htmlUrl="http://www.macrumors.com/"/>
+      <outline text="stratechery by Ben Thompson" title="stratechery by Ben Thompson" type="rss" xmlUrl="http://stratechery.com/feed/" htmlUrl="http://stratechery.com/"/>
+      <outline text="Ars Technica" title="Ars Technica" type="rss" xmlUrl="http://feeds.arstechnica.com/arstechnica/index" htmlUrl="http://arstechnica.com/"/>
       <outline text="Techmeme" title="Techmeme" type="rss" xmlUrl="http://www.techmeme.com/index.xml" htmlUrl="http://www.techmeme.com/"/>
     </outline>
     <outline text="Newsletters" title="Newsletters">
@@ -119,25 +116,25 @@
       <outline text="freelance, Upwork: top scoring links" title="freelance, Upwork: top scoring links" type="rss" xmlUrl="https://burkybang.com/reddit_rss/?rss=r/Upwork%2Bfreelance/top/.rss" htmlUrl="https://www.reddit.com/r/Upwork+freelance/top/?t=1640683594"/>
       <outline text="1Password, Alfred, nextdns, todoist :top scoring links" title="1Password, Alfred, nextdns, todoist :top scoring links" type="rss" xmlUrl="https://burkybang.com/reddit_rss/?rss=r/1Password%2BAlfred%2Bnextdns%2Btodoist/top/.rss" htmlUrl="https://www.reddit.com/r/1Password+Alfred+nextdns+todoist/top/?t=1640474439"/>
       <outline text="juul:top scoring links" title="juul:top scoring links" type="rss" xmlUrl="https://burkybang.com/reddit_rss/?rss=r/juul/top/.rss" htmlUrl="https://www.reddit.com/r/juul/top/?t=1640472956"/>
-      <outline text="The Verge" title="The Verge" type="rss" xmlUrl="http://www.theverge.com/rss/index.xml" htmlUrl="http://www.theverge.com/"/>
+      <outline text="MacRumors: Mac News and Rumors - Front Page" title="MacRumors: Mac News and Rumors - Front Page" type="rss" xmlUrl="http://www.macrumors.com/macrumors.xml" htmlUrl="http://www.macrumors.com/"/>
       <outline text="IndiaInvestments: top scoring links" title="IndiaInvestments: top scoring links" type="rss" xmlUrl="https://burkybang.com/reddit_rss/?rss=r/IndiaInvestments/top/.rss" htmlUrl="https://www.reddit.com/r/IndiaInvestments/top/?t=1629752005"/>
       <outline text="DataHoarder, Piracy: top scoring links" title="DataHoarder, Piracy: top scoring links" type="rss" xmlUrl="https://burkybang.com/reddit_rss/?rss=r/DataHoarder%2BPiracy/top/.rss" htmlUrl="https://www.reddit.com/r/DataHoarder+Piracy/top/?t=1628124192"/>
       <outline text="onebag: top scoring links" title="onebag: top scoring links" type="rss" xmlUrl="https://burkybang.com/reddit_rss/?rss=r/onebag/top/.rss" htmlUrl="https://www.reddit.com/r/onebag/top/?t=1628123501"/>
       <outline text="AppHookup: top scoring links" title="AppHookup: top scoring links" type="rss" xmlUrl="https://burkybang.com/reddit_rss/?rss=r/AppHookup/top/.rss" htmlUrl="https://www.reddit.com/r/AppHookup/top/?t=1628082308"/>
       <outline text="AppleWatch, apple, appletv, ipad, iphone, mac, macapps, osx:top scoring links" title="AppleWatch, apple, appletv, ipad, iphone, mac, macapps, osx:top scoring links" type="rss" xmlUrl="https://burkybang.com/reddit_rss/?rss=r/AppleWatch%2Bapple%2Bappletv%2Bipad%2Biphone%2Bmac%2Bmacapps%2Bosx/top/.rss" htmlUrl="https://www.reddit.com/r/AppleWatch+apple+appletv+ipad+iphone+mac+macapps+osx/top/?t=1628070624"/>
       <outline text="Spark Blog RSS Feed" title="Spark Blog RSS Feed" type="rss" xmlUrl="https://sparkmailapp.com/blog/rss" htmlUrl="https://sparkmailapp.com/blog/rss/"/>
-      <outline text="MacRumors: Mac News and Rumors - Front Page" title="MacRumors: Mac News and Rumors - Front Page" type="rss" xmlUrl="http://www.macrumors.com/macrumors.xml" htmlUrl="http://www.macrumors.com/"/>
       <outline text="YouTube India Popular Right Now" title="YouTube India Popular Right Now" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?playlist_id=PL_yIBWagYVjyyqx_qPkbat5zufWZOyZEZ" htmlUrl="yt:playlist:PL_yIBWagYVjyyqx_qPkbat5zufWZOyZEZ"/>
+      <outline text="The Verge" title="The Verge" type="rss" xmlUrl="http://www.theverge.com/rss/index.xml" htmlUrl="http://www.theverge.com/"/>
       <outline text="Scientific American Content: Global" title="Scientific American Content: Global" type="rss" xmlUrl="http://rss.sciam.com/ScientificAmerican-Global?format=xml" htmlUrl="http://www.scientificamerican.com/"/>
       <outline text="1Password Blog" title="1Password Blog" type="rss" xmlUrl="https://blog.1password.com/index.xml" htmlUrl="https://blog.1password.com/"/>
       <outline text="FastMail blog" title="FastMail blog" type="rss" xmlUrl="https://fastmail.blog/rss/" htmlUrl="https://fastmail.blog/"/>
       <outline text="Inoreader blog" title="Inoreader blog" type="rss" xmlUrl="https://www.inoreader.com/blog/feed" htmlUrl="https://www.inoreader.com/blog/"/>
       <outline text="movies, television, Documentaries:top scoring links" title="movies, television, Documentaries:top scoring links" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/Documentaries%2Bmovies%2Btelevision/top/.rss" htmlUrl="https://www.reddit.com/r/Documentaries+movies+television/top/?t=1597999694"/>
-      <outline text="todayilearned:top scoring links" title="todayilearned:top scoring links" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/todayilearned/top/.rss" htmlUrl="https://www.reddit.com/r/todayilearned/top/?t=1597998600"/>
-      <outline text="dataisbeautiful:top scoring links" title="dataisbeautiful:top scoring links" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/dataisbeautiful/top/.rss" htmlUrl="https://www.reddit.com/r/dataisbeautiful/top/?t=1597998471"/>
       <outline text="science:top scoring links " title="science:top scoring links " type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/science/top/.rss" htmlUrl="https://www.reddit.com/r/science/top/?t=1597998343"/>
       <outline text="kindle, KindleFreebies, FreeEBOOKS:top scoring links" title="kindle, KindleFreebies, FreeEBOOKS:top scoring links" type="rss" xmlUrl="https://smithsdownunder.com/reddit_rss/?rss=r/FreeEBOOKS%2BKindleFreebies%2Bkindle/top/.rss" htmlUrl="https://www.reddit.com/r/FreeEBOOKS+KindleFreebies+kindle/top/?t=1597998007"/>
       <outline text="YouTube Worldwide Popular Right Now" title="YouTube Worldwide Popular Right Now" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?playlist_id=PLrEnWoR732-BHrPp_Pm8_VleD68f9s14-" htmlUrl="https://www.youtube.com/feeds/videos.xml?playlist_id=PLrEnWoR732-BHrPp_Pm8_VleD68f9s14-"/>
     </outline>
   </body>
 </opml>
+
+
