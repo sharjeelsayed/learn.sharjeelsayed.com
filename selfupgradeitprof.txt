@@ -104,8 +104,8 @@ Contents:
         Science
         Design
         News
-        Blogs
         NewsLetters
+        Blogs
         Podcasts
         Email
         Backup
@@ -3632,32 +3632,6 @@ Contents:
                     https://ifttt.com/applets/rnvTEjV9-automatically-share-new-links-you-post-on-facebook-to-twitter
                     https://ifttt.com/applets/yfaY7BnX-Tweet-your-Facebook-status-updates
 
-        Blogs:
-            Sources:
-                https://bloggingfordevs.com/trends (Discover the best developer blogs on any tech stack)
-                https://danluu.com/programming-blogs (Some programming blogs to consider reading)
-                https://fraidyc.at (Fraidycat is a desktop app or browser extension for Firefox or Chrome used to follow people on Twitter, a blog, YouTube, even on a public TiddlyWiki)
-                https://github.com/donnemartin/awesome-aws#blogs (A curated list of AWS blogs)
-                https://github.com/kaizensoze/security-blogs (A list of security blogs.)
-                https://github.com/kilimchoi/engineering-blogs (A curated list of engineering blogs)
-                https://github.com/learn-anything/blogs
-                https://hnblogs.substack.com (HackerNews Blogs Newsletter)
-                https://news.ycombinator.com/item?id=14163905 (Ask HN: Which companies have the best blogs written by their engineering team?)
-                https://news.ycombinator.com/item?id=21928170 (Ask HN: What niche blogs are worthwhile to follow?)
-                https://news.ycombinator.com/item?id=22800136 (Ask HN: What is your blog and why should I read it?)
-                https://news.ycombinator.com/item?id=23206259 (Ask HN: What are some hard-tech blogs that you follow?)
-                https://news.ycombinator.com/item?id=24539445 (Ask HN: Favourite blogs?)
-                https://news.ycombinator.com/item?id=27302195 (Ask HN: Favorite Blogs by Individuals?)
-                https://news.ycombinator.com/item?id=29237308 (Ask HN: What are some great engineering blogs?)
-                https://news.ycombinator.com/item?id=29758396 (Ask HN: Best Engineering Blog Posts?)
-                https://news.ycombinator.com/item?id=30245247 (Ask HN: Great Blogs by Programmers)
-                https://news.ycombinator.com/item?id=9836023 (Ask HN: What tech blogs, podcasts do you follow outside of HN?)
-                https://refined.blog (Curated list of personal blogs)
-                https://wiki.nikitavoloboev.xyz/research/blogs#favorite-blogs
-                https://github.com/jkup/awesome-personal-blogs (A delightful list of personal tech blogs)
-                https://github.com/markodenic/awesome-tech-blogs (A list of Tech Blogs.)
-                https://github.com/crispgm/awesome-engineering-blogs (A curated list of engineering blogs)
-
         NewsLetters:
             Sources:
                 https://devopsnewsletters.com
@@ -3691,6 +3665,32 @@ Contents:
                 https://www.devopsweekly.com (3,957,079)
                 https://ipj.dreamhosters.com (n/a)
                 https://thisweekindevops.com (n/a)
+
+        Blogs:
+            Sources:
+                https://bloggingfordevs.com/trends (Discover the best developer blogs on any tech stack)
+                https://danluu.com/programming-blogs (Some programming blogs to consider reading)
+                https://fraidyc.at (Fraidycat is a desktop app or browser extension for Firefox or Chrome used to follow people on Twitter, a blog, YouTube, even on a public TiddlyWiki)
+                https://github.com/donnemartin/awesome-aws#blogs (A curated list of AWS blogs)
+                https://github.com/kaizensoze/security-blogs (A list of security blogs.)
+                https://github.com/kilimchoi/engineering-blogs (A curated list of engineering blogs)
+                https://github.com/learn-anything/blogs
+                https://hnblogs.substack.com (HackerNews Blogs Newsletter)
+                https://news.ycombinator.com/item?id=14163905 (Ask HN: Which companies have the best blogs written by their engineering team?)
+                https://news.ycombinator.com/item?id=21928170 (Ask HN: What niche blogs are worthwhile to follow?)
+                https://news.ycombinator.com/item?id=22800136 (Ask HN: What is your blog and why should I read it?)
+                https://news.ycombinator.com/item?id=23206259 (Ask HN: What are some hard-tech blogs that you follow?)
+                https://news.ycombinator.com/item?id=24539445 (Ask HN: Favourite blogs?)
+                https://news.ycombinator.com/item?id=27302195 (Ask HN: Favorite Blogs by Individuals?)
+                https://news.ycombinator.com/item?id=29237308 (Ask HN: What are some great engineering blogs?)
+                https://news.ycombinator.com/item?id=29758396 (Ask HN: Best Engineering Blog Posts?)
+                https://news.ycombinator.com/item?id=30245247 (Ask HN: Great Blogs by Programmers)
+                https://news.ycombinator.com/item?id=9836023 (Ask HN: What tech blogs, podcasts do you follow outside of HN?)
+                https://refined.blog (Curated list of personal blogs)
+                https://wiki.nikitavoloboev.xyz/research/blogs#favorite-blogs
+                https://github.com/jkup/awesome-personal-blogs (A delightful list of personal tech blogs)
+                https://github.com/markodenic/awesome-tech-blogs (A list of Tech Blogs.)
+                https://github.com/crispgm/awesome-engineering-blogs (A curated list of engineering blogs)
 
         Podcasts:
             Sources:
@@ -3728,9 +3728,9 @@ Contents:
                 https://blog.boomerangapp.com/2017/01/how-to-end-an-email-email-sign-offs
                 https://news.ycombinator.com/item?id=25497113 (Ask HN: Best Paid Gmail Replacement?)
                 https://nomoregoogle.com
-                https://pinboard.in/u:sharjeelsayed/t:email
                 https://stackoverflow.com/questions/9807909/are-email-addresses-case-sensitive
                 https://www.learndmarc.com (Learn and Test DMARC)
+                https://pinboard.in/u:sharjeelsayed/t:email
 
             Email Hosting:
                 https://gsuite.google.co.in/intl/en_in/pricing.html
