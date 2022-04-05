@@ -1806,6 +1806,7 @@ Contents:
                 https://github.com/Igglybuff/awesome-piracy (A curated list of awesome warez and piracy links)
                 https://github.com/instadoodledavid/Infosec-Deals-2020
                 https://github.com/krol3/container-security-checklist (Checklist for container security - devsecops practices)
+                https://github.com/Lissy93/personal-security-checklist (🔒 A curated checklist of 300+ tips for protecting digital security and privacy in 2021)
                 https://github.com/myugan/awesome-cicd-security (📚 A curated list of awesome CI CD security resources)
                 https://github.com/myugan/awesome-docker-security (A curated list of awesome Docker security resources)
                 https://github.com/OWASP/CheatSheetSeries (The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics. )
@@ -2007,6 +2008,7 @@ Contents:
                 https://github.com/learn-anything/alfred-workflows
                 https://github.com/ngreenstein/alfred-process-killer
                 https://github.com/skydiver/alfred-network-drives
+                https://github.com/squatto/alfred-imessage-2fa ( iMessage 2FA Workflow for Alfred )
                 https://github.com/topics/alfred?o=desc&s=stars
                 https://github.com/vitorgalvao/custom-alfred-iterm-scripts (AppleScript for iTerm2 Alfred integration)
                 https://github.com/willfarrell/alfred-workflows
@@ -3481,6 +3483,7 @@ Contents:
                     https://www.thehindu.com (1,293)
                     https://www.huffpost.com (1,428)
                     https://news.abplive.com (1,551)
+                    https://time.com (1,557)
                     https://www.aljazeera.com (1,707)
                     https://www.ft.com (1,861)
                     https://www.telegraph.co.uk (2,006)
@@ -3970,6 +3973,7 @@ Contents:
 
         Chess:
             Sources:
+                https://apps.apple.com/us/app/ct-art-4-0-chess-tactics/id1132601225 (CT-ART 4.0 (Chess Tactics))
                 https://chess.stackexchange.com/questions/75/what-are-examples-of-very-aggressive-openings
                 https://chrisbutner.github.io/ChessCoach (A neural network-based chess engine capable of natural language commentary)
                 https://dwheeler.com/chess-openings
