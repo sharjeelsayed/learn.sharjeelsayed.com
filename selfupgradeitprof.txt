@@ -1272,6 +1272,7 @@ Contents:
             AWS Certification Resources:
                 https://aws.amazon.com/certification (AWS Certification Official Page)
                 https://aws.amazon.com/training/learning-paths
+                https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf (AWS Certified Solutions Architect – Associate (SAA-C02) Exam Guide)
                 https://digitalcloud.training/certification-training (AWS Certification Training Notes [Cheat Sheets] by Neal Davis)
                 https://github.com/keenanromain/AWS-SAA-C02-Study-Guide (How to become a certified AWS Solutions Architect by Keenan Romain)
                 https://help.acloud.guru/hc/en-us/articles/360001389256-AWS-Cloud-Sandbox  (AWS Cloud Sandbox)
@@ -3979,6 +3980,8 @@ Contents:
                 https://dwheeler.com/chess-openings
                 https://en.wikibooks.org/wiki/Chess
                 https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=chess&sort=byPopularity&type=all
+                https://lichess.org/coach (Lichess coaches)
+                https://lichess.org/study/all/popular
                 https://www.chess.com/article/view/10-positions-chess-engines-just-dont-understand
                 https://www.chess.com/puzzles
                 https://www.chessgames.com/chessstats.html
