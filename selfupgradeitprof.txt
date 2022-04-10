@@ -1817,6 +1817,7 @@ Contents:
                 https://github.com/sbilly/awesome-security (A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.)
                 https://github.com/security-prince/Application-Security-Engineer-Interview-Questions (Some of the questions which i was asked when i was giving interviews for Application/Product Security roles.)
                 https://github.com/TalEliyahu/awesome-security-newsletters (Periodic cyber security newsletters that capture the latest news, summaries of conference talks, research, best practices, tools, events, vulnerabilities, and analysis of trending threats and attacks)
+                https://github.com/TalEliyahu/awesome-security-newsletters (Periodic cyber security newsletters that capture the latest news, summaries of conference talks, research, best practices, tools, events, vulnerabilities, and analysis of trending threats and attacks)
                 https://github.com/toniblyx/my-arsenal-of-aws-security-tools (List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.)
                 https://github.com/topics/devsecops?o=desc&s=stars
                 https://github.com/topics/oscp?o=desc&s=stars
@@ -2543,6 +2544,9 @@ Contents:
 
                 Preparation links and resources for system design questions
                 https://github.com/shashank88/system_design
+
+                Blind 75 Must Do Leetcode
+                https://leetcode.com/list/xi4ci4ig
 
             Coding Challenge Websites: (Sorted by Alexa Rank):
                 https://leetcode.com (1,515)
@@ -3309,7 +3313,7 @@ Contents:
                 https://www.amazon.com/Best-Sellers-Computers-Accessories-Keyboards/zgbs/pc/12879431 (Best Sellers in Computer Keyboards)
                 https://www.amazon.com/gp/bestsellers/pc/11036491
                 https://www.amazon.in/gp/bestsellers/computers/1375419031 (Bestsellers in Keyboards)
-                https://www.amazon.in/gp/bestsellers/computers/1375420031
+                https://www.amazon.in/gp/bestsellers/computers/1375420031 (Bestsellers in Mice)
                 https://www.logitech.com/en-in/products/keyboards/mx-keys-mini.920-010506.html (MX Keys Mini)
                 https://www.logitech.com/en-us/products/mice/mx-master-3.910-005620.html
                 https://www.nytimes.com/wirecutter/reviews/best-wireless-mouse
@@ -3391,6 +3395,7 @@ Contents:
                 https://www.popsci.com (12,904)
                 https://www.newscientist.com (13,688)
                 https://phys.org (13,801)
+                https://newatlas.com (17,416)
                 https://www.discovermagazine.com (21,119)
                 https://www.sciencefocus.com (32,681)
                 https://www.quantamagazine.org (34,649)
@@ -3477,6 +3482,7 @@ Contents:
                     https://abcnews.go.com (514)
                     https://indianexpress.com (583)
                     https://www.news18.com (612)
+                    https://asia.nikkei.com (615)
                     https://hindustantimes.com (640)
                     https://www.indiatoday.in (785)
                     https://www.livemint.com (866)
@@ -3486,6 +3492,7 @@ Contents:
                     https://news.abplive.com (1,551)
                     https://time.com (1,557)
                     https://www.aljazeera.com (1,707)
+                    https://www.rollingstone.com (1,828)
                     https://www.ft.com (1,861)
                     https://www.telegraph.co.uk (2,006)
                     https://www.theatlantic.com (2,200)
@@ -3647,10 +3654,11 @@ Contents:
                 https://kill-the-newsletter.com
                 https://kubenews.net
                 https://news.ycombinator.com/item?id=22280939 (Ask HN: What are the underrated newsletters you like reading?)
+                https://www.sans.org/newsletters (SANS offers three newsletters to keep you up-to-date on the latest cybersecurity news, cyber attacks and vulnerabilities, and security awareness tips and stories.)
 
             Newsletters: (Sorted by Alexa Rank)
-                https://www.morningbrew.com/emerging-tech (8,211)
-                https://thenewstack.io/newsletter-archive (24,615)
+                https://www.morningbrew.com/it (9,035)
+                https://thenewstack.io/newsletter-archive (24,975)
                 https://finshots.in (41,149)
                 https://kubeweekly.io (44,540)
                 https://stratechery.com (49,773)
@@ -3659,6 +3667,7 @@ Contents:
                 https://www.ben-evans.com/newsletter (107,535)
                 https://www.schneier.com/crypto-gram (171,909)
                 https://www.lastweekinaws.com (359,464)
+                https://www.emergingtechbrew.com (1,131,395)
                 https://devopsish.com (1,172,319)
                 https://softwareleadweekly.com (1,692,604)
                 https://unreadit.com (1,783,583)
