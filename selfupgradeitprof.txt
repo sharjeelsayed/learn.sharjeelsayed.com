@@ -1181,6 +1181,7 @@ Contents:
                 http://flaws.cloud (Through a series of levels you'll learn about common mistakes and gotchas when using Amazon Web Services (AWS).)
                 https://adayinthelifeof.nl/2020/05/20/aws.html (A List of One-sentence Descriptions of AWS Services)
                 https://aws.amazon.com/blogs/architecture/top-10-architecture-blog-posts-of-2021 (Top 10 Architecture Blog Posts of 2021)
+                https://aws.amazon.com/builders-library (The Amazon Builders' Library: How Amazon builds and operates software )
                 https://aws.amazon.com/training/digital/aws-security-fundamentals (AWS Security Fundamentals (Second Edition))
                 https://awsstash.com (A collection of AWS related videos, podcasts, code repositories, whitepapers, and feature releases, all in a single, easy to search interface.)
                 https://awsvideocatalog.com (AWS Video Catalog is a website that collects all the official Amazon videos)
@@ -2490,6 +2491,9 @@ Contents:
                 An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
                 https://github.com/alex/what-happens-when
 
+                System Design Interview – An Insider's Guide: Volume 2 by Alex Xu
+                https://www.amazon.com/System-Design-Interview-Insiders-Guide/dp/1736049119
+
                 Linux System Administrator/DevOps Interview Questions
                 https://github.com/chassing/linux-sysadmin-interview-questions
 
@@ -3666,6 +3670,7 @@ Contents:
                 https://danielmiessler.com/newsletter (96,519)
                 https://www.ben-evans.com/newsletter (107,535)
                 https://www.schneier.com/crypto-gram (171,909)
+                https://thebrowser.com (301,904)
                 https://www.lastweekinaws.com (359,464)
                 https://www.emergingtechbrew.com (1,131,395)
                 https://devopsish.com (1,172,319)
@@ -3991,6 +3996,7 @@ Contents:
                 https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=chess&sort=byPopularity&type=all
                 https://lichess.org/coach (Lichess coaches)
                 https://lichess.org/study/all/popular
+                https://lichess.org/training (Lichess Puzzles)
                 https://www.chess.com/article/view/10-positions-chess-engines-just-dont-understand
                 https://www.chess.com/puzzles
                 https://www.chessgames.com/chessstats.html
