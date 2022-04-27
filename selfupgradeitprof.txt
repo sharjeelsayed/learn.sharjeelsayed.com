@@ -1805,6 +1805,7 @@ Contents:
                 https://github.com/gchq/CyberChef (The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis)
                 https://github.com/Gr1mmie/Practical-Ethical-Hacking-Resources
                 https://github.com/Hack-with-Github/Awesome-Hacking
+                https://github.com/hysnsec/awesome-policy-as-code (A curated list of policy-as-code resources like blogs, videos, and tools to practice on for learning Policy-as-Code.)
                 https://github.com/iacsecurity/tool-compare (infrastructure-as-code security tools comparison)
                 https://github.com/Igglybuff/awesome-piracy (A curated list of awesome warez and piracy links)
                 https://github.com/instadoodledavid/Infosec-Deals-2020
@@ -2797,6 +2798,7 @@ Contents:
                 https://news.ycombinator.com/item?id=27408120 (Ask HN: Books for Effective Communication)
                 https://news.ycombinator.com/item?id=29336234 (Ask HN: I’d like to hire a personal/executive assistant – any tips or advice?)
                 https://news.ycombinator.com/item?id=30497703 (Ask HN: Books to read when you transform from SWE into SWE Management?)
+                https://themanagershandbook.com (The Manager's Handbook by Alex MacCaw from clearbit.com)
                 https://www.amazon.Com/Gp/Bestsellers/Books/2569 (Amazon Best Sellers In Time Management)
                 https://www.indiehackers.Com
                 https://www.reddit.Com/r/cscareerquestions/comments/6fnujy/Soft_skills_for_programmers
@@ -4032,6 +4034,7 @@ Contents:
         https://awesome.digitalbunker.dev (Click to explore one of the awesome lists below)
         https://drawabox.com (Drawabox is a set of free exercise-based lessons that focus on the fundamentals of drawing)
         https://en.wikipedia.org/wiki/List_of_common_misconceptions
+        https://en.wikipedia.org/wiki/List_of_common_misconceptions (Wikipedia: List of common misconceptions)
         https://en.wikipedia.org/wiki/List_of_lists_of_lists
         https://en.wikipedia.org/wiki/Wikipedia:Vital_articles
         https://freenode.net
