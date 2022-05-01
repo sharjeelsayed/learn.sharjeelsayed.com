@@ -475,6 +475,7 @@ Contents:
                 https://news.ycombinator.com/item?id=13983212 (Beej's Guide to Network Programming)
                 https://news.ycombinator.com/item?id=14701199 (Let's Code a TCP/IP Stack: TCP Retransmission (saminiir.com))
                 https://siliconsprawl.com/2020/05/10/network-programming-self-study.html
+                https://www.davidc.net/sites/default/subnets/subnets.html (Visual Subnet Calculator)
                 https://www.jeremysitlab.com/ccna-resources
                 https://www.reddit.com/r/ccna/wiki
                 https://www.reddit.com/r/ccna/wiki/faqs/materials
@@ -2089,6 +2090,7 @@ Contents:
                 https://www.g2.com/reports/momentum-grid-report-for-technical-skills-development-winter-2021
                 https://www.masterclass.com
                 https://www.real.discount (Discount coupons for Popular courses and MOOC Platforms)
+                https://www.reddit.com/r/compsci/comments/ud0e2n/any_recommendations_of_youtube_channels_for (Any recommendations of youtube channels for programming and computer science stuff?)
                 https://www.reddit.com/r/DataHoarder/comments/c6fh4x/after_hoarding_over_50k_youtube_videos_here_is (After hoarding over 50k YouTube videos, here is the youtube-dl command I settled on)
                 https://www.reddit.com/r/sysadmin/comments/65wdum/whats_your_favorite_selfstudy_resource_paid_free
                 https://www.reddit.com/r/Udemy+udemyfreebies
@@ -2464,6 +2466,7 @@ Contents:
                 https://github.com/topics/interview?o=desc&s=stars
                 https://github.com/topics/leetcode?o=desc&s=stars
                 https://github.com/viraptor/reverse-interview (Questions to ask the company during your interview)
+                https://github.com/wisdompeak/LeetCode (This repository contains the solutions and explanations to the algorithm problems on LeetCode. Only medium or above are included. All are written in C++/Python and implemented by myself. The problems attempted multiple times are labelled with hyperlinks.)
                 https://hn.algolia.com/?query=interview&sort=byPopularity&prefix&page=0&dateRange=all&type=story
                 https://mysteries.wizardzines.com
                 https://news.ycombinator.com/item?id=11246917 (How to Pass a Programming Interview)
