@@ -235,6 +235,7 @@ Contents:
 
         Software Engineering:
             Sources:
+                http://programming-motherfucker.com/become.html  (Become a Programmer)
                 http://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read
                 http://www.flyingmachinestudios.com/programming/learn-programming-languages-efficiently
                 https://abseil.io/resources/swe-book (Software Engineering at Google)
@@ -1276,7 +1277,7 @@ Contents:
                 https://aws.amazon.com/certification (AWS Certification Official Page)
                 https://aws.amazon.com/training/learning-paths
                 https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf (AWS Certified Solutions Architect – Associate (SAA-C02) Exam Guide)
-                https://digitalcloud.training/certification-training (AWS Certification Training Notes [Cheat Sheets] by Neal Davis)
+                https://digitalcloud.training/aws-cheat-sheets (AWS Certification Training Notes [Cheat Sheets] by Neal Davis)
                 https://github.com/keenanromain/AWS-SAA-C02-Study-Guide (How to become a certified AWS Solutions Architect by Keenan Romain)
                 https://help.acloud.guru/hc/en-us/articles/360001389256-AWS-Cloud-Sandbox  (AWS Cloud Sandbox)
                 https://learn.cantrill.io/p/aws-certification-recommendations (AWS Certification Recommendations)
@@ -2501,6 +2502,10 @@ Contents:
                 System Design Interview – An Insider's Guide: Volume 2 by Alex Xu
                 https://www.amazon.com/System-Design-Interview-Insiders-Guide/dp/1736049119
 
+                Grokking the System Design Interview
+                https://designgurus.org/course/grokking-the-system-design-interview
+                https://github.com/Jeevan-kumar-Raj/Grokking-System-Design
+
                 Linux System Administrator/DevOps Interview Questions
                 https://github.com/chassing/linux-sysadmin-interview-questions
 
@@ -2740,6 +2745,7 @@ Contents:
                 https://Diataxis.Fr (The Grand Unified Theory Of Documentation)
                 https://en.wikipedia.org/wiki/Nonviolent_Communication
                 https://en.wikipedia.org/wiki/The_Innovator%27s_Dilemma (he Innovator's Dilemma: When New Technologies Cause Great Firms to Fail)
+                https://github.com/AkashRajpurohit/howtoprofessionallysay (A simple static website for common phrases we might want to say to your colleagues but want to make it sound more professional.)
                 https://github.com/Dakshshah96/Awesome-Startup-Credits (A Collection Of Awesome Companies Offering Free/Discounted Plans For Eligible Startups)
                 https://github.com/Dwmkerr/Hacker-Laws (Laws, Theories, Principles And Patterns That Developers Will Find Useful. #Hackerlaws )
                 https://github.com/Kuchin/Awesome-Cto (A Curated And Opinionated List Of Resources For Chief Technology Officers, With The Emphasis On Startups)
