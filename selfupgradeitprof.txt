@@ -805,7 +805,7 @@ Contents:
                 https://github.com/koalaman/shellcheck (a static analysis tool for shell scripts)
                 https://github.com/learnbyexample/Command-line-text-processing
                 https://github.com/nvbn/thefuck (Magnificent app which corrects your previous console command.)
-                https://github.com/onceupon/Bash-Oneliner
+                https://github.com/onceupon/Bash-Oneliner (A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.)
                 https://github.com/pirate/bash-utils
                 https://github.com/rothgar/awesome-tuis (List of projects that provide terminal user interfaces )
                 https://github.com/rupa/z (z - jump around)
@@ -1918,6 +1918,7 @@ Contents:
                 https://defkey.com/apple-macos-shortcuts
                 https://dev.to/wes/how2-using-gpg-on-macos-without-gpgtools-428f
                 https://discord.gg/apple (Discord server for /r/Apple)
+                https://doesitarm.com ( Apps that are reported to support Apple Silicon)
                 https://dotfilehub.com
                 https://draculatheme.com (A dark theme)
                 https://ghuntley.com/anywhere (Reflections on software development from anywhere on an iPad)
@@ -1935,6 +1936,7 @@ Contents:
                 https://github.com/sb2nov/mac-setup (Installing Development environment on macOS)
                 https://github.com/serhii-londar/open-source-mac-os-apps (🚀 Awesome list of open source applications for macOS.)
                 https://github.com/topics/macos?o=desc&s=stars
+                https://isapplesiliconready.com (The complete guide for MacOS Apps Optimized for Apple Silicon Macs and the M1 Processor)
                 https://medium.com/@cav/foss-password-management-with-passwordstore-9d34fec2fe84
                 https://news.ycombinator.com/item?id=20621224 (Ask HN: The most useful Mac keyboard shortcuts?)
                 https://news.ycombinator.com/item?id=24091707 (Ask HN: What feature did you find after years of using macOS?)
@@ -1943,6 +1945,7 @@ Contents:
                 https://news.ycombinator.com/item?id=29742551 (	macOS Setup after 15 Years of Linux (hookrace.net))
                 https://objective-see.com/products.html (Free Mac Security Tools)
                 https://opensource.com/article/19/5/python-3-default-mac (The right and wrong way to set Python 3 as default on a Mac)
+                https://renegadevi.gitlab.io/mac-app-collection (Find hidden gem apps to improve your Mac.)
                 https://support.apple.com/en-in/guide/terminal/trmlshtcts/mac (Keyboard shortcuts in Terminal on Mac)
                 https://support.apple.com/en-in/HT201236 (Mac keyboard shortcuts)
                 https://support.google.com/chrome/answer/157179 (Chrome keyboard shortcuts)
@@ -1953,6 +1956,7 @@ Contents:
                 https://universvm.medium.com/20-macos-apps-to-boost-your-productivity-74accb372c9c
                 https://unsplash.com/apps (Unsplash Wallpapers)
                 https://www.applegamingwiki.com/wiki/M1_compatible_games_master_list (M1 compatible games master list)
+                https://www.oss.wiki (ollection of must-have open-sourced apps for Mac)
                 https://www.reddit.com/r/apple+mac+macapps
                 https://youtu.be/H3hUk0zsxc4 (How To Use Multiple Desktops On Your Mac by macmostvideo)
                 https://youtu.be/HPQobUOx17o (Amazing Mac Tips You've Never Used! by Snazzy Labs)
