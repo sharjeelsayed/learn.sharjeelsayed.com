@@ -249,6 +249,7 @@ Contents:
                 https://github.com/AlgoryL/Projects-from-Scratch
                 https://github.com/bnb/awesome-developer-streams
                 https://github.com/braydie/HowToBeAProgrammer
+                https://github.com/codecrafters-io/build-your-own-x (🤓 Build your own (insert technology here) )
                 https://github.com/danistefanovic/build-your-own-x
                 https://github.com/EbookFoundation/free-programming-books
                 https://github.com/kamranahmedse/developer-roadmap
@@ -867,6 +868,7 @@ Contents:
                 https://hn.algolia.com/?dateRange=all&page=0&prefix=false&query=tmux&sort=byPopularity&type=all
                 https://learn.redhat.com/t5/Platform-Linux/Using-tmux-to-execute-commands-on-servers-in-parallel/td-p/2200
                 https://medium.com/@gveloper/using-iterm2s-built-in-integration-with-tmux-d5d0ef55ec30
+                https://waylonwalker.com/tmux-fzf-session-jump (tmux fzf session jumper)
                 https://www.byobu.org (Byobu is a GPLv3 open source text-based window manager and terminal multiplexer.)
                 https://www.commandlinefu.com/commands/matching/tmux/dG11eA==/sort-by-votes
                 https://www.iterm2.com/documentation-tmux-integration.html
@@ -1310,6 +1312,7 @@ Contents:
                 https://azure.microsoft.com/en-us/get-started
                 https://docs.microsoft.com/en-us/learn/azure
                 https://docs.microsoft.com/en-us/learn/certifications
+                https://github.com/lukemurraynz/awesome-azure-architecture (A curated list of AWESOME blogs, videos, tutorials, code, tools & scripts, related to the design and implementation of solutions in Microsoft Azure)
                 https://www.examtopics.com/exams/microsoft
                 https://www.pluralsight.com/partners/microsoft/azure
                 https://www.reddit.com/r/AZURE/search/?q=course&restrict_sr=on&t=year
@@ -2671,6 +2674,7 @@ Contents:
                 https://www.jobleads.de (99,051)
                 https://www.workingnomads.co/jobs (128,494)
                 https://relocate.me (155,692)
+                https://himalayas.app (158,672)
                 https://remoteleaf.com/whoishiring (684,542)
                 https://allremote.jobs (749,536)
                 https://whoishiring.io (934,790)
@@ -2693,6 +2697,7 @@ Contents:
                 https://news.ycombinator.com/item?id=19024575 (Ask HN: Highest paying remote companies?)
                 https://news.ycombinator.com/item?id=19280341 (Ask HN: Tools or sites you use to scope out a workplace before taking a job?)
                 https://www.cloudanix.com/blog/the-devops-jobs-report
+                https://www.dice.com/technologists/ebooks/tech-salary-report (The Dice Tech Salary Report)
                 https://www.glassdoor.co.in/Salaries/india-devops-salary-SRCH_IL.0,5_IN115_KO6,12.htm (Devops Salaries in India)
                 https://www.glassdoor.co.in/Salaries/us-devops-salary-SRCH_IL.0,2_IN1_KO3,9.htm (Devops Salaries in United States)
                 https://www.indeed.com/career/cloud-engineer/salaries
