@@ -703,6 +703,7 @@ Contents:
             Sources:
                 http://cht.sh (The only cheat sheet you need)
                 http://stackoverflow.com/questions/236838/what-are-good-linuxunix-books-for-an-advancing-user
+                https://0xax.gitbooks.io/linux-insides (A book-in-progress about the linux kernel and its insides.)
                 https://biriukov.dev/docs/page-cache/0-linux-page-cache-for-sre ( SRE deep dive into Linux Page Cache)
                 https://dashdash.io (Linux Man Pages)
                 https://github.com/0xAX/linux-insides
@@ -918,6 +919,7 @@ Contents:
                 https://cheatsheetseries.owasp.org/cheatsheets/Docker_Security_Cheat_Sheet.html
                 https://containersfromthecouch.com
                 https://docs.docker.com
+                https://geshan.com.np/blog/2022/05/docker-commands (10 useful Docker commands to get things done with a real-life example)
                 https://github.com/docker/docker-bench-security
                 https://github.com/docker/docker-install (Docker installation script)
                 https://github.com/dockersamples/example-voting-app (Example Docker Compose app)
@@ -1052,6 +1054,7 @@ Contents:
                 https://www.datadoghq.com/container-report (Oct 2021 report on Kubernetes and Docker Usage)
                 https://www.flatcar-linux.org
                 https://www.katacoda.com/courses/kubernetes (Learn Kubernetes using Interactive Browser-Based Scenarios By Ben Hall, Jonathan Johnson, Richard Li, Peter Benjamin)
+                https://www.learncloudnative.com/blog/2022-05-10-kubectl-tips (Kubernetes CLI (kubectl) tips you didn't know about)
                 https://www.nsa.gov/Press-Room/News-Highlights/Article/Article/2716980/nsa-cisa-release-kubernetes-hardening-guidance/utm_source/nsa-cisa-release-kubernetes-hardening-guidance (NSA, CISA release Kubernetes Hardening Guidance)
                 https://www.reddit.com/r/kubernetes/comments/mwpj1q/how_did_you_really_master_kubernetes
                 https://www.udemy.com/topic/kubernetes/?ratings=4.5&sort=popularity (Udemy Courses rated 4.5 stars and above)
@@ -1287,6 +1290,7 @@ Contents:
                 https://tutorialsdojo.com/aws-study-path-notes (AWS Exam Study Guides)
                 https://www.examtopics.com/exams/amazon
                 https://www.reddit.com/r/AWSCertifications/comments/pcj2nk/free_learning_resources_needed_for_aws_solutions/haje9xi (Free Learning Resources needed for "AWS Solutions Architect Associate" exam)
+                https://www.reddit.com/r/AWSCertifications/comments/uqnn53/ive_heard_the_recommendation_here_to_go_saa_sap/i8sbnj5 (If you REALLY want to get devops with minimal study you should do DEVA->SYSOPSA->DEVOPS Pro)
                 https://www.reddit.com/r/AWSCertifications/search/?q=course&restrict_sr=on&t=year (This subreddit focuses solely on AWS Certifications.)
                 https://www.udemy.com/topic/aws-certification/?ratings=4.5&sort=popularity (Udemy Courses rated 4.5 stars and above)
 
@@ -1317,8 +1321,12 @@ Contents:
                 https://www.pluralsight.com/partners/microsoft/azure
                 https://www.reddit.com/r/AZURE/search/?q=course&restrict_sr=on&t=year
                 https://www.whizlabs.com/blog/azure-certifications-path
+                https://www.reddit.com/r/AWSCertifications/comments/uqp9ak/is_there_a_cantrillequivalent_to_an_azure_course (Is there a Cantrill-equivalent to an Azure course?)
 
             Books and Courses:
+                John Savill's Technical Training
+                https://www.youtube.com/user/NTFAQGuy
+
                 AZ-300/AZ-303 Azure Architecture Technologies Exam Prep 2020 by Scott Duffy
                 https://www.udemy.com/course/70534-azure
                 https://softwarearchitect.ca (Coupons)
@@ -2100,6 +2108,7 @@ Contents:
                 https://www.real.discount (Discount coupons for Popular courses and MOOC Platforms)
                 https://www.reddit.com/r/compsci/comments/ud0e2n/any_recommendations_of_youtube_channels_for (Any recommendations of youtube channels for programming and computer science stuff?)
                 https://www.reddit.com/r/DataHoarder/comments/c6fh4x/after_hoarding_over_50k_youtube_videos_here_is (After hoarding over 50k YouTube videos, here is the youtube-dl command I settled on)
+                https://www.reddit.com/r/learnprogramming/comments/une7ad/which_coding_bootcamp_would_you_prefer_and_why/i87v5sj (Which coding bootcamp would you prefer and why?)
                 https://www.reddit.com/r/sysadmin/comments/65wdum/whats_your_favorite_selfstudy_resource_paid_free
                 https://www.reddit.com/r/Udemy+udemyfreebies
                 https://www.sololearn.com
@@ -2620,6 +2629,7 @@ Contents:
 
         Jobs:
             Sources:
+                http://layoffs.fyi (Tracking all tech startup layoffs since COVID-19)
                 https://docs.google.com/spreadsheets/d/1TLJSlNxCbwRNxy14Toe1PYwbCTY7h0CNHeer9J0VRzE/htmlview#gid=1279011369 (900+ Startups hiring Remotely in 2020 - by Remotive.io)
                 https://github.com/Kaustubh-Natuskar/companies-to-apply (This repository contains opportunities for you to apply to more than 150 product base companies(NOT JUST FAANG ) & good start-ups.)
                 https://github.com/lukasz-madon/awesome-remote-job
@@ -3975,6 +3985,7 @@ Contents:
                 https://torrentfreak.com/top-torrent-sites-2021-210103
                 https://torrentfreak.com/utorrent-is-the-most-used-bittorrent-client-by-far-200405
                 https://www.reddit.com/r/Addons4Kodi/wiki/preferred_addons
+                https://www.reddit.com/r/movieleaks
                 https://www.reddit.com/r/piracy/wiki/faq
                 https://www.reddit.com/r/piracy/wiki/guides
                 https://www.reddit.com/r/Piracy/wiki/megathread
@@ -4057,6 +4068,7 @@ Contents:
         https://en.wikipedia.org/wiki/Wikipedia:Vital_articles
         https://freenode.net
         https://github.com/antontarasenko/smq/blob/master/reports/hackernews-links-in-comments.md (Most mentioned links in Hacker News comments, 2006–2015)
+        https://github.com/chubin/awesome-console-services (A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols))
         https://github.com/gothinkster/realworld ("The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more)
         https://github.com/jbranchaud/til (Today I Learned)
         https://github.com/jnv/lists (The definitive list of lists (of lists) curated on GitHub and elsewhere )
