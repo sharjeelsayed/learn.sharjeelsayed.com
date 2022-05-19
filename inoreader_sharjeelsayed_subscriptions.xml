@@ -5,6 +5,7 @@
   </head>
   <body>
     <outline text="MustRead" title="MustRead">
+      <outline text="CloudFlare" title="CloudFlare" type="rss" xmlUrl="https://blog.cloudflare.com/rss/" htmlUrl="http://blog.cloudflare.com/"/>
       <outline text="Best of MetaFilter" title="Best of MetaFilter" type="rss" xmlUrl="http://feeds.feedburner.com/BestOfMetafilter" htmlUrl="http://bestof.metafilter.com/"/>
       <outline text="Hacker Newsletter Archive Feed" title="Hacker Newsletter Archive Feed" type="rss" xmlUrl="https://us1.campaign-archive.com/feed?u=faa8eb4ef3a111cef92c4f3d4&amp;id=e505c88a2e" htmlUrl="https://us1.campaign-archive.com/feed?u=faa8eb4ef3a111cef92c4f3d4&amp;id=e505c88a2e"/>
       <outline text="GitHub All Languages Daily Trending" title="GitHub All Languages Daily Trending" type="rss" xmlUrl="https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml" htmlUrl="http://mshibanami.github.io/GitHubTrendingRSS"/>
@@ -24,7 +25,6 @@
       <outline text="Application Management Blog" title="Application Management Blog" type="rss" xmlUrl="http://blogs.aws.amazon.com/application-management/blog/feed/recentPosts.rss" htmlUrl="http://blogs.aws.amazon.com/application-management/blog/feed/recentPosts.rss"/>
       <outline text="AWS Security Blog" title="AWS Security Blog" type="rss" xmlUrl="http://blogs.aws.amazon.com/security/blog/feed/recentPosts.rss" htmlUrl="http://blogs.aws.amazon.com/security/blog/feed/recentPosts.rss"/>
       <outline text="AWS Official Blog" title="AWS Official Blog" type="rss" xmlUrl="https://aws.amazon.com/blogs/aws/feed/" htmlUrl="https://aws.amazon.com/blogs/aws/"/>
-      <outline text="Udemy, udemyfreebies: top scoring links" title="Udemy, udemyfreebies: top scoring links" type="rss" xmlUrl="https://burkybang.com/reddit_rss/?rss=r/Udemy%2Budemyfreebies/top/.rss" htmlUrl="https://www.reddit.com/r/Udemy+udemyfreebies/top/?t=1628080556"/>
       <outline text="docker, kubernetes: top scoring links" title="docker, kubernetes: top scoring links" type="rss" xmlUrl="https://burkybang.com/reddit_rss/?rss=r/docker%2Bkubernetes/top/.rss" htmlUrl="https://www.reddit.com/r/docker+kubernetes/top/?t=1628081259"/>
       <outline text="Terraform, ansible, usefulscripts: top scoring links" title="Terraform, ansible, usefulscripts: top scoring links" type="rss" xmlUrl="https://burkybang.com/reddit_rss/?rss=r/Terraform%2Bansible%2Busefulscripts/top/.rss" htmlUrl="https://www.reddit.com/r/Terraform+ansible+usefulscripts/top/?t=1628081632"/>
       <outline text="devops: top scoring links" title="devops: top scoring links" type="rss" xmlUrl="https://burkybang.com/reddit_rss/?rss=r/devops/top/.rss" htmlUrl="https://www.reddit.com/r/devops/top/?t=1628082157"/>
@@ -84,6 +84,7 @@
       <outline text="Pinboard (popular bookmarks)" title="Pinboard (popular bookmarks)" type="rss" xmlUrl="http://feeds.pinboard.in/rss/popular/" htmlUrl="https://pinboard.in/popular/"/>
     </outline>
     <outline text="DevOps" title="DevOps">
+      <outline text="CloudFlare" title="CloudFlare" type="rss" xmlUrl="https://blog.cloudflare.com/rss/" htmlUrl="http://blog.cloudflare.com/"/>
       <outline text="GitHub All Languages Daily Trending" title="GitHub All Languages Daily Trending" type="rss" xmlUrl="https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml" htmlUrl="http://mshibanami.github.io/GitHubTrendingRSS"/>
       <outline text="LWN.net" title="LWN.net" type="rss" xmlUrl="http://lwn.net/headlines/newrss" htmlUrl="http://lwn.net/"/>
       <outline text="Dan Luu" title="Dan Luu" type="rss" xmlUrl="https://danluu.com/atom.xml" htmlUrl="http://danluu.com/"/>
@@ -94,14 +95,13 @@
       <outline text="cscareerquestions, compsci, ExperiencedDevs, learnprogramming, programming:top scoring links" title="cscareerquestions, compsci, ExperiencedDevs, learnprogramming, programming:top scoring links" type="rss" xmlUrl="https://burkybang.com/reddit_rss/?rss=r/ExperiencedDevs%2Bcompsci%2Bcscareerquestions%2Blearnprogramming%2Bprogramming/top/.rss" htmlUrl="https://www.reddit.com/r/ExperiencedDevs+compsci+cscareerquestions+learnprogramming+programming/top/?t=1640472177"/>
       <outline text="CloudSecList" title="CloudSecList" type="rss" xmlUrl="https://cloudseclist.com/feed.xml" htmlUrl="https://cloudseclist.com/"/>
       <outline text="Last Week in AWS" title="Last Week in AWS" type="rss" xmlUrl="https://www.lastweekinaws.com/feed" htmlUrl="https://www.lastweekinaws.com/"/>
-      <outline text="tl;dr sec" title="tl;dr sec" type="rss" xmlUrl="https://tldrsec.com/feed.xml" htmlUrl="https://tldrsec.com/"/>
+      <outline text="Application Management Blog" title="Application Management Blog" type="rss" xmlUrl="http://blogs.aws.amazon.com/application-management/blog/feed/recentPosts.rss" htmlUrl="http://blogs.aws.amazon.com/application-management/blog/feed/recentPosts.rss"/>
       <outline text="devops: top scoring links" title="devops: top scoring links" type="rss" xmlUrl="https://burkybang.com/reddit_rss/?rss=r/devops/top/.rss" htmlUrl="https://www.reddit.com/r/devops/top/?t=1628082157"/>
       <outline text="Terraform, ansible, usefulscripts: top scoring links" title="Terraform, ansible, usefulscripts: top scoring links" type="rss" xmlUrl="https://burkybang.com/reddit_rss/?rss=r/Terraform%2Bansible%2Busefulscripts/top/.rss" htmlUrl="https://www.reddit.com/r/Terraform+ansible+usefulscripts/top/?t=1628081632"/>
       <outline text="docker, kubernetes: top scoring links" title="docker, kubernetes: top scoring links" type="rss" xmlUrl="https://burkybang.com/reddit_rss/?rss=r/docker%2Bkubernetes/top/.rss" htmlUrl="https://www.reddit.com/r/docker+kubernetes/top/?t=1628081259"/>
       <outline text="Udemy, udemyfreebies: top scoring links" title="Udemy, udemyfreebies: top scoring links" type="rss" xmlUrl="https://burkybang.com/reddit_rss/?rss=r/Udemy%2Budemyfreebies/top/.rss" htmlUrl="https://www.reddit.com/r/Udemy+udemyfreebies/top/?t=1628080556"/>
       <outline text="AWS Official Blog" title="AWS Official Blog" type="rss" xmlUrl="https://aws.amazon.com/blogs/aws/feed/" htmlUrl="https://aws.amazon.com/blogs/aws/"/>
       <outline text="AWS Security Blog" title="AWS Security Blog" type="rss" xmlUrl="http://blogs.aws.amazon.com/security/blog/feed/recentPosts.rss" htmlUrl="http://blogs.aws.amazon.com/security/blog/feed/recentPosts.rss"/>
-      <outline text="Application Management Blog" title="Application Management Blog" type="rss" xmlUrl="http://blogs.aws.amazon.com/application-management/blog/feed/recentPosts.rss" htmlUrl="http://blogs.aws.amazon.com/application-management/blog/feed/recentPosts.rss"/>
       <outline text="AWS Recent Announcements" title="AWS Recent Announcements" type="rss" xmlUrl="https://aws.amazon.com/about-aws/whats-new/recent/feed/" htmlUrl="https://aws.amazon.com/about-aws/whats-new/recent/"/>
       <outline text="FastMail Status" title="FastMail Status" type="rss" xmlUrl="https://www.fastmailstatus.com/feed" htmlUrl="http://www.fastmailstatus.com/feed"/>
       <outline text="Hacker News: 100 Points" title="Hacker News: 100 Points" type="rss" xmlUrl="https://hnrss.org/newest?points=100" htmlUrl="https://news.ycombinator.com/newest"/>
@@ -116,6 +116,7 @@
       <outline text="The JetBrains Blog" title="The JetBrains Blog" type="rss" xmlUrl="https://blog.jetbrains.com/feed/" htmlUrl="https://blog.jetbrains.com/"/>
       <outline text="Visual Studio Code - Code Editing. Redefined." title="Visual Studio Code - Code Editing. Redefined." type="rss" xmlUrl="https://code.visualstudio.com/feed.xml" htmlUrl="http://code.visualstudio.com/"/>
       <outline text="Blog on restic" title="Blog on restic" type="rss" xmlUrl="https://restic.net/blog/index.xml" htmlUrl="https://restic.net/blog/"/>
+      <outline text="tl;dr sec" title="tl;dr sec" type="rss" xmlUrl="https://tldrsec.com/feed.xml" htmlUrl="https://tldrsec.com/"/>
     </outline>
     <outline text="Leisure" title="Leisure">
       <outline text="freelance, Upwork: top scoring links" title="freelance, Upwork: top scoring links" type="rss" xmlUrl="https://burkybang.com/reddit_rss/?rss=r/Upwork%2Bfreelance/top/.rss" htmlUrl="https://www.reddit.com/r/Upwork+freelance/top/?t=1640683594"/>
@@ -140,3 +141,5 @@
     </outline>
   </body>
 </opml>
+
+
