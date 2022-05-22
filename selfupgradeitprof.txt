@@ -112,6 +112,7 @@ Contents:
         VPS
         VPN
         BitTorrent
+        BackPacks
         Survival
         Chess
         Weather
@@ -637,6 +638,7 @@ Contents:
                 https://github.com/bregman-arie/devops-exercises
                 https://github.com/bregman-arie/devops-resources (DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP Topics)
                 https://github.com/Leo-G/DevopsWiki
+                https://github.com/MichaelCade/90DaysOfDevOps (This repository is my documenting repository for learning the world of DevOps)
                 https://github.com/microsoft/code-with-engineering-playbook (This is the playbook for "code-with" customer or partner engagements)
                 https://github.com/nmarus/docker-devops-box
                 https://github.com/Tikam02/DevOps-Guide
@@ -675,7 +677,7 @@ Contents:
                 https://gitlab.com/gitlab-com/runbooks (Run books for the stressed on call )
                 https://news.ycombinator.com/item?id=14153545 (What Is ‘Site Reliability Engineering’?)
                 https://rootly.com/blog/analyzing-sre-job-postings-from-amazon-to-microsoft (Analyzing SRE Job Postings - From Amazon to Microsoft)
-                https://sre.google/books
+                https://sre.google/books (Google SRE Books)
                 https://sreweekly.com
                 https://www.meetup.com/topics/site-reliability-engineering
                 https://www.usenix.org/srecon
@@ -688,6 +690,9 @@ Contents:
                 The Site Reliability Workbook: Practical Ways to Implement SRE
                 https://sre.google/workbook/table-of-contents
                 https://www.amazon.com/Site-Reliability-Workbook-Practical-Implement-ebook/dp/B07FWFPMYG
+
+                Building Secure & Reliable Systems
+                https://sre.google/static/pdf/building_secure_and_reliable_systems.pdf
 
         SysAdmin:
             Sources:
@@ -1229,7 +1234,7 @@ Contents:
                 https://www.amazon.com/aws-courses/b/?node=14297978011
                 https://www.chrisfarris.com/post/aws-organizations-in-2021 (AWS Organizations - Checklist for 2021)
                 https://www.cisecurity.org/benchmark/amazon_web_services (A step-by-step checklist to secure Amazon Web Services)
-                https://www.concurrencylabs.com/blog/choose-your-aws-region-wisely
+                https://www.concurrencylabs.com/blog/choose-your-aws-region-wisely (Save yourself a lot of pain (and money) by choosing your AWS Region wisely)
                 https://www.lastweekinaws.com/blog/the-17-ways-to-run-containers-on-aws (The 17 Ways to Run Containers on AWS)
                 https://www.reddit.com/r/aws/comments/on154c/lessons_learned_if_you_could_do_it_all_from_the (Lessons learned: if you could do it "all" from the start again, what would you do differently / anew in your AWS? (self.aws))
                 https://www.stackery.io/registry (Enter an AWS CloudFormation template for instant analysis)
@@ -3468,6 +3473,9 @@ Contents:
 
         News:
             Sources:
+                https://en.wikipedia.org/wiki/List_of_film_periodicals (List of film periodicals)
+                https://en.wikipedia.org/wiki/List_of_science_magazines (List of science magazines)
+                https://en.wikipedia.org/wiki/List_of_scientific_journals (List of scientific journals)
                 https://en.wikipedia.org/wiki/Special:Random
                 https://github.com/greybax/awesome-IT-films
                 https://github.com/topics/blogs?o=desc&s=stars
@@ -3546,7 +3554,9 @@ Contents:
                     https://www.newyorker.com (3,501)
                     https://www.khaleejtimes.com (3,566)
                     https://www.firstpost.com (4,079)
+                    https://nymag.com (4,455)
                     https://gulfnews.com (5,265)
+                    https://www.vanityfair.com (6,686)
                     https://www.nationalreview.com (11,308)
                     https://thewire.in (14,985)
 
@@ -3580,6 +3590,26 @@ Contents:
                     https://www.slashgear.com (14,179)
                     https://torrentfreak.com (15,675)
                     https://www.cultofmac.com (26,712)
+
+                Film Magazines: (Sorted by Alexa Rank)
+                    https://www.gamesradar.com/totalfilm (1,801)
+                    https://variety.com (1,940)
+                    https://www.hollywoodreporter.com (3,153)
+                    https://www.vulture.com (5,171)
+                    https://www.billboard.com (5,173)
+                    https://www.bfi.org.uk/sight-and-sound (29,207)
+                    https://www.empireonline.com (31,381)
+                    https://www.screendaily.com (80,295)
+                    https://www.afi.com (106,571)
+                    https://www.boxofficepro.com (151,544)
+                    https://www.moviemaker.com (189,797)
+                    https://ascmag.com/magazine (333,850)
+                    https://britishcinematographer.co.uk (384,223)
+                    https://www.filmcomment.com (385,372)
+                    https://brightlightsfilm.com (676,335)
+                    https://cinema-scope.com (1,922,984)
+                    https://metromagazine.com.au (2,626,008)
+                    https://www.cineaste.com (2,847,794)
 
                 Telegram:
                     Sources:
@@ -4011,6 +4041,20 @@ Contents:
                 https://popcorntime.app (54,315)
                 https://2torrentz.net (136,917)
 
+        BackPacks:
+            Sources:
+                https://docs.google.com/spreadsheets/d/18diE8YJ-1XTLLFuu-tOGsvf3BpiEg7cLZa8rjToCQn4 (Copy of Onebag (publicly editable version))
+                https://docs.google.com/spreadsheets/d/1fiwY3_R5_GpL5QZXMp-DY2t225OjUKEQ80lT27NVKUU ("One Bag" Travel Backpack Comparison)
+                https://docs.google.com/spreadsheets/d/1fSt_sO1s7moXPHbxBCD3JIKPa8QIZxtKWYUjD6ElZ-c (Onebag Options Spreadsheet)
+                https://news.ycombinator.com/item?id=13369197 (Ask HN: Do you carry a backpack? Which one?)
+                https://news.ycombinator.com/item?id=19521136 (Ask HN: What backpack are you using?)
+                https://onebag.travel
+                https://packhacker.com/guide/best-laptop-bag (Best Laptop Bag)
+                https://www.carryology.com/buyers-guide
+                https://www.reddit.com/r/onebag/comments/ubr007/i_analyzed_the_most_discussed_brands_on_ronebag (I analyzed the most discussed brands on r/onebag)
+                https://www.reddit.com/r/onebag/comments/ut800x/i_analyzed_the_top_50_most_popular_backpacks_on (I analyzed the top 50 most popular backpacks on r/onebag)
+                https://youtu.be/pSO9pSTK28Q (The Ultimate Laptop Bag Guide | How To Choose The Best Laptop Bag For You)
+
         Survival:
             Sources:
                 https://www.amazon.com/gp/bestsellers/books/465688 (Best Sellers in Safety & First Aid)
@@ -4087,7 +4131,6 @@ Contents:
         https://hackerspaces.org (Hackerspaces are community-operated physical places, where people share their interest in tinkering with technology, meet and work on their projects, and learn from each other)
         https://learn-anything.xyz
         https://news.ycombinator.com/item?id=17272715 (Ask HN: Any resources to learn the fundamentals of critical thinking?)
-        https://news.ycombinator.com/item?id=19521136 (Ask HN: What backpack are you using?)
         https://news.ycombinator.com/item?id=20007108 (Ask HN: Do you keep a personal knowledge repository?)
         https://news.ycombinator.com/item?id=20110922 (How to Draw Animals (1930) (dessinoprimaire.blogspot.com))
         https://news.ycombinator.com/item?id=20146168 (Sleep tweaks boost night owls' wellbeing (bbc.com))
@@ -4120,6 +4163,8 @@ Contents:
         https://www.reddit.com/r/AskReddit/comments/6k0p7l/what_are_the_best_free_online_certificates_you
         https://www.reddit.com/r/AskReddit/comments/6q2b8x/reddit_whats_become_clear_to_you_as_youve_gotten
         https://www.reddit.com/r/AskReddit/comments/70q5f2/reddit_what_are_the_most_useful_askreddit_posts
+        https://www.reddit.com/r/dataisbeautiful/comments/ujuui4/oc_the_most_discussed_brands_on_rbuyitforlife (OC: The most discussed brands on r/BuyItForLife)
+        https://www.reddit.com/r/EDC/comments/ur36lf/i_analyzed_the_top_50_most_mentioned_products_on (I analyzed the top 50 most mentioned products on r/EDC)
         https://www.reddit.com/r/india/wiki/useful_posts
 
     Support this page with these referral links:
