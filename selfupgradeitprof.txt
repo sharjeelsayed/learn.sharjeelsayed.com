@@ -253,7 +253,7 @@ Contents:
                 https://github.com/codecrafters-io/build-your-own-x (🤓 Build your own (insert technology here) )
                 https://github.com/danistefanovic/build-your-own-x
                 https://github.com/EbookFoundation/free-programming-books
-                https://github.com/kamranahmedse/developer-roadmap
+                https://github.com/kamranahmedse/developer-roadmap (Roadmap to becoming a developer in 2022 )
                 https://github.com/LeCoupa/awesome-cheatsheets
                 https://github.com/mehdihadeli/awesome-software-architecture (A curated list of awesome articles and resources to learn and practice about software architecture, patterns, and principles)
                 https://github.com/Michael0x2a/curated-programming-resources
@@ -650,7 +650,7 @@ Contents:
                 https://news.ycombinator.com/item?id=16357368 (Ask HN: Which books describe modern devops?)
                 https://news.ycombinator.com/item?id=29251343 (Ask HN: What is the fastest way to ramp up on DevOps, k8 and GCP?)
                 https://octopus.com/blog/devops-reading-list
-                https://roadmap.sh/devops
+                https://roadmap.sh/devops (Step by step guide for DevOps, SRE or any other Operations Role in 2022)
                 https://slack.cloudposse.com (SweetOps Slack Group)
                 https://www.actionsbyexample.com (GitHub Actions by Example is an introduction to the service through annotated examples.)
                 https://www.linkedin.com/groups/2825397 (DevOps Group)
@@ -1205,6 +1205,7 @@ Contents:
                 https://awsvideocatalog.com (AWS Video Catalog is a website that collects all the official Amazon videos)
                 https://comparecloud.in (Public Cloud Services Comparison)
                 https://d1.awsstatic.com/whitepapers/building_an_aws_perimeter.pdf (Building an AWS Perimeter)
+                https://dev.to/aws-heroes (This is a collection of articles written by AWS Heroes.)
                 https://expeditedsecurity.com/aws-in-plain-english
                 https://github.com/4ndersonLin/awesome-cloud-security (Awesome Cloud Security Resources)
                 https://github.com/anaibol/awesome-serverless
@@ -1572,7 +1573,7 @@ Contents:
                 https://news.ycombinator.com/item?id=23208181 (Ask HN: What PostgreSQL client do you use?)
                 https://pgtune.leopard.in.ua
                 https://postgresqlco.nf
-                https://roadmap.sh/postgresql-dba
+                https://roadmap.sh/postgresql-dba (Step by step guide to becoming a modern PostgreSQL DB Administrator in 2022)
                 https://theartofpostgresql.com (The book that teaches SQL to developers: Learn to replace thousands of lines of code with simple queries!)
                 https://tomcam.github.io/postgres (psql command line tutorial and cheat sheet)
                 https://www.udemy.com/topic/postgresql/?ratings=4.5&sort=popularity (Udemy Courses rated 4.5 stars and above)
@@ -1842,6 +1843,7 @@ Contents:
                 https://github.com/robertdavidgraham/masscan (TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.)
                 https://github.com/sbilly/awesome-security (A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.)
                 https://github.com/security-prince/Application-Security-Engineer-Interview-Questions (Some of the questions which i was asked when i was giving interviews for Application/Product Security roles.)
+                https://github.com/sottlmarek/DevSecOps (Ultimate DevSecOps library)
                 https://github.com/TalEliyahu/awesome-security-newsletters (Periodic cyber security newsletters that capture the latest news, summaries of conference talks, research, best practices, tools, events, vulnerabilities, and analysis of trending threats and attacks)
                 https://github.com/TalEliyahu/awesome-security-newsletters (Periodic cyber security newsletters that capture the latest news, summaries of conference talks, research, best practices, tools, events, vulnerabilities, and analysis of trending threats and attacks)
                 https://github.com/toniblyx/my-arsenal-of-aws-security-tools (List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.)
@@ -3203,6 +3205,7 @@ Contents:
                 https://news.ycombinator.com/item?id=20724959 (Ask HN: Where do you find new music to listen to online?)
                 https://news.ycombinator.com/item?id=27737887 (	Music for Programming (musicforprogramming.net))
                 https://news.ycombinator.com/item?id=27908441 (Yet another background music for developer, if you missed working at cafe (sudo.fm))
+                https://news.ycombinator.com/item?id=31470928 (	Lofi.co – Relax and Focus (lofi.co))
                 https://news.ycombinator.com/item?id=9767943 (Do Binaural Beats Really Affect Brainwaves? (autodidacts.io))
                 https://open.spotify.com/user/22jszrk35ji6sm6qewxzsly4a?si=DVuJ0DSLQ7mLqfXy4nkLTQ
                 https://www.musicforprogramming.net
@@ -3552,6 +3555,7 @@ Contents:
                     https://www.vox.com (2,721)
                     https://www.newyorker.com (2,930)
                     https://www.financialexpress.com (3,564)
+                    https://fortune.com (3,786)
                     https://www.khaleejtimes.com (4,130)
                     https://nymag.com (4,452)
                     https://www.firstpost.com (5,308)
@@ -3739,6 +3743,7 @@ Contents:
                 https://lwn.net (73,553)
                 https://danielmiessler.com/newsletter (96,519)
                 https://www.ben-evans.com/newsletter (107,535)
+                https://join1440.com (110,818)
                 https://www.schneier.com/crypto-gram (171,909)
                 https://thebrowser.com (301,904)
                 https://www.lastweekinaws.com (359,464)
@@ -4166,6 +4171,7 @@ Contents:
         https://www.reddit.com/r/AskReddit/comments/6q2b8x/reddit_whats_become_clear_to_you_as_youve_gotten
         https://www.reddit.com/r/AskReddit/comments/70q5f2/reddit_what_are_the_most_useful_askreddit_posts
         https://www.reddit.com/r/dataisbeautiful/comments/ujuui4/oc_the_most_discussed_brands_on_rbuyitforlife (OC: The most discussed brands on r/BuyItForLife)
+        https://www.reddit.com/r/EDC/comments/7j7lrs/edc_starter_pack_an_arbitrary_list_of_gear_that (EDC Starter Pack: An Arbitrary List of Gear that Gets Recommended a Lot)
         https://www.reddit.com/r/EDC/comments/ur36lf/i_analyzed_the_top_50_most_mentioned_products_on (I analyzed the top 50 most mentioned products on r/EDC)
         https://www.reddit.com/r/india/wiki/useful_posts
 
