@@ -632,7 +632,7 @@ Contents:
         DevOps:
             Sources:
                 http://www.devopsbookmarks.com
-                https://devopsengineers.com (SLACK CHANNEL)
+                https://devopsengineers.com (Slack Channel)
                 https://devopsnewsletters.com
                 https://github.com/AcalephStorage/awesome-devops
                 https://github.com/bregman-arie/devops-exercises
@@ -669,6 +669,7 @@ Contents:
 
         SRE:
             Sources:
+                https://discord.gg/6YJfwpsebh (SRE/DevOps Community)
                 https://enterprisersproject.com/article/2021/3/7-top-site-reliability-engineer-sre-job-interview-questions
                 https://github.com/dastergon/awesome-sre
                 https://github.com/linkedin/school-of-sre
