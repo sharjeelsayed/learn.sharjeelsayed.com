@@ -931,9 +931,9 @@ Contents:
                 https://github.com/dockersamples/example-voting-app (Example Docker Compose app)
                 https://github.com/dokku/dokku
                 https://github.com/hadolint/hadolint
-                https://github.com/hexops/dockerfile
+                https://github.com/hexops/dockerfile (Dockerfile best-practices for writing production-worthy Docker images. )
                 https://github.com/jesseduffield/lazydocker (The lazier way to manage everything docker)
-                https://github.com/jessfraz/dockerfiles
+                https://github.com/jessfraz/dockerfiles (Various Dockerfiles I use on the desktop and on servers. )
                 https://github.com/magicmark/composerize (Turns docker run commands into docker-compose files!)
                 https://github.com/myugan/awesome-docker-security (A curated list of awesome Docker security resources)
                 https://github.com/p8952/bocker (Docker implemented in around 100 lines of bash)
@@ -2594,6 +2594,9 @@ Contents:
                 Blind 75 Must Do Leetcode
                 https://leetcode.com/list/xi4ci4ig
 
+                These are the best resources for System Design on the Internet
+                https://github.com/InterviewReady/system-design-resources
+
             Coding Challenge Websites: (Sorted by Alexa Rank):
                 https://leetcode.com (1,515)
                 https://www.hackerrank.com (2,012)
@@ -3561,6 +3564,7 @@ Contents:
                     https://nymag.com (4,452)
                     https://www.firstpost.com (5,308)
                     https://gulfnews.com (5,771)
+                    https://www.thequint.com (6,599)
                     https://www.vanityfair.com (6,685)
                     https://www.nationalreview.com (10,157)
                     https://scroll.in (11,329)
