@@ -352,6 +352,9 @@ Contents:
                 The Architecture of Open Source Applications
                 http://aosabook.org
 
+                Code: The Hidden Language of Computer Hardware and Software 2nd Edition
+                http://www.charlespetzold.com/blog/2022/06/Announcing-Code-2nd-Edition.html
+
         Computer Architecture:
             Sources:
                 https://news.ycombinator.com/item?id=14526344 (Build a Modern Computer from First Principles: Nand to Tetris Part II)
@@ -855,6 +858,8 @@ Contents:
                 https://github.com/moul/awesome-ssh
                 https://github.com/opsdisk/the_cyber_plumbers_handbook (The definitive guide to Secure Shell (SSH) tunneling, port redirection, and bending traffic like a boss.)
                 https://github.com/topics/ssh?o=desc&s=stars
+                https://github.com/topics/tunnel?o=desc&s=stars
+                https://github.com/yarrick/iodine (tunnel IPv4 data through a DNS server)
                 https://goteleport.com/blog/security-hardening-ssh-bastion-best-practices (SSH Bastion Host Best Practices)
                 https://news.ycombinator.com/item?id=10726158 (Poor man's VPN via ssh socks proxy (redpill-linpro.com))
                 https://news.ycombinator.com/item?id=26053323 (	A visual guide to SSH tunnels (robotmoon.com))
@@ -1464,8 +1469,8 @@ Contents:
                 https://www.redhat.com/en/services/training/do007-ansible-essentials-simplicity-automation-technical-overview
 
             Additional Courses:
-                Ansible Crash Course by Michael Crilly
-                https://www.thecloud.coach/courses/ansible-crash-course
+                Dive Into Ansible - From Beginner to Expert in Ansible by James Spurin
+                https://www.udemy.com/course/diveintoansible
 
         Terraform:
             Sources:
@@ -3601,6 +3606,7 @@ Contents:
                     https://www.slashgear.com (29,253)
                     https://www.geekwire.com (33,001)
                     https://www.cultofmac.com (41,901)
+                    https://www.macstories.net (210,750)
 
                 Film Magazines: (Sorted by Alexa Rank)
                     https://www.gamesradar.com/totalfilm (1,801)
