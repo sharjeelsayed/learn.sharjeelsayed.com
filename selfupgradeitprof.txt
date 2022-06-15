@@ -1088,16 +1088,18 @@ Contents:
                 Kubernetes Hands-On - Deploy Microservices to the AWS Cloud by Richard Chesterwood, Virtual Pair Programmers and Prageeth Warnak
                 https://www.udemy.com/course/kubernetes-microservices
 
-                Kubernetes and Docker - An Enterprise Guide: Effectively containerize applications, integrate enterprise systems, and scale applications in your enterprise by Scott Surovich and Marc Boorshtein
-                https://www.amazon.com/Kubernetes-Docker-Effectively-containerize-applications/dp/183921340X
+                Kubernetes – An Enterprise Guide: Effectively containerize applications, integrate enterprise systems, and scale applications in your enterprise, 2nd Edition by Scott Surovich and Marc Boorshtein
+                https://www.amazon.com/Kubernetes-Enterprise-Effectively-containerize-applications-dp-1803230037/dp/1803230037
 
                 Kubernetes: Up and Running: Dive into the Future of Infrastructure 2nd Edition
                 https://learning.oreilly.com/library/view/kubernetes-up-and/9781492046523
                 https://tanzu.vmware.com/content/ebooks/kubernetes-up-running-dive-into-the-future-of-infrastructure
                 https://www.amazon.com/Kubernetes-Running-Dive-Future-Infrastructure/dp/1492046531
+                https://www.amazon.com/Kubernetes-Running-Dive-Future-Infrastructure-dp-109811020X/dp/109811020X (Kubernetes: Up and Running 3rd Edition Releasing on 6 Sep 2022)
 
-                Kubernetes in Action, Second Edition by Marko Lukša
-                https://www.manning.com/books/kubernetes-in-action-second-edition (In Prgress, expected to complete by Spring 2022)
+                Kubernetes in Action, Second Edition by Marko Lukša (Releasing on October 25, 2022)
+                https://www.amazon.com/Kubernetes-Action-Second-Marko-Luk%C5%A1a/dp/1617297615
+                https://www.manning.com/books/kubernetes-in-action-second-edition
 
                 Kubernetes Tutorial for Beginners [FULL COURSE in 4 Hours] by TechWorld with Nana
                 https://youtu.be/X48VuDVv0do
@@ -1144,10 +1146,15 @@ Contents:
                 https://www.reddit.com/r/kubernetes
 
             Additional Material:
-                Certified Kubernetes Administrator 2020 by Zeal Vora
+                Certified Kubernetes Administrator 2022 by Zeal Vora
                 https://www.udemy.com/course/certified-kubernetes-administrator
                 https://github.com/zealvora/certified-kubernetes-administrator
                 https://github.com/zealvora/coupon-codes
+
+                Kubernetes: Dive Into Kubernetes in One Hour! Fully Hands On by James Spurin
+                https://www.udemy.com/course/diveintokubernetes-introduction
+                https://github.com/spurin/diveintokubernetes-introduction-resources
+                https://youtu.be/n4zxKk2an3U
 
                 Kubernetes Learning Path :50 Days From Zero To Hero with Kubernetes by Azure
                 https://azure.microsoft.com/en-us/resources/kubernetes-learning-path
@@ -3768,6 +3775,7 @@ Contents:
                 https://sreweekly.com (2,522,079)
                 https://cloudseclist.com (3,016,496)
                 https://www.devopsweekly.com (3,957,079)
+                https://eks.news (n/a)
                 https://ipj.dreamhosters.com (n/a)
                 https://thisweekindevops.com (n/a)
 
