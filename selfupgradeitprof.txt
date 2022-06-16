@@ -970,8 +970,13 @@ Contents:
                 https://learning.oreilly.com/videos/docker-swarm/9781788991414
                 https://www.udemy.com/course/learn-docker-advanced
 
-                Docker Tutorial for Beginners [FULL COURSE in 3 Hours] by  TechWorld with Nana
+                Docker Tutorial for Beginners [FULL COURSE in 3 Hours] by TechWorld with Nana
                 https://youtu.be/3c-iBn73dDE
+
+                Docker Deep Dive: Zero to Docker in a single book by Nigel Poulton
+                https://www.amazon.com/Docker-Deep-Dive-Nigel-Poulton-ebook/dp/B01LXWQUFF
+                https://leanpub.com/dockerdeepdive
+                https://www.oreilly.com/library/view/docker-deep-dive/9781800565135
 
                 Docker for Developers: Develop and run your application with Docker containers using DevOps tools for continuous delivery by Richard Bullington-McGuire, Andrew K. Dennis, Michael Schwartz
                 https://www.amazon.com/Docker-Developers-application-containers-continuous-ebook/dp/B08C5LSHGW
@@ -1003,6 +1008,7 @@ Contents:
                 https://github.com/aquasecurity/kube-bench (Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark )
                 https://github.com/armosec/kubescape (kubescape is the first tool for testing if Kubernetes is deployed securely as defined in Kubernetes Hardening Guidance by to NSA and CISA)
                 https://github.com/askmeegs/learn-istio
+                https://github.com/containerd/nerdctl (contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ... )
                 https://github.com/datreeio/datree (Prevent Kubernetes misconfigurations from reaching production (again 😤 )! Datree is a CLI tool to ensure K8s manifests and Helm charts follow best practices as well as your organization’s policies)
                 https://github.com/dennyzhang/cheatsheet-kubernetes-A4
                 https://github.com/diegolnasc/kubernetes-best-practices (A cookbook with the best practices for working with kubernetes)
@@ -1063,7 +1069,7 @@ Contents:
                 https://techbeacon.com/enterprise-it/47-advanced-tutorials-mastering-kubernetes
                 https://www.atomiccommits.io/everything-useful-i-know-about-kubectl
                 https://www.datadoghq.com/container-report (Oct 2021 report on Kubernetes and Docker Usage)
-                https://www.flatcar-linux.org
+                https://www.flatcar.org (A community Linux distribution designed for container workloads, with high security and low maintenance)
                 https://www.katacoda.com/courses/kubernetes (Learn Kubernetes using Interactive Browser-Based Scenarios By Ben Hall, Jonathan Johnson, Richard Li, Peter Benjamin)
                 https://www.learncloudnative.com/blog/2022-05-10-kubectl-tips (Kubernetes CLI (kubectl) tips you didn't know about)
                 https://www.nsa.gov/Press-Room/News-Highlights/Article/Article/2716980/nsa-cisa-release-kubernetes-hardening-guidance/utm_source/nsa-cisa-release-kubernetes-hardening-guidance (NSA, CISA release Kubernetes Hardening Guidance)
@@ -1088,18 +1094,30 @@ Contents:
                 Kubernetes Hands-On - Deploy Microservices to the AWS Cloud by Richard Chesterwood, Virtual Pair Programmers and Prageeth Warnak
                 https://www.udemy.com/course/kubernetes-microservices
 
-                Kubernetes – An Enterprise Guide: Effectively containerize applications, integrate enterprise systems, and scale applications in your enterprise, 2nd Edition by Scott Surovich and Marc Boorshtein
-                https://www.amazon.com/Kubernetes-Enterprise-Effectively-containerize-applications-dp-1803230037/dp/1803230037
-
-                Kubernetes: Up and Running: Dive into the Future of Infrastructure 2nd Edition
-                https://learning.oreilly.com/library/view/kubernetes-up-and/9781492046523
-                https://tanzu.vmware.com/content/ebooks/kubernetes-up-running-dive-into-the-future-of-infrastructure
-                https://www.amazon.com/Kubernetes-Running-Dive-Future-Infrastructure/dp/1492046531
-                https://www.amazon.com/Kubernetes-Running-Dive-Future-Infrastructure-dp-109811020X/dp/109811020X (Kubernetes: Up and Running 3rd Edition Releasing on 6 Sep 2022)
+                Kubernetes: Dive Into Kubernetes in One Hour! Fully Hands On by James Spurin
+                https://www.udemy.com/course/diveintokubernetes-introduction
+                https://github.com/spurin/diveintokubernetes-introduction-resources
+                https://youtu.be/n4zxKk2an3U
 
                 Kubernetes in Action, Second Edition by Marko Lukša (Releasing on October 25, 2022)
                 https://www.amazon.com/Kubernetes-Action-Second-Marko-Luk%C5%A1a/dp/1617297615
                 https://www.manning.com/books/kubernetes-in-action-second-edition
+                https://github.com/luksa/kubernetes-in-action
+                https://github.com/luksa/kubernetes-in-action-2nd-edition
+
+                Kubernetes: Up and Running: Dive into the Future of Infrastructure 2nd Edition
+                https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/docs/vmware-kubernetes-up-running-dive-into-the-future-of-infrastructure.pdf
+                https://learning.oreilly.com/library/view/kubernetes-up-and/9781492046523
+                https://tanzu.vmware.com/content/ebooks/kubernetes-up-running-dive-into-the-future-of-infrastructure
+                https://www.amazon.com/Kubernetes-Running-Dive-Future-Infrastructure/dp/1492046531
+                https://www.amazon.com/Kubernetes-Running-Dive-Future-Infrastructure-dp-109811020X/dp/109811020X (Kubernetes: Up and Running 3rd Edition Releasing on 6 Sep 2022)
+                https://www.oreilly.com/library/view/kubernetes-up-and/9781098110192 (Kubernetes: Up and Running 3rd Edition Releasing on 6 Sep 2022)
+
+                The Kubernetes Book by Nigel Poulton
+                https://www.amazon.com/Kubernetes-Book-Version-November-2018-ebook-dp-B072TS9ZQZ/dp/B072TS9ZQZ
+                https://leanpub.com/thekubernetesbook
+                https://github.com/nigelpoulton/TheK8sBook (YAML files for use with The Kubernetes Book)
+                https://nigelpoulton.com/for-individuals (Nigel's learning Roadmap:7 Steps to learn Kubernetes and Docker)
 
                 Kubernetes Tutorial for Beginners [FULL COURSE in 4 Hours] by TechWorld with Nana
                 https://youtu.be/X48VuDVv0do
@@ -1112,10 +1130,6 @@ Contents:
 
                 Amazon EKS Terraform Workshop
                 https://tf-eks-workshop.workshop.aws
-
-                The Kubernetes Book by Nigel Poulton
-                https://www.amazon.com/Kubernetes-Book-Version-November-2018-ebook-dp-B072TS9ZQZ/dp/B072TS9ZQZ
-                https://nigelpoulton.com/for-individuals (Nigel's learning Roadmap:7 Steps to learn Kubernetes and Docker)
 
             CKA/CKAD/CKS
                 https://github.com/cncf/curriculum
@@ -1151,17 +1165,20 @@ Contents:
                 https://github.com/zealvora/certified-kubernetes-administrator
                 https://github.com/zealvora/coupon-codes
 
-                Kubernetes: Dive Into Kubernetes in One Hour! Fully Hands On by James Spurin
-                https://www.udemy.com/course/diveintokubernetes-introduction
-                https://github.com/spurin/diveintokubernetes-introduction-resources
-                https://youtu.be/n4zxKk2an3U
-
                 Kubernetes Learning Path :50 Days From Zero To Hero with Kubernetes by Azure
                 https://azure.microsoft.com/en-us/resources/kubernetes-learning-path
                 https://www.youtube.com/playlist?list=PLLasX02E8BPCrIhFrc_ZiINhbRkYMKdPT Kubernetes Basics by Kubernetes cofounder Brendan Burns
 
                 Kubernetes for Full-Stack Developers
                 https://www.digitalocean.com/community/curriculums/kubernetes-for-full-stack-developers
+
+                Kubernetes – An Enterprise Guide: Effectively containerize applications, integrate enterprise systems, and scale applications in your enterprise, 2nd Edition by Scott Surovich and Marc Boorshtein
+                https://www.amazon.com/Kubernetes-Enterprise-Effectively-containerize-applications-dp-1803230037/dp/1803230037
+
+                Quick Start Kubernetes by Nigel Poulton
+                https://www.amazon.com/dp/B08T21NW4Z
+                https://leanpub.com/quickstartkubernetes
+                https://github.com/nigelpoulton/qsk-book (Quick Start Kubernetes book on GitHub)
 
             K8s Visual management: (Sorted by Alexa Rank)
                 https://k8slens.dev (536,393)
