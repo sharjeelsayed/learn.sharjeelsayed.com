@@ -1005,6 +1005,7 @@ Contents:
                 https://cloud.redhat.com/blog/top-open-source-kubernetes-security-tools-of-2021 (Top Open Source Kubernetes Security Tools of 2021)
                 https://devopsunlocked.com/kubernetes-learning-material
                 https://github.com/ahmetb/kubernetes-network-policy-recipes
+                https://github.com/alexellis/k3sup (bootstrap Kubernetes with k3s over SSH < 1 min 🚀)
                 https://github.com/aquasecurity/kube-bench (Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark )
                 https://github.com/armosec/kubescape (kubescape is the first tool for testing if Kubernetes is deployed securely as defined in Kubernetes Hardening Guidance by to NSA and CISA)
                 https://github.com/askmeegs/learn-istio
@@ -1026,14 +1027,15 @@ Contents:
                 https://github.com/nevalla/lens-resource-map-extension (Lens - The Kubernetes IDE extension that displays Kubernetes resources and their relations as a force graph.)
                 https://github.com/nkuba/k8s-admin-helper
                 https://github.com/r0hi7/k8s-In-30Mins (Learn how to set up the Kubernetes cluster in 30 mins and deploy the application inside the cluster.)
-                https://github.com/ramitsurana/awesome-kubernetes
+                https://github.com/ramitsurana/awesome-kubernetes (A curated list for awesome kubernetes sources 🚢🎉)
                 https://github.com/salesforce/sloop (Kubernetes History Visualization)
                 https://github.com/terraform-aws-modules/terraform-aws-eks
-                https://github.com/tomhuang12/awesome-k8s-resources
+                https://github.com/tomhuang12/awesome-k8s-resources (A curated list of awesome Kubernetes tools and resources.)
                 https://github.com/topics/kubernetes?o=desc&s=stars
                 https://github.com/zegl/kube-score (Kubernetes object analysis with recommendations for improved reliability and security)
                 https://goo.gl/Rywkpd (The Kubernetes Learning Resources List)
                 https://hackr.io/tutorials/learn-kubernetes
+                https://k3d.io (k3d is a lightweight wrapper to run k3s in docker.)
                 https://k3s.io (The certified Kubernetes distribution built for IoT & Edge computing)
                 https://k8syaml.com (Kubernetes YAML Generator)
                 https://kind.sigs.k8s.io (kind is a tool for running local Kubernetes clusters using Docker container “nodes”.)
@@ -1057,15 +1059,14 @@ Contents:
                 https://minikube.sigs.k8s.io (minikube quickly sets up a local Kubernetes cluster on macOS, Linux, and Windows.)
                 https://mjarosie.github.io/dev/2021/09/15/iam-roles-for-kubernetes-service-accounts-deep-dive.html (IAM roles for Kubernetes service accounts - deep dive)
                 https://napo.io/posts/kubernetes-the-real-hard-way-on-aws
-                https://news.ycombinator.com/item?id=22597880 (Kind - run local Kubernetes clusters using Docker (k8s.io))
-                https://news.ycombinator.com/item?id=22689119 (Anyone have a recommended guide for Kubernetes?)
                 https://news.ycombinator.com/item?id=29251343 (Ask HN: What is the fastest way to ramp up on DevOps, k8 and GCP?)
                 https://rancher.com (Rancher is a Kubernetes-based container orchestration platform)
+                https://rancher.com/products/rancher-desktop (Rancher Desktop lets developers easily run Kubernetes on their desktop)
                 https://redhatspain.com/kubernetes (A curated list of awesome references collected since 2018.)
                 https://registry.terraform.io/modules/terraform-aws-modules/eks/aws
                 https://snyk.io/blog/10-kubernetes-security-context-settings-you-should-understand (10 Kubernetes Security Context settings you should understand)
                 https://sparkle.adroitcorp.com.au/market (Flashcards)
-                https://t.me/learnk8s
+                https://t.me/learnk8s (Telegram channel for learning Kubernetes)
                 https://techbeacon.com/enterprise-it/47-advanced-tutorials-mastering-kubernetes
                 https://www.atomiccommits.io/everything-useful-i-know-about-kubectl
                 https://www.datadoghq.com/container-report (Oct 2021 report on Kubernetes and Docker Usage)
@@ -1102,8 +1103,11 @@ Contents:
                 Kubernetes in Action, Second Edition by Marko Lukša (Releasing on October 25, 2022)
                 https://www.amazon.com/Kubernetes-Action-Second-Marko-Luk%C5%A1a/dp/1617297615
                 https://www.manning.com/books/kubernetes-in-action-second-edition
-                https://github.com/luksa/kubernetes-in-action
+                https://livebook.manning.com/book/kubernetes-in-action-second-edition
                 https://github.com/luksa/kubernetes-in-action-2nd-edition
+                https://www.manning.com/books/kubernetes-in-action
+                https://livebook.manning.com/book/kubernetes-in-action
+                https://github.com/luksa/kubernetes-in-action
 
                 Kubernetes: Up and Running: Dive into the Future of Infrastructure 2nd Edition
                 https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/docs/vmware-kubernetes-up-running-dive-into-the-future-of-infrastructure.pdf
