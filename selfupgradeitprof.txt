@@ -109,7 +109,7 @@ Contents:
         Podcasts
         Email
         Backup
-        VPS
+        Hosting
         VPN
         BitTorrent
         BackPacks
@@ -268,7 +268,7 @@ Contents:
                 https://github.com/tuvtran/project-based-learning
                 https://github.com/twowaits/SDE-Interview-Questions
                 https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=every%20programmer&sort=byPopularity&type=story (Things every programmer should know)
-                https://insights.stackoverflow.com/survey/2021 (2021 Developer Survey)
+                https://survey.stackoverflow.co/2022 (2022 Developer Survey)
                 https://learnxinyminutes.com
                 https://mapfilterfold.com/?genre=programming
                 https://missing.csail.mit.edu (The Missing Semester of Your CS Education)
@@ -659,6 +659,7 @@ Contents:
                 https://www.linkedin.com/groups/2825397 (DevOps Group)
                 https://www.reddit.com/r/devops/comments/n2l9ja/which_are_your_favourite_youtube_channelsblogs
                 https://www.reddit.com/r/DevOps/wiki/resources
+                https://youtube.com/playlist?list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak (DevOps Bootcamp by Kunal Kushwaha)
 
             Books and Courses:
                 The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win
@@ -978,10 +979,6 @@ Contents:
                 https://leanpub.com/dockerdeepdive
                 https://www.oreilly.com/library/view/docker-deep-dive/9781800565135
 
-                Docker for Developers: Develop and run your application with Docker containers using DevOps tools for continuous delivery by Richard Bullington-McGuire, Andrew K. Dennis, Michael Schwartz
-                https://www.amazon.com/Docker-Developers-application-containers-continuous-ebook/dp/B08C5LSHGW
-                https://www.packtpub.com/product/docker-for-developers/9781789536058
-
             Additional Material:
                 Play with Docker Classroom
                 https://training.play-with-docker.com
@@ -993,6 +990,10 @@ Contents:
                 https://www.udemy.com/course/docker-mastery
                 https://chat.bretfisher.com
                 https://www.fb.com/bretfisher.devops
+
+                Docker for Developers: Develop and run your application with Docker containers using DevOps tools for continuous delivery by Richard Bullington-McGuire, Andrew K. Dennis, Michael Schwartz
+                https://www.amazon.com/Docker-Developers-application-containers-continuous-ebook/dp/B08C5LSHGW
+                https://www.packtpub.com/product/docker-for-developers/9781789536058
 
         Kubernetes:
             Sources:
@@ -1104,6 +1105,7 @@ Contents:
                 https://www.amazon.com/Kubernetes-Action-Second-Marko-Luk%C5%A1a/dp/1617297615
                 https://www.manning.com/books/kubernetes-in-action-second-edition
                 https://livebook.manning.com/book/kubernetes-in-action-second-edition
+                https://wangwei1237.github.io/Kubernetes-in-Action-Second-Edition
                 https://github.com/luksa/kubernetes-in-action-2nd-edition
                 https://www.manning.com/books/kubernetes-in-action
                 https://livebook.manning.com/book/kubernetes-in-action
@@ -1934,7 +1936,7 @@ Contents:
                 http://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity
 
                 Offensive Security Certified Professional
-                https://www.offensive-security.com/information-security-certifications/oscp-offensive-security-certified-professional
+                https://www.offensive-security.com/pwk-oscp
 
                 The Hacker Playbook 3: Practical Guide To Penetration Testing
                 https://www.amazon.com/Hacker-Playbook-Practical-Penetration-Testing/dp/1980901759
@@ -2166,29 +2168,32 @@ Contents:
                 https://yahnd.com (Best courses , talks and videos recommended on Hacker News)
 
             Online Course Portals: (Sorted by Alexa Rank)
-                https://www.linkedin.com/learning (54)
-                https://www.udemy.com (106)
-                https://www.coursera.org (265)
-                https://www.khanacademy.org (498)
-                https://www.edx.org (1,007)
-                https://www.freecodecamp.org (1,874)
-                https://www.udacity.com (2,756)
-                https://learning.oreilly.com (2,821)
-                https://www.datacamp.com (3,616)
-                https://www.pluralsight.com (4,596)
-                https://teamtreehouse.com (8,002)
-                https://acloud.guru (11,262)
-                https://www.infosecinstitute.com/skills (21,207)
-                https://www.whizlabs.com (24,015)
-                https://cloudacademy.com (28,697)
-                https://www.goskills.com (32,972)
-                https://www.skillsoft.com (36,295)
-                https://www.cbtnuggets.com (44,584)
-                https://kodekloud.com (65,218)
-                https://www.itpro.tv (90,504)
-                https://learn.cantrill.io (137,485)
-                https://learnk8s.io (369,264)
-                https://cloudskills.io (756,742)
+                https://www.linkedin.com/learning (14)
+                https://www.udemy.com (117)
+                https://www.coursera.org (281)
+                https://www.freecodecamp.org (693)
+                https://www.khanacademy.org (1,172)
+                https://www.edx.org (1,409)
+                https://www.codecademy.com (2094)
+                https://www.udacity.com (2,161)
+                https://www.pluralsight.com (2,346)
+                https://learning.oreilly.com (2,532)
+                https://www.datacamp.com (3,135)
+                https://teamtreehouse.com (17,568)
+                https://acloud.guru (19,202)
+                https://www.infosecinstitute.com/skills (22,461)
+                https://kodekloud.com (26,765)
+                https://www.cbtnuggets.com (29,546)
+                https://www.whizlabs.com (32,664)
+                https://cloudacademy.com (41,101)
+                https://www.goskills.com (41,665)
+                https://www.cybrary.it (44,726)
+                https://ine.com (48,116)
+                https://www.skillsoft.com (63,865)
+                https://learn.cantrill.io (86,397)
+                https://www.itpro.tv (90,812)
+                https://academy.tcm-sec.com (144,285)
+                https://learnk8s.io (172,663)
 
     Development:
         SQL:
@@ -2735,6 +2740,7 @@ Contents:
                 https://www.workingnomads.co/jobs (128,494)
                 https://relocate.me (155,692)
                 https://himalayas.app (158,672)
+                https://www.jobget.com (190,120)
                 https://remoteleaf.com/whoishiring (684,542)
                 https://allremote.jobs (749,536)
                 https://whoishiring.io (934,790)
@@ -3479,9 +3485,9 @@ Contents:
                 https://www.scientificamerican.com (6,255)
                 https://www.popularmechanics.com (9,174)
                 https://www.smithsonianmag.com (9,333)
+                https://www.newscientist.com (12,397)
                 https://www.technologyreview.com (12,480)
                 https://www.popsci.com (12,904)
-                https://www.newscientist.com (13,688)
                 https://phys.org (13,801)
                 https://newatlas.com (17,416)
                 https://www.discovermagazine.com (21,119)
@@ -3568,7 +3574,7 @@ Contents:
                     https://forbes.com (341)
                     https://www.wsj.com (359)
                     https://www.moneycontrol.com (393)
-                    https://bloomberg.com (423)
+                    https://bloomberg.com (459)
                     https://www.news18.com (519)
                     https://ndtv.com (544)
                     https://abcnews.go.com (561)
@@ -3784,6 +3790,7 @@ Contents:
                 https://www.ben-evans.com/newsletter (107,535)
                 https://join1440.com (110,818)
                 https://www.schneier.com/crypto-gram (171,909)
+                https://tldr.tech (275,317)
                 https://thebrowser.com (301,904)
                 https://www.lastweekinaws.com (359,464)
                 https://www.emergingtechbrew.com (1,131,395)
@@ -3992,7 +3999,7 @@ Contents:
                 Wasabi Object Storage
                 https://wasabi.com
 
-        VPS:
+        Hosting:
             Sources:
                 https://github.com/awesome-selfhosted/awesome-selfhosted
                 https://github.com/joedicastro/vps-comparison
@@ -4007,14 +4014,22 @@ Contents:
                 https://www.vpsbenchmarks.com
                 https://pinboard.in/u:SharjeelSayed/t:vps
 
-            VPS Providers: (Sorted by Alexa Rank)
-                https://www.digitalocean.com (2,492)
-                https://www.ovh.com (4,446)
-                https://www.linode.com (6,612)
-                https://www.hetzner.com (7,282)
-                https://www.vultr.com (11,689)
-                https://upcloud.com (13,683)
-                https://www.scaleway.com (16,100)
+            Hosting Providers: (Sorted by Alexa Rank)
+                https://cloud.google.com/compute (1)
+                https://firebase.google.com (1)
+                https://aws.amazon.com (9)
+                https://azure.microsoft.com (18)
+                https://www.oracle.com/in/cloud (395)
+                https://www.ibm.com/in-en/cloud (615)
+                https://www.digitalocean.com (678)
+                https://www.vultr.com (1,971)
+                https://www.heroku.com (2,472)
+                https://www.linode.com (3,535)
+                https://www.rackspace.com (4,119)
+                https://www.hetzner.com (5,030)
+                https://www.ovh.com (6,016)
+                https://upcloud.com (27,258)
+                https://www.scaleway.com (28,667)
 
         VPN:
             Sources:
@@ -4165,6 +4180,7 @@ Contents:
         https://freenode.net
         https://github.com/antontarasenko/smq/blob/master/reports/hackernews-links-in-comments.md (Most mentioned links in Hacker News comments, 2006–2015)
         https://github.com/chubin/awesome-console-services (A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols))
+        https://github.com/girliemac/a-picture-is-worth-a-1000-words (I am trying to describe complex matters in simple doodles!)
         https://github.com/gothinkster/realworld ("The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more)
         https://github.com/jbranchaud/til (Today I Learned)
         https://github.com/jnv/lists (The definitive list of lists (of lists) curated on GitHub and elsewhere )
