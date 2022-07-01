@@ -253,6 +253,7 @@ Contents:
                 https://github.com/codecrafters-io/build-your-own-x (🤓 Build your own (insert technology here) )
                 https://github.com/danistefanovic/build-your-own-x
                 https://github.com/EbookFoundation/free-programming-books
+                https://github.com/hackclub/some-assembly-required (An approachable introduction to assembly.)
                 https://github.com/kamranahmedse/developer-roadmap (Roadmap to becoming a developer in 2022 )
                 https://github.com/LeCoupa/awesome-cheatsheets
                 https://github.com/mehdihadeli/awesome-software-architecture (A curated list of awesome articles and resources to learn and practice about software architecture, patterns, and principles)
@@ -268,7 +269,6 @@ Contents:
                 https://github.com/tuvtran/project-based-learning
                 https://github.com/twowaits/SDE-Interview-Questions
                 https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=every%20programmer&sort=byPopularity&type=story (Things every programmer should know)
-                https://survey.stackoverflow.co/2022 (2022 Developer Survey)
                 https://learnxinyminutes.com
                 https://mapfilterfold.com/?genre=programming
                 https://missing.csail.mit.edu (The Missing Semester of Your CS Education)
@@ -307,6 +307,7 @@ Contents:
                 https://octoverse.github.com
                 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/index.htm
                 https://softwareengineeringdaily.com
+                https://survey.stackoverflow.co/2022 (2022 Developer Survey)
                 https://toptalkedbooks.com/stackoverflow/all
                 https://www.daolf.com/posts/best-programming-books
                 https://www.discoverdev.io
@@ -539,6 +540,7 @@ Contents:
 
         Data Engineering:
             Sources:
+                https://architecturenotes.co/things-you-should-know-about-databases (Things You Should Know About Databases)
                 https://awesomedataengineering.com
                 https://db-engines.com/en/ranking (DB-Engines Ranking)
                 https://github.com/binhnguyennus/awesome-scalability
@@ -627,6 +629,7 @@ Contents:
             https://www.atlassian.com/incident-management
             https://www.dsicommunity.org (DevOps, SRE & Infrastructure Discord Group)
             https://www.reddit.com/r/compsci+cscareerquestions+learnprogramming+linux+linuxadmin+netsec+networking+programming+sysadmin
+            https://www.reddit.com/r/devops/comments/vlsnpw/what_devopssre_podcastschannels_are_you (What DevOps/SRE podcasts/channels are you watching/listening to?)
             https://www.reddit.com/r/homelab/wiki/software
             https://www.reddit.com/r/ITCareerQuestions/comments/5nvltv/what_fieldsdisciplines_should_i_be_looking_into/dcf3ny0
             https://www.reddit.com/r/ITCareerQuestions/wiki
@@ -1860,6 +1863,7 @@ Contents:
                 https://github.com/danielmiessler/SecLists (It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.)
                 https://github.com/decalage2/awesome-security-hardening (A collection of awesome security hardening guides, tools and other resources)
                 https://github.com/devsecops/awesome-devsecops (An authoritative list of awesome devsecops tools with the help from community experiments and contributions.)
+                https://github.com/edoardottt/awesome-hacker-search-engines (A list of search engines useful during Penetration testing, vulnerability assessments, red team operations, bug bounty and more)
                 https://github.com/fabionoth/awesome-cyber-security
                 https://github.com/forter/security-101-for-saas-startups
                 https://github.com/gchq/CyberChef (The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis)
@@ -2663,6 +2667,8 @@ Contents:
                 https://stackoverflow.blog/2020/11/25/how-to-write-an-effective-developer-resume-advice-from-a-hiring-manager (How to write an effective developer resume: Advice from a hiring manager)
                 https://thetechresume.com
                 https://www.reddit.com/r/sysadminresumes/top
+                https://github.com/coderjojo/creative-profile-readme (A Collection of GitHub Profiles with awesome readme)
+                https://github.com/topics/readme?o=desc&s=stars
                 https://pinboard.in/u:SharjeelSayed/t:resume
 
         Portfolio:
@@ -2742,6 +2748,8 @@ Contents:
                 https://himalayas.app (158,672)
                 https://www.jobget.com (190,120)
                 https://remoteleaf.com/whoishiring (684,542)
+                http://www.sampoorna.com (723,834)
+                https://www.trueup.io (736,805)
                 https://allremote.jobs (749,536)
                 https://whoishiring.io (934,790)
                 https://sievejobs.com (3,711,141)
@@ -3596,6 +3604,7 @@ Contents:
                     https://www.theatlantic.com (1,838)
                     https://www.rollingstone.com (2,076)
                     https://www.vox.com (2,721)
+                    https://www.thetimes.co.uk (2,831)
                     https://www.newyorker.com (2,930)
                     https://www.financialexpress.com (3,564)
                     https://fortune.com (3,786)
