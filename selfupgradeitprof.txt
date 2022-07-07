@@ -258,7 +258,7 @@ Contents:
                 https://github.com/LeCoupa/awesome-cheatsheets
                 https://github.com/mehdihadeli/awesome-software-architecture (A curated list of awesome articles and resources to learn and practice about software architecture, patterns, and principles)
                 https://github.com/Michael0x2a/curated-programming-resources
-                https://github.com/mtdvio/every-programmer-should-know
+                https://github.com/mtdvio/every-programmer-should-know (A collection of (mostly) technical things every software developer should know about )
                 https://github.com/P1xt/p1xt-guides
                 https://github.com/rby90/Project-Based-Tutorials-in-C
                 https://github.com/rShetty/awesome-podcasts
@@ -1045,6 +1045,7 @@ Contents:
                 https://kind.sigs.k8s.io (kind is a tool for running local Kubernetes clusters using Docker container “nodes”.)
                 https://kompose.io (A conversion tool to go from Docker Compose to Kubernetes)
                 https://kops.sigs.k8s.io
+                https://kube.academy (Learn Kubernetes From Experts For Free. KubeAcademy from VMware)
                 https://kubenews.net (Kubernetes and Cloud Native Computing Foundation News Sources)
                 https://kubernetes.io/docs/concepts
                 https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands (Kubernetes Commands)
@@ -1073,6 +1074,7 @@ Contents:
                 https://t.me/learnk8s (Telegram channel for learning Kubernetes)
                 https://techbeacon.com/enterprise-it/47-advanced-tutorials-mastering-kubernetes
                 https://www.atomiccommits.io/everything-useful-i-know-about-kubectl
+                https://www.containiq.com/post/kubernetes-projects-for-beginners (10 Awesome Kubernetes Projects for Beginners)
                 https://www.datadoghq.com/container-report (Oct 2021 report on Kubernetes and Docker Usage)
                 https://www.flatcar.org (A community Linux distribution designed for container workloads, with high security and low maintenance)
                 https://www.katacoda.com/courses/kubernetes (Learn Kubernetes using Interactive Browser-Based Scenarios By Ben Hall, Jonathan Johnson, Richard Li, Peter Benjamin)
@@ -1514,6 +1516,7 @@ Contents:
                 https://github.com/GoogleCloudPlatform/terraformer (CLI tool to generate terraform files from existing infrastructure (reverse Terraform))
                 https://github.com/im2nguyen/rover (Interactive Terraform visualization. State and configuration explorer.)
                 https://github.com/infracost/infracost (Cloud cost estimates for Terraform in pull requests💰📉 Love your cloud bill!)
+                https://github.com/infracost/vscode-infracost ( See cost estimates for Terraform right in your editor💰📉 www.infracost.io )
                 https://github.com/nsriram/lambda-the-terraform-way
                 https://github.com/shuaibiyy/awesome-terraform
                 https://github.com/tfutils/tfenv (Terraform version manager)
@@ -4220,6 +4223,7 @@ Contents:
         https://news.ycombinator.com/item?id=28232165 (Ask HN: What's the most life-changing blog post you've ever read?)
         https://news.ycombinator.com/item?id=29675397 (	Ask HN: Where are you getting your money's worth?)
         https://news.ycombinator.com/item?id=30469036 (Ask HN: Anyone here have good material for learning how to sketch from scratch?)
+        https://news.ycombinator.com/item?id=31928736 (Ask HN: Can I see your cheatsheet?)
         https://per.quest (Enter a URL to an article, post or page with some text on it to listen to it)
         https://receive-sms-free.cc (Receive SMS online anonymously and fast, without register or a mobile phone)
         https://rfc.fyi (Browse RFCs by keywords, id or collection)
