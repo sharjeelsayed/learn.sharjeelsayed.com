@@ -253,6 +253,7 @@ Contents:
                 https://github.com/codecrafters-io/build-your-own-x (🤓 Build your own (insert technology here) )
                 https://github.com/danistefanovic/build-your-own-x
                 https://github.com/EbookFoundation/free-programming-books
+                https://github.com/facundoolano/software-papers (📚 A curated list of papers for Software Engineers)
                 https://github.com/hackclub/some-assembly-required (An approachable introduction to assembly.)
                 https://github.com/kamranahmedse/developer-roadmap (Roadmap to becoming a developer in 2022 )
                 https://github.com/LeCoupa/awesome-cheatsheets
@@ -1083,6 +1084,7 @@ Contents:
                 https://www.learncloudnative.com/blog/2022-05-10-kubectl-tips (Kubernetes CLI (kubectl) tips you didn't know about)
                 https://www.nsa.gov/Press-Room/News-Highlights/Article/Article/2716980/nsa-cisa-release-kubernetes-hardening-guidance/utm_source/nsa-cisa-release-kubernetes-hardening-guidance (NSA, CISA release Kubernetes Hardening Guidance)
                 https://www.reddit.com/r/kubernetes/comments/mwpj1q/how_did_you_really_master_kubernetes
+                https://www.tkng.io/arch (The Kubernetes Network Model)
                 https://www.udemy.com/topic/kubernetes/?ratings=4.5&sort=popularity (Udemy Courses rated 4.5 stars and above)
                 https://ymmt2005.hatenablog.com/entry/k8s-things (47 Things To Become a Kubernetes Expert)
                 https://youtu.be/0Omvgd7Hg1I (Life of a Packet [I] - Michael Rubin, Google)
@@ -1913,6 +1915,7 @@ Contents:
                 https://news.ycombinator.com/item?id=29577272 (Clever uses of pass, the Unix password manager (vitalyparnas.com))
                 https://overthewire.org/wargames/bandit
                 https://portswigger.net/research/top-10-web-hacking-techniques-of-2021 (Top 10 Web Hacking Techniques of 2021)
+                https://ppn.snovvcrash.rocks (Pentester's promiscuous handbook)
                 https://room362.com/start (Start in Infosec)
                 https://s3ctur.wordpress.com/2017/06/19/breaking-into-infosec-a-beginners-curriculum
                 https://security.stackexchange.com/questions/46666/at-what-length-does-a-password-stop-making-sense
@@ -2544,6 +2547,7 @@ Contents:
                 https://github.com/topics/interview-questions?o=desc&s=stars
                 https://github.com/topics/interview?o=desc&s=stars
                 https://github.com/topics/leetcode?o=desc&s=stars
+                https://github.com/vasanthk/how-web-works (What happens behind the scenes when we type www.google.com in a browser? )
                 https://github.com/viraptor/reverse-interview (Questions to ask the company during your interview)
                 https://github.com/wisdompeak/LeetCode (This repository contains the solutions and explanations to the algorithm problems on LeetCode. Only medium or above are included. All are written in C++/Python and implemented by myself. The problems attempted multiple times are labelled with hyperlinks.)
                 https://hn.algolia.com/?query=interview&sort=byPopularity&prefix&page=0&dateRange=all&type=story
@@ -2753,6 +2757,7 @@ Contents:
                 https://relocate.me (155,692)
                 https://himalayas.app (158,672)
                 https://www.jobget.com (190,120)
+                https://swissdevjobs.ch (289,507)
                 https://remoteleaf.com/whoishiring (684,542)
                 http://www.sampoorna.com (723,834)
                 https://www.trueup.io (736,805)
@@ -3327,6 +3332,7 @@ Contents:
                     https://www.reddit.com/r/spotify/comments/gu81es/my_collection_of_spotify_and_other_music_related
                     https://www.reddit.com/r/spotify/top
                     https://www.reddit.com/r/spotify/wiki
+                    https://youtu.be/jfKfPfyJRdk (lofi hip hop radio - beats to relax/study to)
 
         Headphones:
             Sources:
@@ -4189,6 +4195,7 @@ Contents:
     Additional Sources :
         http://unixstickers.com (Unixstickers powered by Sticker Mule)
         https://awesome.digitalbunker.dev (Click to explore one of the awesome lists below)
+        https://cheatography.com (Over 5,000 Free Cheat Sheets, Revision Aids and Quick References!)
         https://drawabox.com (Drawabox is a set of free exercise-based lessons that focus on the fundamentals of drawing)
         https://en.wikipedia.org/wiki/List_of_common_misconceptions
         https://en.wikipedia.org/wiki/List_of_common_misconceptions (Wikipedia: List of common misconceptions)
