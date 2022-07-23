@@ -1618,6 +1618,7 @@ Contents:
                 https://github.com/topics/postgresql?o=desc&s=stars
                 https://news.ycombinator.com/item?id=23208181 (Ask HN: What PostgreSQL client do you use?)
                 https://pgtune.leopard.in.ua
+                https://postgrespro.com/community/books/internals ( PostgreSQL 14 Internals :A deep dive into the server mechanics)
                 https://postgresqlco.nf
                 https://roadmap.sh/postgresql-dba (Step by step guide to becoming a modern PostgreSQL DB Administrator in 2022)
                 https://theartofpostgresql.com (The book that teaches SQL to developers: Learn to replace thousands of lines of code with simple queries!)
