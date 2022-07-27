@@ -116,6 +116,7 @@ Contents:
         Survival
         Chess
         Weather
+        Stuff Worth Paid Subscriptions
 
     Computer Science:
         Sources:
@@ -3235,7 +3236,7 @@ Contents:
                 irc://irc.irchighway.net/ebooks
                 irc://irc.undernet.org/bookz
 
-            An ACM Membership provides O’Reilly access (https://www.oreilly.com) for less. The India Sign up page is at https://services.acm.org/public/qj/proflevel/proflevel_control.cfm?level=3&country=India&form_type=Professional&promo=LEVEL&pay=DD
+            An ACM Membership provides O’Reilly access (https://www.oreilly.com) for less. The India Sign up page is at https://services.acm.org/public/qj/proflevel/proflevel_control.cfm?level=3&country=India&form_type=Professional&promo=LEVEL&pay=DD # No longer works
 
         Kindle:
             Sources:
@@ -3751,7 +3752,7 @@ Contents:
                         https://www.findareddit.com (Find Subreddits for your Niche)
 
                     Subscriptions:
-                        https://www.reddit.com/r/1Password+AWSCertifications+Alfred+AppHookup+AppleWatch+CryptoCurrency+DataHoarder+Documentaries+ExperiencedDevs+FreeEBOOKS+ITCareerQuestions+IndiaInvestments+KindleFreebies+Piracy+Terraform+Ubuntu+Udemy+Upwork+announcements+ansible+antiwork+apple+appletv+aws+compsci+cscareerquestions+dataisbeautiful+devops+docker+freelance+hackernews+india+ipad+iphone+juul+kindle+kubernetes+learnprogramming+linux+linuxadmin+linuxupskillchallenge+mac+macapps+movies+netsec+nextdns+onebag+osx+programming+science+solotravel+sysadmin+technology+television+todayilearned+todoist+travel+udemyfreebies+usefulscripts+worldnews
+                        https://www.reddit.com/r/1Password+AWSCertifications+Alfred+AppHookup+AppleWatch+CryptoCurrency+DataHoarder+Documentaries+ExperiencedDevs+FreeEBOOKS+ITCareerQuestions+IndiaInvestments+KindleFreebies+Piracy+Terraform+Ubuntu+Udemy+Upwork+announcements+ansible+antiwork+apple+appletv+aws+compsci+cscareerquestions+dataisbeautiful+devops+docker+freelance+hackernews+india+ipad+iphone+kindle+kubernetes+learnprogramming+linux+linuxadmin+linuxupskillchallenge+mac+macapps+movies+netsec+nextdns+onebag+osx+programming+science+solotravel+sysadmin+technology+television+todayilearned+todoist+travel+udemyfreebies+usefulscripts+worldnews
 
                 Hacker News:
                     https://apps.apple.com/us/app/hack-for-hacker-news-developer/id1464477788
@@ -4192,6 +4193,34 @@ Contents:
                 https://www.dtn.com (114,833)
                 https://www.tomorrow.io (132,752)
                 https://www.aerisweather.com (482.092)
+
+        Stuff Worh Paid Subscription:
+            https://1password.com
+            https://acloudguru.com
+            https://apolloapp.io
+            https://evernote.com
+            https://firecore.com/infuse
+            https://flexibits.com/fantastical
+            https://github.com/features/copilot
+            https://mailbrew.com
+            https://mullvad.net
+            https://nextdns.io
+            https://one.google.com
+            https://put.io
+            https://setapp.com
+            https://www.apalon.com/weather_live.html
+            https://www.apple.com/in/apple-one
+            https://www.dropbox.com
+            https://www.fastmail.com
+            https://www.hey.com
+            https://www.hotstar.com
+            https://www.inoreader.com
+            https://www.jetbrains.com/idea/buy
+            https://www.meetcarrot.com/weather
+            https://www.netflix.com
+            https://www.primevideo.com
+            https://www.truecaller.com
+            https://www.youtube.com/premium
 
     Additional Sources :
         http://unixstickers.com (Unixstickers powered by Sticker Mule)
