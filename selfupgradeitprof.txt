@@ -479,6 +479,7 @@ Contents:
         Networking :
             Sources:
                 https://github.com/gchq/CyberChef (The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis)
+                https://github.com/kffl/speedbump (TCP proxy for simulating variable, yet predictable network latency 🌐⏳)
                 https://github.com/mininet/mininet/wiki/Teaching-and-Learning-with-Mininet
                 https://github.com/saminiir/level-ip
                 https://news.ycombinator.com/item?id=13983212 (Beej's Guide to Network Programming)
@@ -545,8 +546,9 @@ Contents:
                 https://architecturenotes.co/things-you-should-know-about-databases (Things You Should Know About Databases)
                 https://awesomedataengineering.com
                 https://db-engines.com/en/ranking (DB-Engines Ranking)
-                https://github.com/binhnguyennus/awesome-scalability
-                https://github.com/pingcap/awesome-database-learning
+                https://github.com/binhnguyennus/awesome-scalability ( The Patterns of Scalable, Reliable, and Performant Large-Scale Systems Topics)
+                https://github.com/huachaohuang/awesome-dbdev (Awesome materials about database development.)
+                https://github.com/pingcap/awesome-database-learning (A list of learning materials to understand databases internals)
                 https://news.ycombinator.com/item?id=13417326 (Ask HN: What is the best online resource to learn advanced SQL?)
                 https://news.ycombinator.com/item?id=21793270 (Database Internals (databass.dev))
                 https://news.ycombinator.com/item?id=23138297 (Advanced SQL and database books and resources (neilwithdata.com))
@@ -819,6 +821,7 @@ Contents:
                 https://github.com/ibraheemdev/modern-unix (A collection of modern/faster/saner alternatives or complements to common unix commands.)
                 https://github.com/jlevy/the-art-of-command-line
                 https://github.com/junegunn/fzf (A command-line fuzzy finder)
+                https://github.com/kaplanelad/shellfirm (Intercept any risky patterns (default or defined by you) and prompt you a small challenge for double verification)
                 https://github.com/koalaman/shellcheck (a static analysis tool for shell scripts)
                 https://github.com/learnbyexample/Command-line-text-processing
                 https://github.com/nvbn/thefuck (Magnificent app which corrects your previous console command.)
@@ -1085,7 +1088,7 @@ Contents:
                 https://www.learncloudnative.com/blog/2022-05-10-kubectl-tips (Kubernetes CLI (kubectl) tips you didn't know about)
                 https://www.nsa.gov/Press-Room/News-Highlights/Article/Article/2716980/nsa-cisa-release-kubernetes-hardening-guidance/utm_source/nsa-cisa-release-kubernetes-hardening-guidance (NSA, CISA release Kubernetes Hardening Guidance)
                 https://www.reddit.com/r/kubernetes/comments/mwpj1q/how_did_you_really_master_kubernetes
-                https://www.tkng.io/arch (The Kubernetes Network Model)
+                https://www.tkng.io (The Kubernetes Network Model)
                 https://www.udemy.com/topic/kubernetes/?ratings=4.5&sort=popularity (Udemy Courses rated 4.5 stars and above)
                 https://ymmt2005.hatenablog.com/entry/k8s-things (47 Things To Become a Kubernetes Expert)
                 https://youtu.be/0Omvgd7Hg1I (Life of a Packet [I] - Michael Rubin, Google)
@@ -1624,6 +1627,7 @@ Contents:
                 https://roadmap.sh/postgresql-dba (Step by step guide to becoming a modern PostgreSQL DB Administrator in 2022)
                 https://theartofpostgresql.com (The book that teaches SQL to developers: Learn to replace thousands of lines of code with simple queries!)
                 https://tomcam.github.io/postgres (psql command line tutorial and cheat sheet)
+                https://www.timescale.com/blog/state-of-postgresql-2022-13-tools-that-arent-psql (Top Postgresql clients and tools)
                 https://www.udemy.com/topic/postgresql/?ratings=4.5&sort=popularity (Udemy Courses rated 4.5 stars and above)
 
             Books and Courses:
@@ -1883,6 +1887,7 @@ Contents:
                 https://github.com/Igglybuff/awesome-piracy (A curated list of awesome warez and piracy links)
                 https://github.com/instadoodledavid/Infosec-Deals-2020
                 https://github.com/krol3/container-security-checklist (Checklist for container security - devsecops practices)
+                https://github.com/Lissy93/awesome-privacy (🦄 A curated list of privacy & security-focused software and services)
                 https://github.com/Lissy93/personal-security-checklist (🔒 A curated checklist of 300+ tips for protecting digital security and privacy in 2021)
                 https://github.com/myugan/awesome-cicd-security (📚 A curated list of awesome CI CD security resources)
                 https://github.com/myugan/awesome-docker-security (A curated list of awesome Docker security resources)
@@ -2138,6 +2143,7 @@ Contents:
                 https://blog.github.com/2018-03-20-top-10-courses-on-github
                 https://coupenger.com/the-curated-list-of-best-coursera-free-courses-for-2022 (The Curated List of Best Coursera Free Courses for (2022))
                 https://freelearninglist.org
+                https://github.com/afontcu/awesome-learning (A curated list of awesome learning material)
                 https://github.com/gerryguy311/CyberProfDevelopmentCovidResources
                 https://github.com/JanVanRyswyck/awesome-talks (Awesome online talks and screencasts )
                 https://github.com/JoseDeFreitas/awesome-youtubers
@@ -2845,6 +2851,7 @@ Contents:
                 https://github.com/AkashRajpurohit/howtoprofessionallysay (A simple static website for common phrases we might want to say to your colleagues but want to make it sound more professional.)
                 https://github.com/Dakshshah96/Awesome-Startup-Credits (A Collection Of Awesome Companies Offering Free/Discounted Plans For Eligible Startups)
                 https://github.com/Dwmkerr/Hacker-Laws (Laws, Theories, Principles And Patterns That Developers Will Find Useful. #Hackerlaws )
+                https://github.com/jorgef/engineeringladders (A framework for Engineering Managers)
                 https://github.com/Kuchin/Awesome-Cto (A Curated And Opinionated List Of Resources For Chief Technology Officers, With The Emphasis On Startups)
                 https://github.com/pdfernhout/High-Performance-Organizations-Reading-List (Ideas for creating and sustaining high performance organizations)
                 https://github.com/Pharkmillups/Beautiful-Docs (Pointers To Useful, Well-Written, And Otherwise Beautiful Documentation.)
@@ -3096,7 +3103,6 @@ Contents:
                 https://news.ycombinator.com/item?id=22778123 (Ask HN: What do you use to keep track of bookmarks/notes/snippets?)
                 https://news.ycombinator.com/item?id=23445382 (Show HN: Some Bookmarklets, I Use (ph-uhl.com))
                 https://news.ycombinator.com/item?id=29314560 (Ask HN: What browser extensions are a must-have in 2021?)
-                https://www.forbesconrad.com/blog/enable-password-pasting (Enable Password Pasting in Firefox)
 
             Extensions:
                 https://addons.mozilla.org/en-GB/firefox/addon/foxytab
@@ -3130,6 +3136,7 @@ Contents:
                 https://tabliss.io
                 https://www.eff.org/https-everywhere
                 https://www.fbpurity.com
+                https://www.forbesconrad.com/blog/enable-password-pasting (Enable Password Pasting in Firefox)
                 https://www.joinhoney.com
                 https://www.mrfdev.com/enhancer-for-youtube
 
@@ -3478,6 +3485,7 @@ Contents:
                 https://en.wikipedia.org/wiki/Lists_of_important_publications_in_science
                 https://hn.algolia.com/?query=documentaries&sort=byPopularity&prefix&page=0&dateRange=all&type=story
                 https://news.ycombinator.com/item?id=18085765 (Ask HN: What are some of the best documentaries you've seen?)
+                https://news.ycombinator.com/item?id=32220192 (Ask HN: YouTube Channels for the Intellectually Curious)
                 https://sciurls.com
                 https://www.amazon.com/Best-Sellers-Books-Science-Math/zgbs/books/75
                 https://www.reddit.com/r/AskReddit/comments/5x2r6b/reddit_what_are_some_must_see_documentaries
@@ -4208,6 +4216,7 @@ Contents:
             https://one.google.com
             https://put.io
             https://setapp.com
+            https://www.americanexpress.com/in/charge-cards/platinum-card
             https://www.apalon.com/weather_live.html
             https://www.apple.com/in/apple-one
             https://www.dropbox.com
