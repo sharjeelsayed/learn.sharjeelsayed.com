@@ -1272,6 +1272,7 @@ Contents:
                 https://github.com/Netflix/consoleme (A Central Control Plane for AWS Permissions and Access)
                 https://github.com/rebuy-de/aws-nuke (Nuke a whole AWS account and delete all its resources.)
                 https://github.com/serverless/serverless (⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more!)
+                https://github.com/servian/aws-auto-cleanup (Programmatically delete AWS resources based on an allowlist and time to live (TTL) settings )
                 https://github.com/toniblyx/my-arsenal-of-aws-security-tools (List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc. )
                 https://github.com/topics/aws?o=desc&s=stars
                 https://github.com/turbot/steampipe (Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required.)
@@ -1698,6 +1699,7 @@ Contents:
                 https://stackoverflow.com/questions/tagged/git
                 https://techtldr.com/19-git-tips-for-everyday-use
                 https://useful-forks.github.io (It aims at increasing the discoverability of useful forks of open-source projects.)
+                https://www.garyrobinson.net/2014/10/git-in-two-minutes-for-a-solo-developer.html (Git In Two Minutes (for a solo developer))
                 https://www.reddit.com/r/git/top/?sort=top&t=all
                 https://www.reddit.com/r/programming/comments/fd9zpj/becoming_a_git_pro_part_1_internal_git/fjge9vy
                 https://www.shortcutfoo.com/app/dojos/git (Choose shortcuts to practice)
@@ -1706,7 +1708,7 @@ Contents:
                 https://www.toptal.com/developers/gitignore
                 https://www.udemy.com/topic/git/?ratings=4.5&sort=popularity (Udemy Courses rated 4.5 stars and above)
                 https://youtu.be/1ffBJ4sVUb4 ([Linux.conf.au 2013] - Git For Ages 4 And Up)
-                https://youtu.be/2sjqTHE0zok (Lecture 6: Version Control (git) (2020))
+                https://youtu.be/2sjqTHE0zok (Lecture 6: Version Control (git) (2020) by Missing Semester)
 
             Books and Courses:
                 Pro Git
@@ -4221,7 +4223,6 @@ Contents:
             https://www.apple.com/in/apple-one
             https://www.dropbox.com
             https://www.fastmail.com
-            https://www.hey.com
             https://www.hotstar.com
             https://www.inoreader.com
             https://www.jetbrains.com/idea/buy
@@ -4296,7 +4297,6 @@ Contents:
         https://www.reddit.com/r/india/wiki/useful_posts
 
     Support this page with these referral links:
-        http://amex.in/refer/sHARJsCJfI (American Express)
         http://share.payoneer.com/nav/fNDwSrQzVfdG8-xoVyx0Bw_ZDmVq9EROCSP2BPIK6ZXFGNfkLTA-k6YqnGHb8YozBtA2obVkitQbtq50VTZ5Bg2 ($25 on Sign Up)
         http://thefrenchieco.refr.cc/sharjeels (10% off)
         https://db.tt/YL0e12GN (Dropbox 500 MB of bonus space)
