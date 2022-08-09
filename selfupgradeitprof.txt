@@ -1929,6 +1929,7 @@ Contents:
                 https://s3ctur.wordpress.com/2017/06/19/breaking-into-infosec-a-beginners-curriculum
                 https://security.stackexchange.com/questions/46666/at-what-length-does-a-password-stop-making-sense
                 https://tcm-sec.com/so-you-want-to-be-a-hacker-2021-edition (So You Want to Be a Hacker: 2021 Edition)
+                https://tls13.xargs.org (The Illustrated TLS 1.3 Connection Every byte explained and reproduced)
                 https://toc.cryptobook.us (A Graduate Course in Applied Cryptography)
                 https://tools.tldr.run (Curated list of security tools for Hackers & Builders!)
                 https://www.cisa.gov/sites/default/files/publications/Federal_Government_Cybersecurity_Incident_and_Vulnerability_Response_Playbooks_508C.pdf (CISA Cybersecurity Incident and Vulnerability Response Playbooks)
@@ -4208,21 +4209,22 @@ Contents:
             https://1password.com
             https://acloudguru.com
             https://apolloapp.io
+            https://db.tt/YL0e12GN # (Dropbox 500 MB of bonus space)
             https://evernote.com
             https://firecore.com/infuse
             https://flexibits.com/fantastical
             https://github.com/features/copilot
+            https://go.setapp.com/invite/f1crlo8n # (Setapp.com free for 1 month)
             https://mailbrew.com
             https://mullvad.net
-            https://nextdns.io
+            https://nextdns.io/?from=s2bsnju6 # (30% off)
             https://one.google.com
             https://put.io
-            https://setapp.com
+            https://ref.fm/u24474904 # (Fastmail.com 10% off)
+            https://todoist.com/r/Sharjeel_Sayed_pndvuw # (Todoist Premium free for 2 months)
             https://www.americanexpress.com/in/charge-cards/platinum-card
             https://www.apalon.com/weather_live.html
             https://www.apple.com/in/apple-one
-            https://www.dropbox.com
-            https://www.fastmail.com
             https://www.hotstar.com
             https://www.inoreader.com
             https://www.jetbrains.com/idea/buy
@@ -4299,13 +4301,8 @@ Contents:
     Support this page with these referral links:
         http://share.payoneer.com/nav/fNDwSrQzVfdG8-xoVyx0Bw_ZDmVq9EROCSP2BPIK6ZXFGNfkLTA-k6YqnGHb8YozBtA2obVkitQbtq50VTZ5Bg2 ($25 on Sign Up)
         http://thefrenchieco.refr.cc/sharjeels (10% off)
-        https://db.tt/YL0e12GN (Dropbox 500 MB of bonus space)
-        https://go.setapp.com/invite/f1crlo8n (Setapp.com free for 1 month)
         https://m.do.co/c/d3160b5e33e8 (DigitalOcean Credits)
         https://mega.nz/C!vuhRiKpB (Mega.nz Extra Storage)
-        https://nextdns.io/?from=s2bsnju6 (30% off)
-        https://ref.fm/u24474904 (Fastmail.com 10% off)
         https://repl.it/upgrade/sharjeelsayed
-        https://todoist.com/r/Sharjeel_Sayed_pndvuw (Todoist Premium free for 2 months)
         https://www.expressrefer.com/refer-friend?referrer_id=39360476 (ExpressVPN 30 days free)
         https://www.stickermule.com/unlock?ref_id=0324563701 ($10 Credit for stickers)
