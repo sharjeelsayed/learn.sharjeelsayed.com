@@ -1124,13 +1124,10 @@ Contents:
                 https://livebook.manning.com/book/kubernetes-in-action
                 https://github.com/luksa/kubernetes-in-action
 
-                Kubernetes: Up and Running: Dive into the Future of Infrastructure 2nd Edition
-                https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/docs/vmware-kubernetes-up-running-dive-into-the-future-of-infrastructure.pdf
-                https://learning.oreilly.com/library/view/kubernetes-up-and/9781492046523
-                https://tanzu.vmware.com/content/ebooks/kubernetes-up-running-dive-into-the-future-of-infrastructure
-                https://www.amazon.com/Kubernetes-Running-Dive-Future-Infrastructure/dp/1492046531
-                https://www.amazon.com/Kubernetes-Running-Dive-Future-Infrastructure-dp-109811020X/dp/109811020X (Kubernetes: Up and Running 3rd Edition Releasing on 6 Sep 2022)
-                https://www.oreilly.com/library/view/kubernetes-up-and/9781098110192 (Kubernetes: Up and Running 3rd Edition Releasing on 6 Sep 2022)
+                Kubernetes Up and Running Dive into the Future of Infrastructure 3rd Edition (2022) by Brendan Burns, Joe Beda, Kelsey Hightower and Lachlan Evenson
+                https://www.oreilly.com/library/view/kubernetes-up-and/9781098110192
+                https://www.amazon.com/Kubernetes-Up-Running-Brendan-Burns-ebook/dp/B0B8G22T5L
+                https://tanzu.vmware.com/content/ebooks/kubernetes-up-running-dive-into-the-future-of-infrastructure (Free Copy)
 
                 The Kubernetes Book by Nigel Poulton
                 https://www.amazon.com/Kubernetes-Book-Version-November-2018-ebook-dp-B072TS9ZQZ/dp/B072TS9ZQZ
@@ -1653,6 +1650,9 @@ Contents:
                 https://www.malcolmhardie.com/sqleditor (5,931,983)
 
         Redis:
+            Sources:
+                https://architecturenotes.co/redis
+
             Books and Courses:
                 https://redis.io/documentation
 
