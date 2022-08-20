@@ -548,6 +548,7 @@ Contents:
                 https://db-engines.com/en/ranking (DB-Engines Ranking)
                 https://github.com/binhnguyennus/awesome-scalability ( The Patterns of Scalable, Reliable, and Performant Large-Scale Systems Topics)
                 https://github.com/huachaohuang/awesome-dbdev (Awesome materials about database development.)
+                https://github.com/karanpratapsingh/system-design (Learn how to design systems at scale and prepare for system design interviews)
                 https://github.com/pingcap/awesome-database-learning (A list of learning materials to understand databases internals)
                 https://news.ycombinator.com/item?id=13417326 (Ask HN: What is the best online resource to learn advanced SQL?)
                 https://news.ycombinator.com/item?id=21793270 (Database Internals (databass.dev))
@@ -721,6 +722,7 @@ Contents:
                 http://cht.sh (The only cheat sheet you need)
                 http://stackoverflow.com/questions/236838/what-are-good-linuxunix-books-for-an-advancing-user
                 https://0xax.gitbooks.io/linux-insides (A book-in-progress about the linux kernel and its insides.)
+                https://adamtheautomator.com/check-if-a-port-is-open-in-linux (All the Ways to Check If a Port is Open in Linux)
                 https://biriukov.dev/docs/page-cache/0-linux-page-cache-for-sre ( SRE deep dive into Linux Page Cache)
                 https://dashdash.io (Linux Man Pages)
                 https://github.com/0xAX/linux-insides
@@ -872,6 +874,7 @@ Contents:
                 https://goteleport.com/blog/security-hardening-ssh-bastion-best-practices (SSH Bastion Host Best Practices)
                 https://news.ycombinator.com/item?id=10726158 (Poor man's VPN via ssh socks proxy (redpill-linpro.com))
                 https://news.ycombinator.com/item?id=26053323 (	A visual guide to SSH tunnels (robotmoon.com))
+                https://news.ycombinator.com/item?id=32486031 (SSH tips and tricks (carlosbecker.dev))
                 https://susam.in/blog/file-transfer-with-ssh-tee-and-base64.html (File Transfer with SSH, Tee, and Base64)
                 https://unix.stackexchange.com/a/118650/289353 (How does reverse SSH tunneling work?)
                 https://unix.stackexchange.com/a/2869/187607 (Download or Upload files using SSH)
@@ -1086,6 +1089,7 @@ Contents:
                 https://www.flatcar.org (A community Linux distribution designed for container workloads, with high security and low maintenance)
                 https://www.katacoda.com/courses/kubernetes (Learn Kubernetes using Interactive Browser-Based Scenarios By Ben Hall, Jonathan Johnson, Richard Li, Peter Benjamin)
                 https://www.learncloudnative.com/blog/2022-05-10-kubectl-tips (Kubernetes CLI (kubectl) tips you didn't know about)
+                https://www.linode.com/content/kubernetes-guide (Understanding Kubernetes A Guide to Modernizing Your Cloud Infrastructure)
                 https://www.nsa.gov/Press-Room/News-Highlights/Article/Article/2716980/nsa-cisa-release-kubernetes-hardening-guidance/utm_source/nsa-cisa-release-kubernetes-hardening-guidance (NSA, CISA release Kubernetes Hardening Guidance)
                 https://www.reddit.com/r/kubernetes/comments/mwpj1q/how_did_you_really_master_kubernetes
                 https://www.tkng.io (The Kubernetes Network Model)
@@ -1625,6 +1629,7 @@ Contents:
                 https://roadmap.sh/postgresql-dba (Step by step guide to becoming a modern PostgreSQL DB Administrator in 2022)
                 https://theartofpostgresql.com (The book that teaches SQL to developers: Learn to replace thousands of lines of code with simple queries!)
                 https://tomcam.github.io/postgres (psql command line tutorial and cheat sheet)
+                https://www.crunchydata.com/developers/tutorials (Postgres Playground: Enhance your Postgres skills)
                 https://www.timescale.com/blog/state-of-postgresql-2022-13-tools-that-arent-psql (Top Postgresql clients and tools)
                 https://www.udemy.com/topic/postgresql/?ratings=4.5&sort=popularity (Udemy Courses rated 4.5 stars and above)
 
@@ -2558,6 +2563,7 @@ Contents:
                 https://github.com/topics/interview-questions?o=desc&s=stars
                 https://github.com/topics/interview?o=desc&s=stars
                 https://github.com/topics/leetcode?o=desc&s=stars
+                https://github.com/Twipped/InterviewThis (An open source list of developer questions to ask prospective employers)
                 https://github.com/vasanthk/how-web-works (What happens behind the scenes when we type www.google.com in a browser? )
                 https://github.com/viraptor/reverse-interview (Questions to ask the company during your interview)
                 https://github.com/wisdompeak/LeetCode (This repository contains the solutions and explanations to the algorithm problems on LeetCode. Only medium or above are included. All are written in C++/Python and implemented by myself. The problems attempted multiple times are labelled with hyperlinks.)
@@ -3142,6 +3148,7 @@ Contents:
                 https://www.forbesconrad.com/blog/enable-password-pasting (Enable Password Pasting in Firefox)
                 https://www.joinhoney.com
                 https://www.mrfdev.com/enhancer-for-youtube
+                https://github.com/josh-berry/tab-stash (Firefox extension to save and restore tabs as bookmarks)
 
         Books:
             Sources:
