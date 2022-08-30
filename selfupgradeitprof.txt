@@ -114,6 +114,7 @@ Contents:
         BitTorrent
         BackPacks
         Survival
+        Games
         Chess
         Weather
         Stuff Worth Paid Subscriptions
@@ -631,6 +632,7 @@ Contents:
             https://landscape.cncf.io (CNCF Cloud Native Interactive Landscape)
             https://news.ycombinator.com/item?id=14087880 (Ask HN: What are some great “Free” services provided by IBM, Amazon, etc.?)
             https://news.ycombinator.com/item?id=20225118 (Ask HN: Best free compute and other resources for startups?)
+            https://news.ycombinator.com/item?id=32599398 (Tell HN: Heroku alternatives with generous free tiers)
             https://pauljerimy.com/wp-content/uploads/2020/03/IT_CareerRoadmap2020smol.png (IT Career Roadmap)
             https://www.atlassian.com/incident-management
             https://www.dsicommunity.org (DevOps, SRE & Infrastructure Discord Group)
@@ -1548,6 +1550,7 @@ Contents:
                 https://www.katacoda.com/courses/terraform
                 https://www.reddit.com/r/Terraform
                 https://www.reddit.com/r/Terraform/comments/iguorh/best_terraform_course
+                https://www.reddit.com/r/Terraform/comments/x09dlm/list_of_most_useful_terraform_opensource_tools (List of most useful Terraform open-source tools)
                 https://www.revolgy.com/insights/blog/complete-guide-for-picking-the-right-tool-for-terraform-security-code-analysis (Complete guide for picking the right tool for Terraform Security Code Analysis)
                 https://www.runatlantis.io
                 https://www.terraform-best-practices.com (Terraform Best Practices by Anton Babenko)
@@ -2827,6 +2830,7 @@ Contents:
                 https://news.ycombinator.com/item?id=19133864 (Ask HN: How bad is freelancing?)
                 https://news.ycombinator.com/item?id=21728436 (Ask HN: What mistakes did you make when starting as a consultant/freelancer?)
                 https://news.ycombinator.com/item?id=26995874 (Ask HN: How did you transition from FTE to self-employed/sole proprietor?)
+                https://news.ycombinator.com/item?id=32606348 (Ask HN: Contractors, what is your hourly rate?)
                 https://www.reddit.com/r/Upwork+forhire+freelance
                 https://www.upwork.com/press/2020/09/01/upwork-releases-top-paying-programming-languages-for-independent-web-mobile-and-software-developers
                 https://www.upwork.com/press/releases/upwork-releases-top-15-most-in-demand-skills-for-independent-web-mobile-and-software-developers
@@ -2975,6 +2979,7 @@ Contents:
                 https://news.ycombinator.com/item?id=20521902 (Ask HN: What did you do when you suddenly got rich?)
                 https://news.ycombinator.com/item?id=22573204 (Ask HN: Book recommendations for understanding financial systems?)
                 https://news.ycombinator.com/item?id=22709843 (Ask HN: Introductory Books on the Stock Market?)
+                https://news.ycombinator.com/item?id=32618445 (	What to read to understand how economists think (economist.com))
                 https://trello.com/b/NPlSa3C7/journey-board (Agile Sprint Board for next initiatives of r/IndiaInvestments)
                 https://www.amazon.com/gp/bestsellers/books/491584
                 https://www.indiainvestments.wiki
@@ -4177,6 +4182,17 @@ Contents:
 
                 Bushcraft 101: A Field Guide to the Art of Wilderness Survival
                 https://www.amazon.com/Bushcraft-101-Field-Wilderness-Survival/dp/1440579776
+
+        Games:
+            Sources:
+                https://en.wikipedia.org/wiki/List_of_best-selling_game_consoles
+                https://en.wikipedia.org/wiki/List_of_best-selling_PC_games
+                https://en.wikipedia.org/wiki/List_of_best-selling_video_games
+                https://en.wikipedia.org/wiki/List_of_most-played_video_games_by_player_count
+                https://store.steampowered.com/stats
+                https://store.steampowered.com/tags/en/Strategy/#p=0&tab=TopSellers (Top selling Strategy Games)
+                https://store.steampowered.com/tags/en/Turn-Based%20Strategy/#p=0&tab=TopSellers (Top selling Turn Based Strategy Games)
+                https://www.metacritic.com/browse/games/genre/metascore/strategy/all?view=detailed (Top rated Strategy Games)
 
         Chess:
             Sources:
