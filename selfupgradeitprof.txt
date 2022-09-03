@@ -1719,6 +1719,7 @@ Contents:
                 https://www.udemy.com/topic/git/?ratings=4.5&sort=popularity (Udemy Courses rated 4.5 stars and above)
                 https://youtu.be/1ffBJ4sVUb4 ([Linux.conf.au 2013] - Git For Ages 4 And Up)
                 https://youtu.be/2sjqTHE0zok (Lecture 6: Version Control (git) (2020) by Missing Semester)
+                https://github.com/git-up/GitUp (The Git interface you've been missing all your life has finally arrived. http://gitup.co)
 
             Books and Courses:
                 Pro Git
@@ -3853,6 +3854,7 @@ Contents:
                 https://sreweekly.com (2,522,079)
                 https://cloudseclist.com (3,016,496)
                 https://www.devopsweekly.com (3,957,079)
+                https://newsletter.sharjeelsayed.com (A Daily Newsletter curated by SharjeelSayed.com)
                 https://eks.news (n/a)
                 https://ipj.dreamhosters.com (n/a)
                 https://thisweekindevops.com (n/a)
@@ -4313,6 +4315,7 @@ Contents:
         https://www.justwatch.com/in?genres=doc
         https://www.nala.ie/resources/better-handwriting-adults
         https://www.nytimes.com/interactive/2021/science/astronomy-space-calendar.html (Sync your calendar with the solar system)
+        https://www.nytimes.com/interactive/2022/science/astronomy-space-calendar.html (New York Times’s space and astronomy calendar)
         https://www.producthunt.com
         https://www.reddit.com/r/AskReddit/comments/4q91g9/what_free_things_online_should_everyone_take/d4r8foy
         https://www.reddit.com/r/AskReddit/comments/6k0p7l/what_are_the_best_free_online_certificates_you
