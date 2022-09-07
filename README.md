@@ -2,5 +2,5 @@
   
 ## Curated Reading List : Import [Opml.SharjeelSayed.com](http://Opml.SharjeelSayed.com) , into an RSS reader like [Inoreader.com](https://www.Inoreader.com) or [Reederapp.com](https://Reederapp.com)
 
-## [A Daily Newsletter curated by SharjeelSayed.com](https://newsletter.sharjeelsayed.com)
+## Subscribe to my [Daily Newsletter](https://newsletter.sharjeelsayed.com)
 ## About me: [SharjeelSayed.com](https://SharjeelSayed.com)
