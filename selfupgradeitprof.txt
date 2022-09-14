@@ -127,7 +127,7 @@ Contents:
             https://docs.google.com/spreadsheets/d/1zfw8nPvJeewxcFUBpKUKmAVE8PjnJI7H0CKimdQXxr0/htmlview (Stanford CS Curriculum)
             https://en.wikipedia.org/wiki/Outline_of_computer_science
             https://github.com/cs-books/influential-cs-books (Most influential books on Computer Science/programming)
-            https://github.com/Developer-Y/cs-video-courses
+            https://github.com/Developer-Y/cs-video-courses (List of Computer Science courses with video lectures.)
             https://github.com/mvillaloboz/open-source-cs-degree
             https://github.com/nushackers/notes-to-cs-freshmen-from-the-future
             https://github.com/open-source-society/computer-science
@@ -388,6 +388,7 @@ Contents:
         Algorithms and Data Structures:
             Sources:
                 https://github.com/karan/Projects
+                https://github.com/Pradetto/DSA-Cheat-Sheets (Data Structures and Algorithms Flashcards)
                 https://github.com/teivah/algodeck
                 https://github.com/williamfiset/Algorithms
                 https://news.ycombinator.com/item?id=13653669 (Algorithms (khanacademy.org))
@@ -395,6 +396,7 @@ Contents:
                 https://news.ycombinator.com/item?id=16428309 (Ask HN: What's the best algorithms and data structures online course?)
                 https://news.ycombinator.com/item?id=17079197 (Algorithms Behind Modern Storage Systems)
                 https://news.ycombinator.com/item?id=18805624 (Algorithms, by Jeff Erickson (illinois.edu))
+                https://okso.app/showcase/data-structures (Data Structures Diagrams)
                 https://projecteuler.net
                 https://www.reddit.com/r/algorithms
                 https://www.reddit.com/r/compsci/comments/1kcal2/algorithims_everyone_should_know
@@ -1043,6 +1045,7 @@ Contents:
                 https://github.com/marcel-dempers/docker-development-youtube-series (A Collection of tools, hands-on walkthroughs with source code.The Ultimate Swiss Army knife for DevOps, Developers and Platform Engineers)
                 https://github.com/nevalla/lens-resource-map-extension (Lens - The Kubernetes IDE extension that displays Kubernetes resources and their relations as a force graph.)
                 https://github.com/nkuba/k8s-admin-helper
+                https://github.com/OWASP/www-project-kubernetes-top-ten (OWASP Foundation Web Respository)
                 https://github.com/r0hi7/k8s-In-30Mins (Learn how to set up the Kubernetes cluster in 30 mins and deploy the application inside the cluster.)
                 https://github.com/ramitsurana/awesome-kubernetes (A curated list for awesome kubernetes sources 🚢🎉)
                 https://github.com/salesforce/sloop (Kubernetes History Visualization)
@@ -1096,6 +1099,7 @@ Contents:
                 https://www.linode.com/content/kubernetes-guide (Understanding Kubernetes A Guide to Modernizing Your Cloud Infrastructure)
                 https://www.nsa.gov/Press-Room/News-Highlights/Article/Article/2716980/nsa-cisa-release-kubernetes-hardening-guidance/utm_source/nsa-cisa-release-kubernetes-hardening-guidance (NSA, CISA release Kubernetes Hardening Guidance)
                 https://www.reddit.com/r/kubernetes/comments/mwpj1q/how_did_you_really_master_kubernetes
+                https://www.reddit.com/r/kubernetes/comments/xauuxk/what_are_some_useful_kubernetes_tools_you_can (What are some useful Kubernetes tools you can share?)
                 https://www.tkng.io (The Kubernetes Network Model)
                 https://www.udemy.com/topic/kubernetes/?ratings=4.5&sort=popularity (Udemy Courses rated 4.5 stars and above)
                 https://ymmt2005.hatenablog.com/entry/k8s-things (47 Things To Become a Kubernetes Expert)
@@ -1687,9 +1691,11 @@ Contents:
                 https://gitexplorer.com (Find the right commands you need without digging through the web)
                 https://github.com/AndreMiras/gitpop2 (Find the most popular fork on GitHub)
                 https://github.com/dandavison/delta (A viewer for git and diff output)
+                https://github.com/EvanLi/Github-Ranking (⭐Github Ranking⭐ Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily.)
                 https://github.com/FAQGURU/FAQGURU/blob/master/topics/en/git.md (A list of interview questions)
                 https://github.com/gabrie30/ghorg (Quickly clone an entire org/users repositories into one directory - Supports GitHub, GitLab, Bitbucket, and more)
                 https://github.com/git-tips/tips (Most commonly used git tips and tricks.)
+                https://github.com/git-up/GitUp (The Git interface you've been missing all your life has finally arrived. http://gitup.co)
                 https://github.com/github/hub (A command-line tool that makes git easier to use with GitHub.)
                 https://github.com/jesseduffield/lazygit (simple terminal UI for git commands)
                 https://github.com/k88hudson/git-flight-rules (Flight rules for git)
@@ -1719,7 +1725,6 @@ Contents:
                 https://www.udemy.com/topic/git/?ratings=4.5&sort=popularity (Udemy Courses rated 4.5 stars and above)
                 https://youtu.be/1ffBJ4sVUb4 ([Linux.conf.au 2013] - Git For Ages 4 And Up)
                 https://youtu.be/2sjqTHE0zok (Lecture 6: Version Control (git) (2020) by Missing Semester)
-                https://github.com/git-up/GitUp (The Git interface you've been missing all your life has finally arrived. http://gitup.co)
 
             Books and Courses:
                 Pro Git
@@ -2260,7 +2265,7 @@ Contents:
                 https://github.com/TheAlgorithms/Python/blob/master/DIRECTORY.md
                 https://github.com/topics/python?o=desc&s=stars
                 https://github.com/tuvtran/project-based-learning#python
-                https://github.com/vinta/awesome-python
+                https://github.com/vinta/awesome-python (A curated list of awesome Python frameworks, libraries, software and resources)
                 https://news.ycombinator.com/item?id=16622038 (At full speed with Python: a book for self-learners)
                 https://news.ycombinator.com/item?id=21054462 (Ask HN: How do you handle/maintain local Python environments?)
                 https://news.ycombinator.com/item?id=30980813 (	Ask HN: Python Programming Books)
@@ -2596,6 +2601,7 @@ Contents:
                 https://www.reddit.com/r/cscareerquestions/comments/8387zj/what_is_your_favorite_method_for_figuring_out_if
                 https://www.reddit.com/r/cscareerquestions/wiki
                 https://www.reddit.com/r/ExperiencedDevs
+                https://nibblestew.blogspot.com/2022/09/questions-to-ask-prospective-employer.html (Questions to ask a prospective employer during a job interview for developers)
                 https://pinboard.in/u:SharjeelSayed/t:cheatsheet
                 https://pinboard.in/u:SharjeelSayed/t:interview
                 https://pinboard.in/u:SharjeelSayed/t:jobs
@@ -2832,6 +2838,7 @@ Contents:
                 https://news.ycombinator.com/item?id=21728436 (Ask HN: What mistakes did you make when starting as a consultant/freelancer?)
                 https://news.ycombinator.com/item?id=26995874 (Ask HN: How did you transition from FTE to self-employed/sole proprietor?)
                 https://news.ycombinator.com/item?id=32606348 (Ask HN: Contractors, what is your hourly rate?)
+                https://news.ycombinator.com/item?id=32701641 (	Ask HN: Generalist contractors, what is your hourly rate?)
                 https://www.reddit.com/r/Upwork+forhire+freelance
                 https://www.upwork.com/press/2020/09/01/upwork-releases-top-paying-programming-languages-for-independent-web-mobile-and-software-developers
                 https://www.upwork.com/press/releases/upwork-releases-top-15-most-in-demand-skills-for-independent-web-mobile-and-software-developers
@@ -3592,6 +3599,7 @@ Contents:
                 https://news.ycombinator.com/item?id=25159931 (Ask HN: What are some of your favorite journals or magazines?)
                 https://news.ycombinator.com/item?id=26192817 (	Ask HN: What websites do you visit every day?)
                 https://news.ycombinator.com/item?id=28632002 (Ask HN: What are some other general link aggregators aside from HN?)
+                https://news.ycombinator.com/item?id=32799789 (Ask HN: What are some of the best documentaries you've seen?)
                 https://www.reddit.com/r/AskReddit/comments/9nggyv/what_is_a_great_youtube_channel_to_binge_watch
                 https://www.reddit.com/r/AskReddit/comments/aa7zs9/what_youtube_channels_are_genuinely_worth_watching
                 https://news.ycombinator.com/user?id=SharjeelSayed
@@ -4286,6 +4294,7 @@ Contents:
         https://github.com/widevinedump (Tools to Download Netflix / Disney / Apple TV Content)
         https://hackerspaces.org (Hackerspaces are community-operated physical places, where people share their interest in tinkering with technology, meet and work on their projects, and learn from each other)
         https://learn-anything.xyz
+        https://looria.com/reddit/overview (Reddit's Favorite Products in One Place)
         https://news.ycombinator.com/item?id=17272715 (Ask HN: Any resources to learn the fundamentals of critical thinking?)
         https://news.ycombinator.com/item?id=20007108 (Ask HN: Do you keep a personal knowledge repository?)
         https://news.ycombinator.com/item?id=20110922 (How to Draw Animals (1930) (dessinoprimaire.blogspot.com))
