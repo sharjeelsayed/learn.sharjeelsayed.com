@@ -387,7 +387,7 @@ Contents:
 
         Algorithms and Data Structures:
             Sources:
-                https://github.com/karan/Projects
+                https://github.com/karan/Projects (📃 A list of practical projects that anyone can solve in any programming language.)
                 https://github.com/Pradetto/DSA-Cheat-Sheets (Data Structures and Algorithms Flashcards)
                 https://github.com/teivah/algodeck
                 https://github.com/williamfiset/Algorithms
@@ -398,10 +398,12 @@ Contents:
                 https://news.ycombinator.com/item?id=18805624 (Algorithms, by Jeff Erickson (illinois.edu))
                 https://okso.app/showcase/data-structures (Data Structures Diagrams)
                 https://projecteuler.net
+                https://the-algorithms.com (GitHub's largest open-source algorithm library)
                 https://www.reddit.com/r/algorithms
                 https://www.reddit.com/r/compsci/comments/1kcal2/algorithims_everyone_should_know
                 https://www.reddit.com/r/cscareerquestions/comments/ap8jz3/which_data_structures_and_algorithms_are
                 https://www.reddit.com/r/learnprogramming/comments/379vwn/visually_learning_algorithms
+                https://algorithmsilluminated.org (Algorithms Illuminated Omnibus Edition (September 2022) by Tim Roughgarden )
 
             Books and Courses:
                 The Algorithm Design Manual 2nd Edition by Steven S. Skiena
@@ -498,7 +500,6 @@ Contents:
             Books and Courses:
                 The Bits and Bytes of Computer Networking -Grow with Google
                 https://www.coursera.org/learn/computer-networking
-                https://youtu.be/QKfk7YFILws (Computer Networking Complete Course by Google - Beginner to Advanced)
 
                 Computer Networking: A Top-Down Approach, 8th Edition (2021) by James F. Kurose and Keith Ross
                 https://www.amazon.com/Computer-Networking-Global-James-Kurose/dp/1292405465
@@ -695,6 +696,7 @@ Contents:
                 https://github.com/upgundecha/howtheysre (A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE))
                 https://gitlab.com/gitlab-com/runbooks (Run books for the stressed on call )
                 https://news.ycombinator.com/item?id=14153545 (What Is ‘Site Reliability Engineering’?)
+                https://news.ycombinator.com/item?id=32864909 (	Good CI/CD and SRE Blogs)
                 https://rootly.com/blog/analyzing-sre-job-postings-from-amazon-to-microsoft (Analyzing SRE Job Postings - From Amazon to Microsoft)
                 https://sre.google/books (Google SRE Books)
                 https://sreweekly.com
@@ -4279,6 +4281,7 @@ Contents:
         https://en.wikipedia.org/wiki/List_of_lists_of_lists
         https://en.wikipedia.org/wiki/Wikipedia:Vital_articles
         https://freenode.net
+        https://github.com/aliparlakci/bulk-downloader-for-reddit (Downloads and archives content from reddit)
         https://github.com/antontarasenko/smq/blob/master/reports/hackernews-links-in-comments.md (Most mentioned links in Hacker News comments, 2006–2015)
         https://github.com/chubin/awesome-console-services (A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols))
         https://github.com/girliemac/a-picture-is-worth-a-1000-words (I am trying to describe complex matters in simple doodles!)
@@ -4288,6 +4291,7 @@ Contents:
         https://github.com/mendel5/alternative-front-ends (Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.))
         https://github.com/rsapkf/42 (This is an ongoing personal collection of over 5000+ sites and resources that I use or have used in the past to learn programming, puzzle-solving, web development and other intellectually stimulating things, categorized (more or less))
         https://github.com/RunaCapital/awesome-oss-alternatives (Awesome list of open-source startup alternatives to well-known SaaS products)
+        https://github.com/shadowmoose/RedditDownloader (Scrapes Reddit to download media of your choice.)
         https://github.com/TheLocehiliosan/yadm (Yet Another Dotfiles Manager)
         https://github.com/topics/awesome
         https://github.com/topics/dotfiles?o=desc&s=stars
