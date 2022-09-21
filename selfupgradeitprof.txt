@@ -498,7 +498,6 @@ Contents:
             Books and Courses:
                 The Bits and Bytes of Computer Networking -Grow with Google
                 https://www.coursera.org/learn/computer-networking
-                https://youtu.be/QKfk7YFILws (Computer Networking Complete Course by Google - Beginner to Advanced)
 
                 Computer Networking: A Top-Down Approach, 8th Edition (2021) by James F. Kurose and Keith Ross
                 https://www.amazon.com/Computer-Networking-Global-James-Kurose/dp/1292405465
