@@ -1304,16 +1304,16 @@ Contents:
                 https://pinboard.in/u:SharjeelSayed/t:aws
 
             Books and Courses:
-                AWS Certified Solutions Architect - Associate (SAA-C02) by Adrian Cantrill
-                https://learn.cantrill.io/p/aws-certified-solutions-architect-associate-saa-c02
+                AWS Certified Solutions Architect - Associate (SAA-C03) by Adrian Cantrill
+                https://learn.cantrill.io/p/aws-certified-solutions-architect-associate-saa-c03
                 https://github.com/acantril/aws-sa-associate-saac02
                 https://github.com/alozano-77/AWS-SAA-C02-Course (Personal notes for SAA-C02 test from: https://learn.cantrill.io)
                 https://techstudyslack.com
                 https://talk.cantrill.io
                 https://cantrill.io.i-aws.cloud (Statistics about Adrian Cantrill's courses)
 
-                Ultimate AWS Certified Solutions Architect Associate 2022 by Stephane Maarek
-                https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c02
+                Ultimate AWS Certified Solutions Architect Associate SAA-C03 by Stephane Maarek
+                https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03
                 https://courses.datacumulus.com/downloads/certified-solutions-architect-pn9 (AWS Certified Solutions Architect Associate Code & Slides)
                 https://courses.datacumulus.com (Discount codes for the Course)
 
