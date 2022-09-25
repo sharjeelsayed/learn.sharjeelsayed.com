@@ -1047,6 +1047,7 @@ Contents:
                 https://github.com/marcel-dempers/docker-development-youtube-series (A Collection of tools, hands-on walkthroughs with source code.The Ultimate Swiss Army knife for DevOps, Developers and Platform Engineers)
                 https://github.com/nevalla/lens-resource-map-extension (Lens - The Kubernetes IDE extension that displays Kubernetes resources and their relations as a force graph.)
                 https://github.com/nkuba/k8s-admin-helper
+                https://github.com/nubenetes/awesome-kubernetes (A curated list of awesome references collected since 2018.)
                 https://github.com/OWASP/www-project-kubernetes-top-ten (OWASP Foundation Web Respository)
                 https://github.com/r0hi7/k8s-In-30Mins (Learn how to set up the Kubernetes cluster in 30 mins and deploy the application inside the cluster.)
                 https://github.com/ramitsurana/awesome-kubernetes (A curated list for awesome kubernetes sources 🚢🎉)
@@ -3270,7 +3271,7 @@ Contents:
                 irc://irc.irchighway.net/ebooks
                 irc://irc.undernet.org/bookz
 
-            An ACM Membership ($22/year) provides free Pluralsight access worth $150+ (https://app.pluralsight.com/library). The India Sign up page is at https://services.acm.org/public/qj/proflevel/proflevel_control.cfm?level=3&country=India&form_type=Professional&promo=LEVEL&pay=DD
+            An ACM Membership of $22/year provides free Pluralsight access worth $150+/year https://app.pluralsight.com/library. The India Sign up page is at https://services.acm.org/public/qj/proflevel/proflevel_control.cfm?level=3&country=India&form_type=Professional&promo=LEVEL&pay=DD
 
         Kindle:
             Sources:
