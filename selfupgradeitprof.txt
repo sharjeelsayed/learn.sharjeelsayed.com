@@ -2237,6 +2237,8 @@ Contents:
                 https://academy.tcm-sec.com (144,285)
                 https://learnk8s.io (172,663)
 
+            An ACM Membership of $22/year provides free Pluralsight access worth $150+/year https://app.pluralsight.com/library. The India Sign up page is at https://services.acm.org/public/qj/proflevel/proflevel_control.cfm?level=3&country=India&form_type=Professional&promo=LEVEL&pay=DD
+
     Development:
         SQL:
             Sources:
@@ -3270,8 +3272,6 @@ Contents:
                 https://cse.google.com/cse/publicurl?cx=011394183039475424659:5bfyqg89ers (Google Custom Search Engine for Ebooks)
                 irc://irc.irchighway.net/ebooks
                 irc://irc.undernet.org/bookz
-
-            An ACM Membership of $22/year provides free Pluralsight access worth $150+/year https://app.pluralsight.com/library. The India Sign up page is at https://services.acm.org/public/qj/proflevel/proflevel_control.cfm?level=3&country=India&form_type=Professional&promo=LEVEL&pay=DD
 
         Kindle:
             Sources:
