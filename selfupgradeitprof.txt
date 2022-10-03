@@ -320,6 +320,7 @@ Contents:
                 https://www.reddit.com/r/cscareerquestions/comments/6hmlxr/what_are_the_most_indemand_software_skills_right/dizqiie
                 https://www.reddit.com/r/cscareerquestions/comments/6w4dej/what_books_should_every_software_engineer_read_to
                 https://www.reddit.com/r/dailyprogrammer/wiki
+                https://www.reddit.com/r/ExperiencedDevs/comments/xqtgxe/youtube_channels_for_senior_engineers (Youtube channels for senior+ engineers?)
                 https://www.reddit.com/r/learnprogramming/comments/6l5u8s/what_one_thing_improved_your_skills_the_most
                 https://www.reddit.com/r/learnprogramming/comments/6lvvqq/audiobooks_on_programming
                 https://www.reddit.com/r/learnprogramming/comments/75qwen/im_34_and_i_got_my_first_programming_job_after
@@ -1357,6 +1358,7 @@ Contents:
                 https://aws.amazon.com/training/learning-paths
                 https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf (AWS Certified Solutions Architect – Associate (SAA-C02) Exam Guide)
                 https://digitalcloud.training/aws-cheat-sheets (AWS Certification Training Notes [Cheat Sheets] by Neal Davis)
+                https://github.com/acantril/learn-cantrill-io-labs (Standard and Advanced Demos for learn.cantrill.io courses)
                 https://github.com/keenanromain/AWS-SAA-C02-Study-Guide (How to become a certified AWS Solutions Architect by Keenan Romain)
                 https://help.acloud.guru/hc/en-us/articles/360001389256-AWS-Cloud-Sandbox  (AWS Cloud Sandbox)
                 https://learn.cantrill.io/p/aws-certification-recommendations (AWS Certification Recommendations) (SAA -> SAP -> Devops Pro. or SAA-> Dev Asso.-> Sysops Asso.-> SAP-> Devops Pro.  Advanced Networking Specialty is the hardest, Alexa and Security is the easiest)
@@ -1432,6 +1434,7 @@ Contents:
                 https://gist.github.com/willurd/5720255 (Big list of http static server one-liners)
                 https://github.com/bunkerity/bunkerized-nginx
                 https://github.com/fcambus/nginx-resources
+                https://github.com/stark0de/nginxpwner (Nginxpwner is a simple tool to look for common Nginx misconfigurations and vulnerabilities.)
                 https://github.com/topics/nginx?o=desc&s=stars
                 https://github.com/trimstray/nginx-admins-handbook
                 https://jvns.ca/blog/2021/09/24/new-tool--an-nginx-playground (Nginx Playground)
@@ -1574,7 +1577,7 @@ Contents:
                 https://github.com/morethancertified/mtc-terraform
                 https://techstudyslack.slack.com/archives/C01E7UKHR34
 
-                HashiCorp Certified: Terraform Associate 2020 by Zeal Vora
+                HashiCorp Certified: Terraform Associate 2022 by Zeal Vora
                 https://www.udemy.com/course/terraform-beginner-to-advanced
                 https://github.com/zealvora/coupon-codes
                 https://github.com/zealvora/terraform-beginner-to-advanced-resource
@@ -2199,6 +2202,7 @@ Contents:
                 https://www.real.discount (Discount coupons for Popular courses and MOOC Platforms)
                 https://www.reddit.com/r/compsci/comments/ud0e2n/any_recommendations_of_youtube_channels_for (Any recommendations of youtube channels for programming and computer science stuff?)
                 https://www.reddit.com/r/DataHoarder/comments/c6fh4x/after_hoarding_over_50k_youtube_videos_here_is (After hoarding over 50k YouTube videos, here is the youtube-dl command I settled on)
+                https://www.reddit.com/r/ExperiencedDevs/comments/xqtgxe/youtube_channels_for_senior_engineers (Youtube channels for senior+ engineers?)
                 https://www.reddit.com/r/learnprogramming/comments/une7ad/which_coding_bootcamp_would_you_prefer_and_why/i87v5sj (Which coding bootcamp would you prefer and why?)
                 https://www.reddit.com/r/sysadmin/comments/65wdum/whats_your_favorite_selfstudy_resource_paid_free
                 https://www.reddit.com/r/Udemy+udemyfreebies
@@ -2737,6 +2741,8 @@ Contents:
             Sources:
                 http://layoffs.fyi (Tracking all tech startup layoffs since COVID-19)
                 https://docs.google.com/spreadsheets/d/1TLJSlNxCbwRNxy14Toe1PYwbCTY7h0CNHeer9J0VRzE/htmlview#gid=1279011369 (900+ Startups hiring Remotely in 2020 - by Remotive.io)
+                https://en.wikipedia.org/wiki/List_of_Arab_League_countries_by_GDP_(PPP) (List of Arab League countries by GDP (PPP))
+                https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita (List of countries by GDP (PPP) per capita)
                 https://github.com/Kaustubh-Natuskar/companies-to-apply (This repository contains opportunities for you to apply to more than 150 product base companies(NOT JUST FAANG ) & good start-ups.)
                 https://github.com/lukasz-madon/awesome-remote-job
                 https://github.com/poteto/hiring-without-whiteboards
@@ -2801,7 +2807,8 @@ Contents:
                 https://sievejobs.com (3,711,141)
                 https://arbeitnow.com/?tags=%5B%22visa%20sponsorship%22%5D (6,208,741)
 
-            Dubai Job Sites:
+            Arab League Countries Job Sites:
+                https://ae.indeed.com (66)
                 https://www.bayt.com (2,320)
                 https://www.naukrigulf.com (4,844)
                 https://www.gulftalent.com (11,291)
