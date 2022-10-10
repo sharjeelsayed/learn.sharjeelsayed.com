@@ -906,6 +906,7 @@ Contents:
                 https://www.byobu.org (Byobu is a GPLv3 open source text-based window manager and terminal multiplexer.)
                 https://www.commandlinefu.com/commands/matching/tmux/dG11eA==/sort-by-votes
                 https://www.iterm2.com/documentation-tmux-integration.html
+                https://xai.sh/2020/10/16/Move-running-process-into-tmux-session.html (Move a running process into a tmux session)
                 https://pinboard.in/u:SharjeelSayed/t:tmux
 
         Windows:
@@ -1579,7 +1580,7 @@ Contents:
 
                 HashiCorp Certified: Terraform Associate 2022 by Zeal Vora
                 https://www.udemy.com/course/terraform-beginner-to-advanced
-                https://github.com/zealvora/coupon-codes
+                https://github.com/zealvora/coupon-codes ((Coupon Codes))
                 https://github.com/zealvora/terraform-beginner-to-advanced-resource
                 https://rutracker.org/forum/viewtopic.php?t=5936588
 
@@ -1594,6 +1595,10 @@ Contents:
                 https://tf-eks-workshop.workshop.aws
 
             Additional Material:
+                HashiCorp Certified: Terraform Associate Practice Exam 2022 by Bryan Krausen
+                https://www.udemy.com/course/terraform-associate-practice-exam
+                https://github.com/btkrausen (Coupon Codes)
+
                 Deploy Infra in the Cloud using Terraform by Houssem Dellai
                 https://www.udemy.com/course/deploy-infra-in-the-cloud-using-terraform
 
@@ -2335,11 +2340,12 @@ Contents:
             Sources:
                 https://news.ycombinator.com/item?id=11606296 (To become a good C programmer (2011) (fabiensanglard.net))
                 https://news.ycombinator.com/item?id=12475383 (“Learn C the Hard Way” is no longer available for free)
-                https://news.ycombinator.com/item?id=26911399 (Beej's Guide to C Programming)
                 https://news.ycombinator.com/item?id=16196194 (Brushing up on operating systems and C programming)
                 https://news.ycombinator.com/item?id=16347309 (Ask HN: What project did you tackle to learn C?)
                 https://news.ycombinator.com/item?id=19126544 (Show HN: Learn C and its lower levels interactively, in the browser)
                 https://news.ycombinator.com/item?id=22519876 (	Ask HN: How do I learn C properly?)
+                https://news.ycombinator.com/item?id=26911399 (Beej's Guide to C Programming)
+                https://news.ycombinator.com/item?id=33130533 (Ask HN: Best book to learn C in 2022?)
 
             Books and Courses:
                 Learn C The Hard Way
@@ -2387,6 +2393,7 @@ Contents:
                 https://github.com/topics/webdevelopment?o=desc&s=stars
                 https://github.com/yangshun/front-end-interview-handbook
                 https://news.ycombinator.com/item?id=24130286 (Ask HN: Self-taught webdev with lots of free time. What should I learn?)
+                https://rutar.org/writing/how-to-build-a-personal-webpage-from-scratch (How to Build a Personal Webpage from Scratch)
                 https://www.photopea.com
                 https://www.reddit.com/r/learnprogramming/comments/bvlsf7/the_odin_project_vs_colt_steeles_web_dev_bootcamp
                 https://www.reddit.com/r/webdev/comments/8lvsxa/is_colt_steele_web_dev_bootcamp_still_the_go_to
@@ -3847,6 +3854,7 @@ Contents:
                 https://kill-the-newsletter.com
                 https://kubenews.net
                 https://news.ycombinator.com/item?id=22280939 (Ask HN: What are the underrated newsletters you like reading?)
+                https://news.ycombinator.com/item?id=33059231 (Ask HN: Which mailing lists would you recommend to subscribe to?)
                 https://www.sans.org/newsletters (SANS offers three newsletters to keep you up-to-date on the latest cybersecurity news, cyber attacks and vulnerabilities, and security awareness tips and stories.)
 
             Newsletters: (Sorted by Alexa Rank)
@@ -4154,6 +4162,7 @@ Contents:
                 https://torrentfreak.com/utorrent-is-the-most-used-bittorrent-client-by-far-200405
                 https://www.reddit.com/r/Addons4Kodi/wiki/preferred_addons
                 https://www.reddit.com/r/movieleaks
+                https://www.reddit.com/r/Piracy/comments/xxs0wv/what_are_some_websites_every_person_should_know (What are some websites every person should know?)
                 https://www.reddit.com/r/piracy/wiki/faq
                 https://www.reddit.com/r/piracy/wiki/guides
                 https://www.reddit.com/r/Piracy/wiki/megathread
