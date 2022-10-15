@@ -1132,7 +1132,7 @@ Contents:
                 https://github.com/spurin/diveintokubernetes-introduction-resources
                 https://youtu.be/n4zxKk2an3U
 
-                Kubernetes in Action, Second Edition by Marko Lukša (Releasing on October 25, 2022)
+                Kubernetes in Action, Second Edition by Marko Lukša (Releasing on April 25, 2023)
                 https://www.amazon.com/Kubernetes-Action-Second-Marko-Luk%C5%A1a/dp/1617297615
                 https://www.manning.com/books/kubernetes-in-action-second-edition
                 https://livebook.manning.com/book/kubernetes-in-action-second-edition
@@ -1292,6 +1292,7 @@ Contents:
                 https://github.com/topics/aws?o=desc&s=stars
                 https://github.com/turbot/steampipe (Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required.)
                 https://github.com/undergroundwires/AWS-in-bullet-points
+                https://github.com/vantage-sh/ec2instances.info (Amazon EC2 instance comparison site)
                 https://github.com/wallix/awless (A Mighty CLI for AWS)
                 https://iam.cloudonaut.io (Creating IAM policies is hard. We collect information from the AWS Documentation to make writing IAM policies easier)
                 https://instances.vantage.sh (Easy Amazon EC2 Instance Comparison)
@@ -1303,6 +1304,7 @@ Contents:
                 https://www.concurrencylabs.com/blog/choose-your-aws-region-wisely (Save yourself a lot of pain (and money) by choosing your AWS Region wisely)
                 https://www.lastweekinaws.com/blog/the-17-ways-to-run-containers-on-aws (The 17 Ways to Run Containers on AWS)
                 https://www.reddit.com/r/aws/comments/on154c/lessons_learned_if_you_could_do_it_all_from_the (Lessons learned: if you could do it "all" from the start again, what would you do differently / anew in your AWS? (self.aws))
+                https://www.reddit.com/r/AWSCertifications/comments/y2hw5t/free_technical_fundamentals_content (Free Technical Fundamentals Content by Adrian Cantrill)
                 https://www.stackery.io/registry (Enter an AWS CloudFormation template for instant analysis)
                 https://youtu.be/B08iQQhXG1Y (The Most Important AWS Services (with an easy to follow example!))
                 https://pinboard.in/u:SharjeelSayed/t:aws
@@ -3312,6 +3314,8 @@ Contents:
 
         Study Music:
             Sources:
+                https://askubuntu.com/questions/789465/generate-white-noise-to-calm-a-baby
+                https://gist.github.com/kristopherjohnson/9f7e3fe61e595ad7cedc (Generate Brown Noise, White Noise, or Pink Noise using SoX)
                 https://lifehacker.com/the-ultimate-list-of-work-and-study-music-1836284255
                 https://news.ycombinator.com/item?id=11146712 (	AI generated music to improve focus, relaxation and sleep (brain.fm))
                 https://news.ycombinator.com/item?id=11146712 (AI generated music to improve focus, relaxation and sleep (brain.fm))
@@ -3322,6 +3326,7 @@ Contents:
                 https://news.ycombinator.com/item?id=27737887 (	Music for Programming (musicforprogramming.net))
                 https://news.ycombinator.com/item?id=27908441 (Yet another background music for developer, if you missed working at cafe (sudo.fm))
                 https://news.ycombinator.com/item?id=31470928 (	Lofi.co – Relax and Focus (lofi.co))
+                https://news.ycombinator.com/item?id=33019781 (Can brown noise turn off your brain?)
                 https://news.ycombinator.com/item?id=9767943 (Do Binaural Beats Really Affect Brainwaves? (autodidacts.io))
                 https://open.spotify.com/user/22jszrk35ji6sm6qewxzsly4a?si=DVuJ0DSLQ7mLqfXy4nkLTQ
                 https://www.musicforprogramming.net
@@ -3330,6 +3335,7 @@ Contents:
                 https://www.reddit.com/r/medicalschool/comments/9m4afb/serious_spotify_playlists_to_listen_to_while
                 https://www.rollingstone.com/music/music-lists/best-songs-of-all-time-1224767
                 https://pinboard.in/u:SharjeelSayed/t:music+study
+
 
             Sites:
                 soma fm's Drone Zone Channel
