@@ -1929,6 +1929,7 @@ Contents:
                 https://github.com/robertdavidgraham/masscan (TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.)
                 https://github.com/sbilly/awesome-security (A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.)
                 https://github.com/security-prince/Application-Security-Engineer-Interview-Questions (Some of the questions which i was asked when i was giving interviews for Application/Product Security roles.)
+                https://github.com/shreyaschavhan/oscp-pre-preparation-plan-and-notes (𝐎𝐒𝐂𝐏 𝐏𝐫𝐞-𝐏𝐫𝐞𝐩𝐚𝐫𝐚𝐭𝐢𝐨𝐧 𝐏𝐥𝐚𝐧 𝐚𝐧𝐝 𝐍𝐨𝐭𝐞𝐬)
                 https://github.com/sottlmarek/DevSecOps (Ultimate DevSecOps library)
                 https://github.com/TalEliyahu/awesome-security-newsletters (Periodic cyber security newsletters that capture the latest news, summaries of conference talks, research, best practices, tools, events, vulnerabilities, and analysis of trending threats and attacks)
                 https://github.com/TalEliyahu/awesome-security-newsletters (Periodic cyber security newsletters that capture the latest news, summaries of conference talks, research, best practices, tools, events, vulnerabilities, and analysis of trending threats and attacks)
@@ -2519,6 +2520,7 @@ Contents:
 
         IDE:
             Sources:
+                https://blog.jetbrains.com/idea/2022/10/top-underrated-shortcuts (Top Underrated Shortcuts in IntelliJ IDEA)
                 https://editorconfig.org
                 https://www.codingfont.com (Gamified experience to help you find your true love of coding fonts!)
 
@@ -3805,6 +3807,7 @@ Contents:
 
                 Reddit:
                     Sources:
+                        http://redditlist.com (Top SubReddit List)
                         https://redditfavorites.com (Reddit Favorites From 3.5 billion comments)
                         https://subredditstats.com/subreddit-user-overlaps (Type a subreddit name to list its overlaps with other subreddits)
                         https://www.findareddit.com (Find Subreddits for your Niche)
