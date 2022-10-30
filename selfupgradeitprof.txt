@@ -1088,6 +1088,7 @@ Contents:
                 https://mjarosie.github.io/dev/2021/09/15/iam-roles-for-kubernetes-service-accounts-deep-dive.html (IAM roles for Kubernetes service accounts - deep dive)
                 https://napo.io/posts/kubernetes-the-real-hard-way-on-aws
                 https://news.ycombinator.com/item?id=29251343 (Ask HN: What is the fastest way to ramp up on DevOps, k8 and GCP?)
+                https://notes.arkalim.org/notes/kubernetes (Abdur's Notes for Kubernetes)
                 https://rancher.com (Rancher is a Kubernetes-based container orchestration platform)
                 https://rancher.com/products/rancher-desktop (Rancher Desktop lets developers easily run Kubernetes on their desktop)
                 https://redhatspain.com/kubernetes (A curated list of awesome references collected since 2018.)
@@ -1266,6 +1267,7 @@ Contents:
                 https://aws.amazon.com/builders-library (The Amazon Builders' Library: How Amazon builds and operates software )
                 https://aws.amazon.com/training/digital/aws-security-fundamentals (AWS Security Fundamentals (Second Edition))
                 https://awsstash.com (A collection of AWS related videos, podcasts, code repositories, whitepapers, and feature releases, all in a single, easy to search interface.)
+                https://awstip.com/how-to-list-all-resources-in-your-aws-account-c3f18061f71b (How to list all resources in your AWS account)
                 https://awsvideocatalog.com (AWS Video Catalog is a website that collects all the official Amazon videos)
                 https://comparecloud.in (Public Cloud Services Comparison)
                 https://d1.awsstatic.com/whitepapers/building_an_aws_perimeter.pdf (Building an AWS Perimeter)
@@ -1347,31 +1349,30 @@ Contents:
                 AWS Certified Solutions Architect - Associate 2020 (PASS THE EXAM!) by Andrew Brown of ExamPro, freecodecamp.org
                 https://youtu.be/Ia-UEYYR44s
 
-            AWS Training Resources:
-                https://aws.amazon.com/getting-started/hands-on (Find the hands-on tutorials for your AWS needs)
-                https://explore.skillbuilder.aws/learn (Your learning center to build in-demand cloud skills)
-                https://github.com/baobabKoodaa/cloudbite (Flashcards to learn AWS skills)
-                https://www.aws.training (The only set of training programs and offerings built by the experts at AWS.)
-                https://www.awsgeek.com (Cloud Diagrams & Notes)
-                https://www.reddit.com/r/sysadmin/comments/8inzn5/so_you_want_to_learn_aws_aka_how_do_i_learn_to_be (So, you want to learn AWS? AKA, "How do I learn to be a Cloud Engineer?")
-                https://www.wellarchitectedlabs.com (This repository contains documentation and code in the format of hands-on labs to help you learn, measure, and build using architectural best practices)
-
             AWS Certification Resources:
                 https://aws.amazon.com/certification (AWS Certification Official Page)
+                https://aws.amazon.com/getting-started/hands-on (Find the hands-on tutorials for your AWS needs)
                 https://aws.amazon.com/training/learning-paths
                 https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf (AWS Certified Solutions Architect – Associate (SAA-C02) Exam Guide)
                 https://digitalcloud.training/aws-cheat-sheets (AWS Certification Training Notes [Cheat Sheets] by Neal Davis)
+                https://explore.skillbuilder.aws/learn (Your learning center to build in-demand cloud skills)
                 https://github.com/acantril/learn-cantrill-io-labs (Standard and Advanced Demos for learn.cantrill.io courses)
+                https://github.com/baobabKoodaa/cloudbite (Flashcards to learn AWS skills)
                 https://github.com/keenanromain/AWS-SAA-C02-Study-Guide (How to become a certified AWS Solutions Architect by Keenan Romain)
                 https://help.acloud.guru/hc/en-us/articles/360001389256-AWS-Cloud-Sandbox  (AWS Cloud Sandbox)
                 https://learn.cantrill.io/p/aws-certification-recommendations (AWS Certification Recommendations) (SAA -> SAP -> Devops Pro. or SAA-> Dev Asso.-> Sysops Asso.-> SAP-> Devops Pro.  Advanced Networking Specialty is the hardest, Alexa and Security is the easiest)
+                https://notes.arkalim.org/notes/aws%20solutions%20architect%20associate/aws%20solutions%20architect%20associate%20(saa-c02) (Abdur's Notes for AWS Solutions Architect Associate (SAA-C02))
                 https://tutorialsdojo.com/aws-cheat-sheets (AWS Cheat Sheets)
                 https://tutorialsdojo.com/aws-study-path-notes (AWS Exam Study Guides)
+                https://www.aws.training (The only set of training programs and offerings built by the experts at AWS.)
+                https://www.awsgeek.com (Cloud Diagrams & Notes)
                 https://www.examtopics.com/exams/amazon
                 https://www.reddit.com/r/AWSCertifications/comments/pcj2nk/free_learning_resources_needed_for_aws_solutions/haje9xi (Free Learning Resources needed for "AWS Solutions Architect Associate" exam)
                 https://www.reddit.com/r/AWSCertifications/comments/uqnn53/ive_heard_the_recommendation_here_to_go_saa_sap/i8sbnj5 (If you REALLY want to get devops with minimal study you should do Dev Asso -> Sysops Asso. -> Devops Pro)
                 https://www.reddit.com/r/AWSCertifications/search/?q=course&restrict_sr=on&t=year (This subreddit focuses solely on AWS Certifications.)
+                https://www.reddit.com/r/sysadmin/comments/8inzn5/so_you_want_to_learn_aws_aka_how_do_i_learn_to_be (So, you want to learn AWS? AKA, "How do I learn to be a Cloud Engineer?")
                 https://www.udemy.com/topic/aws-certification/?ratings=4.5&sort=popularity (Udemy Courses rated 4.5 stars and above)
+                https://www.wellarchitectedlabs.com (This repository contains documentation and code in the format of hands-on labs to help you learn, measure, and build using architectural best practices)
 
             Free AWS Labs:
                 https://run.qwiklabs.com/catalog?keywords=introduction&locale=&cloud%5B%5D=AWS&format%5B%5D=any&level%5B%5D=any&duration%5B%5D=any&price%5B%5D=free&modality%5B%5D=any&language%5B%5D=any
@@ -2058,6 +2059,7 @@ Contents:
                 https://objective-see.com/products.html (Free Mac Security Tools)
                 https://opensource.com/article/19/5/python-3-default-mac (The right and wrong way to set Python 3 as default on a Mac)
                 https://renegadevi.gitlab.io/mac-app-collection (Find hidden gem apps to improve your Mac.)
+                https://roaringapps.com (Crowd-sourced application compatibility for macOS, iOS and Windows.)
                 https://support.apple.com/en-in/guide/terminal/trmlshtcts/mac (Keyboard shortcuts in Terminal on Mac)
                 https://support.apple.com/en-in/HT201236 (Mac keyboard shortcuts)
                 https://support.google.com/chrome/answer/157179 (Chrome keyboard shortcuts)
