@@ -660,6 +660,7 @@ Contents:
                 https://github.com/Leo-G/DevopsWiki
                 https://github.com/MichaelCade/90DaysOfDevOps (This repository is my documenting repository for learning the world of DevOps)
                 https://github.com/microsoft/code-with-engineering-playbook (This is the playbook for "code-with" customer or partner engagements)
+                https://github.com/milanm/DevOps-Roadmap (DevOps Roadmap for 2022. with learning resources)
                 https://github.com/nmarus/docker-devops-box
                 https://github.com/Tikam02/DevOps-Guide
                 https://github.com/topics/devops?o=desc&s=stars
@@ -856,6 +857,7 @@ Contents:
                 https://news.ycombinator.com/item?id=27615516 (Bash PS1 Generator (bashrcgenerator.com))
                 https://news.ycombinator.com/item?id=27992073 (	Command line tools for productive programmers (earthly.dev))
                 https://pragmaticpineapple.com/four-useful-fzf-tricks-for-your-terminal
+                https://sharats.me/posts/shell-script-best-practices (Shell Script Best Practices)
                 https://stackoverflow.com/a/19866239/11065 (Test if remote TCP port is open from a bash shell script)
                 https://switowski.com/blog/favorite-cli-tools
                 https://wiki.bash-hackers.org/scripting/debuggingtips (Debugging a script)
@@ -1932,7 +1934,6 @@ Contents:
                 https://github.com/security-prince/Application-Security-Engineer-Interview-Questions (Some of the questions which i was asked when i was giving interviews for Application/Product Security roles.)
                 https://github.com/shreyaschavhan/oscp-pre-preparation-plan-and-notes (𝐎𝐒𝐂𝐏 𝐏𝐫𝐞-𝐏𝐫𝐞𝐩𝐚𝐫𝐚𝐭𝐢𝐨𝐧 𝐏𝐥𝐚𝐧 𝐚𝐧𝐝 𝐍𝐨𝐭𝐞𝐬)
                 https://github.com/sottlmarek/DevSecOps (Ultimate DevSecOps library)
-                https://github.com/TalEliyahu/awesome-security-newsletters (Periodic cyber security newsletters that capture the latest news, summaries of conference talks, research, best practices, tools, events, vulnerabilities, and analysis of trending threats and attacks)
                 https://github.com/TalEliyahu/awesome-security-newsletters (Periodic cyber security newsletters that capture the latest news, summaries of conference talks, research, best practices, tools, events, vulnerabilities, and analysis of trending threats and attacks)
                 https://github.com/toniblyx/my-arsenal-of-aws-security-tools (List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.)
                 https://github.com/topics/devsecops?o=desc&s=stars
@@ -3439,7 +3440,7 @@ Contents:
                 https://youtu.be/NHFqCFe0i2k (The TRUTH About The Herman Miller AERON Ergonomic Office Chair | Steelcase Leap V2 vs Aeron Review)
                 https://youtu.be/x-aeDaHIEbY (Get A Herman Miller Aeron for CHEAP + Buying Guide!!!)
 
-            The Four Kings of chairs are the Herman-Miller Aeron, the HM Embody, the Steelcase Leap, & the Steelcase Gesture
+            The Four Kings of chairs are the Herman-Miller Aeron, the Herman-Miller Embody, the Steelcase Leap, & the Steelcase Gesture
 
         Ear Plugs:
             Sources:
@@ -3815,7 +3816,7 @@ Contents:
                         https://www.findareddit.com (Find Subreddits for your Niche)
 
                     Subscriptions:
-                        https://www.reddit.com/r/1Password+AWSCertifications+Alfred+AppHookup+AppleWatch+CryptoCurrency+DataHoarder+Documentaries+ExperiencedDevs+FreeEBOOKS+ITCareerQuestions+IndiaInvestments+KindleFreebies+Piracy+Terraform+Ubuntu+Udemy+Upwork+announcements+ansible+antiwork+apple+appletv+aws+compsci+cscareerquestions+dataisbeautiful+devops+docker+freelance+hackernews+india+ipad+iphone+kindle+kubernetes+learnprogramming+linux+linuxadmin+linuxupskillchallenge+mac+macapps+movies+netsec+nextdns+onebag+osx+programming+science+solotravel+sysadmin+technology+television+todayilearned+todoist+travel+udemyfreebies+usefulscripts+worldnews
+                        https://www.reddit.com/r/1Password+AWSCertifications+Alfred+AppHookup+AppleWatch+CryptoCurrency+DataHoarder+Documentaries+EDC+ExperiencedDevs+FreeEBOOKS+ITCareerQuestions+IndiaInvestments+KindleFreebies+Piracy+Terraform+Ubuntu+Udemy+Upwork+announcements+ansible+antiwork+apple+appletv+aws+compsci+cscareerquestions+dataisbeautiful+devops+docker+freelance+hackernews+india+ipad+iphone+kindle+kubernetes+learnprogramming+linux+linuxadmin+linuxupskillchallenge+mac+macapps+movies+netsec+nextdns+onebag+osx+programming+science+solotravel+sysadmin+technology+television+todayilearned+todoist+travel+udemyfreebies+usefulscripts+worldnews
 
                 Hacker News:
                     https://apps.apple.com/us/app/hack-for-hacker-news-developer/id1464477788
