@@ -956,11 +956,12 @@ Contents:
                 https://containersfromthecouch.com
                 https://docs.docker.com
                 https://geshan.com.np/blog/2022/05/docker-commands (10 useful Docker commands to get things done with a real-life example)
+                https://github.com/abiosoft/colima (Container runtimes on macOS (and Linux) with minimal setup)
                 https://github.com/docker/docker-bench-security
                 https://github.com/docker/docker-install (Docker installation script)
                 https://github.com/dockersamples/example-voting-app (Example Docker Compose app)
-                https://github.com/dokku/dokku
-                https://github.com/hadolint/hadolint
+                https://github.com/dokku/dokku ( A docker-powered PaaS that helps you build and manage the lifecycle of applications)
+                https://github.com/hadolint/hadolint (Dockerfile linter, validate inline bash, written in Haskell)
                 https://github.com/hexops/dockerfile (Dockerfile best-practices for writing production-worthy Docker images. )
                 https://github.com/jesseduffield/lazydocker (The lazier way to manage everything docker)
                 https://github.com/jessfraz/dockerfiles (Various Dockerfiles I use on the desktop and on servers. )
@@ -976,6 +977,7 @@ Contents:
                 https://man7.org/linux/man-pages/man7/cgroups.7.html
                 https://man7.org/linux/man-pages/man7/namespaces.7.html
                 https://news.ycombinator.com/item?id=15822583 (Ask HN: Good resources on learning how docker works under the hood?)
+                https://podman-desktop.io (Podman Desktop leverages Podman Engine to provide a lightweight and daemon-less container tool)
                 https://sparkle.adroitcorp.com.au/market (Flashcards)
                 https://sysdig.com/blog/dockerfile-best-practices
                 https://www.fb.com/groups/devopsdocker
@@ -1029,6 +1031,7 @@ Contents:
                 https://chrisshort.net/kubernetes-illustrated-childrens-guide
                 https://cloud.redhat.com/blog/top-open-source-kubernetes-security-tools-of-2021 (Top Open Source Kubernetes Security Tools of 2021)
                 https://devopsunlocked.com/kubernetes-learning-material
+                https://github.com/abiosoft/colima (Container runtimes on macOS (and Linux) with minimal setup)
                 https://github.com/ahmetb/kubernetes-network-policy-recipes
                 https://github.com/alexellis/k3sup (bootstrap Kubernetes with k3s over SSH < 1 min 🚀)
                 https://github.com/aquasecurity/kube-bench (Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark )
@@ -1037,6 +1040,7 @@ Contents:
                 https://github.com/containerd/nerdctl (contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ... )
                 https://github.com/datreeio/datree (Prevent Kubernetes misconfigurations from reaching production (again 😤 )! Datree is a CLI tool to ensure K8s manifests and Helm charts follow best practices as well as your organization’s policies)
                 https://github.com/dennyzhang/cheatsheet-kubernetes-A4
+                https://github.com/devtron-labs/devtron (Devtron is an integrated Kubernetes distribution which bundles Argo, Grafana, Helm, Keda, Prometheus and more, saving you the effort of integrating yourself)
                 https://github.com/diegolnasc/kubernetes-best-practices (A cookbook with the best practices for working with kubernetes)
                 https://github.com/eon01/kubernetes-workshop (A Gentle introduction to Kubernetes with more than just the basics.)
                 https://github.com/jamiehannaford/what-happens-when-k8s (What happens when I type kubectl run?)
@@ -1044,6 +1048,7 @@ Contents:
                 https://github.com/k8s-at-home/awesome-home-kubernetes
                 https://github.com/karmada-io/karmada (Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration)
                 https://github.com/kelseyhightower/kubernetes-the-hard-way
+                https://github.com/komodorio/helm-dashboard (The missing UI for Helm - visualize your releases)
                 https://github.com/ksoclabs/awesome-kubernetes-security (A curated list of awesome Kubernetes security resources)
                 https://github.com/kubernetes/kubernetes
                 https://github.com/LeCoupa/awesome-cheatsheets/blob/master/tools/kubernetes.md
@@ -1054,6 +1059,7 @@ Contents:
                 https://github.com/nkuba/k8s-admin-helper
                 https://github.com/nubenetes/awesome-kubernetes (A curated list of awesome references collected since 2018.)
                 https://github.com/OWASP/www-project-kubernetes-top-ten (OWASP Foundation Web Respository)
+                https://github.com/paralus/paralus (All-in-one Kubernetes access manager. User-level credentials, RBAC, SSO, audit logs.)
                 https://github.com/r0hi7/k8s-In-30Mins (Learn how to set up the Kubernetes cluster in 30 mins and deploy the application inside the cluster.)
                 https://github.com/ramitsurana/awesome-kubernetes (A curated list for awesome kubernetes sources 🚢🎉)
                 https://github.com/salesforce/sloop (Kubernetes History Visualization)
@@ -1061,6 +1067,7 @@ Contents:
                 https://github.com/terraform-aws-modules/terraform-aws-eks
                 https://github.com/tomhuang12/awesome-k8s-resources (A curated list of awesome Kubernetes tools and resources.)
                 https://github.com/topics/kubernetes?o=desc&s=stars
+                https://github.com/weaveworks/kubediff (a tool for Kubernetes to show differences between running state and version controlled configuration.)
                 https://github.com/zegl/kube-score (Kubernetes object analysis with recommendations for improved reliability and security)
                 https://goo.gl/Rywkpd (The Kubernetes Learning Resources List)
                 https://hackr.io/tutorials/learn-kubernetes
@@ -1091,6 +1098,7 @@ Contents:
                 https://napo.io/posts/kubernetes-the-real-hard-way-on-aws
                 https://news.ycombinator.com/item?id=29251343 (Ask HN: What is the fastest way to ramp up on DevOps, k8 and GCP?)
                 https://notes.arkalim.org/notes/kubernetes (Abdur's Notes for Kubernetes)
+                https://podman-desktop.io (Podman Desktop leverages Podman Engine to provide a lightweight and daemon-less container tool)
                 https://rancher.com (Rancher is a Kubernetes-based container orchestration platform)
                 https://rancher.com/products/rancher-desktop (Rancher Desktop lets developers easily run Kubernetes on their desktop)
                 https://redhatspain.com/kubernetes (A curated list of awesome references collected since 2018.)
@@ -1116,6 +1124,16 @@ Contents:
                 https://pinboard.in/u:SharjeelSayed/t:kubernetes
 
             Books and Courses:
+                Kubernetes in Action, Second Edition by Marko Lukša (Releasing on April 25, 2023)
+                https://www.amazon.com/Kubernetes-Action-Second-Marko-Luk%C5%A1a/dp/1617297615
+                https://www.manning.com/books/kubernetes-in-action-second-edition
+                https://livebook.manning.com/book/kubernetes-in-action-second-edition
+                https://wangwei1237.github.io/Kubernetes-in-Action-Second-Edition
+                https://github.com/luksa/kubernetes-in-action-2nd-edition
+                https://www.manning.com/books/kubernetes-in-action
+                https://livebook.manning.com/book/kubernetes-in-action
+                https://github.com/luksa/kubernetes-in-action
+
                 Certified Kubernetes Administrator (CKA) with Practice Tests by Mumshad Mannambeth
                 https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests
                 https://github.com/kodekloudhub/certified-kubernetes-administrator-course
@@ -1135,26 +1153,14 @@ Contents:
                 https://github.com/spurin/diveintokubernetes-introduction-resources
                 https://youtu.be/n4zxKk2an3U
 
-                Kubernetes in Action, Second Edition by Marko Lukša (Releasing on April 25, 2023)
-                https://www.amazon.com/Kubernetes-Action-Second-Marko-Luk%C5%A1a/dp/1617297615
-                https://www.manning.com/books/kubernetes-in-action-second-edition
-                https://livebook.manning.com/book/kubernetes-in-action-second-edition
-                https://wangwei1237.github.io/Kubernetes-in-Action-Second-Edition
-                https://github.com/luksa/kubernetes-in-action-2nd-edition
-                https://www.manning.com/books/kubernetes-in-action
-                https://livebook.manning.com/book/kubernetes-in-action
-                https://github.com/luksa/kubernetes-in-action
-
                 Kubernetes Up and Running Dive into the Future of Infrastructure 3rd Edition (2022) by Brendan Burns, Joe Beda, Kelsey Hightower and Lachlan Evenson
                 https://www.oreilly.com/library/view/kubernetes-up-and/9781098110192
                 https://www.amazon.com/Kubernetes-Up-Running-Brendan-Burns-ebook/dp/B0B8G22T5L
                 https://tanzu.vmware.com/content/ebooks/kubernetes-up-running-dive-into-the-future-of-infrastructure (Free Copy)
 
-                The Kubernetes Book by Nigel Poulton
-                https://www.amazon.com/Kubernetes-Book-Version-November-2018-ebook-dp-B072TS9ZQZ/dp/B072TS9ZQZ
-                https://leanpub.com/thekubernetesbook
-                https://github.com/nigelpoulton/TheK8sBook (YAML files for use with The Kubernetes Book)
-                https://nigelpoulton.com/for-individuals (Nigel's learning Roadmap:7 Steps to learn Kubernetes and Docker)
+                The Book of Kubernetes: A Complete Guide to Container Orchestration (Sep 2022) by Alan Hohn
+                https://www.amazon.com/Book-Kubernetes-Complete-Container-Orchestration/dp/1718502648
+                https://nostarch.com/book-kubernetes
 
                 Kubernetes Tutorial for Beginners [FULL COURSE in 4 Hours] by TechWorld with Nana
                 https://youtu.be/X48VuDVv0do
@@ -1217,6 +1223,12 @@ Contents:
                 https://leanpub.com/quickstartkubernetes
                 https://github.com/nigelpoulton/qsk-book (Quick Start Kubernetes book on GitHub)
 
+                The Kubernetes Book by Nigel Poulton
+                https://www.amazon.com/Kubernetes-Book-Version-November-2018-ebook-dp-B072TS9ZQZ/dp/B072TS9ZQZ
+                https://leanpub.com/thekubernetesbook
+                https://github.com/nigelpoulton/TheK8sBook (YAML files for use with The Kubernetes Book)
+                https://nigelpoulton.com/for-individuals (Nigel's learning Roadmap:7 Steps to learn Kubernetes and Docker)
+
             K8s Visual management: (Sorted by Alexa Rank)
                 https://k8slens.dev (536,393)
                 https://infra.app (1,617,880)
@@ -1275,6 +1287,7 @@ Contents:
                 https://d1.awsstatic.com/whitepapers/building_an_aws_perimeter.pdf (Building an AWS Perimeter)
                 https://dev.to/aws-heroes (This is a collection of articles written by AWS Heroes.)
                 https://expeditedsecurity.com/aws-in-plain-english
+                https://github.com/1debit/alternat (High availability implementation of AWS NAT instances.)
                 https://github.com/4ndersonLin/awesome-cloud-security (Awesome Cloud Security Resources)
                 https://github.com/anaibol/awesome-serverless
                 https://github.com/aramalipoor/aws-cost-saver (A tiny CLI tool to help save costs in development environments when you're asleep and don't need them!)
@@ -1903,6 +1916,7 @@ Contents:
                 https://en.wikipedia.org/wiki/List_of_computer_security_certifications#Most_Popular_Vendor_Neutral_Cyber_Security_Certifications_Among_employers
                 https://github.com/0x90n/InfoSec-Black-Friday (All the deals for InfoSec related software/tools this Black Friday)
                 https://github.com/4ndersonLin/awesome-cloud-security (Awesome Cloud Security Resources)
+                https://github.com/6mile/DevSecOps-Playbook (This is a step-by-step guide to implementing a DevSecOps program for any size organization)
                 https://github.com/aquasecurity/cloudsploit (CloudSploit by Aqua is an open-source project designed to allow detection of security risks in cloud infrastructure accounts, including: Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform (GCP), Oracle Cloud Infrastructure (OCI), and GitHub.)
                 https://github.com/armosec/kubescape (kubescape is the first tool for testing if Kubernetes is deployed securely as defined in Kubernetes Hardening Guidance by to NSA and CISA)
                 https://github.com/Arudjreis/awesome-security-GRC (Curated list of resources for security Governance, Risk Management, Compliance and Audit professionals and enthusiasts (if they exist).)
@@ -2532,6 +2546,7 @@ Contents:
                     https://code.visualstudio.com/docs/editor/github
                     https://news.ycombinator.com/item?id=27231033 (Disable autocorrect in vscode)
                     https://news.ycombinator.com/item?id=29278370 (	Ask HN: What extensions/packs of VS Code are must for web/developers to install?)
+                    https://vscodecandothat.com (VS Code Can Do That)
                     https://www.reddit.com/r/vscode/comments/8zbcb3/window_tabs/e2toon2 (Enable windows tabs in vscode)
 
                 Extensions:
@@ -2812,6 +2827,7 @@ Contents:
                 https://relocate.me (155,692)
                 https://himalayas.app (158,672)
                 https://www.jobget.com (190,120)
+                https://laskie.com (221,700)
                 https://swissdevjobs.ch (289,507)
                 https://remoteleaf.com/whoishiring (684,542)
                 http://www.sampoorna.com (723,834)
@@ -3265,6 +3281,7 @@ Contents:
                 https://www.reddit.com/r/FreeEBOOKS/comments/exw3gj/here_are_50_classic_books_that_you_can_download
                 https://www.reddit.com/r/freeEBOOKS/wiki/febooks
                 https://www.reddit.com/r/FreeEBOOKS+KindleFreebies
+                https://www.reddit.com/r/Piracy/comments/oreyow/heres_the_definitive_list_of_sites_for_ebooks_and
                 https://yahnd.com/books (The Best Books of Hacker News)
                 https://pinboard.in/u:SharjeelSayed/t:course
                 https://pinboard.in/u:SharjeelSayed/t:ebooks
@@ -3816,7 +3833,7 @@ Contents:
                         https://www.findareddit.com (Find Subreddits for your Niche)
 
                     Subscriptions:
-                        https://www.reddit.com/r/1Password+AWSCertifications+Alfred+AppHookup+AppleWatch+CryptoCurrency+DataHoarder+Documentaries+EDC+ExperiencedDevs+FreeEBOOKS+ITCareerQuestions+IndiaInvestments+KindleFreebies+Piracy+Terraform+Ubuntu+Udemy+Upwork+announcements+ansible+antiwork+apple+appletv+aws+compsci+cscareerquestions+dataisbeautiful+devops+docker+freelance+hackernews+india+ipad+iphone+kindle+kubernetes+learnprogramming+linux+linuxadmin+linuxupskillchallenge+mac+macapps+movies+netsec+nextdns+onebag+osx+programming+science+solotravel+sysadmin+technology+television+todayilearned+todoist+travel+udemyfreebies+usefulscripts+worldnews
+                        https://www.reddit.com/r/1Password+AWSCertifications+Alfred+AppHookup+AppleWatch+CryptoCurrency+DataHoarder+Documentaries+EDC+ExperiencedDevs+FreeEBOOKS+ITCareerQuestions+IndiaInvestments+KindleFreebies+Piracy+Terraform+Ubuntu+Udemy+Upwork+announcements+ansible+antiwork+apple+appletv+aws+compsci+cscareerquestions+dataisbeautiful+devops+diabetes+docker+freelance+hackernews+homelab+india+ipad+iphone+kindle+kubernetes+learnprogramming+linux+linuxadmin+linuxupskillchallenge+mac+macapps+movies+netsec+nextdns+onebag+osx+programming+science+solotravel+sysadmin+technology+television+todayilearned+todoist+travel+udemyfreebies+usefulscripts+worldnews
 
                 Hacker News:
                     https://apps.apple.com/us/app/hack-for-hacker-news-developer/id1464477788
