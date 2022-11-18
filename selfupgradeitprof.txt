@@ -2758,6 +2758,7 @@ Contents:
                 https://github.com/ikatyang/emoji-cheat-sheet
                 https://github.com/kautukkundan/Awesome-Profile-README-templates
                 https://github.com/rahuldkjain/github-profile-readme-generator (🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.)
+                https://github.com/scastiel/github-business-card (GitHub Business Card)
                 https://github.com/topics/github-profile-readme?o=desc&s=stars
                 https://github.com/topics/github-readme?o=desc&s=stars
                 https://linktr.ee (304)
@@ -2862,6 +2863,7 @@ Contents:
                 https://www.indeed.com/career/development-operations-engineer/salaries
                 https://www.payscale.com/research/US/Job=Development_Operations_(DevOps)_Engineer/Salary
 
+
             Sites:
                 https://careernavigator.naukri.com
                 https://stackoverflow.com/jobs/salary
@@ -2870,6 +2872,7 @@ Contents:
                 https://www.glassdoor.co.in/Salaries/india-salary-SRCH_IL.0,5_IN115.htm
                 https://www.levels.fyi
                 https://www.payscale.com/research/IN/Country=India/Salary
+                https://www.teamblind.com
 
         Freelancing:
             Sources:
@@ -3833,7 +3836,7 @@ Contents:
                         https://www.findareddit.com (Find Subreddits for your Niche)
 
                     Subscriptions:
-                        https://www.reddit.com/r/1Password+AWSCertifications+Alfred+AppHookup+AppleWatch+CryptoCurrency+DataHoarder+Documentaries+EDC+ExperiencedDevs+FreeEBOOKS+ITCareerQuestions+IndiaInvestments+KindleFreebies+Piracy+Terraform+Ubuntu+Udemy+Upwork+announcements+ansible+antiwork+apple+appletv+aws+compsci+cscareerquestions+dataisbeautiful+devops+diabetes+docker+freelance+hackernews+homelab+india+ipad+iphone+kindle+kubernetes+learnprogramming+linux+linuxadmin+linuxupskillchallenge+mac+macapps+movies+netsec+nextdns+onebag+osx+programming+science+solotravel+sysadmin+technology+television+todayilearned+todoist+travel+udemyfreebies+usefulscripts+worldnews
+                        https://www.reddit.com/r/1Password+AWSCertifications+Alfred+AppHookup+AppleWatch+DataHoarder+Documentaries+ExperiencedDevs+FreeEBOOKS+ITCareerQuestions+IndiaInvestments+KindleFreebies+Piracy+Terraform+Ubuntu+Upwork+announcements+ansible+antiwork+apple+appletv+aws+compsci+cscareerquestions+dataisbeautiful+devops+diabetes+docker+freelance+hackernews+homelab+india+ipad+iphone+kindle+kubernetes+learnprogramming+linux+linuxadmin+mac+macapps+movies+netsec+nextdns+onebag+osx+programming+science+solotravel+sysadmin+technology+television+todayilearned+todoist+travel+usefulscripts+worldnews
 
                 Hacker News:
                     https://apps.apple.com/us/app/hack-for-hacker-news-developer/id1464477788
