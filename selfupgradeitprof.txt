@@ -832,7 +832,7 @@ Contents:
                 https://github.com/dylanaraps/pure-bash-bible
                 https://github.com/gleitz/howdoi (instant coding answers via the command line)
                 https://github.com/ibraheemdev/modern-unix (A collection of modern/faster/saner alternatives or complements to common unix commands.)
-                https://github.com/jlevy/the-art-of-command-line
+                https://github.com/jlevy/the-art-of-command-line (Master the command line, in one page)
                 https://github.com/junegunn/fzf (A command-line fuzzy finder)
                 https://github.com/kaplanelad/shellfirm (Intercept any risky patterns (default or defined by you) and prompt you a small challenge for double verification)
                 https://github.com/koalaman/shellcheck (a static analysis tool for shell scripts)
@@ -2060,6 +2060,7 @@ Contents:
                 https://github.com/iCHAIT/awesome-macOS ( A curated list of awesome applications, softwares, tools and shiny things for macOS.)
                 https://github.com/jaywcjlove/awesome-mac (awesome macOS software in various categories)
                 https://github.com/mathiasbynens/dotfiles (🔧 .files, including ~/.macos — sensible hacker defaults for macOS)
+                https://github.com/mRs-/Black-Friday-Deals (Black Friday Deals for macOS / iOS Software & Books)
                 https://github.com/nikitavoloboev/my-mac-os (List of applications and tools that make my macOS experience even more amazing)
                 https://github.com/sb2nov/mac-setup (Installing Development environment on macOS)
                 https://github.com/serhii-londar/open-source-mac-os-apps (🚀 Awesome list of open source applications for macOS.)
@@ -2251,6 +2252,7 @@ Contents:
                 https://www.pluralsight.com (2,346)
                 https://learning.oreilly.com (2,532)
                 https://www.datacamp.com (3,135)
+                https://nptel.ac.in (10,505)
                 https://teamtreehouse.com (17,568)
                 https://acloud.guru (19,202)
                 https://www.infosecinstitute.com/skills (22,461)
@@ -2577,6 +2579,7 @@ Contents:
                     https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml
                     https://marketplace.visualstudio.com/items?itemName=timonwong.shellcheck
                     https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons
+                    https://marketplace.visualstudio.com/items?itemName=vscode-snippet.Snippet (Insert a snippet from cht.sh for Python, JavaScript, Ruby, C#, Go, Rust (and any other language))
                     https://marketplace.visualstudio.com/items?itemName=xyz.local-history (Plugin for maintaining local history of files)
                     https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one
 
@@ -2586,6 +2589,7 @@ Contents:
                     https://plugins.jetbrains.com/plugin/10485-kubernetes
                     https://plugins.jetbrains.com/plugin/11058-extra-icons
                     https://plugins.jetbrains.com/plugin/11349-aws-toolkit
+                    https://plugins.jetbrains.com/plugin/11942-cheat-sh-code-snippets (Plugin for loading code snippets from cheat.sh directly to editor without need to switch your mental context)
                     https://plugins.jetbrains.com/plugin/12062-vscode-keymap
                     https://plugins.jetbrains.com/plugin/12275-dracula-theme
                     https://plugins.jetbrains.com/plugin/13308-indent-rainbow
@@ -2885,6 +2889,8 @@ Contents:
                 https://news.ycombinator.com/item?id=26995874 (Ask HN: How did you transition from FTE to self-employed/sole proprietor?)
                 https://news.ycombinator.com/item?id=32606348 (Ask HN: Contractors, what is your hourly rate?)
                 https://news.ycombinator.com/item?id=32701641 (	Ask HN: Generalist contractors, what is your hourly rate?)
+                https://www.reddit.com/r/Accounting+Entrepreneur+business+finance+marketing+motivation+smallbusiness+socialmedia+startups
+                https://www.reddit.com/r/beermoney (a community for people to discuss mostly online money-making opportunities. You shouldn't expect to make a living, but it is possible to make extra cash on the side for your habits/needs)
                 https://www.reddit.com/r/Upwork+forhire+freelance
                 https://www.upwork.com/press/2020/09/01/upwork-releases-top-paying-programming-languages-for-independent-web-mobile-and-software-developers
                 https://www.upwork.com/press/releases/upwork-releases-top-15-most-in-demand-skills-for-independent-web-mobile-and-software-developers
@@ -2902,6 +2908,7 @@ Contents:
                 https://www.codementor.io (7,014)
                 https://www.guru.com/d/jobs (7,377)
                 https://www.truelancer.com (8,671)
+                https://www.mturk.com/worker (10,102)
                 https://turing.com (23,229)
                 https://www.freelancermap.com/it-projects.html (94,605)
                 https://upstack.co (262,042)
@@ -3836,7 +3843,7 @@ Contents:
                         https://www.findareddit.com (Find Subreddits for your Niche)
 
                     Subscriptions:
-                        https://www.reddit.com/r/1Password+AWSCertifications+Alfred+AppHookup+AppleWatch+DataHoarder+Documentaries+ExperiencedDevs+FreeEBOOKS+ITCareerQuestions+IndiaInvestments+KindleFreebies+Piracy+Terraform+Ubuntu+Upwork+announcements+ansible+antiwork+apple+appletv+aws+compsci+cscareerquestions+dataisbeautiful+devops+diabetes+docker+freelance+hackernews+homelab+india+ipad+iphone+kindle+kubernetes+learnprogramming+linux+linuxadmin+mac+macapps+movies+netsec+nextdns+onebag+osx+programming+science+solotravel+sysadmin+technology+television+todayilearned+todoist+travel+usefulscripts+worldnews
+                        https://www.reddit.com/r/1Password+AWSCertifications+Alfred+AppHookup+AppleWatch+DataHoarder+Documentaries+ExperiencedDevs+Flights+FreeEBOOKS+ITCareerQuestions+IndiaInvestments+KindleFreebies+Piracy+Terraform+Ubuntu+Upwork+announcements+ansible+antiwork+apple+appletv+aws+compsci+cscareerquestions+dataisbeautiful+devops+diabetes+docker+freelance+hackernews+homelab+india+ipad+iphone+kindle+kubernetes+learnprogramming+linux+linuxadmin+mac+macapps+movies+netsec+nextdns+onebag+osx+programming+science+solotravel+sysadmin+technology+television+todayilearned+todoist+travel+usefulscripts+worldnews
 
                 Hacker News:
                     https://apps.apple.com/us/app/hack-for-hacker-news-developer/id1464477788
@@ -4345,6 +4352,7 @@ Contents:
         https://github.com/TheLocehiliosan/yadm (Yet Another Dotfiles Manager)
         https://github.com/topics/awesome
         https://github.com/topics/dotfiles?o=desc&s=stars
+        https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday (Awesome deals on Black Friday: Apps, SaaS, Books, Courses, etc.)
         https://github.com/widevinedump (Tools to Download Netflix / Disney / Apple TV Content)
         https://hackerspaces.org (Hackerspaces are community-operated physical places, where people share their interest in tinkering with technology, meet and work on their projects, and learn from each other)
         https://learn-anything.xyz
