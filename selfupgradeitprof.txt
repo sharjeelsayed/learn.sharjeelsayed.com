@@ -248,16 +248,20 @@ Contents:
                 https://devdocs.io
                 https://devurls.com
                 https://docs.google.com/spreadsheets/d/1gIRjeB1Y_AMvtmJsZWl_dNMDJ7lPSIxiVUYyEvrP5P4/htmlview?usp=sharing&sle=true (Popular Programming Podcast episodes)
+                https://exercism.org (Develop fluency in 61 programming languages with our unique blend of learning, practice and mentoring.)
                 https://github.com/aceking007/100ProjectsOfCode
                 https://github.com/AlgoryL/Projects-from-Scratch
                 https://github.com/bnb/awesome-developer-streams
                 https://github.com/braydie/HowToBeAProgrammer
+                https://github.com/charlax/engineering-management (A collection of inspiring resources related to engineering management and tech leadership)
+                https://github.com/charlax/professional-programming (A collection of learning resources for curious software engineers)
                 https://github.com/codecrafters-io/build-your-own-x (🤓 Build your own (insert technology here) )
                 https://github.com/danistefanovic/build-your-own-x
                 https://github.com/EbookFoundation/free-programming-books
                 https://github.com/facundoolano/software-papers (📚 A curated list of papers for Software Engineers)
                 https://github.com/hackclub/some-assembly-required (An approachable introduction to assembly.)
                 https://github.com/kamranahmedse/developer-roadmap (Roadmap to becoming a developer in 2022 )
+                https://github.com/Kuchin/Awesome-Cto (A Curated And Opinionated List Of Resources For Chief Technology Officers, With The Emphasis On Startups)
                 https://github.com/LeCoupa/awesome-cheatsheets
                 https://github.com/mehdihadeli/awesome-software-architecture (A curated list of awesome articles and resources to learn and practice about software architecture, patterns, and principles)
                 https://github.com/Michael0x2a/curated-programming-resources
@@ -265,7 +269,7 @@ Contents:
                 https://github.com/P1xt/p1xt-guides
                 https://github.com/rby90/Project-Based-Tutorials-in-C
                 https://github.com/rShetty/awesome-podcasts
-                https://github.com/sdmg15/Best-websites-a-programmer-should-visit
+                https://github.com/sdmg15/Best-websites-a-programmer-should-visit (🔗 Some useful websites for programmers.)
                 https://github.com/stanzhai/be-a-professional-programmer
                 https://github.com/styfle/awesome-online-ide
                 https://github.com/topics/programming?o=desc&s=stars
@@ -820,6 +824,7 @@ Contents:
         Bash:
             Sources:
                 http://bashrcgenerator.com (Bash PS1 Generator)
+                http://mywiki.wooledge.org/BashPitfalls (This page is a compilation of common mistakes made by bash users. Each example is flawed in some way.)
                 http://redsymbol.net/articles/unofficial-bash-strict-mode
                 https://altbox.dev (A collection of power tools for the Linux/Unix/macOS command line)
                 https://explainshell.com (write down a command-line to see the help text that matches each argument)
@@ -1037,6 +1042,7 @@ Contents:
                 https://github.com/aquasecurity/kube-bench (Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark )
                 https://github.com/armosec/kubescape (kubescape is the first tool for testing if Kubernetes is deployed securely as defined in Kubernetes Hardening Guidance by to NSA and CISA)
                 https://github.com/askmeegs/learn-istio
+                https://github.com/collabnix/kubetools (Kubetools - Curated List of Kubernetes Tools)
                 https://github.com/containerd/nerdctl (contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ... )
                 https://github.com/datreeio/datree (Prevent Kubernetes misconfigurations from reaching production (again 😤 )! Datree is a CLI tool to ensure K8s manifests and Helm charts follow best practices as well as your organization’s policies)
                 https://github.com/dennyzhang/cheatsheet-kubernetes-A4
@@ -1051,6 +1057,7 @@ Contents:
                 https://github.com/komodorio/helm-dashboard (The missing UI for Helm - visualize your releases)
                 https://github.com/ksoclabs/awesome-kubernetes-security (A curated list of awesome Kubernetes security resources)
                 https://github.com/kubernetes/kubernetes
+                https://github.com/kubeshark/kubeshark (The API traffic viewer for Kubernetes providing deep visibility into all API traffic and payloads going in, out and across containers and pods inside a Kubernetes cluster. Think TCPDump and Wireshark re-invented for Kubernetes)
                 https://github.com/LeCoupa/awesome-cheatsheets/blob/master/tools/kubernetes.md
                 https://github.com/madhuakula/kubernetes-goat (Kubernetes Goat is "Vulnerable by Design" Kubernetes Cluster)
                 https://github.com/magnologan/awesome-k8s-security
@@ -1785,26 +1792,34 @@ Contents:
 
         Jenkins:
             Sources:
+                https://github.com/dennyzhang/cheatsheet-jenkins-groovy-A4 (Groovy CheatSheet For Jenkins Usage In A4)
+                https://github.com/kdabir/awesome-groovy (A curated list of awesome groovy libraries, frameworks and resources)
+                https://github.com/topics/groovy?o=desc&s=stars
                 https://github.com/topics/jenkins?o=desc&s=stars
-                https://standard.cbu.cloudbees.com
                 https://www.jenkins.io/doc/book (Jenkins Handbook)
                 https://www.udemy.com/topic/jenkins/?ratings=4.5&sort=popularity (Udemy Courses rated 4.5 stars and above)
 
             Courses:
-                Certified Jenkins Engineer (2020) by Michael McClaren
-                https://acloud.guru/overview/9e73056f-b71d-43c5-b59d-d2053b15290d
+                DevOps Beginners to Advanced | Decoding DevOps with Projects by Imran Teli
+                https://www.udemy.com/course/decodingdevops
 
-                Implementing a Full CI/CD Pipeline by William Boyd
-                https://acloud.guru/overview/93e6884d-ac98-49b6-a9cd-5e357d2dbb41
+                Rocking DevOps with Jenkins, Kubernetes, Ansible by Rajdeep Saha | Cloud Architect @Fortune10 Company
+                https://www.udemy.com/course/rocking-devops-with-jenkins-kubernetes-ansible
+
+                DevOps Project - 2022: CI/CD with Jenkins Ansible Kubernetes by AR Shankar | Valaxy Technologies
+                https://www.youtube.com/playlist?list=PLxzKY3wu0_FJdJd3IKdiM4Om1hGo2Hsdt
+                https://www.udemy.com/course/valaxy-devops
+                https://github.com/ValaxyTech
 
                 Jenkins Tutorial for Beginners by TechWorld with Nana
                 https://www.youtube.com/playlist?list=PLy7NrYWoggjw_LIiDK1LXdNN82uYuuuiC
 
             Additional Courses:
-                DevOps-Projects by Valaxy Technologies by Shankar AR
-                https://www.youtube.com/playlist?list=PLxzKY3wu0_FJdJd3IKdiM4Om1hGo2Hsdt
-                https://www.udemy.com/course/devops-fundamentals-aws
-                https://github.com/ValaxyTech
+                Certified Jenkins Engineer (2020) by Michael McClaren
+                https://acloud.guru/overview/9e73056f-b71d-43c5-b59d-d2053b15290d
+
+                Implementing a Full CI/CD Pipeline by William Boyd
+                https://acloud.guru/overview/93e6884d-ac98-49b6-a9cd-5e357d2dbb41
 
                 Learn DevOps: CI/CD with Jenkins using Pipelines and Docker by Edward Viaene
                 https://www.udemy.com/course/learn-devops-ci-cd-with-jenkins-using-pipelines-and-docker
@@ -1920,6 +1935,7 @@ Contents:
                 https://github.com/aquasecurity/cloudsploit (CloudSploit by Aqua is an open-source project designed to allow detection of security risks in cloud infrastructure accounts, including: Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform (GCP), Oracle Cloud Infrastructure (OCI), and GitHub.)
                 https://github.com/armosec/kubescape (kubescape is the first tool for testing if Kubernetes is deployed securely as defined in Kubernetes Hardening Guidance by to NSA and CISA)
                 https://github.com/Arudjreis/awesome-security-GRC (Curated list of resources for security Governance, Risk Management, Compliance and Audit professionals and enthusiasts (if they exist).)
+                https://github.com/bettercap/bettercap (The Swiss Army knife for 802.11, BLE, IPv4 and IPv6 networks reconnaissance and MITM attacks.)
                 https://github.com/chughes29/Cloud-DevSecOps-Learning/blob/main/Cloud%20%26%20DevSecOps%20Learning%20(1).md (Cloud-DevSecOps-Learning)
                 https://github.com/dafthack/CloudPentestCheatsheets
                 https://github.com/danielmiessler/SecLists (It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.)
@@ -2776,7 +2792,7 @@ Contents:
                 http://layoffs.fyi (Tracking all tech startup layoffs since COVID-19)
                 https://docs.google.com/spreadsheets/d/1TLJSlNxCbwRNxy14Toe1PYwbCTY7h0CNHeer9J0VRzE/htmlview#gid=1279011369 (900+ Startups hiring Remotely in 2020 - by Remotive.io)
                 https://en.wikipedia.org/wiki/List_of_Arab_League_countries_by_GDP_(PPP) (List of Arab League countries by GDP (PPP))
-                https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita (List of countries by GDP (PPP) per capita)
+                https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita#Table (List of countries by GDP (PPP) per capita)
                 https://github.com/Kaustubh-Natuskar/companies-to-apply (This repository contains opportunities for you to apply to more than 150 product base companies(NOT JUST FAANG ) & good start-ups.)
                 https://github.com/lukasz-madon/awesome-remote-job
                 https://github.com/poteto/hiring-without-whiteboards
@@ -2889,6 +2905,7 @@ Contents:
                 https://news.ycombinator.com/item?id=26995874 (Ask HN: How did you transition from FTE to self-employed/sole proprietor?)
                 https://news.ycombinator.com/item?id=32606348 (Ask HN: Contractors, what is your hourly rate?)
                 https://news.ycombinator.com/item?id=32701641 (	Ask HN: Generalist contractors, what is your hourly rate?)
+                https://news.ycombinator.com/item?id=32837800 (Ask HN: Where are the good platforms for contract work?)
                 https://www.reddit.com/r/Accounting+Entrepreneur+business+finance+marketing+motivation+smallbusiness+socialmedia+startups
                 https://www.reddit.com/r/beermoney (a community for people to discuss mostly online money-making opportunities. You shouldn't expect to make a living, but it is possible to make extra cash on the side for your habits/needs)
                 https://www.reddit.com/r/Upwork+forhire+freelance
@@ -2911,6 +2928,7 @@ Contents:
                 https://www.mturk.com/worker (10,102)
                 https://turing.com (23,229)
                 https://www.freelancermap.com/it-projects.html (94,605)
+                https://www.a.team (180,282)
                 https://upstack.co (262,042)
                 https://gigster.com (279,501)
                 https://calladev.com (2,729,529)
@@ -2925,6 +2943,7 @@ Contents:
                 https://en.wikipedia.org/wiki/Nonviolent_Communication
                 https://en.wikipedia.org/wiki/The_Innovator%27s_Dilemma (he Innovator's Dilemma: When New Technologies Cause Great Firms to Fail)
                 https://github.com/AkashRajpurohit/howtoprofessionallysay (A simple static website for common phrases we might want to say to your colleagues but want to make it sound more professional.)
+                https://github.com/charlax/engineering-management (A collection of inspiring resources related to engineering management and tech leadership)
                 https://github.com/Dakshshah96/Awesome-Startup-Credits (A Collection Of Awesome Companies Offering Free/Discounted Plans For Eligible Startups)
                 https://github.com/Dwmkerr/Hacker-Laws (Laws, Theories, Principles And Patterns That Developers Will Find Useful. #Hackerlaws )
                 https://github.com/jorgef/engineeringladders (A framework for Engineering Managers)
@@ -3273,6 +3292,7 @@ Contents:
                 https://news.ycombinator.com/item?id=27636743 (Ask HN: Which book or course gave you an unfair advantage?)
                 https://news.ycombinator.com/item?id=29462663 (	Ask HN: What are some must read books?)
                 https://news.ycombinator.com/item?id=30241190 (Ask HN: What is one book you would recommend everyone to read?)
+                https://news.ycombinator.com/item?id=33797862 (Ask HN: Which books have made you a better thinker and problem solver?)
                 https://opentrackers.org/downloading-ebooks-textbooks
                 https://ramiro.org/vis/hn-most-linked-books
                 https://redditfavorites.com/books
@@ -3304,8 +3324,8 @@ Contents:
                 https://libgen.lc or https://libgen.is (https://en.wikipedia.org/wiki/Library_Genesis) (4,910)
                 https://www.gutenberg.org (6,947)
                 https://z-lib.org (7,892)
+                https://audiobookbay.fi (8,650)
                 https://www.bookbub.com (8,749)
-                http://audiobookbay.nl (9,312)
                 https://btdig.com (31,311)
                 https://forum.mobilism.org (35,907)
                 https://librivox.org (46,088)
@@ -3902,6 +3922,7 @@ Contents:
                 https://finshots.in (41,149)
                 https://kubeweekly.io (44,540)
                 https://stratechery.com (49,773)
+                https://blog.bytebytego.com (70,838)
                 https://lwn.net (73,553)
                 https://danielmiessler.com/newsletter (96,519)
                 https://www.ben-evans.com/newsletter (107,535)
@@ -4329,6 +4350,7 @@ Contents:
             https://www.youtube.com/premium
 
     Additional Sources :
+        http://techmeme.com/events.ics (Techmeme Calendar)
         http://unixstickers.com (Unixstickers powered by Sticker Mule)
         https://awesome.digitalbunker.dev (Click to explore one of the awesome lists below)
         https://cheatography.com (Over 5,000 Free Cheat Sheets, Revision Aids and Quick References!)
@@ -4385,7 +4407,6 @@ Contents:
         https://wizardzines.com/comics
         https://www.justwatch.com/in?genres=doc
         https://www.nala.ie/resources/better-handwriting-adults
-        https://www.nytimes.com/interactive/2021/science/astronomy-space-calendar.html (Sync your calendar with the solar system)
         https://www.nytimes.com/interactive/2022/science/astronomy-space-calendar.html (New York Times’s space and astronomy calendar)
         https://www.producthunt.com
         https://www.reddit.com/r/AskReddit/comments/4q91g9/what_free_things_online_should_everyone_take/d4r8foy
