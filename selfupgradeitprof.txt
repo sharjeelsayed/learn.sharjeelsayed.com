@@ -1037,6 +1037,7 @@ Contents:
                 https://cloud.redhat.com/blog/top-open-source-kubernetes-security-tools-of-2021 (Top Open Source Kubernetes Security Tools of 2021)
                 https://devopsunlocked.com/kubernetes-learning-material
                 https://github.com/abiosoft/colima (Container runtimes on macOS (and Linux) with minimal setup)
+                https://github.com/ahmetb/kubectx (Faster way to switch between clusters and namespaces in kubectl)
                 https://github.com/ahmetb/kubernetes-network-policy-recipes
                 https://github.com/alexellis/k3sup (bootstrap Kubernetes with k3s over SSH < 1 min 🚀)
                 https://github.com/aquasecurity/kube-bench (Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark )
@@ -1183,7 +1184,7 @@ Contents:
 
             CKA/CKAD/CKS
                 https://github.com/cncf/curriculum
-                https://github.com/dgkanatsios/CKAD-exercises
+                https://github.com/dgkanatsios/CKAD-exercises (A set of exercises to prepare for Certified Kubernetes Application Developer exam by Cloud Native Computing Foundation )
                 https://github.com/jayendrapatil/kubernetes-exercises (Collection covers kubernetes exercises categorized topics-wise and referred back to the individual Kubernetes certification exams.)
                 https://github.com/kmjayadeep/cka-learning (My notes and preparation materials for Certified Kubernetes Administrator Exam)
                 https://github.com/lucassha/CKAD-resources
@@ -1920,6 +1921,7 @@ Contents:
             Sources:
                 http://www.fastrls.com/2017/10/30/offensive-security-training-videos
                 https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html-single/using_selinux
+                https://allinfosecnews.com (Aggregates all of the top news, podcasts and more about Cyber Security, InfoSec, Cryptography, Online Privacy, Hacking, Vulnerability and Threat Research into one place.)
                 https://aws.amazon.com/training/digital/aws-security-fundamentals (AWS Security Fundamentals (Second Edition))
                 https://cheatsheetseries.owasp.org (The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.)
                 https://cipher387.github.io/osint_stuff_tool_collection (OSINT Tool Collection)
@@ -3204,6 +3206,7 @@ Contents:
                 https://addons.mozilla.org/en-GB/firefox/addon/foxytab
                 https://addons.mozilla.org/en-US/firefox/addon/auto-tab-discard
                 https://addons.mozilla.org/en-US/firefox/addon/bypass-paywalls-clean
+                https://addons.mozilla.org/en-US/firefox/addon/firefox-translations
                 https://addons.mozilla.org/en-US/firefox/addon/honey
                 https://addons.mozilla.org/en-US/firefox/addon/minimalist-alexa-rank
                 https://addons.mozilla.org/en-US/firefox/addon/to-google-translate (To Google Translate)
@@ -3216,6 +3219,7 @@ Contents:
                 https://github.com/fuyu/alexa-rank-webextension
                 https://github.com/gorhill/uBlock
                 https://github.com/itsecurityco/to-google-translate
+                https://github.com/josh-berry/tab-stash (Firefox extension to save and restore tabs as bookmarks)
                 https://github.com/mbnuqw/sidebery
                 https://github.com/mozilla/contain-facebook
                 https://github.com/mozilla/multi-account-containers
@@ -3235,7 +3239,6 @@ Contents:
                 https://www.forbesconrad.com/blog/enable-password-pasting (Enable Password Pasting in Firefox)
                 https://www.joinhoney.com
                 https://www.mrfdev.com/enhancer-for-youtube
-                https://github.com/josh-berry/tab-stash (Firefox extension to save and restore tabs as bookmarks)
 
         Books:
             Sources:
@@ -3846,6 +3849,7 @@ Contents:
                     https://news.google.com/topics/CAAqBwgKMOXWjQswrYGgAw?hl=en-IN&gl=IN&ceid=IN:en (Maharashtra)
 
                 News Aggregators:
+                    https://allinfosecnews.com (Aggregates all of the top news, podcasts and more about Cyber Security, InfoSec, Cryptography, Online Privacy, Hacking, Vulnerability and Threat Research into one place.)
                     https://en.wikipedia.org/wiki/Portal:Current_events
                     https://lobste.rs
                     https://pinboard.in/popular
@@ -3863,7 +3867,7 @@ Contents:
                         https://www.findareddit.com (Find Subreddits for your Niche)
 
                     Subscriptions:
-                        https://www.reddit.com/r/1Password+AWSCertifications+Alfred+AppHookup+AppleWatch+DataHoarder+Documentaries+ExperiencedDevs+Flights+FreeEBOOKS+ITCareerQuestions+IndiaInvestments+KindleFreebies+Piracy+Terraform+Ubuntu+Upwork+announcements+ansible+antiwork+apple+appletv+aws+compsci+cscareerquestions+dataisbeautiful+devops+diabetes+docker+freelance+hackernews+homelab+india+ipad+iphone+kindle+kubernetes+learnprogramming+linux+linuxadmin+mac+macapps+movies+netsec+nextdns+onebag+osx+programming+science+solotravel+sysadmin+technology+television+todayilearned+todoist+travel+usefulscripts+worldnews
+                        https://www.reddit.com/r/1Password+AWSCertifications+Alfred+AppHookup+AppleWatch+DataHoarder+Documentaries+ExperiencedDevs+Flights+FreeEBOOKS+ITCareerQuestions+IndiaInvestments+KindleFreebies+Piracy+Terraform+Ubuntu+Upwork+announcements+ansible+antiwork+apple+appletv+aws+compsci+cscareerquestions+dataisbeautiful+devops+diabetes+docker+freelance+hackernews+india+ipad+iphone+kindle+kubernetes+learnprogramming+linux+linuxadmin+mac+macapps+movies+netsec+nextdns+onebag+osx+programming+science+solotravel+sysadmin+technology+television+todayilearned+todoist+travel+usefulscripts+worldnews
 
                 Hacker News:
                     https://apps.apple.com/us/app/hack-for-hacker-news-developer/id1464477788
@@ -4248,6 +4252,7 @@ Contents:
                 https://docs.google.com/spreadsheets/d/18diE8YJ-1XTLLFuu-tOGsvf3BpiEg7cLZa8rjToCQn4 (Copy of Onebag (publicly editable version))
                 https://docs.google.com/spreadsheets/d/1fiwY3_R5_GpL5QZXMp-DY2t225OjUKEQ80lT27NVKUU ("One Bag" Travel Backpack Comparison)
                 https://docs.google.com/spreadsheets/d/1fSt_sO1s7moXPHbxBCD3JIKPa8QIZxtKWYUjD6ElZ-c (Onebag Options Spreadsheet)
+                https://jeremymaluf.com/onebag (Indefinite backpack travel)
                 https://news.ycombinator.com/item?id=13369197 (Ask HN: Do you carry a backpack? Which one?)
                 https://news.ycombinator.com/item?id=19521136 (Ask HN: What backpack are you using?)
                 https://onebag.travel
@@ -4418,7 +4423,7 @@ Contents:
         https://www.reddit.com/r/EDC/comments/ur36lf/i_analyzed_the_top_50_most_mentioned_products_on (I analyzed the top 50 most mentioned products on r/EDC)
         https://www.reddit.com/r/india/wiki/useful_posts
 
-    Support this page with these referral links:
+    Support this project with these referral links:
         http://share.payoneer.com/nav/fNDwSrQzVfdG8-xoVyx0Bw_ZDmVq9EROCSP2BPIK6ZXFGNfkLTA-k6YqnGHb8YozBtA2obVkitQbtq50VTZ5Bg2 ($25 on Sign Up)
         http://thefrenchieco.refr.cc/sharjeels (10% off)
         https://m.do.co/c/d3160b5e33e8 (DigitalOcean Credits)
