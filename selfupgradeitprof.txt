@@ -73,7 +73,7 @@ Contents:
         Node.js
         Regex
         iOS/Android
-        Machine Learning
+        AI and Machine Learning
         IDE
     Career:
         Interview Guides
@@ -611,6 +611,7 @@ Contents:
                 https://news.ycombinator.com/item?id=16920476 (Ask HN: Where did you learn modular electronics?)
                 https://news.ycombinator.com/item?id=20126760 (Open Source Electronics Lab for $30 (github.com))
                 https://news.ycombinator.com/item?id=23562181 (Ask HN: What are some good resources to learn how electricity works?)
+                https://news.ycombinator.com/item?id=33869277 (Ask HN: Can you recommend a book to learn basic electrical concepts/engineering?)
                 https://www.reddit.com/r/AskElectronics/wiki
 
             Books and Courses:
@@ -1568,6 +1569,7 @@ Contents:
                 https://github.com/im2nguyen/rover (Interactive Terraform visualization. State and configuration explorer.)
                 https://github.com/infracost/infracost (Cloud cost estimates for Terraform in pull requests💰📉 Love your cloud bill!)
                 https://github.com/infracost/vscode-infracost ( See cost estimates for Terraform right in your editor💰📉 www.infracost.io )
+                https://github.com/JamesWoolfenden/pike (Pike is a tool for determining the permissions or policy required for IAC code)
                 https://github.com/nsriram/lambda-the-terraform-way
                 https://github.com/shuaibiyy/awesome-terraform
                 https://github.com/tfutils/tfenv (Terraform version manager)
@@ -2223,6 +2225,7 @@ Contents:
                 https://github.com/sindresorhus/awesome
                 https://github.com/yt-dlp/yt-dlp (A youtube-dl fork with additional features and fixes)
                 https://hackr.io
+                https://hourups.com (171 hand-picked crash courses from the best instructors on YouTube)
                 https://lbry.com/news/20000-illegal-college-lectures-rescued
                 https://learning.oreilly.com
                 https://lifehacker.com/tag/lifehacker-u
@@ -2540,9 +2543,10 @@ Contents:
                 https://github.com/skydoves/android-developer-roadmap (🗺 Android Developer Roadmap 2022 suggests learning paths to understanding Android development.)
                 https://www.raywenderlich.com
 
-        Machine Learning:
+        AI and Machine Learning:
             Sources:
                 https://blog.floydhub.com/best-deep-learning-courses-updated-for-2019
+                https://github.com/humanloop/awesome-chatgpt (Curated list of awesome tools, demos, docs for ChatGPT and GPT-3 )
                 https://news.ycombinator.com/item?id=12713056 (Ask HN: How to get started with machine learning?)
                 https://news.ycombinator.com/item?id=16493489 (Machine Learning Crash Course)
                 https://news.ycombinator.com/item?id=18321665 (Foundations of ML and AI: Book recommendations (dragan.rocks))
@@ -2797,7 +2801,7 @@ Contents:
                 https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita#Table (List of countries by GDP (PPP) per capita)
                 https://github.com/Kaustubh-Natuskar/companies-to-apply (This repository contains opportunities for you to apply to more than 150 product base companies(NOT JUST FAANG ) & good start-ups.)
                 https://github.com/lukasz-madon/awesome-remote-job
-                https://github.com/poteto/hiring-without-whiteboards
+                https://github.com/poteto/hiring-without-whiteboards (⭐️ Companies that don't have a broken hiring process)
                 https://github.com/randallkanna/awesome-job-list
                 https://hn.algolia.com/?dateRange=pastYear&page=0&prefix=false&query=Ask%20HN%3A%20Who%20is%20hiring%3F&sort=byPopularity&type=story (Ask HN: Who is hiring?)
                 https://news.ycombinator.com/item?id=14686745 (Ask HN: What are some of the best job boards you have seen (any industry)?)
@@ -3044,6 +3048,9 @@ Contents:
 
                 The 48 Laws of Power by Robert Greene
                 https://www.amazon.com/48-Laws-Power-Robert-Greene/dp/0140280197
+
+                The First 90 Days: Proven Strategies for Getting Up to Speed Faster and Smarter, Updated and Expanded May 14, 2013 by Michael D. Watkins
+                https://www.amazon.com/First-90-Days-Strategies-Expanded/dp/1422188612
 
         Money:
             Sources:
@@ -4258,6 +4265,7 @@ Contents:
                 https://onebag.travel
                 https://packhacker.com/guide/best-laptop-bag (Best Laptop Bag)
                 https://www.carryology.com/buyers-guide
+                https://www.looria.com/reddit/onebag/products (Most discussed products on r/onebag)
                 https://www.reddit.com/r/onebag/comments/ubr007/i_analyzed_the_most_discussed_brands_on_ronebag (I analyzed the most discussed brands on r/onebag)
                 https://www.reddit.com/r/onebag/comments/ut800x/i_analyzed_the_top_50_most_popular_backpacks_on (I analyzed the top 50 most popular backpacks on r/onebag)
                 https://youtu.be/pSO9pSTK28Q (The Ultimate Laptop Bag Guide | How To Choose The Best Laptop Bag For You)
