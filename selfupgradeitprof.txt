@@ -796,6 +796,7 @@ Contents:
                 https://github.com/MichielDerhaeg/build-linux
 
                 The Linux Programming Interface: A Linux and UNIX System Programming Handbook
+                https://man7.org/tlpi
                 https://www.amazon.com/Linux-Programming-Interface-System-Handbook/dp/1593272200
 
                 Unix Power Tools,Third Edition
@@ -1040,6 +1041,7 @@ Contents:
                 https://github.com/abiosoft/colima (Container runtimes on macOS (and Linux) with minimal setup)
                 https://github.com/ahmetb/kubectx (Faster way to switch between clusters and namespaces in kubectl)
                 https://github.com/ahmetb/kubernetes-network-policy-recipes
+                https://github.com/ahmetb/kubernetes-network-policy-recipes (Example recipes for Kubernetes Network Policies that you can just copy paste)
                 https://github.com/alexellis/k3sup (bootstrap Kubernetes with k3s over SSH < 1 min 🚀)
                 https://github.com/aquasecurity/kube-bench (Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark )
                 https://github.com/armosec/kubescape (kubescape is the first tool for testing if Kubernetes is deployed securely as defined in Kubernetes Hardening Guidance by to NSA and CISA)
@@ -1051,6 +1053,7 @@ Contents:
                 https://github.com/devtron-labs/devtron (Devtron is an integrated Kubernetes distribution which bundles Argo, Grafana, Helm, Keda, Prometheus and more, saving you the effort of integrating yourself)
                 https://github.com/diegolnasc/kubernetes-best-practices (A cookbook with the best practices for working with kubernetes)
                 https://github.com/eon01/kubernetes-workshop (A Gentle introduction to Kubernetes with more than just the basics.)
+                https://github.com/hidetatz/kubecolor (colorizes kubectl output)
                 https://github.com/jamiehannaford/what-happens-when-k8s (What happens when I type kubectl run?)
                 https://github.com/johanhaleby/kubetail (Bash script to tail Kubernetes logs from multiple pods at the same time)
                 https://github.com/k8s-at-home/awesome-home-kubernetes
@@ -1941,6 +1944,7 @@ Contents:
                 https://github.com/Arudjreis/awesome-security-GRC (Curated list of resources for security Governance, Risk Management, Compliance and Audit professionals and enthusiasts (if they exist).)
                 https://github.com/bettercap/bettercap (The Swiss Army knife for 802.11, BLE, IPv4 and IPv6 networks reconnaissance and MITM attacks.)
                 https://github.com/chughes29/Cloud-DevSecOps-Learning/blob/main/Cloud%20%26%20DevSecOps%20Learning%20(1).md (Cloud-DevSecOps-Learning)
+                https://github.com/cugu/awesome-forensics ( A curated list of awesome forensic analysis tools and resources http://cugu.github.io/awesome-forensics )
                 https://github.com/dafthack/CloudPentestCheatsheets
                 https://github.com/danielmiessler/SecLists (It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.)
                 https://github.com/decalage2/awesome-security-hardening (A collection of awesome security hardening guides, tools and other resources)
@@ -1955,6 +1959,7 @@ Contents:
                 https://github.com/iacsecurity/tool-compare (infrastructure-as-code security tools comparison)
                 https://github.com/Igglybuff/awesome-piracy (A curated list of awesome warez and piracy links)
                 https://github.com/instadoodledavid/Infosec-Deals-2020
+                https://github.com/jassics/security-study-plan (Complete Practical Study Plan to become a successful cybersecurity engineer based on roles like Pentest, AppSec, Cloud Security, DevSecOps and so on...)
                 https://github.com/krol3/container-security-checklist (Checklist for container security - devsecops practices)
                 https://github.com/Lissy93/awesome-privacy (🦄 A curated list of privacy & security-focused software and services)
                 https://github.com/Lissy93/personal-security-checklist (🔒 A curated checklist of 300+ tips for protecting digital security and privacy in 2021)
@@ -1995,6 +2000,7 @@ Contents:
                 https://room362.com/start (Start in Infosec)
                 https://s3ctur.wordpress.com/2017/06/19/breaking-into-infosec-a-beginners-curriculum
                 https://security.stackexchange.com/questions/46666/at-what-length-does-a-password-stop-making-sense
+                https://sgtdede.gitbook.io/hacking/oscp-2022/guide-en (OSCP guide 2022)
                 https://tcm-sec.com/so-you-want-to-be-a-hacker-2021-edition (So You Want to Be a Hacker: 2021 Edition)
                 https://tls13.xargs.org (The Illustrated TLS 1.3 Connection Every byte explained and reproduced)
                 https://toc.cryptobook.us (A Graduate Course in Applied Cryptography)
@@ -2014,7 +2020,6 @@ Contents:
                 https://www.reddit.com/r/netsecstudents/top/?sort=top&t=all
                 https://www.reddit.com/r/netsecstudents/wiki
                 https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets
-                https://xapax.github.io/blog/2017/01/14/OSCP.html
                 https://pinboard.in/u:SharjeelSayed/t:security
 
             Books and Courses:
@@ -2941,7 +2946,6 @@ Contents:
 
         Management:
             Sources:
-                http://Sabok.Org (Guide To The Systems Administration Body Of Knowledge)
                 http://Startupstash.Com
                 http://www.Toomas.Net/2017/07/18/Reverse-Engineering-A-Successful-Lifestyle-Business-Heres-Everything-Ive-Learned-From-Reading-Indiehackers-Com
                 https://Cofounderslab.Com
@@ -3012,6 +3016,7 @@ Contents:
                 https://news.ycombinator.com/item?id=27408120 (Ask HN: Books for Effective Communication)
                 https://news.ycombinator.com/item?id=29336234 (Ask HN: I’d like to hire a personal/executive assistant – any tips or advice?)
                 https://news.ycombinator.com/item?id=30497703 (Ask HN: Books to read when you transform from SWE into SWE Management?)
+                https://rankings.ft.com/rankings/2866/mba-2022 (Business school rankings 2022)
                 https://themanagershandbook.com (The Manager's Handbook by Alex MacCaw from clearbit.com)
                 https://www.amazon.Com/Gp/Bestsellers/Books/2569 (Amazon Best Sellers In Time Management)
                 https://www.indiehackers.Com
