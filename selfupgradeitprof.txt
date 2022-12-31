@@ -314,7 +314,7 @@ Contents:
                 https://octoverse.github.com
                 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/index.htm
                 https://softwareengineeringdaily.com
-                https://survey.stackoverflow.co/2022 (2022 Developer Survey)
+                https://survey.stackoverflow.co/2022 (Stackoverflow 2022 Developer Survey)
                 https://toptalkedbooks.com/stackoverflow/all
                 https://www.daolf.com/posts/best-programming-books
                 https://www.discoverdev.io
@@ -961,7 +961,6 @@ Contents:
             Sources:
                 https://cheatsheetseries.owasp.org/cheatsheets/Docker_Security_Cheat_Sheet.html
                 https://containersfromthecouch.com
-                https://docs.docker.com
                 https://geshan.com.np/blog/2022/05/docker-commands (10 useful Docker commands to get things done with a real-life example)
                 https://github.com/abiosoft/colima (Container runtimes on macOS (and Linux) with minimal setup)
                 https://github.com/docker/docker-bench-security
@@ -994,6 +993,10 @@ Contents:
                 https://pinboard.in/u:SharjeelSayed/t:docker
 
             Books and Courses:
+                Docker Official Documentation
+                https://docs.docker.com/get-started/overview
+                https://docs.docker.com/engine/reference/builder
+
                 Docker for Beginners: Full Course by Mumshad Mannambeth
                 https://youtu.be/zJ6WbK9zFpI
                 https://www.kodekloud.com/p/docker-labs
@@ -1038,6 +1041,7 @@ Contents:
                 https://chrisshort.net/kubernetes-illustrated-childrens-guide
                 https://cloud.redhat.com/blog/top-open-source-kubernetes-security-tools-of-2021 (Top Open Source Kubernetes Security Tools of 2021)
                 https://devopsunlocked.com/kubernetes-learning-material
+                https://docs.aws.amazon.com/prescriptive-guidance/latest/containers-provision-eks-clusters-terraform/welcome.html (Provisioning production-ready Amazon EKS clusters using Terraform)
                 https://github.com/abiosoft/colima (Container runtimes on macOS (and Linux) with minimal setup)
                 https://github.com/ahmetb/kubectx (Faster way to switch between clusters and namespaces in kubectl)
                 https://github.com/ahmetb/kubernetes-network-policy-recipes
@@ -1091,13 +1095,6 @@ Contents:
                 https://kops.sigs.k8s.io
                 https://kube.academy (Learn Kubernetes From Experts For Free. KubeAcademy from VMware)
                 https://kubenews.net (Kubernetes and Cloud Native Computing Foundation News Sources)
-                https://kubernetes.io/docs/concepts
-                https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands (Kubernetes Commands)
-                https://kubernetes.io/docs/reference/kubectl/cheatsheet (kubectl Cheat Sheet)
-                https://kubernetes.io/docs/tasks
-                https://kubernetes.io/docs/tasks/manage-kubernetes-objects/imperative-command
-                https://kubernetes.io/docs/tutorials/kubernetes-basics (Learn Kubernetes Basics)
-                https://kubernetes.io/training
                 https://kubernetesbyexample.com (KBE lessons emphasize an ‘absorb by doing’ approach so you can practices skills as they are explored and explained to learn Kubernetes By Example)
                 https://kubernetesreadme.com (What books 📚 to read to learn more about Kubernetes)
                 https://labs.play-with-k8s.com (Play with Kubernetes is a labs site provided by Docker and created by Tutorius.)
@@ -1136,6 +1133,15 @@ Contents:
                 https://pinboard.in/u:SharjeelSayed/t:kubernetes
 
             Books and Courses:
+                Kubernetes Documentation
+                https://kubernetes.io/docs/concepts
+                https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands (Kubernetes Commands)
+                https://kubernetes.io/docs/reference/kubectl/cheatsheet (kubectl Cheat Sheet)
+                https://kubernetes.io/docs/tasks
+                https://kubernetes.io/docs/tasks/manage-kubernetes-objects/imperative-command
+                https://kubernetes.io/docs/tutorials/kubernetes-basics (Learn Kubernetes Basics)
+                https://kubernetes.io/training
+
                 Kubernetes in Action, Second Edition by Marko Lukša (Releasing on April 25, 2023)
                 https://www.amazon.com/Kubernetes-Action-Second-Marko-Luk%C5%A1a/dp/1617297615
                 https://www.manning.com/books/kubernetes-in-action-second-edition
@@ -1298,6 +1304,7 @@ Contents:
                 https://comparecloud.in (Public Cloud Services Comparison)
                 https://d1.awsstatic.com/whitepapers/building_an_aws_perimeter.pdf (Building an AWS Perimeter)
                 https://dev.to/aws-heroes (This is a collection of articles written by AWS Heroes.)
+                https://docs.aws.amazon.com/prescriptive-guidance/latest/containers-provision-eks-clusters-terraform/welcome.html (Provisioning production-ready Amazon EKS clusters using Terraform)
                 https://expeditedsecurity.com/aws-in-plain-english
                 https://github.com/1debit/alternat (High availability implementation of AWS NAT instances.)
                 https://github.com/4ndersonLin/awesome-cloud-security (Awesome Cloud Security Resources)
@@ -1802,10 +1809,12 @@ Contents:
                 https://github.com/kdabir/awesome-groovy (A curated list of awesome groovy libraries, frameworks and resources)
                 https://github.com/topics/groovy?o=desc&s=stars
                 https://github.com/topics/jenkins?o=desc&s=stars
-                https://www.jenkins.io/doc/book (Jenkins Handbook)
                 https://www.udemy.com/topic/jenkins/?ratings=4.5&sort=popularity (Udemy Courses rated 4.5 stars and above)
 
             Courses:
+                Jenkins Handbook
+                https://www.jenkins.io/doc/book
+
                 DevOps Beginners to Advanced | Decoding DevOps with Projects by Imran Teli
                 https://www.udemy.com/course/decodingdevops
 
@@ -2956,6 +2965,7 @@ Contents:
                 https://github.com/charlax/engineering-management (A collection of inspiring resources related to engineering management and tech leadership)
                 https://github.com/Dakshshah96/Awesome-Startup-Credits (A Collection Of Awesome Companies Offering Free/Discounted Plans For Eligible Startups)
                 https://github.com/Dwmkerr/Hacker-Laws (Laws, Theories, Principles And Patterns That Developers Will Find Useful. #Hackerlaws )
+                https://github.com/gabiduarte/awesome-techleads (A selected list of content on technical leadership, with preference in content in Portuguese)
                 https://github.com/jorgef/engineeringladders (A framework for Engineering Managers)
                 https://github.com/Kuchin/Awesome-Cto (A Curated And Opinionated List Of Resources For Chief Technology Officers, With The Emphasis On Startups)
                 https://github.com/pdfernhout/High-Performance-Organizations-Reading-List (Ideas for creating and sustaining high performance organizations)
@@ -3341,12 +3351,14 @@ Contents:
                 https://z-lib.org (7,892)
                 https://audiobookbay.fi (8,650)
                 https://www.bookbub.com (8,749)
+                https://annas-archive.org (12,363)
                 https://btdig.com (31,311)
                 https://forum.mobilism.org (35,907)
                 https://librivox.org (46,088)
                 https://books.goalkicker.com (84,815)
                 https://www.ereaderiq.com (121,075)
                 http://freebookspot.es (159,088)
+                https://zlib.zu1k.com (296,107) (Alternate: https://zlib.freedit.eu https://github.com/zlib-searcher/zlib-searcher)
                 https://standardebooks.org/ebooks (683,375)
                 http://breue.com/free_programming_books (1,030,459)
                 https://forcoder.su (1,156,891)
