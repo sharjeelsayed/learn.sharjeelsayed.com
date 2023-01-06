@@ -1042,6 +1042,7 @@ Contents:
                 https://cloud.redhat.com/blog/top-open-source-kubernetes-security-tools-of-2021 (Top Open Source Kubernetes Security Tools of 2021)
                 https://devopsunlocked.com/kubernetes-learning-material
                 https://docs.aws.amazon.com/prescriptive-guidance/latest/containers-provision-eks-clusters-terraform/welcome.html (Provisioning production-ready Amazon EKS clusters using Terraform)
+                https://eksctl.io (eksctl - The official CLI for Amazon EKS)
                 https://github.com/abiosoft/colima (Container runtimes on macOS (and Linux) with minimal setup)
                 https://github.com/ahmetb/kubectx (Faster way to switch between clusters and namespaces in kubectl)
                 https://github.com/ahmetb/kubernetes-network-policy-recipes
@@ -1050,6 +1051,7 @@ Contents:
                 https://github.com/aquasecurity/kube-bench (Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark )
                 https://github.com/armosec/kubescape (kubescape is the first tool for testing if Kubernetes is deployed securely as defined in Kubernetes Hardening Guidance by to NSA and CISA)
                 https://github.com/askmeegs/learn-istio
+                https://github.com/aws-samples/hardeneks (Runs checks to see if an EKS cluster follows EKS Best Practices.)
                 https://github.com/collabnix/kubetools (Kubetools - Curated List of Kubernetes Tools)
                 https://github.com/containerd/nerdctl (contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ... )
                 https://github.com/datreeio/datree (Prevent Kubernetes misconfigurations from reaching production (again 😤 )! Datree is a CLI tool to ensure K8s manifests and Helm charts follow best practices as well as your organization’s policies)
@@ -1058,6 +1060,7 @@ Contents:
                 https://github.com/diegolnasc/kubernetes-best-practices (A cookbook with the best practices for working with kubernetes)
                 https://github.com/eon01/kubernetes-workshop (A Gentle introduction to Kubernetes with more than just the basics.)
                 https://github.com/hidetatz/kubecolor (colorizes kubectl output)
+                https://github.com/ishantanu/awesome-kubectl-plugins (Curated list of kubectl plugins)
                 https://github.com/jamiehannaford/what-happens-when-k8s (What happens when I type kubectl run?)
                 https://github.com/johanhaleby/kubetail (Bash script to tail Kubernetes logs from multiple pods at the same time)
                 https://github.com/k8s-at-home/awesome-home-kubernetes
@@ -1305,11 +1308,13 @@ Contents:
                 https://d1.awsstatic.com/whitepapers/building_an_aws_perimeter.pdf (Building an AWS Perimeter)
                 https://dev.to/aws-heroes (This is a collection of articles written by AWS Heroes.)
                 https://docs.aws.amazon.com/prescriptive-guidance/latest/containers-provision-eks-clusters-terraform/welcome.html (Provisioning production-ready Amazon EKS clusters using Terraform)
+                https://eksctl.io (eksctl - The official CLI for Amazon EKS)
                 https://expeditedsecurity.com/aws-in-plain-english
                 https://github.com/1debit/alternat (High availability implementation of AWS NAT instances.)
                 https://github.com/4ndersonLin/awesome-cloud-security (Awesome Cloud Security Resources)
                 https://github.com/anaibol/awesome-serverless
                 https://github.com/aramalipoor/aws-cost-saver (A tiny CLI tool to help save costs in development environments when you're asleep and don't need them!)
+                https://github.com/aws-samples/hardeneks (Runs checks to see if an EKS cluster follows EKS Best Practices.)
                 https://github.com/awsdocs (Amazon Web Services - Documentation)
                 https://github.com/bash-my-aws/bash-my-aws (Simple but powerful CLI commands for managing AWS resources)
                 https://github.com/dannysteenman/aws-toolbox (A Collection of Awesome Tools and Scripts for Cloud Engineers )
@@ -1948,6 +1953,7 @@ Contents:
                 https://github.com/0x90n/InfoSec-Black-Friday (All the deals for InfoSec related software/tools this Black Friday)
                 https://github.com/4ndersonLin/awesome-cloud-security (Awesome Cloud Security Resources)
                 https://github.com/6mile/DevSecOps-Playbook (This is a step-by-step guide to implementing a DevSecOps program for any size organization)
+                https://github.com/A-poc/RedTeam-Tools (Tools and Techniques for Red Team / Penetration Testing)
                 https://github.com/aquasecurity/cloudsploit (CloudSploit by Aqua is an open-source project designed to allow detection of security risks in cloud infrastructure accounts, including: Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform (GCP), Oracle Cloud Infrastructure (OCI), and GitHub.)
                 https://github.com/armosec/kubescape (kubescape is the first tool for testing if Kubernetes is deployed securely as defined in Kubernetes Hardening Guidance by to NSA and CISA)
                 https://github.com/Arudjreis/awesome-security-GRC (Curated list of resources for security Governance, Risk Management, Compliance and Audit professionals and enthusiasts (if they exist).)
@@ -2118,7 +2124,6 @@ Contents:
                 https://support.zoom.us/hc/en-us/articles/205683899-Hot-keys-and-keyboard-shortcuts#collapseMac (Zoom Hot keys and keyboard shortcuts)
                 https://thesweetsetup.com/picks
                 https://universvm.medium.com/20-macos-apps-to-boost-your-productivity-74accb372c9c
-                https://unsplash.com/apps (Unsplash Wallpapers)
                 https://www.applegamingwiki.com/wiki/M1_compatible_games_master_list (M1 compatible games master list)
                 https://www.oss.wiki (ollection of must-have open-sourced apps for Mac)
                 https://www.reddit.com/r/apple+mac+macapps
@@ -2156,6 +2161,7 @@ Contents:
                 https://osxfuse.github.io (macFUSE allows you to extend macOS's native file handling capabilities via third-party file systems.)
                 https://privacy.sexy (Enforce privacy & security on Windows and macOS)
                 https://setapp.com (One-stop subscription to solving every task on Mac and iPhone.)
+                https://unsplash.com/apps (Unsplash Wallpapers)
                 https://www.bresink.com/osx/TinkerTool.html (TinkerTool is an application that gives you access to additional preference settings Apple has built into macOS.)
                 https://www.hammerspoon.Org/go/#pasteblock (Defeating paste blocking)
                 https://www.macbartender.com/Bartender4 (Take control of your menu bar)
@@ -2166,10 +2172,10 @@ Contents:
 
             HomeBrew:
                 Essential HomeBrew packages:
-                    amazon-ecs-cli awk awscli bash-completion@2 bind cabextract cheat coreutils eslint ffmpeg findutils fzf gabrie30/utils/ghorg git gnu-sed grep htop isync jq lsof lynx macos-trash moreutils msmtp mutt neomutt neovim nextdns/tap/nextdns openssh openssl@3 pass php pinentry-mac postgresql pstree pyenv rclone restic ripgrep-all rsync screen shellcheck sshuttle telnet tmux topgrade vim watch weaveworks/tap/eksctl wget yt-dlp/taps/yt-dlp z zip
+                    amazon-ecs-cli awk awscli bash-completion@2 bind cabextract cheat coreutils eslint ffmpeg findutils fzf gabrie30/utils/ghorg git gnu-sed grep htop isync jq k9s lsof lynx macos-trash mas moreutils msmtp mutt neomutt neovim nextdns/tap/nextdns openssh pandoc pass php pinentry-mac poppler postgresql@14 pstree pyenv rclone restic ripgrep-all rsync screen shellcheck smartmontools sox speedtest-cli sshuttle telnet tmux topgrade vim watch weaveworks/tap/eksctl wget yq yt-dlp/taps/yt-dlp z zip
 
                 Essential HomeBrew Casks:
-                    1password alfred alt-tab appcleaner bettertouchtool brave-browser cryptomator dbeaver-community docker evernote fantastical firefox github google-chrome google-drive iina intellij-idea istat-menus iterm2 keepassxc keyboardcleantool launchcontrol little-snitch macfuse microsoft-auto-update microsoft-remote-desktop microsoft-teams mmhmm mos mullvadvpn omnidisksweeper pdf-expert pgadmin4 session-manager-plugin setapp skype slack sublime-merge usb-overdrive veracrypt visual-studio-code zoom
+                    1password alfred alt-tab appcleaner bettertouchtool brave-browser cameracontroller cryptomator fantastical firefox github google-chrome google-cloud-sdk google-drive iina intellij-idea istat-menus iterm2 keepassxc keyboardcleantool launchcontrol little-snitch macfuse microsoft-auto-update microsoft-edge microsoft-remote-desktop microsoft-teams mos mullvadvpn omnidisksweeper pdf-expert pgadmin4 rancher session-manager-plugin skype slack steam sublime-merge usb-overdrive veracrypt visual-studio-code zoom
 
             Alfred:
                 http://www.packal.org
@@ -2444,6 +2450,7 @@ Contents:
                 https://github.com/lauragift21/awesome-learning-resources
                 https://github.com/loettz/interview-process-survival (🌈 🦄 this repository is a interview process guide for developers (web/frontend focused))
                 https://github.com/markodenic/web-development-resources
+                https://github.com/sadanandpai/frontend-learning-kit (Frontend tech guide and curated collection of frontend materials)
                 https://github.com/thedaviddias/Front-End-Performance-Checklist
                 https://github.com/topics/front-end?o=desc&s=stars
                 https://github.com/topics/frontend?o=desc&s=stars
@@ -2955,10 +2962,9 @@ Contents:
 
         Management:
             Sources:
-                http://Startupstash.Com
-                http://www.Toomas.Net/2017/07/18/Reverse-Engineering-A-Successful-Lifestyle-Business-Heres-Everything-Ive-Learned-From-Reading-Indiehackers-Com
-                https://Cofounderslab.Com
-                https://Diataxis.Fr (The Grand Unified Theory Of Documentation)
+                https://cofounderslab.com (Find a co-founder, hire a freelancer, or find a job)
+                https://diataxis.fr (The Grand Unified Theory Of Documentation)
+                https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy (Cognitive behavioral therapy)
                 https://en.wikipedia.org/wiki/Nonviolent_Communication
                 https://en.wikipedia.org/wiki/The_Innovator%27s_Dilemma (he Innovator's Dilemma: When New Technologies Cause Great Firms to Fail)
                 https://github.com/AkashRajpurohit/howtoprofessionallysay (A simple static website for common phrases we might want to say to your colleagues but want to make it sound more professional.)
@@ -3027,6 +3033,7 @@ Contents:
                 https://news.ycombinator.com/item?id=29336234 (Ask HN: I’d like to hire a personal/executive assistant – any tips or advice?)
                 https://news.ycombinator.com/item?id=30497703 (Ask HN: Books to read when you transform from SWE into SWE Management?)
                 https://rankings.ft.com/rankings/2866/mba-2022 (Business school rankings 2022)
+                https://startupstash.com (The world's largest directory of tools and resources for startups and entrepreneurs)
                 https://themanagershandbook.com (The Manager's Handbook by Alex MacCaw from clearbit.com)
                 https://www.amazon.Com/Gp/Bestsellers/Books/2569 (Amazon Best Sellers In Time Management)
                 https://www.indiehackers.Com
@@ -4285,6 +4292,7 @@ Contents:
                 https://www.looria.com/reddit/onebag/products (Most discussed products on r/onebag)
                 https://www.reddit.com/r/onebag/comments/ubr007/i_analyzed_the_most_discussed_brands_on_ronebag (I analyzed the most discussed brands on r/onebag)
                 https://www.reddit.com/r/onebag/comments/ut800x/i_analyzed_the_top_50_most_popular_backpacks_on (I analyzed the top 50 most popular backpacks on r/onebag)
+                https://www.reddit.com/r/onebag/comments/zkmgd9/what_are_your_fvr_backpack_review_channels (What are your fvr backpack review channels?)
                 https://youtu.be/pSO9pSTK28Q (The Ultimate Laptop Bag Guide | How To Choose The Best Laptop Bag For You)
 
         Survival:
