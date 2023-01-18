@@ -145,7 +145,7 @@ Contents:
             https://news.ycombinator.com/item?id=15089476 (Ask HN: What is your favorite CS paper?)
             https://news.ycombinator.com/item?id=15695326 (Ask HN: What are some interesting papers in CS for a beginner?)
             https://news.ycombinator.com/item?id=15898263 (A computer science study plan)
-            https://news.ycombinator.com/item?id=15899383 (	Ask HN: Fully online CS degrees?)
+            https://news.ycombinator.com/item?id=15899383 (    Ask HN: Fully online CS degrees?)
             https://news.ycombinator.com/item?id=16591918 (Ask HN: “Write your own” or “Build your own” software projects)
             https://news.ycombinator.com/item?id=17031609 (Ask HN: Books you should have read when you start a career in SE / CS?)
             https://news.ycombinator.com/item?id=20729252 (Ask HN: What book to read to get a footing in CS theory?)
@@ -153,7 +153,7 @@ Contents:
             https://news.ycombinator.com/item?id=21919465 (Ask HN: How do I choose the right resource to learn CS fundamentals?)
             https://news.ycombinator.com/item?id=22692281 (Ask HN: Computer Science/History Books?)
             https://news.ycombinator.com/item?id=23588896 Teach Yourself Computer Science (teachyourselfcs.com)
-            https://news.ycombinator.com/item?id=25271676 (	Ask HN: What are the best advanced computer science courses online?)
+            https://news.ycombinator.com/item?id=25271676 (    Ask HN: What are the best advanced computer science courses online?)
             https://news.ycombinator.com/item?id=29498220 (Ask HN: I'm looking for a good book on the fundamentals of CS)
             https://news.ycombinator.com/item?id=30485544 (Ask HN: The book that did it for you in math and/or CS?)
             https://news.ycombinator.com/item?id=5019373 (How Harvard's CS50 Renewed My Hope For Online Education)
@@ -308,9 +308,9 @@ Contents:
                 https://news.ycombinator.com/item?id=20556336 (Ask HN: What are the “best” codebases that you've encountered?)
                 https://news.ycombinator.com/item?id=22011743 (Ask HN: Are there any openly available software architecture documents?)
                 https://news.ycombinator.com/item?id=22767351 (Most-recommended programming books:Overtime I've built my own list of lists.)
-                https://news.ycombinator.com/item?id=23468193 (	Ask HN: Which tools have made you a much better programmer?)
+                https://news.ycombinator.com/item?id=23468193 (    Ask HN: Which tools have made you a much better programmer?)
                 https://news.ycombinator.com/item?id=30228261 (Ask HN: Best books on managing software complexity?)
-                https://news.ycombinator.com/item?id=30752540 (	Ask HN: Codebases with great, easy to read code?)
+                https://news.ycombinator.com/item?id=30752540 (    Ask HN: Codebases with great, easy to read code?)
                 https://octoverse.github.com
                 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/index.htm
                 https://softwareengineeringdaily.com
@@ -436,7 +436,7 @@ Contents:
         Mathematics for Computer Science:
             Sources:
                 https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=math&sort=byPopularity&type=story
-                https://news.ycombinator.com/item?id=13800320 (	Mathematics for Computer Science [pdf] (mit.edu))
+                https://news.ycombinator.com/item?id=13800320 (    Mathematics for Computer Science [pdf] (mit.edu))
                 https://news.ycombinator.com/item?id=13800320 (Mathematics for Computer Science [pdf] (mit.edu))
                 https://news.ycombinator.com/item?id=14161876 (Calculus Made Easy (1914))
                 https://news.ycombinator.com/item?id=14581273 (Georgia Tech's free math textbook collective)
@@ -704,7 +704,7 @@ Contents:
                 https://github.com/upgundecha/howtheysre (A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE))
                 https://gitlab.com/gitlab-com/runbooks (Run books for the stressed on call )
                 https://news.ycombinator.com/item?id=14153545 (What Is ‘Site Reliability Engineering’?)
-                https://news.ycombinator.com/item?id=32864909 (	Good CI/CD and SRE Blogs)
+                https://news.ycombinator.com/item?id=32864909 (    Good CI/CD and SRE Blogs)
                 https://rootly.com/blog/analyzing-sre-job-postings-from-amazon-to-microsoft (Analyzing SRE Job Postings - From Amazon to Microsoft)
                 https://sre.google/books (Google SRE Books)
                 https://sreweekly.com
@@ -755,8 +755,8 @@ Contents:
                 https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools (A list of new(ish) command line tools)
                 https://linuxcommandlibrary.com
                 https://news.ycombinator.com/item?id=22564665 (Linux Kernel Teaching (linux-kernel-labs.github.io))
-                https://news.ycombinator.com/item?id=24027366 (	Low latency tuning guide)
-                https://news.ycombinator.com/item?id=26053323 (	A visual guide to SSH tunnels (robotmoon.com))
+                https://news.ycombinator.com/item?id=24027366 (    Low latency tuning guide)
+                https://news.ycombinator.com/item?id=26053323 (    A visual guide to SSH tunnels (robotmoon.com))
                 https://news.ycombinator.com/item?id=3257393 (What's the one Linux command you wish you knew years ago?)
                 https://systemd-by-example.com (The playground allows you to learn about systemd interactively, right from your browser!)
                 https://tldr.sh (Simplified and community-driven man pages)
@@ -860,9 +860,9 @@ Contents:
                 https://news.ycombinator.com/item?id=22975437 (Shell Productivity Tips and Tricks (balthazar-rouberol.com))
                 https://news.ycombinator.com/item?id=24880170 (/.bashrc VS –/.profile VS –/.bash_profile (leimao.github.io))
                 https://news.ycombinator.com/item?id=25069452 (Linux Command One-Liners (commandlinefu.com))
-                https://news.ycombinator.com/item?id=27023572 (	My Favorite One Liners (muhammadraza.me))
+                https://news.ycombinator.com/item?id=27023572 (    My Favorite One Liners (muhammadraza.me))
                 https://news.ycombinator.com/item?id=27615516 (Bash PS1 Generator (bashrcgenerator.com))
-                https://news.ycombinator.com/item?id=27992073 (	Command line tools for productive programmers (earthly.dev))
+                https://news.ycombinator.com/item?id=27992073 (    Command line tools for productive programmers (earthly.dev))
                 https://pragmaticpineapple.com/four-useful-fzf-tricks-for-your-terminal
                 https://sharats.me/posts/shell-script-best-practices (Shell Script Best Practices)
                 https://stackoverflow.com/a/19866239/11065 (Test if remote TCP port is open from a bash shell script)
@@ -892,7 +892,7 @@ Contents:
                 https://github.com/yarrick/iodine (tunnel IPv4 data through a DNS server)
                 https://goteleport.com/blog/security-hardening-ssh-bastion-best-practices (SSH Bastion Host Best Practices)
                 https://news.ycombinator.com/item?id=10726158 (Poor man's VPN via ssh socks proxy (redpill-linpro.com))
-                https://news.ycombinator.com/item?id=26053323 (	A visual guide to SSH tunnels (robotmoon.com))
+                https://news.ycombinator.com/item?id=26053323 (    A visual guide to SSH tunnels (robotmoon.com))
                 https://news.ycombinator.com/item?id=32486031 (SSH tips and tricks (carlosbecker.dev))
                 https://susam.in/blog/file-transfer-with-ssh-tee-and-base64.html (File Transfer with SSH, Tee, and Base64)
                 https://unix.stackexchange.com/a/118650/289353 (How does reverse SSH tunneling work?)
@@ -2109,9 +2109,9 @@ Contents:
                 https://medium.com/@cav/foss-password-management-with-passwordstore-9d34fec2fe84
                 https://news.ycombinator.com/item?id=20621224 (Ask HN: The most useful Mac keyboard shortcuts?)
                 https://news.ycombinator.com/item?id=24091707 (Ask HN: What feature did you find after years of using macOS?)
-                https://news.ycombinator.com/item?id=24391899 (	Hard to discover tips and apps for macOS (thume.ca))
+                https://news.ycombinator.com/item?id=24391899 (    Hard to discover tips and apps for macOS (thume.ca))
                 https://news.ycombinator.com/item?id=29577272 (Clever uses of pass, the Unix password manager (vitalyparnas.com))
-                https://news.ycombinator.com/item?id=29742551 (	macOS Setup after 15 Years of Linux (hookrace.net))
+                https://news.ycombinator.com/item?id=29742551 (    macOS Setup after 15 Years of Linux (hookrace.net))
                 https://objective-see.com/products.html (Free Mac Security Tools)
                 https://opensource.com/article/19/5/python-3-default-mac (The right and wrong way to set Python 3 as default on a Mac)
                 https://renegadevi.gitlab.io/mac-app-collection (Find hidden gem apps to improve your Mac.)
@@ -2346,7 +2346,7 @@ Contents:
                 https://github.com/vinta/awesome-python (A curated list of awesome Python frameworks, libraries, software and resources)
                 https://news.ycombinator.com/item?id=16622038 (At full speed with Python: a book for self-learners)
                 https://news.ycombinator.com/item?id=21054462 (Ask HN: How do you handle/maintain local Python environments?)
-                https://news.ycombinator.com/item?id=30980813 (	Ask HN: Python Programming Books)
+                https://news.ycombinator.com/item?id=30980813 (    Ask HN: Python Programming Books)
                 https://opensource.com/article/19/5/python-3-default-mac (The right and wrong way to set Python 3 as default on a Mac)
                 https://pybit.es/python-resources.html
                 https://pythonbooks.org
@@ -2406,7 +2406,7 @@ Contents:
                 https://news.ycombinator.com/item?id=16196194 (Brushing up on operating systems and C programming)
                 https://news.ycombinator.com/item?id=16347309 (Ask HN: What project did you tackle to learn C?)
                 https://news.ycombinator.com/item?id=19126544 (Show HN: Learn C and its lower levels interactively, in the browser)
-                https://news.ycombinator.com/item?id=22519876 (	Ask HN: How do I learn C properly?)
+                https://news.ycombinator.com/item?id=22519876 (    Ask HN: How do I learn C properly?)
                 https://news.ycombinator.com/item?id=26911399 (Beej's Guide to C Programming)
                 https://news.ycombinator.com/item?id=33130533 (Ask HN: Best book to learn C in 2022?)
 
@@ -2443,6 +2443,7 @@ Contents:
         Web Development:
             Sources:
                 https://digitaldefynd.com/best-free-web-development-courses-tutorials-certification
+                https://fullstackopen.com/en (Deep Dive Into Modern Web Development by The University of Helsinki)
                 https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer
                 https://github.com/codeSTACKr/free-developer-resources
                 https://github.com/dypsilon/frontend-dev-bookmarks
@@ -2590,7 +2591,7 @@ Contents:
                 Sources:
                     https://code.visualstudio.com/docs/editor/github
                     https://news.ycombinator.com/item?id=27231033 (Disable autocorrect in vscode)
-                    https://news.ycombinator.com/item?id=29278370 (	Ask HN: What extensions/packs of VS Code are must for web/developers to install?)
+                    https://news.ycombinator.com/item?id=29278370 (    Ask HN: What extensions/packs of VS Code are must for web/developers to install?)
                     https://vscodecandothat.com (VS Code Can Do That)
                     https://www.reddit.com/r/vscode/comments/8zbcb3/window_tabs/e2toon2 (Enable windows tabs in vscode)
 
@@ -2786,7 +2787,7 @@ Contents:
                 https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=resume%20&sort=byPopularity&type=story
                 https://news.ycombinator.com/item?id=16479922 (Ask HN: Resumes that look good but professional too)
                 https://news.ycombinator.com/item?id=17671490 (Building a Kickass Portfolio)
-                https://news.ycombinator.com/item?id=22709183 (	Show HN: RxResume – A free and open-source resume builder (web.app))
+                https://news.ycombinator.com/item?id=22709183 (    Show HN: RxResume – A free and open-source resume builder (web.app))
                 https://resumake.io
                 https://resumetopdf.com
                 https://stackoverflow.blog/2020/11/25/how-to-write-an-effective-developer-resume-advice-from-a-hiring-manager (How to write an effective developer resume: Advice from a hiring manager)
@@ -2931,7 +2932,7 @@ Contents:
                 https://news.ycombinator.com/item?id=21728436 (Ask HN: What mistakes did you make when starting as a consultant/freelancer?)
                 https://news.ycombinator.com/item?id=26995874 (Ask HN: How did you transition from FTE to self-employed/sole proprietor?)
                 https://news.ycombinator.com/item?id=32606348 (Ask HN: Contractors, what is your hourly rate?)
-                https://news.ycombinator.com/item?id=32701641 (	Ask HN: Generalist contractors, what is your hourly rate?)
+                https://news.ycombinator.com/item?id=32701641 (    Ask HN: Generalist contractors, what is your hourly rate?)
                 https://news.ycombinator.com/item?id=32837800 (Ask HN: Where are the good platforms for contract work?)
                 https://www.reddit.com/r/Accounting+Entrepreneur+business+finance+marketing+motivation+smallbusiness+socialmedia+startups
                 https://www.reddit.com/r/beermoney (a community for people to discuss mostly online money-making opportunities. You shouldn't expect to make a living, but it is possible to make extra cash on the side for your habits/needs)
@@ -3023,8 +3024,8 @@ Contents:
                 https://news.ycombinator.com/item?Id=22092303 (Ask Hn: Courses/Resources To Improve My Self-Esteem And Believe In Myself More?)
                 https://news.ycombinator.com/item?Id=23050717 (Ask Hn: Learning The Business-Side Of Things As A Developer?)
                 https://news.ycombinator.com/item?Id=23118940 (Ask Hn: What Are Your Favorite Developer-Efficiency Tips?)
-                https://news.ycombinator.com/item?Id=23152092 (	Ask Hn: I'Ve Been Promoted To Architect. What Do I Need To Learn/Do To Excel?)
-                https://news.ycombinator.com/item?Id=23759547 (	Ask Hn: What Makes A Good Technical Leader – Any Recommended Books?)
+                https://news.ycombinator.com/item?Id=23152092 (    Ask Hn: I'Ve Been Promoted To Architect. What Do I Need To Learn/Do To Excel?)
+                https://news.ycombinator.com/item?Id=23759547 (    Ask Hn: What Makes A Good Technical Leader – Any Recommended Books?)
                 https://news.ycombinator.com/item?Id=24123372 (Classic Books For Tech Leads Or Those Aspiring To Be (Sourcelevel.Io))
                 https://news.ycombinator.com/item?Id=26807085 (Ask Hn: How To Speak Confidently?)
                 https://news.ycombinator.com/item?Id=26847816 (Ask Hn: What Was The Biggest Leadership Challenge Of Your Career?)
@@ -3090,7 +3091,7 @@ Contents:
                 https://news.ycombinator.com/item?id=20521902 (Ask HN: What did you do when you suddenly got rich?)
                 https://news.ycombinator.com/item?id=22573204 (Ask HN: Book recommendations for understanding financial systems?)
                 https://news.ycombinator.com/item?id=22709843 (Ask HN: Introductory Books on the Stock Market?)
-                https://news.ycombinator.com/item?id=32618445 (	What to read to understand how economists think (economist.com))
+                https://news.ycombinator.com/item?id=32618445 (    What to read to understand how economists think (economist.com))
                 https://trello.com/b/NPlSa3C7/journey-board (Agile Sprint Board for next initiatives of r/IndiaInvestments)
                 https://www.amazon.com/gp/bestsellers/books/491584
                 https://www.indiainvestments.wiki
@@ -3188,7 +3189,7 @@ Contents:
             https://news.ycombinator.com/item?id=16202123 (How to Study: A Brief Guide (buffalo.edu))
             https://news.ycombinator.com/item?id=21310030 (Ask HN: How do you share/organize knowledge at work and life?)
             https://news.ycombinator.com/item?id=23596471 (Ask HN: How do you take notes when reading a book?)
-            https://news.ycombinator.com/item?id=28482726 (	Ask HN: How Do You Learn?)
+            https://news.ycombinator.com/item?id=28482726 (    Ask HN: How Do You Learn?)
             https://news.ycombinator.com/item?id=30473322 (Ask HN: Any scientifically proven techniques to boost concentration?)
             https://www.comptia.org/testing/online-testing-interest-form
             https://www.coursera.org/learn/learning-how-to-learn
@@ -3318,11 +3319,11 @@ Contents:
                 https://news.ycombinator.com/item?id=22502554 (Ask HN: What are some deep, mentality changing books?)
                 https://news.ycombinator.com/item?id=22718592 (Ask HN: Great fiction books that have had a positive impact on your life?)
                 https://news.ycombinator.com/item?id=23151144 (Ask HN: Mind bending books to read and never be the same as before?)
-                https://news.ycombinator.com/item?id=23485477 (	Ask HN: What, in your opinion, are the greatest and most useful textbooks?)
+                https://news.ycombinator.com/item?id=23485477 (    Ask HN: What, in your opinion, are the greatest and most useful textbooks?)
                 https://news.ycombinator.com/item?id=23535060 (Ask HN: How do you read long PDFs?)
                 https://news.ycombinator.com/item?id=26321793 (Ask HN: Which books made you the most money?)
                 https://news.ycombinator.com/item?id=27636743 (Ask HN: Which book or course gave you an unfair advantage?)
-                https://news.ycombinator.com/item?id=29462663 (	Ask HN: What are some must read books?)
+                https://news.ycombinator.com/item?id=29462663 (    Ask HN: What are some must read books?)
                 https://news.ycombinator.com/item?id=30241190 (Ask HN: What is one book you would recommend everyone to read?)
                 https://news.ycombinator.com/item?id=33797862 (Ask HN: Which books have made you a better thinker and problem solver?)
                 https://opentrackers.org/downloading-ebooks-textbooks
@@ -3403,15 +3404,15 @@ Contents:
                 https://askubuntu.com/questions/789465/generate-white-noise-to-calm-a-baby
                 https://gist.github.com/kristopherjohnson/9f7e3fe61e595ad7cedc (Generate Brown Noise, White Noise, or Pink Noise using SoX)
                 https://lifehacker.com/the-ultimate-list-of-work-and-study-music-1836284255
-                https://news.ycombinator.com/item?id=11146712 (	AI generated music to improve focus, relaxation and sleep (brain.fm))
+                https://news.ycombinator.com/item?id=11146712 (    AI generated music to improve focus, relaxation and sleep (brain.fm))
                 https://news.ycombinator.com/item?id=11146712 (AI generated music to improve focus, relaxation and sleep (brain.fm))
                 https://news.ycombinator.com/item?id=12844434 (Music for Programming (musicforprogramming.net))
                 https://news.ycombinator.com/item?id=17118269 (Ask HN: What, if anything, do you listen to while coding?)
                 https://news.ycombinator.com/item?id=18493075 (Brain.fm: Music to improve focus, meditation and sleep)
                 https://news.ycombinator.com/item?id=20724959 (Ask HN: Where do you find new music to listen to online?)
-                https://news.ycombinator.com/item?id=27737887 (	Music for Programming (musicforprogramming.net))
+                https://news.ycombinator.com/item?id=27737887 (    Music for Programming (musicforprogramming.net))
                 https://news.ycombinator.com/item?id=27908441 (Yet another background music for developer, if you missed working at cafe (sudo.fm))
-                https://news.ycombinator.com/item?id=31470928 (	Lofi.co – Relax and Focus (lofi.co))
+                https://news.ycombinator.com/item?id=31470928 (    Lofi.co – Relax and Focus (lofi.co))
                 https://news.ycombinator.com/item?id=33019781 (Can brown noise turn off your brain?)
                 https://news.ycombinator.com/item?id=9767943 (Do Binaural Beats Really Affect Brainwaves? (autodidacts.io))
                 https://open.spotify.com/user/22jszrk35ji6sm6qewxzsly4a?si=DVuJ0DSLQ7mLqfXy4nkLTQ
@@ -3561,9 +3562,9 @@ Contents:
             Sources:
                 https://manytricks.com/keycodes (Displays the key code, unicode value, and modifier keys state for any key combination you press)
                 https://mos.caldis.me (A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on MacOS)
-                https://news.ycombinator.com/item?id=20621224 (	Ask HN: The most useful Mac keyboard shortcuts?)
-                https://news.ycombinator.com/item?id=26995906 (	Ask HN: What's your keyboard and what you love and hate about it?)
-                https://news.ycombinator.com/item?id=27958431 (	Ask HN: Does anyone use keyboard/mouse extra buttons for coding?)
+                https://news.ycombinator.com/item?id=20621224 (    Ask HN: The most useful Mac keyboard shortcuts?)
+                https://news.ycombinator.com/item?id=26995906 (    Ask HN: What's your keyboard and what you love and hate about it?)
+                https://news.ycombinator.com/item?id=27958431 (    Ask HN: Does anyone use keyboard/mouse extra buttons for coding?)
                 https://support.apple.com/en-in/guide/terminal/trmlshtcts/mac (Keyboard shortcuts in Terminal on Mac)
                 https://support.apple.com/en-in/HT201236 (Mac keyboard shortcuts)
                 https://support.google.com/chrome/answer/157179 (Chrome keyboard shortcuts)
@@ -3707,7 +3708,7 @@ Contents:
                 https://news.ycombinator.com/item?id=20023209 (Ask HN: What are your other favorite communities other than Hacker News?)
                 https://news.ycombinator.com/item?id=20719651 (Ask HN: What are some niche or alternative news aggregators worth checking out?)
                 https://news.ycombinator.com/item?id=25159931 (Ask HN: What are some of your favorite journals or magazines?)
-                https://news.ycombinator.com/item?id=26192817 (	Ask HN: What websites do you visit every day?)
+                https://news.ycombinator.com/item?id=26192817 (    Ask HN: What websites do you visit every day?)
                 https://news.ycombinator.com/item?id=28632002 (Ask HN: What are some other general link aggregators aside from HN?)
                 https://news.ycombinator.com/item?id=32799789 (Ask HN: What are some of the best documentaries you've seen?)
                 https://www.reddit.com/r/AskReddit/comments/9nggyv/what_is_a_great_youtube_channel_to_binge_watch
@@ -3910,7 +3911,7 @@ Contents:
                     https://hndex.org (a search engine for finding articles posted to hacker news)
                     https://hnprofile.com ((Find an Expert on Hacker News))
                     https://news.ycombinator.com
-                    https://news.ycombinator.com/item?id=25556990 (	HN Alternative UIs (luke.lol))
+                    https://news.ycombinator.com/item?id=25556990 (    HN Alternative UIs (luke.lol))
                     https://readhacker.news
                     https://showcase.metamate.io/hackernews-trends
                     https://t.me/best_hacker_news
@@ -4425,15 +4426,15 @@ Contents:
         https://news.ycombinator.com/item?id=21581361 (Ask HN: What's the most valuable thing you can learn in an hour?)
         https://news.ycombinator.com/item?id=22849208 (Ask HN: Programs that saved you 100 hours?)
         https://news.ycombinator.com/item?id=23390308 (Ask HN: What is the cheapest way to make a website?)
-        https://news.ycombinator.com/item?id=24351073 (	Most-favorited Hacker News posts)
+        https://news.ycombinator.com/item?id=24351073 (    Most-favorited Hacker News posts)
         https://news.ycombinator.com/item?id=24436135 (Ask HN: What is your favorite motto?)
         https://news.ycombinator.com/item?id=25136258 (Ask HN: What is the best money you have spent on professional development?)
-        https://news.ycombinator.com/item?id=25518730 (	Tips for a Better Life (lesswrong.com))
+        https://news.ycombinator.com/item?id=25518730 (    Tips for a Better Life (lesswrong.com))
         https://news.ycombinator.com/item?id=27219759 (Ask HN: Favorite purchases of last two years?)
         https://news.ycombinator.com/item?id=28017289 (Ask HN: Do you have a process or a framework to learn specific skills quickly?)
         https://news.ycombinator.com/item?id=28119393 (Ask HN: What tiny purchases have disproportionately improved your life?)
         https://news.ycombinator.com/item?id=28232165 (Ask HN: What's the most life-changing blog post you've ever read?)
-        https://news.ycombinator.com/item?id=29675397 (	Ask HN: Where are you getting your money's worth?)
+        https://news.ycombinator.com/item?id=29675397 (    Ask HN: Where are you getting your money's worth?)
         https://news.ycombinator.com/item?id=30469036 (Ask HN: Anyone here have good material for learning how to sketch from scratch?)
         https://news.ycombinator.com/item?id=31928736 (Ask HN: Can I see your cheatsheet?)
         https://per.quest (Enter a URL to an article, post or page with some text on it to listen to it)
