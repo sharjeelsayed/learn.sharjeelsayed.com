@@ -393,9 +393,11 @@ Contents:
 
         Algorithms and Data Structures:
             Sources:
+                https://algorithmsilluminated.org (Algorithms Illuminated Omnibus Edition (September 2022) by Tim Roughgarden )
                 https://github.com/karan/Projects (📃 A list of practical projects that anyone can solve in any programming language.)
                 https://github.com/Pradetto/DSA-Cheat-Sheets (Data Structures and Algorithms Flashcards)
                 https://github.com/teivah/algodeck
+                https://github.com/trekhleb/javascript-algorithms (📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings)
                 https://github.com/williamfiset/Algorithms
                 https://news.ycombinator.com/item?id=13653669 (Algorithms (khanacademy.org))
                 https://news.ycombinator.com/item?id=15423045 (A Comparison of Four Algorithms Textbooks (2016))
@@ -409,7 +411,6 @@ Contents:
                 https://www.reddit.com/r/compsci/comments/1kcal2/algorithims_everyone_should_know
                 https://www.reddit.com/r/cscareerquestions/comments/ap8jz3/which_data_structures_and_algorithms_are
                 https://www.reddit.com/r/learnprogramming/comments/379vwn/visually_learning_algorithms
-                https://algorithmsilluminated.org (Algorithms Illuminated Omnibus Edition (September 2022) by Tim Roughgarden )
 
             Books and Courses:
                 The Algorithm Design Manual 2nd Edition by Steven S. Skiena
@@ -631,6 +632,7 @@ Contents:
             https://free-for.dev (This is a list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers)
             https://github.com/255kb/stack-on-a-budget (A collection of services with great free tiers for developers on a budget.)
             https://github.com/Artemmkin/infrastructure-as-code-tutorial
+            https://github.com/bregman-arie/sre-checklist (A checklist of anyone practicing Site Reliability Engineering)
             https://github.com/danluu/post-mortems
             https://github.com/dastergon/awesome-chaos-engineering
             https://github.com/madd86/awesome-system-design
@@ -1125,7 +1127,6 @@ Contents:
                 https://www.containiq.com/post/kubernetes-projects-for-beginners (10 Awesome Kubernetes Projects for Beginners)
                 https://www.datadoghq.com/container-report (Oct 2021 report on Kubernetes and Docker Usage)
                 https://www.flatcar.org (A community Linux distribution designed for container workloads, with high security and low maintenance)
-                https://www.katacoda.com/courses/kubernetes (Learn Kubernetes using Interactive Browser-Based Scenarios By Ben Hall, Jonathan Johnson, Richard Li, Peter Benjamin)
                 https://www.learncloudnative.com/blog/2022-05-10-kubectl-tips (Kubernetes CLI (kubectl) tips you didn't know about)
                 https://www.linode.com/content/kubernetes-guide (Understanding Kubernetes A Guide to Modernizing Your Cloud Infrastructure)
                 https://www.nsa.gov/Press-Room/News-Highlights/Article/Article/2716980/nsa-cisa-release-kubernetes-hardening-guidance/utm_source/nsa-cisa-release-kubernetes-hardening-guidance (NSA, CISA release Kubernetes Hardening Guidance)
@@ -1604,7 +1605,6 @@ Contents:
                 https://terratest.gruntwork.io
                 https://www.facebook.com/groups/840062592768074 (Learn DevOps: Continuously Deliver Better Software)
                 https://www.hashicorp.com/community/office-hours (Public, Virtual Office Hours)
-                https://www.katacoda.com/courses/terraform
                 https://www.reddit.com/r/Terraform
                 https://www.reddit.com/r/Terraform/comments/iguorh/best_terraform_course
                 https://www.reddit.com/r/Terraform/comments/x09dlm/list_of_most_useful_terraform_opensource_tools (List of most useful Terraform open-source tools)
@@ -1754,6 +1754,7 @@ Contents:
                 https://github.com/git-tips/tips (Most commonly used git tips and tricks.)
                 https://github.com/git-up/GitUp (The Git interface you've been missing all your life has finally arrived. http://gitup.co)
                 https://github.com/github/hub (A command-line tool that makes git easier to use with GitHub.)
+                https://github.com/initialcommit-com/git-sim (Visually simulate Git operations in your own repos with a single terminal command.)
                 https://github.com/jesseduffield/lazygit (simple terminal UI for git commands)
                 https://github.com/k88hudson/git-flight-rules (Flight rules for git)
                 https://github.com/LeCoupa/awesome-cheatsheets/blob/master/tools/git.sh
@@ -2012,6 +2013,7 @@ Contents:
                 https://news.ycombinator.com/item?id=17749283 (Ask HN: Recommendations of good cybercrime novels?)
                 https://news.ycombinator.com/item?id=18487547 (Ask HN: Starting a career in security at 40?)
                 https://news.ycombinator.com/item?id=29577272 (Clever uses of pass, the Unix password manager (vitalyparnas.com))
+                https://offsec.tools (A vast collection of security tools)
                 https://overthewire.org/wargames/bandit
                 https://portswigger.net/research/top-10-web-hacking-techniques-of-2021 (Top 10 Web Hacking Techniques of 2021)
                 https://ppn.snovvcrash.rocks (Pentester's promiscuous handbook)
@@ -2490,6 +2492,7 @@ Contents:
                 https://github.com/sorrycc/awesome-javascript
                 https://github.com/sudheerj/javascript-interview-questions (List of 1000 JavaScript Interview Questions)
                 https://github.com/topics/javascript?o=desc&s=stars
+                https://github.com/trekhleb/javascript-algorithms (📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings)
                 https://hackr.io/tutorials/learn-javascript
                 https://news.ycombinator.com/item?id=22990926 (Eloquent JavaScript 3rd Edition (2018) (eloquentjavascript.net))
                 https://www.reddit.com/r/javascript/top/?sort=top&t=year
@@ -2829,6 +2832,7 @@ Contents:
                 http://layoffs.fyi (Tracking all tech startup layoffs since COVID-19)
                 https://docs.google.com/spreadsheets/d/1TLJSlNxCbwRNxy14Toe1PYwbCTY7h0CNHeer9J0VRzE/htmlview#gid=1279011369 (900+ Startups hiring Remotely in 2020 - by Remotive.io)
                 https://en.wikipedia.org/wiki/List_of_Arab_League_countries_by_GDP_(PPP) (List of Arab League countries by GDP (PPP))
+                https://en.wikipedia.org/wiki/List_of_countries_by_average_annual_labor_hours (List of countries by average annual labor hours)
                 https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita#Table (List of countries by GDP (PPP) per capita)
                 https://github.com/Kaustubh-Natuskar/companies-to-apply (This repository contains opportunities for you to apply to more than 150 product base companies(NOT JUST FAANG ) & good start-ups.)
                 https://github.com/lukasz-madon/awesome-remote-job
