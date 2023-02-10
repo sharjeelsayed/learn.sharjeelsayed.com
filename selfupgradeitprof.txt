@@ -1048,7 +1048,6 @@ Contents:
                 https://eksctl.io (eksctl - The official CLI for Amazon EKS)
                 https://github.com/abiosoft/colima (Container runtimes on macOS (and Linux) with minimal setup)
                 https://github.com/ahmetb/kubectx (Faster way to switch between clusters and namespaces in kubectl)
-                https://github.com/ahmetb/kubernetes-network-policy-recipes
                 https://github.com/ahmetb/kubernetes-network-policy-recipes (Example recipes for Kubernetes Network Policies that you can just copy paste)
                 https://github.com/alexellis/k3sup (bootstrap Kubernetes with k3s over SSH < 1 min 🚀)
                 https://github.com/aquasecurity/kube-bench (Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark )
@@ -1058,7 +1057,7 @@ Contents:
                 https://github.com/collabnix/kubetools (Kubetools - Curated List of Kubernetes Tools)
                 https://github.com/containerd/nerdctl (contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ... )
                 https://github.com/datreeio/datree (Prevent Kubernetes misconfigurations from reaching production (again 😤 )! Datree is a CLI tool to ensure K8s manifests and Helm charts follow best practices as well as your organization’s policies)
-                https://github.com/dennyzhang/cheatsheet-kubernetes-A4
+                https://github.com/dennyzhang/cheatsheet-kubernetes-A4 (📖 Kubernetes CheatSheets In A4)
                 https://github.com/devtron-labs/devtron (Devtron is an integrated Kubernetes distribution which bundles Argo, Grafana, Helm, Keda, Prometheus and more, saving you the effort of integrating yourself)
                 https://github.com/diegolnasc/kubernetes-best-practices (A cookbook with the best practices for working with kubernetes)
                 https://github.com/eon01/kubernetes-workshop (A Gentle introduction to Kubernetes with more than just the basics.)
@@ -1367,7 +1366,7 @@ Contents:
                 https://courses.datacumulus.com/downloads/certified-solutions-architect-pn9 (AWS Certified Solutions Architect Associate Code & Slides)
                 https://courses.datacumulus.com (Discount codes for the Course)
 
-                AWS Certified Solutions Architect Associate Practice Exams 2022 by Jon Bonso
+                AAWS Certified Solutions Architect Associate SAA-C03 Practice Exams 2023 by Jon Bonso
                 https://portal.tutorialsdojo.com/product/aws-certified-solutions-architect-associate-practice-exams
                 https://www.udemy.com/course/aws-certified-solutions-architect-associate-amazon-practice-exams-saa-c02
                 https://tutorialsdojo.com/aws-certified-solutions-architect-associate-saa-c02
@@ -2266,6 +2265,7 @@ Contents:
                 https://news.ycombinator.com/item?id=20583581 (Your favourite tutorial for total beginners?)
                 https://news.ycombinator.com/item?id=21450126 (Free Online Courses from Top Universities (openculture.com))
                 https://news.ycombinator.com/item?id=25245125 (Ask HN: Top Coursera Courses?)
+                https://news.ycombinator.com/item?id=34591291 (Ask HN: What's the best lecture series you've seen?)
                 https://www.classcentral.com/collection/top-free-online-courses
                 https://www.classcentral.com/starting-this-month
                 https://www.freecodecamp.org/news/best-online-courses
@@ -2577,6 +2577,7 @@ Contents:
                 https://blog.floydhub.com/best-deep-learning-courses-updated-for-2019
                 https://github.com/ai-collection/ai-collection ( The Generative AI Landscape - A List of Awesome Generative AI Applications Topics)
                 https://github.com/humanloop/awesome-chatgpt (Curated list of awesome tools, demos, docs for ChatGPT and GPT-3 )
+                https://karpathy.ai/zero-to-hero.html (A course by Andrej Karpathy on building neural networks, from scratch, in code)
                 https://news.ycombinator.com/item?id=12713056 (Ask HN: How to get started with machine learning?)
                 https://news.ycombinator.com/item?id=16493489 (Machine Learning Crash Course)
                 https://news.ycombinator.com/item?id=18321665 (Foundations of ML and AI: Book recommendations (dragan.rocks))
@@ -2834,6 +2835,7 @@ Contents:
                 https://en.wikipedia.org/wiki/List_of_Arab_League_countries_by_GDP_(PPP) (List of Arab League countries by GDP (PPP))
                 https://en.wikipedia.org/wiki/List_of_countries_by_average_annual_labor_hours (List of countries by average annual labor hours)
                 https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita#Table (List of countries by GDP (PPP) per capita)
+                https://fred.stlouisfed.org/series/CIVPART (USA Civilian Labor Force Participation Rate)
                 https://github.com/Kaustubh-Natuskar/companies-to-apply (This repository contains opportunities for you to apply to more than 150 product base companies(NOT JUST FAANG ) & good start-ups.)
                 https://github.com/lukasz-madon/awesome-remote-job
                 https://github.com/poteto/hiring-without-whiteboards (⭐️ Companies that don't have a broken hiring process)
@@ -2953,6 +2955,7 @@ Contents:
                 https://www.upwork.com/press/2020/09/01/upwork-releases-top-paying-programming-languages-for-independent-web-mobile-and-software-developers
                 https://www.upwork.com/press/releases/upwork-releases-top-15-most-in-demand-skills-for-independent-web-mobile-and-software-developers
                 https://www.upwork.com/press/releases/upwork-releases-top-paying-programming-languages-for-independent-web-mobile-and-software-developers
+                https://www.upwork.com/press/releases/upwork-unveils-most-in-demand-skills-for-independent-professionals-in-2023
                 https://www.upwork.com/press/releases/upwork-unveils-top-10-most-in-demand-skills-for-technology-marketing-and-customer-service-independent-talent-in-2022
                 https://www.youtube.com/watch?v=NxmcfrFrYEA&t=1327s (How the client sees your proposal)
                 https://youtu.be/PTzJlrahqgc (The COMPLETE Upwork Tutorial for Beginners!)
