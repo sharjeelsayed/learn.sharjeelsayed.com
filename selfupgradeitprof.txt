@@ -1604,6 +1604,7 @@ Contents:
                 https://terratest.gruntwork.io
                 https://www.facebook.com/groups/840062592768074 (Learn DevOps: Continuously Deliver Better Software)
                 https://www.hashicorp.com/community/office-hours (Public, Virtual Office Hours)
+                https://www.linuxtek.ca/2022/10/29/terraform-associate-certification-resources-and-recommendations (Terraform Associate Certification – Resources and Recommendations)
                 https://www.reddit.com/r/Terraform
                 https://www.reddit.com/r/Terraform/comments/iguorh/best_terraform_course
                 https://www.reddit.com/r/Terraform/comments/x09dlm/list_of_most_useful_terraform_opensource_tools (List of most useful Terraform open-source tools)
@@ -1622,6 +1623,10 @@ Contents:
                 https://github.com/morethancertified/mtc-terraform
                 https://techstudyslack.slack.com/archives/C01E7UKHR34
 
+                HashiCorp Certified: Terraform Associate Practice Exam 2023 by Bryan Krausen
+                https://www.udemy.com/course/terraform-associate-practice-exam
+                https://github.com/btkrausen (Coupon Codes)
+
                 HashiCorp Certified: Terraform Associate 2022 by Zeal Vora
                 https://www.udemy.com/course/terraform-beginner-to-advanced
                 https://github.com/zealvora/coupon-codes ((Coupon Codes))
@@ -1639,10 +1644,6 @@ Contents:
                 https://tf-eks-workshop.workshop.aws
 
             Additional Material:
-                HashiCorp Certified: Terraform Associate Practice Exam 2022 by Bryan Krausen
-                https://www.udemy.com/course/terraform-associate-practice-exam
-                https://github.com/btkrausen (Coupon Codes)
-
                 Deploy Infra in the Cloud using Terraform by Houssem Dellai
                 https://www.udemy.com/course/deploy-infra-in-the-cloud-using-terraform
 
@@ -1981,6 +1982,7 @@ Contents:
                 https://github.com/Legit-Labs/legitify
                 https://github.com/Lissy93/awesome-privacy (🦄 A curated list of privacy & security-focused software and services)
                 https://github.com/Lissy93/personal-security-checklist (🔒 A curated checklist of 300+ tips for protecting digital security and privacy in 2021)
+                https://github.com/mazen160/secrets-patterns-db (Secrets Patterns DB: The largest open-source Database for detecting secrets, API keys, passwords, tokens, and more.)
                 https://github.com/myugan/awesome-cicd-security (📚 A curated list of awesome CI CD security resources)
                 https://github.com/myugan/awesome-docker-security (A curated list of awesome Docker security resources)
                 https://github.com/OWASP/CheatSheetSeries (The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics. )
@@ -2013,8 +2015,10 @@ Contents:
                 https://news.ycombinator.com/item?id=18487547 (Ask HN: Starting a career in security at 40?)
                 https://news.ycombinator.com/item?id=29577272 (Clever uses of pass, the Unix password manager (vitalyparnas.com))
                 https://offsec.tools (A vast collection of security tools)
+                https://opensourcesecurityindex.io (The Most Popular & Fastest Growing Open Source Security Projects on GitHub)
                 https://overthewire.org/wargames/bandit
                 https://portswigger.net/research/top-10-web-hacking-techniques-of-2021 (Top 10 Web Hacking Techniques of 2021)
+                https://portswigger.net/research/top-10-web-hacking-techniques-of-2022 (Top 10 web hacking techniques of 2022)
                 https://ppn.snovvcrash.rocks (Pentester's promiscuous handbook)
                 https://room362.com/start (Start in Infosec)
                 https://s3ctur.wordpress.com/2017/06/19/breaking-into-infosec-a-beginners-curriculum
@@ -2597,6 +2601,7 @@ Contents:
         IDE:
             Sources:
                 https://blog.jetbrains.com/idea/2022/10/top-underrated-shortcuts (Top Underrated Shortcuts in IntelliJ IDEA)
+                https://blog.jetbrains.com/platform/2023/02/top-10-plugins-for-intellij-based-ides (Top 10 Plugins for IntelliJ-based IDEs)
                 https://editorconfig.org
                 https://www.codingfont.com (Gamified experience to help you find your true love of coding fonts!)
 
@@ -3251,7 +3256,6 @@ Contents:
             Extensions:
                 https://addons.mozilla.org/en-GB/firefox/addon/foxytab
                 https://addons.mozilla.org/en-US/firefox/addon/auto-tab-discard
-                https://addons.mozilla.org/en-US/firefox/addon/bypass-paywalls-clean
                 https://addons.mozilla.org/en-US/firefox/addon/firefox-translations
                 https://addons.mozilla.org/en-US/firefox/addon/honey
                 https://addons.mozilla.org/en-US/firefox/addon/minimalist-alexa-rank
