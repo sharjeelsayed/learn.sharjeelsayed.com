@@ -561,6 +561,7 @@ Contents:
                 https://github.com/binhnguyennus/awesome-scalability ( The Patterns of Scalable, Reliable, and Performant Large-Scale Systems Topics)
                 https://github.com/huachaohuang/awesome-dbdev (Awesome materials about database development.)
                 https://github.com/karanpratapsingh/system-design (Learn how to design systems at scale and prepare for system design interviews)
+                https://github.com/microsoft/Data-Science-For-Beginners (Data Science for Beginners - A Curriculum . 10 Weeks, 20 Lessons, Data Science for All! https://microsoft.github.io/Data-Science-For-Beginners)
                 https://github.com/pingcap/awesome-database-learning (A list of learning materials to understand databases internals)
                 https://news.ycombinator.com/item?id=13417326 (Ask HN: What is the best online resource to learn advanced SQL?)
                 https://news.ycombinator.com/item?id=21793270 (Database Internals (databass.dev))
@@ -1101,6 +1102,7 @@ Contents:
                 https://kops.sigs.k8s.io
                 https://kube.academy (Learn Kubernetes From Experts For Free. KubeAcademy from VMware)
                 https://kubenews.net (Kubernetes and Cloud Native Computing Foundation News Sources)
+                https://kubernetes.io/docs/concepts/security/security-checklist (Kubernetes Security Checklist)
                 https://kubernetesbyexample.com (KBE lessons emphasize an ‘absorb by doing’ approach so you can practices skills as they are explored and explained to learn Kubernetes By Example)
                 https://kubernetesreadme.com (What books 📚 to read to learn more about Kubernetes)
                 https://labs.play-with-k8s.com (Play with Kubernetes is a labs site provided by Docker and created by Tutorius.)
@@ -2005,6 +2007,7 @@ Contents:
                 https://ishaqmohammed.me/posts/application-security-knowledgebase (Application Security Knowledgebase)
                 https://jhalon.github.io/becoming-a-pentester
                 https://krebsonsecurity.com/2020/07/thinking-of-a-cybersecurity-career-read-this
+                https://kubernetes.io/docs/concepts/security/security-checklist (Kubernetes Security Checklist)
                 https://media.defense.gov/2022/Mar/01/2002947139/-1/-1/0/CTR_NSA_NETWORK_INFRASTRUCTURE_SECURITY_GUIDANCE_20220301.PDF (National Security Agency Cybersecurity Technical Report Network Infrastructure Security Guidance March 2022)
                 https://myaccount.google.com/stateattackwarning (Find out if someone is trying to access your Google account)
                 https://news.ycombinator.com/item?id=12140477 (A practical security guide for web developers (github.com))
