@@ -559,6 +559,7 @@ Contents:
                 https://db-engines.com/en/ranking (DB-Engines Ranking)
                 https://github.com/alexeygrigorev/data-science-interviews (Data science interview questions and answers https://ds-interviews.org)
                 https://github.com/binhnguyennus/awesome-scalability ( The Patterns of Scalable, Reliable, and Performant Large-Scale Systems Topics)
+                https://github.com/DataTalksClub/data-engineering-zoomcamp (Free Data Engineering course!)
                 https://github.com/huachaohuang/awesome-dbdev (Awesome materials about database development.)
                 https://github.com/karanpratapsingh/system-design (Learn how to design systems at scale and prepare for system design interviews)
                 https://github.com/microsoft/Data-Science-For-Beginners (Data Science for Beginners - A Curriculum . 10 Weeks, 20 Lessons, Data Science for All! https://microsoft.github.io/Data-Science-For-Beginners)
@@ -929,6 +930,7 @@ Contents:
                 https://github.com/topics/windows-10?o=desc&s=stars
                 https://github.com/W4RH4WK/Debloat-Windows-10
                 https://news.ycombinator.com/item?id=19698620 (Ask HN: How do you secure your Windows PC?)
+                https://www.amazon.com/Best-Sellers-Books-Windows-Operating-System/zgbs/books/10806619011 (Best Sellers in Windows Operating System)
                 https://www.reddit.com/r/sysadmin/comments/3z7qd9/practice_to_become_a_windows_sysadmin/cyjynxh
                 https://www.reddit.com/r/sysadmin/wiki/ms/resources
                 https://pinboard.in/u:SharjeelSayed/t:windows
@@ -972,6 +974,7 @@ Contents:
                 https://github.com/dockersamples/example-voting-app (Example Docker Compose app)
                 https://github.com/dokku/dokku ( A docker-powered PaaS that helps you build and manage the lifecycle of applications)
                 https://github.com/hadolint/hadolint (Dockerfile linter, validate inline bash, written in Haskell)
+                https://github.com/Haxxnet/Compose-Examples (Various Docker Compose examples of selfhosted FOSS and proprietary projects.)
                 https://github.com/hexops/dockerfile (Dockerfile best-practices for writing production-worthy Docker images. )
                 https://github.com/jesseduffield/lazydocker (The lazier way to manage everything docker)
                 https://github.com/jessfraz/dockerfiles (Various Dockerfiles I use on the desktop and on servers. )
@@ -1122,6 +1125,7 @@ Contents:
                 https://registry.terraform.io/modules/terraform-aws-modules/eks/aws
                 https://snyk.io/blog/10-kubernetes-security-context-settings-you-should-understand (10 Kubernetes Security Context settings you should understand)
                 https://sparkle.adroitcorp.com.au/market (Flashcards)
+                https://sysdig.com/blog/top-owasp-kubernetes (The OWASP Kubernetes Top 10 puts all possible risks in an order of overall commonality or probability.)
                 https://t.me/learnk8s (Telegram channel for learning Kubernetes)
                 https://techbeacon.com/enterprise-it/47-advanced-tutorials-mastering-kubernetes
                 https://www.atomiccommits.io/everything-useful-i-know-about-kubectl
@@ -1975,9 +1979,11 @@ Contents:
                 https://github.com/gchq/CyberChef (The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis)
                 https://github.com/Gr1mmie/Practical-Ethical-Hacking-Resources
                 https://github.com/Hack-with-Github/Awesome-Hacking
+                https://github.com/hahwul/DevSecOps ( 🔱 Collection and Roadmap for everyone who wants DevSecOps. Hope your DevOps are more safe 😎)
                 https://github.com/hysnsec/awesome-policy-as-code (A curated list of policy-as-code resources like blogs, videos, and tools to practice on for learning Policy-as-Code.)
                 https://github.com/iacsecurity/tool-compare (infrastructure-as-code security tools comparison)
                 https://github.com/Igglybuff/awesome-piracy (A curated list of awesome warez and piracy links)
+                https://github.com/infobyte/faraday (Open Source Vulnerability Management Platform)
                 https://github.com/instadoodledavid/Infosec-Deals-2020
                 https://github.com/jassics/security-study-plan (Complete Practical Study Plan to become a successful cybersecurity engineer based on roles like Pentest, AppSec, Cloud Security, DevSecOps and so on...)
                 https://github.com/krol3/container-security-checklist (Checklist for container security - devsecops practices)
@@ -2027,6 +2033,7 @@ Contents:
                 https://s3ctur.wordpress.com/2017/06/19/breaking-into-infosec-a-beginners-curriculum
                 https://security.stackexchange.com/questions/46666/at-what-length-does-a-password-stop-making-sense
                 https://sgtdede.gitbook.io/hacking/oscp-2022/guide-en (OSCP guide 2022)
+                https://sysdig.com/blog/top-owasp-kubernetes (The OWASP Kubernetes Top 10 puts all possible risks in an order of overall commonality or probability.)
                 https://tcm-sec.com/so-you-want-to-be-a-hacker-2021-edition (So You Want to Be a Hacker: 2021 Edition)
                 https://tls13.xargs.org (The Illustrated TLS 1.3 Connection Every byte explained and reproduced)
                 https://toc.cryptobook.us (A Graduate Course in Applied Cryptography)
@@ -2348,6 +2355,7 @@ Contents:
             Sources:
                 https://boto3.amazonaws.com/v1/documentation/api/latest/index.html
                 https://docs.python.org/3/tutorial
+                https://github.com/Asabeneh/30-Days-Of-Python (30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.)
                 https://github.com/donnemartin/interactive-coding-challenges
                 https://github.com/huangsam/ultimate-python
                 https://github.com/ml-tooling/best-of-web-python
@@ -2433,6 +2441,9 @@ Contents:
 
                 Modern C by Jens Gustedt
                 https://modernc.gforge.inria.fr
+
+                Beej's Guide to C Programming
+                https://beej.us/guide/bgc/html/split/index.html
 
         Java:
             Sources:
@@ -2687,6 +2698,7 @@ Contents:
                 https://github.com/viraptor/reverse-interview (Questions to ask the company during your interview)
                 https://github.com/wisdompeak/LeetCode (This repository contains the solutions and explanations to the algorithm problems on LeetCode. Only medium or above are included. All are written in C++/Python and implemented by myself. The problems attempted multiple times are labelled with hyperlinks.)
                 https://hn.algolia.com/?query=interview&sort=byPopularity&prefix&page=0&dateRange=all&type=story
+                https://interviewing.io/guides/system-design-interview (A Senior Engineer's Guide to the System Design Interview)
                 https://mysteries.wizardzines.com
                 https://news.ycombinator.com/item?id=11246917 (How to Pass a Programming Interview)
                 https://news.ycombinator.com/item?id=14037313 (Questions to ask at the end of a technical interview)
@@ -2700,6 +2712,7 @@ Contents:
                 https://news.ycombinator.com/item?id=20916749 (Questions to ask a company during a job interview (github.com))
                 https://news.ycombinator.com/item?id=26854130 (Questions to ask in a job interview that reveal company culture (fastcompany.com))
                 https://news.ycombinator.com/item?id=27161901 (Ask HN: What lessons did you learn from your best or worst colleagues?)
+                https://nibblestew.blogspot.com/2022/09/questions-to-ask-prospective-employer.html (Questions to ask a prospective employer during a job interview for developers)
                 https://techinterviewhandbook.org (Curated interview preparation materials for busy engineers.Brought to you by the author of the Blind 75 List)
                 https://www.naukri.com/pulse/top-it-skills
                 https://www.reddit.com/r/AskReddit/comments/74sskj/what_are_some_red_flags_in_a_job_interview
@@ -2709,7 +2722,6 @@ Contents:
                 https://www.reddit.com/r/cscareerquestions/comments/8387zj/what_is_your_favorite_method_for_figuring_out_if
                 https://www.reddit.com/r/cscareerquestions/wiki
                 https://www.reddit.com/r/ExperiencedDevs
-                https://nibblestew.blogspot.com/2022/09/questions-to-ask-prospective-employer.html (Questions to ask a prospective employer during a job interview for developers)
                 https://pinboard.in/u:SharjeelSayed/t:cheatsheet
                 https://pinboard.in/u:SharjeelSayed/t:interview
                 https://pinboard.in/u:SharjeelSayed/t:jobs
