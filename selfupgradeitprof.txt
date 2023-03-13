@@ -396,6 +396,7 @@ Contents:
                 https://algorithmsilluminated.org (Algorithms Illuminated Omnibus Edition (September 2022) by Tim Roughgarden )
                 https://github.com/karan/Projects (📃 A list of practical projects that anyone can solve in any programming language.)
                 https://github.com/Pradetto/DSA-Cheat-Sheets (Data Structures and Algorithms Flashcards)
+                https://github.com/tayllan/awesome-algorithms (A curated list of awesome places to learn and/or practice algorithms.)
                 https://github.com/teivah/algodeck
                 https://github.com/trekhleb/javascript-algorithms (📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings)
                 https://github.com/williamfiset/Algorithms
@@ -1862,6 +1863,7 @@ Contents:
                 http://derekwyatt.org/vim/tutorials
                 http://vimcasts.org (Learn essential Vim skills with Drew Neil, author of Practical Vim)
                 http://zzapper.co.uk/vimtips.html
+                https://betterprogramming.pub/50-vim-mode-tips-for-ide-users-f7b525a794b3 (Vim Best Practices For IDE Users)
                 https://github.com/amix/vimrc (The ultimate Vim configuration (vimrc) )
                 https://github.com/learnbyexample/scripting_course/blob/master/Vim_curated_resources.md
                 https://github.com/LeCoupa/awesome-cheatsheets/blob/master/tools/vim.txt
