@@ -890,7 +890,6 @@ Contents:
         ssh:
             Sources:
                 http://www.g-loaded.eu/2006/11/24/auto-closing-ssh-tunnels # Auto-closing SSH tunnels
-                https://github.com/anderspitman/awesome-tunneling (List of ngrok alternatives and other ngrok-like tunneling software and services. Focus on self-hosting)
                 https://github.com/moul/awesome-ssh
                 https://github.com/opsdisk/the_cyber_plumbers_handbook (The definitive guide to Secure Shell (SSH) tunneling, port redirection, and bending traffic like a boss.)
                 https://github.com/topics/ssh?o=desc&s=stars
@@ -904,8 +903,11 @@ Contents:
                 https://unix.stackexchange.com/a/118650/289353 (How does reverse SSH tunneling work?)
                 https://unix.stackexchange.com/a/2869/187607 (Download or Upload files using SSH)
 
+
             Tools:
+                https://github.com/anderspitman/awesome-tunneling (List of ngrok alternatives and other ngrok-like tunneling software and services. Focus on self-hosting)
                 https://github.com/elpy1/ssh-over-ssm (SSH over AWS SSM. No bastions or public-facing instances. SSH user management through IAM. No requirement to store SSH keys locally or on server.)
+                https://github.com/pgrok/pgrok (Poor man's ngrok - a multi-tenant HTTP reverse tunnel solution through SSH remote port forwarding )
                 https://github.com/sekey/sekey (Use Touch ID / Secure Enclave for SSH Authentication!)
                 https://github.com/sshuttle/sshuttle (Transparent proxy server that works as a poor man's VPN. Forwards over ssh. Doesn't require admin. Works with Linux and MacOS. Supports DNS tunneling.)
 
@@ -1058,6 +1060,7 @@ Contents:
                 https://github.com/aquasecurity/kube-bench (Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark )
                 https://github.com/armosec/kubescape (kubescape is the first tool for testing if Kubernetes is deployed securely as defined in Kubernetes Hardening Guidance by to NSA and CISA)
                 https://github.com/askmeegs/learn-istio
+                https://github.com/atombender/ktail (A tool to easily tail Kubernetes container logs)
                 https://github.com/aws-samples/hardeneks (Runs checks to see if an EKS cluster follows EKS Best Practices.)
                 https://github.com/collabnix/kubetools (Kubetools - Curated List of Kubernetes Tools)
                 https://github.com/containerd/nerdctl (contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ... )
@@ -1073,6 +1076,7 @@ Contents:
                 https://github.com/johanhaleby/kubetail (Bash script to tail Kubernetes logs from multiple pods at the same time)
                 https://github.com/k8s-at-home/awesome-home-kubernetes
                 https://github.com/karmada-io/karmada (Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration)
+                https://github.com/kdash-rs/kdash (A simple and fast dashboard for Kubernetes)
                 https://github.com/kelseyhightower/kubernetes-the-hard-way
                 https://github.com/komodorio/helm-dashboard (The missing UI for Helm - visualize your releases)
                 https://github.com/ksoclabs/awesome-kubernetes-security (A curated list of awesome Kubernetes security resources)
@@ -1133,6 +1137,7 @@ Contents:
                 https://www.containiq.com/post/kubernetes-projects-for-beginners (10 Awesome Kubernetes Projects for Beginners)
                 https://www.datadoghq.com/container-report (Oct 2021 report on Kubernetes and Docker Usage)
                 https://www.flatcar.org (A community Linux distribution designed for container workloads, with high security and low maintenance)
+                https://www.fyck.io/resources/kubernetes-tools (A curated directory of Kubernetes tools and resources)
                 https://www.learncloudnative.com/blog/2022-05-10-kubectl-tips (Kubernetes CLI (kubectl) tips you didn't know about)
                 https://www.linode.com/content/kubernetes-guide (Understanding Kubernetes A Guide to Modernizing Your Cloud Infrastructure)
                 https://www.nsa.gov/Press-Room/News-Highlights/Article/Article/2716980/nsa-cisa-release-kubernetes-hardening-guidance/utm_source/nsa-cisa-release-kubernetes-hardening-guidance (NSA, CISA release Kubernetes Hardening Guidance)
@@ -1697,7 +1702,7 @@ Contents:
                 https://github.com/topics/postgresql?o=desc&s=stars
                 https://news.ycombinator.com/item?id=23208181 (Ask HN: What PostgreSQL client do you use?)
                 https://pgtune.leopard.in.ua
-                https://postgrespro.com/community/books/internals ( PostgreSQL 14 Internals :A deep dive into the server mechanics)
+                https://postgrespro.com/blog/pgsql/5969985 ( PostgreSQL 14 Internals :A deep dive into the server mechanics)
                 https://postgresqlco.nf
                 https://roadmap.sh/postgresql-dba (Step by step guide to becoming a modern PostgreSQL DB Administrator in 2022)
                 https://theartofpostgresql.com (The book that teaches SQL to developers: Learn to replace thousands of lines of code with simple queries!)
@@ -2337,6 +2342,7 @@ Contents:
     Development:
         SQL:
             Sources:
+                https://github.com/whoiskatrin/sql-translator (SQL Translator is a tool for converting natural language queries into SQL code using artificial intelligence. This project is 100% free and open source.)
                 https://news.ycombinator.com/item?id=23070491 (Here are some other SQL Learning resources I have collected in my note taking Wiki (mostly from HN itself))
                 https://news.ycombinator.com/item?id=23138297 (Advanced SQL and database books and resources (neilwithdata.com))
                 https://pinboard.in/u:SharjeelSayed/t:sql
@@ -2597,6 +2603,7 @@ Contents:
                 https://blog.floydhub.com/best-deep-learning-courses-updated-for-2019
                 https://github.com/ai-collection/ai-collection ( The Generative AI Landscape - A List of Awesome Generative AI Applications Topics)
                 https://github.com/humanloop/awesome-chatgpt (Curated list of awesome tools, demos, docs for ChatGPT and GPT-3 )
+                https://github.com/OpenMindClub/awesome-chatgpt (⚡ Everything about ChatGPT )
                 https://karpathy.ai/zero-to-hero.html (A course by Andrej Karpathy on building neural networks, from scratch, in code)
                 https://news.ycombinator.com/item?id=12713056 (Ask HN: How to get started with machine learning?)
                 https://news.ycombinator.com/item?id=16493489 (Machine Learning Crash Course)
@@ -2814,10 +2821,13 @@ Contents:
 
         Resume Improvement:
             Sources:
+                https://blog.pragmaticengineer.com/the-pragmatic-engineers-resume-template (The Pragmatic Engineer's Resume Template by Gergely Orosz)
                 https://gitconnected.com
+                https://github.com/coderjojo/creative-profile-readme (A Collection of GitHub Profiles with awesome readme)
                 https://github.com/posquit0/Awesome-CV
                 https://github.com/salomonelli/best-resume-ever
                 https://github.com/topics/cv?o=desc&s=stars
+                https://github.com/topics/readme?o=desc&s=stars
                 https://github.com/topics/resume?o=desc&s=stars
                 https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=resume%20&sort=byPopularity&type=story
                 https://news.ycombinator.com/item?id=16479922 (Ask HN: Resumes that look good but professional too)
@@ -2828,8 +2838,6 @@ Contents:
                 https://stackoverflow.blog/2020/11/25/how-to-write-an-effective-developer-resume-advice-from-a-hiring-manager (How to write an effective developer resume: Advice from a hiring manager)
                 https://thetechresume.com
                 https://www.reddit.com/r/sysadminresumes/top
-                https://github.com/coderjojo/creative-profile-readme (A Collection of GitHub Profiles with awesome readme)
-                https://github.com/topics/readme?o=desc&s=stars
                 https://pinboard.in/u:SharjeelSayed/t:resume
 
         Portfolio:
