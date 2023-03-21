@@ -764,6 +764,7 @@ Contents:
                 https://news.ycombinator.com/item?id=24027366 (	Low latency tuning guide)
                 https://news.ycombinator.com/item?id=26053323 (	A visual guide to SSH tunnels (robotmoon.com))
                 https://news.ycombinator.com/item?id=3257393 (What's the one Linux command you wish you knew years ago?)
+                https://sadservers.com (Troubleshoot and make a sad server happy! "Like LeetCode for Linux" Capture The Flag challenges. Train and prove your debugging skills. Practice for your next SRE/DevOps interview.Get a full remote Linux server with a problem and fix it.)
                 https://systemd-by-example.com (The playground allows you to learn about systemd interactively, right from your browser!)
                 https://tldr.sh (Simplified and community-driven man pages)
                 https://tuxurls.com
@@ -2806,6 +2807,9 @@ Contents:
 
                 These are the best resources for System Design on the Internet
                 https://github.com/InterviewReady/system-design-resources
+
+                Troubleshoot and make a sad server happy! "Like LeetCode for Linux" Capture The Flag challenges. Train and prove your debugging skills. Practice for your next SRE/DevOps interview.Get a full remote Linux server with a problem and fix it.
+                https://sadservers.com
 
             Coding Challenge Websites: (Sorted by Alexa Rank):
                 https://leetcode.com (1,515)
