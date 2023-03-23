@@ -836,6 +836,7 @@ Contents:
                 http://mywiki.wooledge.org/BashPitfalls (This page is a compilation of common mistakes made by bash users. Each example is flawed in some way.)
                 http://redsymbol.net/articles/unofficial-bash-strict-mode
                 https://altbox.dev (A collection of power tools for the Linux/Unix/macOS command line)
+                https://andrew-quinn.me/fzf (So you've installed `fzf`. Now what?)
                 https://explainshell.com (write down a command-line to see the help text that matches each argument)
                 https://github.com/adrianscheff/useful-sed (Useful sed scripts & patterns)
                 https://github.com/alebcay/awesome-shell (A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.)
@@ -874,6 +875,7 @@ Contents:
                 https://sharats.me/posts/shell-script-best-practices (Shell Script Best Practices)
                 https://stackoverflow.com/a/19866239/11065 (Test if remote TCP port is open from a bash shell script)
                 https://switowski.com/blog/favorite-cli-tools
+                https://web.archive.org/web/20090815205011/http://www.cuberick.com/2008/11/update-bash-history-in-realtime.html (Update Bash History in Realtime)
                 https://wiki.bash-hackers.org/scripting/debuggingtips (Debugging a script)
                 https://www.reddit.com/r/usefulscripts/top
                 https://pinboard.in/u:SharjeelSayed/t:bash
@@ -1540,6 +1542,7 @@ Contents:
 
         Ansible:
             Sources:
+                https://dev-sec.io (devops + security Server Hardening Automation Using Ansible)
                 https://discord.com/invite/sMJjuXb
                 https://docs.ansible.com/ansible
                 https://galaxy.ansible.com
@@ -1547,7 +1550,7 @@ Contents:
                 https://github.com/Artemmkin/infrastructure-as-code-tutorial
                 https://github.com/dev-sec/ansible-os-hardening
                 https://github.com/topics/ansible?o=desc&s=stars
-                https://dev-sec.io (devops + security Server Hardening Automation Using Ansible)
+                https://www.ansible.com/blog/providing-terraform-with-that-ansible-magic (Providing Terraform with that Ansible Magic)
                 https://www.reddit.com/r/ansible
 
             Books and Courses:
@@ -1615,6 +1618,7 @@ Contents:
                 https://terraform-docs.io (Generate Terraform modules documentation in various formats.)
                 https://terragrunt.gruntwork.io
                 https://terratest.gruntwork.io
+                https://www.ansible.com/blog/providing-terraform-with-that-ansible-magic (Providing Terraform with that Ansible Magic)
                 https://www.facebook.com/groups/840062592768074 (Learn DevOps: Continuously Deliver Better Software)
                 https://www.hashicorp.com/community/office-hours (Public, Virtual Office Hours)
                 https://www.linuxtek.ca/2022/10/29/terraform-associate-certification-resources-and-recommendations (Terraform Associate Certification – Resources and Recommendations)
@@ -1691,6 +1695,7 @@ Contents:
         MySQL:
             Books and Courses:
                 https://dev.mysql.com/doc
+                https://planetscale.com/courses/mysql-for-developers (MySQL for Developers)
 
         SQL Server:
             Books and Courses:
@@ -2476,7 +2481,6 @@ Contents:
         Web Development:
             Sources:
                 https://digitaldefynd.com/best-free-web-development-courses-tutorials-certification
-                https://fullstackopen.com/en (Deep Dive Into Modern Web Development by The University of Helsinki)
                 https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer
                 https://github.com/codeSTACKr/free-developer-resources
                 https://github.com/dypsilon/frontend-dev-bookmarks
@@ -2505,6 +2509,9 @@ Contents:
 
                 The Odin Project (Full Stack JavaScript and Full Stack Ruby on Rails for Free)
                 https://www.theodinproject.com
+
+                Full Stack open (Deep Dive Into Modern Web Development by The University of Helsinki)
+                https://fullstackopen.com/en
 
                 The Web Developer Bootcamp by Colt Steele
                 https://www.udemy.com/the-web-developer-bootcamp
