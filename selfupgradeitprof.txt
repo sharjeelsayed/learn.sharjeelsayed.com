@@ -502,6 +502,7 @@ Contents:
                 https://www.jeremysitlab.com/ccna-resources
                 https://www.reddit.com/r/ccna/wiki
                 https://www.reddit.com/r/ccna/wiki/faqs/materials
+                https://www.reddit.com/r/networking/comments/125oiyo/how_are_large_tech_companies_scaling_their_data (How are large tech companies scaling their Data Centers?)
                 https://www.reddit.com/r/networking/wiki
                 https://www.reddit.com/r/sysadmin/comments/4ux166/do_you_know_a_site_to_learn_more_about_networking
 
@@ -1065,6 +1066,7 @@ Contents:
                 https://github.com/askmeegs/learn-istio
                 https://github.com/atombender/ktail (A tool to easily tail Kubernetes container logs)
                 https://github.com/aws-samples/hardeneks (Runs checks to see if an EKS cluster follows EKS Best Practices.)
+                https://github.com/aws/karpenter ( Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity. https://karpenter.sh)
                 https://github.com/collabnix/kubetools (Kubetools - Curated List of Kubernetes Tools)
                 https://github.com/containerd/nerdctl (contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ... )
                 https://github.com/datreeio/datree (Prevent Kubernetes misconfigurations from reaching production (again 😤 )! Datree is a CLI tool to ensure K8s manifests and Helm charts follow best practices as well as your organization’s policies)
@@ -1076,6 +1078,7 @@ Contents:
                 https://github.com/hidetatz/kubecolor (colorizes kubectl output)
                 https://github.com/ishantanu/awesome-kubectl-plugins (Curated list of kubectl plugins)
                 https://github.com/jamiehannaford/what-happens-when-k8s (What happens when I type kubectl run?)
+                https://github.com/jatrost/awesome-kubernetes-threat-detection (A curated list of resources about detecting threats and defending Kubernetes systems.)
                 https://github.com/johanhaleby/kubetail (Bash script to tail Kubernetes logs from multiple pods at the same time)
                 https://github.com/k8s-at-home/awesome-home-kubernetes
                 https://github.com/karmada-io/karmada (Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration)
@@ -1999,6 +2002,7 @@ Contents:
                 https://github.com/infobyte/faraday (Open Source Vulnerability Management Platform)
                 https://github.com/instadoodledavid/Infosec-Deals-2020
                 https://github.com/jassics/security-study-plan (Complete Practical Study Plan to become a successful cybersecurity engineer based on roles like Pentest, AppSec, Cloud Security, DevSecOps and so on...)
+                https://github.com/jatrost/awesome-kubernetes-threat-detection (A curated list of resources about detecting threats and defending Kubernetes systems.)
                 https://github.com/krol3/container-security-checklist (Checklist for container security - devsecops practices)
                 https://github.com/Legit-Labs/legitify
                 https://github.com/Lissy93/awesome-privacy (🦄 A curated list of privacy & security-focused software and services)
@@ -2523,6 +2527,7 @@ Contents:
             Sources:
                 https://github.com/developer-resources/frontend-development
                 https://github.com/getify/You-Dont-Know-JS
+                https://github.com/ryanmcdermott/clean-code-javascript (Clean Code concepts adapted for JavaScript)
                 https://github.com/sorrycc/awesome-javascript
                 https://github.com/sudheerj/javascript-interview-questions (List of 1000 JavaScript Interview Questions)
                 https://github.com/topics/javascript?o=desc&s=stars
@@ -3767,6 +3772,7 @@ Contents:
                 https://news.ycombinator.com/item?id=26192817 (	Ask HN: What websites do you visit every day?)
                 https://news.ycombinator.com/item?id=28632002 (Ask HN: What are some other general link aggregators aside from HN?)
                 https://news.ycombinator.com/item?id=32799789 (Ask HN: What are some of the best documentaries you've seen?)
+                https://news.ycombinator.com/item?id=35313232 (	Text only news websites (2022) (wturrell.co.uk))
                 https://www.reddit.com/r/AskReddit/comments/9nggyv/what_is_a_great_youtube_channel_to_binge_watch
                 https://www.reddit.com/r/AskReddit/comments/aa7zs9/what_youtube_channels_are_genuinely_worth_watching
                 https://news.ycombinator.com/user?id=SharjeelSayed
