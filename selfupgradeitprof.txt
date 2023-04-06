@@ -558,6 +558,7 @@ Contents:
             Sources:
                 https://architecturenotes.co/things-you-should-know-about-databases (Things You Should Know About Databases)
                 https://awesomedataengineering.com
+                https://datasetsearch.research.google.com (Dataset Search)
                 https://db-engines.com/en/ranking (DB-Engines Ranking)
                 https://github.com/alexeygrigorev/data-science-interviews (Data science interview questions and answers https://ds-interviews.org)
                 https://github.com/binhnguyennus/awesome-scalability ( The Patterns of Scalable, Reliable, and Performant Large-Scale Systems Topics)
@@ -572,6 +573,7 @@ Contents:
                 https://news.ycombinator.com/item?id=24762734 (Ask HN: What are good resources to learn system design?)
                 https://news.ycombinator.com/item?id=25987664 (Ask HN: Recommended books and papers on distributed systems?)
                 https://ottertune.com/blog/2021-databases-retrospective (Databases in 2021: A Year in Review)
+                https://redis.com/blog/datasets-for-test-databases (Groovy Datasets for Test Databases)
                 https://www.reddit.com/r/Database
                 https://pinboard.in/u:SharjeelSayed/t:db
 
@@ -2277,7 +2279,7 @@ Contents:
                 https://github.com/learn-awesome/learn-awesome
                 https://github.com/merry75/educative.io_courses
                 https://github.com/r0oth3x49/udemy-dl (A cross-platform python based utility to download courses from udemy for personal offline use)
-                https://github.com/sindresorhus/awesome
+                https://github.com/sindresorhus/awesome (😎 Awesome lists about all kinds of interesting topics)
                 https://github.com/yt-dlp/yt-dlp (A youtube-dl fork with additional features and fixes)
                 https://hackr.io
                 https://hourups.com (171 hand-picked crash courses from the best instructors on YouTube)
@@ -2616,6 +2618,7 @@ Contents:
                 https://blog.floydhub.com/best-deep-learning-courses-updated-for-2019
                 https://github.com/ai-collection/ai-collection ( The Generative AI Landscape - A List of Awesome Generative AI Applications Topics)
                 https://github.com/humanloop/awesome-chatgpt (Curated list of awesome tools, demos, docs for ChatGPT and GPT-3 )
+                https://github.com/microsoft/ML-For-Beginners (12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all)
                 https://github.com/OpenMindClub/awesome-chatgpt (⚡ Everything about ChatGPT )
                 https://karpathy.ai/zero-to-hero.html (A course by Andrej Karpathy on building neural networks, from scratch, in code)
                 https://news.ycombinator.com/item?id=12713056 (Ask HN: How to get started with machine learning?)
@@ -3227,6 +3230,7 @@ Contents:
             Source:
                 https://duome.eu/tips/en (Duolingo's language notes all on one page)
                 https://news.ycombinator.com/item?id=30467597 (How I learned French in 12 months (2020) (runwes.com))
+                https://www.reddit.com/r/dataisbeautiful/comments/12bdj40/oc_most_spoken_languages_in_the_world_by_country ([OC] Most spoken languages in the world)
 
             Books and Courses: (Sorted by Alexa Rank)
                 https://www.duolingo.com (683)
