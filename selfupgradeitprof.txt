@@ -67,6 +67,7 @@ Contents:
         Python
         Go
         C
+        C++
         Java
         Web Development
         JavaScript
@@ -257,7 +258,7 @@ Contents:
                 https://github.com/charlax/professional-programming (A collection of learning resources for curious software engineers)
                 https://github.com/codecrafters-io/build-your-own-x (🤓 Build your own (insert technology here) )
                 https://github.com/danistefanovic/build-your-own-x
-                https://github.com/EbookFoundation/free-programming-books
+                https://github.com/EbookFoundation/free-programming-books (https://ebookfoundation.github.io/free-programming-books 📚 Freely available programming books )
                 https://github.com/facundoolano/software-papers (📚 A curated list of papers for Software Engineers)
                 https://github.com/hackclub/some-assembly-required (An approachable introduction to assembly.)
                 https://github.com/kamranahmedse/developer-roadmap (Roadmap to becoming a developer in 2022 )
@@ -267,6 +268,7 @@ Contents:
                 https://github.com/Michael0x2a/curated-programming-resources
                 https://github.com/mtdvio/every-programmer-should-know (A collection of (mostly) technical things every software developer should know about )
                 https://github.com/P1xt/p1xt-guides
+                https://github.com/public-apis/public-apis (A collective list of free APIs)
                 https://github.com/rby90/Project-Based-Tutorials-in-C
                 https://github.com/rShetty/awesome-podcasts
                 https://github.com/sdmg15/Best-websites-a-programmer-should-visit (🔗 Some useful websites for programmers.)
@@ -1344,6 +1346,7 @@ Contents:
                 https://github.com/dpritchett/aws-budget-limiter (Simple Terraform script for capping monthly AWS spend)
                 https://github.com/dutchcoders/cloudman (Textual user interface to manage ec2 instances.)
                 https://github.com/elpy1/ssh-over-ssm (SSH over AWS SSM. No bastions or public-facing instances. SSH user management through IAM. No requirement to store SSH keys locally or on server.)
+                https://github.com/gofireflyio/aiac (Artificial Intelligence Infrastructure-as-Code Generator.)
                 https://github.com/jckuester/awsls (A list command for AWS resources)
                 https://github.com/localstack/localstack (A fully functional local AWS cloud stack)
                 https://github.com/nccgroup/aws-inventory (Discover resources created in an AWS account)
@@ -1603,6 +1606,7 @@ Contents:
                 https://github.com/antonbabenko/terraform-best-practices
                 https://github.com/Artemmkin/infrastructure-as-code-tutorial
                 https://github.com/camptocamp/terraboard (A web dashboard to inspect Terraform States)
+                https://github.com/gofireflyio/aiac (Artificial Intelligence Infrastructure-as-Code Generator.)
                 https://github.com/GoogleCloudPlatform/terraformer (CLI tool to generate terraform files from existing infrastructure (reverse Terraform))
                 https://github.com/im2nguyen/rover (Interactive Terraform visualization. State and configuration explorer.)
                 https://github.com/infracost/infracost (Cloud cost estimates for Terraform in pull requests💰📉 Love your cloud bill!)
@@ -2381,7 +2385,7 @@ Contents:
                 https://github.com/ml-tooling/best-of-web-python
                 https://github.com/pamoroso/free-python-books
                 https://github.com/pyenv/pyenv
-                https://github.com/TheAlgorithms/Python/blob/master/DIRECTORY.md
+                https://github.com/TheAlgorithms/Python (All Algorithms implemented in Python )
                 https://github.com/topics/python?o=desc&s=stars
                 https://github.com/tuvtran/project-based-learning#python
                 https://github.com/vinta/awesome-python (A curated list of awesome Python frameworks, libraries, software and resources)
@@ -2464,6 +2468,24 @@ Contents:
 
                 Beej's Guide to C Programming
                 https://beej.us/guide/bgc/html/split/index.html
+
+        C++
+            Sources:
+                https://www.reddit.com/r/learnprogramming/comments/12eaf35/course_like_cs50_to_learn_c (Course like CS50 to learn C++ (self.learnprogramming))
+                https://www.amazon.com/gp/bestsellers/books/9045760011 (Best Sellers in C++ Programming Language)
+
+            Books and Courses:
+                Learn C++
+                https://www.learncpp.com
+
+                C++ Primer (5th Edition) by Stanley B. Lippman (Aug 2012)
+                https://www.amazon.com/Primer-5th-Stanley-B-Lippman/dp/0321714113
+
+                Tour of C++, A (C++ In-Depth Series) 3rd Edition by Bjarne Stroustrup (Sep 2022)
+                https://www.amazon.com/Tour-C-Bjarne-Stroustrup/dp/0136816487
+
+                C++ by The Cherno
+                https://youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb
 
         Java:
             Sources:
@@ -2620,6 +2642,7 @@ Contents:
                 https://github.com/humanloop/awesome-chatgpt (Curated list of awesome tools, demos, docs for ChatGPT and GPT-3 )
                 https://github.com/microsoft/ML-For-Beginners (12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all)
                 https://github.com/OpenMindClub/awesome-chatgpt (⚡ Everything about ChatGPT )
+                https://github.com/SkalskiP/courses (This repository is a curated collection of links to various courses and resources about Artificial Intelligence (AI))
                 https://karpathy.ai/zero-to-hero.html (A course by Andrej Karpathy on building neural networks, from scratch, in code)
                 https://news.ycombinator.com/item?id=12713056 (Ask HN: How to get started with machine learning?)
                 https://news.ycombinator.com/item?id=16493489 (Machine Learning Crash Course)
@@ -2825,6 +2848,9 @@ Contents:
 
                 Troubleshoot and make a sad server happy! "Like LeetCode for Linux" Capture The Flag challenges. Train and prove your debugging skills. Practice for your next SRE/DevOps interview.Get a full remote Linux server with a problem and fix it.
                 https://sadservers.com
+
+                System Design Interview – Step By Step Guide by System Design Interview
+                https://youtu.be/bUHFg8CZFws
 
             Coding Challenge Websites: (Sorted by Alexa Rank):
                 https://leetcode.com (1,515)
@@ -3735,7 +3761,7 @@ Contents:
 
         Design:
             Sources:
-                https://github.com/bradtraversy/design-resources-for-developers
+                https://github.com/bradtraversy/design-resources-for-developers (Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more)
                 https://github.com/LisaDziuba/Awesome-Design-Tools
                 https://github.com/topics/design?o=desc&s=stars
                 https://github.com/topics/frontend?o=desc&s=stars
