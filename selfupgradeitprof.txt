@@ -581,7 +581,8 @@ Contents:
 
             Books and Courses:
                 15-445/645 Intro to Database Systems (Fall 2019) by Andy Pavlo, Carnegie Mellon University
-                https://www.youtube.com/playlist?list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi
+                https://youtube.com/playlist?list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi
+                https://15445.courses.cs.cmu.edu/fall2022/schedule.html
 
                 15-721 Advanced Database Systems (Spring 2020)
                 https://www.youtube.com/playlist?list=PLSE8ODhjZXjasmrEd2_Yi1deeE360zv5O
@@ -610,7 +611,7 @@ Contents:
                 Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems by Martin Kleppmann
                 https://dataintensive.net
                 https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable-ebook/dp/B06XPJML5D
-                https://youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB (MIT 6.824 Distributed Systems (Spring 2020))
+                https://youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB (MIT 6.824 Distributed Systems (Spring 2020) by by Robert Morris)
                 https://youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB (Distributed Systems lecture series)
                 https://github.com/ept/ddia-references (Literature references for “Designing Data-Intensive Applications” by Ept)
 
@@ -2303,6 +2304,7 @@ Contents:
                 https://news.ycombinator.com/item?id=21450126 (Free Online Courses from Top Universities (openculture.com))
                 https://news.ycombinator.com/item?id=25245125 (Ask HN: Top Coursera Courses?)
                 https://news.ycombinator.com/item?id=34591291 (Ask HN: What's the best lecture series you've seen?)
+                https://news.ycombinator.com/item?id=35536042 (Ask HN: What are some of the best university courses available online for free?)
                 https://www.classcentral.com/collection/top-free-online-courses
                 https://www.classcentral.com/starting-this-month
                 https://www.freecodecamp.org/news/best-online-courses
@@ -2795,7 +2797,7 @@ Contents:
                 https://github.com/MaximAbramchuck/awesome-interview-questions
 
                 Coding Interview University
-                https://github.com/jwasham/coding-interview-university
+                https://github.com/jwasham/coding-interview-university (A complete computer science study plan to become a software engineer. )
 
                 Everything you need to prepare for your technical interview
                 https://github.com/andreis/interview
@@ -2993,6 +2995,7 @@ Contents:
                 https://in.indeed.com/career/development-operations-engineer/salaries
                 https://news.ycombinator.com/item?id=19024575 (Ask HN: Highest paying remote companies?)
                 https://news.ycombinator.com/item?id=19280341 (Ask HN: Tools or sites you use to scope out a workplace before taking a job?)
+                https://pll.harvard.edu/course/negotiating-salary (Negotiating Salary by the havard business school)
                 https://www.cloudanix.com/blog/the-devops-jobs-report
                 https://www.dice.com/technologists/ebooks/tech-salary-report (The Dice Tech Salary Report)
                 https://www.glassdoor.co.in/Salaries/india-devops-salary-SRCH_IL.0,5_IN115_KO6,12.htm (Devops Salaries in India)
@@ -3188,6 +3191,7 @@ Contents:
                 https://www.indiainvestments.wiki
                 https://www.indiainvestments.wiki/start-here/zero-to-investing
                 https://www.investopedia.com
+                https://www.livemint.com/insurance/news/mint-beshak-insurance-ratings-11654771446816.html (Mint Beshak Health Insurance Ratings)
                 https://www.reddit.com/r/Economics/wiki/reading
                 https://www.reddit.com/r/IndiaInvestments
                 https://www.visualcapitalist.com/net-worth-to-be-wealthy-in-america-2022 (What Does It Take To Be Wealthy in America?)
@@ -4536,6 +4540,7 @@ Contents:
         https://tldrlegal.com (Software Licenses in Plain English)
         https://twitter.com/search?q=Gone%20Free%20(from%3ASharjeelSayed)
         https://wizardzines.com/comics
+        https://www.howacarworks.com/video-course (Understand everything inside a modern car by by Alex Muir.Automotive Engineering 20 hour Video Course)
         https://www.justwatch.com/in?genres=doc
         https://www.nala.ie/resources/better-handwriting-adults
         https://www.nytimes.com/interactive/2022/science/astronomy-space-calendar.html (New York Times’s space and astronomy calendar)
