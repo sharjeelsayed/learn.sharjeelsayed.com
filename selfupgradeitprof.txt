@@ -1149,6 +1149,7 @@ Contents:
                 https://www.datadoghq.com/container-report (Oct 2021 report on Kubernetes and Docker Usage)
                 https://www.flatcar.org (A community Linux distribution designed for container workloads, with high security and low maintenance)
                 https://www.fyck.io/resources/kubernetes-tools (A curated directory of Kubernetes tools and resources)
+                https://www.kubecost.com (Kubecost provides real-time cost visibility and insights for teams using Kubernetes, helping you continuously reduce your cloud costs.)
                 https://www.learncloudnative.com/blog/2022-05-10-kubectl-tips (Kubernetes CLI (kubectl) tips you didn't know about)
                 https://www.linode.com/content/kubernetes-guide (Understanding Kubernetes A Guide to Modernizing Your Cloud Infrastructure)
                 https://www.nsa.gov/Press-Room/News-Highlights/Article/Article/2716980/nsa-cisa-release-kubernetes-hardening-guidance/utm_source/nsa-cisa-release-kubernetes-hardening-guidance (NSA, CISA release Kubernetes Hardening Guidance)
