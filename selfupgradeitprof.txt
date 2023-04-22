@@ -1,9 +1,6 @@
 Curated Self Study Guide for Computer Science, DevOps, SRE & SysAdmin
 
-    The latest copy of this page is at https://Learn.SharjeelSayed.com
-
-    Star/Watch/Fork at https://github.com/sharjeelsayed/learn.sharjeelsayed.com
-    Track updates to this page via https://github.com/sharjeelsayed/learn.sharjeelsayed.com/commits.atom
+    The latest copy of this page is at https://Learn.SharjeelSayed.com . Star/Watch/Fork at https://github.com/sharjeelsayed/learn.sharjeelsayed.com
 
     About me: SharjeelSayed.com
 
@@ -2737,6 +2734,7 @@ Contents:
                 https://github.com/DopplerHQ/awesome-interview-questions
                 https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes (Full reference of LinkedIn answers 2021 for skill assessments, LinkedIn test, questions and answers (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, css, python, machine-learning, power-point) linkedin excel test lösungen, linkedin machine learning test)
                 https://github.com/kdn251/interviews (Everything you need to know to get the job.)
+                https://github.com/leetcode-mafia/cheetah (Whisper & GPT-based app for passing remote SWE interviews)
                 https://github.com/mxssl/sre-interview-prep-guide (Site Reliability Engineer Interview Preparation Guide)
                 https://github.com/Olshansk/interview (Everything you need to prepare for your technical interview)
                 https://github.com/seanprashad/leetcode-patterns (A curated list of leetcode questions grouped by their common patterns)
