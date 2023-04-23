@@ -557,6 +557,7 @@ Contents:
             Sources:
                 https://architecturenotes.co/things-you-should-know-about-databases (Things You Should Know About Databases)
                 https://awesomedataengineering.com
+                https://build-your-own.org/database ( Build Your Own Database From Scratch . Persistence, Indexing, Concurrency)
                 https://datasetsearch.research.google.com (Dataset Search)
                 https://db-engines.com/en/ranking (DB-Engines Ranking)
                 https://github.com/alexeygrigorev/data-science-interviews (Data science interview questions and answers https://ds-interviews.org)
@@ -1715,13 +1716,14 @@ Contents:
                 https://github.com/okbob/pspg (Unix pager designed for work with tables. Designed for PostgreSQL, but MySQL is supported too. Now it can be used as CSV or TSV viewer. Works well with pgcli too.)
                 https://github.com/topics/postgresql?o=desc&s=stars
                 https://news.ycombinator.com/item?id=23208181 (Ask HN: What PostgreSQL client do you use?)
-                https://pgtune.leopard.in.ua
+                https://pgtune.leopard.in.ua (tuning PostgreSQL config by your hardware)
                 https://postgrespro.com/blog/pgsql/5969985 ( PostgreSQL 14 Internals :A deep dive into the server mechanics)
-                https://postgresqlco.nf
+                https://postgresqlco.nf (Manage YOUR postgresql.conf CONFIGURATIONS)
                 https://roadmap.sh/postgresql-dba (Step by step guide to becoming a modern PostgreSQL DB Administrator in 2022)
                 https://theartofpostgresql.com (The book that teaches SQL to developers: Learn to replace thousands of lines of code with simple queries!)
                 https://tomcam.github.io/postgres (psql command line tutorial and cheat sheet)
                 https://www.crunchydata.com/developers/tutorials (Postgres Playground: Enhance your Postgres skills)
+                https://www.postgresql.org/docs/current/internals.html (PostgreSQL Internals)
                 https://www.timescale.com/blog/state-of-postgresql-2022-13-tools-that-arent-psql (Top Postgresql clients and tools)
                 https://www.udemy.com/topic/postgresql/?ratings=4.5&sort=popularity (Udemy Courses rated 4.5 stars and above)
 
