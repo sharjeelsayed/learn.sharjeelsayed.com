@@ -247,6 +247,7 @@ Contents:
                 https://devurls.com
                 https://docs.google.com/spreadsheets/d/1gIRjeB1Y_AMvtmJsZWl_dNMDJ7lPSIxiVUYyEvrP5P4/htmlview?usp=sharing&sle=true (Popular Programming Podcast episodes)
                 https://exercism.org (Develop fluency in 61 programming languages with our unique blend of learning, practice and mentoring.)
+                https://fintechgtm.substack.com/p/us-fintech-and-payments-crash-course (U.S. Fintech & Payments Crash Course)
                 https://github.com/aceking007/100ProjectsOfCode
                 https://github.com/AlgoryL/Projects-from-Scratch
                 https://github.com/bnb/awesome-developer-streams
@@ -448,6 +449,7 @@ Contents:
                 https://news.ycombinator.com/item?id=20048205 (Mathematics all-in-one cheat-sheet (2013) [pdf])
                 https://news.ycombinator.com/item?id=21346272 (Ask HN: Are there books for mathematics like Feynman's lectures on physics?)
                 https://news.ycombinator.com/item?id=23711942 (Ask HN: Recommend a maths book for a teenager?)
+                https://www.3blue1brown.com (Animated math)
                 https://www.reddit.com/r/learnprogramming/comments/70rh9q/is_there_a_cs50_for_math
                 https://www.susanrigetti.com/math (So You Want to Study Mathematics)
                 https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw (3Blue1Brown Channel)
@@ -1235,6 +1237,7 @@ Contents:
                 https://ravikirans.com/cks-kubernetes-security-exam-study-guide
                 https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka
                 https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad
+                https://www.amazon.com/Certified-Kubernetes-Administrator-Study-Depth/dp/1098107225 (Certified Kubernetes Administrator (CKA) Study Guide In-Depth Guidance and Practice 1st Edition 2022 by Benjamin Muschko)
                 https://www.cncf.io/certification/training
                 https://www.reddit.com/r/kubernetes/comments/r4q1ec/ckad_free_materials (CKAD - free materials)
 
@@ -3134,6 +3137,7 @@ Contents:
                 https://www.amazon.Com/Gp/Bestsellers/Books/2569 (Amazon Best Sellers In Time Management)
                 https://www.indiehackers.Com
                 https://www.reddit.Com/r/cscareerquestions/comments/6fnujy/Soft_skills_for_programmers
+                https://youtu.be/NViqHCrljf8 (The Briefcase Technique by Ramit Sethi .Money Negotiation technique)
 
             Books and Courses:
                 The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change
