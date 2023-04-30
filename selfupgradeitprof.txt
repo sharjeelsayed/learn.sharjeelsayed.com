@@ -490,12 +490,13 @@ Contents:
                 Modern Operating Systems , 4th Edition
                 https://www.amazon.com/dp/013359162X
 
-        Networking :
+        Networking:
             Sources:
                 https://github.com/gchq/CyberChef (The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis)
                 https://github.com/kffl/speedbump (TCP proxy for simulating variable, yet predictable network latency 🌐⏳)
                 https://github.com/mininet/mininet/wiki/Teaching-and-Learning-with-Mininet
                 https://github.com/saminiir/level-ip
+                https://lucb1e.com/randomprojects/php/funnip.php (list of all the ways (and notation combinations) you can make with your IP address)
                 https://news.ycombinator.com/item?id=13983212 (Beej's Guide to Network Programming)
                 https://news.ycombinator.com/item?id=14701199 (Let's Code a TCP/IP Stack: TCP Retransmission (saminiir.com))
                 https://siliconsprawl.com/2020/05/10/network-programming-self-study.html
@@ -3031,6 +3032,7 @@ Contents:
                 https://news.ycombinator.com/item?id=32606348 (Ask HN: Contractors, what is your hourly rate?)
                 https://news.ycombinator.com/item?id=32701641 (	Ask HN: Generalist contractors, what is your hourly rate?)
                 https://news.ycombinator.com/item?id=32837800 (Ask HN: Where are the good platforms for contract work?)
+                https://seths.blog/2015/04/the-freelancer-course-is-here (Seth Godin's Freelancer Course https://www.udemy.com/course/seth-godin-freelancer-course)
                 https://www.reddit.com/r/Accounting+Entrepreneur+business+finance+marketing+motivation+smallbusiness+socialmedia+startups
                 https://www.reddit.com/r/beermoney (a community for people to discuss mostly online money-making opportunities. You shouldn't expect to make a living, but it is possible to make extra cash on the side for your habits/needs)
                 https://www.reddit.com/r/Upwork+forhire+freelance
