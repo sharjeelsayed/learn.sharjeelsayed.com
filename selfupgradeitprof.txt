@@ -851,7 +851,8 @@ Contents:
                 https://github.com/anordal/shellharden/blob/master/how_to_do_things_safely_in_bash.md (Safe ways to do things in bash)
                 https://github.com/Bash-it/bash-it (Bash-it is a collection of community Bash commands and scripts for Bash 3.2+.)
                 https://github.com/cheat/cheat (cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not frequently enough to remember.)
-                https://github.com/dylanaraps/pure-bash-bible
+                https://github.com/dylanaraps/pure-bash-bible (📖 A collection of pure bash alternatives to external processes.)
+                https://github.com/dylanaraps/pure-sh-bible (📖 A collection of pure POSIX sh alternatives to external processes.)
                 https://github.com/gleitz/howdoi (instant coding answers via the command line)
                 https://github.com/ibraheemdev/modern-unix (A collection of modern/faster/saner alternatives or complements to common unix commands.)
                 https://github.com/jlevy/the-art-of-command-line (Master the command line, in one page)
@@ -2402,6 +2403,7 @@ Contents:
                 https://pybit.es/python-resources.html
                 https://pythonbooks.org
                 https://realpython.com/courses/python-boto3-aws-s3
+                https://www.cosmicpython.com https://www.amazon.com/Architecture-Patterns-Python-Domain-Driven-Microservices/dp/1492052205 (Architecture Patterns with Python: Enabling Test-Driven Development, Domain-Driven Design, and Event-Driven Microservices)
                 https://www.jetbrains.com/lp/python-developers-survey-2019
                 https://www.reddit.com/r/learnprogramming/comments/6bxdut/python_for_beginners_complete_series
                 https://www.reddit.com/r/learnprogramming/wiki/online#wiki_python
@@ -2496,6 +2498,7 @@ Contents:
         Java:
             Sources:
                 https://github.com/akullpp/awesome-java
+                https://github.com/iluwatar/java-design-patterns (Design patterns implemented in Java)
                 https://github.com/topics/java?o=desc&s=stars
                 https://www.reddit.com/r/learnprogramming/wiki/online#wiki_java
 
@@ -2644,6 +2647,7 @@ Contents:
         AI and Machine Learning:
             Sources:
                 https://blog.floydhub.com/best-deep-learning-courses-updated-for-2019
+                https://fleuret.org/public/lbdl.pdf (The Little Book of Deep Learning by François Fleuret)
                 https://github.com/ai-collection/ai-collection ( The Generative AI Landscape - A List of Awesome Generative AI Applications Topics)
                 https://github.com/humanloop/awesome-chatgpt (Curated list of awesome tools, demos, docs for ChatGPT and GPT-3 )
                 https://github.com/microsoft/ML-For-Beginners (12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all)
