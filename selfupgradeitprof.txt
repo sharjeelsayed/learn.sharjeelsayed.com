@@ -3396,7 +3396,7 @@ Contents:
                 https://fivebooks.com (The best books on everything)
                 https://github.com/laxyapahuja/bunken (A chrome extension to download ebooks directly from Goodreads.)
                 https://hacker-recommended-books.vercel.app (40,000 HackerNews book recommendations identified using NLP and deep learning)
-                https://hackernewsbooks.com
+                https://hackernewsbooks.com (The Best Books Mentioned On Hacker News This Week )
                 https://hn.algolia.com/?query=books&sort=byPopularity&prefix&page=0&dateRange=all&type=story
                 https://mapfilterfold.com (Meta Recommendations from HN)
                 https://news.ycombinator.com/item?id=13803787 (Ask HN: What books fundamentally changed the way you think about the world?)
@@ -3432,14 +3432,14 @@ Contents:
                 https://news.ycombinator.com/item?id=29462663 (	Ask HN: What are some must read books?)
                 https://news.ycombinator.com/item?id=30241190 (Ask HN: What is one book you would recommend everyone to read?)
                 https://news.ycombinator.com/item?id=33797862 (Ask HN: Which books have made you a better thinker and problem solver?)
-                https://opentrackers.org/downloading-ebooks-textbooks
-                https://ramiro.org/vis/hn-most-linked-books
-                https://redditfavorites.com/books
+                https://opentrackers.org/downloading-ebooks-textbooks (A guide to help people find ebooks & textbooks)
+                https://ramiro.org/vis/hn-most-linked-books (Top 30 books ranked by total number of links to Amazon in Hacker News comments)
+                https://redditfavorites.com/books (What are Reddit's favorite books? From 3.5 billion Reddit comments)
                 https://shepherd.com (8,000+ authors have shared five of their favorite books around a topic, theme, or mood.)
                 https://wiki.mobileread.com/wiki/EBook_Lending_Libraries
                 https://www.amazon.com/b/?node=8192263011 (100 Books to Read in a Lifetime)
                 https://www.amazon.com/best-sellers-books-Amazon/zgbs/books
-                https://www.amazon.com/charts
+                https://www.amazon.com/charts (The Top 20 Most Sold & Most Read Books of the Week)
                 https://www.amazon.com/gp/bestsellers/2020/books
                 https://www.goodreads.com/list
                 https://www.nytimes.com/interactive/2021/12/28/books/best-book-winners.html (What’s the Best Book of the Past 125 Years?)
@@ -3453,6 +3453,7 @@ Contents:
                 https://www.reddit.com/r/FreeEBOOKS+KindleFreebies
                 https://www.reddit.com/r/Piracy/comments/oreyow/heres_the_definitive_list_of_sites_for_ebooks_and
                 https://yahnd.com/books (The Best Books of Hacker News)
+                https://www.reddit.com/r/suggestmeabook (a sub where you can find new books based on suggestions from the community)
                 https://pinboard.in/u:SharjeelSayed/t:course
                 https://pinboard.in/u:SharjeelSayed/t:ebooks
                 https://pinboard.in/u:SharjeelSayed/t:learn
