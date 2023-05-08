@@ -853,6 +853,7 @@ Contents:
                 https://github.com/cheat/cheat (cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not frequently enough to remember.)
                 https://github.com/dylanaraps/pure-bash-bible (📖 A collection of pure bash alternatives to external processes.)
                 https://github.com/dylanaraps/pure-sh-bible (📖 A collection of pure POSIX sh alternatives to external processes.)
+                https://github.com/ellie/atuin (🐢 Magical shell history)
                 https://github.com/gleitz/howdoi (instant coding answers via the command line)
                 https://github.com/ibraheemdev/modern-unix (A collection of modern/faster/saner alternatives or complements to common unix commands.)
                 https://github.com/jlevy/the-art-of-command-line (Master the command line, in one page)
@@ -2137,6 +2138,7 @@ Contents:
                 https://dotfilehub.com
                 https://draculatheme.com (A dark theme)
                 https://ghuntley.com/anywhere (Reflections on software development from anywhere on an iPad)
+                https://gist.github.com/kconner/cff08fe3e0bb857ea33b47d965b3e19f (macOS Internals)
                 https://gist.github.com/nmcc/4e8ead6c380d8331fedd04e1aa41d351 (Install Consolas font on Mac)
                 https://git.herrbischoff.com/awesome-macos-command-line/about (A curated list of shell commands and tools specific to macOS)
                 https://github.com/agarrharr/awesome-macos-screensavers (A curated list of screensavers for Mac OS X)
@@ -2290,7 +2292,6 @@ Contents:
                 https://github.com/merry75/educative.io_courses
                 https://github.com/r0oth3x49/udemy-dl (A cross-platform python based utility to download courses from udemy for personal offline use)
                 https://github.com/sindresorhus/awesome (😎 Awesome lists about all kinds of interesting topics)
-                https://github.com/yt-dlp/yt-dlp (A youtube-dl fork with additional features and fixes)
                 https://hackr.io
                 https://hourups.com (171 hand-picked crash courses from the best instructors on YouTube)
                 https://lbry.com/news/20000-illegal-college-lectures-rescued
@@ -4244,16 +4245,23 @@ Contents:
             Sources:
                 http://gaul.org/object-store-comparison
                 https://clonezilla.org
-                https://cryptomator.org
+                https://cryptomator.org (ryptomator encrypts your data quickly and easily. Afterwards you upload them protected to your favorite cloud service)
                 https://db.tt/YL0e12GN (Dropbox 500 MB of bonus space)
+                https://github.com/aliparlakci/bulk-downloader-for-reddit (Downloads and archives content from reddit)
                 https://github.com/gilbertchen/benchmarking
                 https://github.com/gilbertchen/cloud-storage-comparison
                 https://github.com/gilbertchen/duplicacy
+                https://github.com/instaloader/instaloader (Download pictures (or videos) along with their captions and other metadata from Instagram.)
                 https://github.com/jbruchon/jdupes
+                https://github.com/KurtBestor/Hitomi-Downloader (🍰 Desktop utility to download images/videos/music/text from various websites, and more.)
                 https://github.com/restic/others
                 https://github.com/schollz/croc (Easily and securely send things from one computer to another 🐊 📦)
+                https://github.com/shadowmoose/RedditDownloader (Scrapes Reddit to download media of your choice.)
                 https://github.com/simon987/awesome-datahoarding
                 https://github.com/topics/backup?o=desc&s=stars
+                https://github.com/widevinedump (Tools to Download Netflix / Disney / Apple TV Content)
+                https://github.com/yt-dlp/yt-dlp (A youtube-dl fork with additional features and fixes)
+                https://indownloader.com/download-instagram-profile (Download Instagram Profile picture , instagram profile viewer high quality HD , 1080)
                 https://mega.nz/C!vuhRiKpB (Mega.nz Extra Storage)
                 https://news.ycombinator.com/item?id=17603348 (Ask HN: How do you backup your files without depending on a third party service?)
                 https://news.ycombinator.com/item?id=18692844 (Ask HN: Best Centralized Backup Solution)
@@ -4266,7 +4274,7 @@ Contents:
                 https://szymonkrajewski.pl/synchronize-local-files-cryptomator-vault
                 https://www.backblaze.com/b2/cloud-storage-pricing.html
                 https://www.reddit.com/r/DataHoarder/comments/axvxwl/anything_cheaper_than_backblaze_b2
-                https://www.tarsnap.com
+                https://www.tarsnap.com (Online backups for the truly paranoid)
 
             Tools:
                 Restic
@@ -4506,7 +4514,6 @@ Contents:
         https://en.wikipedia.org/wiki/List_of_lists_of_lists
         https://en.wikipedia.org/wiki/Wikipedia:Vital_articles
         https://freenode.net
-        https://github.com/aliparlakci/bulk-downloader-for-reddit (Downloads and archives content from reddit)
         https://github.com/antontarasenko/smq/blob/master/reports/hackernews-links-in-comments.md (Most mentioned links in Hacker News comments, 2006–2015)
         https://github.com/chubin/awesome-console-services (A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols))
         https://github.com/girliemac/a-picture-is-worth-a-1000-words (I am trying to describe complex matters in simple doodles!)
@@ -4516,12 +4523,10 @@ Contents:
         https://github.com/mendel5/alternative-front-ends (Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.))
         https://github.com/rsapkf/42 (This is an ongoing personal collection of over 5000+ sites and resources that I use or have used in the past to learn programming, puzzle-solving, web development and other intellectually stimulating things, categorized (more or less))
         https://github.com/RunaCapital/awesome-oss-alternatives (Awesome list of open-source startup alternatives to well-known SaaS products)
-        https://github.com/shadowmoose/RedditDownloader (Scrapes Reddit to download media of your choice.)
         https://github.com/TheLocehiliosan/yadm (Yet Another Dotfiles Manager)
-        https://github.com/topics/awesome
+        https://github.com/topics/awesome (Awesome Lists)
         https://github.com/topics/dotfiles?o=desc&s=stars
         https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday (Awesome deals on Black Friday: Apps, SaaS, Books, Courses, etc.)
-        https://github.com/widevinedump (Tools to Download Netflix / Disney / Apple TV Content)
         https://hackerspaces.org (Hackerspaces are community-operated physical places, where people share their interest in tinkering with technology, meet and work on their projects, and learn from each other)
         https://learn-anything.xyz
         https://looria.com/reddit/overview (Reddit's Favorite Products in One Place)
@@ -4555,7 +4560,7 @@ Contents:
         https://www.justwatch.com/in?genres=doc
         https://www.nala.ie/resources/better-handwriting-adults
         https://www.nytimes.com/interactive/2022/science/astronomy-space-calendar.html (New York Times’s space and astronomy calendar)
-        https://www.producthunt.com
+        https://www.producthunt.com (The place to launch and discover new tech products)
         https://www.reddit.com/r/AskReddit/comments/4q91g9/what_free_things_online_should_everyone_take/d4r8foy
         https://www.reddit.com/r/AskReddit/comments/6k0p7l/what_are_the_best_free_online_certificates_you
         https://www.reddit.com/r/AskReddit/comments/6q2b8x/reddit_whats_become_clear_to_you_as_youve_gotten
