@@ -12,6 +12,7 @@ Contents:
         Mathematics for Computer Science
         Operating Systems Concepts
         Networking
+        DNS
         Data Engineering
         Electronics
     DevOps/SRE/SysAdmin:
@@ -502,11 +503,13 @@ Contents:
                 https://siliconsprawl.com/2020/05/10/network-programming-self-study.html
                 https://www.davidc.net/sites/default/subnets/subnets.html (Visual Subnet Calculator)
                 https://www.jeremysitlab.com/ccna-resources
+
                 https://www.reddit.com/r/ccna/wiki
                 https://www.reddit.com/r/ccna/wiki/faqs/materials
                 https://www.reddit.com/r/networking/comments/125oiyo/how_are_large_tech_companies_scaling_their_data (How are large tech companies scaling their Data Centers?)
                 https://www.reddit.com/r/networking/wiki
                 https://www.reddit.com/r/sysadmin/comments/4ux166/do_you_know_a_site_to_learn_more_about_networking
+
 
             Books and Courses:
                 The Bits and Bytes of Computer Networking -Grow with Google
@@ -555,6 +558,12 @@ Contents:
 
                 Professor Messer - Seven Second Subnetting
                 https://youtu.be/ZxAwQB8TZsM
+
+        DNS:
+            Sources:
+                https://cr.yp.to/djbdns.html (D. J. Bernstein's DNS software)
+                https://www.nslookup.io/learning (DNS concepts)
+                https://youtu.be/tsxjNsFu_2g (RubyConf Mini 2022: Keynote: Learning DNS by Julia Evans)
 
         Data Engineering:
             Sources:
@@ -2134,7 +2143,7 @@ Contents:
                 https://defkey.com/apple-macos-shortcuts
                 https://dev.to/wes/how2-using-gpg-on-macos-without-gpgtools-428f
                 https://discord.gg/apple (Discord server for /r/Apple)
-                https://docs.google.com/spreadsheets/d/1JqyglRJXzxaj8OcQw9jHabxFUdsv9iWJXMPXcL7On0M/edit#gid=1036735176 (Definitive App Comparisons)
+                https://docs.google.com/spreadsheets/d/1JqyglRJXzxaj8OcQw9jHabxFUdsv9iWJXMPXcL7On0M (Definitive App Comparisons)
                 https://doesitarm.com ( Apps that are reported to support Apple Silicon)
                 https://dotfilehub.com
                 https://draculatheme.com (A dark theme)
@@ -2175,6 +2184,7 @@ Contents:
                 https://thesweetsetup.com/picks
                 https://universvm.medium.com/20-macos-apps-to-boost-your-productivity-74accb372c9c
                 https://www.applegamingwiki.com/wiki/M1_compatible_games_master_list (M1 compatible games master list)
+                https://www.darlinghq.org (Darling is a translation layer that lets you run macOS software on Linux)
                 https://www.oss.wiki (ollection of must-have open-sourced apps for Mac)
                 https://www.reddit.com/r/apple+mac+macapps
                 https://youtu.be/H3hUk0zsxc4 (How To Use Multiple Desktops On Your Mac by macmostvideo)
