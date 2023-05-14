@@ -628,6 +628,7 @@ Contents:
         Electronics:
             Sources:
                 https://electroagenda.com/en/a-summary-of-electronics
+                https://learningtheartofelectronics.com (Learning the Art of Electronics A Hands-On Lab Course)
                 https://news.ycombinator.com/item?id=16775744 (Ask HN: How to self-learn electronics?)
                 https://news.ycombinator.com/item?id=16920476 (Ask HN: Where did you learn modular electronics?)
                 https://news.ycombinator.com/item?id=20126760 (Open Source Electronics Lab for $30 (github.com))
@@ -2021,6 +2022,7 @@ Contents:
                 https://github.com/hysnsec/awesome-policy-as-code (A curated list of policy-as-code resources like blogs, videos, and tools to practice on for learning Policy-as-Code.)
                 https://github.com/iacsecurity/tool-compare (infrastructure-as-code security tools comparison)
                 https://github.com/Igglybuff/awesome-piracy (A curated list of awesome warez and piracy links)
+                https://github.com/iknowjason/Awesome-CloudSec-Labs (Awesome free cloud native security learning labs. Includes CTF, self-hosted workshops, guided vulnerability labs, and research labs.)
                 https://github.com/infobyte/faraday (Open Source Vulnerability Management Platform)
                 https://github.com/instadoodledavid/Infosec-Deals-2020
                 https://github.com/jassics/security-study-plan (Complete Practical Study Plan to become a successful cybersecurity engineer based on roles like Pentest, AppSec, Cloud Security, DevSecOps and so on...)
@@ -2661,6 +2663,7 @@ Contents:
                 https://blog.floydhub.com/best-deep-learning-courses-updated-for-2019
                 https://fleuret.org/public/lbdl.pdf (The Little Book of Deep Learning by François Fleuret)
                 https://github.com/ai-collection/ai-collection ( The Generative AI Landscape - A List of Awesome Generative AI Applications Topics)
+                https://github.com/eugeneyan/open-llms (🤖 A list of open LLMs available for commercial use.)
                 https://github.com/humanloop/awesome-chatgpt (Curated list of awesome tools, demos, docs for ChatGPT and GPT-3 )
                 https://github.com/microsoft/ML-For-Beginners (12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all)
                 https://github.com/OpenMindClub/awesome-chatgpt (⚡ Everything about ChatGPT )
@@ -3075,6 +3078,7 @@ Contents:
                 https://www.a.team (180,282)
                 https://upstack.co (262,042)
                 https://gigster.com (279,501)
+                https://www.freelanced.com (1,263,880 SW)
                 https://calladev.com (2,729,529)
 
         Management:
@@ -3442,6 +3446,7 @@ Contents:
                 https://news.ycombinator.com/item?id=29462663 (	Ask HN: What are some must read books?)
                 https://news.ycombinator.com/item?id=30241190 (Ask HN: What is one book you would recommend everyone to read?)
                 https://news.ycombinator.com/item?id=33797862 (Ask HN: Which books have made you a better thinker and problem solver?)
+                https://news.ycombinator.com/item?id=35929112 (Ask HN: What are the most eye-opening textbooks you have ever read?)
                 https://opentrackers.org/downloading-ebooks-textbooks (A guide to help people find ebooks & textbooks)
                 https://ramiro.org/vis/hn-most-linked-books (Top 30 books ranked by total number of links to Amazon in Hacker News comments)
                 https://redditfavorites.com/books (What are Reddit's favorite books? From 3.5 billion Reddit comments)
@@ -3462,8 +3467,8 @@ Contents:
                 https://www.reddit.com/r/freeEBOOKS/wiki/febooks
                 https://www.reddit.com/r/FreeEBOOKS+KindleFreebies
                 https://www.reddit.com/r/Piracy/comments/oreyow/heres_the_definitive_list_of_sites_for_ebooks_and
-                https://yahnd.com/books (The Best Books of Hacker News)
                 https://www.reddit.com/r/suggestmeabook (a sub where you can find new books based on suggestions from the community)
+                https://yahnd.com/books (The Best Books of Hacker News)
                 https://pinboard.in/u:SharjeelSayed/t:course
                 https://pinboard.in/u:SharjeelSayed/t:ebooks
                 https://pinboard.in/u:SharjeelSayed/t:learn
@@ -4265,7 +4270,8 @@ Contents:
                 https://github.com/instaloader/instaloader (Download pictures (or videos) along with their captions and other metadata from Instagram.)
                 https://github.com/jbruchon/jdupes
                 https://github.com/KurtBestor/Hitomi-Downloader (🍰 Desktop utility to download images/videos/music/text from various websites, and more.)
-                https://github.com/restic/others
+                https://github.com/mikf/gallery-dl (Command-line program to download image galleries and collections from several image hosting sites)
+                https://github.com/restic/others (Exhaustive list of backup solutions for Linux)
                 https://github.com/schollz/croc (Easily and securely send things from one computer to another 🐊 📦)
                 https://github.com/shadowmoose/RedditDownloader (Scrapes Reddit to download media of your choice.)
                 https://github.com/simon987/awesome-datahoarding
