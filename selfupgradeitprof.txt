@@ -567,26 +567,27 @@ Contents:
 
         Data Engineering:
             Sources:
-                https://architecturenotes.co/things-you-should-know-about-databases (Things You Should Know About Databases)
-                https://awesomedataengineering.com
-                https://build-your-own.org/database ( Build Your Own Database From Scratch . Persistence, Indexing, Concurrency)
-                https://datasetsearch.research.google.com (Dataset Search)
-                https://db-engines.com/en/ranking (DB-Engines Ranking)
-                https://github.com/alexeygrigorev/data-science-interviews (Data science interview questions and answers https://ds-interviews.org)
-                https://github.com/binhnguyennus/awesome-scalability ( The Patterns of Scalable, Reliable, and Performant Large-Scale Systems Topics)
-                https://github.com/DataTalksClub/data-engineering-zoomcamp (Free Data Engineering course!)
-                https://github.com/huachaohuang/awesome-dbdev (Awesome materials about database development.)
-                https://github.com/karanpratapsingh/system-design (Learn how to design systems at scale and prepare for system design interviews)
-                https://github.com/microsoft/Data-Science-For-Beginners (Data Science for Beginners - A Curriculum . 10 Weeks, 20 Lessons, Data Science for All! https://microsoft.github.io/Data-Science-For-Beginners)
-                https://github.com/pingcap/awesome-database-learning (A list of learning materials to understand databases internals)
-                https://news.ycombinator.com/item?id=13417326 (Ask HN: What is the best online resource to learn advanced SQL?)
-                https://news.ycombinator.com/item?id=21793270 (Database Internals (databass.dev))
-                https://news.ycombinator.com/item?id=23138297 (Advanced SQL and database books and resources (neilwithdata.com))
-                https://news.ycombinator.com/item?id=24762734 (Ask HN: What are good resources to learn system design?)
-                https://news.ycombinator.com/item?id=25987664 (Ask HN: Recommended books and papers on distributed systems?)
-                https://ottertune.com/blog/2021-databases-retrospective (Databases in 2021: A Year in Review)
-                https://redis.com/blog/datasets-for-test-databases (Groovy Datasets for Test Databases)
-                https://www.reddit.com/r/Database
+                HTTPS://ARCHITECTURENOTES.CO/THINGS-YOU-SHOULD-KNOW-ABOUT-DATABASES (THINGS YOU SHOULD KNOW ABOUT DATABASES)
+                HTTPS://AWESOMEDATAENGINEERING.COM
+                HTTPS://BUILD-YOUR-OWN.ORG/DATABASE ( BUILD YOUR OWN DATABASE FROM SCRATCH . PERSISTENCE, INDEXING, CONCURRENCY)
+                HTTPS://DATASETSEARCH.RESEARCH.GOOGLE.COM (DATASET SEARCH)
+                HTTPS://DB-ENGINES.COM/EN/RANKING (DB-ENGINES RANKING)
+                HTTPS://GITHUB.COM/ALEXEYGRIGOREV/DATA-SCIENCE-INTERVIEWS (DATA SCIENCE INTERVIEW QUESTIONS AND ANSWERS HTTPS://DS-INTERVIEWS.ORG)
+                HTTPS://GITHUB.COM/BINHNGUYENNUS/AWESOME-SCALABILITY ( THE PATTERNS OF SCALABLE, RELIABLE, AND PERFORMANT LARGE-SCALE SYSTEMS TOPICS)
+                HTTPS://GITHUB.COM/DATATALKSCLUB/DATA-ENGINEERING-ZOOMCAMP (FREE DATA ENGINEERING COURSE!)
+                HTTPS://GITHUB.COM/HUACHAOHUANG/AWESOME-DBDEV (AWESOME MATERIALS ABOUT DATABASE DEVELOPMENT.)
+                HTTPS://GITHUB.COM/KARANPRATAPSINGH/SYSTEM-DESIGN (LEARN HOW TO DESIGN SYSTEMS AT SCALE AND PREPARE FOR SYSTEM DESIGN INTERVIEWS)
+                HTTPS://GITHUB.COM/MICROSOFT/DATA-SCIENCE-FOR-BEGINNERS (DATA SCIENCE FOR BEGINNERS - A CURRICULUM . 10 WEEKS, 20 LESSONS, DATA SCIENCE FOR ALL! HTTPS://MICROSOFT.GITHUB.IO/DATA-SCIENCE-FOR-BEGINNERS)
+                HTTPS://GITHUB.COM/PINGCAP/AWESOME-DATABASE-LEARNING (A LIST OF LEARNING MATERIALS TO UNDERSTAND DATABASES INTERNALS)
+                HTTPS://NEWS.YCOMBINATOR.COM/ITEM?ID=13417326 (ASK HN: WHAT IS THE BEST ONLINE RESOURCE TO LEARN ADVANCED SQL?)
+                HTTPS://NEWS.YCOMBINATOR.COM/ITEM?ID=21793270 (DATABASE INTERNALS (DATABASS.DEV))
+                HTTPS://NEWS.YCOMBINATOR.COM/ITEM?ID=23138297 (ADVANCED SQL AND DATABASE BOOKS AND RESOURCES (NEILWITHDATA.COM))
+                HTTPS://NEWS.YCOMBINATOR.COM/ITEM?ID=24762734 (ASK HN: WHAT ARE GOOD RESOURCES TO LEARN SYSTEM DESIGN?)
+                HTTPS://NEWS.YCOMBINATOR.COM/ITEM?ID=25987664 (ASK HN: RECOMMENDED BOOKS AND PAPERS ON DISTRIBUTED SYSTEMS?)
+                HTTPS://OTTERTUNE.COM/BLOG/2021-DATABASES-RETROSPECTIVE (DATABASES IN 2021: A YEAR IN REVIEW)
+                HTTPS://REDIS.COM/BLOG/DATASETS-FOR-TEST-DATABASES (GROOVY DATASETS FOR TEST DATABASES)
+                HTTPS://WWW.REDDIT.COM/R/DATABASE
+                HTTPS://SP23.DATASTRUCTUR.ES (CS 61B DATA STRUCTURES, SPRING 2023)
                 https://pinboard.in/u:SharjeelSayed/t:db
 
             Books and Courses:
@@ -767,7 +768,7 @@ Contents:
                 https://github.com/0xAX/linux-insides
                 https://github.com/canonical/multipass (Multipass orchestrates virtual Ubuntu instances)
                 https://github.com/ibraheemdev/modern-unix (A collection of modern/faster/saner alternatives or complements to common unix commands.)
-                https://github.com/imthenachoman/How-To-Secure-A-Linux-Server
+                https://github.com/imthenachoman/How-To-Secure-A-Linux-Server (An evolving how-to guide for securing a Linux server.)
                 https://github.com/inputsh/awesome-linux
                 https://github.com/luong-komorebi/Awesome-Linux-Software
                 https://github.com/r-darwish/topgrade (Upgrade everything)
@@ -775,6 +776,7 @@ Contents:
                 https://github.com/topics/lamp?o=desc&s=stars
                 https://github.com/topics/linux?o=desc&s=stars
                 https://github.com/trimstray/the-practical-linux-hardening-guide
+                https://github.com/Xfennec/progress (Linux tool to show progress for cp, mv, dd, ... (formerly known as cv) )
                 https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools (A list of new(ish) command line tools)
                 https://linuxcommandlibrary.com
                 https://news.ycombinator.com/item?id=22564665 (Linux Kernel Teaching (linux-kernel-labs.github.io))
@@ -918,13 +920,13 @@ Contents:
                 https://github.com/topics/tunnel?o=desc&s=stars
                 https://github.com/yarrick/iodine (tunnel IPv4 data through a DNS server)
                 https://goteleport.com/blog/security-hardening-ssh-bastion-best-practices (SSH Bastion Host Best Practices)
+                https://iq.thc.org/tunnel-via-cloudflare-to-any-tcp-service (Tunnel via Cloudflare to any TCP Service)
                 https://news.ycombinator.com/item?id=10726158 (Poor man's VPN via ssh socks proxy (redpill-linpro.com))
                 https://news.ycombinator.com/item?id=26053323 (	A visual guide to SSH tunnels (robotmoon.com))
                 https://news.ycombinator.com/item?id=32486031 (SSH tips and tricks (carlosbecker.dev))
                 https://susam.in/blog/file-transfer-with-ssh-tee-and-base64.html (File Transfer with SSH, Tee, and Base64)
                 https://unix.stackexchange.com/a/118650/289353 (How does reverse SSH tunneling work?)
                 https://unix.stackexchange.com/a/2869/187607 (Download or Upload files using SSH)
-
 
             Tools:
                 https://github.com/anderspitman/awesome-tunneling (List of ngrok alternatives and other ngrok-like tunneling software and services. Focus on self-hosting)
@@ -945,6 +947,7 @@ Contents:
                 https://www.byobu.org (Byobu is a GPLv3 open source text-based window manager and terminal multiplexer.)
                 https://www.commandlinefu.com/commands/matching/tmux/dG11eA==/sort-by-votes
                 https://www.iterm2.com/documentation-tmux-integration.html
+                https://www.stationx.net/tmux-cheat-sheet (Tmux Cheat Sheet: Essential Commands And Quick References)
                 https://xai.sh/2020/10/16/Move-running-process-into-tmux-session.html (Move a running process into a tmux session)
                 https://pinboard.in/u:SharjeelSayed/t:tmux
 
@@ -1341,6 +1344,7 @@ Contents:
                 https://aws.amazon.com/blogs/architecture/top-10-architecture-blog-posts-of-2021 (Top 10 Architecture Blog Posts of 2021)
                 https://aws.amazon.com/builders-library (The Amazon Builders' Library: How Amazon builds and operates software )
                 https://aws.amazon.com/training/digital/aws-security-fundamentals (AWS Security Fundamentals (Second Edition))
+                https://awsnotes.dendron.so (Gotchas, Caveats, and Limits Across All Services.The doc is autogenerated from parsing the official AWS docs)
                 https://awsstash.com (A collection of AWS related videos, podcasts, code repositories, whitepapers, and feature releases, all in a single, easy to search interface.)
                 https://awstip.com/how-to-list-all-resources-in-your-aws-account-c3f18061f71b (How to list all resources in your AWS account)
                 https://awsvideocatalog.com (AWS Video Catalog is a website that collects all the official Amazon videos)
@@ -1447,6 +1451,7 @@ Contents:
                 https://www.aws.training (The only set of training programs and offerings built by the experts at AWS.)
                 https://www.awsgeek.com (Cloud Diagrams & Notes)
                 https://www.examtopics.com/exams/amazon
+                https://www.reddit.com/r/AWSCertifications/comments/11yccgh/aws_exam_vouchers_discounts_or_other_related (AWS Exam Vouchers / Discounts or other related Promotions)
                 https://www.reddit.com/r/AWSCertifications/comments/pcj2nk/free_learning_resources_needed_for_aws_solutions/haje9xi (Free Learning Resources needed for "AWS Solutions Architect Associate" exam)
                 https://www.reddit.com/r/AWSCertifications/comments/uqnn53/ive_heard_the_recommendation_here_to_go_saa_sap/i8sbnj5 (If you REALLY want to get devops with minimal study you should do Dev Asso -> Sysops Asso. -> Devops Pro)
                 https://www.reddit.com/r/AWSCertifications/search/?q=course&restrict_sr=on&t=year (This subreddit focuses solely on AWS Certifications.)
@@ -2023,6 +2028,7 @@ Contents:
                 https://github.com/iacsecurity/tool-compare (infrastructure-as-code security tools comparison)
                 https://github.com/Igglybuff/awesome-piracy (A curated list of awesome warez and piracy links)
                 https://github.com/iknowjason/Awesome-CloudSec-Labs (Awesome free cloud native security learning labs. Includes CTF, self-hosted workshops, guided vulnerability labs, and research labs.)
+                https://github.com/imthenachoman/How-To-Secure-A-Linux-Server (An evolving how-to guide for securing a Linux server.)
                 https://github.com/infobyte/faraday (Open Source Vulnerability Management Platform)
                 https://github.com/instadoodledavid/Infosec-Deals-2020
                 https://github.com/jassics/security-study-plan (Complete Practical Study Plan to become a successful cybersecurity engineer based on roles like Pentest, AppSec, Cloud Security, DevSecOps and so on...)
@@ -2557,6 +2563,7 @@ Contents:
             Books and Courses:
                 freeCodeCamp
                 https://www.freecodecamp.com
+                https://github.com/freeCodeCamp/freeCodeCamp
 
                 The Odin Project (Full Stack JavaScript and Full Stack Ruby on Rails for Free)
                 https://www.theodinproject.com
@@ -2572,6 +2579,7 @@ Contents:
 
         JavaScript:
             Sources:
+                https://github.com/airbnb/javascript (avaScript Style Guide )
                 https://github.com/developer-resources/frontend-development
                 https://github.com/getify/You-Dont-Know-JS
                 https://github.com/ryanmcdermott/clean-code-javascript (Clean Code concepts adapted for JavaScript)
@@ -2695,6 +2703,8 @@ Contents:
             Visual Studio Code:
                 Sources:
                     https://code.visualstudio.com/docs/editor/github
+                    https://datagubbe.se/vsc (Sane Visual Studio Code)
+                    https://gist.github.com/hyperupcall/99e355405611be6c4e0a38b6e3e8aad0 (VSCode config to disable popular extensions' annoyances (telemetry, notifications, welcome pages, etc.))
                     https://news.ycombinator.com/item?id=27231033 (Disable autocorrect in vscode)
                     https://news.ycombinator.com/item?id=29278370 (	Ask HN: What extensions/packs of VS Code are must for web/developers to install?)
                     https://vscodecandothat.com (VS Code Can Do That)
@@ -3815,7 +3825,6 @@ Contents:
                 https://en.wikipedia.org/wiki/List_of_science_magazines (List of science magazines)
                 https://en.wikipedia.org/wiki/List_of_scientific_journals (List of scientific journals)
                 https://en.wikipedia.org/wiki/Special:Random
-                https://github.com/greybax/awesome-IT-films
                 https://github.com/topics/blogs?o=desc&s=stars
                 https://news.vinc.cc (Search the news)
                 https://news.ycombinator.com/item?id=14086259 (Ask HN: Mailing lists that HN readers ought to know about?)
@@ -4535,6 +4544,7 @@ Contents:
         https://github.com/chubin/awesome-console-services (A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols))
         https://github.com/girliemac/a-picture-is-worth-a-1000-words (I am trying to describe complex matters in simple doodles!)
         https://github.com/gothinkster/realworld ("The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more)
+        https://github.com/greybax/awesome-IT-films (📺 A curated list of awesome films about IT & geek people.)
         https://github.com/jbranchaud/til (Today I Learned)
         https://github.com/jnv/lists (The definitive list of lists (of lists) curated on GitHub and elsewhere )
         https://github.com/mendel5/alternative-front-ends (Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.))
