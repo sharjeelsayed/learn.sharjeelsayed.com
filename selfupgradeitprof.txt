@@ -1155,6 +1155,7 @@ Contents:
                 https://rancher.com/products/rancher-desktop (Rancher Desktop lets developers easily run Kubernetes on their desktop)
                 https://redhatspain.com/kubernetes (A curated list of awesome references collected since 2018.)
                 https://registry.terraform.io/modules/terraform-aws-modules/eks/aws
+                https://sdk.operatorframework.io (The Operator SDK makes it easier to build Kubernetes native applications, a process that can require deep, application-specific operational knowledge)
                 https://snyk.io/blog/10-kubernetes-security-context-settings-you-should-understand (10 Kubernetes Security Context settings you should understand)
                 https://sparkle.adroitcorp.com.au/market (Flashcards)
                 https://sysdig.com/blog/top-owasp-kubernetes (The OWASP Kubernetes Top 10 puts all possible risks in an order of overall commonality or probability.)
@@ -4548,6 +4549,7 @@ Contents:
         https://github.com/jbranchaud/til (Today I Learned)
         https://github.com/jnv/lists (The definitive list of lists (of lists) curated on GitHub and elsewhere )
         https://github.com/mendel5/alternative-front-ends (Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.))
+        https://github.com/NotJoeMartinez/yt-fts (Youtube Full Text Search - Search all of a YouTube channel's subtitles from the command line)
         https://github.com/rsapkf/42 (This is an ongoing personal collection of over 5000+ sites and resources that I use or have used in the past to learn programming, puzzle-solving, web development and other intellectually stimulating things, categorized (more or less))
         https://github.com/RunaCapital/awesome-oss-alternatives (Awesome list of open-source startup alternatives to well-known SaaS products)
         https://github.com/TheLocehiliosan/yadm (Yet Another Dotfiles Manager)
@@ -4583,6 +4585,7 @@ Contents:
         https://tldrlegal.com (Software Licenses in Plain English)
         https://twitter.com/search?q=Gone%20Free%20(from%3ASharjeelSayed)
         https://wizardzines.com/comics
+        https://www.domestika.org (Best online courses for creatives)
         https://www.howacarworks.com/video-course (Understand everything inside a modern car by by Alex Muir.Automotive Engineering 20 hour Video Course)
         https://www.justwatch.com/in?genres=doc
         https://www.nala.ie/resources/better-handwriting-adults
