@@ -1078,6 +1078,7 @@ Contents:
                 https://cloud.redhat.com/blog/top-open-source-kubernetes-security-tools-of-2021 (Top Open Source Kubernetes Security Tools of 2021)
                 https://devopsunlocked.com/kubernetes-learning-material
                 https://docs.aws.amazon.com/prescriptive-guidance/latest/containers-provision-eks-clusters-terraform/welcome.html (Provisioning production-ready Amazon EKS clusters using Terraform)
+                https://docs.google.com/spreadsheets/d/10NltoF_6y3mBwUzQ4bcQLQfCE1BWSgUDcJXy-Qp2JEU (The Kubernetes Learning Resources List)
                 https://eksctl.io (eksctl - The official CLI for Amazon EKS)
                 https://github.com/abiosoft/colima (Container runtimes on macOS (and Linux) with minimal setup)
                 https://github.com/ahmetb/kubectx (Faster way to switch between clusters and namespaces in kubectl)
@@ -1122,9 +1123,11 @@ Contents:
                 https://github.com/ramitsurana/awesome-kubernetes (A curated list for awesome kubernetes sources 🚢🎉)
                 https://github.com/salesforce/sloop (Kubernetes History Visualization)
                 https://github.com/stern/stern (⎈ Multi pod and container log tailing for Kubernetes)
+                https://github.com/techiescamp/kubernetes-learning-path (A roadmap to learn Kubernetes from scratch (Beginner to Advanced level))
                 https://github.com/terraform-aws-modules/terraform-aws-eks
                 https://github.com/tomhuang12/awesome-k8s-resources (A curated list of awesome Kubernetes tools and resources.)
                 https://github.com/topics/kubernetes?o=desc&s=stars
+                https://github.com/vilaca/awesome-k8s-tools (List of k8s/container/devops tools.)
                 https://github.com/weaveworks/kubediff (a tool for Kubernetes to show differences between running state and version controlled configuration.)
                 https://github.com/zegl/kube-score (Kubernetes object analysis with recommendations for improved reliability and security)
                 https://goo.gl/Rywkpd (The Kubernetes Learning Resources List)
@@ -1868,6 +1871,7 @@ Contents:
                 https://github.com/topics/groovy?o=desc&s=stars
                 https://github.com/topics/jenkins?o=desc&s=stars
                 https://www.udemy.com/topic/jenkins/?ratings=4.5&sort=popularity (Udemy Courses rated 4.5 stars and above)
+                https://www.yojenkins.com (yojenkins is a cross-platform command line interface (CLI) tool to monitor, manage, and have fun with a Jenkins server.)
 
             Courses:
                 Jenkins Handbook
@@ -2041,6 +2045,7 @@ Contents:
                 https://github.com/mazen160/secrets-patterns-db (Secrets Patterns DB: The largest open-source Database for detecting secrets, API keys, passwords, tokens, and more.)
                 https://github.com/myugan/awesome-cicd-security (📚 A curated list of awesome CI CD security resources)
                 https://github.com/myugan/awesome-docker-security (A curated list of awesome Docker security resources)
+                https://github.com/n0kovo/awesome-password-cracking (A curated list of awesome tools, research, papers and other projects related to password cracking and password security.)
                 https://github.com/OWASP/CheatSheetSeries (The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics. )
                 https://github.com/pluja/awesome-privacy (A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.)
                 https://github.com/qazbnm456/awesome-web-security (🐶 A curated list of Web Security materials and resources)
@@ -3851,6 +3856,7 @@ Contents:
                 https://news.ycombinator.com/item?id=28632002 (Ask HN: What are some other general link aggregators aside from HN?)
                 https://news.ycombinator.com/item?id=32799789 (Ask HN: What are some of the best documentaries you've seen?)
                 https://news.ycombinator.com/item?id=35313232 (	Text only news websites (2022) (wturrell.co.uk))
+                https://news.ycombinator.com/item?id=36175315 (Ask HN: What other news feeds do you read besides Hacker News?)
                 https://www.reddit.com/r/AskReddit/comments/9nggyv/what_is_a_great_youtube_channel_to_binge_watch
                 https://www.reddit.com/r/AskReddit/comments/aa7zs9/what_youtube_channels_are_genuinely_worth_watching
                 https://news.ycombinator.com/user?id=SharjeelSayed
