@@ -884,6 +884,7 @@ Contents:
                 https://github.com/topics/command-line?o=desc&s=stars (Command line)
                 https://linoxide.com/linux-how-to/linux-commands-brief-outline-examples
                 https://linuxcommandlibrary.com/basic/oneliners.html
+                https://miro.medium.com/v2/resize:fit:1400/format:webp/1*VTVc8B7HNyu1AIBII2Ls6g.png (sed cheatsheet)
                 https://mywiki.wooledge.org/BashFAQ/105 (Why doesn't set -e (or set -o errexit, or trap ERR) do what I expected?)
                 https://mywiki.wooledge.org/BashPitfalls
                 https://news.ycombinator.com/item?id=14634964 (Ask HN: How can I get better at bash?)
@@ -2315,6 +2316,7 @@ Contents:
                 https://github.com/JoseDeFreitas/awesome-youtubers
                 https://github.com/learn-awesome/learn-awesome
                 https://github.com/merry75/educative.io_courses
+                https://github.com/practical-tutorials/project-based-learning (Curated list of project-based tutorials)
                 https://github.com/r0oth3x49/udemy-dl (A cross-platform python based utility to download courses from udemy for personal offline use)
                 https://github.com/sindresorhus/awesome (😎 Awesome lists about all kinds of interesting topics)
                 https://hackr.io
@@ -2688,6 +2690,7 @@ Contents:
                 https://news.ycombinator.com/item?id=18321665 (Foundations of ML and AI: Book recommendations (dragan.rocks))
                 https://news.ycombinator.com/item?id=20674745 (Ask HN: What Neural Networks/Deep Learning Books Should I Read?)
                 https://news.ycombinator.com/item?id=34312248 (Ask HN: What are the foundational texts for learning about AI/ML/NN?)
+                https://www.deeplearning.ai (Build your AI career by Andrew NG)
 
             Books and Courses:
                 Machine Learning by Andrew Ng
