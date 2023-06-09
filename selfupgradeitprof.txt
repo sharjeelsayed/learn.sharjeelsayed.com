@@ -1087,10 +1087,11 @@ Contents:
                 https://github.com/alexellis/k3sup (bootstrap Kubernetes with k3s over SSH < 1 min 🚀)
                 https://github.com/aquasecurity/kube-bench (Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark )
                 https://github.com/armosec/kubescape (kubescape is the first tool for testing if Kubernetes is deployed securely as defined in Kubernetes Hardening Guidance by to NSA and CISA)
-                https://github.com/askmeegs/learn-istio
+                https://github.com/askmeegs/learn-istio (⛵️ Istio resources 🕸)
                 https://github.com/atombender/ktail (A tool to easily tail Kubernetes container logs)
                 https://github.com/aws-samples/hardeneks (Runs checks to see if an EKS cluster follows EKS Best Practices.)
                 https://github.com/aws/karpenter ( Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity. https://karpenter.sh)
+                https://github.com/boz/kail (kubernetes log viewer)
                 https://github.com/collabnix/kubetools (Kubetools - Curated List of Kubernetes Tools)
                 https://github.com/containerd/nerdctl (contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ... )
                 https://github.com/datreeio/datree (Prevent Kubernetes misconfigurations from reaching production (again 😤 )! Datree is a CLI tool to ensure K8s manifests and Helm charts follow best practices as well as your organization’s policies)
@@ -1117,7 +1118,7 @@ Contents:
                 https://github.com/magnologan/awesome-k8s-security
                 https://github.com/marcel-dempers/docker-development-youtube-series (A Collection of tools, hands-on walkthroughs with source code.The Ultimate Swiss Army knife for DevOps, Developers and Platform Engineers)
                 https://github.com/nevalla/lens-resource-map-extension (Lens - The Kubernetes IDE extension that displays Kubernetes resources and their relations as a force graph.)
-                https://github.com/nkuba/k8s-admin-helper
+                https://github.com/nkuba/k8s-admin-helper (Kubernetes manifests templates and cheat sheets.)
                 https://github.com/OWASP/www-project-kubernetes-top-ten (OWASP Foundation Web Respository)
                 https://github.com/paralus/paralus (All-in-one Kubernetes access manager. User-level credentials, RBAC, SSO, audit logs.)
                 https://github.com/r0hi7/k8s-In-30Mins (Learn how to set up the Kubernetes cluster in 30 mins and deploy the application inside the cluster.)
@@ -2672,7 +2673,7 @@ Contents:
         iOS/Android:
             Books and Courses:
                 https://github.com/skydoves/android-developer-roadmap (🗺 Android Developer Roadmap 2022 suggests learning paths to understanding Android development.)
-                https://www.raywenderlich.com
+                https://www.kodeco.com (Learn iOS and Swift, Android and Kotlin & Dart and Flutter development with the largest and highest-quality catalog of video courses and books on the Internet.)
 
         AI and Machine Learning:
             Sources:
@@ -2681,6 +2682,7 @@ Contents:
                 https://github.com/ai-collection/ai-collection ( The Generative AI Landscape - A List of Awesome Generative AI Applications Topics)
                 https://github.com/eugeneyan/open-llms (🤖 A list of open LLMs available for commercial use.)
                 https://github.com/humanloop/awesome-chatgpt (Curated list of awesome tools, demos, docs for ChatGPT and GPT-3 )
+                https://github.com/microsoft/AI-For-Beginners (12 Weeks, 24 Lessons, AI for All!)
                 https://github.com/microsoft/ML-For-Beginners (12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all)
                 https://github.com/OpenMindClub/awesome-chatgpt (⚡ Everything about ChatGPT )
                 https://github.com/SkalskiP/courses (This repository is a curated collection of links to various courses and resources about Artificial Intelligence (AI))
