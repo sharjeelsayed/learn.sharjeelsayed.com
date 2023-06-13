@@ -3799,6 +3799,7 @@ Contents:
                 https://en.wikipedia.org/wiki/Cosmos:_A_Spacetime_Odyssey
 
             Science Magazines:
+                https://www.nature.com (1,999 SW)
                 https://www.nationalgeographic.com (5,262)
                 https://www.scientificamerican.com (6,255)
                 https://www.popularmechanics.com (9,174)
@@ -4305,7 +4306,6 @@ Contents:
                 https://github.com/topics/backup?o=desc&s=stars
                 https://github.com/widevinedump (Tools to Download Netflix / Disney / Apple TV Content)
                 https://github.com/yt-dlp/yt-dlp (A youtube-dl fork with additional features and fixes)
-                https://indownloader.com/download-instagram-profile (Download Instagram Profile picture , instagram profile viewer high quality HD , 1080)
                 https://mega.nz/C!vuhRiKpB (Mega.nz Extra Storage)
                 https://news.ycombinator.com/item?id=17603348 (Ask HN: How do you backup your files without depending on a third party service?)
                 https://news.ycombinator.com/item?id=18692844 (Ask HN: Best Centralized Backup Solution)
@@ -4602,6 +4602,8 @@ Contents:
         https://tldrlegal.com (Software Licenses in Plain English)
         https://twitter.com/search?q=Gone%20Free%20(from%3ASharjeelSayed)
         https://wizardzines.com/comics
+        https://www.amazon.com/Best-Sellers-Beauty-Personal-Care-Mens-Foil-Shavers/zgbs/beauty/13271094011 (Best Sellers in Men's Foil Shavers)
+        https://www.amazon.com/Best-Sellers-Health-Household-Power-Toothbrushes/zgbs/hpc/18065347011 (Best Sellers in Power Toothbrushes)
         https://www.domestika.org (Best online courses for creatives)
         https://www.howacarworks.com/video-course (Understand everything inside a modern car by by Alex Muir.Automotive Engineering 20 hour Video Course)
         https://www.justwatch.com/in?genres=doc
