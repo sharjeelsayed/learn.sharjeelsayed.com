@@ -249,6 +249,7 @@ Contents:
                 https://docs.google.com/spreadsheets/d/1gIRjeB1Y_AMvtmJsZWl_dNMDJ7lPSIxiVUYyEvrP5P4/htmlview?usp=sharing&sle=true (Popular Programming Podcast episodes)
                 https://exercism.org (Develop fluency in 61 programming languages with our unique blend of learning, practice and mentoring.)
                 https://fintechgtm.substack.com/p/us-fintech-and-payments-crash-course (U.S. Fintech & Payments Crash Course)
+                https://github.com/30-seconds/30-seconds-of-code (https://www.30secondsofcode.org Short code snippets for all your development needs)
                 https://github.com/aceking007/100ProjectsOfCode
                 https://github.com/AlgoryL/Projects-from-Scratch
                 https://github.com/bnb/awesome-developer-streams
@@ -315,7 +316,7 @@ Contents:
                 https://octoverse.github.com
                 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/index.htm
                 https://softwareengineeringdaily.com
-                https://survey.stackoverflow.co/2022 (Stackoverflow 2022 Developer Survey)
+                https://survey.stackoverflow.co/2023 (Stackoverflow 2023 Developer Survey)
                 https://toptalkedbooks.com/stackoverflow/all
                 https://www.daolf.com/posts/best-programming-books
                 https://www.discoverdev.io
@@ -682,17 +683,16 @@ Contents:
                 http://www.devopsbookmarks.com
                 https://devopsengineers.com (Slack Channel)
                 https://devopsnewsletters.com
-                https://github.com/AcalephStorage/awesome-devops
+                https://github.com/AcalephStorage/awesome-devops (A curated list of resources for Devops )
                 https://github.com/AdminTurnedDevOps/DevOps-The-Hard-Way-AWS (This repository contains free labs for setting up an entire workflow and DevOps environment from a real-world perspective in AWS)
-                https://github.com/bregman-arie/devops-exercises
+                https://github.com/bregman-arie/devops-exercises (Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions)
                 https://github.com/bregman-arie/devops-resources (DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP Topics)
                 https://github.com/codeaprendiz/learn-devops (DevOps Essentials | terraform | kubernetes | linux | nginx | monitoring | docker | docker-compose)
-                https://github.com/Leo-G/DevopsWiki
                 https://github.com/MichaelCade/90DaysOfDevOps (This repository is my documenting repository for learning the world of DevOps)
                 https://github.com/microsoft/code-with-engineering-playbook (This is the playbook for "code-with" customer or partner engagements)
                 https://github.com/milanm/DevOps-Roadmap (DevOps Roadmap for 2022. with learning resources)
-                https://github.com/nmarus/docker-devops-box
-                https://github.com/Tikam02/DevOps-Guide
+                https://github.com/nmarus/docker-devops-box (Portable DevOps environment in Docker)
+                https://github.com/Tikam02/DevOps-Guide (Development to Production all configurations with basic notes to debug efficiently.)
                 https://github.com/topics/devops?o=desc&s=stars
                 https://github.com/wmariuss/awesome-devops ( A curated list of awesome DevOps tools, platforms and resources)
                 https://infinite.education/view/devops_engineer_2
@@ -4348,22 +4348,26 @@ Contents:
                 https://www.vpsbenchmarks.com
                 https://pinboard.in/u:SharjeelSayed/t:vps
 
-            Hosting Providers: (Sorted by Alexa Rank)
-                https://cloud.google.com/compute (1)
+            Hosting Providers: (Sorted by SimilarWeb.com Rank)
+                https://aws.amazon.com (396 SW)
+                https://cloud.google.com/compute (1,086 SW)
                 https://firebase.google.com (1)
-                https://aws.amazon.com (9)
                 https://azure.microsoft.com (18)
-                https://www.oracle.com/in/cloud (395)
-                https://www.ibm.com/in-en/cloud (615)
-                https://www.digitalocean.com (678)
-                https://www.vultr.com (1,971)
-                https://www.heroku.com (2,472)
-                https://www.linode.com (3,535)
-                https://www.rackspace.com (4,119)
-                https://www.hetzner.com (5,030)
-                https://www.ovh.com (6,016)
-                https://upcloud.com (27,258)
-                https://www.scaleway.com (28,667)
+                https://www.oracle.com/in/cloud (1,960 SW)
+                https://www.ibm.com/in-en/cloud (2,208 SW)
+                https://www.digitalocean.com (5,983 SW)
+                https://vercel.com (8,839 SW)
+                https://www.netlify.com (15,084 SW)
+                https://www.rackspace.com (15,812 SW)
+                https://www.vultr.com (19,702 SW)
+                https://www.heroku.com (20,840 SW)
+                https://www.hetzner.com (25,202 SW)
+                https://render.com (27,343 SW)
+                https://www.ovh.com (27,982 SW)
+                https://www.linode.com (30,343 SW)
+                https://fly.io (63,437 SW)
+                https://upcloud.com (163,170 SW)
+                https://www.scaleway.com (100,689 SW)
 
         VPN:
             Sources:
