@@ -2345,6 +2345,7 @@ Contents:
                 https://www.g2.com/reports/momentum-grid-report-for-technical-skills-development-winter-2021
                 https://www.masterclass.com
                 https://www.real.discount (Discount coupons for Popular courses and MOOC Platforms)
+                https://www.techlinks.in/udemy-free-coupons (Free Udemy, Cousera, Eudonix Courses And Coupons)
                 https://www.reddit.com/r/compsci/comments/ud0e2n/any_recommendations_of_youtube_channels_for (Any recommendations of youtube channels for programming and computer science stuff?)
                 https://www.reddit.com/r/DataHoarder/comments/c6fh4x/after_hoarding_over_50k_youtube_videos_here_is (After hoarding over 50k YouTube videos, here is the youtube-dl command I settled on)
                 https://www.reddit.com/r/ExperiencedDevs/comments/xqtgxe/youtube_channels_for_senior_engineers (Youtube channels for senior+ engineers?)
