@@ -1849,6 +1849,10 @@ Contents:
                 Learn Git Branching
                 https://learngitbranching.js.org
 
+                An open source game about learning Git!
+                https://ohmygit.org
+                https://github.com/git-learning-game/oh-my-git
+
                 Git from the Bottom Up
                 https://jwiegley.github.io/git-from-the-bottom-up
                 https://github.com/jwiegley/git-from-the-bottom-up
@@ -2343,6 +2347,7 @@ Contents:
                 https://news.ycombinator.com/item?id=35536042 (Ask HN: What are some of the best university courses available online for free?)
                 https://www.classcentral.com/collection/top-free-online-courses
                 https://www.classcentral.com/starting-this-month
+                https://www.cram.com (Find flashcards to study)
                 https://www.freecodecamp.org/news/best-online-courses
                 https://www.g2.com/reports/momentum-grid-report-for-technical-skills-development-winter-2021
                 https://www.masterclass.com
@@ -4529,7 +4534,6 @@ Contents:
         Stuff Worh Paid Subscription:
             https://1password.com
             https://acloudguru.com
-            https://apolloapp.io
             https://db.tt/YL0e12GN # (Dropbox 500 MB of bonus space)
             https://evernote.com
             https://firecore.com/infuse
