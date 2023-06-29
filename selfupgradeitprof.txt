@@ -702,7 +702,7 @@ Contents:
                 https://news.ycombinator.com/item?id=29251343 (Ask HN: What is the fastest way to ramp up on DevOps, k8 and GCP?)
                 https://octopus.com/blog/devops-reading-list
                 https://roadmap.sh/devops (Step by step guide for DevOps, SRE or any other Operations Role in 2022)
-                https://slack.cloudposse.com (SweetOps Slack Group)
+                https://slack.cloudposse.com https://sweetops.slack.com https://slack.sweetops.com (SweetOps Slack Group)
                 https://www.actionsbyexample.com (GitHub Actions by Example is an introduction to the service through annotated examples.)
                 https://www.linkedin.com/groups/2825397 (DevOps Group)
                 https://www.reddit.com/r/devops/comments/n2l9ja/which_are_your_favourite_youtube_channelsblogs
@@ -1818,6 +1818,7 @@ Contents:
                 https://github.com/toptal/gitignore.io
                 https://github.com/UnseenWizzard/git_training (An interactive git training meant to teach you how git works, not just which commands to execute)
                 https://grep.app (Search across a half million git repos)
+                https://jdsalaro.com/blog/git-tutorial (Git for Beginners: Zero to Hero 🐙)
                 https://jwiegley.github.io/git-from-the-bottom-up/1-Repository/7-branching-and-the-power-of-rebase.html (Best explanation of rebase vs merge)
                 https://news.ycombinator.com/item?id=21189256 (99% of the Git commands you'll need at work, demonstrated in a single script (bitbucket.org))
                 https://nfarina.com/post/9868516270/git-is-simpler
@@ -3810,6 +3811,7 @@ Contents:
             Science Magazines: (Sorted by SimilarWeb.com Rank)
                 https://www.nature.com (1,999)
                 https://www.nationalgeographic.com (7,187)
+                https://www.science.org (7,383)
                 https://www.popularmechanics.com (7,609)
                 https://www.smithsonianmag.com (9,539)
                 https://www.scientificamerican.com (10,667)
@@ -3852,6 +3854,7 @@ Contents:
                 https://en.wikipedia.org/wiki/List_of_science_magazines (List of science magazines)
                 https://en.wikipedia.org/wiki/List_of_scientific_journals (List of scientific journals)
                 https://en.wikipedia.org/wiki/Special:Random
+                https://github.com/maltfield/awesome-lemmy-instances (Comparison of different Lemmy Instances)
                 https://github.com/topics/blogs?o=desc&s=stars
                 https://news.vinc.cc (Search the news)
                 https://news.ycombinator.com/item?id=14086259 (Ask HN: Mailing lists that HN readers ought to know about?)
