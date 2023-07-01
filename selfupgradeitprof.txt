@@ -1373,6 +1373,7 @@ Contents:
                 https://github.com/dutchcoders/cloudman (Textual user interface to manage ec2 instances.)
                 https://github.com/elpy1/ssh-over-ssm (SSH over AWS SSM. No bastions or public-facing instances. SSH user management through IAM. No requirement to store SSH keys locally or on server.)
                 https://github.com/gofireflyio/aiac (Artificial Intelligence Infrastructure-as-Code Generator.)
+                https://github.com/jassics/awesome-aws-security (Curated list of links, references, books videos, tutorials (Free or Paid), Exploit, CTFs, Hacking Practices etc. which are related to AWS Security)
                 https://github.com/jckuester/awsls (A list command for AWS resources)
                 https://github.com/localstack/localstack (A fully functional local AWS cloud stack)
                 https://github.com/nccgroup/aws-inventory (Discover resources created in an AWS account)
@@ -2044,6 +2045,7 @@ Contents:
                 https://github.com/imthenachoman/How-To-Secure-A-Linux-Server (An evolving how-to guide for securing a Linux server.)
                 https://github.com/infobyte/faraday (Open Source Vulnerability Management Platform)
                 https://github.com/instadoodledavid/Infosec-Deals-2020
+                https://github.com/jassics/awesome-aws-security (Curated list of links, references, books videos, tutorials (Free or Paid), Exploit, CTFs, Hacking Practices etc. which are related to AWS Security)
                 https://github.com/jassics/security-study-plan (Complete Practical Study Plan to become a successful cybersecurity engineer based on roles like Pentest, AppSec, Cloud Security, DevSecOps and so on...)
                 https://github.com/jatrost/awesome-kubernetes-threat-detection (A curated list of resources about detecting threats and defending Kubernetes systems.)
                 https://github.com/krol3/container-security-checklist (Checklist for container security - devsecops practices)
@@ -2198,6 +2200,7 @@ Contents:
                 https://opensource.com/article/19/5/python-3-default-mac (The right and wrong way to set Python 3 as default on a Mac)
                 https://renegadevi.gitlab.io/mac-app-collection (Find hidden gem apps to improve your Mac.)
                 https://roaringapps.com (Crowd-sourced application compatibility for macOS, iOS and Windows.)
+                https://saurabhs.org/advanced-macos-commands (Advanced macOS Command-Line Tools)
                 https://support.apple.com/en-in/guide/terminal/trmlshtcts/mac (Keyboard shortcuts in Terminal on Mac)
                 https://support.apple.com/en-in/HT201236 (Mac keyboard shortcuts)
                 https://support.google.com/chrome/answer/157179 (Chrome keyboard shortcuts)
@@ -2255,10 +2258,10 @@ Contents:
 
             HomeBrew:
                 Essential HomeBrew packages:
-                    amazon-ecs-cli awk awscli bash-completion@2 bind cabextract cheat coreutils eslint ffmpeg findutils fzf gabrie30/utils/ghorg git gnu-sed grep htop isync jq k9s lsof lynx macos-trash mas moreutils msmtp mutt neomutt neovim nextdns/tap/nextdns openssh pandoc pass php pinentry-mac poppler postgresql@14 pstree pyenv rclone restic ripgrep-all rsync screen shellcheck smartmontools sox speedtest-cli sshuttle telnet tmux topgrade vim watch weaveworks/tap/eksctl wget yq yt-dlp/taps/yt-dlp z zip
+                    amazon-ecs-cli awk awscli bash-completion@2 bind cabextract cheat coreutils eslint ffmpeg findutils fzf gabrie30/utils/ghorg git gnu-sed grep htop isync jq k9s lsof lynx macos-trash mas moreutils msmtp mutt neomutt neovim nextdns/tap/nextdns openssh pandoc pass php pinentry-mac poppler postgresql@14 pstree pyenv rclone restic ripgrep-all rsync screen shellcheck smartmontools sox speedtest-cli sshuttle telnet tmux topgrade vim watch wget yq yt-dlp/taps/yt-dlp z zip
 
                 Essential HomeBrew Casks:
-                    1password alfred alt-tab appcleaner bettertouchtool brave-browser cameracontroller cryptomator fantastical firefox github google-chrome google-cloud-sdk google-drive iina intellij-idea istat-menus iterm2 keepassxc keyboardcleantool launchcontrol little-snitch macfuse microsoft-auto-update microsoft-edge microsoft-remote-desktop microsoft-teams mos mullvadvpn omnidisksweeper pdf-expert pgadmin4 rancher session-manager-plugin skype slack steam sublime-merge usb-overdrive veracrypt visual-studio-code zoom
+                    1password alfred alt-tab appcleaner bettertouchtool brave-browser cameracontroller cryptomator fantastical firefox github google-chrome google-drive iina intellij-idea istat-menus iterm2 keepassxc keyboardcleantool launchcontrol little-snitch macfuse microsoft-auto-update microsoft-edge microsoft-remote-desktop microsoft-teams mos mullvadvpn omnidisksweeper pdf-expert pgadmin4 rancher session-manager-plugin slack steam sublime-merge usb-overdrive veracrypt visual-studio-code zoom
 
             Alfred:
                 http://www.packal.org
@@ -2361,7 +2364,8 @@ Contents:
                 https://www.reddit.com/r/Udemy+udemyfreebies
                 https://www.sololearn.com
                 https://www.techlinks.in/udemy-free-coupons (Free Udemy, Cousera, Eudonix Courses And Coupons)
-                https://www.timeshighereducation.com/world-university-rankings/2021/world-ranking (World University Rankings 2021)
+                https://www.timeshighereducation.com/world-university-rankings/2023/world-ranking (The Times Higher Education World University Rankings 2023)
+                https://www.topuniversities.com/university-rankings/world-university-rankings/2023 (QS World University Rankings 2023)
                 https://www.tutorialbar.com (Udemy Coupons)
                 https://www.udacity.com/courses/all
                 https://www.udemy.com/courses/free/?p=12&sort=popularity
@@ -2563,6 +2567,7 @@ Contents:
                 https://github.com/lauragift21/awesome-learning-resources
                 https://github.com/loettz/interview-process-survival (🌈 🦄 this repository is a interview process guide for developers (web/frontend focused))
                 https://github.com/markodenic/web-development-resources
+                https://github.com/microsoft/Web-Dev-For-Beginners (24 Lessons, 12 Weeks, Get Started as a Web Developer https://microsoft.github.io/Web-Dev-For-Beginners)
                 https://github.com/sadanandpai/frontend-learning-kit (Frontend tech guide and curated collection of frontend materials)
                 https://github.com/thedaviddias/Front-End-Performance-Checklist
                 https://github.com/topics/front-end?o=desc&s=stars
@@ -2933,6 +2938,7 @@ Contents:
                 https://github.com/topics/cv?o=desc&s=stars
                 https://github.com/topics/readme?o=desc&s=stars
                 https://github.com/topics/resume?o=desc&s=stars
+                https://github.com/xitanggg/open-resume  (OpenResume is a powerful open-source resume builder and resume parser. https://open-resume.com )
                 https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=resume%20&sort=byPopularity&type=story
                 https://news.ycombinator.com/item?id=16479922 (Ask HN: Resumes that look good but professional too)
                 https://news.ycombinator.com/item?id=17671490 (Building a Kickass Portfolio)
