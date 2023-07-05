@@ -569,27 +569,27 @@ Contents:
 
         Data Engineering:
             Sources:
-                HTTPS://ARCHITECTURENOTES.CO/THINGS-YOU-SHOULD-KNOW-ABOUT-DATABASES (THINGS YOU SHOULD KNOW ABOUT DATABASES)
-                HTTPS://AWESOMEDATAENGINEERING.COM
-                HTTPS://BUILD-YOUR-OWN.ORG/DATABASE ( BUILD YOUR OWN DATABASE FROM SCRATCH . PERSISTENCE, INDEXING, CONCURRENCY)
-                HTTPS://DATASETSEARCH.RESEARCH.GOOGLE.COM (DATASET SEARCH)
-                HTTPS://DB-ENGINES.COM/EN/RANKING (DB-ENGINES RANKING)
-                HTTPS://GITHUB.COM/ALEXEYGRIGOREV/DATA-SCIENCE-INTERVIEWS (DATA SCIENCE INTERVIEW QUESTIONS AND ANSWERS HTTPS://DS-INTERVIEWS.ORG)
-                HTTPS://GITHUB.COM/BINHNGUYENNUS/AWESOME-SCALABILITY ( THE PATTERNS OF SCALABLE, RELIABLE, AND PERFORMANT LARGE-SCALE SYSTEMS TOPICS)
-                HTTPS://GITHUB.COM/DATATALKSCLUB/DATA-ENGINEERING-ZOOMCAMP (FREE DATA ENGINEERING COURSE!)
-                HTTPS://GITHUB.COM/HUACHAOHUANG/AWESOME-DBDEV (AWESOME MATERIALS ABOUT DATABASE DEVELOPMENT.)
-                HTTPS://GITHUB.COM/KARANPRATAPSINGH/SYSTEM-DESIGN (LEARN HOW TO DESIGN SYSTEMS AT SCALE AND PREPARE FOR SYSTEM DESIGN INTERVIEWS)
-                HTTPS://GITHUB.COM/MICROSOFT/DATA-SCIENCE-FOR-BEGINNERS (DATA SCIENCE FOR BEGINNERS - A CURRICULUM . 10 WEEKS, 20 LESSONS, DATA SCIENCE FOR ALL! HTTPS://MICROSOFT.GITHUB.IO/DATA-SCIENCE-FOR-BEGINNERS)
-                HTTPS://GITHUB.COM/PINGCAP/AWESOME-DATABASE-LEARNING (A LIST OF LEARNING MATERIALS TO UNDERSTAND DATABASES INTERNALS)
-                HTTPS://NEWS.YCOMBINATOR.COM/ITEM?ID=13417326 (ASK HN: WHAT IS THE BEST ONLINE RESOURCE TO LEARN ADVANCED SQL?)
-                HTTPS://NEWS.YCOMBINATOR.COM/ITEM?ID=21793270 (DATABASE INTERNALS (DATABASS.DEV))
-                HTTPS://NEWS.YCOMBINATOR.COM/ITEM?ID=23138297 (ADVANCED SQL AND DATABASE BOOKS AND RESOURCES (NEILWITHDATA.COM))
-                HTTPS://NEWS.YCOMBINATOR.COM/ITEM?ID=24762734 (ASK HN: WHAT ARE GOOD RESOURCES TO LEARN SYSTEM DESIGN?)
-                HTTPS://NEWS.YCOMBINATOR.COM/ITEM?ID=25987664 (ASK HN: RECOMMENDED BOOKS AND PAPERS ON DISTRIBUTED SYSTEMS?)
-                HTTPS://OTTERTUNE.COM/BLOG/2021-DATABASES-RETROSPECTIVE (DATABASES IN 2021: A YEAR IN REVIEW)
-                HTTPS://REDIS.COM/BLOG/DATASETS-FOR-TEST-DATABASES (GROOVY DATASETS FOR TEST DATABASES)
-                HTTPS://WWW.REDDIT.COM/R/DATABASE
-                HTTPS://SP23.DATASTRUCTUR.ES (CS 61B DATA STRUCTURES, SPRING 2023)
+                https://architecturenotes.co/things-you-should-know-about-databases (Things you should know about databases)
+                https://awesomedataengineering.com
+                https://build-your-own.org/database ( Build your own database from scratch . persistence, indexing, concurrency)
+                https://datasetsearch.research.google.com (Dataset search)
+                https://db-engines.com/en/ranking (Db-engines ranking)
+                https://github.com/alexeygrigorev/data-science-interviews (Data science interview questions and answers https://ds-interviews.org)
+                https://github.com/binhnguyennus/awesome-scalability ( The patterns of scalable, reliable, and performant large-scale systems topics)
+                https://github.com/datatalksclub/data-engineering-zoomcamp (Free data engineering course!)
+                https://github.com/huachaohuang/awesome-dbdev (Awesome materials about database development.)
+                https://github.com/karanpratapsingh/system-design (Learn how to design systems at scale and prepare for system design interviews)
+                https://github.com/microsoft/data-science-for-beginners (Data science for beginners - a curriculum . 10 weeks, 20 lessons, data science for all! https://microsoft.github.io/data-science-for-beginners)
+                https://github.com/pingcap/awesome-database-learning (A list of learning materials to understand databases internals)
+                https://news.ycombinator.com/item?id=13417326 (Ask HN: what is the best online resource to learn advanced sql?)
+                https://news.ycombinator.com/item?id=21793270 (Database internals (databass.dev))
+                https://news.ycombinator.com/item?id=23138297 (Advanced sql and database books and resources (neilwithdata.com))
+                https://news.ycombinator.com/item?id=24762734 (Ask HN: what are good resources to learn system design?)
+                https://news.ycombinator.com/item?id=25987664 (Ask HN: recommended books and papers on distributed systems?)
+                https://ottertune.com/blog/2021-databases-retrospective (Databases in 2021: a year in review)
+                https://redis.com/blog/datasets-for-test-databases (Groovy datasets for test databases)
+                https://www.reddit.com/r/database
+                https://sp23.datastructur.es (CS 61b data structures, spring 2023)
                 https://pinboard.in/u:SharjeelSayed/t:db
 
             Books and Courses:
@@ -2316,6 +2316,7 @@ Contents:
                 https://weekly.elfitz.com/2019/02/12/block-ads-and-trackers-on-your-mac-with-little-snitch (Block ads and trackers on your Mac with Little Snitch)
 
         MOOC:
+            Sources:
                 https://academictorrents.com
                 https://archive.org/search.php?query=subject%3A%22UC+Berkeley%22
                 https://blog.github.com/2018-03-20-top-10-courses-on-github
@@ -2330,6 +2331,7 @@ Contents:
                 https://github.com/practical-tutorials/project-based-learning (Curated list of project-based tutorials)
                 https://github.com/r0oth3x49/udemy-dl (A cross-platform python based utility to download courses from udemy for personal offline use)
                 https://github.com/sindresorhus/awesome (😎 Awesome lists about all kinds of interesting topics)
+                https://github.com/WeMakeDevs/roadmaps ( This repository contains the list of communities and job portals you can join and apply to www.wemakedevs.org)
                 https://hackr.io
                 https://hourups.com (171 hand-picked crash courses from the best instructors on YouTube)
                 https://lbry.com/news/20000-illegal-college-lectures-rescued
@@ -2691,6 +2693,7 @@ Contents:
 
         AI and Machine Learning:
             Sources:
+                https://ai.stanford.edu/courses (Stanford A.I. courses from Fall 2019 CS229)
                 https://blog.floydhub.com/best-deep-learning-courses-updated-for-2019
                 https://fleuret.org/public/lbdl.pdf (The Little Book of Deep Learning by François Fleuret)
                 https://github.com/ai-collection/ai-collection ( The Generative AI Landscape - A List of Awesome Generative AI Applications Topics)
@@ -3393,6 +3396,7 @@ Contents:
                 http://ebin.city/~werwolf/posts/firefox-hardening-guide
                 https://browser.engineering (This book explains, building a basic but complete web browser, from networking to JavaScript, in a thousand lines of Python.)
                 https://github.com/topics/bookmark-manager?o=desc&s=stars (Bookmark Manager)
+                https://letsblock.it/filters ( Remove low-quality content and useless nags, focus on what matters. Make the web yours again with this collection of community-owned content filters. A companion to the great uBlock Origin content blocker.)
                 https://news.ycombinator.com/item?id=22105561 (Ask HN: How do you manage your bookmarks?)
                 https://news.ycombinator.com/item?id=22778123 (Ask HN: What do you use to keep track of bookmarks/notes/snippets?)
                 https://news.ycombinator.com/item?id=23445382 (Show HN: Some Bookmarklets, I Use (ph-uhl.com))
@@ -3428,7 +3432,8 @@ Contents:
                 https://privacybadger.org
                 https://support.1password.com/getting-started-1password-x
                 https://support.mozilla.org/en-US/kb/focus
-                https://tabliss.io
+                https://tabliss.io (A beautiful, customisable New Tab page for Firefox, Chrome, and Edge. )
+                https://unhook.app (Watch YouTube free of distractions. Block suggestion feeds, comments, and more)
                 https://www.eff.org/https-everywhere
                 https://www.fbpurity.com
                 https://www.forbesconrad.com/blog/enable-password-pasting (Enable Password Pasting in Firefox)
@@ -3522,7 +3527,7 @@ Contents:
                 https://www.oreilly.com (2,672)
                 https://libgen.lc or https://libgen.is (https://en.wikipedia.org/wiki/Library_Genesis) (4,910)
                 https://www.gutenberg.org (6,947)
-                https://z-lib.org (7,892)
+                https://z-lib.org https://zlibrary-asia.se (7,892)
                 https://audiobookbay.fi (8,650)
                 https://www.bookbub.com (8,749)
                 https://annas-archive.org (12,363)
