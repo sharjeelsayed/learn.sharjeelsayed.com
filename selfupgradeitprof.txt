@@ -116,6 +116,7 @@ Contents:
         Games
         Chess
         Weather
+        Watch
         Stuff Worth Paid Subscriptions
 
     Computer Science:
@@ -577,6 +578,7 @@ Contents:
                 https://github.com/alexeygrigorev/data-science-interviews (Data science interview questions and answers https://ds-interviews.org)
                 https://github.com/binhnguyennus/awesome-scalability ( The patterns of scalable, reliable, and performant large-scale systems topics)
                 https://github.com/datatalksclub/data-engineering-zoomcamp (Free data engineering course!)
+                https://github.com/dttung2905/kafka-in-production (📚 Tech blogs & talks by companies that run Kafka in production)
                 https://github.com/huachaohuang/awesome-dbdev (Awesome materials about database development.)
                 https://github.com/karanpratapsingh/system-design (Learn how to design systems at scale and prepare for system design interviews)
                 https://github.com/microsoft/data-science-for-beginners (Data science for beginners - a curriculum . 10 weeks, 20 lessons, data science for all! https://microsoft.github.io/data-science-for-beginners)
@@ -588,8 +590,8 @@ Contents:
                 https://news.ycombinator.com/item?id=25987664 (Ask HN: recommended books and papers on distributed systems?)
                 https://ottertune.com/blog/2021-databases-retrospective (Databases in 2021: a year in review)
                 https://redis.com/blog/datasets-for-test-databases (Groovy datasets for test databases)
-                https://www.reddit.com/r/database
                 https://sp23.datastructur.es (CS 61b data structures, spring 2023)
+                https://www.reddit.com/r/database
                 https://pinboard.in/u:SharjeelSayed/t:db
 
             Books and Courses:
@@ -4544,6 +4546,14 @@ Contents:
                 https://www.dtn.com (114,833)
                 https://www.tomorrow.io (132,752)
                 https://www.aerisweather.com (482.092)
+
+        Watch:
+            Sources:
+                https://iflwatches.com/blogs/news/top-swiss-watch-brands-2022-a-report-by-morgan-stanley (Top Swiss Watch Brands 2022 - A Report By Morgan Stanley)
+                https://professionalwatches.com/morgan-stanleys-top-20-swiss-watch-company-ranking-for-2023 (Morgan Stanley’s Top 20 Swiss Watch Company Ranking for 2023)
+                https://www.luxewatches.co.uk/most-popular-luxury-watches-around-world (The Most Popular Watch Brand Worldwide)
+                https://www.statista.com/statistics/789382/leading-luxury-watch-brands-sales (Sales revenue of the leading luxury watch brands worldwide in 2022)
+                https://www.watch-rankings.com/most-iconic-watches (Most Iconic Watches)
 
         Stuff Worh Paid Subscription:
             https://1password.com
