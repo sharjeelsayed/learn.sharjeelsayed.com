@@ -797,6 +797,7 @@ Contents:
                 https://www.reddit.com/r/linuxadmin/comments/2s924h/how_did_you_get_your_start/cnnw1ma
                 https://www.reddit.com/r/linuxadmin/comments/7cw116/favorite_posts_youve_bookmarked_or_saved
                 https://www.reddit.com/r/Ubuntu+linux+linuxadmin
+                https://www.brendangregg.com/linuxperf.html (Brendan Gregg's Linux Internals Maps)
 
             Books and Courses:
                 Linux Journey
@@ -2075,6 +2076,7 @@ Contents:
                 https://github.com/topics/websecurity?o=desc&s=stars
                 https://github.com/veeral-patel/learn-security-engineering
                 https://github.com/z1pti3/jimi (Jimi is an automation first no-code platform designed and developed originally for Security Orchestration and Response. Since its launch jimi has developed into a fully fledged IT automation platform which effortlessly integrates with your existing tools unlocking the potential for autonomous IT and Security operations.)
+                https://gtfobins.github.io (GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems.)
                 https://hrushikeshk.github.io/blog/2018/01/15/security-resources
                 https://ishaqmohammed.me/posts/application-security-knowledgebase (Application Security Knowledgebase)
                 https://jhalon.github.io/becoming-a-pentester
@@ -4164,10 +4166,14 @@ Contents:
                 https://bloggingfordevs.com/trends (Discover the best developer blogs on any tech stack)
                 https://danluu.com/programming-blogs (Some programming blogs to consider reading)
                 https://fraidyc.at (Fraidycat is a desktop app or browser extension for Firefox or Chrome used to follow people on Twitter, a blog, YouTube, even on a public TiddlyWiki)
+                https://github.com/crispgm/awesome-engineering-blogs (A curated list of engineering blogs)
                 https://github.com/donnemartin/awesome-aws#blogs (A curated list of AWS blogs)
+                https://github.com/jkup/awesome-personal-blogs (A delightful list of personal tech blogs)
                 https://github.com/kaizensoze/security-blogs (A list of security blogs.)
                 https://github.com/kilimchoi/engineering-blogs (A curated list of engineering blogs)
                 https://github.com/learn-anything/blogs
+                https://github.com/markodenic/awesome-tech-blogs (A list of Tech Blogs.)
+                https://github.com/outcoldman/hackernews-personal-blogs (OPML list of Hacker News Users Personal Blogs)
                 https://hnblogs.substack.com (HackerNews Blogs Newsletter)
                 https://news.ycombinator.com/item?id=14163905 (Ask HN: Which companies have the best blogs written by their engineering team?)
                 https://news.ycombinator.com/item?id=21928170 (Ask HN: What niche blogs are worthwhile to follow?)
@@ -4181,9 +4187,6 @@ Contents:
                 https://news.ycombinator.com/item?id=9836023 (Ask HN: What tech blogs, podcasts do you follow outside of HN?)
                 https://refined.blog (Curated list of personal blogs)
                 https://wiki.nikitavoloboev.xyz/research/blogs#favorite-blogs
-                https://github.com/jkup/awesome-personal-blogs (A delightful list of personal tech blogs)
-                https://github.com/markodenic/awesome-tech-blogs (A list of Tech Blogs.)
-                https://github.com/crispgm/awesome-engineering-blogs (A curated list of engineering blogs)
 
         Podcasts:
             Sources:
@@ -4549,9 +4552,15 @@ Contents:
 
         Watch:
             Sources:
+                https://en.wikipedia.org/wiki/Casio_F-91W (Casio F-91W)
+                https://en.wikipedia.org/wiki/Omega_Speedmaster (Omega Speedmaster)
                 https://iflwatches.com/blogs/news/top-swiss-watch-brands-2022-a-report-by-morgan-stanley (Top Swiss Watch Brands 2022 - A Report By Morgan Stanley)
                 https://professionalwatches.com/morgan-stanleys-top-20-swiss-watch-company-ranking-for-2023 (Morgan Stanley’s Top 20 Swiss Watch Company Ranking for 2023)
+                https://www.amazon.com/Best-Sellers-Clothing-Shoes-Jewelry-Mens-Watches/zgbs/fashion/6358539011 (Best Sellers in Men's Watches)
                 https://www.luxewatches.co.uk/most-popular-luxury-watches-around-world (The Most Popular Watch Brand Worldwide)
+                https://www.reddit.com/r/Watches/comments/5obyi8/world_leaders_watches_of_current_leaders_around (Watches of current leaders around the world)
+                https://www.reddit.com/r/Watches/wiki (r/Watches Wiki)
+                https://www.reddit.com/r/Watches/wiki/brandguide (/r/Watches Brand Guide)
                 https://www.statista.com/statistics/789382/leading-luxury-watch-brands-sales (Sales revenue of the leading luxury watch brands worldwide in 2022)
                 https://www.watch-rankings.com/most-iconic-watches (Most Iconic Watches)
 
