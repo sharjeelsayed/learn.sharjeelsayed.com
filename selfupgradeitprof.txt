@@ -268,6 +268,7 @@ Contents:
                 https://github.com/mehdihadeli/awesome-software-architecture (A curated list of awesome articles and resources to learn and practice about software architecture, patterns, and principles)
                 https://github.com/Michael0x2a/curated-programming-resources
                 https://github.com/mtdvio/every-programmer-should-know (A collection of (mostly) technical things every software developer should know about )
+                https://github.com/MunGell/awesome-for-beginners (A list of awesome beginners-friendly projects.)
                 https://github.com/P1xt/p1xt-guides
                 https://github.com/public-apis/public-apis (A collective list of free APIs)
                 https://github.com/rby90/Project-Based-Tutorials-in-C
@@ -316,6 +317,7 @@ Contents:
                 https://news.ycombinator.com/item?id=30752540 (	Ask HN: Codebases with great, easy to read code?)
                 https://octoverse.github.com
                 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/index.htm
+                https://people.freebsd.org/~lstewart/articles/cpumemory.pdf (What Every Programmer Should Know About Memory)
                 https://softwareengineeringdaily.com
                 https://survey.stackoverflow.co/2023 (Stackoverflow 2023 Developer Survey)
                 https://toptalkedbooks.com/stackoverflow/all
@@ -632,6 +634,7 @@ Contents:
 
         Electronics:
             Sources:
+                https://beletronics.wordpress.com (Learn electronics by practice)
                 https://electroagenda.com/en/a-summary-of-electronics
                 https://learningtheartofelectronics.com (Learning the Art of Electronics A Hands-On Lab Course)
                 https://news.ycombinator.com/item?id=16775744 (Ask HN: How to self-learn electronics?)
@@ -4552,17 +4555,31 @@ Contents:
 
         Watch:
             Sources:
+                https://ciechanow.ski/mechanical-watch (Mechanical Watch)
+                https://en.wikipedia.org/wiki/Cartier_Tank (Cartier Tank)
                 https://en.wikipedia.org/wiki/Casio_F-91W (Casio F-91W)
+                https://en.wikipedia.org/wiki/Diving_watch (Diving watch)
+                https://en.wikipedia.org/wiki/G-Shock (G-Shock)
+                https://en.wikipedia.org/wiki/List_of_most_expensive_watches_sold_at_auction (List of most expensive watches sold at auction)
+                https://en.wikipedia.org/wiki/Omega_Seamaster (Omega Seamaster)
                 https://en.wikipedia.org/wiki/Omega_Speedmaster (Omega Speedmaster)
+                https://en.wikipedia.org/wiki/Patek_Philippe (Patek Philippe)
+                https://en.wikipedia.org/wiki/Rolex_Submariner (Rolex Submariner)
                 https://iflwatches.com/blogs/news/top-swiss-watch-brands-2022-a-report-by-morgan-stanley (Top Swiss Watch Brands 2022 - A Report By Morgan Stanley)
                 https://professionalwatches.com/morgan-stanleys-top-20-swiss-watch-company-ranking-for-2023 (Morgan Stanley’s Top 20 Swiss Watch Company Ranking for 2023)
                 https://www.amazon.com/Best-Sellers-Clothing-Shoes-Jewelry-Mens-Watches/zgbs/fashion/6358539011 (Best Sellers in Men's Watches)
+                https://www.hodinkee.com (Hodinkee)
                 https://www.luxewatches.co.uk/most-popular-luxury-watches-around-world (The Most Popular Watch Brand Worldwide)
+                https://www.omegawatches.com/watch-omega-speedmaster-moonwatch-professional-co-axial-master-chronometer-chronograph-42-mm-31030425001002 (Omega Speedmaster Moonwatch Professional Co‑Axial Master Chronometer Chronograph 42 mm)
                 https://www.reddit.com/r/Watches/comments/5obyi8/world_leaders_watches_of_current_leaders_around (Watches of current leaders around the world)
+                https://www.reddit.com/r/Watches/comments/swczxm/design_what_are_truly_iconic_yet_affordable ([Design] What are truly iconic, yet affordable, watches?)
+                https://www.reddit.com/r/Watches/comments/ylijh4/questiondiscussions_most_iconic_watches ([Question/Discussions] Most Iconic Watches)
                 https://www.reddit.com/r/Watches/wiki (r/Watches Wiki)
                 https://www.reddit.com/r/Watches/wiki/brandguide (/r/Watches Brand Guide)
+                https://www.seikowatches.com/in-en/products/5sports/lineup (Seiko 5 Sports Lineup)
                 https://www.statista.com/statistics/789382/leading-luxury-watch-brands-sales (Sales revenue of the leading luxury watch brands worldwide in 2022)
                 https://www.watch-rankings.com/most-iconic-watches (Most Iconic Watches)
+                https://youtu.be/fMncXiA-AuE (Tachymeter Explained! (5 examples))
 
         Stuff Worh Paid Subscription:
             https://1password.com
