@@ -1926,6 +1926,7 @@ Contents:
                 http://zzapper.co.uk/vimtips.html
                 https://betterprogramming.pub/50-vim-mode-tips-for-ide-users-f7b525a794b3 (Vim Best Practices For IDE Users)
                 https://github.com/amix/vimrc (The ultimate Vim configuration (vimrc) )
+                https://github.com/LazyVim/LazyVim ( Neovim config for the lazy https://www.lazyvim.org)
                 https://github.com/learnbyexample/scripting_course/blob/master/Vim_curated_resources.md
                 https://github.com/LeCoupa/awesome-cheatsheets/blob/master/tools/vim.txt
                 https://github.com/mhinz/vim-galore (All things Vim!)
@@ -2706,6 +2707,7 @@ Contents:
                 https://github.com/ai-collection/ai-collection ( The Generative AI Landscape - A List of Awesome Generative AI Applications Topics)
                 https://github.com/eugeneyan/open-llms (🤖 A list of open LLMs available for commercial use.)
                 https://github.com/humanloop/awesome-chatgpt (Curated list of awesome tools, demos, docs for ChatGPT and GPT-3 )
+                https://github.com/labmlai/annotated_deep_learning_paper_implementations ( 🧑‍🏫 60 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠 )
                 https://github.com/microsoft/AI-For-Beginners (12 Weeks, 24 Lessons, AI for All!)
                 https://github.com/microsoft/ML-For-Beginners (12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all)
                 https://github.com/OpenMindClub/awesome-chatgpt (⚡ Everything about ChatGPT )
@@ -4560,10 +4562,12 @@ Contents:
                 https://en.wikipedia.org/wiki/Casio_F-91W (Casio F-91W)
                 https://en.wikipedia.org/wiki/Diving_watch (Diving watch)
                 https://en.wikipedia.org/wiki/G-Shock (G-Shock)
+                https://en.wikipedia.org/wiki/Jaeger-LeCoultre#Reverso (Jaeger-LeCoultre Reverso)
                 https://en.wikipedia.org/wiki/List_of_most_expensive_watches_sold_at_auction (List of most expensive watches sold at auction)
                 https://en.wikipedia.org/wiki/Omega_Seamaster (Omega Seamaster)
                 https://en.wikipedia.org/wiki/Omega_Speedmaster (Omega Speedmaster)
                 https://en.wikipedia.org/wiki/Patek_Philippe (Patek Philippe)
+                https://en.wikipedia.org/wiki/Poljot (Poljot)
                 https://en.wikipedia.org/wiki/Rolex_Submariner (Rolex Submariner)
                 https://iflwatches.com/blogs/news/top-swiss-watch-brands-2022-a-report-by-morgan-stanley (Top Swiss Watch Brands 2022 - A Report By Morgan Stanley)
                 https://professionalwatches.com/morgan-stanleys-top-20-swiss-watch-company-ranking-for-2023 (Morgan Stanley’s Top 20 Swiss Watch Company Ranking for 2023)
