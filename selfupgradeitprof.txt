@@ -1809,8 +1809,10 @@ Contents:
                 https://git-scm.com/book/en/v2/Git-Tools-Reset-Demystified (Reset vs Checkout)
                 https://gitexplorer.com (Find the right commands you need without digging through the web)
                 https://github.com/AndreMiras/gitpop2 (Find the most popular fork on GitHub)
+                https://github.com/bigH/git-fuzzy (interactive `git` with the help of `fzf`)
                 https://github.com/dandavison/delta (A viewer for git and diff output)
                 https://github.com/EvanLi/Github-Ranking (⭐Github Ranking⭐ Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily.)
+                https://github.com/extrawurst/gitui (Blazing 💥 fast terminal-ui for git written in rust 🦀)
                 https://github.com/FAQGURU/FAQGURU/blob/master/topics/en/git.md (A list of interview questions)
                 https://github.com/gabrie30/ghorg (Quickly clone an entire org/users repositories into one directory - Supports GitHub, GitLab, Bitbucket, and more)
                 https://github.com/git-tips/tips (Most commonly used git tips and tricks.)
@@ -2471,6 +2473,9 @@ Contents:
                 https://dabeaz-course.github.io/practical-python/Notes/Contents.html
                 https://github.com/dabeaz-course/practical-python
                 https://learning.oreilly.com/videos/python-programming-language/9780134217314
+
+                Advanced Python Mastery by David Beazley
+                https://github.com/dabeaz-course/python-mastery
 
                 Automate the Boring Stuff with Python by Al Sweigart
                 https://automatetheboringstuff.com/2e
@@ -4558,10 +4563,14 @@ Contents:
         Watch:
             Sources:
                 https://ciechanow.ski/mechanical-watch (Mechanical Watch)
+                https://en.wikipedia.org/wiki/Breitling_SA#Navitimer (Breitling Navitimer)
                 https://en.wikipedia.org/wiki/Cartier_Tank (Cartier Tank)
                 https://en.wikipedia.org/wiki/Casio_F-91W (Casio F-91W)
+                https://en.wikipedia.org/wiki/Coaxial_escapement (Coaxial escapement)
                 https://en.wikipedia.org/wiki/Diving_watch (Diving watch)
                 https://en.wikipedia.org/wiki/G-Shock (G-Shock)
+                https://en.wikipedia.org/wiki/Helium_release_valve (Helium release valve)
+                https://en.wikipedia.org/wiki/History_of_watches (History of watches)
                 https://en.wikipedia.org/wiki/Jaeger-LeCoultre#Reverso (Jaeger-LeCoultre Reverso)
                 https://en.wikipedia.org/wiki/List_of_most_expensive_watches_sold_at_auction (List of most expensive watches sold at auction)
                 https://en.wikipedia.org/wiki/Omega_Seamaster (Omega Seamaster)
@@ -4569,6 +4578,8 @@ Contents:
                 https://en.wikipedia.org/wiki/Patek_Philippe (Patek Philippe)
                 https://en.wikipedia.org/wiki/Poljot (Poljot)
                 https://en.wikipedia.org/wiki/Rolex_Submariner (Rolex Submariner)
+                https://en.wikipedia.org/wiki/Spring_Drive (Spring Drive)
+                https://en.wikipedia.org/wiki/Tourbillon (Tourbillon)
                 https://iflwatches.com/blogs/news/top-swiss-watch-brands-2022-a-report-by-morgan-stanley (Top Swiss Watch Brands 2022 - A Report By Morgan Stanley)
                 https://professionalwatches.com/morgan-stanleys-top-20-swiss-watch-company-ranking-for-2023 (Morgan Stanley’s Top 20 Swiss Watch Company Ranking for 2023)
                 https://www.amazon.com/Best-Sellers-Clothing-Shoes-Jewelry-Mens-Watches/zgbs/fashion/6358539011 (Best Sellers in Men's Watches)
@@ -4583,7 +4594,11 @@ Contents:
                 https://www.seikowatches.com/in-en/products/5sports/lineup (Seiko 5 Sports Lineup)
                 https://www.statista.com/statistics/789382/leading-luxury-watch-brands-sales (Sales revenue of the leading luxury watch brands worldwide in 2022)
                 https://www.watch-rankings.com/most-iconic-watches (Most Iconic Watches)
+                https://www.youtube.com/@islandwatch (Official YouTube channel of Long Island Watch. Marc shares all the watch knowledge you wanted but never knew you needed)
+                https://youtu.be/-1PvBADfQ0s (Top 20 Swiss Watch Brands According To Statistics - Watch Market Update 2023 by Teddy Baldassarre)
                 https://youtu.be/fMncXiA-AuE (Tachymeter Explained! (5 examples))
+                https://youtu.be/Sy4wusLxTBo (How to Use a Slide Rule on a Watch | Breitling Navitimer by Crown & Caliber by Hodinkee)
+                https://youtu.be/wC9gBMk7_ss (IN-DEPTH Guide - Everything You Need To Know About The OMEGA Co-Axial Escapement by Monochrome Watches)
 
         Stuff Worh Paid Subscription:
             https://1password.com
