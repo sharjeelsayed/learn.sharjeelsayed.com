@@ -1825,6 +1825,7 @@ Contents:
                 https://github.com/pluralsight/git-internals-pdf/releases (PeepCode Git Internals PDF:A PDF by Scott Chacon about how the Git source code control system stores files and revisions.)
                 https://github.com/topics/git?o=desc&s=stars
                 https://github.com/toptal/gitignore.io
+                https://github.com/tpope/vim-fugitive (fugitive.vim: A Git wrapper so awesome, it should be illegal https://www.vim.org/scripts/script.php?script_id=2975)
                 https://github.com/UnseenWizzard/git_training (An interactive git training meant to teach you how git works, not just which commands to execute)
                 https://grep.app (Search across a half million git repos)
                 https://jdsalaro.com/blog/git-tutorial (Git for Beginners: Zero to Hero 🐙)
@@ -3449,10 +3450,10 @@ Contents:
                 https://tabliss.io (A beautiful, customisable New Tab page for Firefox, Chrome, and Edge. )
                 https://unhook.app (Watch YouTube free of distractions. Block suggestion feeds, comments, and more)
                 https://www.eff.org/https-everywhere
-                https://www.fbpurity.com
+                https://www.fbpurity.com (F.B. Purity - Clean Up and Customize Facebook)
                 https://www.forbesconrad.com/blog/enable-password-pasting (Enable Password Pasting in Firefox)
                 https://www.joinhoney.com
-                https://www.mrfdev.com/enhancer-for-youtube
+                https://www.mrfdev.com/enhancer-for-youtube (Enhancer for YouTube)
 
         Books:
             Sources:
@@ -4583,6 +4584,7 @@ Contents:
                 https://iflwatches.com/blogs/news/top-swiss-watch-brands-2022-a-report-by-morgan-stanley (Top Swiss Watch Brands 2022 - A Report By Morgan Stanley)
                 https://professionalwatches.com/morgan-stanleys-top-20-swiss-watch-company-ranking-for-2023 (Morgan Stanley’s Top 20 Swiss Watch Company Ranking for 2023)
                 https://www.amazon.com/Best-Sellers-Clothing-Shoes-Jewelry-Mens-Watches/zgbs/fashion/6358539011 (Best Sellers in Men's Watches)
+                https://www.chrono24.com (Find your dream watch on the leading marketplace for luxury watches)
                 https://www.hodinkee.com (Hodinkee)
                 https://www.luxewatches.co.uk/most-popular-luxury-watches-around-world (The Most Popular Watch Brand Worldwide)
                 https://www.omegawatches.com/watch-omega-speedmaster-moonwatch-professional-co-axial-master-chronometer-chronograph-42-mm-31030425001002 (Omega Speedmaster Moonwatch Professional Co‑Axial Master Chronometer Chronograph 42 mm)
