@@ -806,6 +806,9 @@ Contents:
                 Linux Journey
                 https://linuxjourney.com
 
+                A Practical Guide to Linux Commands, Editors, and Shell Programming 4th Edition (November 9, 2017) by Mark G. Sobell
+                https://www.amazon.com/Practical-Guide-Commands-Editors-Programming/dp/0134774604
+
                 How Linux Works, 3rd Edition: What Every Superuser Should Know by Brian Ward
                 https://www.amazon.com/How-Linux-Works-Brian-Ward-ebook/dp/B07X7S1JMB
 
@@ -1396,6 +1399,7 @@ Contents:
                 https://iam.cloudonaut.io (Creating IAM policies is hard. We collect information from the AWS Documentation to make writing IAM policies easier)
                 https://instances.vantage.sh (Easy Amazon EC2 Instance Comparison)
                 https://linuxacademy-community-slack.herokuapp.com
+                https://miparnisariblog.wordpress.com/2023/03/29/aws-networking-concepts (AWS Networking Concepts)
                 https://trustoncloud.com/the-last-s3-security-document-that-well-ever-need (The last S3 security document that we’ll ever need, and how to use it)
                 https://www.amazon.com/aws-courses/b/?node=14297978011
                 https://www.chrisfarris.com/post/aws-organizations-in-2021 (AWS Organizations - Checklist for 2021)
@@ -4089,7 +4093,7 @@ Contents:
                         https://www.findareddit.com (Find Subreddits for your Niche)
 
                     Subscriptions:
-                        https://www.reddit.com/r/1Password+AWSCertifications+Alfred+AppHookup+AppleWatch+DataHoarder+Documentaries+ExperiencedDevs+Flights+FreeEBOOKS+ITCareerQuestions+IndiaInvestments+KindleFreebies+Piracy+Terraform+Ubuntu+Upwork+announcements+ansible+antiwork+apple+appletv+aws+compsci+cscareerquestions+dataisbeautiful+devops+diabetes+docker+freelance+hackernews+india+ipad+iphone+kindle+kubernetes+learnprogramming+linux+linuxadmin+mac+macapps+movies+netsec+nextdns+onebag+osx+programming+science+solotravel+sysadmin+technology+television+todayilearned+todoist+travel+usefulscripts+worldnews
+                        https://www.reddit.com/r/1Password+AWSCertifications+Alfred+AppHookup+AppleWatch+DataHoarder+Documentaries+ExperiencedDevs+Flights+FreeEBOOKS+ITCareerQuestions+IndiaInvestments+Piracy+Terraform+Ubuntu+Upwork+Watches+announcements+ansible+antiwork+apple+appletv+aws+compsci+cscareerquestions+dataisbeautiful+devops+diabetes+docker+freelance+gshock+india+ipad+iphone+kindle+kubernetes+learnprogramming+linux+linuxadmin+mac+macapps+movies+netsec+nextdns+onebag+osx+programming+science+solotravel+sysadmin+technology+television+todayilearned+todoist+travel+usefulscripts+worldnews
 
                 Hacker News:
                     https://apps.apple.com/us/app/hack-for-hacker-news-developer/id1464477788
@@ -4574,6 +4578,7 @@ Contents:
                 https://en.wikipedia.org/wiki/History_of_watches (History of watches)
                 https://en.wikipedia.org/wiki/Jaeger-LeCoultre#Reverso (Jaeger-LeCoultre Reverso)
                 https://en.wikipedia.org/wiki/List_of_most_expensive_watches_sold_at_auction (List of most expensive watches sold at auction)
+                https://en.wikipedia.org/wiki/Master_of_G (Master of G)
                 https://en.wikipedia.org/wiki/Omega_Seamaster (Omega Seamaster)
                 https://en.wikipedia.org/wiki/Omega_Speedmaster (Omega Speedmaster)
                 https://en.wikipedia.org/wiki/Patek_Philippe (Patek Philippe)
@@ -4583,11 +4588,17 @@ Contents:
                 https://en.wikipedia.org/wiki/Tourbillon (Tourbillon)
                 https://iflwatches.com/blogs/news/top-swiss-watch-brands-2022-a-report-by-morgan-stanley (Top Swiss Watch Brands 2022 - A Report By Morgan Stanley)
                 https://professionalwatches.com/morgan-stanleys-top-20-swiss-watch-company-ranking-for-2023 (Morgan Stanley’s Top 20 Swiss Watch Company Ranking for 2023)
+                https://shockbase.org/advanced_search.php (G-Shock Advanced Search)
+                https://shockbase.org/watches/compare.php (G-Shock Compare Watches)
+                https://shockbase.org/watches/ranking.php?weight1=41&weight2=297&height1=38.54&height2=66&display=%25&suchen=Update+Ranking (Best G-Shock watches in terms of functions and features)
                 https://www.amazon.com/Best-Sellers-Clothing-Shoes-Jewelry-Mens-Watches/zgbs/fashion/6358539011 (Best Sellers in Men's Watches)
+                https://www.casio.com/in/watches/protrek/product.PRG-240T-7 (Pro Trek PRG-240T-7)
+                https://www.casio.com/intl/watches/gshock/product.GW-9400-1 (G-Shock Rangeman)
                 https://www.chrono24.com (Find your dream watch on the leading marketplace for luxury watches)
                 https://www.hodinkee.com (Hodinkee)
-                https://www.luxewatches.co.uk/most-popular-luxury-watches-around-world (The Most Popular Watch Brand Worldwide)
+                https://www.hodinkee.com/articles/think-you-can-name-every-single-watch-thats-ever-gone-to-space (Interview Think You Can Name Every Single Watch That's Ever Gone To Space? There are 1,899 of them. Meet the man that's cataloging them all in one database.)
                 https://www.omegawatches.com/watch-omega-speedmaster-moonwatch-professional-co-axial-master-chronometer-chronograph-42-mm-31030425001002 (Omega Speedmaster Moonwatch Professional Co‑Axial Master Chronometer Chronograph 42 mm)
+                https://www.reddit.com/r/gshock (r/gshock)
                 https://www.reddit.com/r/Watches/comments/5obyi8/world_leaders_watches_of_current_leaders_around (Watches of current leaders around the world)
                 https://www.reddit.com/r/Watches/comments/swczxm/design_what_are_truly_iconic_yet_affordable ([Design] What are truly iconic, yet affordable, watches?)
                 https://www.reddit.com/r/Watches/comments/ylijh4/questiondiscussions_most_iconic_watches ([Question/Discussions] Most Iconic Watches)
