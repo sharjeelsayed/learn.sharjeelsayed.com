@@ -1826,6 +1826,7 @@ Contents:
                 https://github.com/jesseduffield/lazygit (simple terminal UI for git commands)
                 https://github.com/k88hudson/git-flight-rules (Flight rules for git)
                 https://github.com/LeCoupa/awesome-cheatsheets/blob/master/tools/git.sh
+                https://github.com/martinvonz/jj (A Git-compatible DVCS that is both simple and powerful)
                 https://github.com/pluralsight/git-internals-pdf/releases (PeepCode Git Internals PDF:A PDF by Scott Chacon about how the Git source code control system stores files and revisions.)
                 https://github.com/topics/git?o=desc&s=stars
                 https://github.com/toptal/gitignore.io
@@ -2031,6 +2032,7 @@ Contents:
                 https://dev-sec.io (devops + security Server Hardening Automation Using Ansible)
                 https://en.wikipedia.org/wiki/List_of_computer_security_certifications#Most_Popular_Vendor_Neutral_Cyber_Security_Certifications_Among_employers
                 https://github.com/0x90n/InfoSec-Black-Friday (All the deals for InfoSec related software/tools this Black Friday)
+                https://github.com/0xsyr0/Awesome-Cybersecurity-Handbooks (A huge chunk of my personal notes since I started playing CTFs and working as a Red Teamer.)
                 https://github.com/4ndersonLin/awesome-cloud-security (Awesome Cloud Security Resources)
                 https://github.com/6mile/DevSecOps-Playbook (This is a step-by-step guide to implementing a DevSecOps program for any size organization)
                 https://github.com/A-poc/RedTeam-Tools (Tools and Techniques for Red Team / Penetration Testing)
@@ -2066,6 +2068,7 @@ Contents:
                 https://github.com/Legit-Labs/legitify
                 https://github.com/Lissy93/awesome-privacy (🦄 A curated list of privacy & security-focused software and services)
                 https://github.com/Lissy93/personal-security-checklist (🔒 A curated checklist of 300+ tips for protecting digital security and privacy in 2021)
+                https://github.com/Manisso/fsociety (fsociety Hacking Tools Pack – A Penetration Testing Framework)
                 https://github.com/mazen160/secrets-patterns-db (Secrets Patterns DB: The largest open-source Database for detecting secrets, API keys, passwords, tokens, and more.)
                 https://github.com/mikeprivette/awesome-sec-challenges (A curated list of Awesome Security Challenges.)
                 https://github.com/myugan/awesome-cicd-security (📚 A curated list of awesome CI CD security resources)
@@ -4592,6 +4595,7 @@ Contents:
                 https://shockbase.org/watches/compare.php (G-Shock Compare Watches)
                 https://shockbase.org/watches/ranking.php?weight1=41&weight2=297&height1=38.54&height2=66&display=%25&suchen=Update+Ranking (Best G-Shock watches in terms of functions and features)
                 https://support.casio.com/storage/en/manual/pdf/EN/009/qw3246.pdf (Casio G-Shock GW-9400 User Manual)
+                https://teddybaldassarre.com/blogs/watches/iconic-watches (The 28 Most Iconic Watches of All Time and the Case for Each by Mark Bernardo. June 2023)
                 https://www.amazon.com/Best-Sellers-Clothing-Shoes-Jewelry-Mens-Watches/zgbs/fashion/6358539011 (Best Sellers in Men's Watches)
                 https://www.casio.com/in/watches/protrek/product.PRG-240T-7 (Pro Trek PRG-240T-7)
                 https://www.casio.com/intl/watches/gshock/product.GW-9400-1 (G-Shock Rangeman)
@@ -4599,11 +4603,13 @@ Contents:
                 https://www.hodinkee.com (Hodinkee)
                 https://www.hodinkee.com/articles/think-you-can-name-every-single-watch-thats-ever-gone-to-space (Interview Think You Can Name Every Single Watch That's Ever Gone To Space? There are 1,899 of them. Meet the man that's cataloging them all in one database.)
                 https://www.omegawatches.com/media/pdf/user-manuals/OMEGA_User_Manual_EN.pdf (Omega User Manual)
+                https://www.omegawatches.com/planet-omega/cinema/james-bond (Planet Omega James Bond)
                 https://www.omegawatches.com/watch-omega-seamaster-diver-300m-co-axial-master-chronometer-42-mm-21090422001001 (Omega Seamaster Diver 300M Co‑Axial Master Chronometer 42 mm 007 Edition)
                 https://www.omegawatches.com/watch-omega-speedmaster-moonwatch-professional-co-axial-master-chronometer-chronograph-42-mm-31030425001002 (Omega Speedmaster Moonwatch Professional Co‑Axial Master Chronometer Chronograph 42 mm)
                 https://www.reddit.com/r/gshock (r/gshock)
                 https://www.reddit.com/r/Watches/comments/5obyi8/world_leaders_watches_of_current_leaders_around (Watches of current leaders around the world)
-                https://www.reddit.com/r/Watches/comments/swczxm/design_what_are_truly_iconic_yet_affordable ([Design] What are truly iconic, yet affordable, watches?)
+                https://www.reddit.com/r/Watches/comments/sqr6c8/meta_i_analyzed_the_top_500_posts_of_all_time ([META] I analyzed the top 500 posts of all time. Here are the 15 most popular brands by some metrics)
+                https://www.reddit.com/r/Watches/comments/xfw4q2/meta_i_analyzed_the_most_popular_watches_on ([Meta] I analyzed the most popular watches on Reddit (r/Watches))
                 https://www.reddit.com/r/Watches/comments/ylijh4/questiondiscussions_most_iconic_watches ([Question/Discussions] Most Iconic Watches)
                 https://www.reddit.com/r/Watches/wiki (r/Watches Wiki)
                 https://www.reddit.com/r/Watches/wiki/brandguide (/r/Watches Brand Guide)
