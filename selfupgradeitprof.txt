@@ -372,6 +372,7 @@ Contents:
 
         Computer Architecture:
             Sources:
+                https://github.com/hackclub/putting-the-you-in-cpu (A technical explainer by @kognise of how your computer runs programs, from start to finish. https://cpu.land)
                 https://news.ycombinator.com/item?id=14526344 (Build a Modern Computer from First Principles: Nand to Tetris Part II)
 
             Books and Courses:
@@ -1007,6 +1008,7 @@ Contents:
             Sources:
                 https://cheatsheetseries.owasp.org/cheatsheets/Docker_Security_Cheat_Sheet.html
                 https://containersfromthecouch.com
+                https://devopswithdocker.com (DevOps with Docker Containers for Beginners by University of Helsinki)
                 https://geshan.com.np/blog/2022/05/docker-commands (10 useful Docker commands to get things done with a real-life example)
                 https://github.com/abiosoft/colima (Container runtimes on macOS (and Linux) with minimal setup)
                 https://github.com/docker/docker-bench-security
@@ -4603,11 +4605,15 @@ Contents:
                 https://support.casio.com/storage/en/manual/pdf/EN/009/qw3246.pdf (Protrek PRG-240T-7 Module No.3246 User Manual)
                 https://support.casio.com/storage/en/manual/pdf/EN/009/qw3410.pdf (RANGEMAN Module No.3410 User Manual)
                 https://teddybaldassarre.com/blogs/watches/iconic-watches (The 28 Most Iconic Watches of All Time and the Case for Each by Mark Bernardo. June 2023)
+                https://watchcharts.com (Market insights for watch collectors)
+                https://watchcharts.com/watch_model/30921-omega-speedmaster-professional-moonwatch-310-30-42-50-01-002 (Market Watch Analysis for  Omega 310.30.42.50.01.002 Speedmaster Professional Moonwatch (Sapphire Crystal)
+                https://watchcharts.com/watch_model/4706-omega-210-90-42-20-01-001 (Market Watch Analysis for Omega 210.90.42.20.01.001 Seamaster NTTD)
                 https://www.amazon.com/Best-Sellers-Clothing-Shoes-Jewelry-Mens-Watches/zgbs/fashion/6358539011 (Best Sellers in Men's Watches)
                 https://www.amazon.com/Best-Sellers-Clothing-Shoes-Jewelry-Watch-Repair-Tools-Kits/zgbs/fashion/378531011 (Best Sellers in Watch Repair Tools & Kits)
                 https://www.amazon.in/gp/bestsellers/watches/1375490031 (Bestsellers in Watch Boxes)
                 https://www.casio.com/in/watches/gshock/product.GW-9400Y-1 (MASTER OF G - LAND RANGEMAN GW-9400Y-1)
                 https://www.casio.com/in/watches/protrek/product.PRG-240T-7 (PRG-240 Series PRG-240T-7)
+                https://www.chrono24.in (The World's Leading Watch Market)
                 https://www.hodinkee.com/articles/think-you-can-name-every-single-watch-thats-ever-gone-to-space (Interview Think You Can Name Every Single Watch That's Ever Gone To Space? There are 1,899 of them. Meet the man that's cataloging them all in one database.)
                 https://www.omegawatches.com/media/pdf/user-manuals/OMEGA_User_Manual_EN.pdf (Omega User Manual)
                 https://www.omegawatches.com/planet-omega/cinema/james-bond (Planet Omega James Bond)
@@ -4617,7 +4623,6 @@ Contents:
                 https://www.reddit.com/r/Watches/comments/5obyi8/world_leaders_watches_of_current_leaders_around (Watches of current leaders around the world)
                 https://www.reddit.com/r/Watches/comments/sqr6c8/meta_i_analyzed_the_top_500_posts_of_all_time ([META] I analyzed the top 500 posts of all time. Here are the 15 most popular brands by some metrics)
                 https://www.reddit.com/r/Watches/comments/xfw4q2/meta_i_analyzed_the_most_popular_watches_on ([Meta] I analyzed the most popular watches on Reddit (r/Watches))
-                https://www.reddit.com/r/Watches/comments/ylijh4/questiondiscussions_most_iconic_watches ([Question/Discussions] Most Iconic Watches)
                 https://www.reddit.com/r/Watches/comments/zw86rq/myth_busting_i_talked_to_my_watchmaker_about ([Myth Busting] I talked to my watchmaker about water resistance…)
                 https://www.reddit.com/r/Watches/wiki/brandguide (/r/Watches Brand Guide)
                 https://www.reddit.com/r/Watches/wiki/faq (r/Watches FAQ)
