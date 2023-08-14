@@ -1815,6 +1815,7 @@ Contents:
                 https://git-scm.com/book/en/v2/Git-Internals-Plumbing-and-Porcelain
                 https://git-scm.com/book/en/v2/Git-Tools-Reset-Demystified (Reset vs Checkout)
                 https://gitexplorer.com (Find the right commands you need without digging through the web)
+                https://github.com/acaudwell/Gource (software version control visualization https://gource.io)
                 https://github.com/AndreMiras/gitpop2 (Find the most popular fork on GitHub)
                 https://github.com/bigH/git-fuzzy (interactive `git` with the help of `fzf`)
                 https://github.com/dandavison/delta (A viewer for git and diff output)
@@ -2210,6 +2211,7 @@ Contents:
                 https://github.com/nikitavoloboev/my-mac-os (List of applications and tools that make my macOS experience even more amazing)
                 https://github.com/sb2nov/mac-setup (Installing Development environment on macOS)
                 https://github.com/serhii-londar/open-source-mac-os-apps (🚀 Awesome list of open source applications for macOS.)
+                https://github.com/sveinbjornt/Sloth (Mac app that shows all open files, directories, sockets, pipes and devices in use by all running processes. Nice GUI for lsof. https://sveinbjorn.org/sloth)
                 https://github.com/topics/macos?o=desc&s=stars
                 https://isapplesiliconready.com (The complete guide for MacOS Apps Optimized for Apple Silicon Macs and the M1 Processor)
                 https://medium.com/@cav/foss-password-management-with-passwordstore-9d34fec2fe84
@@ -3110,6 +3112,7 @@ Contents:
         Freelancing:
             Sources:
                 https://docs.google.com/spreadsheets/d/1JfNAbUX_lN9K3MCNHO15GJtJ5qpk7H9Cl3xTBwv2FR8 (Remote Jobs or Gigs Platforms)
+                https://en.wikipedia.org/wiki/Alan_Weiss_(entrepreneur) (Alan Weiss)
                 https://hn.algolia.com/?dateRange=pastYear&page=0&prefix=true&query=upwork&sort=byPopularity&type=story
                 https://news.ycombinator.com/item?id=16651077 (Ask HN: How do you find freelance work?)
                 https://news.ycombinator.com/item?id=18829691 (Ask HN: Fastest way to get started with freelancing?)
@@ -4605,7 +4608,7 @@ Contents:
                 https://support.casio.com/storage/en/manual/pdf/EN/009/qw3246.pdf (Protrek PRG-240T-7 Module No.3246 User Manual)
                 https://support.casio.com/storage/en/manual/pdf/EN/009/qw3410.pdf (RANGEMAN Module No.3410 User Manual)
                 https://teddybaldassarre.com/blogs/watches/iconic-watches (The 28 Most Iconic Watches of All Time and the Case for Each by Mark Bernardo. June 2023)
-                https://watchcharts.com (Market insights for watch collectors)
+                https://watchcharts.com/screener (Watch Screener: Find watches based on specifications and market performance.)
                 https://watchcharts.com/watch_model/30921-omega-speedmaster-professional-moonwatch-310-30-42-50-01-002 (Market Watch Analysis for  Omega 310.30.42.50.01.002 Speedmaster Professional Moonwatch (Sapphire Crystal)
                 https://watchcharts.com/watch_model/4706-omega-210-90-42-20-01-001 (Market Watch Analysis for Omega 210.90.42.20.01.001 Seamaster NTTD)
                 https://www.amazon.com/Best-Sellers-Clothing-Shoes-Jewelry-Mens-Watches/zgbs/fashion/6358539011 (Best Sellers in Men's Watches)
