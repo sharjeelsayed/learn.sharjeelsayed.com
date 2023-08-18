@@ -2095,6 +2095,7 @@ Contents:
                 https://github.com/topics/websecurity?o=desc&s=stars
                 https://github.com/veeral-patel/learn-security-engineering
                 https://github.com/z1pti3/jimi (Jimi is an automation first no-code platform designed and developed originally for Security Orchestration and Response. Since its launch jimi has developed into a fully fledged IT automation platform which effortlessly integrates with your existing tools unlocking the potential for autonomous IT and Security operations.)
+                https://github.com/Z4nzu/hackingtool ( ALL IN ONE Hacking Tool For Hackers forms.gle/ntuAX8BGRR5yAb9ZA )
                 https://gtfobins.github.io (GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems.)
                 https://hrushikeshk.github.io/blog/2018/01/15/security-resources
                 https://ishaqmohammed.me/posts/application-security-knowledgebase (Application Security Knowledgebase)
@@ -2962,6 +2963,7 @@ Contents:
         Resume Improvement:
             Sources:
                 https://blog.pragmaticengineer.com/the-pragmatic-engineers-resume-template (The Pragmatic Engineer's Resume Template by Gergely Orosz)
+                https://bytebreach.com/how-to-write-an-infosec-resume (How to Write an InfoSec Resume)
                 https://gitconnected.com
                 https://github.com/coderjojo/creative-profile-readme (A Collection of GitHub Profiles with awesome readme)
                 https://github.com/posquit0/Awesome-CV
