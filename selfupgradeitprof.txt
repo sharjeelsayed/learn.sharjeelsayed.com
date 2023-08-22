@@ -951,6 +951,8 @@ Contents:
         tmux:
             Sources:
                 https://github.com/rothgar/awesome-tmux
+                https://github.com/tmux-plugins/list (List of tmux plugins)
+                https://github.com/tmux-plugins/tpm (Tmux Plugin Manager)
                 https://github.com/topics/tmux?o=desc&s=stars
                 https://gitlab.com/gnachman/iterm2/-/wikis/tmux-Integration-Best-Practices
                 https://hn.algolia.com/?dateRange=all&page=0&prefix=false&query=tmux&sort=byPopularity&type=all
@@ -959,9 +961,10 @@ Contents:
                 https://waylonwalker.com/tmux-fzf-session-jump (tmux fzf session jumper)
                 https://www.byobu.org (Byobu is a GPLv3 open source text-based window manager and terminal multiplexer.)
                 https://www.commandlinefu.com/commands/matching/tmux/dG11eA==/sort-by-votes
-                https://www.iterm2.com/documentation-tmux-integration.html
+                https://www.iterm2.com/documentation-tmux-integration.html (iTerm2 is integrated with tmux, allowing you to enjoy a native user interface with all the benefits of tmux's persistence.)
                 https://www.stationx.net/tmux-cheat-sheet (Tmux Cheat Sheet: Essential Commands And Quick References)
                 https://xai.sh/2020/10/16/Move-running-process-into-tmux-session.html (Move a running process into a tmux session)
+                https://youtu.be/DzNmUNvnB04 (Tmux has forever changed the way I write code by Dreams of Code)
                 https://pinboard.in/u:SharjeelSayed/t:tmux
 
         Windows:
@@ -3829,6 +3832,7 @@ Contents:
                 https://www.reddit.com/r/AskReddit/comments/5x2r6b/reddit_what_are_some_must_see_documentaries
                 https://www.reddit.com/r/AskReddit/comments/7yvhmi/what_is_the_most_interesting_documentary_youve
                 https://www.reddit.com/r/Documentaries/wiki
+                https://www.susanrigetti.com/physics (So You Want to Learn Physics…SECOND EDITION by Susan J. Rigetti)
                 https://www.theguardian.com/books/booksblog/2017/jul/20/dawkins-sees-off-darwin-in-vote-for-most-influential-science-book
 
             Books and Courses:
@@ -4625,6 +4629,7 @@ Contents:
                 https://www.omegawatches.com/watch-omega-seamaster-diver-300m-co-axial-master-chronometer-42-mm-21090422001001 (Omega Seamaster Diver 300M Co‑Axial Master Chronometer 42 mm 007 Edition)
                 https://www.omegawatches.com/watch-omega-speedmaster-moonwatch-professional-co-axial-master-chronometer-chronograph-42-mm-31030425001002 (Omega Speedmaster Moonwatch Professional Co‑Axial Master Chronometer Chronograph 42 mm)
                 https://www.reddit.com/r/gshock (r/gshock)
+                https://www.reddit.com/r/Watches/comments/4mp3w7/resources_ive_compiled_all_the_best_documentaries ([Resources] I've compiled all the best documentaries, videos, books, channels, websites, and more about watches, movements, watch history, and watch culture. Great resources for newbies and veterans. 100+ videos, 15+ books, etc. I hope the community finds this useful!)
                 https://www.reddit.com/r/Watches/comments/5obyi8/world_leaders_watches_of_current_leaders_around (Watches of current leaders around the world)
                 https://www.reddit.com/r/Watches/comments/sqr6c8/meta_i_analyzed_the_top_500_posts_of_all_time ([META] I analyzed the top 500 posts of all time. Here are the 15 most popular brands by some metrics)
                 https://www.reddit.com/r/Watches/comments/xfw4q2/meta_i_analyzed_the_most_popular_watches_on ([Meta] I analyzed the most popular watches on Reddit (r/Watches))
