@@ -4114,7 +4114,7 @@ Contents:
                         https://www.findareddit.com (Find Subreddits for your Niche)
 
                     Subscriptions:
-                        https://www.reddit.com/r/1Password+AWSCertifications+Alfred+AppHookup+AppleWatch+DataHoarder+Documentaries+ExperiencedDevs+Flights+FreeEBOOKS+ITCareerQuestions+IndiaInvestments+Piracy+Terraform+Ubuntu+Upwork+Watches+announcements+ansible+antiwork+apple+appletv+aws+compsci+cscareerquestions+dataisbeautiful+devops+diabetes+docker+freelance+gshock+india+ipad+iphone+kindle+kubernetes+learnprogramming+linux+linuxadmin+mac+macapps+movies+netsec+nextdns+onebag+osx+programming+science+solotravel+sysadmin+technology+television+todayilearned+todoist+travel+usefulscripts+worldnews
+                        https://old.reddit.com/r/1Password+AWSCertifications+Alfred+AppHookup+AppleWatch+BuyItForLife+DataHoarder+Documentaries+ExperiencedDevs+Flights+FreeEBOOKS+ITCareerQuestions+IndiaInvestments+Piracy+Terraform+Ubuntu+Upwork+Watches+announcements+ansible+antiwork+apple+appletv+aws+compsci+cscareerquestions+dataisbeautiful+devops+diabetes+docker+freelance+gshock+india+ipad+iphone+kindle+kubernetes+learnprogramming+linux+linuxadmin+mac+macapps+movies+netsec+nextdns+onebag+osx+programming+science+solotravel+sysadmin+technology+television+todayilearned+todoist+travel+usefulscripts+worldnews
 
                 Hacker News:
                     https://apps.apple.com/us/app/hack-for-hacker-news-developer/id1464477788
@@ -4529,6 +4529,7 @@ Contents:
                 https://www.amazon.com/gp/bestsellers/books/689734011 (Best Sellers in Emergency Medicine)
                 https://www.amazon.com/gp/bestsellers/books/8975382011 (Best Sellers in Survival & Emergency Preparedness)
                 https://www.nyrequirements.com/blog/the-top-5-causes-of-death-in-every-country (The Top 5 Causes of Death in Every Country)
+                https://www.reddit.com/r/EDC/comments/112h0rq/edc_starter_pack_an_arbitrary_list_of_gear_that (EDC Starter Pack: An Arbitrary List of Gear that Gets Recommended a Lot)
 
             Books:
                 Where There Is No Doctor: A Village Health Care Handbook, Revised Edition
@@ -4743,6 +4744,7 @@ Contents:
         https://www.domestika.org (Best online courses for creatives)
         https://www.howacarworks.com/video-course (Understand everything inside a modern car by by Alex Muir.Automotive Engineering 20 hour Video Course)
         https://www.justwatch.com/in?genres=doc
+        https://www.looria.com/reddit/BuyItForLife/brand-popularity (The most popular brands on r/BuyItForLife)
         https://www.nala.ie/resources/better-handwriting-adults
         https://www.nytimes.com/interactive/2022/science/astronomy-space-calendar.html (New York Times’s space and astronomy calendar)
         https://www.producthunt.com (The place to launch and discover new tech products)
@@ -4750,6 +4752,7 @@ Contents:
         https://www.reddit.com/r/AskReddit/comments/6k0p7l/what_are_the_best_free_online_certificates_you
         https://www.reddit.com/r/AskReddit/comments/6q2b8x/reddit_whats_become_clear_to_you_as_youve_gotten
         https://www.reddit.com/r/AskReddit/comments/70q5f2/reddit_what_are_the_most_useful_askreddit_posts
+        https://www.reddit.com/r/BuyItForLife/comments/vxeudm/i_analyzed_the_most_and_least_popular_brands_on (I analyzed the most and least popular brands on r/BuyItForLife)
         https://www.reddit.com/r/dataisbeautiful/comments/ujuui4/oc_the_most_discussed_brands_on_rbuyitforlife (OC: The most discussed brands on r/BuyItForLife)
         https://www.reddit.com/r/EDC/comments/7j7lrs/edc_starter_pack_an_arbitrary_list_of_gear_that (EDC Starter Pack: An Arbitrary List of Gear that Gets Recommended a Lot)
         https://www.reddit.com/r/EDC/comments/ur36lf/i_analyzed_the_top_50_most_mentioned_products_on (I analyzed the top 50 most mentioned products on r/EDC)
