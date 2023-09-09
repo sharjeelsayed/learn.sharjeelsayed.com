@@ -280,6 +280,7 @@ Contents:
                 https://github.com/topics/programming?o=desc&s=stars
                 https://github.com/tuvtran/project-based-learning
                 https://github.com/twowaits/SDE-Interview-Questions
+                https://github.com/veler/DevToys (A Swiss Army knife for developers. https://devtoys.app)
                 https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=every%20programmer&sort=byPopularity&type=story (Things every programmer should know)
                 https://learnxinyminutes.com
                 https://mapfilterfold.com/?genre=programming
@@ -869,6 +870,7 @@ Contents:
                 http://redsymbol.net/articles/unofficial-bash-strict-mode
                 https://altbox.dev (A collection of power tools for the Linux/Unix/macOS command line)
                 https://andrew-quinn.me/fzf (So you've installed `fzf`. Now what?)
+                https://antonz.org/mastering-curl (Mastering curl: interactive text guide)
                 https://explainshell.com (write down a command-line to see the help text that matches each argument)
                 https://github.com/adrianscheff/useful-sed (Useful sed scripts & patterns)
                 https://github.com/alebcay/awesome-shell (A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.)
@@ -975,6 +977,7 @@ Contents:
             Sources:
                 https://github.com/Awesome-Windows/Awesome
                 https://github.com/Disassembler0/Win10-Initial-Setup-Script
+                https://github.com/microsoft/PowerToys (Windows system utilities to maximize productivity)
                 https://github.com/topics/windows-10?o=desc&s=stars
                 https://github.com/W4RH4WK/Debloat-Windows-10
                 https://news.ycombinator.com/item?id=19698620 (Ask HN: How do you secure your Windows PC?)
