@@ -505,6 +505,7 @@ Contents:
                 https://beej.us/guide/bgnet (Beej's Guide to Network Programming Using Internet Sockets)
                 https://github.com/gchq/CyberChef (The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis)
                 https://github.com/kffl/speedbump (TCP proxy for simulating variable, yet predictable network latency 🌐⏳)
+                https://github.com/leandromoreira/linux-network-performance-parameters (Learn where some of the network sysctl variables fit into the Linux/Kernel network flow. Translations: 🇷🇺 )
                 https://github.com/mininet/mininet/wiki/Teaching-and-Learning-with-Mininet
                 https://github.com/saminiir/level-ip
                 https://learn.cantrill.io/p/tech-fundamentals (Tech Fundamentals by Adrian Cantrill)
@@ -780,6 +781,7 @@ Contents:
                 https://github.com/ibraheemdev/modern-unix (A collection of modern/faster/saner alternatives or complements to common unix commands.)
                 https://github.com/imthenachoman/How-To-Secure-A-Linux-Server (An evolving how-to guide for securing a Linux server.)
                 https://github.com/inputsh/awesome-linux
+                https://github.com/leandromoreira/linux-network-performance-parameters (Learn where some of the network sysctl variables fit into the Linux/Kernel network flow. Translations: 🇷🇺 )
                 https://github.com/luong-komorebi/Awesome-Linux-Software
                 https://github.com/r-darwish/topgrade (Upgrade everything)
                 https://github.com/sysprog21/lkmpg (The Linux Kernel Module Programming Guide (updated for 5.x kernels))
@@ -798,13 +800,13 @@ Contents:
                 https://tldr.sh (Simplified and community-driven man pages)
                 https://tuxurls.com
                 https://www.amazon.com/Best-Sellers-Books-Linux-Operating-System/zgbs/books/3849 (Best Sellers in Linux Operating System)
+                https://www.brendangregg.com/linuxperf.html (Brendan Gregg's Linux Internals Maps)
                 https://www.digitalocean.com/community/tutorials?primary_filter=popular
                 https://www.reddit.com/r/linux/comments/gc1wmr/list_of_largest_linux_distro_subreddits
                 https://www.reddit.com/r/linux4noobs/wiki/resources
                 https://www.reddit.com/r/linuxadmin/comments/2s924h/how_did_you_get_your_start/cnnw1ma
                 https://www.reddit.com/r/linuxadmin/comments/7cw116/favorite_posts_youve_bookmarked_or_saved
                 https://www.reddit.com/r/Ubuntu+linux+linuxadmin
-                https://www.brendangregg.com/linuxperf.html (Brendan Gregg's Linux Internals Maps)
 
             Books and Courses:
                 Linux Journey
@@ -1854,7 +1856,7 @@ Contents:
                 https://news.ycombinator.com/item?id=21189256 (99% of the Git commands you'll need at work, demonstrated in a single script (bitbucket.org))
                 https://nfarina.com/post/9868516270/git-is-simpler
                 https://nvie.com/posts/a-successful-git-branching-model
-                https://ohshitgit.com
+                https://ohshitgit.com (Bad situations I've gotten myself into, and how I eventually got myself out of them in plain english.)
                 https://shalithasuranga.medium.com/how-does-git-work-internally-7c36dcb1f2cf
                 https://sourcegraph.com/search (Search your code and 2M+ open source repositories)
                 https://stackoverflow.com/questions/tagged/git
@@ -1872,6 +1874,10 @@ Contents:
                 https://youtu.be/2sjqTHE0zok (Lecture 6: Version Control (git) (2020) by Missing Semester)
 
             Books and Courses:
+                Git Concepts:
+                https://think-like-a-git.net (Think Like (a) Git A Guide for the Perplexed)
+                https://www.cduan.com/technical/git (Understanding Git Conceptually)
+
                 Pro Git
                 https://git-scm.com/book/en/v2
 
@@ -2133,6 +2139,7 @@ Contents:
                 https://s3ctur.wordpress.com/2017/06/19/breaking-into-infosec-a-beginners-curriculum
                 https://security.stackexchange.com/questions/46666/at-what-length-does-a-password-stop-making-sense
                 https://sgtdede.gitbook.io/hacking/oscp-2022/guide-en (OSCP guide 2022)
+                https://softwareanalyst.substack.com/p/the-beginners-guide-to-cybersecurity (The Beginner's Guide to Cybersecurity)
                 https://sysdig.com/blog/top-owasp-kubernetes (The OWASP Kubernetes Top 10 puts all possible risks in an order of overall commonality or probability.)
                 https://tcm-sec.com/so-you-want-to-be-a-hacker-2021-edition (So You Want to Be a Hacker: 2021 Edition)
                 https://tib3rius.com/interview-questions.html (Web AppSec Interview Questions)
