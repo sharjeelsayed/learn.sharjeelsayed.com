@@ -2244,6 +2244,7 @@ Contents:
                 https://news.ycombinator.com/item?id=24391899 (	Hard to discover tips and apps for macOS (thume.ca))
                 https://news.ycombinator.com/item?id=29577272 (Clever uses of pass, the Unix password manager (vitalyparnas.com))
                 https://news.ycombinator.com/item?id=29742551 (	macOS Setup after 15 Years of Linux (hookrace.net))
+                https://notes.alinpanaitiu.com/Restarting-macOS-apps-automatically-on-crash (Restarting macOS apps automatically on crash)
                 https://objective-see.com/products.html (Free Mac Security Tools)
                 https://opensource.com/article/19/5/python-3-default-mac (The right and wrong way to set Python 3 as default on a Mac)
                 https://renegadevi.gitlab.io/mac-app-collection (Find hidden gem apps to improve your Mac.)
