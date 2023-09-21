@@ -777,6 +777,7 @@ Contents:
                 https://biriukov.dev/docs/page-cache/0-linux-page-cache-for-sre ( SRE deep dive into Linux Page Cache)
                 https://dashdash.io (Linux Man Pages)
                 https://github.com/0xAX/linux-insides
+                https://github.com/89luca89/distrobox (Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at: https://gitlab.com/89luca89/distrobox https://distrobox.privatedns.org)
                 https://github.com/canonical/multipass (Multipass orchestrates virtual Ubuntu instances)
                 https://github.com/ibraheemdev/modern-unix (A collection of modern/faster/saner alternatives or complements to common unix commands.)
                 https://github.com/imthenachoman/How-To-Secure-A-Linux-Server (An evolving how-to guide for securing a Linux server.)
@@ -3458,8 +3459,10 @@ Contents:
                 https://news.ycombinator.com/item?id=22778123 (Ask HN: What do you use to keep track of bookmarks/notes/snippets?)
                 https://news.ycombinator.com/item?id=23445382 (Show HN: Some Bookmarklets, I Use (ph-uhl.com))
                 https://news.ycombinator.com/item?id=29314560 (Ask HN: What browser extensions are a must-have in 2021?)
+                https://news.ycombinator.com/item?id=37586894 (Block annoyances via ublock origin)
 
             Extensions:
+                https://1blocker.com (The Fastest & Most Powerful Blocker for Safari)
                 https://addons.mozilla.org/en-GB/firefox/addon/foxytab
                 https://addons.mozilla.org/en-US/firefox/addon/auto-tab-discard
                 https://addons.mozilla.org/en-US/firefox/addon/firefox-translations
@@ -3486,6 +3489,7 @@ Contents:
                 https://languagetoolplus.com
                 https://news.ycombinator.com/item?id=23446504 ("Remove sticky" bookmarklet)
                 https://newsit.benwinding.com
+                https://oblador.github.io/hush (Block nags to accept cookies and privacy  invasive tracking in Safari on Mac, iPhone and iPad.)
                 https://privacybadger.org
                 https://support.1password.com/getting-started-1password-x
                 https://support.mozilla.org/en-US/kb/focus
