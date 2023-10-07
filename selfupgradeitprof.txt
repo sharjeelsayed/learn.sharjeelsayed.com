@@ -779,6 +779,7 @@ Contents:
                 https://dashdash.io (Linux Man Pages)
                 https://github.com/0xAX/linux-insides
                 https://github.com/89luca89/distrobox (Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at: https://gitlab.com/89luca89/distrobox https://distrobox.privatedns.org)
+                https://github.com/a13xp0p0v/kernel-hardening-checker (A tool for checking the security hardening options of the Linux kernel)
                 https://github.com/canonical/multipass (Multipass orchestrates virtual Ubuntu instances)
                 https://github.com/ibraheemdev/modern-unix (A collection of modern/faster/saner alternatives or complements to common unix commands.)
                 https://github.com/imthenachoman/How-To-Secure-A-Linux-Server (An evolving how-to guide for securing a Linux server.)
@@ -2063,6 +2064,7 @@ Contents:
                 https://github.com/4ndersonLin/awesome-cloud-security (Awesome Cloud Security Resources)
                 https://github.com/6mile/DevSecOps-Playbook (This is a step-by-step guide to implementing a DevSecOps program for any size organization)
                 https://github.com/A-poc/RedTeam-Tools (Tools and Techniques for Red Team / Penetration Testing)
+                https://github.com/a13xp0p0v/kernel-hardening-checker (A tool for checking the security hardening options of the Linux kernel)
                 https://github.com/aquasecurity/cloudsploit (CloudSploit by Aqua is an open-source project designed to allow detection of security risks in cloud infrastructure accounts, including: Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform (GCP), Oracle Cloud Infrastructure (OCI), and GitHub.)
                 https://github.com/armosec/kubescape (kubescape is the first tool for testing if Kubernetes is deployed securely as defined in Kubernetes Hardening Guidance by to NSA and CISA)
                 https://github.com/Arudjreis/awesome-security-GRC (Curated list of resources for security Governance, Risk Management, Compliance and Audit professionals and enthusiasts (if they exist).)
@@ -2148,6 +2150,7 @@ Contents:
                 https://sysdig.com/blog/top-owasp-kubernetes (The OWASP Kubernetes Top 10 puts all possible risks in an order of overall commonality or probability.)
                 https://tcm-sec.com/so-you-want-to-be-a-hacker-2021-edition (So You Want to Be a Hacker: 2021 Edition)
                 https://tib3rius.com/interview-questions.html (Web AppSec Interview Questions)
+                https://tldrsec.com/p/software-supply-chain-vendor-landscape (Software Supply Chain Vendor Landscape)
                 https://tls13.xargs.org (The Illustrated TLS 1.3 Connection Every byte explained and reproduced)
                 https://toc.cryptobook.us (A Graduate Course in Applied Cryptography)
                 https://tools.tldr.run (Curated list of security tools for Hackers & Builders!)
@@ -2992,7 +2995,9 @@ Contents:
                 https://blog.pragmaticengineer.com/the-pragmatic-engineers-resume-template (The Pragmatic Engineer's Resume Template by Gergely Orosz)
                 https://bytebreach.com/how-to-write-an-infosec-resume (How to Write an InfoSec Resume)
                 https://gitconnected.com
+                https://github.com/AmruthPillai/Reactive-Resume
                 https://github.com/coderjojo/creative-profile-readme (A Collection of GitHub Profiles with awesome readme)
+                https://github.com/jankapunkt/latexcv
                 https://github.com/posquit0/Awesome-CV
                 https://github.com/salomonelli/best-resume-ever
                 https://github.com/topics/cv?o=desc&s=stars
@@ -3003,10 +3008,12 @@ Contents:
                 https://news.ycombinator.com/item?id=16479922 (Ask HN: Resumes that look good but professional too)
                 https://news.ycombinator.com/item?id=17671490 (Building a Kickass Portfolio)
                 https://news.ycombinator.com/item?id=22709183 (	Show HN: RxResume – A free and open-source resume builder (web.app))
+                https://resuai.io/dashboard/template
                 https://resumake.io
                 https://resumetopdf.com
                 https://stackoverflow.blog/2020/11/25/how-to-write-an-effective-developer-resume-advice-from-a-hiring-manager (How to write an effective developer resume: Advice from a hiring manager)
                 https://thetechresume.com
+                https://www.overleaf.com/latex/templates/tagged/cv
                 https://www.reddit.com/r/sysadminresumes/top
                 https://pinboard.in/u:SharjeelSayed/t:resume
 
@@ -3327,6 +3334,7 @@ Contents:
                 https://www.livemint.com/insurance/news/mint-beshak-insurance-ratings-11654771446816.html (Mint Beshak Health Insurance Ratings)
                 https://www.reddit.com/r/Economics/wiki/reading
                 https://www.reddit.com/r/IndiaInvestments
+                https://www.visualcapitalist.com/mapped-the-top-1-percent-in-each-u-s-state (Mapped: How Much Does it Take to be the Top 1% in Each U.S. State?)
                 https://www.visualcapitalist.com/net-worth-to-be-wealthy-in-america-2022 (What Does It Take To Be Wealthy in America?)
                 https://zerodha.com/varsity
 
@@ -4670,6 +4678,8 @@ Contents:
                 https://www.reddit.com/r/Watches/wiki/brandguide (/r/Watches Brand Guide)
                 https://www.reddit.com/r/Watches/wiki/faq (r/Watches FAQ)
                 https://www.seikowatches.com/in-en/products/5sports/lineup (Seiko 5 Sports Lineup)
+                https://www.seikowatches.com/in-en/products/5sports/srpd59 (Seiko 5 SRPD59 SKX Sports Style )
+                https://www.seikowatches.com/instructions/html/SEIKO_4R35_4R36_4R37_4R38_4R39_4R71_4R72_EN/index (Seiko 5 Instructions Manual)
                 https://www.statista.com/statistics/789382/leading-luxury-watch-brands-sales (Sales revenue of the leading luxury watch brands worldwide in 2022)
                 https://youtu.be/-1PvBADfQ0s (Top 20 Swiss Watch Brands According To Statistics - Watch Market Update 2023 by Teddy Baldassarre)
                 https://youtu.be/fMncXiA-AuE (Tachymeter Explained! (5 examples) by Erik Ternsjö)
