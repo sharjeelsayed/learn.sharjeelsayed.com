@@ -982,6 +982,7 @@ Contents:
             Sources:
                 https://github.com/Awesome-Windows/Awesome
                 https://github.com/Disassembler0/Win10-Initial-Setup-Script
+                https://github.com/massgravel/Microsoft-Activation-Scripts (https://massgrave.dev A Windows and Office activator using HWID / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.)
                 https://github.com/microsoft/PowerToys (Windows system utilities to maximize productivity)
                 https://github.com/topics/windows-10?o=desc&s=stars
                 https://github.com/W4RH4WK/Debloat-Windows-10
@@ -4792,6 +4793,7 @@ Contents:
         https://www.reddit.com/r/EDC/comments/7j7lrs/edc_starter_pack_an_arbitrary_list_of_gear_that (EDC Starter Pack: An Arbitrary List of Gear that Gets Recommended a Lot)
         https://www.reddit.com/r/EDC/comments/ur36lf/i_analyzed_the_top_50_most_mentioned_products_on (I analyzed the top 50 most mentioned products on r/EDC)
         https://www.reddit.com/r/india/wiki/useful_posts
+        https://www.reddit.com/r/uBlockOrigin/comments/16xnrdx/youtube_antiadblock_and_ads_october_02_2023 (YouTube Anti-Adblock and Ads - October 02, 2023 (Weekly Thread))
 
     Support this project with these referral links:
         http://share.payoneer.com/nav/fNDwSrQzVfdG8-xoVyx0Bw_ZDmVq9EROCSP2BPIK6ZXFGNfkLTA-k6YqnGHb8YozBtA2obVkitQbtq50VTZ5Bg2 ($25 on Sign Up)
