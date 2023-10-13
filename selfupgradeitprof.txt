@@ -2665,7 +2665,7 @@ Contents:
             Sources:
                 https://github.com/airbnb/javascript (avaScript Style Guide )
                 https://github.com/developer-resources/frontend-development
-                https://github.com/getify/You-Dont-Know-JS
+                https://github.com/getify/You-Dont-Know-JS (A book series on JavaScript. @YDKJS on twitter.)
                 https://github.com/ryanmcdermott/clean-code-javascript (Clean Code concepts adapted for JavaScript)
                 https://github.com/sorrycc/awesome-javascript
                 https://github.com/sudheerj/javascript-interview-questions (List of 1000 JavaScript Interview Questions)
@@ -3500,7 +3500,7 @@ Contents:
                 https://languagetoolplus.com
                 https://news.ycombinator.com/item?id=23446504 ("Remove sticky" bookmarklet)
                 https://newsit.benwinding.com
-                https://oblador.github.io/hush (Block nags to accept cookies and privacy  invasive tracking in Safari on Mac, iPhone and iPad.)
+                https://oblador.github.io/hush (Block nags to accept cookies and privacy invasive tracking in Safari on Mac, iPhone and iPad.)
                 https://privacybadger.org
                 https://support.1password.com/getting-started-1password-x
                 https://support.mozilla.org/en-US/kb/focus
