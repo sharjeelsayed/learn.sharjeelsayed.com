@@ -935,6 +935,7 @@ Contents:
         ssh:
             Sources:
                 http://www.g-loaded.eu/2006/11/24/auto-closing-ssh-tunnels # Auto-closing SSH tunnels
+                https://github.com/jtesta/ssh-audit (SSH server & client security auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc))
                 https://github.com/moul/awesome-ssh
                 https://github.com/opsdisk/the_cyber_plumbers_handbook (The definitive guide to Secure Shell (SSH) tunneling, port redirection, and bending traffic like a boss.)
                 https://github.com/topics/ssh?o=desc&s=stars
@@ -2094,6 +2095,7 @@ Contents:
                 https://github.com/jassics/awesome-aws-security (Curated list of links, references, books videos, tutorials (Free or Paid), Exploit, CTFs, Hacking Practices etc. which are related to AWS Security)
                 https://github.com/jassics/security-study-plan (Complete Practical Study Plan to become a successful cybersecurity engineer based on roles like Pentest, AppSec, Cloud Security, DevSecOps and so on...)
                 https://github.com/jatrost/awesome-kubernetes-threat-detection (A curated list of resources about detecting threats and defending Kubernetes systems.)
+                https://github.com/jtesta/ssh-audit (SSH server & client security auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc))
                 https://github.com/krol3/container-security-checklist (Checklist for container security - devsecops practices)
                 https://github.com/Legit-Labs/legitify
                 https://github.com/Lissy93/awesome-privacy (🦄 A curated list of privacy & security-focused software and services)
@@ -2747,6 +2749,7 @@ Contents:
 
         iOS/Android:
             Books and Courses:
+                https://github.com/sindresorhus/Actions (https://sindresorhus.com/actions ⚙️ Supercharge your shortcuts )
                 https://github.com/skydoves/android-developer-roadmap (🗺 Android Developer Roadmap 2022 suggests learning paths to understanding Android development.)
                 https://www.kodeco.com (Learn iOS and Swift, Android and Kotlin & Dart and Flutter development with the largest and highest-quality catalog of video courses and books on the Internet.)
 
@@ -2854,7 +2857,7 @@ Contents:
                 https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation (This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Love Babbar Bhaiya, FAANG Questions), Technical Subjects (OS + DBMS + SQL + CN + OOPs) Theory+Questions, FAANG Interview questions, and Miscellaneous Stuff (Programming MCQs, Puzzles, Aptitude, Reasoning).)
                 https://github.com/cloudnloud/interview-questions (DevOps and Cloud Interview Questions and Answers)
                 https://github.com/CollabCodeTech/backend-challenges (A public list of open-source challenges from jobs around the world )
-                https://github.com/DopplerHQ/awesome-interview-questions
+                https://github.com/DopplerHQ/awesome-interview-questions (A curated awesome list of lists of interview questions. Feel free to contribute! 🎓)
                 https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes (Full reference of LinkedIn answers 2021 for skill assessments, LinkedIn test, questions and answers (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, css, python, machine-learning, power-point) linkedin excel test lösungen, linkedin machine learning test)
                 https://github.com/kdn251/interviews (Everything you need to know to get the job.)
                 https://github.com/leetcode-mafia/cheetah (Whisper & GPT-based app for passing remote SWE interviews)
@@ -2978,6 +2981,9 @@ Contents:
 
                 System Design Interview – Step By Step Guide by System Design Interview
                 https://youtu.be/bUHFg8CZFws
+
+                Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
+                https://github.com/ByteByteGoHq/system-design-101
 
             Coding Challenge Websites: (Sorted by Alexa Rank):
                 https://leetcode.com (1,515)
@@ -4403,6 +4409,7 @@ Contents:
                 https://github.com/topics/backup?o=desc&s=stars
                 https://github.com/widevinedump (Tools to Download Netflix / Disney / Apple TV Content)
                 https://github.com/yt-dlp/yt-dlp (A youtube-dl fork with additional features and fixes)
+                https://indown.io/insta-dp-viewer (Instagram DP Download)
                 https://mega.nz/C!vuhRiKpB (Mega.nz Extra Storage)
                 https://news.ycombinator.com/item?id=17603348 (Ask HN: How do you backup your files without depending on a third party service?)
                 https://news.ycombinator.com/item?id=18692844 (Ask HN: Best Centralized Backup Solution)
