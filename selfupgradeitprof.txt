@@ -2206,6 +2206,9 @@ Contents:
                 Security Engineering: A Guide to Building Dependable Distributed Systems by Ross Anderson 3rd Edition 2020
                 https://www.amazon.com/Security-Engineering-Building-Dependable-Distributed/dp/1119642787
 
+                HarvardX: CS50's Introduction to Cybersecurity
+                https://www.edx.org/learn/cybersecurity/harvard-university-cs50-s-introduction-to-cybersecurity
+
         Hardware:
             Sources:
                 https://github.com/alexellis/awesome-baremetal (Bare-metal is awesome. Let's share our favourite tools.)
