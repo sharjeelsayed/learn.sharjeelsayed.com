@@ -244,6 +244,7 @@ Contents:
                 https://abseil.io/resources/swe-book (Software Engineering at Google)
                 https://blog.codinghorror.com/recommended-reading-for-developers
                 https://blog.rutikwankhade.dev/github-repositories-every-aspiring-developer-should-check-out
+                https://codeconfessions.substack.com/p/gpu-computing (What Every Developer Should Know About GPU Computing)
                 https://dev.to
                 https://devdocs.io
                 https://devtoolstips.org (154 DevTools Tips)
@@ -2473,6 +2474,8 @@ Contents:
                 https://github.com/whoiskatrin/sql-translator (SQL Translator is a tool for converting natural language queries into SQL code using artificial intelligence. This project is 100% free and open source.)
                 https://news.ycombinator.com/item?id=23070491 (Here are some other SQL Learning resources I have collected in my note taking Wiki (mostly from HN itself))
                 https://news.ycombinator.com/item?id=23138297 (Advanced SQL and database books and resources (neilwithdata.com))
+                https://selectstarsql.com (This is an interactive book which aims to be the best place on the internet for learning SQL.)
+                https://sqlbolt.com (A series of interactive lessons and exercises designed to help you quickly learn SQL right in your browser)
                 https://pinboard.in/u:SharjeelSayed/t:sql
 
             Books and Courses:
@@ -2486,6 +2489,10 @@ Contents:
                 https://www.w3schools.com/sql
 
                 https://use-the-index-luke.com
+
+                HarvardX: CS50's Introduction to Databases with SQL
+                https://cs50.edx.org/sql
+                https://cs50.harvard.edu/sql/2023
 
         Python:
             Sources:
@@ -4805,6 +4812,7 @@ Contents:
         https://www.reddit.com/r/EDC/comments/ur36lf/i_analyzed_the_top_50_most_mentioned_products_on (I analyzed the top 50 most mentioned products on r/EDC)
         https://www.reddit.com/r/india/wiki/useful_posts
         https://www.reddit.com/r/uBlockOrigin/comments/16xnrdx/youtube_antiadblock_and_ads_october_02_2023 (YouTube Anti-Adblock and Ads - October 02, 2023 (Weekly Thread))
+        https://www.theverge.com/23674658/best-android-phone (The best Android phone to buy in 2023)
 
     Support this project with these referral links:
         http://share.payoneer.com/nav/fNDwSrQzVfdG8-xoVyx0Bw_ZDmVq9EROCSP2BPIK6ZXFGNfkLTA-k6YqnGHb8YozBtA2obVkitQbtq50VTZ5Bg2 ($25 on Sign Up)
