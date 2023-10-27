@@ -663,14 +663,13 @@ Contents:
             https://discord.gg/NwfDnNj54T (A Cloud Guru Community Hub)
             https://free-for.dev (This is a list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers)
             https://github.com/255kb/stack-on-a-budget (A collection of services with great free tiers for developers on a budget.)
-            https://github.com/Artemmkin/infrastructure-as-code-tutorial
+            https://github.com/Artemmkin/infrastructure-as-code-tutorial (Infrastructure As Code Tutorial. Covers Packer, Terraform, Ansible, Vagrant, Docker, Docker Compose, Kubernetes)
             https://github.com/bregman-arie/sre-checklist (A checklist of anyone practicing Site Reliability Engineering)
-            https://github.com/danluu/post-mortems
-            https://github.com/dastergon/awesome-chaos-engineering
-            https://github.com/madd86/awesome-system-design
+            https://github.com/danluu/post-mortems (A collection of postmortems. Sorry for the delay in merging PRs! )
+            https://github.com/dastergon/awesome-chaos-engineering (A curated list of Chaos Engineering resources.)
             https://github.com/mhadidg/software-architecture-books (A curated list of books on Software Architecture.)
             https://github.com/ripienaar/free-for-dev (A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev)
-            https://github.com/theanalyst/awesome-distributed-systems
+            https://github.com/theanalyst/awesome-distributed-systems (A curated list to learn about distributed systems)
             https://github.com/topics/architecture?o=desc&s=stars
             https://github.com/trimstray/the-book-of-secret-knowledge
             https://landscape.cncf.io (CNCF Cloud Native Interactive Landscape)
@@ -1393,6 +1392,7 @@ Contents:
                 https://github.com/1debit/alternat (High availability implementation of AWS NAT instances.)
                 https://github.com/4ndersonLin/awesome-cloud-security (Awesome Cloud Security Resources)
                 https://github.com/anaibol/awesome-serverless
+                https://github.com/AndrewGuenther/fck-nat (Feasible cost konfigurable NAT: An AWS NAT Instance AMI)
                 https://github.com/aramalipoor/aws-cost-saver (A tiny CLI tool to help save costs in development environments when you're asleep and don't need them!)
                 https://github.com/aws-samples/hardeneks (Runs checks to see if an EKS cluster follows EKS Best Practices.)
                 https://github.com/awsdocs (Amazon Web Services - Documentation)
@@ -2862,6 +2862,7 @@ Contents:
             Sources:
                 http://blog.interviewing.io/what-really-matters-in-technical-interviews-we-analyzed-thousands-of-interviews-on-everything-from-language-to-code-style-heres-what-we-found
                 https://blog.udemy.com/kubernetes-interview-questions (7 Kubernetes Interview Questions You Should Be Able to Answer)
+                https://docs.google.com/spreadsheets/d/1hzP8j7matoUiJ15N-RhsL5Dmig8_E3aP (Top Technical Interview Questions From LeetCode - FAANG and Non FAANG)
                 https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation (This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Love Babbar Bhaiya, FAANG Questions), Technical Subjects (OS + DBMS + SQL + CN + OOPs) Theory+Questions, FAANG Interview questions, and Miscellaneous Stuff (Programming MCQs, Puzzles, Aptitude, Reasoning).)
                 https://github.com/alexeygrigorev/data-science-interviews (Data science interview questions and answers https://ds-interviews.org)
                 https://github.com/cloudnloud/interview-questions (DevOps and Cloud Interview Questions and Answers)
@@ -2930,7 +2931,9 @@ Contents:
                 https://github.com/donnemartin/system-design-primer (The System Design Primer)
                 https://github.com/InterviewReady/system-design-resources (These are the best resources for System Design on the Internet)
                 https://github.com/karanpratapsingh/system-design (Learn how to design systems at scale and prepare for system design interviews)
+                https://github.com/madd86/awesome-system-design (A curated list of awesome System Design (A.K.A. Distributed Systems) resources.)
                 https://github.com/shashank88/system_design (Preparation links and resources for system design questions)
+                https://github.com/theanalyst/awesome-distributed-systems (A curated list to learn about distributed systems)
                 https://interviewing.io/guides/system-design-interview (A Senior Engineer's Guide to the System Design Interview)
                 https://www.amazon.com/System-Design-Interview-Insiders-Guide/dp/1736049119 (System Design Interview – An Insider's Guide: Volume 2 by Alex Xu)
                 https://youtu.be/bUHFg8CZFws (System Design Interview – Step By Step Guide by System Design Interview)
@@ -3225,6 +3228,7 @@ Contents:
                 https://github.com/Ryanburgess/Engineer-Manager (A List Of Engineering Manager Resource Links. )
                 https://github.com/trekhleb/promote-your-next-startup (Free resources you may use to promote your next startup)
                 https://github.com/Vgraupera/1on1-Questions (Mega List Of 1 On 1 Meeting Questions Compiled From A Variety To Sources)
+                https://github.com/ZachGoldberg/Startup-CTO-Handbook (https://zachgoldberg.com/ctohandbook The Startup CTO's Handbook, a book covering leadership, management and technical topics for leaders of software engineering teams)
                 https://littleblah.com/post/2019-09-01-senior-engineer-checklist (A Senior Engineer's CheckList)
                 https://news.ycombinator.com/item?Id=11209066 (Why You Probably Don'T Need An Mba)
                 https://news.ycombinator.com/item?Id=13207268 (Ask Hn: How Do I Get Freelance Developer Jobs?)
@@ -3515,6 +3519,7 @@ Contents:
                 https://keepa.com
                 https://languagetoolplus.com
                 https://news.ycombinator.com/item?id=23446504 ("Remove sticky" bookmarklet)
+                https://news.ycombinator.com/item?id=38014653 ("Don't mess with paste" - for when signup forms expect you to hand-type your email address twice)
                 https://newsit.benwinding.com
                 https://oblador.github.io/hush (Block nags to accept cookies and privacy invasive tracking in Safari on Mac, iPhone and iPad.)
                 https://privacybadger.org
