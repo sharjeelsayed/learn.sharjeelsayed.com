@@ -671,7 +671,7 @@ Contents:
             https://github.com/ripienaar/free-for-dev (A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev)
             https://github.com/theanalyst/awesome-distributed-systems (A curated list to learn about distributed systems)
             https://github.com/topics/architecture?o=desc&s=stars
-            https://github.com/trimstray/the-book-of-secret-knowledge
+            https://github.com/trimstray/the-book-of-secret-knowledge (A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.)
             https://landscape.cncf.io (CNCF Cloud Native Interactive Landscape)
             https://news.ycombinator.com/item?id=14087880 (Ask HN: What are some great “Free” services provided by IBM, Amazon, etc.?)
             https://news.ycombinator.com/item?id=20225118 (Ask HN: Best free compute and other resources for startups?)
@@ -754,6 +754,7 @@ Contents:
                 https://www.amazon.com/Site-Reliability-Workbook-Practical-Implement-ebook/dp/B07FWFPMYG
 
                 Building Secure & Reliable Systems
+                https://google.github.io/building-secure-and-reliable-systems
                 https://sre.google/static/pdf/building_secure_and_reliable_systems.pdf
 
         SysAdmin:
@@ -3289,6 +3290,7 @@ Contents:
                 https://www.amazon.Com/Gp/Bestsellers/Books/2569 (Amazon Best Sellers In Time Management)
                 https://www.indiehackers.Com
                 https://www.reddit.Com/r/cscareerquestions/comments/6fnujy/Soft_skills_for_programmers
+                https://www.themarginalian.org/2014/01/03/baloney-detection-kit-carl-sagan (Baloney Detection Kit: Carl Sagan's Rules for Bullshit-Busting and Critical Thinking)
                 https://youtu.be/NViqHCrljf8 (The Briefcase Technique by Ramit Sethi .Money Negotiation technique)
 
             Books and Courses:
