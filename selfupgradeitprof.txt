@@ -2930,7 +2930,7 @@ Contents:
                 https://github.com/ByteByteGoHq/ml-bytebytego (Reference Materials for System Design Interview)
                 https://github.com/ByteByteGoHq/system-design-101 (Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.)
                 https://github.com/donnemartin/system-design-primer (The System Design Primer)
-                https://github.com/InterviewReady/system-design-resources (These are the best resources for System Design on the Internet)
+                https://github.com/InterviewReady/system-design-resources (https://interviewready.io These are the best resources for System Design on the Internet)
                 https://github.com/karanpratapsingh/system-design (Learn how to design systems at scale and prepare for system design interviews)
                 https://github.com/madd86/awesome-system-design (A curated list of awesome System Design (A.K.A. Distributed Systems) resources.)
                 https://github.com/shashank88/system_design (Preparation links and resources for system design questions)
@@ -4818,8 +4818,9 @@ Contents:
         https://www.reddit.com/r/EDC/comments/7j7lrs/edc_starter_pack_an_arbitrary_list_of_gear_that (EDC Starter Pack: An Arbitrary List of Gear that Gets Recommended a Lot)
         https://www.reddit.com/r/EDC/comments/ur36lf/i_analyzed_the_top_50_most_mentioned_products_on (I analyzed the top 50 most mentioned products on r/EDC)
         https://www.reddit.com/r/india/wiki/useful_posts
-        https://www.reddit.com/r/uBlockOrigin/comments/16xnrdx/youtube_antiadblock_and_ads_october_02_2023 (YouTube Anti-Adblock and Ads - October 02, 2023 (Weekly Thread))
+        https://www.reddit.com/r/uBlockOrigin/comments/178yasm/youtube_antiadblock_and_ads_october_16_2023 ( YouTube Anti-Adblock and Ads - October 16, 2023 (Weekly Thread))
         https://www.theverge.com/23674658/best-android-phone (The best Android phone to buy in 2023)
+        https://youglish.com (Use YouTube to improve your English pronunciation. With more than 100M tracks, YouGlish gives you fast, unbiased answers about how English is spoken by real people and in context.)
 
     Support this project with these referral links:
         http://share.payoneer.com/nav/fNDwSrQzVfdG8-xoVyx0Bw_ZDmVq9EROCSP2BPIK6ZXFGNfkLTA-k6YqnGHb8YozBtA2obVkitQbtq50VTZ5Bg2 ($25 on Sign Up)
