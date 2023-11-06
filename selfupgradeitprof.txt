@@ -1858,6 +1858,7 @@ Contents:
                 https://github.com/UnseenWizzard/git_training (An interactive git training meant to teach you how git works, not just which commands to execute)
                 https://grep.app (Search across a half million git repos)
                 https://jdsalaro.com/blog/git-tutorial (Git for Beginners: Zero to Hero 🐙)
+                https://jvns.ca/blog/2023/11/01/confusing-git-terminology (Confusing git terminology by Julia Evans)
                 https://jwiegley.github.io/git-from-the-bottom-up/1-Repository/7-branching-and-the-power-of-rebase.html (Best explanation of rebase vs merge)
                 https://news.ycombinator.com/item?id=21189256 (99% of the Git commands you'll need at work, demonstrated in a single script (bitbucket.org))
                 https://nfarina.com/post/9868516270/git-is-simpler
@@ -2254,6 +2255,7 @@ Contents:
                 https://news.ycombinator.com/item?id=24391899 (	Hard to discover tips and apps for macOS (thume.ca))
                 https://news.ycombinator.com/item?id=29577272 (Clever uses of pass, the Unix password manager (vitalyparnas.com))
                 https://news.ycombinator.com/item?id=29742551 (	macOS Setup after 15 Years of Linux (hookrace.net))
+                https://news.ycombinator.com/item?id=38141320 (Paste without formatting on macOS (scottswezey.com))
                 https://notes.alinpanaitiu.com/Restarting-macOS-apps-automatically-on-crash (Restarting macOS apps automatically on crash)
                 https://objective-see.com/products.html (Free Mac Security Tools)
                 https://opensource.com/article/19/5/python-3-default-mac (The right and wrong way to set Python 3 as default on a Mac)
