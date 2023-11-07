@@ -1374,6 +1374,7 @@ Contents:
             Sources:
                 http://flaws.cloud (Through a series of levels you'll learn about common mistakes and gotchas when using Amazon Web Services (AWS).)
                 https://adayinthelifeof.nl/2020/05/20/aws.html (A List of One-sentence Descriptions of AWS Services)
+                https://aws.amazon.com/blogs (AWS News Blog)
                 https://aws.amazon.com/blogs/architecture/top-10-architecture-blog-posts-of-2021 (Top 10 Architecture Blog Posts of 2021)
                 https://aws.amazon.com/builders-library (The Amazon Builders' Library: How Amazon builds and operates software )
                 https://aws.amazon.com/education/awseducate (Build your cloud skills at your own pace, on your own time, and completely for free)
@@ -1828,66 +1829,63 @@ Contents:
         Git:
             Sources:
                 https://about.gitlab.com/images/press/git-cheat-sheet.pdf
-                https://bakkenbaeck.github.io/a-random-walk-through-git (This tutorial is an in-depth look at how Git works)
                 https://blog.martinhujer.cz/dont-put-idea-vscode-directories-to-projects-gitignore (Don't put .idea and .vscode directories to project's .gitignore)
-                https://codewords.recurse.com/issues/two/git-from-the-inside-out
                 https://firstaidgit.io (A searchable collection of the most frequently asked Git Questions)
-                https://git-scm.com/book/en/v2/Git-Internals-Plumbing-and-Porcelain
                 https://git-scm.com/book/en/v2/Git-Tools-Reset-Demystified (Reset vs Checkout)
                 https://gitexplorer.com (Find the right commands you need without digging through the web)
                 https://github.com/acaudwell/Gource (software version control visualization https://gource.io)
                 https://github.com/AndreMiras/gitpop2 (Find the most popular fork on GitHub)
-                https://github.com/bigH/git-fuzzy (interactive `git` with the help of `fzf`)
-                https://github.com/dandavison/delta (A viewer for git and diff output)
                 https://github.com/EvanLi/Github-Ranking (⭐Github Ranking⭐ Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily.)
-                https://github.com/extrawurst/gitui (Blazing 💥 fast terminal-ui for git written in rust 🦀)
                 https://github.com/FAQGURU/FAQGURU/blob/master/topics/en/git.md (A list of interview questions)
                 https://github.com/gabrie30/ghorg (Quickly clone an entire org/users repositories into one directory - Supports GitHub, GitLab, Bitbucket, and more)
                 https://github.com/git-tips/tips (Most commonly used git tips and tricks.)
-                https://github.com/git-up/GitUp (The Git interface you've been missing all your life has finally arrived. http://gitup.co)
-                https://github.com/github/hub (A command-line tool that makes git easier to use with GitHub.)
                 https://github.com/initialcommit-com/git-sim (Visually simulate Git operations in your own repos with a single terminal command.)
-                https://github.com/jesseduffield/lazygit (simple terminal UI for git commands)
                 https://github.com/k88hudson/git-flight-rules (Flight rules for git)
-                https://github.com/LeCoupa/awesome-cheatsheets/blob/master/tools/git.sh
-                https://github.com/martinvonz/jj (A Git-compatible DVCS that is both simple and powerful)
-                https://github.com/pluralsight/git-internals-pdf/releases (PeepCode Git Internals PDF:A PDF by Scott Chacon about how the Git source code control system stores files and revisions.)
+                https://github.com/tiimgreen/github-cheat-sheet (A list of cool features of Git and GitHub.)
                 https://github.com/topics/git?o=desc&s=stars
-                https://github.com/toptal/gitignore.io
-                https://github.com/tpope/vim-fugitive (fugitive.vim: A Git wrapper so awesome, it should be illegal https://www.vim.org/scripts/script.php?script_id=2975)
+                https://github.com/toptal/gitignore.io (Create useful .gitignore files for your project )
                 https://github.com/UnseenWizzard/git_training (An interactive git training meant to teach you how git works, not just which commands to execute)
                 https://grep.app (Search across a half million git repos)
                 https://jdsalaro.com/blog/git-tutorial (Git for Beginners: Zero to Hero 🐙)
                 https://jvns.ca/blog/2023/11/01/confusing-git-terminology (Confusing git terminology by Julia Evans)
+                https://jvns.ca/blog/2023/11/06/rebasing-what-can-go-wrong- (git rebase: what can go wrong?)
                 https://jwiegley.github.io/git-from-the-bottom-up/1-Repository/7-branching-and-the-power-of-rebase.html (Best explanation of rebase vs merge)
                 https://news.ycombinator.com/item?id=21189256 (99% of the Git commands you'll need at work, demonstrated in a single script (bitbucket.org))
-                https://nfarina.com/post/9868516270/git-is-simpler
-                https://nvie.com/posts/a-successful-git-branching-model
+                https://nvie.com/posts/a-successful-git-branching-model (A successful Git branching model)
                 https://ohshitgit.com (Bad situations I've gotten myself into, and how I eventually got myself out of them in plain english.)
-                https://shalithasuranga.medium.com/how-does-git-work-internally-7c36dcb1f2cf
                 https://sourcegraph.com/search (Search your code and 2M+ open source repositories)
                 https://stackoverflow.com/questions/tagged/git
-                https://techtldr.com/19-git-tips-for-everyday-use
+                https://techtldr.com/19-git-tips-for-everyday-use (19 Git Tips For Everyday Use)
                 https://useful-forks.github.io (It aims at increasing the discoverability of useful forks of open-source projects.)
                 https://www.garyrobinson.net/2014/10/git-in-two-minutes-for-a-solo-developer.html (Git In Two Minutes (for a solo developer))
                 https://www.reddit.com/r/git/top/?sort=top&t=all
-                https://www.reddit.com/r/programming/comments/fd9zpj/becoming_a_git_pro_part_1_internal_git/fjge9vy
                 https://www.shortcutfoo.com/app/dojos/git (Choose shortcuts to practice)
-                https://www.sourcetreeapp.com
-                https://www.sublimemerge.com
                 https://www.toptal.com/developers/gitignore
                 https://www.udemy.com/topic/git/?ratings=4.5&sort=popularity (Udemy Courses rated 4.5 stars and above)
                 https://youtu.be/1ffBJ4sVUb4 ([Linux.conf.au 2013] - Git For Ages 4 And Up)
                 https://youtu.be/2sjqTHE0zok (Lecture 6: Version Control (git) (2020) by Missing Semester)
 
             Books and Courses:
+                Pro Git
+                https://git-scm.com/book/en/v2
+
                 Git Concepts:
                 https://think-like-a-git.net (Think Like (a) Git A Guide for the Perplexed)
                 https://www.cduan.com/technical/git (Understanding Git Conceptually)
                 https://youtu.be/P6jD966jzlk?si=BvlE-DitQlhWjo3X (Git Internals - How Git Works - Fear Not The SHA! by GitLab)
 
-                Pro Git
-                https://git-scm.com/book/en/v2
+                Git Internals:
+                https://bakkenbaeck.github.io/a-random-walk-through-git (This tutorial is an in-depth look at how Git works)
+                https://codewords.recurse.com/issues/two/git-from-the-inside-out (Git from the inside out)
+                https://git-scm.com/book/en/v2/Git-Internals-Plumbing-and-Porcelain (10.1 Git Internals - Plumbing and Porcelain)
+                https://github.com/pluralsight/git-internals-pdf/releases (PeepCode Git Internals PDF:A PDF by Scott Chacon about how the Git source code control system stores files and revisions.)
+                https://nfarina.com/post/9868516270/git-is-simpler (Git Is Simpler Than You Think)
+                https://shalithasuranga.medium.com/how-does-git-work-internally-7c36dcb1f2cf (How does git work internally)
+
+                Git from the Bottom Up
+                https://jwiegley.github.io/git-from-the-bottom-up
+                https://github.com/jwiegley/git-from-the-bottom-up
+                http://ftp.newartisans.com/pub/git.from.bottom.up.pdf
 
                 Githug is designed to give you a practical way of learning git
                 https://github.com/Gazler/githug
@@ -1899,14 +1897,22 @@ Contents:
                 https://ohmygit.org
                 https://github.com/git-learning-game/oh-my-git
 
-                Git from the Bottom Up
-                https://jwiegley.github.io/git-from-the-bottom-up
-                https://github.com/jwiegley/git-from-the-bottom-up
-                http://ftp.newartisans.com/pub/git.from.bottom.up.pdf
-
                 Complete Git Guide: Understand and master Git and GitHub by Bogdan Stashchuk
                 https://www.udemy.com/course/git-and-github-complete-guide
                 https://youtu.be/3FKrszHcIsA
+
+                Git Tools:
+                https://github.com/bigH/git-fuzzy (interactive `git` with the help of `fzf`)
+                https://github.com/dandavison/delta (A viewer for git and diff output)
+                https://github.com/extrawurst/gitui (Blazing 💥 fast terminal-ui for git written in rust 🦀)
+                https://github.com/git-up/GitUp (The Git interface you've been missing all your life has finally arrived. http://gitup.co)
+                https://github.com/github/hub (A command-line tool that makes git easier to use with GitHub.)
+                https://github.com/jesseduffield/lazygit (simple terminal UI for git commands)
+                https://github.com/LeCoupa/awesome-cheatsheets/blob/master/tools/git.sh
+                https://github.com/martinvonz/jj (A Git-compatible DVCS that is both simple and powerful)
+                https://github.com/tpope/vim-fugitive (fugitive.vim: A Git wrapper so awesome, it should be illegal https://www.vim.org/scripts/script.php?script_id=2975)
+                https://www.sourcetreeapp.com (A free Git client for Windows and Mac )
+                https://www.sublimemerge.com (Git Client, done Sublime)
 
             Additional Material:
                 Git Video Tutorial by Derek Banas
@@ -2773,6 +2779,7 @@ Contents:
                 https://github.com/humanloop/awesome-chatgpt (Curated list of awesome tools, demos, docs for ChatGPT and GPT-3 )
                 https://github.com/labmlai/annotated_deep_learning_paper_implementations ( 🧑‍🏫 60 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠 )
                 https://github.com/microsoft/AI-For-Beginners (12 Weeks, 24 Lessons, AI for All!)
+                https://github.com/microsoft/generative-ai-for-beginners (12 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners)
                 https://github.com/microsoft/ML-For-Beginners (12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all)
                 https://github.com/OpenMindClub/awesome-chatgpt (⚡ Everything about ChatGPT )
                 https://github.com/SkalskiP/courses (This repository is a curated collection of links to various courses and resources about Artificial Intelligence (AI))
