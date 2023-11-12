@@ -2229,6 +2229,7 @@ Contents:
             Sources:
                 https://apple.stackexchange.com/questions/374138/how-to-enable-double-tap-to-drag-in-mac-os-x-catalina
                 https://blog.bejarano.io/hardening-macos
+                https://command-not-found.com (Install any command on any operating system and in Docker)
                 https://defkey.com/apple-macos-shortcuts
                 https://dev.to/wes/how2-using-gpg-on-macos-without-gpgtools-428f
                 https://discord.gg/apple (Discord server for /r/Apple)
@@ -2775,6 +2776,7 @@ Contents:
                 https://blog.floydhub.com/best-deep-learning-courses-updated-for-2019
                 https://fleuret.org/public/lbdl.pdf (The Little Book of Deep Learning by François Fleuret)
                 https://github.com/ai-collection/ai-collection ( The Generative AI Landscape - A List of Awesome Generative AI Applications Topics)
+                https://github.com/dair-ai/Prompt-Engineering-Guide (🐙 Guides, papers, lecture, notebooks and resources for prompt engineering )
                 https://github.com/eugeneyan/open-llms (🤖 A list of open LLMs available for commercial use.)
                 https://github.com/humanloop/awesome-chatgpt (Curated list of awesome tools, demos, docs for ChatGPT and GPT-3 )
                 https://github.com/labmlai/annotated_deep_learning_paper_implementations ( 🧑‍🏫 60 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠 )
@@ -3077,6 +3079,7 @@ Contents:
                 https://github.com/lukasz-madon/awesome-remote-job
                 https://github.com/poteto/hiring-without-whiteboards (⭐️ Companies that don't have a broken hiring process)
                 https://github.com/randallkanna/awesome-job-list
+                https://github.com/SimplifyJobs/New-Grad-Positions (A collection of New Grad full time roles in SWE, Quant, and PM.)
                 https://hn.algolia.com/?dateRange=pastYear&page=0&prefix=false&query=Ask%20HN%3A%20Who%20is%20hiring%3F&sort=byPopularity&type=story (Ask HN: Who is hiring?)
                 https://news.ycombinator.com/item?id=14686745 (Ask HN: What are some of the best job boards you have seen (any industry)?)
                 https://news.ycombinator.com/item?id=15473776 (Ask HN: What do you care about the most in a tech job post?)
@@ -4757,6 +4760,7 @@ Contents:
         http://unixstickers.com (Unixstickers powered by Sticker Mule)
         https://awesome.digitalbunker.dev (Click to explore one of the awesome lists below)
         https://cheatography.com (Over 5,000 Free Cheat Sheets, Revision Aids and Quick References!)
+        https://command-not-found.com (Install any command on any operating system and in Docker)
         https://drawabox.com (Drawabox is a set of free exercise-based lessons that focus on the fundamentals of drawing)
         https://en.wikipedia.org/wiki/List_of_common_misconceptions (Wikipedia: List of common misconceptions)
         https://en.wikipedia.org/wiki/List_of_lists_of_lists
