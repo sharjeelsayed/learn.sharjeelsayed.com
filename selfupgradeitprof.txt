@@ -979,12 +979,11 @@ Contents:
 
         Windows:
             Sources:
-                https://github.com/Awesome-Windows/Awesome
-                https://github.com/Disassembler0/Win10-Initial-Setup-Script
+                https://github.com/Awesome-Windows/Awesome (💻 🎉 An awesome & curated list of best applications and tools for Windows.)
                 https://github.com/massgravel/Microsoft-Activation-Scripts (https://massgrave.dev A Windows and Office activator using HWID / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.)
                 https://github.com/microsoft/PowerToys (Windows system utilities to maximize productivity)
                 https://github.com/topics/windows-10?o=desc&s=stars
-                https://github.com/W4RH4WK/Debloat-Windows-10
+                https://github.com/W4RH4WK/Debloat-Windows-10 (A Collection of Scripts Which Disable / Remove Windows 10 Features and Apps)
                 https://news.ycombinator.com/item?id=19698620 (Ask HN: How do you secure your Windows PC?)
                 https://www.amazon.com/Best-Sellers-Books-Windows-Operating-System/zgbs/books/10806619011 (Best Sellers in Windows Operating System)
                 https://www.reddit.com/r/sysadmin/comments/3z7qd9/practice_to_become_a_windows_sysadmin/cyjynxh
