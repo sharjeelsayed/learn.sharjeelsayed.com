@@ -1153,6 +1153,7 @@ Contents:
                 https://github.com/stern/stern (⎈ Multi pod and container log tailing for Kubernetes)
                 https://github.com/techiescamp/kubernetes-learning-path (A roadmap to learn Kubernetes from scratch (Beginner to Advanced level))
                 https://github.com/terraform-aws-modules/terraform-aws-eks
+                https://github.com/tilt-dev/tilt (Kubernetes for Prod, Tilt for Dev)
                 https://github.com/tomhuang12/awesome-k8s-resources (A curated list of awesome Kubernetes tools and resources.)
                 https://github.com/topics/kubernetes?o=desc&s=stars
                 https://github.com/vilaca/awesome-k8s-tools (List of k8s/container/devops tools.)
@@ -2144,6 +2145,7 @@ Contents:
                 https://news.ycombinator.com/item?id=17749283 (Ask HN: Recommendations of good cybercrime novels?)
                 https://news.ycombinator.com/item?id=18487547 (Ask HN: Starting a career in security at 40?)
                 https://news.ycombinator.com/item?id=29577272 (Clever uses of pass, the Unix password manager (vitalyparnas.com))
+                https://news.ycombinator.com/item?id=38331501 (Ask HN: Any comprehensive courses on Auth?)
                 https://offsec.tools (A vast collection of security tools)
                 https://opensourcesecurityindex.io (The Most Popular & Fastest Growing Open Source Security Projects on GitHub)
                 https://overthewire.org/wargames/bandit
@@ -2255,6 +2257,7 @@ Contents:
                 https://github.com/sveinbjornt/Sloth (Mac app that shows all open files, directories, sockets, pipes and devices in use by all running processes. Nice GUI for lsof. https://sveinbjorn.org/sloth)
                 https://github.com/topics/macos?o=desc&s=stars
                 https://isapplesiliconready.com (The complete guide for MacOS Apps Optimized for Apple Silicon Macs and the M1 Processor)
+                https://macmenubar.com (A curated directory of 850+ Mac menu bar apps)
                 https://medium.com/@cav/foss-password-management-with-passwordstore-9d34fec2fe84
                 https://news.ycombinator.com/item?id=20621224 (Ask HN: The most useful Mac keyboard shortcuts?)
                 https://news.ycombinator.com/item?id=24091707 (Ask HN: What feature did you find after years of using macOS?)
@@ -2278,6 +2281,7 @@ Contents:
                 https://universvm.medium.com/20-macos-apps-to-boost-your-productivity-74accb372c9c
                 https://www.applegamingwiki.com/wiki/M1_compatible_games_master_list (M1 compatible games master list)
                 https://www.darlinghq.org (Darling is a translation layer that lets you run macOS software on Linux)
+                https://www.macupdate.com (18,000+ verified Mac apps, handpicked by the MacUpdate team)
                 https://www.oss.wiki (ollection of must-have open-sourced apps for Mac)
                 https://www.reddit.com/r/apple+mac+macapps
                 https://youtu.be/H3hUk0zsxc4 (How To Use Multiple Desktops On Your Mac by macmostvideo)
@@ -2773,6 +2777,7 @@ Contents:
             Sources:
                 https://ai.stanford.edu/courses (Stanford A.I. courses from Fall 2019 CS229)
                 https://blog.floydhub.com/best-deep-learning-courses-updated-for-2019
+                https://fleuret.org/dlc (François Fleuret's deep-learning courses 14x050 of the University of Geneva, Switzerland)
                 https://fleuret.org/public/lbdl.pdf (The Little Book of Deep Learning by François Fleuret)
                 https://github.com/ai-collection/ai-collection ( The Generative AI Landscape - A List of Awesome Generative AI Applications Topics)
                 https://github.com/dair-ai/Prompt-Engineering-Guide (🐙 Guides, papers, lecture, notebooks and resources for prompt engineering )
@@ -2784,6 +2789,7 @@ Contents:
                 https://github.com/microsoft/ML-For-Beginners (12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all)
                 https://github.com/OpenMindClub/awesome-chatgpt (⚡ Everything about ChatGPT )
                 https://github.com/SkalskiP/courses (This repository is a curated collection of links to various courses and resources about Artificial Intelligence (AI))
+                https://github.com/taranjeet/awesome-gpts (Collection of all the GPTs created by the community)
                 https://karpathy.ai/zero-to-hero.html (A course by Andrej Karpathy on building neural networks, from scratch, in code)
                 https://news.ycombinator.com/item?id=12713056 (Ask HN: How to get started with machine learning?)
                 https://news.ycombinator.com/item?id=16493489 (Machine Learning Crash Course)
@@ -2791,6 +2797,7 @@ Contents:
                 https://news.ycombinator.com/item?id=20674745 (Ask HN: What Neural Networks/Deep Learning Books Should I Read?)
                 https://news.ycombinator.com/item?id=34312248 (Ask HN: What are the foundational texts for learning about AI/ML/NN?)
                 https://www.deeplearning.ai (Build your AI career by Andrew NG)
+                https://www.youtube.com/playlist?app=desktop&list=PLoROMvodv4rNyWOpJg_Yh4NSqI4Z4vOYy (Stanford CS229: Machine Learning I Spring 2022)
 
             Books and Courses:
                 Machine Learning by Andrew Ng
@@ -2937,6 +2944,7 @@ Contents:
                 https://github.com/alex/what-happens-when
 
                 System Design Interview:
+                https://github.com/ashishps1/awesome-system-design-resources (This repository contains System Design resources which are useful while preparing for interviews and learning Distributed Systems)
                 https://github.com/ByteByteGoHq/ml-bytebytego (Reference Materials for System Design Interview)
                 https://github.com/ByteByteGoHq/system-design-101 (Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.)
                 https://github.com/donnemartin/system-design-primer (The System Design Primer)
@@ -3080,6 +3088,7 @@ Contents:
                 https://github.com/randallkanna/awesome-job-list
                 https://github.com/SimplifyJobs/New-Grad-Positions (A collection of New Grad full time roles in SWE, Quant, and PM.)
                 https://hn.algolia.com/?dateRange=pastYear&page=0&prefix=false&query=Ask%20HN%3A%20Who%20is%20hiring%3F&sort=byPopularity&type=story (Ask HN: Who is hiring?)
+                https://llcattorney.com/business-info/us-companies-salaries-vs-revenue (How Long It Takes the Largest Companies in America to Make One Employee's Average Annual Salary)
                 https://news.ycombinator.com/item?id=14686745 (Ask HN: What are some of the best job boards you have seen (any industry)?)
                 https://news.ycombinator.com/item?id=15473776 (Ask HN: What do you care about the most in a tech job post?)
                 https://news.ycombinator.com/item?id=15646550 (Ask HN: What is your favorite place to find work?)
@@ -4763,9 +4772,11 @@ Contents:
         https://drawabox.com (Drawabox is a set of free exercise-based lessons that focus on the fundamentals of drawing)
         https://en.wikipedia.org/wiki/List_of_common_misconceptions (Wikipedia: List of common misconceptions)
         https://en.wikipedia.org/wiki/List_of_lists_of_lists
+        https://en.wikipedia.org/wiki/List_of_most_valuable_brands (List of most valuable brands)
         https://en.wikipedia.org/wiki/Wikipedia:Vital_articles
         https://freenode.net
         https://github.com/antontarasenko/smq/blob/master/reports/hackernews-links-in-comments.md (Most mentioned links in Hacker News comments, 2006–2015)
+        https://github.com/arcataroger/awesome-engineering-games (A curated list of engineering-related video games rated Very Positive or higher on Steam )
         https://github.com/btw-so/open-source-alternatives (List of open-source alternatives to everyday SaaS products.)
         https://github.com/chubin/awesome-console-services (A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols))
         https://github.com/girliemac/a-picture-is-worth-a-1000-words (I am trying to describe complex matters in simple doodles!)
@@ -4817,6 +4828,7 @@ Contents:
         https://www.domestika.org (Best online courses for creatives)
         https://www.howacarworks.com/video-course (Understand everything inside a modern car by by Alex Muir.Automotive Engineering 20 hour Video Course)
         https://www.justwatch.com/in?genres=doc
+        https://www.kantar.com/north-america/company-news/louis-vuitton-reigns-as-the-worlds-most-valuable-luxury-brand-for-the-18th-year (Top 10 Most Valuable Global Luxury Brands 2023)
         https://www.looria.com/reddit/BuyItForLife/brand-popularity (The most popular brands on r/BuyItForLife)
         https://www.nala.ie/resources/better-handwriting-adults
         https://www.nytimes.com/interactive/2022/science/astronomy-space-calendar.html (New York Times’s space and astronomy calendar)
