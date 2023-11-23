@@ -1023,6 +1023,7 @@ Contents:
                 https://cheatsheetseries.owasp.org/cheatsheets/Docker_Security_Cheat_Sheet.html
                 https://containersfromthecouch.com
                 https://devopswithdocker.com (DevOps with Docker Containers for Beginners by University of Helsinki)
+                https://diveintodocker.com (Dive Into Docker The Complete Docker Course for Developers by Nick Janetakis)
                 https://geshan.com.np/blog/2022/05/docker-commands (10 useful Docker commands to get things done with a real-life example)
                 https://github.com/abiosoft/colima (Container runtimes on macOS (and Linux) with minimal setup)
                 https://github.com/docker/docker-bench-security
@@ -1065,6 +1066,9 @@ Contents:
                 https://www.kodekloud.com/p/docker-labs
                 https://www.udemy.com/course/learn-docker
                 https://learning.oreilly.com/videos/docker-for-the/9781788991315
+
+                Docker Fundamentals by Adrian Cantrill
+                https://learn.cantrill.io/p/docker-fundamentals
 
                 Docker - Swarm, Services and Stack - Hands-On by Mumshad Mannambeth
                 https://learning.oreilly.com/videos/docker-swarm/9781788991414
@@ -2069,6 +2073,7 @@ Contents:
                 https://en.wikipedia.org/wiki/List_of_computer_security_certifications#Most_Popular_Vendor_Neutral_Cyber_Security_Certifications_Among_employers
                 https://github.com/0x90n/InfoSec-Black-Friday (All the deals for InfoSec related software/tools this Black Friday)
                 https://github.com/0xsyr0/Awesome-Cybersecurity-Handbooks (A huge chunk of my personal notes since I started playing CTFs and working as a Red Teamer.)
+                https://github.com/0xsyr0/OSCP (OSCP Cheat Sheet)
                 https://github.com/4ndersonLin/awesome-cloud-security (Awesome Cloud Security Resources)
                 https://github.com/6mile/DevSecOps-Playbook (This is a step-by-step guide to implementing a DevSecOps program for any size organization)
                 https://github.com/A-poc/RedTeam-Tools (Tools and Techniques for Red Team / Penetration Testing)
@@ -3247,6 +3252,7 @@ Contents:
                 https://github.com/pdfernhout/High-Performance-Organizations-Reading-List (Ideas for creating and sustaining high performance organizations)
                 https://github.com/Pharkmillups/Beautiful-Docs (Pointers To Useful, Well-Written, And Otherwise Beautiful Documentation.)
                 https://github.com/Ryanburgess/Engineer-Manager (A List Of Engineering Manager Resource Links. )
+                https://github.com/tldraw/tldraw (https://www.tldraw.com a very good whiteboard )
                 https://github.com/trekhleb/promote-your-next-startup (Free resources you may use to promote your next startup)
                 https://github.com/Vgraupera/1on1-Questions (Mega List Of 1 On 1 Meeting Questions Compiled From A Variety To Sources)
                 https://github.com/ZachGoldberg/Startup-CTO-Handbook (https://zachgoldberg.com/ctohandbook The Startup CTO's Handbook, a book covering leadership, management and technical topics for leaders of software engineering teams)
@@ -4842,6 +4848,7 @@ Contents:
         https://www.reddit.com/r/EDC/comments/7j7lrs/edc_starter_pack_an_arbitrary_list_of_gear_that (EDC Starter Pack: An Arbitrary List of Gear that Gets Recommended a Lot)
         https://www.reddit.com/r/EDC/comments/ur36lf/i_analyzed_the_top_50_most_mentioned_products_on (I analyzed the top 50 most mentioned products on r/EDC)
         https://www.reddit.com/r/india/wiki/useful_posts
+        https://www.reddit.com/r/malefashionadvice/wiki (r/malefashionadvice wiki)
         https://www.reddit.com/r/uBlockOrigin/comments/178yasm/youtube_antiadblock_and_ads_october_16_2023 ( YouTube Anti-Adblock and Ads - October 16, 2023 (Weekly Thread))
         https://www.theverge.com/23674658/best-android-phone (The best Android phone to buy in 2023)
         https://youglish.com (Use YouTube to improve your English pronunciation. With more than 100M tracks, YouGlish gives you fast, unbiased answers about how English is spoken by real people and in context.)
