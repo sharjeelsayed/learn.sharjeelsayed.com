@@ -918,6 +918,7 @@ Contents:
                 https://web.archive.org/web/20090815205011/http://www.cuberick.com/2008/11/update-bash-history-in-realtime.html (Update Bash History in Realtime)
                 https://wiki.bash-hackers.org/scripting/debuggingtips (Debugging a script)
                 https://www.reddit.com/r/usefulscripts/top
+                https://www.shellcheck.net (finds bugs in your shell scripts)
                 https://pinboard.in/u:SharjeelSayed/t:bash
 
             Books and Courses:
@@ -2233,6 +2234,7 @@ Contents:
 
         macOS:
             Sources:
+                https://app.indieappsales.com (A collection of indie app sales and discounts)
                 https://apple.stackexchange.com/questions/374138/how-to-enable-double-tap-to-drag-in-mac-os-x-catalina
                 https://blog.bejarano.io/hardening-macos
                 https://command-not-found.com (Install any command on any operating system and in Docker)
@@ -2261,6 +2263,7 @@ Contents:
                 https://github.com/serhii-londar/open-source-mac-os-apps (🚀 Awesome list of open source applications for macOS.)
                 https://github.com/sveinbjornt/Sloth (Mac app that shows all open files, directories, sockets, pipes and devices in use by all running processes. Nice GUI for lsof. https://sveinbjorn.org/sloth)
                 https://github.com/topics/macos?o=desc&s=stars
+                https://indiegoodies.com (iOS and macOS apps that enrich lives and boost productivity)
                 https://isapplesiliconready.com (The complete guide for MacOS Apps Optimized for Apple Silicon Macs and the M1 Processor)
                 https://macmenubar.com (A curated directory of 850+ Mac menu bar apps)
                 https://medium.com/@cav/foss-password-management-with-passwordstore-9d34fec2fe84
@@ -2782,8 +2785,10 @@ Contents:
             Sources:
                 https://ai.stanford.edu/courses (Stanford A.I. courses from Fall 2019 CS229)
                 https://blog.floydhub.com/best-deep-learning-courses-updated-for-2019
+                https://danielmiessler.com/p/get-samantha-tars-interstellar-iphoneandroid (How to Get Samantha from Her or TARS from Interstellar on Your iPhone/Android)
                 https://fleuret.org/dlc (François Fleuret's deep-learning courses 14x050 of the University of Geneva, Switzerland)
                 https://fleuret.org/public/lbdl.pdf (The Little Book of Deep Learning by François Fleuret)
+                https://github.com/ai-boost/Awesome-GPTs (Curated list of awesome GPTs 👍.)
                 https://github.com/ai-collection/ai-collection ( The Generative AI Landscape - A List of Awesome Generative AI Applications Topics)
                 https://github.com/dair-ai/Prompt-Engineering-Guide (🐙 Guides, papers, lecture, notebooks and resources for prompt engineering )
                 https://github.com/eugeneyan/open-llms (🤖 A list of open LLMs available for commercial use.)
@@ -3316,6 +3321,7 @@ Contents:
                 https://www.amazon.Com/Gp/Bestsellers/Books/2569 (Amazon Best Sellers In Time Management)
                 https://www.indiehackers.Com
                 https://www.reddit.Com/r/cscareerquestions/comments/6fnujy/Soft_skills_for_programmers
+                https://www.scu.edu/ethics/focus-areas/business-ethics/resources/seven-signs-of-ethical-collapse (Seven Signs of Ethical Collapse)
                 https://www.themarginalian.org/2014/01/03/baloney-detection-kit-carl-sagan (Baloney Detection Kit: Carl Sagan's Rules for Bullshit-Busting and Critical Thinking)
                 https://youtu.be/NViqHCrljf8 (The Briefcase Technique by Ramit Sethi .Money Negotiation technique)
 
@@ -4713,6 +4719,7 @@ Contents:
                 https://www.amazon.in/gp/bestsellers/watches/1375490031 (Bestsellers in Watch Boxes)
                 https://www.casio.com/in/watches/gshock/product.GW-9400Y-1 (MASTER OF G - LAND RANGEMAN GW-9400Y-1)
                 https://www.casio.com/in/watches/protrek/product.PRG-240T-7 (PRG-240 Series PRG-240T-7)
+                https://www.chrono24.com/chronopulse.htm (ChronoPulse – Market Performance)
                 https://www.chrono24.in (The World's Leading Watch Market)
                 https://www.hodinkee.com/articles/think-you-can-name-every-single-watch-thats-ever-gone-to-space (Interview Think You Can Name Every Single Watch That's Ever Gone To Space? There are 1,899 of them. Meet the man that's cataloging them all in one database.)
                 https://www.looria.com/reddit/Watches/products (Most discussed products on r/Watches)
@@ -4800,6 +4807,7 @@ Contents:
         https://github.com/topics/dotfiles?o=desc&s=stars
         https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday (Awesome deals on Black Friday: Apps, SaaS, Books, Courses, etc.)
         https://hackerspaces.org (Hackerspaces are community-operated physical places, where people share their interest in tinkering with technology, meet and work on their projects, and learn from each other)
+        https://indie.deals (Early launch deals on products made by Indie Makers)
         https://learn-anything.xyz
         https://looria.com/reddit/overview (Reddit's Favorite Products in One Place)
         https://news.ycombinator.com/item?id=17272715 (Ask HN: Any resources to learn the fundamentals of critical thinking?)
