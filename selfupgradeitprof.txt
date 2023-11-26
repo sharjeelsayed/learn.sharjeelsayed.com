@@ -260,6 +260,7 @@ Contents:
                 https://github.com/charlax/engineering-management (A collection of inspiring resources related to engineering management and tech leadership)
                 https://github.com/charlax/professional-programming (A collection of learning resources for curious software engineers)
                 https://github.com/codecrafters-io/build-your-own-x (🤓 Build your own (insert technology here) )
+                https://github.com/CorentinTh/it-tools (https://it-tools.tech Collection of handy online tools for developers, with great UX.)
                 https://github.com/danistefanovic/build-your-own-x
                 https://github.com/EbookFoundation/free-programming-books (https://ebookfoundation.github.io/free-programming-books 📚 Freely available programming books )
                 https://github.com/facundoolano/software-papers (📚 A curated list of papers for Software Engineers)
@@ -2785,6 +2786,7 @@ Contents:
             Sources:
                 https://ai.stanford.edu/courses (Stanford A.I. courses from Fall 2019 CS229)
                 https://blog.floydhub.com/best-deep-learning-courses-updated-for-2019
+                https://course.fast.ai (Practical Deep Learning for Coders)
                 https://danielmiessler.com/p/get-samantha-tars-interstellar-iphoneandroid (How to Get Samantha from Her or TARS from Interstellar on Your iPhone/Android)
                 https://fleuret.org/dlc (François Fleuret's deep-learning courses 14x050 of the University of Geneva, Switzerland)
                 https://fleuret.org/public/lbdl.pdf (The Little Book of Deep Learning by François Fleuret)
@@ -2806,7 +2808,11 @@ Contents:
                 https://news.ycombinator.com/item?id=18321665 (Foundations of ML and AI: Book recommendations (dragan.rocks))
                 https://news.ycombinator.com/item?id=20674745 (Ask HN: What Neural Networks/Deep Learning Books Should I Read?)
                 https://news.ycombinator.com/item?id=34312248 (Ask HN: What are the foundational texts for learning about AI/ML/NN?)
-                https://www.deeplearning.ai (Build your AI career by Andrew NG)
+                https://work.caltech.edu/telecourse (Learning From Data by Caltech's Professor Yaser Abu-Mostafa.)
+                https://www.amazon.com/Artificial-Intelligence-A-Modern-Approach-dp-0134610997/dp/0134610997 (Artificial Intelligence: A Modern Approach (Pearson Series in Artifical Intelligence) 4th Edition by Stuart Russell and Peter Norvig)
+                https://www.amazon.com/Elements-Statistical-Learning-Prediction-Statistics/dp/0387848576 (https://hastie.su.domains/Papers/ESLII.pdf The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition (Springer Series in Statistics) 2nd Edition by Trevor Hastie , Robert Tibshirani , Jerome Friedman)
+                https://www.deeplearning.ai/courses/generative-ai-for-everyone (Generative AI for Everyone Instructed by Andrew Ng)
+                https://www.deeplearningbook.org (Deep Learning (Adaptive Computation and Machine Learning series) by Ian Goodfellow and Yoshua Bengio and Aaron Courville https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618)
                 https://www.youtube.com/playlist?app=desktop&list=PLoROMvodv4rNyWOpJg_Yh4NSqI4Z4vOYy (Stanford CS229: Machine Learning I Spring 2022)
 
             Books and Courses:
@@ -3105,6 +3111,7 @@ Contents:
                 https://news.ycombinator.com/item?id=16492393 (Ask HN: How Did You Find a Job Abroad?)
                 https://news.ycombinator.com/item?id=16875868 (List of places to find remote jobs and freelancing projects)
                 https://news.ycombinator.com/item?id=17047736 (Ask HN: How to become a remote contractor?)
+                https://twitter.com/jobs (X Twitter Jobs Search)
                 https://www.indeed.com/career-advice/finding-a-job/rising-tech-jobs-and-skills
                 https://www.reddit.com/r/antiwork/top (Antiwork: Unemployment for all, not just the rich!)
                 https://www.reddit.com/r/india/comments/81r29c/your_onestop_guide_to_emigrating_long_term_to
@@ -4832,6 +4839,7 @@ Contents:
         https://per.quest (Enter a URL to an article, post or page with some text on it to listen to it)
         https://receive-sms-free.cc (Receive SMS online anonymously and fast, without register or a mobile phone)
         https://rfc.fyi (Browse RFCs by keywords, id or collection)
+        https://saasfridaydeals.com (Black Friday Deals From Cool SaaS Founders)
         https://sourceful.co.uk (Discover the best public GoogleDocs and Sheets)
         https://tldrlegal.com (Software Licenses in Plain English)
         https://twitter.com/search?q=Gone%20Free%20(from%3ASharjeelSayed)
