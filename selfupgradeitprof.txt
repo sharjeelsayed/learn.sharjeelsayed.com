@@ -156,6 +156,7 @@ Contents:
             https://news.ycombinator.com/item?id=25271676 (	Ask HN: What are the best advanced computer science courses online?)
             https://news.ycombinator.com/item?id=29498220 (Ask HN: I'm looking for a good book on the fundamentals of CS)
             https://news.ycombinator.com/item?id=30485544 (Ask HN: The book that did it for you in math and/or CS?)
+            https://news.ycombinator.com/item?id=38443668 (Ask HN: Is Knuth's TAOCP worth the time and effort?)
             https://news.ycombinator.com/item?id=5019373 (How Harvard's CS50 Renewed My Hope For Online Education)
             https://ocw.mit.edu/courses/find-by-topic/#cat=engineering&subcat=computerscience
             https://spin.atomicobject.com/2015/05/15/obtaining-thorough-cs-background-online
@@ -1208,6 +1209,7 @@ Contents:
                 https://www.learncloudnative.com/blog/2022-05-10-kubectl-tips (Kubernetes CLI (kubectl) tips you didn't know about)
                 https://www.linode.com/content/kubernetes-guide (Understanding Kubernetes A Guide to Modernizing Your Cloud Infrastructure)
                 https://www.nsa.gov/Press-Room/News-Highlights/Article/Article/2716980/nsa-cisa-release-kubernetes-hardening-guidance/utm_source/nsa-cisa-release-kubernetes-hardening-guidance (NSA, CISA release Kubernetes Hardening Guidance)
+                https://www.reddit.com/r/kubernetes/comments/1849egq/must_have_kubernetes_cluster_addons (Must have Kubernetes cluster addons?)
                 https://www.reddit.com/r/kubernetes/comments/mwpj1q/how_did_you_really_master_kubernetes
                 https://www.reddit.com/r/kubernetes/comments/xauuxk/what_are_some_useful_kubernetes_tools_you_can (What are some useful Kubernetes tools you can share?)
                 https://www.tkng.io (The Kubernetes Network Model)
@@ -2613,8 +2615,9 @@ Contents:
 
         C++
             Sources:
-                https://www.reddit.com/r/learnprogramming/comments/12eaf35/course_like_cs50_to_learn_c (Course like CS50 to learn C++ (self.learnprogramming))
+                https://github.com/fffaraz/awesome-cpp ( A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.)
                 https://www.amazon.com/gp/bestsellers/books/9045760011 (Best Sellers in C++ Programming Language)
+                https://www.reddit.com/r/learnprogramming/comments/12eaf35/course_like_cs50_to_learn_c (Course like CS50 to learn C++ (self.learnprogramming))
 
             Books and Courses:
                 Learn C++
@@ -3050,7 +3053,7 @@ Contents:
                 https://blog.pragmaticengineer.com/the-pragmatic-engineers-resume-template (The Pragmatic Engineer's Resume Template by Gergely Orosz)
                 https://bytebreach.com/how-to-write-an-infosec-resume (How to Write an InfoSec Resume)
                 https://gitconnected.com
-                https://github.com/AmruthPillai/Reactive-Resume
+                https://github.com/AmruthPillai/Reactive-Resume (https://rxresu.me A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!)
                 https://github.com/coderjojo/creative-profile-readme (A Collection of GitHub Profiles with awesome readme)
                 https://github.com/jankapunkt/latexcv
                 https://github.com/posquit0/Awesome-CV
@@ -3259,6 +3262,7 @@ Contents:
                 https://github.com/Dakshshah96/Awesome-Startup-Credits (A Collection Of Awesome Companies Offering Free/Discounted Plans For Eligible Startups)
                 https://github.com/Dwmkerr/Hacker-Laws (Laws, Theories, Principles And Patterns That Developers Will Find Useful. #Hackerlaws )
                 https://github.com/gabiduarte/awesome-techleads (A selected list of content on technical leadership, with preference in content in Portuguese)
+                https://github.com/jordan-cutler/path-to-senior-engineer-handbook (All the resources you need to get to Senior Engineer and beyond)
                 https://github.com/jorgef/engineeringladders (A framework for Engineering Managers)
                 https://github.com/Kuchin/Awesome-Cto (A Curated And Opinionated List Of Resources For Chief Technology Officers, With The Emphasis On Startups)
                 https://github.com/pdfernhout/High-Performance-Organizations-Reading-List (Ideas for creating and sustaining high performance organizations)
