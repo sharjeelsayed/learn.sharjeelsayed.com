@@ -882,6 +882,7 @@ Contents:
                 https://github.com/alexanderepstein/Bash-Snippets (A collection of small bash scripts for heavy terminal users)
                 https://github.com/anordal/shellharden/blob/master/how_to_do_things_safely_in_bash.md (Safe ways to do things in bash)
                 https://github.com/Bash-it/bash-it (Bash-it is a collection of community Bash commands and scripts for Bash 3.2+.)
+                https://github.com/BurntSushi/ripgrep (ripgrep recursively searches directories for a regex pattern while respecting your gitignore )
                 https://github.com/cheat/cheat (cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not frequently enough to remember.)
                 https://github.com/dylanaraps/pure-bash-bible (📖 A collection of pure bash alternatives to external processes.)
                 https://github.com/dylanaraps/pure-sh-bible (📖 A collection of pure POSIX sh alternatives to external processes.)
@@ -895,6 +896,8 @@ Contents:
                 https://github.com/learnbyexample/Command-line-text-processing
                 https://github.com/nvbn/thefuck (Magnificent app which corrects your previous console command.)
                 https://github.com/onceupon/Bash-Oneliner (A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.)
+                https://github.com/phiresky/ripgrep-all (rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.)
+                https://github.com/phiresky/ripgrep-all/wiki/fzf-Integration (You can use rga interactively via fzf.)
                 https://github.com/pirate/bash-utils
                 https://github.com/rothgar/awesome-tuis (List of projects that provide terminal user interfaces )
                 https://github.com/rupa/z (z - jump around)
@@ -1157,6 +1160,7 @@ Contents:
                 https://github.com/r0hi7/k8s-In-30Mins (Learn how to set up the Kubernetes cluster in 30 mins and deploy the application inside the cluster.)
                 https://github.com/ramitsurana/awesome-kubernetes (A curated list for awesome kubernetes sources 🚢🎉)
                 https://github.com/salesforce/sloop (Kubernetes History Visualization)
+                https://github.com/siderolabs/talos (https://www.talos.dev Talos Linux is a modern Linux distribution built for Kubernetes)
                 https://github.com/stern/stern (⎈ Multi pod and container log tailing for Kubernetes)
                 https://github.com/techiescamp/kubernetes-learning-path (A roadmap to learn Kubernetes from scratch (Beginner to Advanced level))
                 https://github.com/terraform-aws-modules/terraform-aws-eks
@@ -1395,6 +1399,7 @@ Contents:
                 https://comparecloud.in (Public Cloud Services Comparison)
                 https://d1.awsstatic.com/whitepapers/building_an_aws_perimeter.pdf (Building an AWS Perimeter)
                 https://dev.to/aws-heroes (This is a collection of articles written by AWS Heroes.)
+                https://docs.aws.amazon.com/cli/latest/userguide/cli-usage-filter.html (Filter AWS CLI output)
                 https://docs.aws.amazon.com/prescriptive-guidance/latest/containers-provision-eks-clusters-terraform/welcome.html (Provisioning production-ready Amazon EKS clusters using Terraform)
                 https://docs.aws.amazon.com/wellarchitected/latest/framework (AWS Well-Architected Framework)
                 https://eksctl.io (eksctl - The official CLI for Amazon EKS)
