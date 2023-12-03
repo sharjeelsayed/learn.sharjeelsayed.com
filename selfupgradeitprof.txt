@@ -1504,7 +1504,7 @@ Contents:
                 https://tutorialsdojo.com/aws-study-path-notes (AWS Exam Study Guides)
                 https://www.aws.training (The only set of training programs and offerings built by the experts at AWS.)
                 https://www.awsgeek.com (Cloud Diagrams & Notes)
-                https://www.examtopics.com/exams/amazon
+                https://www.examtopics.com/exams/amazon (AWS Exam Practice Questions)
                 https://www.reddit.com/r/AWSCertifications/comments/11yccgh/aws_exam_vouchers_discounts_or_other_related (AWS Exam Vouchers / Discounts or other related Promotions)
                 https://www.reddit.com/r/AWSCertifications/comments/pcj2nk/free_learning_resources_needed_for_aws_solutions/haje9xi (Free Learning Resources needed for "AWS Solutions Architect Associate" exam)
                 https://www.reddit.com/r/AWSCertifications/comments/uqnn53/ive_heard_the_recommendation_here_to_go_saa_sap/i8sbnj5 (If you REALLY want to get devops with minimal study you should do Dev Asso -> Sysops Asso. -> Devops Pro)
