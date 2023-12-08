@@ -510,6 +510,7 @@ Contents:
                 https://github.com/leandromoreira/linux-network-performance-parameters (Learn where some of the network sysctl variables fit into the Linux/Kernel network flow. Translations: 🇷🇺 )
                 https://github.com/mininet/mininet/wiki/Teaching-and-Learning-with-Mininet
                 https://github.com/saminiir/level-ip
+                https://how-did-i-get-here.net (A tool/website/article by @kognise about how routing on the Internet works https://github.com/hackclub/how-did-i-get-here )
                 https://learn.cantrill.io/p/tech-fundamentals (Tech Fundamentals by Adrian Cantrill)
                 https://lucb1e.com/randomprojects/php/funnip.php (list of all the ways (and notation combinations) you can make with your IP address)
                 https://news.ycombinator.com/item?id=13983212 (Beej's Guide to Network Programming)
@@ -522,6 +523,7 @@ Contents:
                 https://www.reddit.com/r/networking/comments/125oiyo/how_are_large_tech_companies_scaling_their_data (How are large tech companies scaling their Data Centers?)
                 https://www.reddit.com/r/networking/wiki
                 https://www.reddit.com/r/sysadmin/comments/4ux166/do_you_know_a_site_to_learn_more_about_networking
+                https://www.youtube.com/watch?v=WL0ZTcfSvB4 (Tutorial: Troubleshooting with Traceroute by Richard Steenbergen, GTT.)
 
             Books and Courses:
                 The Bits and Bytes of Computer Networking -Grow with Google
@@ -1504,7 +1506,9 @@ Contents:
                 https://tutorialsdojo.com/aws-study-path-notes (AWS Exam Study Guides)
                 https://www.aws.training (The only set of training programs and offerings built by the experts at AWS.)
                 https://www.awsgeek.com (Cloud Diagrams & Notes)
-                https://www.examtopics.com/exams/amazon (AWS Exam Practice Questions)
+                https://www.exam-answer.com/amazon (Exams from Amazon)
+                https://www.examtopics.com/exams/amazon (AWS Exam Practice Questions.Highest ranked site for AWS practice exams)
+                https://www.freecram.net/vendor/Amazon.html (Free Amazon Certifications Exam Questions)
                 https://www.reddit.com/r/AWSCertifications/comments/11yccgh/aws_exam_vouchers_discounts_or_other_related (AWS Exam Vouchers / Discounts or other related Promotions)
                 https://www.reddit.com/r/AWSCertifications/comments/pcj2nk/free_learning_resources_needed_for_aws_solutions/haje9xi (Free Learning Resources needed for "AWS Solutions Architect Associate" exam)
                 https://www.reddit.com/r/AWSCertifications/comments/uqnn53/ive_heard_the_recommendation_here_to_go_saa_sap/i8sbnj5 (If you REALLY want to get devops with minimal study you should do Dev Asso -> Sysops Asso. -> Devops Pro)
@@ -1535,12 +1539,13 @@ Contents:
                 https://azure.microsoft.com/en-us/get-started
                 https://docs.microsoft.com/en-us/learn/azure
                 https://docs.microsoft.com/en-us/learn/certifications
+                https://github.com/Kyuu-Ji/Awesome-Azure-Pentest (A collection of resources, tools and more for penetration testing and securing Microsofts cloud platform Azure.)
                 https://github.com/lukemurraynz/awesome-azure-architecture (A curated list of AWESOME blogs, videos, tutorials, code, tools & scripts, related to the design and implementation of solutions in Microsoft Azure)
                 https://www.examtopics.com/exams/microsoft
                 https://www.pluralsight.com/partners/microsoft/azure
+                https://www.reddit.com/r/AWSCertifications/comments/uqp9ak/is_there_a_cantrillequivalent_to_an_azure_course (Is there a Cantrill-equivalent to an Azure course?)
                 https://www.reddit.com/r/AZURE/search/?q=course&restrict_sr=on&t=year
                 https://www.whizlabs.com/blog/azure-certifications-path
-                https://www.reddit.com/r/AWSCertifications/comments/uqp9ak/is_there_a_cantrillequivalent_to_an_azure_course (Is there a Cantrill-equivalent to an Azure course?)
 
             Books and Courses:
                 John Savill's Technical Training
@@ -2117,6 +2122,7 @@ Contents:
                 https://github.com/jatrost/awesome-kubernetes-threat-detection (A curated list of resources about detecting threats and defending Kubernetes systems.)
                 https://github.com/jtesta/ssh-audit (SSH server & client security auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc))
                 https://github.com/krol3/container-security-checklist (Checklist for container security - devsecops practices)
+                https://github.com/Kyuu-Ji/Awesome-Azure-Pentest (A collection of resources, tools and more for penetration testing and securing Microsofts cloud platform Azure.)
                 https://github.com/Legit-Labs/legitify
                 https://github.com/Lissy93/awesome-privacy (🦄 A curated list of privacy & security-focused software and services)
                 https://github.com/Lissy93/personal-security-checklist (🔒 A curated checklist of 300+ tips for protecting digital security and privacy in 2021)
@@ -2135,6 +2141,8 @@ Contents:
                 https://github.com/security-prince/Application-Security-Engineer-Interview-Questions (Some of the questions which i was asked when i was giving interviews for Application/Product Security roles.)
                 https://github.com/shreyaschavhan/oscp-pre-preparation-plan-and-notes (𝐎𝐒𝐂𝐏 𝐏𝐫𝐞-𝐏𝐫𝐞𝐩𝐚𝐫𝐚𝐭𝐢𝐨𝐧 𝐏𝐥𝐚𝐧 𝐚𝐧𝐝 𝐍𝐨𝐭𝐞𝐬)
                 https://github.com/sottlmarek/DevSecOps (Ultimate DevSecOps library)
+                https://github.com/tadwhitaker/Security_Architect_and_Principal_Security_Engineer_Interview_Questions (
+                https://github.com/tadwhitaker/Security_Engineer_Interview_Questions (Every Security Engineer Interview Question From Glassdoor.com )
                 https://github.com/TalEliyahu/awesome-security-newsletters (Periodic cyber security newsletters that capture the latest news, summaries of conference talks, research, best practices, tools, events, vulnerabilities, and analysis of trending threats and attacks)
                 https://github.com/toniblyx/my-arsenal-of-aws-security-tools (List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.)
                 https://github.com/topics/devsecops?o=desc&s=stars
@@ -2193,6 +2201,7 @@ Contents:
                 https://www.reddit.com/r/netsecstudents/top/?sort=top&t=all
                 https://www.reddit.com/r/netsecstudents/wiki
                 https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets
+Security Architect and Principal Security Engineer Interview Questions)
                 https://pinboard.in/u:SharjeelSayed/t:security
 
             Books and Courses:
@@ -2415,6 +2424,7 @@ Contents:
                 https://github.com/JanVanRyswyck/awesome-talks (Awesome online talks and screencasts )
                 https://github.com/JoseDeFreitas/awesome-youtubers
                 https://github.com/learn-awesome/learn-awesome
+                https://github.com/liuchong/awesome-roadmaps (A curated list of roadmaps)
                 https://github.com/merry75/educative.io_courses
                 https://github.com/practical-tutorials/project-based-learning (Curated list of project-based tutorials)
                 https://github.com/r0oth3x49/udemy-dl (A cross-platform python based utility to download courses from udemy for personal offline use)
@@ -2925,6 +2935,8 @@ Contents:
                 https://github.com/security-prince/Application-Security-Engineer-Interview-Questions (Some of the questions which i was asked when i was giving interviews for Application/Product Security roles.)
                 https://github.com/security-prince/Application-Security-Engineer-Interview-Questions (Some of the questions which i was asked when i was giving interviews for Application/Product Security roles.)
                 https://github.com/sudheerj/javascript-interview-questions (List of 1000 JavaScript Interview Questions)
+                https://github.com/tadwhitaker/Security_Architect_and_Principal_Security_Engineer_Interview_Questions (
+                https://github.com/tadwhitaker/Security_Engineer_Interview_Questions (Every Security Engineer Interview Question From Glassdoor.com )
                 https://github.com/topics/interview-questions?o=desc&s=stars
                 https://github.com/topics/interview?o=desc&s=stars
                 https://github.com/topics/leetcode?o=desc&s=stars
@@ -2962,6 +2974,7 @@ Contents:
                 https://www.reddit.com/r/cscareerquestions/comments/8387zj/what_is_your_favorite_method_for_figuring_out_if
                 https://www.reddit.com/r/cscareerquestions/wiki
                 https://www.reddit.com/r/ExperiencedDevs
+Security Architect and Principal Security Engineer Interview Questions)
                 https://pinboard.in/u:SharjeelSayed/t:cheatsheet
                 https://pinboard.in/u:SharjeelSayed/t:interview
                 https://pinboard.in/u:SharjeelSayed/t:jobs
@@ -4223,7 +4236,7 @@ Contents:
                         https://www.findareddit.com (Find Subreddits for your Niche)
 
                     Subscriptions:
-                        https://old.reddit.com/r/1Password+AWSCertifications+Alfred+AppHookup+AppleWatch+BuyItForLife+DataHoarder+Documentaries+ExperiencedDevs+Flights+FreeEBOOKS+ITCareerQuestions+IndiaInvestments+Piracy+Terraform+Ubuntu+Upwork+Watches+announcements+ansible+antiwork+apple+appletv+aws+compsci+cscareerquestions+dataisbeautiful+devops+diabetes+docker+freelance+gshock+india+ipad+iphone+kindle+kubernetes+learnprogramming+linux+linuxadmin+mac+macapps+movies+netsec+nextdns+onebag+osx+programming+science+solotravel+sysadmin+technology+television+todayilearned+todoist+travel+usefulscripts+worldnews
+                        https://www.reddit.com/r/1Password+AWSCertifications+Alfred+AppHookup+AppleWatch+BuyItForLife+DataHoarder+Documentaries+ExperiencedDevs+Flights+FreeEBOOKS+ITCareerQuestions+IndiaInvestments+Piracy+Terraform+Ubuntu+Upwork+Watches+announcements+ansible+antiwork+apple+appletv+aws+compsci+cscareerquestions+dataisbeautiful+devops+diabetes+docker+freelance+gshock+india+ipad+iphone+jobs+kindle+kubernetes+learnprogramming+linux+linuxadmin+mac+macapps+movies+netsec+nextdns+onebag+osx+programming+science+solotravel+sysadmin+technology+television+todayilearned+todoist+travel+usefulscripts+worldnews
 
                 Hacker News:
                     https://apps.apple.com/us/app/hack-for-hacker-news-developer/id1464477788
