@@ -894,6 +894,7 @@ Contents:
                 https://github.com/jlevy/the-art-of-command-line (Master the command line, in one page)
                 https://github.com/junegunn/fzf (A command-line fuzzy finder)
                 https://github.com/kaplanelad/shellfirm (Intercept any risky patterns (default or defined by you) and prompt you a small challenge for double verification)
+                https://github.com/kellyjonbrazil/jc (CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and simplifying automation scripts.)
                 https://github.com/koalaman/shellcheck (a static analysis tool for shell scripts)
                 https://github.com/learnbyexample/Command-line-text-processing
                 https://github.com/nvbn/thefuck (Magnificent app which corrects your previous console command.)
@@ -2596,6 +2597,7 @@ Security Architect and Principal Security Engineer Interview Questions)
         Go:
             Sources:
                 https://github.com/topics/go?o=desc&s=stars
+                https://go.dev/blog/survey2023-h2-results (Go Developer Survey 2023 H2 Results)
                 https://www.udemy.com/topic/go-programming-language/?ratings=4.5&sort=popularity (Udemy Courses rated 4.5 stars and above)
 
             Books and Courses:
