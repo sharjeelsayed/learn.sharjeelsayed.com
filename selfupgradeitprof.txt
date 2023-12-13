@@ -2086,6 +2086,7 @@ Contents:
                 https://danielmiessler.com/blog/build-successful-infosec-career
                 https://dev-sec.io (devops + security Server Hardening Automation Using Ansible)
                 https://en.wikipedia.org/wiki/List_of_computer_security_certifications#Most_Popular_Vendor_Neutral_Cyber_Security_Certifications_Among_employers
+                https://gist.github.com/securibee/054d4588e7f4dc892ae603c963558943 (The InfoSec OPML File by Securibee)
                 https://github.com/0x90n/InfoSec-Black-Friday (All the deals for InfoSec related software/tools this Black Friday)
                 https://github.com/0xsyr0/Awesome-Cybersecurity-Handbooks (A huge chunk of my personal notes since I started playing CTFs and working as a Red Teamer.)
                 https://github.com/0xsyr0/OSCP (OSCP Cheat Sheet)
@@ -2142,7 +2143,7 @@ Contents:
                 https://github.com/security-prince/Application-Security-Engineer-Interview-Questions (Some of the questions which i was asked when i was giving interviews for Application/Product Security roles.)
                 https://github.com/shreyaschavhan/oscp-pre-preparation-plan-and-notes (𝐎𝐒𝐂𝐏 𝐏𝐫𝐞-𝐏𝐫𝐞𝐩𝐚𝐫𝐚𝐭𝐢𝐨𝐧 𝐏𝐥𝐚𝐧 𝐚𝐧𝐝 𝐍𝐨𝐭𝐞𝐬)
                 https://github.com/sottlmarek/DevSecOps (Ultimate DevSecOps library)
-                https://github.com/tadwhitaker/Security_Architect_and_Principal_Security_Engineer_Interview_Questions (
+                https://github.com/tadwhitaker/Security_Architect_and_Principal_Security_Engineer_Interview_Questions (Security Architect and Principal Security Engineer Interview Questions)
                 https://github.com/tadwhitaker/Security_Engineer_Interview_Questions (Every Security Engineer Interview Question From Glassdoor.com )
                 https://github.com/TalEliyahu/awesome-security-newsletters (Periodic cyber security newsletters that capture the latest news, summaries of conference talks, research, best practices, tools, events, vulnerabilities, and analysis of trending threats and attacks)
                 https://github.com/toniblyx/my-arsenal-of-aws-security-tools (List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.)
@@ -2202,7 +2203,6 @@ Contents:
                 https://www.reddit.com/r/netsecstudents/top/?sort=top&t=all
                 https://www.reddit.com/r/netsecstudents/wiki
                 https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets
-Security Architect and Principal Security Engineer Interview Questions)
                 https://pinboard.in/u:SharjeelSayed/t:security
 
             Books and Courses:
@@ -2798,6 +2798,7 @@ Security Architect and Principal Security Engineer Interview Questions)
 
         iOS/Android:
             Books and Courses:
+                https://github.com/ax/apk.sh (apk.sh makes reverse engineering Android apps easier, automating some repetitive tasks like pulling, decoding, rebuilding and patching an APK.)
                 https://github.com/sindresorhus/Actions (https://sindresorhus.com/actions ⚙️ Supercharge your shortcuts )
                 https://github.com/skydoves/android-developer-roadmap (🗺 Android Developer Roadmap 2022 suggests learning paths to understanding Android development.)
                 https://www.kodeco.com (Learn iOS and Swift, Android and Kotlin & Dart and Flutter development with the largest and highest-quality catalog of video courses and books on the Internet.)
@@ -3662,6 +3663,7 @@ Security Architect and Principal Security Engineer Interview Questions)
                 https://ramiro.org/vis/hn-most-linked-books (Top 30 books ranked by total number of links to Amazon in Hacker News comments)
                 https://redditfavorites.com/books (What are Reddit's favorite books? From 3.5 billion Reddit comments)
                 https://shepherd.com (8,000+ authors have shared five of their favorite books around a topic, theme, or mood.)
+                https://shepherd.com/bboy/2023 (The 100 best books of 2023 We asked 1,234 authors for their 3 favorite reads in 2023)
                 https://wiki.mobileread.com/wiki/EBook_Lending_Libraries
                 https://www.amazon.com/b/?node=8192263011 (100 Books to Read in a Lifetime)
                 https://www.amazon.com/best-sellers-books-Amazon/zgbs/books
@@ -3963,6 +3965,7 @@ Security Architect and Principal Security Engineer Interview Questions)
                 https://www.reddit.com/r/Documentaries/wiki
                 https://www.susanrigetti.com/physics (So You Want to Learn Physics…SECOND EDITION by Susan J. Rigetti)
                 https://www.theguardian.com/books/booksblog/2017/jul/20/dawkins-sees-off-darwin-in-vote-for-most-influential-science-book
+                https://www.youtube.com/@xkcd_whatif (What If? The Video Series is the official adaptation of the 'What If?' books by Randall Munroe (xkcd.com))
 
             Books and Courses:
                 What If?: Serious Scientific Answers to Absurd Hypothetical Questions
@@ -4013,6 +4016,7 @@ Security Architect and Principal Security Engineer Interview Questions)
                 https://github.com/topics/frontend?o=desc&s=stars
                 https://news.ycombinator.com/item?id=15328992 (Ask HN: Learn Modern web design and CSS)
                 https://news.ycombinator.com/item?id=29353980 (Ask HN: What are the best-designed things you've ever used?)
+                https://news.ycombinator.com/item?id=38591437 (Ask HN: Best UI design courses for hackers?)
                 https://nodesign.dev
                 https://www.canva.com
 
@@ -4236,6 +4240,7 @@ Security Architect and Principal Security Engineer Interview Questions)
                         https://redditfavorites.com (Reddit Favorites From 3.5 billion comments)
                         https://subredditstats.com/subreddit-user-overlaps (Type a subreddit name to list its overlaps with other subreddits)
                         https://www.findareddit.com (Find Subreddits for your Niche)
+                        https://www.reddit.com/r/dataisbeautiful/comments/18fvw7v/oc_top_50_subreddits_with_the_most_new_posts_per ([OC] Top 50 subreddits with the most new posts per day and most comments per post (December 2023))
 
                     Subscriptions:
                         https://www.reddit.com/r/1Password+AWSCertifications+Alfred+AppHookup+AppleWatch+BuyItForLife+DataHoarder+Documentaries+ExperiencedDevs+Flights+FreeEBOOKS+ITCareerQuestions+IndiaInvestments+Piracy+Terraform+Ubuntu+Upwork+Watches+announcements+ansible+antiwork+apple+appletv+aws+compsci+cscareerquestions+dataisbeautiful+devops+diabetes+docker+freelance+gshock+india+ipad+iphone+jobs+kindle+kubernetes+learnprogramming+linux+linuxadmin+mac+macapps+movies+netsec+nextdns+onebag+osx+programming+science+solotravel+sysadmin+technology+television+todayilearned+todoist+travel+usefulscripts+worldnews
