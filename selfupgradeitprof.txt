@@ -588,7 +588,6 @@ Contents:
                 https://datasetsearch.research.google.com (Dataset search)
                 https://db-engines.com/en/ranking (Db-engines ranking)
                 https://github.com/alexeygrigorev/data-science-interviews (Data science interview questions and answers https://ds-interviews.org)
-                https://github.com/binhnguyennus/awesome-scalability ( The patterns of scalable, reliable, and performant large-scale systems topics)
                 https://github.com/datatalksclub/data-engineering-zoomcamp (Free data engineering course!)
                 https://github.com/dttung2905/kafka-in-production (📚 Tech blogs & talks by companies that run Kafka in production)
                 https://github.com/huachaohuang/awesome-dbdev (Awesome materials about database development.)
@@ -674,7 +673,6 @@ Contents:
             https://github.com/dastergon/awesome-chaos-engineering (A curated list of Chaos Engineering resources.)
             https://github.com/mhadidg/software-architecture-books (A curated list of books on Software Architecture.)
             https://github.com/ripienaar/free-for-dev (A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev)
-            https://github.com/theanalyst/awesome-distributed-systems (A curated list to learn about distributed systems)
             https://github.com/topics/architecture?o=desc&s=stars
             https://github.com/trimstray/the-book-of-secret-knowledge (A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.)
             https://landscape.cncf.io (CNCF Cloud Native Interactive Landscape)
@@ -701,6 +699,7 @@ Contents:
                 https://github.com/bregman-arie/devops-exercises (Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions)
                 https://github.com/bregman-arie/devops-resources (DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP Topics)
                 https://github.com/codeaprendiz/learn-devops (DevOps Essentials | terraform | kubernetes | linux | nginx | monitoring | docker | docker-compose)
+                https://github.com/iam-veeramalla/aws-devops-zero-to-hero (https://youtube.com/playlist?list=PLdpzxOOAlwvLNOxX0RfndiYSt1Le9azze&si=OhfxV1KlESpSX5xS AWS zero to hero repo for devops engineers to learn AWS in 30 Days. This repo includes projects, presentations, interview questions and real time examples. )
                 https://github.com/MichaelCade/90DaysOfDevOps (This repository is my documenting repository for learning the world of DevOps)
                 https://github.com/microsoft/code-with-engineering-playbook (This is the playbook for "code-with" customer or partner engagements)
                 https://github.com/milanm/DevOps-Roadmap (DevOps Roadmap for 2023. with learning resources )
@@ -2686,7 +2685,7 @@ Contents:
                 https://github.com/topics/front-end?o=desc&s=stars
                 https://github.com/topics/frontend?o=desc&s=stars
                 https://github.com/topics/webdevelopment?o=desc&s=stars
-                https://github.com/yangshun/front-end-interview-handbook (⚡️ Front End interview preparation materials for busy engineers )
+                https://github.com/yangshun/front-end-interview-handbook (⚡️ Front End interview preparation materials for busy engineers)
                 https://news.ycombinator.com/item?id=24130286 (Ask HN: Self-taught webdev with lots of free time. What should I learn?)
                 https://rutar.org/writing/how-to-build-a-personal-webpage-from-scratch (How to Build a Personal Webpage from Scratch)
                 https://www.photopea.com
@@ -2925,6 +2924,7 @@ Contents:
                 http://blog.interviewing.io/what-really-matters-in-technical-interviews-we-analyzed-thousands-of-interviews-on-everything-from-language-to-code-style-heres-what-we-found
                 https://blog.udemy.com/kubernetes-interview-questions (7 Kubernetes Interview Questions You Should Be Able to Answer)
                 https://codesignal.com (Make the right hires faster, save engineering time, increase diversity, and reduce risk with our technical interview and assessment platform.)
+                https://enterprisersproject.com/article/2021/3/7-top-site-reliability-engineer-sre-job-interview-questions (7 top Site Reliability Engineer (SRE) job interview questions)
                 https://github.com/alexeygrigorev/data-science-interviews (Data science interview questions and answers https://ds-interviews.org)
                 https://github.com/leetcode-mafia/cheetah (Whisper & GPT-based app for passing remote SWE interviews)
                 https://github.com/topics/interview-questions?o=desc&s=stars
@@ -2935,6 +2935,7 @@ Contents:
                 https://news.ycombinator.com/item?id=11246917 (How to Pass a Programming Interview)
                 https://news.ycombinator.com/item?id=14037313 (Questions to ask at the end of a technical interview)
                 https://news.ycombinator.com/item?id=14218559 (How to talk about yourself in a developer interview)
+                https://news.ycombinator.com/item?Id=14726130 (Ask Hn: How To Prepare For An Engineering Manager Interview?)
                 https://news.ycombinator.com/item?id=15341566 (Technical and non-technical tips for rocking your coding interview)
                 https://news.ycombinator.com/item?id=15468786 (Questions to ask in interviews (cternus.net))
                 https://news.ycombinator.com/item?id=15804795 (How to solve a hard programming interview question)
@@ -2961,8 +2962,10 @@ Contents:
             Material:
                 System Design Interview:
                 https://github.com/ashishps1/awesome-system-design-resources (This repository contains System Design resources which are useful while preparing for interviews and learning Distributed Systems)
+                https://github.com/binhnguyennus/awesome-scalability ( The patterns of scalable, reliable, and performant large-scale systems topics)
                 https://github.com/ByteByteGoHq/ml-bytebytego (Reference Materials for System Design Interview)
                 https://github.com/ByteByteGoHq/system-design-101 (Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.)
+                https://github.com/checkcheckzz/system-design-interview (System design interview for IT companies)
                 https://github.com/donnemartin/system-design-primer (The System Design Primer)
                 https://github.com/InterviewReady/system-design-resources (https://interviewready.io These are the best resources for System Design on the Internet)
                 https://github.com/karanpratapsingh/system-design (Learn how to design systems at scale and prepare for system design interviews)
