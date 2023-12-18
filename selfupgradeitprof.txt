@@ -583,11 +583,12 @@ Contents:
         Data Engineering:
             Sources:
                 https://architecturenotes.co/things-you-should-know-about-databases (Things you should know about databases)
-                https://awesomedataengineering.com
+                https://awesomedataengineering.com (Learning path and resources to become a data engineer. Best books, best courses and best articles on each subject.)
                 https://build-your-own.org/database ( Build your own database from scratch . persistence, indexing, concurrency)
                 https://datasetsearch.research.google.com (Dataset search)
                 https://db-engines.com/en/ranking (Db-engines ranking)
                 https://github.com/alexeygrigorev/data-science-interviews (Data science interview questions and answers https://ds-interviews.org)
+                https://github.com/bytebase/bytebase (https://www.bytebase.com World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams. The GitLab/GitHub for database DevOps.)
                 https://github.com/datatalksclub/data-engineering-zoomcamp (Free data engineering course!)
                 https://github.com/dttung2905/kafka-in-production (📚 Tech blogs & talks by companies that run Kafka in production)
                 https://github.com/huachaohuang/awesome-dbdev (Awesome materials about database development.)
@@ -601,6 +602,7 @@ Contents:
                 https://ottertune.com/blog/2021-databases-retrospective (Databases in 2021: a year in review)
                 https://redis.com/blog/datasets-for-test-databases (Groovy datasets for test databases)
                 https://sp23.datastructur.es (CS 61b data structures, spring 2023)
+                https://tontinton.com/posts/database-fundementals (Database Fundamentals)
                 https://www.reddit.com/r/database
                 https://pinboard.in/u:SharjeelSayed/t:db
 
@@ -612,7 +614,7 @@ Contents:
                 15-721 Advanced Database Systems (Spring 2020)
                 https://www.youtube.com/playlist?list=PLSE8ODhjZXjasmrEd2_Yi1deeE360zv5O
 
-                Database Internals: A Deep Dive into How Distributed Data Systems Work
+                Database Internals: A Deep Dive into How Distributed Data Systems Work 1st Edition by Alex Petrov (Nov 2019)
                 https://www.amazon.com/gp/product/1492040347
 
                 Architecture of a Database System
@@ -633,9 +635,9 @@ Contents:
                 Database Design for Mere Mortals: A Hands-On Guide to Relational Database Design (3rd Edition)
                 https://www.amazon.com/Database-Design-Mere-Mortals-Hands/dp/0321884493
 
-                Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems by Martin Kleppmann
+                Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems 1st Edition by Martin Kleppmann (May 2017)
                 https://dataintensive.net
-                https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable-ebook/dp/B06XPJML5D
+                https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321
                 https://youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB (MIT 6.824 Distributed Systems (Spring 2020) by by Robert Morris)
                 https://youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB (Distributed Systems lecture series)
                 https://github.com/ept/ddia-references (Literature references for “Designing Data-Intensive Applications” by Ept)
@@ -1111,7 +1113,7 @@ Contents:
             Sources:
                 https://100daysofkubernetes.io (100 Days of Kubernetes is the challenge in which we aim to learn something new related to Kubernetes each day across 100 Days!!!)
                 https://argoproj.github.io/argo-cd (Declarative GitOps CD for Kubernetes)
-                https://blog.pipetail.io/posts/2020-05-04-most-common-mistakes-k8s
+                https://blog.pipetail.io/posts/2020-05-04-most-common-mistakes-k8s (10 most common mistakes using kubernetes)
                 https://blog.udemy.com/kubernetes-interview-questions (7 Kubernetes Interview Questions You Should Be Able to Answer)
                 https://catalog.us-east-1.prod.workshops.aws/v2/workshops/9da471a0-266a-4d36-8596-e5934aeedd1f/en-US (AWS Policy as Code Workshop)
                 https://chrisshort.net/kubernetes-illustrated-childrens-guide
@@ -1119,67 +1121,43 @@ Contents:
                 https://devopsunlocked.com/kubernetes-learning-material
                 https://docs.aws.amazon.com/prescriptive-guidance/latest/containers-provision-eks-clusters-terraform/welcome.html (Provisioning production-ready Amazon EKS clusters using Terraform)
                 https://docs.google.com/spreadsheets/d/10NltoF_6y3mBwUzQ4bcQLQfCE1BWSgUDcJXy-Qp2JEU (The Kubernetes Learning Resources List)
-                https://eksctl.io (eksctl - The official CLI for Amazon EKS)
                 https://github.com/abiosoft/colima (Container runtimes on macOS (and Linux) with minimal setup)
-                https://github.com/ahmetb/kubectx (Faster way to switch between clusters and namespaces in kubectl)
                 https://github.com/ahmetb/kubernetes-network-policy-recipes (Example recipes for Kubernetes Network Policies that you can just copy paste)
                 https://github.com/alexellis/k3sup (bootstrap Kubernetes with k3s over SSH < 1 min 🚀)
-                https://github.com/aquasecurity/kube-bench (Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark )
-                https://github.com/armosec/kubescape (kubescape is the first tool for testing if Kubernetes is deployed securely as defined in Kubernetes Hardening Guidance by to NSA and CISA)
                 https://github.com/askmeegs/learn-istio (⛵️ Istio resources 🕸)
-                https://github.com/atombender/ktail (A tool to easily tail Kubernetes container logs)
-                https://github.com/aws-samples/hardeneks (Runs checks to see if an EKS cluster follows EKS Best Practices.)
-                https://github.com/aws/karpenter ( Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity. https://karpenter.sh)
-                https://github.com/boz/kail (kubernetes log viewer)
-                https://github.com/collabnix/kubetools (Kubetools - Curated List of Kubernetes Tools)
-                https://github.com/containerd/nerdctl (contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ... )
-                https://github.com/datreeio/datree (Prevent Kubernetes misconfigurations from reaching production (again 😤 )! Datree is a CLI tool to ensure K8s manifests and Helm charts follow best practices as well as your organization’s policies)
                 https://github.com/dennyzhang/cheatsheet-kubernetes-A4 (📖 Kubernetes CheatSheets In A4)
                 https://github.com/devtron-labs/devtron (Devtron is an integrated Kubernetes distribution which bundles Argo, Grafana, Helm, Keda, Prometheus and more, saving you the effort of integrating yourself)
                 https://github.com/diegolnasc/kubernetes-best-practices (A cookbook with the best practices for working with kubernetes)
                 https://github.com/eon01/kubernetes-workshop (A Gentle introduction to Kubernetes with more than just the basics.)
                 https://github.com/groundcover-com/caretta (Instant K8s service dependency map, right to your Grafana.)
-                https://github.com/hidetatz/kubecolor (colorizes kubectl output)
-                https://github.com/ishantanu/awesome-kubectl-plugins (Curated list of kubectl plugins)
                 https://github.com/jamiehannaford/what-happens-when-k8s (What happens when I type kubectl run?)
                 https://github.com/jatrost/awesome-kubernetes-threat-detection (A curated list of resources about detecting threats and defending Kubernetes systems.)
-                https://github.com/johanhaleby/kubetail (Bash script to tail Kubernetes logs from multiple pods at the same time)
                 https://github.com/k8s-at-home/awesome-home-kubernetes
                 https://github.com/karmada-io/karmada (Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration)
-                https://github.com/kdash-rs/kdash (A simple and fast dashboard for Kubernetes)
                 https://github.com/kelseyhightower/kubernetes-the-hard-way
                 https://github.com/komodorio/helm-dashboard (The missing UI for Helm - visualize your releases)
                 https://github.com/ksoclabs/awesome-kubernetes-security (A curated list of awesome Kubernetes security resources)
                 https://github.com/kubernetes/kubernetes
-                https://github.com/kubeshark/kubeshark (The API traffic viewer for Kubernetes providing deep visibility into all API traffic and payloads going in, out and across containers and pods inside a Kubernetes cluster. Think TCPDump and Wireshark re-invented for Kubernetes)
                 https://github.com/LeCoupa/awesome-cheatsheets/blob/master/tools/kubernetes.md
                 https://github.com/madhuakula/kubernetes-goat (Kubernetes Goat is "Vulnerable by Design" Kubernetes Cluster)
                 https://github.com/magnologan/awesome-k8s-security
                 https://github.com/marcel-dempers/docker-development-youtube-series (A Collection of tools, hands-on walkthroughs with source code.The Ultimate Swiss Army knife for DevOps, Developers and Platform Engineers)
-                https://github.com/nevalla/lens-resource-map-extension (Lens - The Kubernetes IDE extension that displays Kubernetes resources and their relations as a force graph.)
                 https://github.com/nkuba/k8s-admin-helper (Kubernetes manifests templates and cheat sheets.)
                 https://github.com/OWASP/www-project-kubernetes-top-ten (OWASP Foundation Web Respository)
                 https://github.com/paralus/paralus (All-in-one Kubernetes access manager. User-level credentials, RBAC, SSO, audit logs.)
                 https://github.com/r0hi7/k8s-In-30Mins (Learn how to set up the Kubernetes cluster in 30 mins and deploy the application inside the cluster.)
                 https://github.com/ramitsurana/awesome-kubernetes (A curated list for awesome kubernetes sources 🚢🎉)
-                https://github.com/salesforce/sloop (Kubernetes History Visualization)
-                https://github.com/siderolabs/talos (https://www.talos.dev Talos Linux is a modern Linux distribution built for Kubernetes)
-                https://github.com/stern/stern (⎈ Multi pod and container log tailing for Kubernetes)
                 https://github.com/techiescamp/kubernetes-learning-path (A roadmap to learn Kubernetes from scratch (Beginner to Advanced level))
                 https://github.com/terraform-aws-modules/terraform-aws-eks
                 https://github.com/tilt-dev/tilt (Kubernetes for Prod, Tilt for Dev)
                 https://github.com/tomhuang12/awesome-k8s-resources (A curated list of awesome Kubernetes tools and resources.)
                 https://github.com/topics/kubernetes?o=desc&s=stars
-                https://github.com/vilaca/awesome-k8s-tools (List of k8s/container/devops tools.)
-                https://github.com/weaveworks/kubediff (a tool for Kubernetes to show differences between running state and version controlled configuration.)
                 https://github.com/zegl/kube-score (Kubernetes object analysis with recommendations for improved reliability and security)
                 https://goo.gl/Rywkpd (The Kubernetes Learning Resources List)
                 https://hackr.io/tutorials/learn-kubernetes
                 https://k3d.io (k3d is a lightweight wrapper to run k3s in docker.)
                 https://k3s.io (The certified Kubernetes distribution built for IoT & Edge computing)
-                https://k8syaml.com (Kubernetes YAML Generator)
                 https://kind.sigs.k8s.io (kind is a tool for running local Kubernetes clusters using Docker container “nodes”.)
-                https://kompose.io (A conversion tool to go from Docker Compose to Kubernetes)
                 https://kops.sigs.k8s.io (kops will not only help you create, destroy, upgrade and maintain production-grade, highly available, Kubernetes cluster, but it will also provision the necessary cloud infrastructure.)
                 https://kube.academy (Learn Kubernetes From Experts For Free. KubeAcademy from VMware)
                 https://kubenews.net (Kubernetes and Cloud Native Computing Foundation News Sources)
@@ -1211,7 +1189,6 @@ Contents:
                 https://www.containiq.com/post/kubernetes-projects-for-beginners (10 Awesome Kubernetes Projects for Beginners)
                 https://www.datadoghq.com/container-report (Oct 2021 report on Kubernetes and Docker Usage)
                 https://www.flatcar.org (A community Linux distribution designed for container workloads, with high security and low maintenance)
-                https://www.fyck.io/resources/kubernetes-tools (A curated directory of Kubernetes tools and resources)
                 https://www.kubecost.com (Kubecost provides real-time cost visibility and insights for teams using Kubernetes, helping you continuously reduce your cloud costs.)
                 https://www.learncloudnative.com/blog/2022-05-10-kubectl-tips (Kubernetes CLI (kubectl) tips you didn't know about)
                 https://www.linode.com/content/kubernetes-guide (Understanding Kubernetes A Guide to Modernizing Your Cloud Infrastructure)
@@ -1224,6 +1201,33 @@ Contents:
                 https://ymmt2005.hatenablog.com/entry/k8s-things (47 Things To Become a Kubernetes Expert)
                 https://youtu.be/0Omvgd7Hg1I (Life of a Packet [I] - Michael Rubin, Google)
                 https://pinboard.in/u:SharjeelSayed/t:kubernetes
+
+            K8s Tools:
+                https://eksctl.io (eksctl - The official CLI for Amazon EKS)
+                https://github.com/ahmetb/kubectx (Faster way to switch between clusters and namespaces in kubectl)
+                https://github.com/aquasecurity/kube-bench (Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark)
+                https://github.com/armosec/kubescape (kubescape is the first tool for testing if Kubernetes is deployed securely as defined in Kubernetes Hardening Guidance by to NSA and CISA)
+                https://github.com/atombender/ktail (A tool to easily tail Kubernetes container logs)
+                https://github.com/aws-samples/hardeneks (Runs checks to see if an EKS cluster follows EKS Best Practices.)
+                https://github.com/aws/karpenter ( Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity. https://karpenter.sh)
+                https://github.com/boz/kail (kubernetes log viewer)
+                https://github.com/collabnix/kubetools (Kubetools - Curated List of Kubernetes Tools)
+                https://github.com/containerd/nerdctl (contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ... )
+                https://github.com/datreeio/datree (Prevent Kubernetes misconfigurations from reaching production (again 😤 )! Datree is a CLI tool to ensure K8s manifests and Helm charts follow best practices as well as your organization’s policies)
+                https://github.com/hidetatz/kubecolor (colorizes kubectl output)
+                https://github.com/ishantanu/awesome-kubectl-plugins (Curated list of kubectl plugins)
+                https://github.com/johanhaleby/kubetail (Bash script to tail Kubernetes logs from multiple pods at the same time)
+                https://github.com/kdash-rs/kdash (A simple and fast dashboard for Kubernetes)
+                https://github.com/kubeshark/kubeshark (The API traffic viewer for Kubernetes providing deep visibility into all API traffic and payloads going in, out and across containers and pods inside a Kubernetes cluster. Think TCPDump and Wireshark re-invented for Kubernetes)
+                https://github.com/nevalla/lens-resource-map-extension (Lens - The Kubernetes IDE extension that displays Kubernetes resources and their relations as a force graph.)
+                https://github.com/salesforce/sloop (Kubernetes History Visualization)
+                https://github.com/siderolabs/talos (https://www.talos.dev Talos Linux is a modern Linux distribution built for Kubernetes)
+                https://github.com/stern/stern (⎈ Multi pod and container log tailing for Kubernetes)
+                https://github.com/vilaca/awesome-k8s-tools (List of k8s/container/devops tools.)
+                https://github.com/weaveworks/kubediff (a tool for Kubernetes to show differences between running state and version controlled configuration.)
+                https://k8syaml.com (Kubernetes YAML Generator)
+                https://kompose.io (A conversion tool to go from Docker Compose to Kubernetes)
+                https://www.fyck.io/resources/kubernetes-tools (A curated directory of Kubernetes tools and resources)
 
             Books and Courses:
                 Kubernetes Documentation
@@ -1286,7 +1290,7 @@ Contents:
                 https://tf-eks-workshop.workshop.aws
 
             CKA/CKAD/CKS
-                https://github.com/cncf/curriculum
+                https://github.com/cncf/curriculum (https://www.cncf.io/training/courses 📚Open Source Curriculum for CNCF Certification Courses)
                 https://github.com/dgkanatsios/CKAD-exercises (A set of exercises to prepare for Certified Kubernetes Application Developer exam by Cloud Native Computing Foundation )
                 https://github.com/jayendrapatil/kubernetes-exercises (Collection covers kubernetes exercises categorized topics-wise and referred back to the individual Kubernetes certification exams.)
                 https://github.com/kmjayadeep/cka-learning (My notes and preparation materials for Certified Kubernetes Administrator Exam)
@@ -3406,7 +3410,7 @@ Contents:
                 https://news.ycombinator.com/item?id=22709843 (Ask HN: Introductory Books on the Stock Market?)
                 https://news.ycombinator.com/item?id=32618445 (	What to read to understand how economists think (economist.com))
                 https://trello.com/b/NPlSa3C7/journey-board (Agile Sprint Board for next initiatives of r/IndiaInvestments)
-                https://www.amazon.com/gp/bestsellers/books/491584
+                https://www.amazon.com/best-sellers-books-Amazon/zgbs/books/2581 (Best Sellers in Economics)
                 https://www.indiainvestments.wiki
                 https://www.indiainvestments.wiki/start-here/zero-to-investing
                 https://www.investopedia.com
@@ -3860,8 +3864,9 @@ Contents:
     Miscellaneous:
         Microsoft Excel:
             Sources:
-                https://www.reddit.com/r/excel/comments/2e28s3/rexcel_advice_thread_repository
                 https://news.ycombinator.com/item?id=12448545 (You Suck at Excel with Joel Spolsky (2015) [video])
+                https://news.ycombinator.com/item?id=38666340 (	Sydney man dubbed the 'Annihilator' wins spreadsheet world championship (theguardian.com))
+                https://www.reddit.com/r/excel/comments/2e28s3/rexcel_advice_thread_repository
 
             Books and Courses:
                 You Suck at Excel with Joel Spolsky
