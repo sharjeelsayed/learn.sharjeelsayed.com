@@ -1409,36 +1409,19 @@ Contents:
                 https://docs.aws.amazon.com/cli/latest/userguide/cli-usage-filter.html (Filter AWS CLI output)
                 https://docs.aws.amazon.com/prescriptive-guidance/latest/containers-provision-eks-clusters-terraform/welcome.html (Provisioning production-ready Amazon EKS clusters using Terraform)
                 https://docs.aws.amazon.com/wellarchitected/latest/framework (AWS Well-Architected Framework)
-                https://eksctl.io (eksctl - The official CLI for Amazon EKS)
                 https://expeditedsecurity.com/aws-in-plain-english
                 https://github.com/1debit/alternat (High availability implementation of AWS NAT instances.)
                 https://github.com/4ndersonLin/awesome-cloud-security (Awesome Cloud Security Resources)
                 https://github.com/anaibol/awesome-serverless
-                https://github.com/AndrewGuenther/fck-nat (Feasible cost konfigurable NAT: An AWS NAT Instance AMI)
-                https://github.com/aramalipoor/aws-cost-saver (A tiny CLI tool to help save costs in development environments when you're asleep and don't need them!)
-                https://github.com/aws-samples/hardeneks (Runs checks to see if an EKS cluster follows EKS Best Practices.)
                 https://github.com/awsdocs (Amazon Web Services - Documentation)
-                https://github.com/bash-my-aws/bash-my-aws (Simple but powerful CLI commands for managing AWS resources)
-                https://github.com/dannysteenman/aws-toolbox (A Collection of Awesome Tools and Scripts for Cloud Engineers )
                 https://github.com/donnemartin/awesome-aws (A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources)
-                https://github.com/dpritchett/aws-budget-limiter (Simple Terraform script for capping monthly AWS spend)
-                https://github.com/dutchcoders/cloudman (Textual user interface to manage ec2 instances.)
-                https://github.com/elpy1/ssh-over-ssm (SSH over AWS SSM. No bastions or public-facing instances. SSH user management through IAM. No requirement to store SSH keys locally or on server.)
-                https://github.com/gofireflyio/aiac (Artificial Intelligence Infrastructure-as-Code Generator.)
                 https://github.com/jassics/awesome-aws-security (Curated list of links, references, books videos, tutorials (Free or Paid), Exploit, CTFs, Hacking Practices etc. which are related to AWS Security)
-                https://github.com/jckuester/awsls (A list command for AWS resources)
                 https://github.com/localstack/localstack (A fully functional local AWS cloud stack)
                 https://github.com/nccgroup/aws-inventory (Discover resources created in an AWS account)
-                https://github.com/Netflix/consoleme (A Central Control Plane for AWS Permissions and Access)
-                https://github.com/rebuy-de/aws-nuke (Nuke a whole AWS account and delete all its resources.)
                 https://github.com/serverless/serverless (⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more!)
-                https://github.com/servian/aws-auto-cleanup (Programmatically delete AWS resources based on an allowlist and time to live (TTL) settings )
-                https://github.com/toniblyx/my-arsenal-of-aws-security-tools (List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc. )
                 https://github.com/topics/aws?o=desc&s=stars
-                https://github.com/turbot/steampipe (Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required.)
                 https://github.com/undergroundwires/AWS-in-bullet-points
                 https://github.com/vantage-sh/ec2instances.info (Amazon EC2 instance comparison site)
-                https://github.com/wallix/awless (A Mighty CLI for AWS)
                 https://iam.cloudonaut.io (Creating IAM policies is hard. We collect information from the AWS Documentation to make writing IAM policies easier)
                 https://instances.vantage.sh (Easy Amazon EC2 Instance Comparison)
                 https://linuxacademy-community-slack.herokuapp.com
@@ -1454,6 +1437,25 @@ Contents:
                 https://www.stackery.io/registry (Enter an AWS CloudFormation template for instant analysis)
                 https://youtu.be/B08iQQhXG1Y (The Most Important AWS Services (with an easy to follow example!))
                 https://pinboard.in/u:SharjeelSayed/t:aws
+
+            AWS Tools:
+                https://eksctl.io (eksctl - The official CLI for Amazon EKS)
+                https://github.com/AndrewGuenther/fck-nat (Feasible cost konfigurable NAT: An AWS NAT Instance AMI)
+                https://github.com/aramalipoor/aws-cost-saver (A tiny CLI tool to help save costs in development environments when you're asleep and don't need them!)
+                https://github.com/aws-samples/hardeneks (Runs checks to see if an EKS cluster follows EKS Best Practices.)
+                https://github.com/bash-my-aws/bash-my-aws (Simple but powerful CLI commands for managing AWS resources)
+                https://github.com/dannysteenman/aws-toolbox (A Collection of Awesome Tools and Scripts for Cloud Engineers )
+                https://github.com/dpritchett/aws-budget-limiter (Simple Terraform script for capping monthly AWS spend)
+                https://github.com/dutchcoders/cloudman (Textual user interface to manage ec2 instances.)
+                https://github.com/elpy1/ssh-over-ssm (SSH over AWS SSM. No bastions or public-facing instances. SSH user management through IAM. No requirement to store SSH keys locally or on server.)
+                https://github.com/gofireflyio/aiac (Artificial Intelligence Infrastructure-as-Code Generator.)
+                https://github.com/jckuester/awsls (A list command for AWS resources)
+                https://github.com/Netflix/consoleme (A Central Control Plane for AWS Permissions and Access)
+                https://github.com/rebuy-de/aws-nuke (Nuke a whole AWS account and delete all its resources.)
+                https://github.com/servian/aws-auto-cleanup (Programmatically delete AWS resources based on an allowlist and time to live (TTL) settings)
+                https://github.com/toniblyx/my-arsenal-of-aws-security-tools (List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.)
+                https://github.com/turbot/steampipe (Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required.)
+                https://github.com/wallix/awless (A Mighty CLI for AWS)
 
             Books and Courses:
                 AWS Certified Solutions Architect - Associate (SAA-C03) by Adrian Cantrill
