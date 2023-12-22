@@ -122,7 +122,6 @@ Contents:
     Computer Science:
         Sources:
             http://blog.agupieware.com/2014/06/online-learning-intensive-bachelors.html
-            http://matt.might.net/articles/what-cs-majors-should-know
             https://begriffs.com/posts/2017-04-13-longterm-computing-reading.html
             https://docs.google.com/spreadsheets/d/1zfw8nPvJeewxcFUBpKUKmAVE8PjnJI7H0CKimdQXxr0/htmlview (Stanford CS Curriculum)
             https://en.wikipedia.org/wiki/Outline_of_computer_science
@@ -256,8 +255,8 @@ Contents:
                 https://github.com/30-seconds/30-seconds-of-code (https://www.30secondsofcode.org Short code snippets for all your development needs)
                 https://github.com/aceking007/100ProjectsOfCode
                 https://github.com/AlgoryL/Projects-from-Scratch
-                https://github.com/bnb/awesome-developer-streams
-                https://github.com/braydie/HowToBeAProgrammer
+                https://github.com/bnb/awesome-developer-streams (👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻 Awesome Developers, Streaming )
+                https://github.com/braydie/HowToBeAProgrammer (A guide on how to be a Programmer - originally published by Robert L Read https://braydie.gitbooks.io/how-to-be-a-programmer/content)
                 https://github.com/charlax/engineering-management (A collection of inspiring resources related to engineering management and tech leadership)
                 https://github.com/charlax/professional-programming (A collection of learning resources for curious software engineers)
                 https://github.com/codecrafters-io/build-your-own-x (🤓 Build your own (insert technology here) )
@@ -271,6 +270,7 @@ Contents:
                 https://github.com/LeCoupa/awesome-cheatsheets
                 https://github.com/mehdihadeli/awesome-software-architecture (A curated list of awesome articles and resources to learn and practice about software architecture, patterns, and principles)
                 https://github.com/Michael0x2a/curated-programming-resources
+                https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming (A 6 Lesson course teaching everything you need to know about harnessing GitHub Copilot and an AI Paired Programing resource.)
                 https://github.com/mtdvio/every-programmer-should-know (A collection of (mostly) technical things every software developer should know about )
                 https://github.com/MunGell/awesome-for-beginners (A list of awesome beginners-friendly projects.)
                 https://github.com/P1xt/p1xt-guides
@@ -279,9 +279,9 @@ Contents:
                 https://github.com/rShetty/awesome-podcasts
                 https://github.com/sdmg15/Best-websites-a-programmer-should-visit (🔗 Some useful websites for programmers.)
                 https://github.com/stanzhai/be-a-professional-programmer
-                https://github.com/styfle/awesome-online-ide
+                https://github.com/styfle/awesome-online-ide (🌩️ A list of awesome online development environments https://styfle.dev/projects/awesome-online-ide)
                 https://github.com/topics/programming?o=desc&s=stars
-                https://github.com/tuvtran/project-based-learning
+                https://github.com/tuvtran/project-based-learning (Curated list of project-based tutorials)
                 https://github.com/veler/DevToys (A Swiss Army knife for developers. https://devtoys.app)
                 https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=every%20programmer&sort=byPopularity&type=story (Things every programmer should know)
                 https://learnxinyminutes.com
@@ -348,6 +348,7 @@ Contents:
                 https://www.reddit.com/r/learnprogramming/wiki/online
                 https://www.reddit.com/r/programming/comments/6l689j/a_manually_curated_list_of_240_popular
                 https://www.udacity.com/course/intro-to-computer-science--cs101
+                https://www.udemy.com/courses/development/software-engineering/?ratings=4.5&sort=popularity (Software Engineering Courses by Udemy)
                 https://www.youtube.com/@TheCodingTrain (The Coding Train)
 
             Books and Courses:
@@ -439,6 +440,11 @@ Contents:
                 https://www.coursera.org/learn/algorithms-part1
                 https://www.coursera.org/learn/algorithms-part2
 
+                Algorithms by Abdul Bari
+                https://www.udemy.com/course/datastructurescncpp (Mastering Data Structures & Algorithms using C and C++ by Abdul Bari . Learn, Analyse and Implement Data Structure using C and C++. Learn Recursion and Sorting.)
+                https://youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O&si=2yDn0xn0v6Y6-Lx9
+                https://github.com/Chinmay2660/DSA-By-Abdul-Bari (This repository contains implementations of popular data structures and algorithms in C++ based on the teachings of Abdul Bari, an expert in the field of computer science and engineering. The implementations are meant to serve as a reference for those looking to improve their understanding of data structures and algorithms.)
+
             Additional Material:
                 Introduction to Algorithms, 3rd Edition (2009) by Thomas H. Cormen
                 https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844
@@ -463,6 +469,7 @@ Contents:
                 https://news.ycombinator.com/item?id=21346272 (Ask HN: Are there books for mathematics like Feynman's lectures on physics?)
                 https://news.ycombinator.com/item?id=23711942 (Ask HN: Recommend a maths book for a teenager?)
                 https://www.3blue1brown.com (Animated math)
+                https://www.3blue1brown.com/topics/calculus (Calculus : Visual introductions to the core ideas of derivatives, integrals, limits and more)
                 https://www.reddit.com/r/learnprogramming/comments/70rh9q/is_there_a_cs50_for_math
                 https://www.susanrigetti.com/math (So You Want to Study Mathematics)
                 https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw (3Blue1Brown Channel)
@@ -589,6 +596,7 @@ Contents:
                 https://db-engines.com/en/ranking (Db-engines ranking)
                 https://github.com/alexeygrigorev/data-science-interviews (Data science interview questions and answers https://ds-interviews.org)
                 https://github.com/bytebase/bytebase (https://www.bytebase.com World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams. The GitLab/GitHub for database DevOps.)
+                https://github.com/DataEngineer-io/data-engineer-handbook (This is a repo with links to everything you'd ever want to learn about data engineering)
                 https://github.com/datatalksclub/data-engineering-zoomcamp (Free data engineering course!)
                 https://github.com/dttung2905/kafka-in-production (📚 Tech blogs & talks by companies that run Kafka in production)
                 https://github.com/huachaohuang/awesome-dbdev (Awesome materials about database development.)
@@ -1137,10 +1145,10 @@ Contents:
                 https://github.com/kelseyhightower/kubernetes-the-hard-way
                 https://github.com/komodorio/helm-dashboard (The missing UI for Helm - visualize your releases)
                 https://github.com/ksoclabs/awesome-kubernetes-security (A curated list of awesome Kubernetes security resources)
-                https://github.com/kubernetes/kubernetes
+                https://github.com/kubernetes/kubernetes (Production-Grade Container Scheduling and Management )
                 https://github.com/LeCoupa/awesome-cheatsheets/blob/master/tools/kubernetes.md
                 https://github.com/madhuakula/kubernetes-goat (Kubernetes Goat is "Vulnerable by Design" Kubernetes Cluster)
-                https://github.com/magnologan/awesome-k8s-security
+                https://github.com/magnologan/awesome-k8s-security (A curated list for Awesome Kubernetes Security resources)
                 https://github.com/marcel-dempers/docker-development-youtube-series (A Collection of tools, hands-on walkthroughs with source code.The Ultimate Swiss Army knife for DevOps, Developers and Platform Engineers)
                 https://github.com/nkuba/k8s-admin-helper (Kubernetes manifests templates and cheat sheets.)
                 https://github.com/OWASP/www-project-kubernetes-top-ten (OWASP Foundation Web Respository)
@@ -1203,7 +1211,9 @@ Contents:
                 https://pinboard.in/u:SharjeelSayed/t:kubernetes
 
             K8s Tools:
+                https://argo-cd.readthedocs.io (https://github.com/argoproj/argo-cd Argo CD is a declarative, GitOps continuous delivery tool for Kubernetes )
                 https://eksctl.io (eksctl - The official CLI for Amazon EKS)
+                https://fluxcd.io ( https://github.com/fluxcd Flux is a set of continuous and progressive delivery solutions for Kubernetes that are open and extensible.)
                 https://github.com/ahmetb/kubectx (Faster way to switch between clusters and namespaces in kubectl)
                 https://github.com/aquasecurity/kube-bench (Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark)
                 https://github.com/armosec/kubescape (kubescape is the first tool for testing if Kubernetes is deployed securely as defined in Kubernetes Hardening Guidance by to NSA and CISA)
@@ -1214,6 +1224,7 @@ Contents:
                 https://github.com/collabnix/kubetools (Kubetools - Curated List of Kubernetes Tools)
                 https://github.com/containerd/nerdctl (contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ... )
                 https://github.com/datreeio/datree (Prevent Kubernetes misconfigurations from reaching production (again 😤 )! Datree is a CLI tool to ensure K8s manifests and Helm charts follow best practices as well as your organization’s policies)
+                https://github.com/fluxcd/flux2-kustomize-helm-example (A GitOps workflow example for multi-env deployments with Flux, Kustomize and Helm.)
                 https://github.com/hidetatz/kubecolor (colorizes kubectl output)
                 https://github.com/ishantanu/awesome-kubectl-plugins (Curated list of kubectl plugins)
                 https://github.com/johanhaleby/kubetail (Bash script to tail Kubernetes logs from multiple pods at the same time)
@@ -1960,7 +1971,7 @@ Contents:
                 Jenkins Handbook
                 https://www.jenkins.io/doc/book
 
-                DevOps Beginners to Advanced | Decoding DevOps with Projects by Imran Teli
+                DevOps Beginners to Advanced with Projects - 2023 | Begin DevOps Career As an Absolute Beginner | AWS, Linux, Scripts, Jenkins, Ansible, GitOps, Docker,Kubernetes, & ChatGPT by Imran Teli
                 https://www.udemy.com/course/decodingdevops
 
                 Rocking DevOps with Jenkins, Kubernetes, Ansible by Rajdeep Saha | Cloud Architect @Fortune10 Company
@@ -3042,6 +3053,9 @@ Contents:
                 https://tib3rius.com/interview-questions.html (Web AppSec Interview Questions)
 
                 Reverse Interview Questions:
+                https://charity.wtf/2021/02/19/questionable-advice-how-can-i-sniff-out-bad-managers-while-interviewing-for-a-job (Questionable Advice: How can I sniff out bad managers while interviewing for a job?)
+                https://github.com/randsleadershipslack/employer-test
+                https://github.com/tBaxter/questions-for-employers (A big collection of useful questions to ask potential employers.)
                 https://github.com/Twipped/InterviewThis (An open source list of developer questions to ask prospective employers)
                 https://github.com/viraptor/reverse-interview (Questions to ask the company during your interview)
                 https://nibblestew.blogspot.com/2022/09/questions-to-ask-prospective-employer.html (Questions to ask a prospective employer during a job interview for developers)
@@ -4688,6 +4702,7 @@ Contents:
                 https://lichess.org/coach (Lichess coaches)
                 https://lichess.org/study/all/popular
                 https://lichess.org/training (Lichess Puzzles)
+                https://www.alexcrompton.com/blog/how-to-learn-chess (How To Learn Chess As An Adult (or, how I went from 300 to 1500 ELO in 9 months))
                 https://www.chess.com/article/view/10-positions-chess-engines-just-dont-understand
                 https://www.chess.com/puzzles
                 https://www.chessgames.com/chessstats.html
