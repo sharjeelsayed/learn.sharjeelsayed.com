@@ -86,6 +86,7 @@ Contents:
         Money
         Foreign Language
     Study Tools:
+        Note Taking Tools
         Productivity Tools
         Web Browser
         Books
@@ -1120,13 +1121,11 @@ Contents:
         Kubernetes:
             Sources:
                 https://100daysofkubernetes.io (100 Days of Kubernetes is the challenge in which we aim to learn something new related to Kubernetes each day across 100 Days!!!)
-                https://argoproj.github.io/argo-cd (Declarative GitOps CD for Kubernetes)
                 https://blog.pipetail.io/posts/2020-05-04-most-common-mistakes-k8s (10 most common mistakes using kubernetes)
                 https://blog.udemy.com/kubernetes-interview-questions (7 Kubernetes Interview Questions You Should Be Able to Answer)
                 https://catalog.us-east-1.prod.workshops.aws/v2/workshops/9da471a0-266a-4d36-8596-e5934aeedd1f/en-US (AWS Policy as Code Workshop)
                 https://chrisshort.net/kubernetes-illustrated-childrens-guide
                 https://cloud.redhat.com/blog/top-open-source-kubernetes-security-tools-of-2021 (Top Open Source Kubernetes Security Tools of 2021)
-                https://devopsunlocked.com/kubernetes-learning-material
                 https://docs.aws.amazon.com/prescriptive-guidance/latest/containers-provision-eks-clusters-terraform/welcome.html (Provisioning production-ready Amazon EKS clusters using Terraform)
                 https://docs.google.com/spreadsheets/d/10NltoF_6y3mBwUzQ4bcQLQfCE1BWSgUDcJXy-Qp2JEU (The Kubernetes Learning Resources List)
                 https://github.com/abiosoft/colima (Container runtimes on macOS (and Linux) with minimal setup)
@@ -1140,7 +1139,6 @@ Contents:
                 https://github.com/groundcover-com/caretta (Instant K8s service dependency map, right to your Grafana.)
                 https://github.com/jamiehannaford/what-happens-when-k8s (What happens when I type kubectl run?)
                 https://github.com/jatrost/awesome-kubernetes-threat-detection (A curated list of resources about detecting threats and defending Kubernetes systems.)
-                https://github.com/k8s-at-home/awesome-home-kubernetes
                 https://github.com/karmada-io/karmada (Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration)
                 https://github.com/kelseyhightower/kubernetes-the-hard-way
                 https://github.com/komodorio/helm-dashboard (The missing UI for Helm - visualize your releases)
@@ -1162,7 +1160,7 @@ Contents:
                 https://github.com/topics/kubernetes?o=desc&s=stars
                 https://github.com/zegl/kube-score (Kubernetes object analysis with recommendations for improved reliability and security)
                 https://goo.gl/Rywkpd (The Kubernetes Learning Resources List)
-                https://hackr.io/tutorials/learn-kubernetes
+                https://hackr.io/tutorials/learn-kubernetes (Kubernetes Tutorials and Courses)
                 https://k3d.io (k3d is a lightweight wrapper to run k3s in docker.)
                 https://k3s.io (The certified Kubernetes distribution built for IoT & Edge computing)
                 https://kind.sigs.k8s.io (kind is a tool for running local Kubernetes clusters using Docker container “nodes”.)
@@ -1193,7 +1191,7 @@ Contents:
                 https://sysdig.com/blog/top-owasp-kubernetes (The OWASP Kubernetes Top 10 puts all possible risks in an order of overall commonality or probability.)
                 https://t.me/learnk8s (Telegram channel for learning Kubernetes)
                 https://techbeacon.com/enterprise-it/47-advanced-tutorials-mastering-kubernetes
-                https://www.atomiccommits.io/everything-useful-i-know-about-kubectl
+                https://www.atomiccommits.io/everything-useful-i-know-about-kubectl (Everything Useful I Know About kubectl)
                 https://www.containiq.com/post/kubernetes-projects-for-beginners (10 Awesome Kubernetes Projects for Beginners)
                 https://www.datadoghq.com/container-report (Oct 2021 report on Kubernetes and Docker Usage)
                 https://www.flatcar.org (A community Linux distribution designed for container workloads, with high security and low maintenance)
@@ -1351,7 +1349,7 @@ Contents:
                 https://github.com/nigelpoulton/qsk-book (Quick Start Kubernetes book on GitHub)
 
                 The Kubernetes Book by Nigel Poulton
-                https://www.amazon.com/Kubernetes-Book-Nigel-Poulton/dp/B09QFM8H6T
+                https://www.amazon.com/Kubernetes-Book-Nigel-Poulton/dp/1916585000
                 https://leanpub.com/thekubernetesbook
                 https://github.com/nigelpoulton/TheK8sBook (YAML files for use with The Kubernetes Book)
                 https://nigelpoulton.com/for-individuals (Nigel's learning Roadmap:7 Steps to learn Kubernetes and Docker)
@@ -2870,12 +2868,12 @@ Contents:
             Sources:
                 https://blog.jetbrains.com/idea/2022/10/top-underrated-shortcuts (Top Underrated Shortcuts in IntelliJ IDEA)
                 https://blog.jetbrains.com/platform/2023/02/top-10-plugins-for-intellij-based-ides (Top 10 Plugins for IntelliJ-based IDEs)
-                https://editorconfig.org
+                https://editorconfig.org (EditorConfig helps maintain consistent coding styles for multiple developers working on the same project across various editors and IDEs.)
                 https://www.codingfont.com (Gamified experience to help you find your true love of coding fonts!)
 
             Visual Studio Code:
                 Sources:
-                    https://code.visualstudio.com/docs/editor/github
+                    https://code.visualstudio.com/docs/sourcecontrol/github (Working with GitHub in VS Code)
                     https://datagubbe.se/vsc (Sane Visual Studio Code)
                     https://gist.github.com/hyperupcall/99e355405611be6c4e0a38b6e3e8aad0 (VSCode config to disable popular extensions' annoyances (telemetry, notifications, welcome pages, etc.))
                     https://github.com/topics/vscode?o=desc&s=stars
@@ -2883,7 +2881,9 @@ Contents:
                     https://github.com/VSCodium/vscodium (binary releases of VS Code without MS branding/telemetry/licensing)
                     https://news.ycombinator.com/item?id=27231033 (Disable autocorrect in vscode)
                     https://news.ycombinator.com/item?id=29278370 (	Ask HN: What extensions/packs of VS Code are must for web/developers to install?)
-                    https://vscodecandothat.com (VS Code Can Do That)
+                    https://stackoverflow.com/questions/29957456/change-default-terminal-app-in-visual-studio-code-on-mac (Change default terminal app in Visual Studio Code on Mac)
+                    https://stackoverflow.com/questions/41540781/is-there-a-way-in-vscode-to-only-zoom-in-on-the-editor/41684631#41684631 (Is there a way in vscode to only zoom in on the editor?)
+                    https://vscode.one/new-tab-vscode (How to Always Open Files in a New Tab - VSCode)
                     https://www.reddit.com/r/vscode/comments/8zbcb3/window_tabs/e2toon2 (Enable windows tabs in vscode)
 
                 Extensions:
@@ -2995,7 +2995,7 @@ Contents:
 
                 Grokking the System Design Interview
                 https://designgurus.org/course/grokking-the-system-design-interview
-                https://github.com/Jeevan-kumar-Raj/Grokking-System-Design (Systems design is the process of defining the architecture, modules, interfaces, and data for a system to satisfy specified requirements. Systems design could be seen as the application of systems theory to product development. )
+                https://github.com/Jeevan-kumar-Raj/Grokking-System-Design (Systems design is the process of defining the architecture, modules, interfaces, and data for a system to satisfy specified requirements. Systems design could be seen as the application of systems theory to product development.)
 
                 An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
                 https://github.com/alex/what-happens-when
@@ -3530,6 +3530,11 @@ Contents:
             https://news.ycombinator.com/item?id=30473322 (Ask HN: Any scientifically proven techniques to boost concentration?)
             https://www.comptia.org/testing/online-testing-interest-form
             https://www.coursera.org/learn/learning-how-to-learn
+
+        Note Taking tools:
+            https://github.com/laurent22/joplin (https://joplinapp.org Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.)
+            https://github.com/logseq/logseq (https://logseq.com A privacy-first, open-source platform for knowledge management and collaboration)
+            https://obsidian.md (Obsidian – A knowledge base that works on local Markdown files.)
 
         Productivity Tools:
             Sources:
