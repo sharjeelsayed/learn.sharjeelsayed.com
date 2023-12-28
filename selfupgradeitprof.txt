@@ -243,6 +243,7 @@ Contents:
                 http://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read
                 http://www.flyingmachinestudios.com/programming/learn-programming-languages-efficiently
                 https://abseil.io/resources/swe-book (Software Engineering at Google)
+                https://austinhenley.com/blog/challengingprojects.html (Challenging Projects Every Programmer Should Try)
                 https://blog.codinghorror.com/recommended-reading-for-developers
                 https://blog.rutikwankhade.dev/github-repositories-every-aspiring-developer-should-check-out
                 https://codeconfessions.substack.com/p/gpu-computing (What Every Developer Should Know About GPU Computing)
@@ -253,6 +254,7 @@ Contents:
                 https://docs.google.com/spreadsheets/d/1gIRjeB1Y_AMvtmJsZWl_dNMDJ7lPSIxiVUYyEvrP5P4/htmlview?usp=sharing&sle=true (Popular Programming Podcast episodes)
                 https://exercism.org (Develop fluency in 61 programming languages with our unique blend of learning, practice and mentoring.)
                 https://fintechgtm.substack.com/p/us-fintech-and-payments-crash-course (U.S. Fintech & Payments Crash Course)
+                https://github.blog/2023-11-08-the-state-of-open-source-and-ai (Octoverse: The state of open source and rise of AI in 2023)
                 https://github.com/30-seconds/30-seconds-of-code (https://www.30secondsofcode.org Short code snippets for all your development needs)
                 https://github.com/aceking007/100ProjectsOfCode
                 https://github.com/AlgoryL/Projects-from-Scratch
@@ -1141,7 +1143,7 @@ Contents:
                 https://github.com/jamiehannaford/what-happens-when-k8s (What happens when I type kubectl run?)
                 https://github.com/jatrost/awesome-kubernetes-threat-detection (A curated list of resources about detecting threats and defending Kubernetes systems.)
                 https://github.com/karmada-io/karmada (Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration)
-                https://github.com/kelseyhightower/kubernetes-the-hard-way
+                https://github.com/kelseyhightower/kubernetes-the-hard-way (Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.)
                 https://github.com/komodorio/helm-dashboard (The missing UI for Helm - visualize your releases)
                 https://github.com/ksoclabs/awesome-kubernetes-security (A curated list of awesome Kubernetes security resources)
                 https://github.com/kubernetes/kubernetes (Production-Grade Container Scheduling and Management )
@@ -1151,7 +1153,6 @@ Contents:
                 https://github.com/marcel-dempers/docker-development-youtube-series (A Collection of tools, hands-on walkthroughs with source code.The Ultimate Swiss Army knife for DevOps, Developers and Platform Engineers)
                 https://github.com/nkuba/k8s-admin-helper (Kubernetes manifests templates and cheat sheets.)
                 https://github.com/OWASP/www-project-kubernetes-top-ten (OWASP Foundation Web Respository)
-                https://github.com/paralus/paralus (All-in-one Kubernetes access manager. User-level credentials, RBAC, SSO, audit logs.)
                 https://github.com/r0hi7/k8s-In-30Mins (Learn how to set up the Kubernetes cluster in 30 mins and deploy the application inside the cluster.)
                 https://github.com/ramitsurana/awesome-kubernetes (A curated list for awesome kubernetes sources 🚢🎉)
                 https://github.com/techiescamp/kubernetes-learning-path (A roadmap to learn Kubernetes from scratch (Beginner to Advanced level))
@@ -1159,7 +1160,6 @@ Contents:
                 https://github.com/tilt-dev/tilt (Kubernetes for Prod, Tilt for Dev)
                 https://github.com/tomhuang12/awesome-k8s-resources (A curated list of awesome Kubernetes tools and resources.)
                 https://github.com/topics/kubernetes?o=desc&s=stars
-                https://github.com/zegl/kube-score (Kubernetes object analysis with recommendations for improved reliability and security)
                 https://goo.gl/Rywkpd (The Kubernetes Learning Resources List)
                 https://hackr.io/tutorials/learn-kubernetes (Kubernetes Tutorials and Courses)
                 https://k3d.io (k3d is a lightweight wrapper to run k3s in docker.)
@@ -1222,6 +1222,7 @@ Contents:
                 https://github.com/boz/kail (kubernetes log viewer)
                 https://github.com/collabnix/kubetools (Kubetools - Curated List of Kubernetes Tools)
                 https://github.com/containerd/nerdctl (contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ... )
+                https://github.com/corneliusweig/ketall (Like `kubectl get all`, but get really all resources)
                 https://github.com/datreeio/datree (Prevent Kubernetes misconfigurations from reaching production (again 😤 )! Datree is a CLI tool to ensure K8s manifests and Helm charts follow best practices as well as your organization’s policies)
                 https://github.com/fluxcd/flux2-kustomize-helm-example (A GitOps workflow example for multi-env deployments with Flux, Kustomize and Helm.)
                 https://github.com/hidetatz/kubecolor (colorizes kubectl output)
@@ -1230,11 +1231,13 @@ Contents:
                 https://github.com/kdash-rs/kdash (A simple and fast dashboard for Kubernetes)
                 https://github.com/kubeshark/kubeshark (The API traffic viewer for Kubernetes providing deep visibility into all API traffic and payloads going in, out and across containers and pods inside a Kubernetes cluster. Think TCPDump and Wireshark re-invented for Kubernetes)
                 https://github.com/nevalla/lens-resource-map-extension (Lens - The Kubernetes IDE extension that displays Kubernetes resources and their relations as a force graph.)
+                https://github.com/paralus/paralus (https://www.paralus.io All-in-one Kubernetes access manager. User-level credentials, RBAC, SSO, audit logs.)
                 https://github.com/salesforce/sloop (Kubernetes History Visualization)
                 https://github.com/siderolabs/talos (https://www.talos.dev Talos Linux is a modern Linux distribution built for Kubernetes)
                 https://github.com/stern/stern (⎈ Multi pod and container log tailing for Kubernetes)
                 https://github.com/vilaca/awesome-k8s-tools (List of k8s/container/devops tools.)
                 https://github.com/weaveworks/kubediff (a tool for Kubernetes to show differences between running state and version controlled configuration.)
+                https://github.com/zegl/kube-score (https://kube-score.com Kubernetes object analysis with recommendations for improved reliability and security)
                 https://k8syaml.com (Kubernetes YAML Generator)
                 https://kompose.io (A conversion tool to go from Docker Compose to Kubernetes)
                 https://www.fyck.io/resources/kubernetes-tools (A curated directory of Kubernetes tools and resources)
@@ -1868,13 +1871,10 @@ Contents:
                 https://firstaidgit.io (A searchable collection of the most frequently asked Git Questions)
                 https://git-scm.com/book/en/v2/Git-Tools-Reset-Demystified (Reset vs Checkout)
                 https://gitexplorer.com (Find the right commands you need without digging through the web)
-                https://github.com/acaudwell/Gource (software version control visualization https://gource.io)
                 https://github.com/AndreMiras/gitpop2 (Find the most popular fork on GitHub)
                 https://github.com/EvanLi/Github-Ranking (⭐Github Ranking⭐ Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily.)
                 https://github.com/FAQGURU/FAQGURU/blob/master/topics/en/git.md (A list of interview questions)
-                https://github.com/gabrie30/ghorg (Quickly clone an entire org/users repositories into one directory - Supports GitHub, GitLab, Bitbucket, and more)
                 https://github.com/git-tips/tips (Most commonly used git tips and tricks.)
-                https://github.com/initialcommit-com/git-sim (Visually simulate Git operations in your own repos with a single terminal command.)
                 https://github.com/k88hudson/git-flight-rules (Flight rules for git)
                 https://github.com/tiimgreen/github-cheat-sheet (A list of cool features of Git and GitHub.)
                 https://github.com/topics/git?o=desc&s=stars
@@ -1899,6 +1899,23 @@ Contents:
                 https://www.udemy.com/topic/git/?ratings=4.5&sort=popularity (Udemy Courses rated 4.5 stars and above)
                 https://youtu.be/1ffBJ4sVUb4 ([Linux.conf.au 2013] - Git For Ages 4 And Up)
                 https://youtu.be/2sjqTHE0zok (Lecture 6: Version Control (git) (2020) by Missing Semester)
+
+            Git Tools:
+                https://github.com/acaudwell/Gource (https://gource.io software version control visualization)
+                https://github.com/bigH/git-fuzzy (interactive `git` with the help of `fzf`)
+                https://github.com/dandavison/delta (A viewer for git and diff output)
+                https://github.com/extrawurst/gitui (Blazing 💥 fast terminal-ui for git written in rust 🦀)
+                https://github.com/gabrie30/ghorg (Quickly clone an entire org/users repositories into one directory - Supports GitHub, GitLab, Bitbucket, and more)
+                https://github.com/git-up/GitUp (The Git interface you've been missing all your life has finally arrived. http://gitup.co)
+                https://github.com/github/hub (A command-line tool that makes git easier to use with GitHub.)
+                https://github.com/initialcommit-com/git-sim (Visually simulate Git operations in your own repos with a single terminal command.)
+                https://github.com/jesseduffield/lazygit (simple terminal UI for git commands)
+                https://github.com/LeCoupa/awesome-cheatsheets/blob/master/tools/git.sh
+                https://github.com/martinvonz/jj (A Git-compatible DVCS that is both simple and powerful)
+                https://github.com/o2sh/onefetch (https://onefetch.dev Command-line Git information tool)
+                https://github.com/tpope/vim-fugitive (fugitive.vim: A Git wrapper so awesome, it should be illegal https://www.vim.org/scripts/script.php?script_id=2975)
+                https://www.sourcetreeapp.com (A free Git client for Windows and Mac )
+                https://www.sublimemerge.com (Git Client, done Sublime)
 
             Books and Courses:
                 Pro Git
@@ -1935,19 +1952,6 @@ Contents:
                 Complete Git Guide: Understand and master Git and GitHub by Bogdan Stashchuk
                 https://www.udemy.com/course/git-and-github-complete-guide
                 https://youtu.be/3FKrszHcIsA
-
-                Git Tools:
-                https://github.com/bigH/git-fuzzy (interactive `git` with the help of `fzf`)
-                https://github.com/dandavison/delta (A viewer for git and diff output)
-                https://github.com/extrawurst/gitui (Blazing 💥 fast terminal-ui for git written in rust 🦀)
-                https://github.com/git-up/GitUp (The Git interface you've been missing all your life has finally arrived. http://gitup.co)
-                https://github.com/github/hub (A command-line tool that makes git easier to use with GitHub.)
-                https://github.com/jesseduffield/lazygit (simple terminal UI for git commands)
-                https://github.com/LeCoupa/awesome-cheatsheets/blob/master/tools/git.sh
-                https://github.com/martinvonz/jj (A Git-compatible DVCS that is both simple and powerful)
-                https://github.com/tpope/vim-fugitive (fugitive.vim: A Git wrapper so awesome, it should be illegal https://www.vim.org/scripts/script.php?script_id=2975)
-                https://www.sourcetreeapp.com (A free Git client for Windows and Mac )
-                https://www.sublimemerge.com (Git Client, done Sublime)
 
             Additional Material:
                 Git Video Tutorial by Derek Banas
@@ -2130,7 +2134,6 @@ Contents:
                 https://github.com/hahwul/DevSecOps ( 🔱 Collection and Roadmap for everyone who wants DevSecOps. Hope your DevOps are more safe 😎)
                 https://github.com/hysnsec/awesome-policy-as-code (A curated list of policy-as-code resources like blogs, videos, and tools to practice on for learning Policy-as-Code.)
                 https://github.com/iacsecurity/tool-compare (infrastructure-as-code security tools comparison)
-                https://github.com/Igglybuff/awesome-piracy (A curated list of awesome warez and piracy links)
                 https://github.com/iknowjason/Awesome-CloudSec-Labs (Awesome free cloud native security learning labs. Includes CTF, self-hosted workshops, guided vulnerability labs, and research labs.)
                 https://github.com/imthenachoman/How-To-Secure-A-Linux-Server (An evolving how-to guide for securing a Linux server.)
                 https://github.com/infobyte/faraday (Open Source Vulnerability Management Platform)
@@ -2867,8 +2870,6 @@ Contents:
 
         IDE:
             Sources:
-                https://blog.jetbrains.com/idea/2022/10/top-underrated-shortcuts (Top Underrated Shortcuts in IntelliJ IDEA)
-                https://blog.jetbrains.com/platform/2023/02/top-10-plugins-for-intellij-based-ides (Top 10 Plugins for IntelliJ-based IDEs)
                 https://editorconfig.org (EditorConfig helps maintain consistent coding styles for multiple developers working on the same project across various editors and IDEs.)
                 https://www.codingfont.com (Gamified experience to help you find your true love of coding fonts!)
 
@@ -2877,6 +2878,7 @@ Contents:
                     https://code.visualstudio.com/docs/sourcecontrol/github (Working with GitHub in VS Code)
                     https://datagubbe.se/vsc (Sane Visual Studio Code)
                     https://gist.github.com/hyperupcall/99e355405611be6c4e0a38b6e3e8aad0 (VSCode config to disable popular extensions' annoyances (telemetry, notifications, welcome pages, etc.))
+                    https://github.com/microsoft/vscode/issues/97931#issuecomment-629978991 (Allow to open a workspace without closing the current window #97931)
                     https://github.com/topics/vscode?o=desc&s=stars
                     https://github.com/viatsko/awesome-vscode (https://viatsko.github.io/awesome-vscode 🎨 A curated list of delightful VS Code packages and resources.)
                     https://github.com/VSCodium/vscodium (binary releases of VS Code without MS branding/telemetry/licensing)
@@ -2920,6 +2922,10 @@ Contents:
                     https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one
 
             IntelliJ IDEA:
+                Sources:
+                    https://blog.jetbrains.com/idea/2022/10/top-underrated-shortcuts (Top Underrated Shortcuts in IntelliJ IDEA)
+                    https://blog.jetbrains.com/platform/2023/02/top-10-plugins-for-intellij-based-ides (Top 10 Plugins for IntelliJ-based IDEs)
+
                 Extensions:
                     https://plugins.jetbrains.com/plugin/10080-rainbow-brackets
                     https://plugins.jetbrains.com/plugin/10485-kubernetes
@@ -4069,6 +4075,7 @@ Contents:
                 https://news.ycombinator.com/item?id=32799789 (Ask HN: What are some of the best documentaries you've seen?)
                 https://news.ycombinator.com/item?id=35313232 (	Text only news websites (2022) (wturrell.co.uk))
                 https://news.ycombinator.com/item?id=36175315 (Ask HN: What other news feeds do you read besides Hacker News?)
+                https://prashantbarahi.com.np/read-in-public (Software blog articles : The #ReadInPublic is my attempt at sharing what I have learned with the world.)
                 https://www.reddit.com/r/AskReddit/comments/9nggyv/what_is_a_great_youtube_channel_to_binge_watch
                 https://www.reddit.com/r/AskReddit/comments/aa7zs9/what_youtube_channels_are_genuinely_worth_watching
                 https://news.ycombinator.com/user?id=SharjeelSayed
@@ -4496,13 +4503,13 @@ Contents:
         Backup:
             Sources:
                 http://gaul.org/object-store-comparison
-                https://clonezilla.org
+                https://clonezilla.org (Clonezilla is a partition and disk imaging/cloning program similar to True Image® or Norton Ghost®.)
                 https://cryptomator.org (ryptomator encrypts your data quickly and easily. Afterwards you upload them protected to your favorite cloud service)
                 https://db.tt/YL0e12GN (Dropbox 500 MB of bonus space)
                 https://github.com/aliparlakci/bulk-downloader-for-reddit (Downloads and archives content from reddit)
-                https://github.com/gilbertchen/benchmarking
-                https://github.com/gilbertchen/cloud-storage-comparison
-                https://github.com/gilbertchen/duplicacy
+                https://github.com/gilbertchen/benchmarking (A performance comparison of Duplicacy, restic, Attic, and duplicity )
+                https://github.com/gilbertchen/cloud-storage-comparison (Performance comparisons of cloud backup storages as Duplicacy backends)
+                https://github.com/gilbertchen/duplicacy (https://duplicacy.com A new generation cloud backup tool)
                 https://github.com/instaloader/instaloader (Download pictures (or videos) along with their captions and other metadata from Instagram.)
                 https://github.com/jbruchon/jdupes
                 https://github.com/KurtBestor/Hitomi-Downloader (🍰 Desktop utility to download images/videos/music/text from various websites, and more.)
@@ -4523,7 +4530,7 @@ Contents:
                 https://restic.readthedocs.io/en/stable/100_references.html#design
                 https://ruderich.org/simon/notes/append-only-backups-with-restic-and-rclone
                 https://serverfault.com/questions/86048/gpg-what-do-i-need-to-backup/1040984#1040984
-                https://syncthing.net
+                https://syncthing.net (Syncthing is a continuous file synchronization program.)
                 https://szymonkrajewski.pl/synchronize-local-files-cryptomator-vault
                 https://www.backblaze.com/b2/cloud-storage-pricing.html
                 https://www.reddit.com/r/DataHoarder/comments/axvxwl/anything_cheaper_than_backblaze_b2
@@ -4624,7 +4631,9 @@ Contents:
             Sources:
                 https://alternativeto.net/software/seedr
                 https://github.com/Igglybuff/awesome-piracy
+                https://github.com/Igglybuff/awesome-piracy (A curated list of awesome warez and piracy links)
                 https://github.com/magicoflolis/Reddit-Piracy-Megathread
+                https://github.com/movie-web/movie-web (https://movie-web.app A small web app for watching movies and shows easily from various torrent sites)
                 https://github.com/ngosang/trackerslist (Updated list of public BitTorrent trackers)
                 https://torrentfreak.com/top-torrent-sites-2021-210103
                 https://torrentfreak.com/utorrent-is-the-most-used-bittorrent-client-by-far-200405
@@ -4797,6 +4806,7 @@ Contents:
                 https://www.seikowatches.com/instructions/html/SEIKO_4R35_4R36_4R37_4R38_4R39_4R71_4R72_EN/index (Seiko 5 Instructions Manual)
                 https://www.statista.com/statistics/789382/leading-luxury-watch-brands-sales (Sales revenue of the leading luxury watch brands worldwide in 2022)
                 https://youtu.be/-1PvBADfQ0s (Top 20 Swiss Watch Brands According To Statistics - Watch Market Update 2023 by Teddy Baldassarre)
+                https://youtu.be/f82nPwGgUDE?si=mqdLLSPyN2qgNgtB (Our Most Worn Watches Of The Year (Over 30 Channels Mentioned))
                 https://youtu.be/fMncXiA-AuE (Tachymeter Explained! (5 examples) by Erik Ternsjö)
                 https://youtu.be/gS92QnF2e4o (How to attach your OMEGA NATO strap - Video Manual by Omega)
                 https://youtu.be/mtFwjY_rjYI (OMEGA Seamaster Diver 300M Calibre 2500/2507 - Video Manual by Omega)
