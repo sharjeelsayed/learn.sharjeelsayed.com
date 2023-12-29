@@ -118,7 +118,7 @@ Contents:
         Chess
         Weather
         Watch
-        Stuff Worth Paid Subscriptions
+        Stuff Worth Paid Subscription
 
     Computer Science:
         Sources:
@@ -1880,6 +1880,7 @@ Contents:
                 https://github.com/topics/git?o=desc&s=stars
                 https://github.com/toptal/gitignore.io (Create useful .gitignore files for your project )
                 https://github.com/UnseenWizzard/git_training (An interactive git training meant to teach you how git works, not just which commands to execute)
+                https://graphite.dev/blog/why-ban-merge-commits (Why large companies and fast-moving startups are banning merge commits)
                 https://grep.app (Search across a half million git repos)
                 https://jdsalaro.com/blog/git-tutorial (Git for Beginners: Zero to Hero 🐙)
                 https://jvns.ca/blog/2023/11/01/confusing-git-terminology (Confusing git terminology by Julia Evans)
@@ -4748,18 +4749,13 @@ Contents:
                 https://ciechanow.ski/mechanical-watch (Mechanical Watch)
                 https://en.wikipedia.org/wiki/Breitling_SA#Navitimer (Breitling Navitimer)
                 https://en.wikipedia.org/wiki/Cartier_Tank (Cartier Tank)
-                https://en.wikipedia.org/wiki/Casio_F-91W (Casio F-91W)
                 https://en.wikipedia.org/wiki/Coaxial_escapement (Coaxial escapement)
                 https://en.wikipedia.org/wiki/Diving_watch (Diving watch)
-                https://en.wikipedia.org/wiki/G-Shock (G-Shock)
                 https://en.wikipedia.org/wiki/G%C3%A9rald_Genta (Gérald Genta)
                 https://en.wikipedia.org/wiki/Helium_release_valve (Helium release valve)
                 https://en.wikipedia.org/wiki/History_of_watches (History of watches)
                 https://en.wikipedia.org/wiki/Jaeger-LeCoultre#Reverso (Jaeger-LeCoultre Reverso)
                 https://en.wikipedia.org/wiki/List_of_most_expensive_watches_sold_at_auction (List of most expensive watches sold at auction)
-                https://en.wikipedia.org/wiki/Master_of_G (Master of G)
-                https://en.wikipedia.org/wiki/Omega_Seamaster (Omega Seamaster)
-                https://en.wikipedia.org/wiki/Omega_Speedmaster (Omega Speedmaster)
                 https://en.wikipedia.org/wiki/Patek_Philippe (Patek Philippe)
                 https://en.wikipedia.org/wiki/Poljot (Poljot)
                 https://en.wikipedia.org/wiki/Reference_57260 (Vacheron Constantin Reference 57260 : The Most Complicated Watch Ever Made)
@@ -4771,29 +4767,15 @@ Contents:
                 https://instagram.com/superwatchman (Instagram's Most Followed Celebrity Watch Page 🏆)
                 https://professionalwatches.com/morgan-stanleys-top-20-swiss-watch-company-ranking-for-2023 (Morgan Stanley’s Top 20 Swiss Watch Company Ranking for 2023)
                 https://quillandpad.com/2021/03/19/the-diving-bezel-the-most-versatile-watch-complication-even-if-youre-not-a-diver (The Diving Bezel: The Most Versatile Watch Complication, Even If You’re Not A Diver)
-                https://shockbase.org/advanced_search.php (G-Shock Advanced Search)
-                https://shockbase.org/watches/compare.php (G-Shock Compare Watches)
-                https://shockbase.org/watches/ranking.php?weight1=41&weight2=297&height1=38.54&height2=66&display=%25&suchen=Update+Ranking (Best G-Shock watches in terms of functions and features)
-                https://support.casio.com/storage/en/manual/pdf/EN/009/qw3246.pdf (Protrek PRG-240T-7 Module No.3246 User Manual)
-                https://support.casio.com/storage/en/manual/pdf/EN/009/qw3410.pdf (RANGEMAN Module No.3410 User Manual)
                 https://teddybaldassarre.com/blogs/watches/iconic-watches (The 28 Most Iconic Watches of All Time and the Case for Each by Mark Bernardo. June 2023)
                 https://watchcharts.com/screener (Watch Screener: Find watches based on specifications and market performance.)
-                https://watchcharts.com/watch_model/30921-omega-speedmaster-professional-moonwatch-310-30-42-50-01-002 (Market Watch Analysis for  Omega 310.30.42.50.01.002 Speedmaster Professional Moonwatch (Sapphire Crystal)
-                https://watchcharts.com/watch_model/4706-omega-210-90-42-20-01-001 (Market Watch Analysis for Omega 210.90.42.20.01.001 Seamaster NTTD)
                 https://www.amazon.com/Best-Sellers-Clothing-Shoes-Jewelry-Mens-Watches/zgbs/fashion/6358539011 (Best Sellers in Men's Watches)
                 https://www.amazon.com/Best-Sellers-Clothing-Shoes-Jewelry-Watch-Repair-Tools-Kits/zgbs/fashion/378531011 (Best Sellers in Watch Repair Tools & Kits)
                 https://www.amazon.in/gp/bestsellers/watches/1375490031 (Bestsellers in Watch Boxes)
-                https://www.casio.com/in/watches/gshock/product.GW-9400Y-1 (MASTER OF G - LAND RANGEMAN GW-9400Y-1)
-                https://www.casio.com/in/watches/protrek/product.PRG-240T-7 (PRG-240 Series PRG-240T-7)
                 https://www.chrono24.com/chronopulse.htm (ChronoPulse – Market Performance)
                 https://www.chrono24.in (The World's Leading Watch Market)
                 https://www.hodinkee.com/articles/think-you-can-name-every-single-watch-thats-ever-gone-to-space (Interview Think You Can Name Every Single Watch That's Ever Gone To Space? There are 1,899 of them. Meet the man that's cataloging them all in one database.)
                 https://www.looria.com/reddit/Watches/products (Most discussed products on r/Watches)
-                https://www.omegawatches.com/media/pdf/user-manuals/OMEGA_User_Manual_EN.pdf (Omega User Manual)
-                https://www.omegawatches.com/planet-omega/cinema/james-bond (Planet Omega James Bond)
-                https://www.omegawatches.com/watch-omega-seamaster-diver-300m-co-axial-master-chronometer-42-mm-21090422001001 (Omega Seamaster Diver 300M Co‑Axial Master Chronometer 42 mm 007 Edition)
-                https://www.omegawatches.com/watch-omega-speedmaster-moonwatch-professional-co-axial-master-chronometer-chronograph-42-mm-31030425001002 (Omega Speedmaster Moonwatch Professional Co‑Axial Master Chronometer Chronograph 42 mm)
-                https://www.reddit.com/r/gshock (r/gshock)
                 https://www.reddit.com/r/Watches/comments/4mp3w7/resources_ive_compiled_all_the_best_documentaries ([Resources] I've compiled all the best documentaries, videos, books, channels, websites, and more about watches, movements, watch history, and watch culture. Great resources for newbies and veterans. 100+ videos, 15+ books, etc. I hope the community finds this useful!)
                 https://www.reddit.com/r/Watches/comments/5obyi8/world_leaders_watches_of_current_leaders_around (Watches of current leaders around the world)
                 https://www.reddit.com/r/Watches/comments/sqr6c8/meta_i_analyzed_the_top_500_posts_of_all_time ([META] I analyzed the top 500 posts of all time. Here are the 15 most popular brands by some metrics)
@@ -4808,14 +4790,37 @@ Contents:
                 https://youtu.be/-1PvBADfQ0s (Top 20 Swiss Watch Brands According To Statistics - Watch Market Update 2023 by Teddy Baldassarre)
                 https://youtu.be/f82nPwGgUDE?si=mqdLLSPyN2qgNgtB (Our Most Worn Watches Of The Year (Over 30 Channels Mentioned))
                 https://youtu.be/fMncXiA-AuE (Tachymeter Explained! (5 examples) by Erik Ternsjö)
-                https://youtu.be/gS92QnF2e4o (How to attach your OMEGA NATO strap - Video Manual by Omega)
-                https://youtu.be/mtFwjY_rjYI (OMEGA Seamaster Diver 300M Calibre 2500/2507 - Video Manual by Omega)
                 https://youtu.be/PHis9l8cJks (75 Watch Terms You Need to Know - A Crash Course to Watch Collecting Terminology by Teddy Baldassarre)
                 https://youtu.be/Sy4wusLxTBo (How to Use a Slide Rule on a Watch | Breitling Navitimer by Crown & Caliber by Hodinkee)
                 https://youtu.be/TELYvXbm9SI?si=FZIyiaomx1XXCsmY (The Top 100 GREATEST Watches In The World by Watchfinder & Co.)
                 https://youtu.be/wC9gBMk7_ss (IN-DEPTH Guide - Everything You Need To Know About The OMEGA Co-Axial Escapement by Monochrome Watches)
 
-        Stuff Worh Paid Subscription:
+            Casio:
+                https://en.wikipedia.org/wiki/Casio_F-91W (Casio F-91W)
+                https://en.wikipedia.org/wiki/G-Shock (G-Shock)
+                https://en.wikipedia.org/wiki/Master_of_G (Master of G)
+                https://shockbase.org/advanced_search.php (G-Shock Advanced Search)
+                https://shockbase.org/watches/compare.php (G-Shock Compare Watches)
+                https://shockbase.org/watches/ranking.php?weight1=41&weight2=297&height1=38.54&height2=66&display=%25&suchen=Update+Ranking (Best G-Shock watches in terms of functions and features)
+                https://support.casio.com/storage/en/manual/pdf/EN/009/qw3246.pdf (Protrek PRG-240T-7 Module No.3246 User Manual)
+                https://support.casio.com/storage/en/manual/pdf/EN/009/qw3410.pdf (RANGEMAN Module No.3410 User Manual)
+                https://www.casio.com/in/watches/gshock/product.GW-9400Y-1 (MASTER OF G - LAND RANGEMAN GW-9400Y-1)
+                https://www.casio.com/in/watches/protrek/product.PRG-240T-7 (PRG-240 Series PRG-240T-7)
+                https://www.reddit.com/r/gshock (r/gshock)
+
+            Omega:
+                https://en.wikipedia.org/wiki/Omega_Seamaster (Omega Seamaster)
+                https://en.wikipedia.org/wiki/Omega_Speedmaster (Omega Speedmaster)
+                https://watchcharts.com/watch_model/30921-omega-speedmaster-professional-moonwatch-310-30-42-50-01-002 (Market Watch Analysis for  Omega 310.30.42.50.01.002 Speedmaster Professional Moonwatch (Sapphire Crystal)
+                https://watchcharts.com/watch_model/4706-omega-210-90-42-20-01-001 (Market Watch Analysis for Omega 210.90.42.20.01.001 Seamaster NTTD)
+                https://www.omegawatches.com/media/pdf/user-manuals/OMEGA_User_Manual_EN.pdf (Omega User Manual)
+                https://www.omegawatches.com/planet-omega/cinema/james-bond (Planet Omega James Bond)
+                https://www.omegawatches.com/watch-omega-seamaster-diver-300m-co-axial-master-chronometer-42-mm-21090422001001 (Omega Seamaster Diver 300M Co‑Axial Master Chronometer 42 mm 007 Edition)
+                https://www.omegawatches.com/watch-omega-speedmaster-moonwatch-professional-co-axial-master-chronometer-chronograph-42-mm-31030425001002 (Omega Speedmaster Moonwatch Professional Co‑Axial Master Chronometer Chronograph 42 mm)
+                https://youtu.be/gS92QnF2e4o (How to attach your OMEGA NATO strap - Video Manual by Omega)
+                https://youtu.be/mtFwjY_rjYI (OMEGA Seamaster Diver 300M Calibre 2500/2507 - Video Manual by Omega)
+
+        Stuff Worth Paid Subscription:
             https://1password.com
             https://acloudguru.com
             https://db.tt/YL0e12GN # (Dropbox 500 MB of bonus space)
