@@ -76,8 +76,7 @@ Contents:
         IDE
     Career:
         Interview Guides
-        Resume Improvement
-        Portfolio
+        Resume CV and Online Profile
         Jobs
         Job Sites
         Company and Salary Reviews
@@ -2118,6 +2117,7 @@ Contents:
                 https://github.com/aquasecurity/cloudsploit (CloudSploit by Aqua is an open-source project designed to allow detection of security risks in cloud infrastructure accounts, including: Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform (GCP), Oracle Cloud Infrastructure (OCI), and GitHub.)
                 https://github.com/armosec/kubescape (kubescape is the first tool for testing if Kubernetes is deployed securely as defined in Kubernetes Hardening Guidance by to NSA and CISA)
                 https://github.com/Arudjreis/awesome-security-GRC (Curated list of resources for security Governance, Risk Management, Compliance and Audit professionals and enthusiasts (if they exist).)
+                https://github.com/Az0x7/vulnerability-Checklist (This repository contain a lot of web and api vulnerability checklist , a lot of vulnerability ideas and tips from twitter)
                 https://github.com/bettercap/bettercap (The Swiss Army knife for 802.11, BLE, IPv4 and IPv6 networks reconnaissance and MITM attacks.)
                 https://github.com/BishopFox/cloudfox (Open source command line tool created to help penetration testers and other offensive security professionals find exploitable attack paths in cloud infrastructure)
                 https://github.com/chughes29/Cloud-DevSecOps-Learning/blob/main/Cloud%20%26%20DevSecOps%20Learning%20(1).md (Cloud-DevSecOps-Learning)
@@ -2293,7 +2293,7 @@ Contents:
                 https://github.com/exelban/stats (macOS system monitor in your menu bar)
                 https://github.com/geerlingguy/mac-dev-playbook (Mac setup and configuration via Ansible.)
                 https://github.com/iCHAIT/awesome-macOS ( A curated list of awesome applications, softwares, tools and shiny things for macOS.)
-                https://github.com/jaywcjlove/awesome-mac (awesome macOS software in various categories)
+                https://github.com/jaywcjlove/awesome-mac (https://wangchujiang.com/awesome-mac awesome macOS software in various categories)
                 https://github.com/mathiasbynens/dotfiles (🔧 .files, including ~/.macos — sensible hacker defaults for macOS)
                 https://github.com/mRs-/Black-Friday-Deals (Black Friday Deals for macOS / iOS Software & Books)
                 https://github.com/nikitavoloboev/my-mac-os (List of applications and tools that make my macOS experience even more amazing)
@@ -2834,6 +2834,7 @@ Contents:
                 https://fleuret.org/public/lbdl.pdf (The Little Book of Deep Learning by François Fleuret)
                 https://github.com/ai-boost/Awesome-GPTs (Curated list of awesome GPTs 👍.)
                 https://github.com/ai-collection/ai-collection ( The Generative AI Landscape - A List of Awesome Generative AI Applications Topics)
+                https://github.com/dair-ai/ML-Papers-of-the-Week (🔥Highlighting the top ML papers every week.)
                 https://github.com/dair-ai/Prompt-Engineering-Guide (🐙 Guides, papers, lecture, notebooks and resources for prompt engineering )
                 https://github.com/eugeneyan/open-llms (🤖 A list of open LLMs available for commercial use.)
                 https://github.com/humanloop/awesome-chatgpt (Curated list of awesome tools, demos, docs for ChatGPT and GPT-3 )
@@ -3088,47 +3089,49 @@ Contents:
                 https://exercism.io (55,108)
                 https://projecteuler.net (64,566)
 
-        Resume Improvement:
+        Resume CV and Online Profile:
             Sources:
                 https://blog.pragmaticengineer.com/the-pragmatic-engineers-resume-template (The Pragmatic Engineer's Resume Template by Gergely Orosz)
                 https://bytebreach.com/how-to-write-an-infosec-resume (How to Write an InfoSec Resume)
                 https://gitconnected.com
-                https://github.com/AmruthPillai/Reactive-Resume (https://rxresu.me A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!)
-                https://github.com/coderjojo/creative-profile-readme (A Collection of GitHub Profiles with awesome readme)
-                https://github.com/jankapunkt/latexcv
-                https://github.com/posquit0/Awesome-CV
-                https://github.com/salomonelli/best-resume-ever
                 https://github.com/topics/cv?o=desc&s=stars
                 https://github.com/topics/readme?o=desc&s=stars
                 https://github.com/topics/resume?o=desc&s=stars
-                https://github.com/xitanggg/open-resume  (OpenResume is a powerful open-source resume builder and resume parser. https://open-resume.com )
                 https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=resume%20&sort=byPopularity&type=story
                 https://news.ycombinator.com/item?id=16479922 (Ask HN: Resumes that look good but professional too)
                 https://news.ycombinator.com/item?id=17671490 (Building a Kickass Portfolio)
                 https://news.ycombinator.com/item?id=22709183 (	Show HN: RxResume – A free and open-source resume builder (web.app))
-                https://resuai.io/dashboard/template
-                https://resumake.io
-                https://resumetopdf.com
                 https://stackoverflow.blog/2020/11/25/how-to-write-an-effective-developer-resume-advice-from-a-hiring-manager (How to write an effective developer resume: Advice from a hiring manager)
-                https://thetechresume.com
+                https://thetechresume.com (A practical guide written by the people who do the resume screening:)
                 https://www.overleaf.com/latex/templates/tagged/cv
                 https://www.reddit.com/r/sysadminresumes/top
                 https://pinboard.in/u:SharjeelSayed/t:resume
 
-        Portfolio:
-            Sources:
+            Resume CV Tools:
+                https://github.com/AmruthPillai/Reactive-Resume (https://rxresu.me A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!)
+                https://github.com/BartoszJarocki/cv (Print-friendly, minimalist CV page)
+                https://github.com/jankapunkt/latexcv (👔 A collection of cv and resume templates written in LaTeX. Leave an issue if your language is not supported!)
+                https://github.com/posquit0/Awesome-CV (📄 Awesome CV is LaTeX template for your outstanding job application)
+                https://github.com/saadq/resumake.io (https://resumake.io 📝 A website for automatically generating elegant LaTeX resumes.)
+                https://github.com/salomonelli/best-resume-ever (https://salomonelli.github.io/best-resume-ever 👔 💼 Build fast 🚀 and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.)
+                https://github.com/xitanggg/open-resume (https://open-resume.com OpenResume is a powerful open-source resume builder and resume parser)
+                https://luckyresumemaker.com (Make a professional resume in minutes)
+                https://resuai.io/dashboard/templates (Create a resume that will land you an interview)
+                https://resumetopdf.com
+
+            Online Profile:
                 https://about.me (5,086)
                 https://arturssmirnovs.github.io/github-profile-readme-generator
                 https://github.com/abhisheknaiidu/awesome-github-profile-readme
                 https://github.com/arturssmirnovs/github-profile-readme-generator
+                https://github.com/coderjojo/creative-profile-readme (A Collection of GitHub Profiles with awesome readme)
                 https://github.com/ikatyang/emoji-cheat-sheet
                 https://github.com/kautukkundan/Awesome-Profile-README-templates
-                https://github.com/rahuldkjain/github-profile-readme-generator (🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.)
+                https://github.com/rahuldkjain/github-profile-readme-generator (🚀 Generate GitHub profile README easily with the latest add-ons like visitors count,GitHub stats, etc using minimal UI.)
                 https://github.com/scastiel/github-business-card (GitHub Business Card)
                 https://github.com/topics/github-profile-readme?o=desc&s=stars
                 https://github.com/topics/github-readme?o=desc&s=stars
                 https://linktr.ee (304)
-                https://luckyresumemaker.com (Make a professional resume in minutes)
                 https://www.qrcode-monkey.com/#vcard
                 https://www.vistaprint.in/business-cards
                 https://youtu.be/n6d4KHSKqGk (UPDATE: Next Level GitHub Profile README (NEW) | GitHub Actions | Vercel | Spotify)
@@ -3367,6 +3370,7 @@ Contents:
                 https://news.ycombinator.com/item?id=27408120 (Ask HN: Books for Effective Communication)
                 https://news.ycombinator.com/item?id=29336234 (Ask HN: I’d like to hire a personal/executive assistant – any tips or advice?)
                 https://news.ycombinator.com/item?id=30497703 (Ask HN: Books to read when you transform from SWE into SWE Management?)
+                https://news.ycombinator.com/item?id=38803092 (Ask HN: What are good books/blogs to read for a first time CTO?)
                 https://rankings.ft.com/rankings/2866/mba-2022 (Business school rankings 2022)
                 https://startupstash.com (The world's largest directory of tools and resources for startups and entrepreneurs)
                 https://themanagershandbook.com (The Manager's Handbook by Alex MacCaw from clearbit.com)
@@ -4796,17 +4800,20 @@ Contents:
                 https://youtu.be/wC9gBMk7_ss (IN-DEPTH Guide - Everything You Need To Know About The OMEGA Co-Axial Escapement by Monochrome Watches)
 
             Casio:
+                https://bastianborn.de/radio-clock-hack (How to manipulate a radio controlled clock via speaker)
                 https://en.wikipedia.org/wiki/Casio_F-91W (Casio F-91W)
                 https://en.wikipedia.org/wiki/G-Shock (G-Shock)
                 https://en.wikipedia.org/wiki/Master_of_G (Master of G)
                 https://shockbase.org/advanced_search.php (G-Shock Advanced Search)
                 https://shockbase.org/watches/compare.php (G-Shock Compare Watches)
-                https://shockbase.org/watches/ranking.php?weight1=41&weight2=297&height1=38.54&height2=66&display=%25&suchen=Update+Ranking (Best G-Shock watches in terms of functions and features)
+                https://shockbase.org/watches/ranking.php (Best G-Shock watches in terms of functions and features)
                 https://support.casio.com/storage/en/manual/pdf/EN/009/qw3246.pdf (Protrek PRG-240T-7 Module No.3246 User Manual)
                 https://support.casio.com/storage/en/manual/pdf/EN/009/qw3410.pdf (RANGEMAN Module No.3410 User Manual)
                 https://www.casio.com/in/watches/gshock/product.GW-9400Y-1 (MASTER OF G - LAND RANGEMAN GW-9400Y-1)
                 https://www.casio.com/in/watches/protrek/product.PRG-240T-7 (PRG-240 Series PRG-240T-7)
                 https://www.reddit.com/r/gshock (r/gshock)
+                https://youtu.be/3BotLQShy-0?si=9g9jSdcNJKwCRHBH (Casio GW 9400 Rangeman 3410 - review & detailed tutorial on how to set up and use all the functions by Watch Geek)
+                https://youtu.be/jkypmuyw08s?si=evlnNmU00hGk8Fj1 (🌐 Multi-Band 6 WITHOUT Tower 📡 Clock Wave App 🕙 by GOAT Reviews)
 
             Omega:
                 https://en.wikipedia.org/wiki/Omega_Seamaster (Omega Seamaster)
