@@ -932,10 +932,12 @@ Contents:
                 https://news.ycombinator.com/item?id=27023572 (	My Favorite One Liners (muhammadraza.me))
                 https://news.ycombinator.com/item?id=27615516 (Bash PS1 Generator (bashrcgenerator.com))
                 https://news.ycombinator.com/item?id=27992073 (	Command line tools for productive programmers (earthly.dev))
+                https://news.ycombinator.com/item?id=38819262 (Ugrep – a more powerful, fast, user-friendly, compatible grep (ugrep.com))
                 https://pragmaticpineapple.com/four-useful-fzf-tricks-for-your-terminal
                 https://sharats.me/posts/shell-script-best-practices (Shell Script Best Practices)
                 https://stackoverflow.com/a/19866239/11065 (Test if remote TCP port is open from a bash shell script)
                 https://switowski.com/blog/favorite-cli-tools
+                https://ugrep.com (a more powerful, ultra fast, user-friendly, compatible grep)
                 https://web.archive.org/web/20090815205011/http://www.cuberick.com/2008/11/update-bash-history-in-realtime.html (Update Bash History in Realtime)
                 https://wiki.bash-hackers.org/scripting/debuggingtips (Debugging a script)
                 https://www.reddit.com/r/usefulscripts/top
@@ -1444,6 +1446,7 @@ Contents:
                 https://www.cisecurity.org/benchmark/amazon_web_services (A step-by-step checklist to secure Amazon Web Services)
                 https://www.concurrencylabs.com/blog/choose-your-aws-region-wisely (Save yourself a lot of pain (and money) by choosing your AWS Region wisely)
                 https://www.lastweekinaws.com/blog/the-17-ways-to-run-containers-on-aws (The 17 Ways to Run Containers on AWS)
+                https://www.linkedin.com/pulse/interviewing-aws-advice-tips-from-250-interviews-nick-matthews (Interviewing at AWS: Advice and tips from 250 interviews by Nick Matthews)
                 https://www.reddit.com/r/aws/comments/on154c/lessons_learned_if_you_could_do_it_all_from_the (Lessons learned: if you could do it "all" from the start again, what would you do differently / anew in your AWS? (self.aws))
                 https://www.reddit.com/r/AWSCertifications/comments/y2hw5t/free_technical_fundamentals_content (Free Technical Fundamentals Content by Adrian Cantrill)
                 https://www.stackery.io/registry (Enter an AWS CloudFormation template for instant analysis)
@@ -1803,6 +1806,7 @@ Contents:
         MySQL:
             Books and Courses:
                 https://dev.mysql.com/doc
+                https://github.com/vitessio/vitess (https://vitess.io Vitess is a database clustering system for horizontal scaling of MySQL.)
                 https://planetscale.com/courses/mysql-for-developers (MySQL for Developers)
 
         SQL Server:
@@ -1911,6 +1915,7 @@ Contents:
                 https://github.com/initialcommit-com/git-sim (Visually simulate Git operations in your own repos with a single terminal command.)
                 https://github.com/jesseduffield/lazygit (simple terminal UI for git commands)
                 https://github.com/LeCoupa/awesome-cheatsheets/blob/master/tools/git.sh
+                https://github.com/Legit-Labs/legitify (https://legitify.dev Detect and remediate misconfigurations and security risks across all your GitHub and GitLab assets)
                 https://github.com/martinvonz/jj (A Git-compatible DVCS that is both simple and powerful)
                 https://github.com/o2sh/onefetch (https://onefetch.dev Command-line Git information tool)
                 https://github.com/tpope/vim-fugitive (fugitive.vim: A Git wrapper so awesome, it should be illegal https://www.vim.org/scripts/script.php?script_id=2975)
@@ -2145,7 +2150,7 @@ Contents:
                 https://github.com/jtesta/ssh-audit (SSH server & client security auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc))
                 https://github.com/krol3/container-security-checklist (Checklist for container security - devsecops practices)
                 https://github.com/Kyuu-Ji/Awesome-Azure-Pentest (A collection of resources, tools and more for penetration testing and securing Microsofts cloud platform Azure.)
-                https://github.com/Legit-Labs/legitify
+                https://github.com/Legit-Labs/legitify (https://legitify.dev Detect and remediate misconfigurations and security risks across all your GitHub and GitLab assets)
                 https://github.com/Lissy93/awesome-privacy (🦄 A curated list of privacy & security-focused software and services)
                 https://github.com/Lissy93/personal-security-checklist (🔒 A curated checklist of 300+ tips for protecting digital security and privacy in 2021)
                 https://github.com/Lissy93/web-check (🌐 All-in-one OSINT tool for analysing any website)
@@ -2192,8 +2197,7 @@ Contents:
                 https://news.ycombinator.com/item?id=38331501 (Ask HN: Any comprehensive courses on Auth?)
                 https://offsec.tools (A vast collection of security tools)
                 https://opensourcesecurityindex.io (The Most Popular & Fastest Growing Open Source Security Projects on GitHub)
-                https://overthewire.org/wargames/bandit
-                https://portswigger.net/research/top-10-web-hacking-techniques-of-2021 (Top 10 Web Hacking Techniques of 2021)
+                https://overthewire.org/wargames/bandit (The Bandit wargame is aimed at absolute beginners. It will teach the basics needed to be able to play other wargames.)
                 https://portswigger.net/research/top-10-web-hacking-techniques-of-2022 (Top 10 web hacking techniques of 2022)
                 https://ppn.snovvcrash.rocks (Pentester's promiscuous handbook)
                 https://room362.com/start (Start in Infosec)
@@ -2213,7 +2217,7 @@ Contents:
                 https://www.cisecurity.org/cis-benchmarks
                 https://www.coursera.org/learn/crypto (Cryptography I Course by Dan Boneh (Stanford))
                 https://www.cybrary.it
-                https://www.edx.org/learn/cybersecurity
+                https://www.edx.org/learn/cybersecurity (Explore cybersecurity courses and certificates)
                 https://www.netmeister.org/blog/infosec-competencies.html ((Technical) Infosec Core Competencies)
                 https://www.nsa.gov/Press-Room/News-Highlights/Article/Article/2716980/nsa-cisa-release-kubernetes-hardening-guidance/utm_source/nsa-cisa-release-kubernetes-hardening-guidance (NSA, CISA release Kubernetes Hardening Guidance)
                 https://www.open-scap.org (Discover a wide array of tools for managing system security and standards compliance)
@@ -2528,6 +2532,7 @@ Contents:
     Development:
         SQL:
             Sources:
+                https://codapi.org/sql (SQL Polyglot is a quick way to see if a particular SQL feature is supported in different database systems. Write a query and see it run anywhere from PostgreSQL to DuckDB without leaving your browser.)
                 https://github.com/whoiskatrin/sql-translator (SQL Translator is a tool for converting natural language queries into SQL code using artificial intelligence. This project is 100% free and open source.)
                 https://news.ycombinator.com/item?id=23070491 (Here are some other SQL Learning resources I have collected in my note taking Wiki (mostly from HN itself))
                 https://news.ycombinator.com/item?id=23138297 (Advanced SQL and database books and resources (neilwithdata.com))
@@ -2539,12 +2544,16 @@ Contents:
                 Stanford DB5 Course on SQL
                 https://lagunita.stanford.edu/courses/DB/SQL/SelfPaced/about
 
+                Learn SQL step by step
                 https://sqlzoo.net
 
+                SQL Teaching
                 https://www.sqlteaching.com
 
+                SQL Tutorial
                 https://www.w3schools.com/sql
 
+                SQL Indexing and Tuning e-Book
                 https://use-the-index-luke.com
 
                 HarvardX: CS50's Introduction to Databases with SQL
@@ -2974,6 +2983,7 @@ Contents:
                 https://news.ycombinator.com/item?id=27161901 (Ask HN: What lessons did you learn from your best or worst colleagues?)
                 https://www.amazon.com/gp/bestsellers/books/2578 (Amazon Best Sellers in Job Interviewing)
                 https://www.firecode.io (Grinding through hundreds of medium and hard questions sucks. We built Firecode.io to make interview prep fun, effective & durable by using machine learning and spaced repetition to pick your next problem for you.|)
+                https://www.linkedin.com/pulse/interviewing-aws-advice-tips-from-250-interviews-nick-matthews (Interviewing at AWS: Advice and tips from 250 interviews by Nick Matthews)
                 https://www.reddit.com/r/AskReddit/comments/74sskj/what_are_some_red_flags_in_a_job_interview
                 https://www.reddit.com/r/AskReddit/comments/9vbwy8/what_are_good_questions_to_ask_potential
                 https://www.reddit.com/r/AskReddit/comments/abljyl/what_is_a_massive_red_flag_about_a_new_workplace
@@ -4080,6 +4090,7 @@ Contents:
                 https://news.ycombinator.com/item?id=32799789 (Ask HN: What are some of the best documentaries you've seen?)
                 https://news.ycombinator.com/item?id=35313232 (	Text only news websites (2022) (wturrell.co.uk))
                 https://news.ycombinator.com/item?id=36175315 (Ask HN: What other news feeds do you read besides Hacker News?)
+                https://pageviews.wmcloud.org/topviews/?project=en.wikipedia.org&platform=all-access&date=yesterday&excludes= (Wikipedia daily most viewed pages)
                 https://prashantbarahi.com.np/read-in-public (Software blog articles : The #ReadInPublic is my attempt at sharing what I have learned with the world.)
                 https://www.reddit.com/r/AskReddit/comments/9nggyv/what_is_a_great_youtube_channel_to_binge_watch
                 https://www.reddit.com/r/AskReddit/comments/aa7zs9/what_youtube_channels_are_genuinely_worth_watching
@@ -4800,7 +4811,6 @@ Contents:
                 https://youtu.be/wC9gBMk7_ss (IN-DEPTH Guide - Everything You Need To Know About The OMEGA Co-Axial Escapement by Monochrome Watches)
 
             Casio:
-                https://bastianborn.de/radio-clock-hack (How to manipulate a radio controlled clock via speaker)
                 https://en.wikipedia.org/wiki/Casio_F-91W (Casio F-91W)
                 https://en.wikipedia.org/wiki/G-Shock (G-Shock)
                 https://en.wikipedia.org/wiki/Master_of_G (Master of G)
