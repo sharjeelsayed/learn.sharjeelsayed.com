@@ -1477,7 +1477,7 @@ Contents:
                 https://learn.cantrill.io/p/aws-certified-solutions-architect-associate-saa-c03
                 https://github.com/acantril/aws-sa-associate-saac02
                 https://github.com/alozano-77/AWS-SAA-C02-Course (Personal notes for SAA-C02 test from: https://learn.cantrill.io)
-                https://techstudyslack.com
+                https://discord.com/channels/1191146976847351970 (TechStudyDiscord by Adrian Cantrill)
                 https://talk.cantrill.io
                 https://cantrill.io.i-aws.cloud (Statistics about Adrian Cantrill's courses)
 
@@ -1531,7 +1531,7 @@ Contents:
                 https://www.exam-answer.com/amazon (Exams from Amazon)
                 https://www.examtopics.com/exams/amazon (AWS Exam Practice Questions.Highest ranked site for AWS practice exams)
                 https://www.freecram.net/vendor/Amazon.html (Free Amazon Certifications Exam Questions)
-                https://www.reddit.com/r/AWSCertifications/comments/11yccgh/aws_exam_vouchers_discounts_or_other_related (AWS Exam Vouchers / Discounts or other related Promotions)
+                https://www.reddit.com/r/AWSCertifications/comments/18woit6/2024_aws_vouchers_exam_discounts_other (2024 : AWS Vouchers / Exam Discounts / Other Certification related promotions)
                 https://www.reddit.com/r/AWSCertifications/comments/pcj2nk/free_learning_resources_needed_for_aws_solutions/haje9xi (Free Learning Resources needed for "AWS Solutions Architect Associate" exam)
                 https://www.reddit.com/r/AWSCertifications/comments/uqnn53/ive_heard_the_recommendation_here_to_go_saa_sap/i8sbnj5 (If you REALLY want to get devops with minimal study you should do Dev Asso -> Sysops Asso. -> Devops Pro)
                 https://www.reddit.com/r/AWSCertifications/search/?q=course&restrict_sr=on&t=year (This subreddit focuses solely on AWS Certifications.)
@@ -1549,6 +1549,7 @@ Contents:
                 https://www.wellarchitectedlabs.com
 
             AWS Support Groups:
+                https://discord.com/channels/1191146976847351970 (TechStudyDiscord by Adrian Cantrill)
                 https://discord.gg/RePKRaYGqM (AWS Discord Group)
                 https://slack.lastweekinaws.com (Last Week in AWS Slack Group)
                 https://www.reddit.com/r/aws/top (News, articles and tools covering Amazon Web Services (AWS))
@@ -2834,12 +2835,8 @@ Contents:
 
         AI and Machine Learning:
             Sources:
-                https://ai.stanford.edu/courses (Stanford A.I. courses from Fall 2019 CS229)
                 https://bbycroft.net/llm (A 3D animated visualization of an LLM with a walkthrough)
-                https://blog.floydhub.com/best-deep-learning-courses-updated-for-2019
-                https://course.fast.ai (Practical Deep Learning for Coders)
                 https://danielmiessler.com/p/get-samantha-tars-interstellar-iphoneandroid (How to Get Samantha from Her or TARS from Interstellar on Your iPhone/Android)
-                https://fleuret.org/dlc (François Fleuret's deep-learning courses 14x050 of the University of Geneva, Switzerland)
                 https://fleuret.org/public/lbdl.pdf (The Little Book of Deep Learning by François Fleuret)
                 https://github.com/ai-boost/Awesome-GPTs (Curated list of awesome GPTs 👍.)
                 https://github.com/ai-collection/ai-collection ( The Generative AI Landscape - A List of Awesome Generative AI Applications Topics)
@@ -2848,14 +2845,9 @@ Contents:
                 https://github.com/eugeneyan/open-llms (🤖 A list of open LLMs available for commercial use.)
                 https://github.com/humanloop/awesome-chatgpt (Curated list of awesome tools, demos, docs for ChatGPT and GPT-3 )
                 https://github.com/labmlai/annotated_deep_learning_paper_implementations ( 🧑‍🏫 60 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠 )
-                https://github.com/microsoft/AI-For-Beginners (12 Weeks, 24 Lessons, AI for All!)
-                https://github.com/microsoft/generative-ai-for-beginners (12 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners)
-                https://github.com/microsoft/ML-For-Beginners (12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all)
                 https://github.com/OpenMindClub/awesome-chatgpt (⚡ Everything about ChatGPT )
-                https://github.com/SkalskiP/courses (This repository is a curated collection of links to various courses and resources about Artificial Intelligence (AI))
                 https://github.com/stas00/ml-engineering (Machine Learning Engineering Online Book https://stasosphere.com/machine-learning)
                 https://github.com/taranjeet/awesome-gpts (Collection of all the GPTs created by the community)
-                https://karpathy.ai/zero-to-hero.html (A course by Andrej Karpathy on building neural networks, from scratch, in code)
                 https://news.ycombinator.com/item?id=12713056 (Ask HN: How to get started with machine learning?)
                 https://news.ycombinator.com/item?id=16493489 (Machine Learning Crash Course)
                 https://news.ycombinator.com/item?id=18321665 (Foundations of ML and AI: Book recommendations (dragan.rocks))
@@ -2865,9 +2857,7 @@ Contents:
                 https://work.caltech.edu/telecourse (Learning From Data by Caltech's Professor Yaser Abu-Mostafa.)
                 https://www.amazon.com/Artificial-Intelligence-A-Modern-Approach-dp-0134610997/dp/0134610997 (Artificial Intelligence: A Modern Approach (Pearson Series in Artifical Intelligence) 4th Edition by Stuart Russell and Peter Norvig)
                 https://www.amazon.com/Elements-Statistical-Learning-Prediction-Statistics/dp/0387848576 (https://hastie.su.domains/Papers/ESLII.pdf The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition (Springer Series in Statistics) 2nd Edition by Trevor Hastie , Robert Tibshirani , Jerome Friedman)
-                https://www.deeplearning.ai/courses/generative-ai-for-everyone (Generative AI for Everyone Instructed by Andrew Ng)
                 https://www.deeplearningbook.org (Deep Learning (Adaptive Computation and Machine Learning series) by Ian Goodfellow and Yoshua Bengio and Aaron Courville https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618)
-                https://www.youtube.com/playlist?app=desktop&list=PLoROMvodv4rNyWOpJg_Yh4NSqI4Z4vOYy (Stanford CS229: Machine Learning I Spring 2022)
 
             Books and Courses:
                 Machine Learning by Andrew Ng
@@ -2878,6 +2868,22 @@ Contents:
 
                 An Introduction to Statistical Learning
                 https://www.statlearning.com
+
+                Micosoft Courses:
+                https://github.com/microsoft/AI-For-Beginners (12 Weeks, 24 Lessons, AI for All!)
+                https://github.com/microsoft/generative-ai-for-beginners (12 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners)
+                https://github.com/microsoft/ML-For-Beginners (12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all)
+
+            Other Courses:
+                https://ai.stanford.edu/courses (Stanford A.I. courses from Fall 2019 CS229)
+                https://blog.floydhub.com/best-deep-learning-courses-updated-for-2019
+                https://course.fast.ai (Practical Deep Learning for Coders)
+                https://fleuret.org/dlc (François Fleuret's deep-learning courses 14x050 of the University of Geneva, Switzerland)
+                https://github.com/mlabonne/llm-course (https://mlabonne.github.io/blog Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.)
+                https://github.com/SkalskiP/courses (This repository is a curated collection of links to various courses and resources about Artificial Intelligence (AI))
+                https://karpathy.ai/zero-to-hero.html (A course by Andrej Karpathy on building neural networks, from scratch, in code)
+                https://www.deeplearning.ai/courses/generative-ai-for-everyone (Generative AI for Everyone Instructed by Andrew Ng)
+                https://www.youtube.com/playlist?app=desktop&list=PLoROMvodv4rNyWOpJg_Yh4NSqI4Z4vOYy (Stanford CS229: Machine Learning I Spring 2022)
 
         IDE:
             Sources:
