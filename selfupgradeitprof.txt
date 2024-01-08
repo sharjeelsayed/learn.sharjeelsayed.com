@@ -590,6 +590,12 @@ Contents:
                 https://www.nslookup.io/learning (DNS concepts)
                 https://youtu.be/tsxjNsFu_2g (RubyConf Mini 2022: Keynote: Learning DNS by Julia Evans)
 
+            Tools:
+                https://dns-lookup.jvns.ca (a simple DNS lookup tool)
+                https://messwithdns.net
+                https://www.dns.toys (Useful utilities and services over DNS)
+                https://addr.tools (possibly useful tools for the Internet)
+
         Data Engineering:
             Sources:
                 https://architecturenotes.co/things-you-should-know-about-databases (Things you should know about databases)
@@ -706,7 +712,7 @@ Contents:
             Sources:
                 http://www.devopsbookmarks.com
                 https://devopsengineers.com (Slack Channel)
-                https://devopsnewsletters.com
+                https://devopsnewsletters.com (DevOps Newsletters)
                 https://github.com/AcalephStorage/awesome-devops (A curated list of resources for Devops )
                 https://github.com/AdminTurnedDevOps/DevOps-The-Hard-Way-AWS (This repository contains free labs for setting up an entire workflow and DevOps environment from a real-world perspective in AWS)
                 https://github.com/bregman-arie/devops-exercises (Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions)
@@ -935,7 +941,7 @@ Contents:
                 https://news.ycombinator.com/item?id=38819262 (Ugrep – a more powerful, fast, user-friendly, compatible grep (ugrep.com))
                 https://pragmaticpineapple.com/four-useful-fzf-tricks-for-your-terminal
                 https://sharats.me/posts/shell-script-best-practices (Shell Script Best Practices)
-                https://stackoverflow.com/a/19866239/11065 (Test if remote TCP port is open from a bash shell script)
+                https://stackoverflow.com/questions/4922943/test-if-remote-tcp-port-is-open-from-a-shell-script/19866239#19866239 (Test if remote TCP port is open from a bash shell script)
                 https://switowski.com/blog/favorite-cli-tools
                 https://ugrep.com (a more powerful, ultra fast, user-friendly, compatible grep)
                 https://web.archive.org/web/20090815205011/http://www.cuberick.com/2008/11/update-bash-history-in-realtime.html (Update Bash History in Realtime)
@@ -1922,6 +1928,7 @@ Contents:
                 https://github.com/martinvonz/jj (A Git-compatible DVCS that is both simple and powerful)
                 https://github.com/o2sh/onefetch (https://onefetch.dev Command-line Git information tool)
                 https://github.com/tpope/vim-fugitive (fugitive.vim: A Git wrapper so awesome, it should be illegal https://www.vim.org/scripts/script.php?script_id=2975)
+                https://jonas.github.io/tig (Tig: text-mode interface for Git)
                 https://www.sourcetreeapp.com (A free Git client for Windows and Mac )
                 https://www.sublimemerge.com (Git Client, done Sublime)
 
@@ -2030,7 +2037,7 @@ Contents:
                 https://laymanclass.com/vim-essential-setup-to-boost-your-productivity
                 https://news.ycombinator.com/item?id=15400037 (Interactive Vim tutorial)
                 https://news.ycombinator.com/item?id=2936670 (Learn Vim Progressively)
-                https://stackoverflow.com/a/1220118/11065 (What is your most productive shortcut with Vim?)
+                https://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim/1220118#1220118 (What is your most productive shortcut with Vim?)
                 https://stackoverflow.com/questions/726894/what-are-the-dark-corners-of-vim-your-mom-never-told-you-abouts (What are the dark corners of Vim your mom never told you about?)
                 https://stackoverflow.com/questions/tagged/vim
                 https://vim.fandom.com
@@ -2137,10 +2144,11 @@ Contents:
                 https://github.com/devsecops/awesome-devsecops (An authoritative list of awesome devsecops tools with the help from community experiments and contributions.)
                 https://github.com/edoardottt/awesome-hacker-search-engines (A list of search engines useful during Penetration testing, vulnerability assessments, red team operations, bug bounty and more)
                 https://github.com/fabionoth/awesome-cyber-security (A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.)
+                https://github.com/farhanashrafdev/90DaysOfCyberSecurity (This repository contains a 90-day cybersecurity study plan, along with resources and materials for learning various cybersecurity concepts and technologies. The plan is organized into daily tasks, covering topics such as Network+, Security+, Linux, Python, Traffic Analysis, Git, ELK, AWS, Azure, and Hacking. The repository also includes a `LEARN.md )
                 https://github.com/forter/security-101-for-saas-startups (security tips for startups)
                 https://github.com/gchq/CyberChef (The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis)
-                https://github.com/Gr1mmie/Practical-Ethical-Hacking-Resources
-                https://github.com/Hack-with-Github/Awesome-Hacking
+                https://github.com/Gr1mmie/Practical-Ethical-Hacking-Resources (Compilation of Resources from TCM's Practical Ethical Hacking Udemy Course )
+                https://github.com/Hack-with-Github/Awesome-Hacking (A collection of various awesome lists for hackers, pentesters and security researchers)
                 https://github.com/HACKE-RC/awesome-reversing (A collection of resources to learn Reverse Engineering from start!)
                 https://github.com/hahwul/DevSecOps ( 🔱 Collection and Roadmap for everyone who wants DevSecOps. Hope your DevOps are more safe 😎)
                 https://github.com/hysnsec/awesome-policy-as-code (A curated list of policy-as-code resources like blogs, videos, and tools to practice on for learning Policy-as-Code.)
@@ -2173,6 +2181,7 @@ Contents:
                 https://github.com/security-prince/Application-Security-Engineer-Interview-Questions (Some of the questions which i was asked when i was giving interviews for Application/Product Security roles.)
                 https://github.com/shreyaschavhan/oscp-pre-preparation-plan-and-notes (𝐎𝐒𝐂𝐏 𝐏𝐫𝐞-𝐏𝐫𝐞𝐩𝐚𝐫𝐚𝐭𝐢𝐨𝐧 𝐏𝐥𝐚𝐧 𝐚𝐧𝐝 𝐍𝐨𝐭𝐞𝐬)
                 https://github.com/sottlmarek/DevSecOps (Ultimate DevSecOps library)
+                https://github.com/swisskyrepo/PayloadsAllTheThings (https://swisskyrepo.github.io/PayloadsAllTheThings A list of useful payloads and bypass for Web Application Security and Pentest/CTF)
                 https://github.com/tadwhitaker/Security_Architect_and_Principal_Security_Engineer_Interview_Questions (Security Architect and Principal Security Engineer Interview Questions)
                 https://github.com/tadwhitaker/Security_Engineer_Interview_Questions (Every Security Engineer Interview Question From Glassdoor.com )
                 https://github.com/TalEliyahu/awesome-security-newsletters (Periodic cyber security newsletters that capture the latest news, summaries of conference talks, research, best practices, tools, events, vulnerabilities, and analysis of trending threats and attacks)
@@ -2218,6 +2227,7 @@ Contents:
                 https://tls13.xargs.org (The Illustrated TLS 1.3 Connection Every byte explained and reproduced)
                 https://toc.cryptobook.us (A Graduate Course in Applied Cryptography)
                 https://tools.tldr.run (Curated list of security tools for Hackers & Builders!)
+                https://tryhackme.com/r/resources/blog/security-engineer-interview-guide (Preparing for a Security Engineering Interview)
                 https://www.cisa.gov/sites/default/files/publications/Federal_Government_Cybersecurity_Incident_and_Vulnerability_Response_Playbooks_508C.pdf (CISA Cybersecurity Incident and Vulnerability Response Playbooks)
                 https://www.cisecurity.org/benchmark/amazon_web_services (A step-by-step checklist to secure Amazon Web Services)
                 https://www.cisecurity.org/cis-benchmarks
@@ -2233,6 +2243,7 @@ Contents:
                 https://www.reddit.com/r/netsecstudents/top/?sort=top&t=all
                 https://www.reddit.com/r/netsecstudents/wiki
                 https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets
+                https://youtu.be/l8iXMgk2nnY?si=gz-Xi49_yk9pInGG (VIM tutorial: linux terminal tools for bug bounty pentest and redteams with @tomnomnom)
                 https://pinboard.in/u:SharjeelSayed/t:security
 
             Books and Courses:
@@ -2910,7 +2921,7 @@ Contents:
                     https://github.com/microsoft/vscode/issues/97931#issuecomment-629978991 (Allow to open a workspace without closing the current window #97931)
                     https://news.ycombinator.com/item?id=27231033 (Disable autocorrect in vscode)
                     https://stackoverflow.com/questions/29957456/change-default-terminal-app-in-visual-studio-code-on-mac (Change default terminal app in Visual Studio Code on Mac)
-                    https://stackoverflow.com/questions/40336583/how-to-disable-preview-file-with-single-click-in-vs-code (How to disable preview file with single click in VS Code)
+                    https://stackoverflow.com/questions/40336583/how-to-disable-preview-file-with-single-click-in-vs-code/46939860#46939860 (How to disable preview file with single click in VS Code)
                     https://stackoverflow.com/questions/41540781/is-there-a-way-in-vscode-to-only-zoom-in-on-the-editor/41684631#41684631 (Is there a way in vscode to only zoom in on the editor?)
                     https://vscode.one/new-tab-vscode (How to Always Open Files in a New Tab - VSCode)
                     https://www.reddit.com/r/vscode/comments/8zbcb3/window_tabs/e2toon2 (Enable windows tabs in vscode)
@@ -3085,6 +3096,7 @@ Contents:
                 https://github.com/tadwhitaker/Security_Architect_and_Principal_Security_Engineer_Interview_Questions (Security Architect and Principal Security Engineer Interview Questions)
                 https://github.com/tadwhitaker/Security_Engineer_Interview_Questions (Every Security Engineer Interview Question From Glassdoor.com)
                 https://tib3rius.com/interview-questions.html (Web AppSec Interview Questions)
+                https://tryhackme.com/r/resources/blog/security-engineer-interview-guide (Preparing for a Security Engineering Interview)
 
                 Reverse Interview Questions:
                 https://charity.wtf/2021/02/19/questionable-advice-how-can-i-sniff-out-bad-managers-while-interviewing-for-a-job (Questionable Advice: How can I sniff out bad managers while interviewing for a job?)
@@ -3170,9 +3182,9 @@ Contents:
                 https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita#Table (List of countries by GDP (PPP) per capita)
                 https://fred.stlouisfed.org/series/CIVPART (USA Civilian Labor Force Participation Rate)
                 https://github.com/Kaustubh-Natuskar/companies-to-apply (This repository contains opportunities for you to apply to more than 150 product base companies(NOT JUST FAANG ) & good start-ups.)
-                https://github.com/lukasz-madon/awesome-remote-job
+                https://github.com/lukasz-madon/awesome-remote-job (A curated list of awesome remote jobs and resources.)
                 https://github.com/poteto/hiring-without-whiteboards (⭐️ Companies that don't have a broken hiring process)
-                https://github.com/randallkanna/awesome-job-list
+                https://github.com/randallkanna/awesome-job-list (A list of the best places to job hunt. I've been curating this for the past 7 years.)
                 https://github.com/SimplifyJobs/New-Grad-Positions (A collection of New Grad full time roles in SWE, Quant, and PM.)
                 https://hn.algolia.com/?dateRange=pastYear&page=0&prefix=false&query=Ask%20HN%3A%20Who%20is%20hiring%3F&sort=byPopularity&type=story (Ask HN: Who is hiring?)
                 https://llcattorney.com/business-info/us-companies-salaries-vs-revenue (How Long It Takes the Largest Companies in America to Make One Employee's Average Annual Salary)
