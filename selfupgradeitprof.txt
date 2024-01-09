@@ -1056,10 +1056,11 @@ Contents:
                 https://diveintodocker.com (Dive Into Docker The Complete Docker Course for Developers by Nick Janetakis)
                 https://geshan.com.np/blog/2022/05/docker-commands (10 useful Docker commands to get things done with a real-life example)
                 https://github.com/abiosoft/colima (Container runtimes on macOS (and Linux) with minimal setup)
-                https://github.com/docker/docker-bench-security
+                https://github.com/docker/docker-bench-security (The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.)
                 https://github.com/docker/docker-install (Docker installation script)
                 https://github.com/dockersamples/example-voting-app (Example Docker Compose app)
                 https://github.com/dokku/dokku ( A docker-powered PaaS that helps you build and manage the lifecycle of applications)
+                https://github.com/google/go-containerregistry/blob/main/cmd/crane/recipes.md (crane is a tool for interacting with remote images and registries.)
                 https://github.com/hadolint/hadolint (Dockerfile linter, validate inline bash, written in Haskell)
                 https://github.com/Haxxnet/Compose-Examples (Various Docker Compose examples of selfhosted FOSS and proprietary projects.)
                 https://github.com/hexops/dockerfile (Dockerfile best-practices for writing production-worthy Docker images. )
@@ -1072,6 +1073,7 @@ Contents:
                 https://github.com/tiangolo/dockerswarm.rocks
                 https://github.com/topics/docker?o=desc&s=stars
                 https://github.com/veggiemonk/awesome-docker
+                https://github.com/wagoodman/dive (A tool for exploring each layer in a docker image)
                 https://github.com/wsargent/docker-cheat-sheet
                 https://knowledgepill.it/posts/docker_swarm_compendium (Docker swarm - setup and usage)
                 https://man7.org/linux/man-pages/man7/cgroups.7.html
@@ -1079,9 +1081,9 @@ Contents:
                 https://news.ycombinator.com/item?id=15822583 (Ask HN: Good resources on learning how docker works under the hood?)
                 https://podman-desktop.io (Podman Desktop leverages Podman Engine to provide a lightweight and daemon-less container tool)
                 https://sparkle.adroitcorp.com.au/market (Flashcards)
-                https://sysdig.com/blog/dockerfile-best-practices
-                https://www.fb.com/groups/devopsdocker
-                https://www.freecodecamp.org/news/the-docker-handbook
+                https://sysdig.com/blog/dockerfile-best-practices (Top 20 Dockerfile best practices)
+                https://www.fb.com/groups/devopsdocker (DevOps Docker Kubernetes Terraform Helm Public Group)
+                https://www.freecodecamp.org/news/the-docker-handbook (The Docker Handbook – Learn Docker for Beginners by Farhan Hasin Chowdhury)
                 https://www.reddit.com/r/docker
                 https://www.udemy.com/topic/docker/?ratings=4.5&sort=popularity (Udemy Courses rated 4.5 stars and above)
                 https://pinboard.in/u:SharjeelSayed/t:docker
@@ -2896,6 +2898,7 @@ Contents:
                 https://blog.floydhub.com/best-deep-learning-courses-updated-for-2019
                 https://course.fast.ai (Practical Deep Learning for Coders)
                 https://fleuret.org/dlc (François Fleuret's deep-learning courses 14x050 of the University of Geneva, Switzerland)
+                https://github.com/ethen8181/machine-learning (🌎 machine learning tutorials (mainly in Python3))
                 https://github.com/mlabonne/llm-course (https://mlabonne.github.io/blog Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.)
                 https://github.com/SkalskiP/courses (This repository is a curated collection of links to various courses and resources about Artificial Intelligence (AI))
                 https://karpathy.ai/zero-to-hero.html (A course by Andrej Karpathy on building neural networks, from scratch, in code)
