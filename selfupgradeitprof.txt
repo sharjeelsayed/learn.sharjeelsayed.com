@@ -383,6 +383,7 @@ Contents:
             Sources:
                 https://github.com/hackclub/putting-the-you-in-cpu (A technical explainer by @kognise of how your computer runs programs, from start to finish. https://cpu.land)
                 https://news.ycombinator.com/item?id=14526344 (Build a Modern Computer from First Principles: Nand to Tetris Part II)
+                https://turingcomplete.game (Turing Complete is a puzzle game about computers. Build CPUs, GPUs, and RAM from scratch to solve the game's challenges.)
 
             Books and Courses:
                 The Elements of Computing Systems: Building a Modern Computer from First Principles 2nd Edition by Noam Nisan and Shimon Schocken
@@ -1140,7 +1141,6 @@ Contents:
                 https://cloud.redhat.com/blog/top-open-source-kubernetes-security-tools-of-2021 (Top Open Source Kubernetes Security Tools of 2021)
                 https://docs.aws.amazon.com/prescriptive-guidance/latest/containers-provision-eks-clusters-terraform/welcome.html (Provisioning production-ready Amazon EKS clusters using Terraform)
                 https://docs.google.com/spreadsheets/d/10NltoF_6y3mBwUzQ4bcQLQfCE1BWSgUDcJXy-Qp2JEU (The Kubernetes Learning Resources List)
-                https://github.com/abiosoft/colima (Container runtimes on macOS (and Linux) with minimal setup)
                 https://github.com/ahmetb/kubernetes-network-policy-recipes (Example recipes for Kubernetes Network Policies that you can just copy paste)
                 https://github.com/alexellis/k3sup (bootstrap Kubernetes with k3s over SSH < 1 min 🚀)
                 https://github.com/askmeegs/learn-istio (⛵️ Istio resources 🕸)
@@ -1148,7 +1148,6 @@ Contents:
                 https://github.com/devtron-labs/devtron (Devtron is an integrated Kubernetes distribution which bundles Argo, Grafana, Helm, Keda, Prometheus and more, saving you the effort of integrating yourself)
                 https://github.com/diegolnasc/kubernetes-best-practices (A cookbook with the best practices for working with kubernetes)
                 https://github.com/eon01/kubernetes-workshop (A Gentle introduction to Kubernetes with more than just the basics.)
-                https://github.com/groundcover-com/caretta (Instant K8s service dependency map, right to your Grafana.)
                 https://github.com/jamiehannaford/what-happens-when-k8s (What happens when I type kubectl run?)
                 https://github.com/jatrost/awesome-kubernetes-threat-detection (A curated list of resources about detecting threats and defending Kubernetes systems.)
                 https://github.com/karmada-io/karmada (Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration)
@@ -1165,15 +1164,11 @@ Contents:
                 https://github.com/r0hi7/k8s-In-30Mins (Learn how to set up the Kubernetes cluster in 30 mins and deploy the application inside the cluster.)
                 https://github.com/ramitsurana/awesome-kubernetes (A curated list for awesome kubernetes sources 🚢🎉)
                 https://github.com/techiescamp/kubernetes-learning-path (A roadmap to learn Kubernetes from scratch (Beginner to Advanced level))
-                https://github.com/terraform-aws-modules/terraform-aws-eks
-                https://github.com/tilt-dev/tilt (Kubernetes for Prod, Tilt for Dev)
+                https://github.com/terraform-aws-modules/terraform-aws-eks (https://registry.terraform.io/modules/terraform-aws-modules/eks/aws Terraform module to create AWS Elastic Kubernetes (EKS) resources 🇺🇦)
                 https://github.com/tomhuang12/awesome-k8s-resources (A curated list of awesome Kubernetes tools and resources.)
                 https://github.com/topics/kubernetes?o=desc&s=stars
                 https://goo.gl/Rywkpd (The Kubernetes Learning Resources List)
                 https://hackr.io/tutorials/learn-kubernetes (Kubernetes Tutorials and Courses)
-                https://k3d.io (k3d is a lightweight wrapper to run k3s in docker.)
-                https://k3s.io (The certified Kubernetes distribution built for IoT & Edge computing)
-                https://kind.sigs.k8s.io (kind is a tool for running local Kubernetes clusters using Docker container “nodes”.)
                 https://kops.sigs.k8s.io (kops will not only help you create, destroy, upgrade and maintain production-grade, highly available, Kubernetes cluster, but it will also provision the necessary cloud infrastructure.)
                 https://kube.academy (Learn Kubernetes From Experts For Free. KubeAcademy from VMware)
                 https://kubenews.net (Kubernetes and Cloud Native Computing Foundation News Sources)
@@ -1185,16 +1180,11 @@ Contents:
                 https://learnk8s.io/troubleshooting-deployments (A visual guide on troubleshooting Kubernetes deployments)
                 https://medium.com/faun/35-advanced-tutorials-to-learn-kubernetes-dae5695b1f18
                 https://medium.com/faun/be-fast-with-kubectl-1-18-ckad-cka-31be00acc443
-                https://minikube.sigs.k8s.io (minikube quickly sets up a local Kubernetes cluster on macOS, Linux, and Windows.)
                 https://mjarosie.github.io/dev/2021/09/15/iam-roles-for-kubernetes-service-accounts-deep-dive.html (IAM roles for Kubernetes service accounts - deep dive)
                 https://napo.io/posts/kubernetes-the-real-hard-way-on-aws
                 https://news.ycombinator.com/item?id=29251343 (Ask HN: What is the fastest way to ramp up on DevOps, k8 and GCP?)
                 https://notes.arkalim.org/notes/kubernetes (Abdur's Notes for Kubernetes)
-                https://podman-desktop.io (Podman Desktop leverages Podman Engine to provide a lightweight and daemon-less container tool)
-                https://rancher.com (Rancher is a Kubernetes-based container orchestration platform)
-                https://rancher.com/products/rancher-desktop (Rancher Desktop lets developers easily run Kubernetes on their desktop)
                 https://redhatspain.com/kubernetes (A curated list of awesome references collected since 2018.)
-                https://registry.terraform.io/modules/terraform-aws-modules/eks/aws
                 https://sdk.operatorframework.io (The Operator SDK makes it easier to build Kubernetes native applications, a process that can require deep, application-specific operational knowledge)
                 https://snyk.io/blog/10-kubernetes-security-context-settings-you-should-understand (10 Kubernetes Security Context settings you should understand)
                 https://sparkle.adroitcorp.com.au/market (Flashcards)
@@ -1205,7 +1195,6 @@ Contents:
                 https://www.containiq.com/post/kubernetes-projects-for-beginners (10 Awesome Kubernetes Projects for Beginners)
                 https://www.datadoghq.com/container-report (Oct 2021 report on Kubernetes and Docker Usage)
                 https://www.flatcar.org (A community Linux distribution designed for container workloads, with high security and low maintenance)
-                https://www.kubecost.com (Kubecost provides real-time cost visibility and insights for teams using Kubernetes, helping you continuously reduce your cloud costs.)
                 https://www.learncloudnative.com/blog/2022-05-10-kubectl-tips (Kubernetes CLI (kubectl) tips you didn't know about)
                 https://www.linode.com/content/kubernetes-guide (Understanding Kubernetes A Guide to Modernizing Your Cloud Infrastructure)
                 https://www.nsa.gov/Press-Room/News-Highlights/Article/Article/2716980/nsa-cisa-release-kubernetes-hardening-guidance/utm_source/nsa-cisa-release-kubernetes-hardening-guidance (NSA, CISA release Kubernetes Hardening Guidance)
@@ -1218,10 +1207,26 @@ Contents:
                 https://youtu.be/0Omvgd7Hg1I (Life of a Packet [I] - Michael Rubin, Google)
                 https://pinboard.in/u:SharjeelSayed/t:kubernetes
 
+            Kubernetes Distributions:
+                https://github.com/canonical/microk8s (https://microk8s.io MicroK8s is a small, fast, single-package Kubernetes for datacenters and the edge.)
+                https://github.com/k3d-io/k3d (https://k3d.io Little helper to run CNCF's k3s in Docker)
+                https://github.com/k3s-io/k3s (https://k3s.io (Lightweight Kubernetes)
+                https://github.com/kubernetes-sigs/kind (https://kind.sigs.k8s.io Kubernetes IN Docker - local clusters for testing Kubernetes )
+                https://github.com/kubernetes/minikube (https://minikube.sigs.k8s.io minikube quickly sets up a local Kubernetes cluster on macOS, Linux, and Windows.)
+                https://github.com/siderolabs/talos (https://www.talos.dev Talos Linux is a modern Linux distribution built for Kubernetes)
+                https://github.com/tilt-dev/tilt (https://tilt.dev Kubernetes for Prod, Tilt for Dev)
+
+            Kubernetes Runtimes:
+                https://github.com/abiosoft/colima (Container runtimes on macOS (and Linux) with minimal setup)
+                https://github.com/containers/podman-desktop (https://podman-desktop.io Podman Desktop - A graphical tool for developing on containers and Kubernetes )
+                https://github.com/orbstack/orbstack (https://orbstack.dev Fast, light, simple Docker containers & Linux machines for macOS)
+                https://github.com/rancher/rancher (https://rancher.com Complete container management platform )
+                https://rancher.com/products/rancher-desktop (Rancher Desktop lets developers easily run Kubernetes on their desktop)
+
             K8s Tools:
                 https://argo-cd.readthedocs.io (https://github.com/argoproj/argo-cd Argo CD is a declarative, GitOps continuous delivery tool for Kubernetes )
                 https://eksctl.io (eksctl - The official CLI for Amazon EKS)
-                https://fluxcd.io ( https://github.com/fluxcd Flux is a set of continuous and progressive delivery solutions for Kubernetes that are open and extensible.)
+                https://fluxcd.io (https://github.com/fluxcd Flux is a set of continuous and progressive delivery solutions for Kubernetes that are open and extensible.)
                 https://github.com/ahmetb/kubectx (Faster way to switch between clusters and namespaces in kubectl)
                 https://github.com/aquasecurity/kube-bench (Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark)
                 https://github.com/armosec/kubescape (kubescape is the first tool for testing if Kubernetes is deployed securely as defined in Kubernetes Hardening Guidance by to NSA and CISA)
@@ -1235,15 +1240,16 @@ Contents:
                 https://github.com/datreeio/datree (Prevent Kubernetes misconfigurations from reaching production (again 😤 )! Datree is a CLI tool to ensure K8s manifests and Helm charts follow best practices as well as your organization’s policies)
                 https://github.com/eraser-dev/eraser (https://eraser-dev.github.io/eraser 🧹 Cleaning up images from Kubernetes nodes)
                 https://github.com/fluxcd/flux2-kustomize-helm-example (A GitOps workflow example for multi-env deployments with Flux, Kustomize and Helm.)
+                https://github.com/groundcover-com/caretta (Instant K8s service dependency map, right to your Grafana.)
                 https://github.com/hidetatz/kubecolor (colorizes kubectl output)
                 https://github.com/ishantanu/awesome-kubectl-plugins (Curated list of kubectl plugins)
                 https://github.com/johanhaleby/kubetail (Bash script to tail Kubernetes logs from multiple pods at the same time)
                 https://github.com/kdash-rs/kdash (A simple and fast dashboard for Kubernetes)
+                https://github.com/kubernetes-sigs/krew (https://krew.sigs.k8s.io 📦 Find and install kubectl plugins)
                 https://github.com/kubeshark/kubeshark (The API traffic viewer for Kubernetes providing deep visibility into all API traffic and payloads going in, out and across containers and pods inside a Kubernetes cluster. Think TCPDump and Wireshark re-invented for Kubernetes)
                 https://github.com/nevalla/lens-resource-map-extension (Lens - The Kubernetes IDE extension that displays Kubernetes resources and their relations as a force graph.)
                 https://github.com/paralus/paralus (https://www.paralus.io All-in-one Kubernetes access manager. User-level credentials, RBAC, SSO, audit logs.)
                 https://github.com/salesforce/sloop (Kubernetes History Visualization)
-                https://github.com/siderolabs/talos (https://www.talos.dev Talos Linux is a modern Linux distribution built for Kubernetes)
                 https://github.com/stern/stern (⎈ Multi pod and container log tailing for Kubernetes)
                 https://github.com/vilaca/awesome-k8s-tools (List of k8s/container/devops tools.)
                 https://github.com/weaveworks/kubediff (a tool for Kubernetes to show differences between running state and version controlled configuration.)
@@ -1251,6 +1257,7 @@ Contents:
                 https://k8syaml.com (Kubernetes YAML Generator)
                 https://kompose.io (A conversion tool to go from Docker Compose to Kubernetes)
                 https://www.fyck.io/resources/kubernetes-tools (A curated directory of Kubernetes tools and resources)
+                https://www.kubecost.com (Kubecost provides real-time cost visibility and insights for teams using Kubernetes, helping you continuously reduce your cloud costs.)
 
             Books and Courses:
                 Kubernetes Documentation
