@@ -323,14 +323,14 @@ Contents:
                 https://news.ycombinator.com/item?id=23468193 (	Ask HN: Which tools have made you a much better programmer?)
                 https://news.ycombinator.com/item?id=30228261 (Ask HN: Best books on managing software complexity?)
                 https://news.ycombinator.com/item?id=30752540 (	Ask HN: Codebases with great, easy to read code?)
-                https://octoverse.github.com
+                https://octoverse.github.com (The state of open source software)
                 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/index.htm
                 https://people.freebsd.org/~lstewart/articles/cpumemory.pdf (What Every Programmer Should Know About Memory)
                 https://softwareengineeringdaily.com
                 https://survey.stackoverflow.co/2023 (Stackoverflow 2023 Developer Survey)
                 https://toptalkedbooks.com/stackoverflow/all
                 https://www.daolf.com/posts/best-programming-books
-                https://www.discoverdev.io
+                https://www.discoverdev.io (Discover dev brings you a daily digest of the best engineering blogs from across the web! Handpicked by AI and a network of globally distributed nerds!)
                 https://www.jetbrains.com/lp/devecosystem-2021 (The State of Developer Ecosystem 2021)
                 https://www.microsoft.com/en-us/research/blog/category/podcast
                 https://www.reddit.com/r/compsci+cscareerquestions+learnprogramming+programming
@@ -4017,8 +4017,9 @@ Contents:
 
         Diagrams:
             Tools:
-                https://diagrams.mingrammer.com (Diagrams lets you draw the cloud system architecture in Python code)
                 https://app.diagrams.net (draw.io)
+                https://diagrams.mingrammer.com (Diagrams lets you draw the cloud system architecture in Python code)
+                https://github.com/excalidraw/excalidraw (https://excalidraw.com Virtual whiteboard for sketching hand-drawn like diagrams)
                 https://www.cloudcraft.co (Create smart AWS diagrams)
 
         Science:
@@ -4312,13 +4313,14 @@ Contents:
                 Reddit:
                     Sources:
                         http://redditlist.com (Top SubReddit List)
+                        https://burkybang.com/reddit_rss (Reddit has a limit to how often RSS feeds can be fetched. This breaks that limit!)
                         https://redditfavorites.com (Reddit Favorites From 3.5 billion comments)
                         https://subredditstats.com/subreddit-user-overlaps (Type a subreddit name to list its overlaps with other subreddits)
                         https://www.findareddit.com (Find Subreddits for your Niche)
                         https://www.reddit.com/r/dataisbeautiful/comments/18fvw7v/oc_top_50_subreddits_with_the_most_new_posts_per ([OC] Top 50 subreddits with the most new posts per day and most comments per post (December 2023))
 
                     Subscriptions:
-                        https://www.reddit.com/r/1Password+AWSCertifications+Alfred+AppHookup+AppleWatch+BuyItForLife+DataHoarder+Documentaries+ExperiencedDevs+Flights+FreeEBOOKS+ITCareerQuestions+IndiaInvestments+Piracy+Terraform+Ubuntu+Upwork+Watches+announcements+ansible+antiwork+apple+appletv+aws+compsci+cscareerquestions+dataisbeautiful+devops+diabetes+docker+freelance+gshock+india+ipad+iphone+jobs+kindle+kubernetes+learnprogramming+linux+linuxadmin+mac+macapps+movies+netsec+nextdns+onebag+osx+programming+science+solotravel+sysadmin+technology+television+todayilearned+todoist+travel+usefulscripts+worldnews
+                        https://www.reddit.com/r/1Password+AWSCertifications+Alfred+Android+AppHookup+AppleWatch+BuyItForLife+DataHoarder+Documentaries+ExperiencedDevs+Flights+FreeEBOOKS+ITCareerQuestions+IndiaInvestments+KindleFreebies+Piracy+Terraform+Ubuntu+Upwork+Watches+announcements+ansible+antiwork+apple+appletv+askscience+aws+compsci+cscareerquestions+dataisbeautiful+devops+diabetes+docker+freelance+gshock+india+ipad+iphone+jobs+kindle+kubernetes+learnprogramming+linux+linuxadmin+mac+macapps+movies+netsec+networking+nextdns+onebag+osx+programming+science+solotravel+sysadmin+technews+technology+television+todayilearned+todoist+travel+usefulscripts+worldnews
 
                 Hacker News:
                     https://apps.apple.com/us/app/hack-for-hacker-news-developer/id1464477788
@@ -4381,13 +4383,11 @@ Contents:
                 https://lwn.net (73,553)
                 https://danielmiessler.com/newsletter (96,519)
                 https://www.ben-evans.com/newsletter (107,535)
-                https://join1440.com (110,818)
                 https://www.schneier.com/crypto-gram (171,909)
                 https://tldr.tech (275,317)
                 https://thebrowser.com (301,904)
                 https://www.lastweekinaws.com (359,464)
                 https://www.emergingtechbrew.com (1,131,395)
-                https://devopsish.com (1,172,319)
                 https://softwareleadweekly.com (1,692,604)
                 https://app.mailbrew.com/unreadit/tech-Rrjzlxqyv6Q1 (1,877,598)
                 https://app.mailbrew.com/unreadit/apple-IrGlTkMnbO9o (1,877,598)
