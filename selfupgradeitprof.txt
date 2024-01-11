@@ -268,7 +268,9 @@ Contents:
                 https://github.com/facundoolano/software-papers (📚 A curated list of papers for Software Engineers)
                 https://github.com/hackclub/some-assembly-required (An approachable introduction to assembly.)
                 https://github.com/jwasham/coding-interview-university (A complete computer science study plan to become a software engineer.)
+                https://github.com/kamranahmedse/design-patterns-for-humans (An ultra-simplified explanation to design patterns)
                 https://github.com/kamranahmedse/developer-roadmap (https://roadmap.sh Interactive roadmaps, guides and other educational content to help developers grow in their careers)
+                https://github.com/kdeldycke/awesome-falsehood (😱 Falsehoods Programmers Believe in)
                 https://github.com/Kuchin/Awesome-Cto (A Curated And Opinionated List Of Resources For Chief Technology Officers, With The Emphasis On Startups)
                 https://github.com/LeCoupa/awesome-cheatsheets
                 https://github.com/mehdihadeli/awesome-software-architecture (A curated list of awesome articles and resources to learn and practice about software architecture, patterns, and principles)
@@ -283,7 +285,7 @@ Contents:
                 https://github.com/sdmg15/Best-websites-a-programmer-should-visit (🔗 Some useful websites for programmers.)
                 https://github.com/stanzhai/be-a-professional-programmer
                 https://github.com/styfle/awesome-online-ide (🌩️ A list of awesome online development environments https://styfle.dev/projects/awesome-online-ide)
-                https://github.com/topics/programming?o=desc&s=stars
+                https://github.com/topics/programming?o=desc&s=stars (public repositories matching the topic programming)
                 https://github.com/tuvtran/project-based-learning (Curated list of project-based tutorials)
                 https://github.com/veler/DevToys (A Swiss Army knife for developers. https://devtoys.app)
                 https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=every%20programmer&sort=byPopularity&type=story (Things every programmer should know)
@@ -521,7 +523,6 @@ Contents:
                 https://github.com/kffl/speedbump (TCP proxy for simulating variable, yet predictable network latency 🌐⏳)
                 https://github.com/leandromoreira/linux-network-performance-parameters (Learn where some of the network sysctl variables fit into the Linux/Kernel network flow. Translations: 🇷🇺 )
                 https://github.com/mininet/mininet/wiki/Teaching-and-Learning-with-Mininet
-                https://github.com/saminiir/level-ip
                 https://how-did-i-get-here.net (A tool/website/article by @kognise about how routing on the Internet works https://github.com/hackclub/how-did-i-get-here )
                 https://learn.cantrill.io/p/tech-fundamentals (Tech Fundamentals by Adrian Cantrill)
                 https://lucb1e.com/randomprojects/php/funnip.php (list of all the ways (and notation combinations) you can make with your IP address)
@@ -3043,6 +3044,7 @@ Contents:
                 https://github.com/InterviewReady/system-design-resources (https://interviewready.io These are the best resources for System Design on the Internet)
                 https://github.com/karanpratapsingh/system-design (Learn how to design systems at scale and prepare for system design interviews)
                 https://github.com/madd86/awesome-system-design (A curated list of awesome System Design (A.K.A. Distributed Systems) resources.)
+                https://github.com/shashank88/system_design (Preparation links and resources for system design questions)
                 https://github.com/shashank88/system_design (Preparation links and resources for system design questions)
                 https://github.com/theanalyst/awesome-distributed-systems (A curated list to learn about distributed systems)
                 https://interviewing.io/guides/system-design-interview (A Senior Engineer's Guide to the System Design Interview)
