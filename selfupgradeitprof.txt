@@ -1484,6 +1484,7 @@ Contents:
                 https://github.com/gofireflyio/aiac (Artificial Intelligence Infrastructure-as-Code Generator.)
                 https://github.com/jckuester/awsls (A list command for AWS resources)
                 https://github.com/Netflix/consoleme (A Central Control Plane for AWS Permissions and Access)
+                https://github.com/prowler-cloud/prowler (https://prowler.pro Prowler is an Open Source Security tool for AWS, Azure and GCP to perform Cloud Security best practices assessments, audits, incident response, compliance, continuous monitoring, hardening and forensics readiness. Includes CIS, NIST 800, NIST CSF, CISA, FedRAMP, PCI-DSS, GDPR, HIPAA, FFIEC, SOC2, GXP, Well-Architected Security, ENS and more.)
                 https://github.com/rebuy-de/aws-nuke (Nuke a whole AWS account and delete all its resources.)
                 https://github.com/servian/aws-auto-cleanup (Programmatically delete AWS resources based on an allowlist and time to live (TTL) settings)
                 https://github.com/toniblyx/my-arsenal-of-aws-security-tools (List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.)
@@ -1743,7 +1744,7 @@ Contents:
                 https://learn.hashicorp.com/terraform
                 https://learn.hashicorp.com/tutorials/terraform/associate-study (Study Guide - Terraform Associate Certification)
                 https://medium.com/@brenspiration/free-online-courses-on-kubernetes-docker-products-terraform-2a3cd296ce95
-                https://registry.terraform.io
+                https://registry.terraform.io (Terraform Registry )
                 https://scalr.com/blog/top-20-terraform-providers
                 https://terraform-docs.io (Generate Terraform modules documentation in various formats.)
                 https://terragrunt.gruntwork.io
@@ -2119,17 +2120,15 @@ Contents:
 
         Security:
             Sources:
-                http://www.fastrls.com/2017/10/30/offensive-security-training-videos
                 https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html-single/using_selinux
                 https://allinfosecnews.com (Aggregates all of the top news, podcasts and more about Cyber Security, InfoSec, Cryptography, Online Privacy, Hacking, Vulnerability and Threat Research into one place.)
                 https://aws.amazon.com/training/digital/aws-security-fundamentals (AWS Security Fundamentals (Second Edition))
                 https://aws.github.io/aws-security-services-best-practices (AWS Security Services Best Practices)
                 https://cheatsheetseries.owasp.org (The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.)
-                https://cipher387.github.io/osint_stuff_tool_collection (OSINT Tool Collection)
                 https://cloud.redhat.com/blog/top-open-source-kubernetes-security-tools-of-2021 (Top Open Source Kubernetes Security Tools of 2021)
                 https://cloudseclist.com (A low volume newsletter (delivered once per week) that highlights security-related news focused on the cloud native landscape, hand curated by Marco Lancini.)
                 https://crowdsec.net (CrowdSec is an open-source and collaborative IPS for Linux)
-                https://danielmiessler.com/blog/build-successful-infosec-career
+                https://danielmiessler.com/blog/build-successful-infosec-career (How to Build a Cybersecurity Career [ 2019 Update ])
                 https://dev-sec.io (devops + security Server Hardening Automation Using Ansible)
                 https://en.wikipedia.org/wiki/List_of_computer_security_certifications#Most_Popular_Vendor_Neutral_Cyber_Security_Certifications_Among_employers
                 https://gist.github.com/securibee/054d4588e7f4dc892ae603c963558943 (The InfoSec OPML File by Securibee)
@@ -2138,25 +2137,16 @@ Contents:
                 https://github.com/0xsyr0/OSCP (OSCP Cheat Sheet)
                 https://github.com/4ndersonLin/awesome-cloud-security (Awesome Cloud Security Resources)
                 https://github.com/6mile/DevSecOps-Playbook (This is a step-by-step guide to implementing a DevSecOps program for any size organization)
-                https://github.com/A-poc/RedTeam-Tools (Tools and Techniques for Red Team / Penetration Testing)
-                https://github.com/a13xp0p0v/kernel-hardening-checker (A tool for checking the security hardening options of the Linux kernel)
-                https://github.com/aquasecurity/cloudsploit (CloudSploit by Aqua is an open-source project designed to allow detection of security risks in cloud infrastructure accounts, including: Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform (GCP), Oracle Cloud Infrastructure (OCI), and GitHub.)
-                https://github.com/armosec/kubescape (kubescape is the first tool for testing if Kubernetes is deployed securely as defined in Kubernetes Hardening Guidance by to NSA and CISA)
                 https://github.com/Arudjreis/awesome-security-GRC (Curated list of resources for security Governance, Risk Management, Compliance and Audit professionals and enthusiasts (if they exist).)
                 https://github.com/Az0x7/vulnerability-Checklist (This repository contain a lot of web and api vulnerability checklist , a lot of vulnerability ideas and tips from twitter)
-                https://github.com/bettercap/bettercap (The Swiss Army knife for 802.11, BLE, IPv4 and IPv6 networks reconnaissance and MITM attacks.)
-                https://github.com/BishopFox/cloudfox (Open source command line tool created to help penetration testers and other offensive security professionals find exploitable attack paths in cloud infrastructure)
                 https://github.com/chughes29/Cloud-DevSecOps-Learning/blob/main/Cloud%20%26%20DevSecOps%20Learning%20(1).md (Cloud-DevSecOps-Learning)
-                https://github.com/cugu/awesome-forensics ( A curated list of awesome forensic analysis tools and resources http://cugu.github.io/awesome-forensics )
-                https://github.com/dafthack/CloudPentestCheatsheets
+                https://github.com/dafthack/CloudPentestCheatsheets (This repository contains a collection of cheatsheets I have put together for tools related to pentesting organizations that leverage cloud providers.)
                 https://github.com/danielmiessler/SecLists (It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.)
                 https://github.com/decalage2/awesome-security-hardening (A collection of awesome security hardening guides, tools and other resources)
-                https://github.com/devsecops/awesome-devsecops (An authoritative list of awesome devsecops tools with the help from community experiments and contributions.)
                 https://github.com/edoardottt/awesome-hacker-search-engines (A list of search engines useful during Penetration testing, vulnerability assessments, red team operations, bug bounty and more)
                 https://github.com/fabionoth/awesome-cyber-security (A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.)
                 https://github.com/farhanashrafdev/90DaysOfCyberSecurity (This repository contains a 90-day cybersecurity study plan, along with resources and materials for learning various cybersecurity concepts and technologies. The plan is organized into daily tasks, covering topics such as Network+, Security+, Linux, Python, Traffic Analysis, Git, ELK, AWS, Azure, and Hacking. The repository also includes a `LEARN.md )
                 https://github.com/forter/security-101-for-saas-startups (security tips for startups)
-                https://github.com/gchq/CyberChef (The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis)
                 https://github.com/Gr1mmie/Practical-Ethical-Hacking-Resources (Compilation of Resources from TCM's Practical Ethical Hacking Udemy Course )
                 https://github.com/Hack-with-Github/Awesome-Hacking (A collection of various awesome lists for hackers, pentesters and security researchers)
                 https://github.com/HACKE-RC/awesome-reversing (A collection of resources to learn Reverse Engineering from start!)
@@ -2165,25 +2155,21 @@ Contents:
                 https://github.com/iacsecurity/tool-compare (infrastructure-as-code security tools comparison)
                 https://github.com/iknowjason/Awesome-CloudSec-Labs (Awesome free cloud native security learning labs. Includes CTF, self-hosted workshops, guided vulnerability labs, and research labs.)
                 https://github.com/imthenachoman/How-To-Secure-A-Linux-Server (An evolving how-to guide for securing a Linux server.)
-                https://github.com/infobyte/faraday (Open Source Vulnerability Management Platform)
                 https://github.com/instadoodledavid/Infosec-Deals-2020
                 https://github.com/jassics/awesome-aws-security (Curated list of links, references, books videos, tutorials (Free or Paid), Exploit, CTFs, Hacking Practices etc. which are related to AWS Security)
                 https://github.com/jassics/security-study-plan (Complete Practical Study Plan to become a successful cybersecurity engineer based on roles like Pentest, AppSec, Cloud Security, DevSecOps and so on...)
                 https://github.com/jatrost/awesome-kubernetes-threat-detection (A curated list of resources about detecting threats and defending Kubernetes systems.)
-                https://github.com/jtesta/ssh-audit (SSH server & client security auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc))
                 https://github.com/krol3/container-security-checklist (Checklist for container security - devsecops practices)
-                https://github.com/Kyuu-Ji/Awesome-Azure-Pentest (A collection of resources, tools and more for penetration testing and securing Microsofts cloud platform Azure.)
                 https://github.com/Legit-Labs/legitify (https://legitify.dev Detect and remediate misconfigurations and security risks across all your GitHub and GitLab assets)
                 https://github.com/Lissy93/awesome-privacy (🦄 A curated list of privacy & security-focused software and services)
                 https://github.com/Lissy93/personal-security-checklist (🔒 A curated checklist of 300+ tips for protecting digital security and privacy in 2021)
                 https://github.com/Lissy93/web-check (🌐 All-in-one OSINT tool for analysing any website)
-                https://github.com/Manisso/fsociety (fsociety Hacking Tools Pack – A Penetration Testing Framework)
                 https://github.com/mazen160/secrets-patterns-db (Secrets Patterns DB: The largest open-source Database for detecting secrets, API keys, passwords, tokens, and more.)
                 https://github.com/mikeprivette/awesome-sec-challenges (A curated list of Awesome Security Challenges.)
                 https://github.com/myugan/awesome-cicd-security (📚 A curated list of awesome CI CD security resources)
                 https://github.com/myugan/awesome-docker-security (A curated list of awesome Docker security resources)
                 https://github.com/n0kovo/awesome-password-cracking (A curated list of awesome tools, research, papers and other projects related to password cracking and password security.)
-                https://github.com/OWASP/CheatSheetSeries (The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics. )
+                https://github.com/OWASP/CheatSheetSeries (The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.)
                 https://github.com/pluja/awesome-privacy (A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.)
                 https://github.com/qazbnm456/awesome-web-security (🐶 A curated list of Web Security materials and resources)
                 https://github.com/robertdavidgraham/masscan (TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.)
@@ -2200,15 +2186,12 @@ Contents:
                 https://github.com/topics/oscp?o=desc&s=stars
                 https://github.com/topics/security?o=desc&s=stars
                 https://github.com/topics/websecurity?o=desc&s=stars
-                https://github.com/veeral-patel/learn-security-engineering
+                https://github.com/veeral-patel/learn-security-engineering (How to systematically secure anything: a repository about security engineering)
                 https://github.com/vulnerable-apps (Over 100 forks of deliberately vulnerable web applications and APIs.)
                 https://github.com/z1pti3/jimi (Jimi is an automation first no-code platform designed and developed originally for Security Orchestration and Response. Since its launch jimi has developed into a fully fledged IT automation platform which effortlessly integrates with your existing tools unlocking the potential for autonomous IT and Security operations.)
-                https://github.com/Z4nzu/hackingtool ( ALL IN ONE Hacking Tool For Hackers forms.gle/ntuAX8BGRR5yAb9ZA )
-                https://gtfobins.github.io (GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems.)
-                https://hrushikeshk.github.io/blog/2018/01/15/security-resources
                 https://ishaqmohammed.me/posts/application-security-knowledgebase (Application Security Knowledgebase)
-                https://jhalon.github.io/becoming-a-pentester
-                https://krebsonsecurity.com/2020/07/thinking-of-a-cybersecurity-career-read-this
+                https://jhalon.github.io/becoming-a-pentester (So You Want To Be a Pentester? (Updated 2023))
+                https://krebsonsecurity.com/2020/07/thinking-of-a-cybersecurity-career-read-this (Thinking of a Cybersecurity Career? Read This)
                 https://kubernetes.io/docs/concepts/security/security-checklist (Kubernetes Security Checklist)
                 https://media.defense.gov/2022/Mar/01/2002947139/-1/-1/0/CTR_NSA_NETWORK_INFRASTRUCTURE_SECURITY_GUIDANCE_20220301.PDF (National Security Agency Cybersecurity Technical Report Network Infrastructure Security Guidance March 2022)
                 https://myaccount.google.com/stateattackwarning (Find out if someone is trying to access your Google account)
@@ -2220,14 +2203,13 @@ Contents:
                 https://news.ycombinator.com/item?id=18487547 (Ask HN: Starting a career in security at 40?)
                 https://news.ycombinator.com/item?id=29577272 (Clever uses of pass, the Unix password manager (vitalyparnas.com))
                 https://news.ycombinator.com/item?id=38331501 (Ask HN: Any comprehensive courses on Auth?)
-                https://offsec.tools (A vast collection of security tools)
                 https://opensourcesecurityindex.io (The Most Popular & Fastest Growing Open Source Security Projects on GitHub)
                 https://overthewire.org/wargames/bandit (The Bandit wargame is aimed at absolute beginners. It will teach the basics needed to be able to play other wargames.)
                 https://portswigger.net/research/top-10-web-hacking-techniques-of-2022 (Top 10 web hacking techniques of 2022)
                 https://ppn.snovvcrash.rocks (Pentester's promiscuous handbook)
                 https://room362.com/start (Start in Infosec)
-                https://s3ctur.wordpress.com/2017/06/19/breaking-into-infosec-a-beginners-curriculum
-                https://security.stackexchange.com/questions/46666/at-what-length-does-a-password-stop-making-sense
+                https://s3ctur.wordpress.com/2017/06/19/breaking-into-infosec-a-beginners-curriculum (Breaking into InfoSec: A Beginners Curriculum)
+                https://security.stackexchange.com/questions/46666/at-what-length-does-a-password-stop-making-sense (At what length does a password stop making sense?)
                 https://sgtdede.gitbook.io/hacking/oscp-2022/guide-en (OSCP guide 2022)
                 https://softwareanalyst.substack.com/p/the-beginners-guide-to-cybersecurity (The Beginner's Guide to Cybersecurity)
                 https://sysdig.com/blog/top-owasp-kubernetes (The OWASP Kubernetes Top 10 puts all possible risks in an order of overall commonality or probability.)
@@ -2236,13 +2218,12 @@ Contents:
                 https://tldrsec.com/p/software-supply-chain-vendor-landscape (Software Supply Chain Vendor Landscape)
                 https://tls13.xargs.org (The Illustrated TLS 1.3 Connection Every byte explained and reproduced)
                 https://toc.cryptobook.us (A Graduate Course in Applied Cryptography)
-                https://tools.tldr.run (Curated list of security tools for Hackers & Builders!)
                 https://tryhackme.com/r/resources/blog/security-engineer-interview-guide (Preparing for a Security Engineering Interview)
                 https://www.cisa.gov/sites/default/files/publications/Federal_Government_Cybersecurity_Incident_and_Vulnerability_Response_Playbooks_508C.pdf (CISA Cybersecurity Incident and Vulnerability Response Playbooks)
                 https://www.cisecurity.org/benchmark/amazon_web_services (A step-by-step checklist to secure Amazon Web Services)
-                https://www.cisecurity.org/cis-benchmarks
+                https://www.cisecurity.org/cis-benchmarks (CIS Benchmarks List)
                 https://www.coursera.org/learn/crypto (Cryptography I Course by Dan Boneh (Stanford))
-                https://www.cybrary.it
+                https://www.cybrary.it (Cybrary's accessible, affordable training platform provides curated career paths, threat-informed training, and certification preparation for professionals at all levels.)
                 https://www.edx.org/learn/cybersecurity (Explore cybersecurity courses and certificates)
                 https://www.netmeister.org/blog/infosec-competencies.html ((Technical) Infosec Core Competencies)
                 https://www.nsa.gov/Press-Room/News-Highlights/Article/Article/2716980/nsa-cisa-release-kubernetes-hardening-guidance/utm_source/nsa-cisa-release-kubernetes-hardening-guidance (NSA, CISA release Kubernetes Hardening Guidance)
@@ -2255,6 +2236,28 @@ Contents:
                 https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets
                 https://youtu.be/l8iXMgk2nnY?si=gz-Xi49_yk9pInGG (VIM tutorial: linux terminal tools for bug bounty pentest and redteams with @tomnomnom)
                 https://pinboard.in/u:SharjeelSayed/t:security
+
+            Security Tools:
+                https://cipher387.github.io/osint_stuff_tool_collection (OSINT Tool Collection)
+                https://github.com/A-poc/RedTeam-Tools (Tools and Techniques for Red Team / Penetration Testing)
+                https://github.com/a13xp0p0v/kernel-hardening-checker (A tool for checking the security hardening options of the Linux kernel)
+                https://github.com/aquasecurity/cloudsploit (CloudSploit by Aqua is an open-source project designed to allow detection of security risks in cloud infrastructure accounts, including: Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform (GCP), Oracle Cloud Infrastructure (OCI), and GitHub.)
+                https://github.com/armosec/kubescape (kubescape is the first tool for testing if Kubernetes is deployed securely as defined in Kubernetes Hardening Guidance by to NSA and CISA)
+                https://github.com/bettercap/bettercap (The Swiss Army knife for 802.11, BLE, IPv4 and IPv6 networks reconnaissance and MITM attacks.)
+                https://github.com/BishopFox/cloudfox (Open source command line tool created to help penetration testers and other offensive security professionals find exploitable  attack paths in cloud infrastructure)
+                https://github.com/cugu/awesome-forensics ( A curated list of awesome forensic analysis tools and resources http://cugu.github.io/awesome-forensics )
+                https://github.com/devsecops/awesome-devsecops (https://www.devsecops.org An authoritative list of awesome devsecops tools with the help from community experiments and contributions.)
+                https://github.com/gchq/CyberChef (The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis)
+                https://github.com/infobyte/faraday (https://faradaysec.com Open Source Vulnerability Management Platform)
+                https://github.com/jtesta/ssh-audit (SSH server & client security auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc))
+                https://github.com/Kyuu-Ji/Awesome-Azure-Pentest (A collection of resources, tools and more for penetration testing and securing Microsofts cloud platform Azure.)
+                https://github.com/Manisso/fsociety (fsociety Hacking Tools Pack – A Penetration Testing Framework)
+                https://github.com/prowler-cloud/prowler (https://prowler.pro Prowler is an Open Source Security tool for AWS, Azure and GCP to perform Cloud Security best practices assessments, audits, incident response, compliance, continuous monitoring, hardening and forensics readiness. Includes CIS, NIST 800, NIST CSF, CISA, FedRAMP, PCI-DSS, GDPR, HIPAA, FFIEC, SOC2, GXP, Well-Architected Security, ENS and more.)
+                https://github.com/prowler-cloud/prowler (https://prowler.pro Prowler is an Open Source Security tool for AWS, Azure and GCP to perform Cloud Security best practices assessments, audits, incident response, compliance, continuous monitoring, hardening and forensics readiness. Includes CIS, NIST 800, NIST CSF, CISA, FedRAMP, PCI-DSS, GDPR, HIPAA, FFIEC, SOC2, GXP, Well-Architected Security, ENS and more.)
+                https://github.com/Z4nzu/hackingtool (ALL IN ONE Hacking Tool For Hackers forms.gle/ntuAX8BGRR5yAb9ZA)
+                https://gtfobins.github.io (GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems.)
+                https://offsec.tools (A vast collection of security tools)
+                https://tools.tldr.run (Curated list of security tools for Hackers & Builders!)
 
             Books and Courses:
                 Penetration Testing: A Hands-On Introduction to Hacking
@@ -3349,6 +3352,7 @@ Contents:
                 https://diataxis.fr (The Grand Unified Theory Of Documentation)
                 https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy (Cognitive behavioral therapy)
                 https://en.wikipedia.org/wiki/Nonviolent_Communication
+                https://en.wikipedia.org/wiki/Steve_Jobs_(book) (Steve Jobs by Walter Isaacson)
                 https://en.wikipedia.org/wiki/The_Innovator%27s_Dilemma (he Innovator's Dilemma: When New Technologies Cause Great Firms to Fail)
                 https://github.com/AkashRajpurohit/howtoprofessionallysay (A simple static website for common phrases we might want to say to your colleagues but want to make it sound more professional.)
                 https://github.com/charlax/engineering-management (A collection of inspiring resources related to engineering management and tech leadership)
@@ -4327,7 +4331,7 @@ Contents:
                 Hacker News:
                     https://apps.apple.com/us/app/hack-for-hacker-news-developer/id1464477788
                     https://edavis.github.io/hnrss
-                    https://github.com/minimaxir/hacker-news-undocumented
+                    https://github.com/minimaxir/hacker-news-undocumented (Some of the hidden norms about Hacker News not otherwise covered in the Guidelines and the FAQ.)
                     https://hckrnews.com
                     https://hn.algolia.com
                     https://hndex.ml (Search the full text of articles posted to Hacker News, with live updating)
