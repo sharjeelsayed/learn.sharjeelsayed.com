@@ -246,8 +246,8 @@ Contents:
                 https://blog.codinghorror.com/recommended-reading-for-developers
                 https://blog.rutikwankhade.dev/github-repositories-every-aspiring-developer-should-check-out
                 https://codeconfessions.substack.com/p/gpu-computing (What Every Developer Should Know About GPU Computing)
-                https://dev.to
-                https://devdocs.io
+                https://dev.to (DEV Community is a community of 1,236,140 amazing developers )
+                https://devdocs.io (DevDocs combines multiple API documentations in a fast, organized, and searchable interface. )
                 https://devtoolstips.org (154 DevTools Tips)
                 https://devurls.com
                 https://docs.google.com/spreadsheets/d/1gIRjeB1Y_AMvtmJsZWl_dNMDJ7lPSIxiVUYyEvrP5P4/htmlview?usp=sharing&sle=true (Popular Programming Podcast episodes)
@@ -272,18 +272,16 @@ Contents:
                 https://github.com/kamranahmedse/developer-roadmap (https://roadmap.sh Interactive roadmaps, guides and other educational content to help developers grow in their careers)
                 https://github.com/kdeldycke/awesome-falsehood (😱 Falsehoods Programmers Believe in)
                 https://github.com/Kuchin/Awesome-Cto (A Curated And Opinionated List Of Resources For Chief Technology Officers, With The Emphasis On Startups)
-                https://github.com/LeCoupa/awesome-cheatsheets
+                https://github.com/LeCoupa/awesome-cheatsheets (https://lecoupa.github.io/awesome-cheatsheets 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.)
                 https://github.com/mehdihadeli/awesome-software-architecture (A curated list of awesome articles and resources to learn and practice about software architecture, patterns, and principles)
                 https://github.com/Michael0x2a/curated-programming-resources
                 https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming (A 6 Lesson course teaching everything you need to know about harnessing GitHub Copilot and an AI Paired Programing resource.)
                 https://github.com/mtdvio/every-programmer-should-know (A collection of (mostly) technical things every software developer should know about )
                 https://github.com/MunGell/awesome-for-beginners (A list of awesome beginners-friendly projects.)
-                https://github.com/P1xt/p1xt-guides
+                https://github.com/P1xt/p1xt-guides (Programming curricula)
                 https://github.com/public-apis/public-apis (A collective list of free APIs)
-                https://github.com/rby90/Project-Based-Tutorials-in-C
-                https://github.com/rShetty/awesome-podcasts
+                https://github.com/rShetty/awesome-podcasts (Collection of awesome podcasts )
                 https://github.com/sdmg15/Best-websites-a-programmer-should-visit (🔗 Some useful websites for programmers.)
-                https://github.com/stanzhai/be-a-professional-programmer
                 https://github.com/styfle/awesome-online-ide (🌩️ A list of awesome online development environments https://styfle.dev/projects/awesome-online-ide)
                 https://github.com/topics/programming?o=desc&s=stars (public repositories matching the topic programming)
                 https://github.com/tuvtran/project-based-learning (Curated list of project-based tutorials)
@@ -293,7 +291,6 @@ Contents:
                 https://madnight.github.io/githut/#/pull_requests/2023/3 (This website shows the popularity of programming languages on GitHub over time)
                 https://mapfilterfold.com/?genre=programming
                 https://missing.csail.mit.edu (The Missing Semester of Your CS Education)
-                https://morningcupofcoding.com
                 https://news.ycombinator.com/item?id=12702651 (Ask HN: What is your favorite YouTube channel for developers?)
                 https://news.ycombinator.com/item?id=12718102 (Programming books you might want to consider reading)
                 https://news.ycombinator.com/item?id=13597949 (The most mentioned books on Stack Overflow)
@@ -904,8 +901,10 @@ Contents:
                 https://github.com/alebcay/awesome-shell (A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.)
                 https://github.com/alexanderepstein/Bash-Snippets (A collection of small bash scripts for heavy terminal users)
                 https://github.com/anordal/shellharden/blob/master/how_to_do_things_safely_in_bash.md (Safe ways to do things in bash)
+                https://github.com/atuinsh/atuin (https://atuin.sh ✨ Magical shell history)
                 https://github.com/Bash-it/bash-it (Bash-it is a collection of community Bash commands and scripts for Bash 3.2+.)
                 https://github.com/BurntSushi/ripgrep (ripgrep recursively searches directories for a regex pattern while respecting your gitignore )
+                https://github.com/cantino/mcfly (Fly through your shell history. Great Scott!)
                 https://github.com/cheat/cheat (cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not frequently enough to remember.)
                 https://github.com/dylanaraps/pure-bash-bible (📖 A collection of pure bash alternatives to external processes.)
                 https://github.com/dylanaraps/pure-sh-bible (📖 A collection of pure POSIX sh alternatives to external processes.)
@@ -922,7 +921,7 @@ Contents:
                 https://github.com/onceupon/Bash-Oneliner (A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.)
                 https://github.com/phiresky/ripgrep-all (rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.)
                 https://github.com/phiresky/ripgrep-all/wiki/fzf-Integration (You can use rga interactively via fzf.)
-                https://github.com/pirate/bash-utils
+                https://github.com/pirate/bash-utils (A collection of hand-crafted bash scripts for various common tasks.)
                 https://github.com/rothgar/awesome-tuis (List of projects that provide terminal user interfaces )
                 https://github.com/rupa/z (z - jump around)
                 https://github.com/topics/bash?o=desc&s=stars
@@ -932,7 +931,7 @@ Contents:
                 https://linuxcommandlibrary.com/basic/oneliners.html
                 https://miro.medium.com/v2/resize:fit:1400/format:webp/1*VTVc8B7HNyu1AIBII2Ls6g.png (sed cheatsheet)
                 https://mywiki.wooledge.org/BashFAQ/105 (Why doesn't set -e (or set -o errexit, or trap ERR) do what I expected?)
-                https://mywiki.wooledge.org/BashPitfalls
+                https://mywiki.wooledge.org/BashPitfalls (This page is a compilation of common mistakes made by bash users. )
                 https://news.ycombinator.com/item?id=14634964 (Ask HN: How can I get better at bash?)
                 https://news.ycombinator.com/item?id=22975437 (Shell Productivity Tips and Tricks (balthazar-rouberol.com))
                 https://news.ycombinator.com/item?id=24880170 (/.bashrc VS –/.profile VS –/.bash_profile (leimao.github.io))
@@ -1726,7 +1725,7 @@ Contents:
             Sources:
                 https://acloudguru.com/blog/engineering/the-ultimate-terraform-cheatsheet
                 https://github.com/antonbabenko/terraform-best-practices
-                https://github.com/Artemmkin/infrastructure-as-code-tutorial
+                https://github.com/Artemmkin/infrastructure-as-code-tutorial (Infrastructure As Code Tutorial. Covers Packer, Terraform, Ansible, Vagrant, Docker, Docker Compose, Kubernetes )
                 https://github.com/camptocamp/terraboard (A web dashboard to inspect Terraform States)
                 https://github.com/gofireflyio/aiac (Artificial Intelligence Infrastructure-as-Code Generator.)
                 https://github.com/GoogleCloudPlatform/terraformer (CLI tool to generate terraform files from existing infrastructure (reverse Terraform))
@@ -1734,8 +1733,9 @@ Contents:
                 https://github.com/infracost/infracost (Cloud cost estimates for Terraform in pull requests💰📉 Love your cloud bill!)
                 https://github.com/infracost/vscode-infracost ( See cost estimates for Terraform right in your editor💰📉 www.infracost.io )
                 https://github.com/JamesWoolfenden/pike (Pike is a tool for determining the permissions or policy required for IAC code)
-                https://github.com/nsriram/lambda-the-terraform-way
-                https://github.com/shuaibiyy/awesome-terraform
+                https://github.com/nsriram/lambda-the-terraform-way (AWS Lambda using Terraform., an Introductory Cookbook)
+                https://github.com/opentofu/opentofu (https://opentofu.org OpenTofu is a fork of Terraform that is open-source, community-driven, and managed by the Linux Foundation.)
+                https://github.com/shuaibiyy/awesome-terraform (Curated list of resources on HashiCorp's Terraform )
                 https://github.com/tfutils/tfenv (Terraform version manager)
                 https://github.com/topics/infrastructure-as-code?o=desc&s=stars
                 https://github.com/topics/terraform?o=desc&s=stars
@@ -3214,6 +3214,7 @@ Contents:
                 https://www.indeed.com/career-advice/finding-a-job/rising-tech-jobs-and-skills
                 https://www.naukri.com/pulse/top-it-skills (Naukri:Top 100 Tech Skills That Recruiters Are Searching)
                 https://www.reddit.com/r/antiwork/top (Antiwork: Unemployment for all, not just the rich!)
+                https://www.reddit.com/r/dubai/comments/194ouc4/what_are_some_things_every_newcomer_to_dubai (what are some things every newcomer to dubai should know?)
                 https://www.reddit.com/r/india/comments/81r29c/your_onestop_guide_to_emigrating_long_term_to
                 https://www.reddit.com/r/india/comments/gja5eo/advice_for_indians_looking_to_study_abroad_and
                 https://www.reddit.com/r/recruitinghell/top (This subreddit is for all of those recruiters and candidates who really don't get it. Post your horror stories and show us those amazing job offers!)
