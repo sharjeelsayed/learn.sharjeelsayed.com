@@ -3215,6 +3215,7 @@ Contents:
                 https://www.indeed.com/career-advice/finding-a-job/rising-tech-jobs-and-skills
                 https://www.naukri.com/pulse/top-it-skills (Naukri:Top 100 Tech Skills That Recruiters Are Searching)
                 https://www.reddit.com/r/antiwork/top (Antiwork: Unemployment for all, not just the rich!)
+                https://www.reddit.com/r/careerguidance (A place to discuss career options, to ask questions and give advice!)
                 https://www.reddit.com/r/dubai/comments/194ouc4/what_are_some_things_every_newcomer_to_dubai (what are some things every newcomer to dubai should know?)
                 https://www.reddit.com/r/india/comments/81r29c/your_onestop_guide_to_emigrating_long_term_to
                 https://www.reddit.com/r/india/comments/gja5eo/advice_for_indians_looking_to_study_abroad_and
@@ -3884,9 +3885,10 @@ Contents:
                     https://mynoise.net
 
                 Additional Sources:
-                    https://hypem.com
+                    https://ambiph.one (Ambient Music Generator)
+                    https://hypem.com (Hype Machine)
                     https://jetsetradio.live (LO-FI)
-                    https://neal.fun
+                    https://neal.fun (The Deep Sea)
                     https://open.spotify.com/playlist/51GTWGAMzL5zt7oUPcxwne (The Perfect Playlist from the AskReddit thread)
                     https://www.reddit.com/r/Music/comments/5nu2vt/112_hour_playlist_of_the_most_recognizable_songs
                     https://www.reddit.com/r/spotify/comments/aj7wkz/the_perfect_playlist_from_the_askreddit_thread
@@ -4325,6 +4327,7 @@ Contents:
                         https://redditfavorites.com (Reddit Favorites From 3.5 billion comments)
                         https://subredditstats.com/subreddit-user-overlaps (Type a subreddit name to list its overlaps with other subreddits)
                         https://www.findareddit.com (Find Subreddits for your Niche)
+                        https://www.reddit.com/best/communities/1/  (Best of Reddit Browse Reddit’s largest communities)
                         https://www.reddit.com/r/dataisbeautiful/comments/18fvw7v/oc_top_50_subreddits_with_the_most_new_posts_per ([OC] Top 50 subreddits with the most new posts per day and most comments per post (December 2023))
 
                     Subscriptions:
