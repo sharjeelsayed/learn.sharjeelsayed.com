@@ -5,9 +5,9 @@
   </head>
   <body>
     <outline text="MustRead" title="MustRead">
+      <outline text="programming, learnprogramming: top scoring links" title="programming, learnprogramming: top scoring links" type="rss" xmlUrl="https://burkybang.com/reddit_rss/?rss=r/learnprogramming%2Bprogramming/top/.rss" htmlUrl="https://old.reddit.com/r/learnprogramming+programming/top/?_=1704953306"/>
       <outline text="Enterprise Networking Design, Support, and Discussion" title="Enterprise Networking Design, Support, and Discussion" type="rss" xmlUrl="https://burkybang.com/reddit_rss/?rss=r/networking/top/.rss" htmlUrl="https://www.reddit.com/r/networking/top/?_=1704954862"/>
       <outline text="Computer Science: Theory and Application" title="Computer Science: Theory and Application" type="rss" xmlUrl="https://burkybang.com/reddit_rss/?rss=r/compsci/top/.rss" htmlUrl="https://www.reddit.com/r/compsci/top/?_=1704953448"/>
-      <outline text="programming, learnprogramming: top scoring links" title="programming, learnprogramming: top scoring links" type="rss" xmlUrl="https://burkybang.com/reddit_rss/?rss=r/learnprogramming%2Bprogramming/top/.rss" htmlUrl="https://old.reddit.com/r/learnprogramming+programming/top/?_=1704953306"/>
       <outline text="technology, technews: top scoring links" title="technology, technews: top scoring links" type="rss" xmlUrl="https://burkybang.com/reddit_rss/?rss=r/technews%2Btechnology/top/.rss" htmlUrl="https://www.reddit.com/r/technews+technology/top/?_=1704953138"/>
       <outline text="Lobsters" title="Lobsters" type="rss" xmlUrl="https://lobste.rs/rss" htmlUrl="https://lobste.rs/"/>
       <outline text="NYT &gt; World" title="NYT &gt; World" type="rss" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" htmlUrl="https://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss"/>
@@ -91,10 +91,10 @@
       <outline text="Pinboard (popular bookmarks)" title="Pinboard (popular bookmarks)" type="rss" xmlUrl="http://feeds.pinboard.in/rss/popular/" htmlUrl="https://pinboard.in/popular/"/>
     </outline>
     <outline text="DevOps" title="DevOps">
+      <outline text="programming, learnprogramming: top scoring links" title="programming, learnprogramming: top scoring links" type="rss" xmlUrl="https://burkybang.com/reddit_rss/?rss=r/learnprogramming%2Bprogramming/top/.rss" htmlUrl="https://old.reddit.com/r/learnprogramming+programming/top/?_=1704953306"/>
       <outline text="Enterprise Networking Design, Support, and Discussion" title="Enterprise Networking Design, Support, and Discussion" type="rss" xmlUrl="https://burkybang.com/reddit_rss/?rss=r/networking/top/.rss" htmlUrl="https://www.reddit.com/r/networking/top/?_=1704954862"/>
       <outline text="Experienced Devs" title="Experienced Devs" type="rss" xmlUrl="https://burkybang.com/reddit_rss/?rss=r/ExperiencedDevs/top/.rss" htmlUrl="https://www.reddit.com/r/ExperiencedDevs/top/?_=1704953556"/>
       <outline text="Computer Science: Theory and Application" title="Computer Science: Theory and Application" type="rss" xmlUrl="https://burkybang.com/reddit_rss/?rss=r/compsci/top/.rss" htmlUrl="https://www.reddit.com/r/compsci/top/?_=1704953448"/>
-      <outline text="programming, learnprogramming: top scoring links" title="programming, learnprogramming: top scoring links" type="rss" xmlUrl="https://burkybang.com/reddit_rss/?rss=r/learnprogramming%2Bprogramming/top/.rss" htmlUrl="https://old.reddit.com/r/learnprogramming+programming/top/?_=1704953306"/>
       <outline text="technology, technews: top scoring links" title="technology, technews: top scoring links" type="rss" xmlUrl="https://burkybang.com/reddit_rss/?rss=r/technews%2Btechnology/top/.rss" htmlUrl="https://www.reddit.com/r/technews+technology/top/?_=1704953138"/>
       <outline text="Cloudflare Blog" title="Cloudflare Blog" type="rss" xmlUrl="http://feeds.feedburner.com/Cloudflare-Blog" htmlUrl="https://blog.cloudflare.com/"/>
       <outline text="GitHub All Languages Daily Trending" title="GitHub All Languages Daily Trending" type="rss" xmlUrl="https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml" htmlUrl="http://mshibanami.github.io/GitHubTrendingRSS"/>
@@ -128,6 +128,7 @@
       <outline text="Terraform, ansible, usefulscripts: top scoring links" title="Terraform, ansible, usefulscripts: top scoring links" type="rss" xmlUrl="https://burkybang.com/reddit_rss/?rss=r/Terraform%2Bansible%2Busefulscripts/top/.rss" htmlUrl="https://www.reddit.com/r/Terraform+ansible+usefulscripts/top/?t=1628081632"/>
     </outline>
     <outline text="Leisure" title="Leisure">
+      <outline text="careerguidance, jobs: top scoring links" title="careerguidance, jobs: top scoring links" type="rss" xmlUrl="https://burkybang.com/reddit_rss/?rss=r/careerguidance%2Bjobs/top/.rss" htmlUrl="https://www.reddit.com/r/careerguidance+jobs/top/?_=1705296263"/>
       <outline text="India: United We Stand" title="India: United We Stand" type="rss" xmlUrl="https://burkybang.com/reddit_rss/?rss=r/india/top/.rss" htmlUrl="https://www.reddit.com/r/india/top/?t=1641107300"/>
       <outline text="all subreddits" title="all subreddits" type="rss" xmlUrl="https://burkybang.com/reddit_rss/?rss=r/all/top/.rss" htmlUrl="https://old.reddit.com/r/all/top/?_=1704955030"/>
       <outline text="qatar, dubai: top scoring links" title="qatar, dubai: top scoring links" type="rss" xmlUrl="https://burkybang.com/reddit_rss/?rss=r/dubai%2Bqatar/top/.rss" htmlUrl="https://www.reddit.com/r/dubai+qatar/top/?_=1704954697"/>
