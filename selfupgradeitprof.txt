@@ -2156,7 +2156,7 @@ Contents:
                 https://github.com/iacsecurity/tool-compare (infrastructure-as-code security tools comparison)
                 https://github.com/iknowjason/Awesome-CloudSec-Labs (Awesome free cloud native security learning labs. Includes CTF, self-hosted workshops, guided vulnerability labs, and research labs.)
                 https://github.com/imthenachoman/How-To-Secure-A-Linux-Server (An evolving how-to guide for securing a Linux server.)
-                https://github.com/instadoodledavid/Infosec-Deals-2020
+                https://github.com/instadoodledavid/Infosec-Deals (Ongoing Infosec Deals 2021)
                 https://github.com/jassics/awesome-aws-security (Curated list of links, references, books videos, tutorials (Free or Paid), Exploit, CTFs, Hacking Practices etc. which are related to AWS Security)
                 https://github.com/jassics/security-study-plan (Complete Practical Study Plan to become a successful cybersecurity engineer based on roles like Pentest, AppSec, Cloud Security, DevSecOps and so on...)
                 https://github.com/jatrost/awesome-kubernetes-threat-detection (A curated list of resources about detecting threats and defending Kubernetes systems.)
@@ -2234,6 +2234,7 @@ Contents:
                 https://www.reddit.com/r/netsec+privacy+SocialEngineering+onions+ReverseEngineering+crypto+blackhat+security+Malware+pwned+netsecstudents+computerforensics+HackBloc+securityCTF+xss+vrd+rootkit+REMath
                 https://www.reddit.com/r/netsecstudents/top/?sort=top&t=all
                 https://www.reddit.com/r/netsecstudents/wiki
+                https://www.returnonsecurity.com/p/2023-cybersecurity-market-review (The Cybersecurity Market in 2023)
                 https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets
                 https://youtu.be/l8iXMgk2nnY?si=gz-Xi49_yk9pInGG (VIM tutorial: linux terminal tools for bug bounty pentest and redteams with @tomnomnom)
                 https://pinboard.in/u:SharjeelSayed/t:security
@@ -2472,7 +2473,6 @@ Contents:
                 https://academictorrents.com
                 https://archive.org/search.php?query=subject%3A%22UC+Berkeley%22
                 https://blog.github.com/2018-03-20-top-10-courses-on-github
-                https://coupenger.com/the-curated-list-of-best-coursera-free-courses-for-2022 (The Curated List of Best Coursera Free Courses for (2022))
                 https://freelearninglist.org
                 https://github.com/afontcu/awesome-learning (A curated list of awesome learning material)
                 https://github.com/cloudcommunity/Free-Certifications (A curated list of free courses & certifications.)
@@ -2509,7 +2509,6 @@ Contents:
                 https://www.classcentral.com/starting-this-month
                 https://www.cram.com (Find flashcards to study)
                 https://www.freecodecamp.org/news/best-online-courses
-                https://www.g2.com/reports/momentum-grid-report-for-technical-skills-development-winter-2021
                 https://www.masterclass.com
                 https://www.real.discount (Discount coupons for Popular courses and MOOC Platforms)
                 https://www.reddit.com/r/compsci/comments/ud0e2n/any_recommendations_of_youtube_channels_for (Any recommendations of youtube channels for programming and computer science stuff?)
@@ -2520,8 +2519,8 @@ Contents:
                 https://www.reddit.com/r/Udemy+udemyfreebies
                 https://www.sololearn.com
                 https://www.techlinks.in/udemy-free-coupons (Free Udemy, Cousera, Eudonix Courses And Coupons)
-                https://www.timeshighereducation.com/world-university-rankings/2023/world-ranking (The Times Higher Education World University Rankings 2023)
-                https://www.topuniversities.com/university-rankings/world-university-rankings/2023 (QS World University Rankings 2023)
+                https://www.timeshighereducation.com/world-university-rankings/2024/world-ranking (The Times Higher Education World University Rankings 2024)
+                https://www.topuniversities.com/world-university-rankings (QS World University Rankings)
                 https://www.tutorialbar.com (Udemy Coupons)
                 https://www.udacity.com/courses/all
                 https://www.udemy.com/courses/free/?p=12&sort=popularity
@@ -2589,7 +2588,7 @@ Contents:
 
                 HarvardX: CS50's Introduction to Databases with SQL
                 https://cs50.edx.org/sql
-                https://cs50.harvard.edu/sql/2023
+                https://cs50.harvard.edu/sql/2024
 
         Python:
             Sources:
@@ -2651,8 +2650,8 @@ Contents:
                 CS50's Introduction to Programming with Python
                 https://www.edx.org/course/cs50s-introduction-to-programming-with-python
 
-                2020 Complete Python Bootcamp: From Zero to Hero in Python
-                https://www.udemy.com/course/complete-python-bootcamp
+                100 Days of Code: The Complete Python Pro Bootcamp by Dr. Angela Yu
+                https://www.udemy.com/course/100-days-of-code
 
         Go:
             Sources:
@@ -2749,8 +2748,6 @@ Contents:
                 https://news.ycombinator.com/item?id=24130286 (Ask HN: Self-taught webdev with lots of free time. What should I learn?)
                 https://rutar.org/writing/how-to-build-a-personal-webpage-from-scratch (How to Build a Personal Webpage from Scratch)
                 https://www.photopea.com
-                https://www.reddit.com/r/learnprogramming/comments/bvlsf7/the_odin_project_vs_colt_steeles_web_dev_bootcamp
-                https://www.reddit.com/r/webdev/comments/8lvsxa/is_colt_steele_web_dev_bootcamp_still_the_go_to
                 https://www.udemy.com/courses/development/web-development/?ratings=4.5&sort=popularity (Udemy Courses rated 4.5 stars and above)
                 https://www.wappalyzer.com (Find out the technology stack of any website.)
                 https://www.youtube.com/c/TraversyMedia
@@ -2766,8 +2763,8 @@ Contents:
                 Full Stack open (Deep Dive Into Modern Web Development by The University of Helsinki)
                 https://fullstackopen.com/en
 
-                The Web Developer Bootcamp by Colt Steele
-                https://www.udemy.com/the-web-developer-bootcamp
+                The Complete 2024 Web Development Bootcamp by Dr. Angela Yu
+                https://www.udemy.com/course/the-complete-web-development-bootcamp
 
                 CS50's Web Programming with Python and JavaScript
                 https://cs50.edx.org/programs/web
@@ -2808,7 +2805,7 @@ Contents:
                 Eloquent JavaScript 3rd edition
                 https://eloquentjavascript.net
 
-                The Complete JavaScript Course 2021: From Zero to Expert! by Jonas Schmedtmann
+                The Complete JavaScript Course 2024: From Zero to Expert! by Jonas Schmedtmann
                 https://www.udemy.com/course/the-complete-javascript-course
 
                 Modern JavaScript Tutorial by The Net Ninja
@@ -2860,7 +2857,7 @@ Contents:
             Books and Courses:
                 https://github.com/ax/apk.sh (apk.sh makes reverse engineering Android apps easier, automating some repetitive tasks like pulling, decoding, rebuilding and patching an APK.)
                 https://github.com/sindresorhus/Actions (https://sindresorhus.com/actions ⚙️ Supercharge your shortcuts )
-                https://github.com/skydoves/android-developer-roadmap (🗺 Android Developer Roadmap 2022 suggests learning paths to understanding Android development.)
+                https://github.com/skydoves/android-developer-roadmap (🗺 The Android Developer Roadmap offers comprehensive learning paths to help you understand Android ecosystems.)
                 https://www.kodeco.com (Learn iOS and Swift, Android and Kotlin & Dart and Flutter development with the largest and highest-quality catalog of video courses and books on the Internet.)
 
         AI and Machine Learning:
@@ -2873,6 +2870,7 @@ Contents:
                 https://github.com/dair-ai/ML-Papers-of-the-Week (🔥Highlighting the top ML papers every week.)
                 https://github.com/dair-ai/Prompt-Engineering-Guide (🐙 Guides, papers, lecture, notebooks and resources for prompt engineering )
                 https://github.com/eugeneyan/open-llms (🤖 A list of open LLMs available for commercial use.)
+                https://github.com/GoogleCloudPlatform/generative-ai (https://cloud.google.com/vertex-ai/docs/generative-ai/learn/overview Sample code and notebooks for Generative AI on Google Cloud)
                 https://github.com/humanloop/awesome-chatgpt (Curated list of awesome tools, demos, docs for ChatGPT and GPT-3 )
                 https://github.com/labmlai/annotated_deep_learning_paper_implementations ( 🧑‍🏫 60 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠 )
                 https://github.com/OpenMindClub/awesome-chatgpt (⚡ Everything about ChatGPT )
@@ -3192,7 +3190,7 @@ Contents:
         Jobs:
             Sources:
                 http://layoffs.fyi (Tracking all tech startup layoffs since COVID-19)
-                https://docs.google.com/spreadsheets/d/1TLJSlNxCbwRNxy14Toe1PYwbCTY7h0CNHeer9J0VRzE/htmlview#gid=1279011369 (900+ Startups hiring Remotely in 2020 - by Remotive.io)
+                https://docs.google.com/spreadsheets/d/1TLJSlNxCbwRNxy14Toe1PYwbCTY7h0CNHeer9J0VRzE/htmlview#gid=1279011369 (900+ Startups Hiring Remotely in 2024 - by Remotive.com : UPDATED - The List of Awesome!)
                 https://en.wikipedia.org/wiki/List_of_Arab_League_countries_by_GDP_(PPP) (List of Arab League countries by GDP (PPP))
                 https://en.wikipedia.org/wiki/List_of_countries_by_average_annual_labor_hours (List of countries by average annual labor hours)
                 https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita#Table (List of countries by GDP (PPP) per capita)
@@ -3281,7 +3279,7 @@ Contents:
 
         Company and Salary Reviews:
             Sources:
-                https://codesubmit.io/blog/software-engineer-salary-by-country (Average Software Engineering Salaries by Country in 2022 [Comparison of 20+ Countries])
+                https://codesubmit.io/blog/software-engineer-salary-by-country (Average Software Engineering Salaries by Country [2023])
                 https://in.indeed.com/career/cloud-engineer/salaries
                 https://in.indeed.com/career/development-operations-engineer/salaries
                 https://news.ycombinator.com/item?id=19024575 (Ask HN: Highest paying remote companies?)
@@ -3558,9 +3556,9 @@ Contents:
                 https://www.paisabazaar.com/credit-card/top-10-credit-cards-in-india (3,433)
                 https://www.creditmantri.com/credit-card (26,983)
                 https://www.wishfin.com/best-credit-cards/best-credit-cards-in-india-apply-online (38,303)
-                https://www.cardexpert.in/best-credit-cards-in-india-2021 (50,768)
+                https://www.cardexpert.in/best-credit-cards-india (50,768)
                 https://finshots.in/infographic/who-dominates-the-credit-card-market-in-india (57,577)
-                https://www.cashoverflow.in/best-credit-cards-india-2021 (59,776)
+                https://www.cashoverflow.in/best-credit-cards-india (59,776)
                 https://www.mymoneymantra.com/blog/top-10-credit-cards-in-india-for-2019 (133,119)
                 https://cardinfo.in/best-credit-cards-in-india-for-2021 (236,015)
 
@@ -3688,7 +3686,6 @@ Contents:
         Books:
             Sources:
                 http://booksreddit.com (Using data analysis to get best Reddit books suggestions)
-                http://ramiro.org/vis/hn-most-linked-books-unique-users
                 http://www.openculture.com/free_textbooks (200 Free Textbooks: A Meta Collection)
                 https://bookauthority.org (Book recommendations by thought leaders)
                 https://bookinsider.gitlab.io (We present you with the top books on Stack Overflow and other popular Stack Exchange sites.)
@@ -3702,10 +3699,6 @@ Contents:
                 https://en.wikipedia.org/wiki/Time%27s_List_of_the_100_Best_Novels
                 https://fivebooks.com (The best books on everything)
                 https://github.com/laxyapahuja/bunken (A chrome extension to download ebooks directly from Goodreads.)
-                https://hacker-recommended-books.vercel.app (40,000 HackerNews book recommendations identified using NLP and deep learning)
-                https://hackernewsbooks.com (The Best Books Mentioned On Hacker News This Week )
-                https://hn.algolia.com/?query=books&sort=byPopularity&prefix&page=0&dateRange=all&type=story
-                https://mapfilterfold.com (Meta Recommendations from HN)
                 https://news.ycombinator.com/item?id=13803787 (Ask HN: What books fundamentally changed the way you think about the world?)
                 https://news.ycombinator.com/item?id=14477851 (Ask HN: Books you wish you had read earlier?)
                 https://news.ycombinator.com/item?id=15155833 (Ask HN: What books have made the biggest impact on your mental models?)
@@ -3744,7 +3737,6 @@ Contents:
                 https://ramiro.org/vis/hn-most-linked-books (Top 30 books ranked by total number of links to Amazon in Hacker News comments)
                 https://redditfavorites.com/books (What are Reddit's favorite books? From 3.5 billion Reddit comments)
                 https://shepherd.com (8,000+ authors have shared five of their favorite books around a topic, theme, or mood.)
-                https://shepherd.com/bboy/2023 (The 100 best books of 2023 We asked 1,234 authors for their 3 favorite reads in 2023)
                 https://wiki.mobileread.com/wiki/EBook_Lending_Libraries
                 https://www.amazon.com/b/?node=8192263011 (100 Books to Read in a Lifetime)
                 https://www.amazon.com/best-sellers-books-Amazon/zgbs/books
@@ -3762,11 +3754,18 @@ Contents:
                 https://www.reddit.com/r/FreeEBOOKS+KindleFreebies
                 https://www.reddit.com/r/Piracy/comments/oreyow/heres_the_definitive_list_of_sites_for_ebooks_and
                 https://www.reddit.com/r/suggestmeabook (a sub where you can find new books based on suggestions from the community)
-                https://yahnd.com/books (The Best Books of Hacker News)
                 https://pinboard.in/u:SharjeelSayed/t:course
                 https://pinboard.in/u:SharjeelSayed/t:ebooks
                 https://pinboard.in/u:SharjeelSayed/t:learn
                 https://www.goodreads.com/SharjeelSayed
+
+            Hacker News Recommended Books:
+                http://ramiro.org/vis/hn-most-linked-books-unique-users (Top 30 books ranked by total number of links to Amazon in Hacker News comments on January 17, 2016)
+                https://hacker-recommended-books.vercel.app (40,000 HackerNews book recommendations identified using NLP and deep learning)
+                https://hackernewsbooks.com (The Best Books Mentioned On Hacker News This Week )
+                https://hn.algolia.com/?query=books&sort=byPopularity&prefix&page=0&dateRange=all&type=story
+                https://hnreads.com/post/top40_2023 (The Hacker News Top 40 books of 2023)
+                https://yahnd.com/books (The Best Books of Hacker News)
 
             Sites: (Sorted by Alexa Rank)
                 https://www.pdfdrive.com (1,061)
@@ -4699,7 +4698,7 @@ Contents:
                 https://github.com/magicoflolis/Reddit-Piracy-Megathread
                 https://github.com/movie-web/movie-web (https://movie-web.app A small web app for watching movies and shows easily from various torrent sites)
                 https://github.com/ngosang/trackerslist (Updated list of public BitTorrent trackers)
-                https://torrentfreak.com/top-torrent-sites-2021-210103
+                https://torrentfreak.com/top-torrent-sites (Top 10 Most Popular Torrent Sites 2024)
                 https://torrentfreak.com/utorrent-is-the-most-used-bittorrent-client-by-far-200405
                 https://www.reddit.com/r/Addons4Kodi/wiki/preferred_addons
                 https://www.reddit.com/r/movieleaks
@@ -4998,6 +4997,7 @@ Contents:
         https://www.reddit.com/r/malefashionadvice/wiki (r/malefashionadvice wiki)
         https://www.reddit.com/r/uBlockOrigin/comments/178yasm/youtube_antiadblock_and_ads_october_16_2023 ( YouTube Anti-Adblock and Ads - October 16, 2023 (Weekly Thread))
         https://www.theverge.com/23674658/best-android-phone (The best Android phone to buy in 2023)
+        https://www.vox.com/science-and-health/2019/8/23/20828597/the-10000-hour-rule-debunked (The “10,000-hour rule” was debunked again. That’s a relief.)
         https://youglish.com (Use YouTube to improve your English pronunciation. With more than 100M tracks, YouGlish gives you fast, unbiased answers about how English is spoken by real people and in context.)
 
     Support this project with these referral links:
