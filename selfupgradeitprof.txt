@@ -797,15 +797,14 @@ Contents:
                 https://adamtheautomator.com/check-if-a-port-is-open-in-linux (All the Ways to Check If a Port is Open in Linux)
                 https://biriukov.dev/docs/page-cache/0-linux-page-cache-for-sre ( SRE deep dive into Linux Page Cache)
                 https://dashdash.io (Linux Man Pages)
-                https://github.com/0xAX/linux-insides
+                https://github.com/0xAX/linux-insides (https://0xax.gitbooks.io/linux-insides A little bit about a linux kernel )
                 https://github.com/89luca89/distrobox (Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at: https://gitlab.com/89luca89/distrobox https://distrobox.privatedns.org)
                 https://github.com/a13xp0p0v/kernel-hardening-checker (A tool for checking the security hardening options of the Linux kernel)
                 https://github.com/canonical/multipass (Multipass orchestrates virtual Ubuntu instances)
                 https://github.com/ibraheemdev/modern-unix (A collection of modern/faster/saner alternatives or complements to common unix commands.)
                 https://github.com/imthenachoman/How-To-Secure-A-Linux-Server (An evolving how-to guide for securing a Linux server.)
-                https://github.com/inputsh/awesome-linux
                 https://github.com/leandromoreira/linux-network-performance-parameters (Learn where some of the network sysctl variables fit into the Linux/Kernel network flow. Translations: 🇷🇺 )
-                https://github.com/luong-komorebi/Awesome-Linux-Software
+                https://github.com/luong-komorebi/Awesome-Linux-Software (https://luong-komorebi.github.io/Awesome-Linux-Software 🐧 A list of awesome Linux softwares )
                 https://github.com/r-darwish/topgrade (Upgrade everything)
                 https://github.com/sysprog21/lkmpg (The Linux Kernel Module Programming Guide (updated for 5.x kernels))
                 https://github.com/topics/lamp?o=desc&s=stars
@@ -830,6 +829,7 @@ Contents:
                 https://www.reddit.com/r/linuxadmin/comments/2s924h/how_did_you_get_your_start/cnnw1ma
                 https://www.reddit.com/r/linuxadmin/comments/7cw116/favorite_posts_youve_bookmarked_or_saved
                 https://www.reddit.com/r/Ubuntu+linux+linuxadmin
+                https://github.com/vm32/Linux-Incident-Response (practical toolkit for cybersecurity and IT professionals. It features a detailed Linux cheatsheet for incident response)
 
             Books and Courses:
                 Linux Journey
@@ -1153,7 +1153,6 @@ Contents:
                 https://github.com/jatrost/awesome-kubernetes-threat-detection (A curated list of resources about detecting threats and defending Kubernetes systems.)
                 https://github.com/karmada-io/karmada (Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration)
                 https://github.com/kelseyhightower/kubernetes-the-hard-way (Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.)
-                https://github.com/komodorio/helm-dashboard (The missing UI for Helm - visualize your releases)
                 https://github.com/ksoclabs/awesome-kubernetes-security (A curated list of awesome Kubernetes security resources)
                 https://github.com/kubernetes/kubernetes (Production-Grade Container Scheduling and Management )
                 https://github.com/LeCoupa/awesome-cheatsheets/blob/master/tools/kubernetes.md
@@ -1170,7 +1169,6 @@ Contents:
                 https://github.com/topics/kubernetes?o=desc&s=stars
                 https://goo.gl/Rywkpd (The Kubernetes Learning Resources List)
                 https://hackr.io/tutorials/learn-kubernetes (Kubernetes Tutorials and Courses)
-                https://kops.sigs.k8s.io (kops will not only help you create, destroy, upgrade and maintain production-grade, highly available, Kubernetes cluster, but it will also provision the necessary cloud infrastructure.)
                 https://kube.academy (Learn Kubernetes From Experts For Free. KubeAcademy from VMware)
                 https://kubenews.net (Kubernetes and Cloud Native Computing Foundation News Sources)
                 https://kubernetes.io/docs/concepts/security/security-checklist (Kubernetes Security Checklist)
@@ -1182,7 +1180,7 @@ Contents:
                 https://medium.com/faun/35-advanced-tutorials-to-learn-kubernetes-dae5695b1f18
                 https://medium.com/faun/be-fast-with-kubectl-1-18-ckad-cka-31be00acc443
                 https://mjarosie.github.io/dev/2021/09/15/iam-roles-for-kubernetes-service-accounts-deep-dive.html (IAM roles for Kubernetes service accounts - deep dive)
-                https://napo.io/posts/kubernetes-the-real-hard-way-on-aws
+                https://napo.io/posts/kubernetes-the-real-hard-way-on-aws (Kubernetes The (real) Hard Way on AWS)
                 https://news.ycombinator.com/item?id=29251343 (Ask HN: What is the fastest way to ramp up on DevOps, k8 and GCP?)
                 https://notes.arkalim.org/notes/kubernetes (Abdur's Notes for Kubernetes)
                 https://redhatspain.com/kubernetes (A curated list of awesome references collected since 2018.)
@@ -1246,7 +1244,9 @@ Contents:
                 https://github.com/ishantanu/awesome-kubectl-plugins (Curated list of kubectl plugins)
                 https://github.com/johanhaleby/kubetail (Bash script to tail Kubernetes logs from multiple pods at the same time)
                 https://github.com/kdash-rs/kdash (A simple and fast dashboard for Kubernetes)
+                https://github.com/komodorio/helm-dashboard (The missing UI for Helm - visualize your releases)
                 https://github.com/kubernetes-sigs/krew (https://krew.sigs.k8s.io 📦 Find and install kubectl plugins)
+                https://github.com/kubernetes/kops (https://kops.sigs.k8s.io kops will not only help you create, destroy, upgrade and maintain production-grade, highly available, Kubernetes cluster, but it will also provision the necessary cloud infrastructure.)
                 https://github.com/kubeshark/kubeshark (The API traffic viewer for Kubernetes providing deep visibility into all API traffic and payloads going in, out and across containers and pods inside a Kubernetes cluster. Think TCPDump and Wireshark re-invented for Kubernetes)
                 https://github.com/nevalla/lens-resource-map-extension (Lens - The Kubernetes IDE extension that displays Kubernetes resources and their relations as a force graph.)
                 https://github.com/paralus/paralus (https://www.paralus.io All-in-one Kubernetes access manager. User-level credentials, RBAC, SSO, audit logs.)
@@ -1262,13 +1262,13 @@ Contents:
 
             Books and Courses:
                 Kubernetes Documentation
-                https://kubernetes.io/docs/concepts
+                https://kubernetes.io/docs/concepts (The Concepts section helps you learn about the parts of the Kubernetes system and the abstractions Kubernetes uses to represent your cluster, and helps you obtain a deeper understanding of how Kubernetes works.)
                 https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands (Kubernetes Commands)
                 https://kubernetes.io/docs/reference/kubectl/cheatsheet (kubectl Cheat Sheet)
-                https://kubernetes.io/docs/tasks
+                https://kubernetes.io/docs/tasks (This section of the Kubernetes documentation contains pages that show how to do individual tasks. )
                 https://kubernetes.io/docs/tasks/manage-kubernetes-objects/imperative-command
                 https://kubernetes.io/docs/tutorials/kubernetes-basics (Learn Kubernetes Basics)
-                https://kubernetes.io/training
+                https://kubernetes.io/training (Kubernetes Training)
 
                 Kubernetes in Action, Second Edition by Marko Lukša (Releasing on August, 2023)
                 https://www.amazon.com/Kubernetes-Action-Second-Marko-Luk%C5%A1a/dp/1617297615
@@ -2256,6 +2256,7 @@ Contents:
                 https://github.com/Manisso/fsociety (fsociety Hacking Tools Pack – A Penetration Testing Framework)
                 https://github.com/prowler-cloud/prowler (https://prowler.pro Prowler is an Open Source Security tool for AWS, Azure and GCP to perform Cloud Security best practices assessments, audits, incident response, compliance, continuous monitoring, hardening and forensics readiness. Includes CIS, NIST 800, NIST CSF, CISA, FedRAMP, PCI-DSS, GDPR, HIPAA, FFIEC, SOC2, GXP, Well-Architected Security, ENS and more.)
                 https://github.com/prowler-cloud/prowler (https://prowler.pro Prowler is an Open Source Security tool for AWS, Azure and GCP to perform Cloud Security best practices assessments, audits, incident response, compliance, continuous monitoring, hardening and forensics readiness. Includes CIS, NIST 800, NIST CSF, CISA, FedRAMP, PCI-DSS, GDPR, HIPAA, FFIEC, SOC2, GXP, Well-Architected Security, ENS and more.)
+                https://github.com/vm32/Linux-Incident-Response (practical toolkit for cybersecurity and IT professionals. It features a detailed Linux cheatsheet for incident response)
                 https://github.com/Z4nzu/hackingtool (ALL IN ONE Hacking Tool For Hackers forms.gle/ntuAX8BGRR5yAb9ZA)
                 https://gtfobins.github.io (GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems.)
                 https://offsec.tools (A vast collection of security tools)
@@ -3199,6 +3200,7 @@ Contents:
                 https://github.com/lukasz-madon/awesome-remote-job (A curated list of awesome remote jobs and resources.)
                 https://github.com/poteto/hiring-without-whiteboards (⭐️ Companies that don't have a broken hiring process)
                 https://github.com/randallkanna/awesome-job-list (A list of the best places to job hunt. I've been curating this for the past 7 years.)
+                https://github.com/ReaVNaiL/New-Grad-2024 (👋 Hey there new grad🎉! We've put together a collection of full-time job openings for SWE, Quant, PM and tech roles in 2024! 🚀 )
                 https://github.com/SimplifyJobs/New-Grad-Positions (A collection of New Grad full time roles in SWE, Quant, and PM.)
                 https://hn.algolia.com/?dateRange=pastYear&page=0&prefix=false&query=Ask%20HN%3A%20Who%20is%20hiring%3F&sort=byPopularity&type=story (Ask HN: Who is hiring?)
                 https://llcattorney.com/business-info/us-companies-salaries-vs-revenue (How Long It Takes the Largest Companies in America to Make One Employee's Average Annual Salary)
