@@ -255,8 +255,8 @@ Contents:
                 https://fintechgtm.substack.com/p/us-fintech-and-payments-crash-course (U.S. Fintech & Payments Crash Course)
                 https://github.blog/2023-11-08-the-state-of-open-source-and-ai (Octoverse: The state of open source and rise of AI in 2023)
                 https://github.com/30-seconds/30-seconds-of-code (https://www.30secondsofcode.org Short code snippets for all your development needs)
-                https://github.com/aceking007/100ProjectsOfCode
-                https://github.com/AlgoryL/Projects-from-Scratch
+                https://github.com/aceking007/100ProjectsOfCode (A list of practical knowledge-building projects. )
+                https://github.com/AlgoryL/Projects-from-Scratch (A curated list for projects building from scratch.)
                 https://github.com/bnb/awesome-developer-streams (👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻 Awesome Developers, Streaming )
                 https://github.com/braydie/HowToBeAProgrammer (A guide on how to be a Programmer - originally published by Robert L Read https://braydie.gitbooks.io/how-to-be-a-programmer/content)
                 https://github.com/charlax/engineering-management (A collection of inspiring resources related to engineering management and tech leadership)
@@ -274,7 +274,7 @@ Contents:
                 https://github.com/Kuchin/Awesome-Cto (A Curated And Opinionated List Of Resources For Chief Technology Officers, With The Emphasis On Startups)
                 https://github.com/LeCoupa/awesome-cheatsheets (https://lecoupa.github.io/awesome-cheatsheets 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.)
                 https://github.com/mehdihadeli/awesome-software-architecture (A curated list of awesome articles and resources to learn and practice about software architecture, patterns, and principles)
-                https://github.com/Michael0x2a/curated-programming-resources
+                https://github.com/Michael0x2a/curated-programming-resources (A curated list of resources for learning programming. )
                 https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming (A 6 Lesson course teaching everything you need to know about harnessing GitHub Copilot and an AI Paired Programing resource.)
                 https://github.com/mtdvio/every-programmer-should-know (A collection of (mostly) technical things every software developer should know about )
                 https://github.com/MunGell/awesome-for-beginners (A list of awesome beginners-friendly projects.)
@@ -287,7 +287,7 @@ Contents:
                 https://github.com/tuvtran/project-based-learning (Curated list of project-based tutorials)
                 https://github.com/veler/DevToys (A Swiss Army knife for developers. https://devtoys.app)
                 https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=every%20programmer&sort=byPopularity&type=story (Things every programmer should know)
-                https://learnxinyminutes.com
+                https://learnxinyminutes.com (Take a whirlwind tour of your next favorite language. Community-driven!)
                 https://madnight.github.io/githut/#/pull_requests/2023/3 (This website shows the popularity of programming languages on GitHub over time)
                 https://mapfilterfold.com/?genre=programming
                 https://missing.csail.mit.edu (The Missing Semester of Your CS Education)
@@ -322,13 +322,12 @@ Contents:
                 https://news.ycombinator.com/item?id=23468193 (	Ask HN: Which tools have made you a much better programmer?)
                 https://news.ycombinator.com/item?id=30228261 (Ask HN: Best books on managing software complexity?)
                 https://news.ycombinator.com/item?id=30752540 (	Ask HN: Codebases with great, easy to read code?)
+                https://news.ycombinator.com/item?id=39057219 (	Ask HN: Good books on philosophy of engineering?)
                 https://octoverse.github.com (The state of open source software)
                 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/index.htm
                 https://people.freebsd.org/~lstewart/articles/cpumemory.pdf (What Every Programmer Should Know About Memory)
                 https://softwareengineeringdaily.com
                 https://survey.stackoverflow.co/2023 (Stackoverflow 2023 Developer Survey)
-                https://toptalkedbooks.com/stackoverflow/all
-                https://www.daolf.com/posts/best-programming-books
                 https://www.discoverdev.io (Discover dev brings you a daily digest of the best engineering blogs from across the web! Handpicked by AI and a network of globally distributed nerds!)
                 https://www.jetbrains.com/lp/devecosystem-2021 (The State of Developer Ecosystem 2021)
                 https://www.microsoft.com/en-us/research/blog/category/podcast
@@ -906,11 +905,7 @@ Contents:
                 https://github.com/gleitz/howdoi (instant coding answers via the command line)
                 https://github.com/ibraheemdev/modern-unix (A collection of modern/faster/saner alternatives or complements to common unix commands.)
                 https://github.com/jlevy/the-art-of-command-line (Master the command line, in one page)
-                https://github.com/kaplanelad/shellfirm (Intercept any risky patterns (default or defined by you) and prompt you a small challenge for double verification)
-                https://github.com/kellyjonbrazil/jc (CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and simplifying automation scripts.)
-                https://github.com/koalaman/shellcheck (a static analysis tool for shell scripts)
                 https://github.com/learnbyexample/Command-line-text-processing
-                https://github.com/nvbn/thefuck (Magnificent app which corrects your previous console command.)
                 https://github.com/onceupon/Bash-Oneliner (A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.)
                 https://github.com/phiresky/ripgrep-all/wiki/fzf-Integration (You can use rga interactively via fzf.)
                 https://github.com/pirate/bash-utils (A collection of hand-crafted bash scripts for various common tasks.)
@@ -947,6 +942,10 @@ Contents:
                 https://github.com/cantino/mcfly (Fly through your shell history. Great Scott!)
                 https://github.com/ellie/atuin (🐢 Magical shell history)
                 https://github.com/junegunn/fzf (A command-line fuzzy finder)
+                https://github.com/kaplanelad/shellfirm (Intercept any risky patterns (default or defined by you) and prompt you a small challenge for double verification)
+                https://github.com/kellyjonbrazil/jc (CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and simplifying automation scripts.)
+                https://github.com/koalaman/shellcheck (a static analysis tool for shell scripts)
+                https://github.com/nvbn/thefuck (Magnificent app which corrects your previous console command.)
                 https://github.com/phiresky/ripgrep-all (rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.)
                 https://github.com/rupa/z (z - jump around)
                 https://github.com/sxyazi/yazi (https://yazi-rs.github.io 💥 Blazing fast terminal file manager written in Rust, based on async I/O.)
@@ -2654,6 +2653,9 @@ Contents:
                 100 Days of Code: The Complete Python Pro Bootcamp by Dr. Angela Yu
                 https://www.udemy.com/course/100-days-of-code
 
+                Python Programming MOOC 2024 by the University of Helsinki
+                https://programming-24.mooc.fi
+
         Go:
             Sources:
                 https://github.com/topics/go?o=desc&s=stars
@@ -2718,7 +2720,7 @@ Contents:
 
             Books and Courses:
                 Object-Oriented programming with Java
-                http://mooc.fi/courses/2013/programming-part-1
+                https://programming-20.mooc.fi
 
                 Complete Java Masterclass
                 https://www.udemy.com/java-the-complete-java-developer-course
@@ -3735,7 +3737,11 @@ Contents:
                 https://news.ycombinator.com/item?id=30241190 (Ask HN: What is one book you would recommend everyone to read?)
                 https://news.ycombinator.com/item?id=33797862 (Ask HN: Which books have made you a better thinker and problem solver?)
                 https://news.ycombinator.com/item?id=35929112 (Ask HN: What are the most eye-opening textbooks you have ever read?)
+                https://news.ycombinator.com/item?id=39057219 (	Ask HN: Good books on philosophy of engineering?)
                 https://opentrackers.org/downloading-ebooks-textbooks (A guide to help people find ebooks & textbooks)
+                https://pinboard.in/u:SharjeelSayed/t:course
+                https://pinboard.in/u:SharjeelSayed/t:ebooks
+                https://pinboard.in/u:SharjeelSayed/t:learn
                 https://ramiro.org/vis/hn-most-linked-books (Top 30 books ranked by total number of links to Amazon in Hacker News comments)
                 https://redditfavorites.com/books (What are Reddit's favorite books? From 3.5 billion Reddit comments)
                 https://shepherd.com (8,000+ authors have shared five of their favorite books around a topic, theme, or mood.)
@@ -3756,9 +3762,6 @@ Contents:
                 https://www.reddit.com/r/FreeEBOOKS+KindleFreebies
                 https://www.reddit.com/r/Piracy/comments/oreyow/heres_the_definitive_list_of_sites_for_ebooks_and
                 https://www.reddit.com/r/suggestmeabook (a sub where you can find new books based on suggestions from the community)
-                https://pinboard.in/u:SharjeelSayed/t:course
-                https://pinboard.in/u:SharjeelSayed/t:ebooks
-                https://pinboard.in/u:SharjeelSayed/t:learn
                 https://www.goodreads.com/SharjeelSayed
 
             Hacker News Recommended Books:
