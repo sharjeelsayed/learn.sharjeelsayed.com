@@ -809,6 +809,7 @@ Contents:
                 https://github.com/topics/lamp?o=desc&s=stars
                 https://github.com/topics/linux?o=desc&s=stars
                 https://github.com/trimstray/the-practical-linux-hardening-guide
+                https://github.com/vm32/Linux-Incident-Response (practical toolkit for cybersecurity and IT professionals. It features a detailed Linux cheatsheet for incident response)
                 https://github.com/Xfennec/progress (Linux tool to show progress for cp, mv, dd, ... (formerly known as cv) )
                 https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools (A list of new(ish) command line tools)
                 https://linuxcommandlibrary.com
@@ -821,6 +822,7 @@ Contents:
                 https://tldr.sh (Simplified and community-driven man pages)
                 https://tuxurls.com
                 https://www.amazon.com/Best-Sellers-Books-Linux-Operating-System/zgbs/books/3849 (Best Sellers in Linux Operating System)
+                https://www.amazon.com/gp/bestsellers/books/285860 (Best Sellers in Linux Certification Guides)
                 https://www.brendangregg.com/linuxperf.html (Brendan Gregg's Linux Internals Maps)
                 https://www.digitalocean.com/community/tutorials?primary_filter=popular
                 https://www.reddit.com/r/linux/comments/gc1wmr/list_of_largest_linux_distro_subreddits
@@ -828,7 +830,6 @@ Contents:
                 https://www.reddit.com/r/linuxadmin/comments/2s924h/how_did_you_get_your_start/cnnw1ma
                 https://www.reddit.com/r/linuxadmin/comments/7cw116/favorite_posts_youve_bookmarked_or_saved
                 https://www.reddit.com/r/Ubuntu+linux+linuxadmin
-                https://github.com/vm32/Linux-Incident-Response (practical toolkit for cybersecurity and IT professionals. It features a detailed Linux cheatsheet for incident response)
 
             Books and Courses:
                 Linux Journey
@@ -846,11 +847,14 @@ Contents:
                 The Linux Command Line by William Shotts
                 https://linuxcommand.org/tlcl.php
 
-                RHCSA/RHCE Red Hat Linux Certification Study Guide, Seventh Edition (Exams EX200 & EX300)
-                https://www.amazon.com/RHCSA-Linux-Certification-Study-Seventh/dp/0071841962
+                RHCSA Red Hat Enterprise Linux 9 Certification Study Guide, Eighth Edition (Exam EX200) (RHCSA/RHCE Red Hat Enterprise Linux Certification Study Guide, 9) by Michael Jang and Alessandro Orsaria 8th Edition ((January 11, 2024))
+                https://www.amazon.com/RHCSA-Enterprise-Linux-Certification-Study/dp/1260462072
 
                 UNIX and Linux System Administration Handbook (5th Edition)
                 https://www.amazon.com/UNIX-Linux-System-Administration-Handbook/dp/0134277554
+
+                RHCSA Red Hat Enterprise Linux 9: Training and Exam Preparation Guide (EX200) by Asghar Ghori Third Edition (February 28, 2023)
+                https://www.amazon.com/RHCSA-Red-Hat-Enterprise-Linux-ebook/dp/B0BY53JYCP
 
             Additional Material:
                 Linux From Scratch!
@@ -965,14 +969,11 @@ Contents:
             Sources:
                 http://www.g-loaded.eu/2006/11/24/auto-closing-ssh-tunnels # Auto-closing SSH tunnels
                 https://github.com/jtesta/ssh-audit (SSH server & client security auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc))
-                https://github.com/moul/awesome-ssh
+                https://github.com/moul/awesome-ssh (💻 A curated list of SSH resources. )
                 https://github.com/opsdisk/the_cyber_plumbers_handbook (The definitive guide to Secure Shell (SSH) tunneling, port redirection, and bending traffic like a boss.)
                 https://github.com/topics/ssh?o=desc&s=stars
-                https://github.com/topics/tunnel?o=desc&s=stars
-                https://github.com/yarrick/iodine (tunnel IPv4 data through a DNS server)
                 https://goteleport.com/blog/security-hardening-ssh-bastion-best-practices (SSH Bastion Host Best Practices)
                 https://grahamhelton.com/blog/ssh-cheatsheet (An Excruciatingly Detailed Guide To SSH (But Only The Things I Actually Find Useful))
-                https://iq.thc.org/tunnel-via-cloudflare-to-any-tcp-service (Tunnel via Cloudflare to any TCP Service)
                 https://news.ycombinator.com/item?id=10726158 (Poor man's VPN via ssh socks proxy (redpill-linpro.com))
                 https://news.ycombinator.com/item?id=26053323 (	A visual guide to SSH tunnels (robotmoon.com))
                 https://news.ycombinator.com/item?id=32486031 (SSH tips and tricks (carlosbecker.dev))
@@ -982,7 +983,6 @@ Contents:
                 https://unix.stackexchange.com/a/2869/187607 (Download or Upload files using SSH)
 
             Tools:
-                https://github.com/anderspitman/awesome-tunneling (List of ngrok alternatives and other ngrok-like tunneling software and services. Focus on self-hosting)
                 https://github.com/elpy1/ssh-over-ssm (SSH over AWS SSM. No bastions or public-facing instances. SSH user management through IAM. No requirement to store SSH keys locally or on server.)
                 https://github.com/pgrok/pgrok (Poor man's ngrok - a multi-tenant HTTP reverse tunnel solution through SSH remote port forwarding )
                 https://github.com/sekey/sekey (Use Touch ID / Secure Enclave for SSH Authentication!)
@@ -2400,6 +2400,7 @@ Contents:
                 https://osxfuse.github.io (macFUSE allows you to extend macOS's native file handling capabilities via third-party file systems.)
                 https://privacy.sexy (Enforce privacy & security on Windows and macOS)
                 https://setapp.com (One-stop subscription to solving every task on Mac and iPhone.)
+                https://tunnelblick.net (free software for OpenVPN on macOS)
                 https://unsplash.com/apps (Unsplash Wallpapers)
                 https://www.bresink.com/osx/TinkerTool.html (TinkerTool is an application that gives you access to additional preference settings Apple has built into macOS.)
                 https://www.hammerspoon.Org/go/#pasteblock (Defeating paste blocking)
@@ -2872,6 +2873,7 @@ Contents:
                 https://github.com/ai-collection/ai-collection ( The Generative AI Landscape - A List of Awesome Generative AI Applications Topics)
                 https://github.com/dair-ai/ML-Papers-of-the-Week (🔥Highlighting the top ML papers every week.)
                 https://github.com/dair-ai/Prompt-Engineering-Guide (🐙 Guides, papers, lecture, notebooks and resources for prompt engineering )
+                https://github.com/eugeneyan/applied-ml (📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.)
                 https://github.com/eugeneyan/open-llms (🤖 A list of open LLMs available for commercial use.)
                 https://github.com/GoogleCloudPlatform/generative-ai (https://cloud.google.com/vertex-ai/docs/generative-ai/learn/overview Sample code and notebooks for Generative AI on Google Cloud)
                 https://github.com/humanloop/awesome-chatgpt (Curated list of awesome tools, demos, docs for ChatGPT and GPT-3 )
@@ -4656,23 +4658,32 @@ Contents:
         VPN:
             Sources:
                 https://anonymousplanet.org (The Hitchhiker's Guide to Online Anonymity)
-                https://github.com/fivefilters/block-ads
+                https://github.com/anderspitman/awesome-tunneling (List of ngrok alternatives and other ngrok-like tunneling software and services. Focus on self-hosting)
+                https://github.com/fivefilters/block-ads (https://blockads.fivefilters.org Web page to test ad blocking and encourage use of blockers. )
+                https://github.com/topics/tunnel?o=desc&s=stars
                 https://github.com/topics/vpn?o=desc&s=stars
+                https://github.com/topics/wireguard (wireguard public repositories)
                 https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=Ask%20HN%3Avpn&sort=byPopularity&type=story (Ask HN:vpn)
+                https://iq.thc.org/tunnel-via-cloudflare-to-any-tcp-service (Tunnel via Cloudflare to any TCP Service)
                 https://news.ycombinator.com/item?id=19242058 (Ask HN: What VPN service are you currently using?)
                 https://news.ycombinator.com/item?id=20783339 (Ask HN: What's the best setup for ad blocking and tracker blocking?)
                 https://nextdns.io (Block ads, trackers and malicious websites on all your devices)
                 https://restoreprivacy.com/5-eyes-9-eyes-14-eyes
-                https://restoreprivacy.com/best-vpn
-                https://thatoneprivacysite.net
-                https://torrentfreak.com/best-vpn-anonymous-no-logging
-                https://tunnelblick.net
-                https://www.expressrefer.com/refer-friend?referrer_id=39360476 (ExpressVPN 30 days free)
-                https://www.privacytools.io/providers/vpn
+                https://restoreprivacy.com/best-vpn (Best VPN Services)
+                https://thatoneprivacysite.net (10 Best VPN Services Security, Features + Speed)
+                https://torrentfreak.com/best-vpn-anonymous-no-logging (Which VPN Providers Really Take Privacy Seriously?)
+                https://tunnelblick.net (free software for OpenVPN on macOS)
+                https://www.privacytools.io/providers/vpn (Top 5: Best VPN for Internet Privacy & Security)
                 https://www.reddit.com/r/NetflixViaVPN/wiki (What is the best VPN to use for Netflix?)
                 https://www.reddit.com/r/NetflixViaVPN+VPN+vpncoupons+vpnreviews
-                https://www.sparklabs.com/viscosity
-                https://www.vpntierlist.com/vpn-tier-list
+                https://www.sparklabs.com/viscosity (A first class OpenVPN client that lets you secure your network with ease & style.)
+
+            VPN Tools:
+                https://getoutline.org (Outline makes it easy to create a VPN server, giving anyone access to the free and open internet.)
+                https://github.com/erebe/wstunnel (Tunnel all your traffic over websocket protocol - Bypass firewalls/DPI - Static binary available)
+                https://github.com/juanfont/headscale (An open source, self-hosted implementation of the Tailscale control server)
+                https://github.com/trailofbits/algo (https://blog.trailofbits.com/2016/12/12/meet-algo-the-vpn-that-works Set up a personal VPN in the cloud)
+                https://github.com/yarrick/iodine (tunnel IPv4 data through a DNS server)
 
             VPN Services: (Sorted by Alexa Rank)
                 https://nordvpn.com (2,025)
@@ -4754,11 +4765,11 @@ Contents:
                 https://www.reddit.com/r/EDC/comments/112h0rq/edc_starter_pack_an_arbitrary_list_of_gear_that (EDC Starter Pack: An Arbitrary List of Gear that Gets Recommended a Lot)
 
             Books:
-                Where There Is No Doctor: A Village Health Care Handbook, Revised Edition
+                Where There Is No Doctor: A Village Health Care Handbook by David Werner and Carol Thuman ,Revised Edition (January 1, 2022)
                 https://www.amazon.com/Where-There-No-Doctor-Handbook/dp/0942364155
 
-                The Survival Medicine Handbook: THE essential guide for when medical help is NOT on the way 3rd Edition
-                https://www.amazon.com/Survival-Medicine-Handbook-essential-medical/dp/0988872552
+                The Survival Medicine Handbook: The Essential Guide for When Help is NOT on the Way by Joseph Alton, M.D. and Amy Alton, A.R.N.P 4th Edition (August 24, 2021)
+                https://www.amazon.com/Survival-Medicine-Handbook-Essential-Guide-dp-0988872501/dp/0988872501
 
                 Bushcraft 101: A Field Guide to the Art of Wilderness Survival
                 https://www.amazon.com/Bushcraft-101-Field-Wilderness-Survival/dp/1440579776
