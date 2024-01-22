@@ -1011,6 +1011,7 @@ Contents:
         Windows:
             Sources:
                 https://github.com/Awesome-Windows/Awesome (💻 🎉 An awesome & curated list of best applications and tools for Windows.)
+                https://github.com/ChrisTitusTech/winutil (Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates)
                 https://github.com/massgravel/Microsoft-Activation-Scripts (https://massgrave.dev A Windows and Office activator using HWID / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.)
                 https://github.com/microsoft/PowerToys (Windows system utilities to maximize productivity)
                 https://github.com/topics/windows-10?o=desc&s=stars
@@ -1018,7 +1019,7 @@ Contents:
                 https://news.ycombinator.com/item?id=19698620 (Ask HN: How do you secure your Windows PC?)
                 https://www.amazon.com/Best-Sellers-Books-Windows-Operating-System/zgbs/books/10806619011 (Best Sellers in Windows Operating System)
                 https://www.reddit.com/r/sysadmin/comments/3z7qd9/practice_to_become_a_windows_sysadmin/cyjynxh
-                https://www.reddit.com/r/sysadmin/wiki/ms/resources
+                https://www.reddit.com/r/sysadmin/wiki/ms/resources (Resources for Learning Microsoft Windows, Office 365, Azure & Visual Studio)
                 https://pinboard.in/u:SharjeelSayed/t:windows
 
             Books and Courses:
@@ -1168,6 +1169,7 @@ Contents:
                 https://github.com/topics/kubernetes?o=desc&s=stars
                 https://goo.gl/Rywkpd (The Kubernetes Learning Resources List)
                 https://hackr.io/tutorials/learn-kubernetes (Kubernetes Tutorials and Courses)
+                https://journal.hexmos.com/kubernetes-ports-overview-covering-expose-nodeport-targetport (6 Kubernetes Ports: A Definitive Look - Expose, NodePort, TargetPort, & More)
                 https://kube.academy (Learn Kubernetes From Experts For Free. KubeAcademy from VMware)
                 https://kubenews.net (Kubernetes and Cloud Native Computing Foundation News Sources)
                 https://kubernetes.io/docs/concepts/security/security-checklist (Kubernetes Security Checklist)
@@ -1928,6 +1930,7 @@ Contents:
                 https://github.com/acaudwell/Gource (https://gource.io software version control visualization)
                 https://github.com/bigH/git-fuzzy (interactive `git` with the help of `fzf`)
                 https://github.com/dandavison/delta (A viewer for git and diff output)
+                https://github.com/earwig/git-repo-updater (A console script that allows you to easily update multiple git repositories at once)
                 https://github.com/extrawurst/gitui (Blazing 💥 fast terminal-ui for git written in rust 🦀)
                 https://github.com/gabrie30/ghorg (Quickly clone an entire org/users repositories into one directory - Supports GitHub, GitLab, Bitbucket, and more)
                 https://github.com/git-up/GitUp (The Git interface you've been missing all your life has finally arrived. http://gitup.co)
@@ -2305,6 +2308,11 @@ Contents:
             Books and Courses:
                 Professor Messer’s CompTIA 220-1001 and 220-1002 A+ Training Course
                 https://www.professormesser.com/free-a-plus-training/220-1001/220-1000-training-course
+
+            Flipper Zero
+                https://flipperzero.one (Multi-tool Device for Geeks)
+                https://github.com/DarkFlippers/unleashed-firmware (https://t.me/flipperzero_unofficial Flipper Zero Unleashed Firmware)
+                https://github.com/topics/flipper (Public repositories for Flipper)
 
         macOS:
             Sources:
@@ -2878,6 +2886,7 @@ Contents:
                 https://github.com/GoogleCloudPlatform/generative-ai (https://cloud.google.com/vertex-ai/docs/generative-ai/learn/overview Sample code and notebooks for Generative AI on Google Cloud)
                 https://github.com/humanloop/awesome-chatgpt (Curated list of awesome tools, demos, docs for ChatGPT and GPT-3 )
                 https://github.com/labmlai/annotated_deep_learning_paper_implementations ( 🧑‍🏫 60 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠 )
+                https://github.com/netease-youdao/QAnything (https://qanything.ai Question and Answer based on Anything.)
                 https://github.com/OpenMindClub/awesome-chatgpt (⚡ Everything about ChatGPT )
                 https://github.com/stas00/ml-engineering (Machine Learning Engineering Online Book https://stasosphere.com/machine-learning)
                 https://github.com/taranjeet/awesome-gpts (Collection of all the GPTs created by the community)
@@ -3366,6 +3375,7 @@ Contents:
                 https://github.com/Dakshshah96/Awesome-Startup-Credits (A Collection Of Awesome Companies Offering Free/Discounted Plans For Eligible Startups)
                 https://github.com/Dwmkerr/Hacker-Laws (Laws, Theories, Principles And Patterns That Developers Will Find Useful. #Hackerlaws )
                 https://github.com/gabiduarte/awesome-techleads (A selected list of content on technical leadership, with preference in content in Portuguese)
+                https://github.com/gregorojstersek/resources-to-become-a-great-engineering-leader (List of books, blogs, newsletters and people!)
                 https://github.com/jordan-cutler/path-to-senior-engineer-handbook (All the resources you need to get to Senior Engineer and beyond)
                 https://github.com/jorgef/engineeringladders (A framework for Engineering Managers)
                 https://github.com/Kuchin/Awesome-Cto (A Curated And Opinionated List Of Resources For Chief Technology Officers, With The Emphasis On Startups)
@@ -4036,6 +4046,7 @@ Contents:
                 https://app.diagrams.net (draw.io)
                 https://diagrams.mingrammer.com (Diagrams lets you draw the cloud system architecture in Python code)
                 https://github.com/excalidraw/excalidraw (https://excalidraw.com Virtual whiteboard for sketching hand-drawn like diagrams)
+                https://github.com/mingrammer/diagrams (https://diagrams.mingrammer.com Diagrams lets you draw the cloud system architecture in Python code.)
                 https://www.cloudcraft.co (Create smart AWS diagrams)
 
         Science:
