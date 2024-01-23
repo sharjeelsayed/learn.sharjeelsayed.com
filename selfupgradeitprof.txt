@@ -1937,12 +1937,12 @@ Contents:
                 https://github.com/github/hub (A command-line tool that makes git easier to use with GitHub.)
                 https://github.com/initialcommit-com/git-sim (Visually simulate Git operations in your own repos with a single terminal command.)
                 https://github.com/jesseduffield/lazygit (simple terminal UI for git commands)
+                https://github.com/jonas/tig (https://jonas.github.io/tig text-mode interface for Git)
                 https://github.com/LeCoupa/awesome-cheatsheets/blob/master/tools/git.sh
                 https://github.com/Legit-Labs/legitify (https://legitify.dev Detect and remediate misconfigurations and security risks across all your GitHub and GitLab assets)
                 https://github.com/martinvonz/jj (A Git-compatible DVCS that is both simple and powerful)
                 https://github.com/o2sh/onefetch (https://onefetch.dev Command-line Git information tool)
                 https://github.com/tpope/vim-fugitive (fugitive.vim: A Git wrapper so awesome, it should be illegal https://www.vim.org/scripts/script.php?script_id=2975)
-                https://jonas.github.io/tig (Tig: text-mode interface for Git)
                 https://www.sourcetreeapp.com (A free Git client for Windows and Mac )
                 https://www.sublimemerge.com (Git Client, done Sublime)
 
@@ -2938,10 +2938,12 @@ Contents:
                 Sources:
                     https://code.visualstudio.com/docs/sourcecontrol/github (Working with GitHub in VS Code)
                     https://datagubbe.se/vsc (Sane Visual Studio Code)
+                    https://github.blog/2024-01-22-10-unexpected-ways-to-use-github-copilot (10 unexpected ways to use GitHub Copilot)
                     https://github.com/topics/vscode?o=desc&s=stars
                     https://github.com/viatsko/awesome-vscode (https://viatsko.github.io/awesome-vscode 🎨 A curated list of delightful VS Code packages and resources.)
                     https://github.com/VSCodium/vscodium (binary releases of VS Code without MS branding/telemetry/licensing)
                     https://news.ycombinator.com/item?id=29278370 (Ask HN: What extensions/packs of VS Code are must for web/developers to install?)
+                    https://stackoverflow.com/questions/64395814/how-to-resolve-branch-conflicts-in-vscode-github-pull-requests-and-issues-extens/67378107#67378107 (How to resolve branch conflicts in VSCode GitHub Pull Requests and Issues extension?)
 
                 Configuration:
                     https://gist.github.com/hyperupcall/99e355405611be6c4e0a38b6e3e8aad0 (VSCode config to disable popular extensions' annoyances (telemetry, notifications, welcome pages, etc.))
