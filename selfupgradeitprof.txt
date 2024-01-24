@@ -264,7 +264,7 @@ Contents:
                 https://github.com/codecrafters-io/build-your-own-x (🤓 Build your own (insert technology here) )
                 https://github.com/CorentinTh/it-tools (https://it-tools.tech Collection of handy online tools for developers, with great UX.)
                 https://github.com/danistefanovic/build-your-own-x
-                https://github.com/EbookFoundation/free-programming-books (https://ebookfoundation.github.io/free-programming-books 📚 Freely available programming books )
+                https://github.com/EbookFoundation/free-programming-books (https://ebookfoundation.github.io/free-programming-books 📚 Freely available programming books)
                 https://github.com/facundoolano/software-papers (📚 A curated list of papers for Software Engineers)
                 https://github.com/hackclub/some-assembly-required (An approachable introduction to assembly.)
                 https://github.com/jwasham/coding-interview-university (A complete computer science study plan to become a software engineer.)
@@ -913,6 +913,7 @@ Contents:
                 https://github.com/onceupon/Bash-Oneliner (A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.)
                 https://github.com/phiresky/ripgrep-all/wiki/fzf-Integration (You can use rga interactively via fzf.)
                 https://github.com/pirate/bash-utils (A collection of hand-crafted bash scripts for various common tasks.)
+                https://github.com/pyenv/pyenv/wiki/MacOS-login-shell (Configure the terminal to run your shell as a login shell)
                 https://github.com/rothgar/awesome-tuis (List of projects that provide terminal user interfaces )
                 https://github.com/topics/bash?o=desc&s=stars
                 https://github.com/topics/cli?o=desc&s=stars (Command line interface)
@@ -2341,6 +2342,7 @@ Contents:
                 https://github.com/mathiasbynens/dotfiles (🔧 .files, including ~/.macos — sensible hacker defaults for macOS)
                 https://github.com/mRs-/Black-Friday-Deals (Black Friday Deals for macOS / iOS Software & Books)
                 https://github.com/nikitavoloboev/my-mac-os (List of applications and tools that make my macOS experience even more amazing)
+                https://github.com/pyenv/pyenv/wiki/MacOS-login-shell (Configure the terminal to run your shell as a login shell)
                 https://github.com/sb2nov/mac-setup (Installing Development environment on macOS)
                 https://github.com/serhii-londar/open-source-mac-os-apps (🚀 Awesome list of open source applications for macOS.)
                 https://github.com/sveinbjornt/Sloth (Mac app that shows all open files, directories, sockets, pipes and devices in use by all running processes. Nice GUI for lsof. https://sveinbjorn.org/sloth)
@@ -2947,11 +2949,13 @@ Contents:
 
                 Configuration:
                     https://gist.github.com/hyperupcall/99e355405611be6c4e0a38b6e3e8aad0 (VSCode config to disable popular extensions' annoyances (telemetry, notifications, welcome pages, etc.))
+                    https://github.com/lewagon/data-setup/issues/156#issuecomment-1004725676 (VS-code terminal pyenv: version `shims' not installed)
                     https://github.com/microsoft/vscode/issues/97931#issuecomment-629978991 (Allow to open a workspace without closing the current window #97931)
                     https://news.ycombinator.com/item?id=27231033 (Disable autocorrect in vscode)
                     https://stackoverflow.com/questions/29957456/change-default-terminal-app-in-visual-studio-code-on-mac (Change default terminal app in Visual Studio Code on Mac)
                     https://stackoverflow.com/questions/40336583/how-to-disable-preview-file-with-single-click-in-vs-code/46939860#46939860 (How to disable preview file with single click in VS Code)
                     https://stackoverflow.com/questions/41540781/is-there-a-way-in-vscode-to-only-zoom-in-on-the-editor/41684631#41684631 (Is there a way in vscode to only zoom in on the editor?)
+                    https://stackoverflow.com/questions/68295863/vscode-terminals-path-enviroment-variable-different-from-cmd/71503669#71503669 (VScode terminal's PATH enviroment variable different from cmd)
                     https://vscode.one/new-tab-vscode (How to Always Open Files in a New Tab - VSCode)
                     https://www.reddit.com/r/vscode/comments/8zbcb3/window_tabs/e2toon2 (Enable windows tabs in vscode)
 
@@ -3716,6 +3720,7 @@ Contents:
                 https://en.wikipedia.org/wiki/Pulitzer_Prize
                 https://en.wikipedia.org/wiki/Time%27s_List_of_the_100_Best_Novels
                 https://fivebooks.com (The best books on everything)
+                https://github.com/EbookFoundation/free-programming-books (https://ebookfoundation.github.io/free-programming-books 📚 Freely available programming books)
                 https://github.com/laxyapahuja/bunken (A chrome extension to download ebooks directly from Goodreads.)
                 https://news.ycombinator.com/item?id=13803787 (Ask HN: What books fundamentally changed the way you think about the world?)
                 https://news.ycombinator.com/item?id=14477851 (Ask HN: Books you wish you had read earlier?)
