@@ -829,6 +829,7 @@ Contents:
                 https://www.reddit.com/r/linux4noobs/wiki/resources
                 https://www.reddit.com/r/linuxadmin/comments/2s924h/how_did_you_get_your_start/cnnw1ma
                 https://www.reddit.com/r/linuxadmin/comments/7cw116/favorite_posts_youve_bookmarked_or_saved
+                https://www.reddit.com/r/linuxupskillchallenge (https://programming.dev/c/linuxupskillchallenge Daily lessons, support and discussion for those following the month-long "Linux Upskill Challenge" course material. Aimed at those who aspire to get Linux-related jobs in industry - junior Linux sysadmin, devops-related work and similar. This sub will remain open indefinitely to welcome new Linux users but If you can go to our Lemmy instance)
                 https://www.reddit.com/r/Ubuntu+linux+linuxadmin
 
             Books and Courses:
@@ -1246,6 +1247,7 @@ Contents:
                 https://github.com/ishantanu/awesome-kubectl-plugins (Curated list of kubectl plugins)
                 https://github.com/johanhaleby/kubetail (Bash script to tail Kubernetes logs from multiple pods at the same time)
                 https://github.com/kdash-rs/kdash (A simple and fast dashboard for Kubernetes)
+                https://github.com/kedacore/keda (https://keda.sh KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes)
                 https://github.com/komodorio/helm-dashboard (The missing UI for Helm - visualize your releases)
                 https://github.com/kubernetes-sigs/krew (https://krew.sigs.k8s.io 📦 Find and install kubectl plugins)
                 https://github.com/kubernetes/kops (https://kops.sigs.k8s.io kops will not only help you create, destroy, upgrade and maintain production-grade, highly available, Kubernetes cluster, but it will also provision the necessary cloud infrastructure.)
@@ -1583,6 +1585,7 @@ Contents:
                 https://azure.microsoft.com/en-us/get-started
                 https://docs.microsoft.com/en-us/learn/azure
                 https://docs.microsoft.com/en-us/learn/certifications
+                https://github.com/johnthebrit/CertificationMaterials (A collection of materials related to my certification videos https://onboardtoazure.com )
                 https://github.com/Kyuu-Ji/Awesome-Azure-Pentest (A collection of resources, tools and more for penetration testing and securing Microsofts cloud platform Azure.)
                 https://github.com/lukemurraynz/awesome-azure-architecture (A curated list of AWESOME blogs, videos, tutorials, code, tools & scripts, related to the design and implementation of solutions in Microsoft Azure)
                 https://www.examtopics.com/exams/microsoft
