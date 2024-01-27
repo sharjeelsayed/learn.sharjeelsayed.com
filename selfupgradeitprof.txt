@@ -246,6 +246,7 @@ Contents:
                 https://blog.codinghorror.com/recommended-reading-for-developers
                 https://blog.rutikwankhade.dev/github-repositories-every-aspiring-developer-should-check-out
                 https://codeconfessions.substack.com/p/gpu-computing (What Every Developer Should Know About GPU Computing)
+                https://codingchallenges.fyi (Helping you become a better software engineer through coding challenges that build real applications. https://github.com/CodingChallegesFYI/SharedSolutions Publicly shared solutions to Coding Challenges)
                 https://dev.to (DEV Community is a community of 1,236,140 amazing developers )
                 https://devdocs.io (DevDocs combines multiple API documentations in a fast, organized, and searchable interface. )
                 https://devtoolstips.org (154 DevTools Tips)
@@ -1477,7 +1478,7 @@ Contents:
 
             AWS Tools:
                 https://eksctl.io (eksctl - The official CLI for Amazon EKS)
-                https://github.com/AndrewGuenther/fck-nat (Feasible cost konfigurable NAT: An AWS NAT Instance AMI)
+                https://github.com/AndrewGuenther/fck-nat (https://fck-nat.dev Feasible cost konfigurable NAT: An AWS NAT Instance AMI)
                 https://github.com/aramalipoor/aws-cost-saver (A tiny CLI tool to help save costs in development environments when you're asleep and don't need them!)
                 https://github.com/aws-samples/hardeneks (Runs checks to see if an EKS cluster follows EKS Best Practices.)
                 https://github.com/bash-my-aws/bash-my-aws (Simple but powerful CLI commands for managing AWS resources)
@@ -1964,8 +1965,11 @@ Contents:
                 https://codewords.recurse.com/issues/two/git-from-the-inside-out (Git from the inside out)
                 https://git-scm.com/book/en/v2/Git-Internals-Plumbing-and-Porcelain (10.1 Git Internals - Plumbing and Porcelain)
                 https://github.com/pluralsight/git-internals-pdf/releases (PeepCode Git Internals PDF:A PDF by Scott Chacon about how the Git source code control system stores files and revisions.)
+                https://jvns.ca/blog/2024/01/26/inside-git (Inside .git)
+                https://maryrosecook.com/blog/post/git-from-the-inside-out (Git from the inside out by Mary Rose Cook)
                 https://nfarina.com/post/9868516270/git-is-simpler (Git Is Simpler Than You Think)
                 https://shalithasuranga.medium.com/how-does-git-work-internally-7c36dcb1f2cf (How does git work internally)
+                https://shop.jcoglan.com/building-git (Building Git by James Coglan)
 
                 Git from the Bottom Up
                 https://jwiegley.github.io/git-from-the-bottom-up
@@ -2927,6 +2931,7 @@ Contents:
                 https://blog.floydhub.com/best-deep-learning-courses-updated-for-2019
                 https://course.fast.ai (Practical Deep Learning for Coders)
                 https://fleuret.org/dlc (François Fleuret's deep-learning courses 14x050 of the University of Geneva, Switzerland)
+                https://github.com/dair-ai/ML-YouTube-Courses (📺 Discover the latest machine learning / AI courses on YouTube.)
                 https://github.com/ethen8181/machine-learning (🌎 machine learning tutorials (mainly in Python3))
                 https://github.com/mlabonne/llm-course (https://mlabonne.github.io/blog Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.)
                 https://github.com/SkalskiP/courses (This repository is a curated collection of links to various courses and resources about Artificial Intelligence (AI))
@@ -2941,6 +2946,7 @@ Contents:
 
             Visual Studio Code:
                 Sources:
+                    https://code.visualstudio.com/docs/getstarted/tips-and-tricks (Visual Studio Code Tips and Tricks)
                     https://code.visualstudio.com/docs/sourcecontrol/github (Working with GitHub in VS Code)
                     https://datagubbe.se/vsc (Sane Visual Studio Code)
                     https://github.blog/2024-01-22-10-unexpected-ways-to-use-github-copilot (10 unexpected ways to use GitHub Copilot)
@@ -2956,8 +2962,10 @@ Contents:
                     https://github.com/microsoft/vscode/issues/97931#issuecomment-629978991 (Allow to open a workspace without closing the current window #97931)
                     https://news.ycombinator.com/item?id=27231033 (Disable autocorrect in vscode)
                     https://stackoverflow.com/questions/29957456/change-default-terminal-app-in-visual-studio-code-on-mac (Change default terminal app in Visual Studio Code on Mac)
+                    https://stackoverflow.com/questions/34719129/visual-studio-code-push-automatically/47962330#47962330 (Visual Studio Code push automatically)
                     https://stackoverflow.com/questions/40336583/how-to-disable-preview-file-with-single-click-in-vs-code/46939860#46939860 (How to disable preview file with single click in VS Code)
                     https://stackoverflow.com/questions/41540781/is-there-a-way-in-vscode-to-only-zoom-in-on-the-editor/41684631#41684631 (Is there a way in vscode to only zoom in on the editor?)
+                    https://stackoverflow.com/questions/46600136/how-to-do-a-git-fetch-in-vscode/46710423#46710423 (How to do a git fetch in vscode?)
                     https://stackoverflow.com/questions/68295863/vscode-terminals-path-enviroment-variable-different-from-cmd/71503669#71503669 (VScode terminal's PATH enviroment variable different from cmd)
                     https://vscode.one/new-tab-vscode (How to Always Open Files in a New Tab - VSCode)
                     https://www.reddit.com/r/vscode/comments/8zbcb3/window_tabs/e2toon2 (Enable windows tabs in vscode)
@@ -3224,6 +3232,7 @@ Contents:
                 https://github.com/randallkanna/awesome-job-list (A list of the best places to job hunt. I've been curating this for the past 7 years.)
                 https://github.com/ReaVNaiL/New-Grad-2024 (👋 Hey there new grad🎉! We've put together a collection of full-time job openings for SWE, Quant, PM and tech roles in 2024! 🚀 )
                 https://github.com/SimplifyJobs/New-Grad-Positions (A collection of New Grad full time roles in SWE, Quant, and PM.)
+                https://github.com/SimplifyJobs/Summer2024-Internships (https://swelist.com Collection of Summer 2024 tech internships!)
                 https://hn.algolia.com/?dateRange=pastYear&page=0&prefix=false&query=Ask%20HN%3A%20Who%20is%20hiring%3F&sort=byPopularity&type=story (Ask HN: Who is hiring?)
                 https://llcattorney.com/business-info/us-companies-salaries-vs-revenue (How Long It Takes the Largest Companies in America to Make One Employee's Average Annual Salary)
                 https://news.ycombinator.com/item?id=14686745 (Ask HN: What are some of the best job boards you have seen (any industry)?)
@@ -3456,6 +3465,7 @@ Contents:
                 https://www.amazon.Com/Gp/Bestsellers/Books/2569 (Amazon Best Sellers In Time Management)
                 https://www.indiehackers.Com
                 https://www.reddit.Com/r/cscareerquestions/comments/6fnujy/Soft_skills_for_programmers
+                https://www.reddit.com/r/Upwork/comments/1abmodx/some_2024_cheat_sheets (Cheat Sheets)
                 https://www.scu.edu/ethics/focus-areas/business-ethics/resources/seven-signs-of-ethical-collapse (Seven Signs of Ethical Collapse)
                 https://www.themarginalian.org/2014/01/03/baloney-detection-kit-carl-sagan (Baloney Detection Kit: Carl Sagan's Rules for Bullshit-Busting and Critical Thinking)
                 https://youtu.be/NViqHCrljf8 (The Briefcase Technique by Ramit Sethi .Money Negotiation technique)
@@ -4966,6 +4976,7 @@ Contents:
         https://github.com/btw-so/open-source-alternatives (List of open-source alternatives to everyday SaaS products.)
         https://github.com/chubin/awesome-console-services (A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols))
         https://github.com/girliemac/a-picture-is-worth-a-1000-words (I am trying to describe complex matters in simple doodles!)
+        https://github.com/goenning/google-indexing-script (https://seogets.com/blog/google-indexing-script Google Indexing Script)
         https://github.com/gothinkster/realworld ("The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more)
         https://github.com/greybax/awesome-IT-films (📺 A curated list of awesome films about IT & geek people.)
         https://github.com/iptv-org/iptv (Collection of publicly available IPTV channels from all over the world)
@@ -4980,6 +4991,7 @@ Contents:
         https://github.com/topics/awesome (Awesome Lists)
         https://github.com/topics/dotfiles?o=desc&s=stars
         https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday (Awesome deals on Black Friday: Apps, SaaS, Books, Courses, etc.)
+        https://github.com/zed-industries/zed (https://zed.dev Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter)
         https://hackerspaces.org (Hackerspaces are community-operated physical places, where people share their interest in tinkering with technology, meet and work on their projects, and learn from each other)
         https://indie.deals (Early launch deals on products made by Indie Makers)
         https://learn-anything.xyz
