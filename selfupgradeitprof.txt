@@ -814,6 +814,7 @@ Contents:
                 https://github.com/Xfennec/progress (Linux tool to show progress for cp, mv, dd, ... (formerly known as cv) )
                 https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools (A list of new(ish) command line tools)
                 https://linuxcommandlibrary.com
+                https://lpc.events (The Linux Plumbers Conference is the premier event for developers working at all levels of the plumbing layer and beyond)
                 https://news.ycombinator.com/item?id=22564665 (Linux Kernel Teaching (linux-kernel-labs.github.io))
                 https://news.ycombinator.com/item?id=24027366 (	Low latency tuning guide)
                 https://news.ycombinator.com/item?id=26053323 (	A visual guide to SSH tunnels (robotmoon.com))
@@ -2710,11 +2711,12 @@ Contents:
                 Beej's Guide to C Programming
                 https://beej.us/guide/bgc/html/split/index.html
 
-        C++
+        C++:
             Sources:
                 https://github.com/fffaraz/awesome-cpp ( A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.)
                 https://www.amazon.com/gp/bestsellers/books/9045760011 (Best Sellers in C++ Programming Language)
                 https://www.reddit.com/r/learnprogramming/comments/12eaf35/course_like_cs50_to_learn_c (Course like CS50 to learn C++ (self.learnprogramming))
+                https://github.com/federico-busato/Modern-CPP-Programming (Modern C++ Programming Course (C++11/14/17/20/23) )
 
             Books and Courses:
                 Learn C++
@@ -2751,17 +2753,18 @@ Contents:
 
         Web Development:
             Sources:
-                https://digitaldefynd.com/best-free-web-development-courses-tutorials-certification
-                https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer
-                https://github.com/codeSTACKr/free-developer-resources
-                https://github.com/dypsilon/frontend-dev-bookmarks
+                https://digitaldefynd.com/best-free-web-development-courses-tutorials-certification (20 Best Free Web Development Course & Certification [2024 January][UPDATED])
+                https://github.com/Ayushparikh-code/Web-dev-mini-projects (The repository contains the list of awesome✨ & cool web development beginner-friendly✌️ projects!)
+                https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer (Free resources for learning Full Stack Web Development)
+                https://github.com/codeSTACKr/free-developer-resources (https://www.youtube.com/codeSTACKr Free Developer Resources )
+                https://github.com/dypsilon/frontend-dev-bookmarks (Manually curated collection of resources for frontend web developers.)
                 https://github.com/h5bp/Front-end-Developer-Interview-Questions (A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.)
-                https://github.com/lauragift21/awesome-learning-resources
+                https://github.com/lauragift21/awesome-learning-resources (🔥 Awesome list of resources on Web Development. )
                 https://github.com/loettz/interview-process-survival (🌈 🦄 this repository is a interview process guide for developers (web/frontend focused))
-                https://github.com/markodenic/web-development-resources
+                https://github.com/markodenic/web-development-resources (https://web-dev-resources.com Awesome Web Development Resources.)
                 https://github.com/microsoft/Web-Dev-For-Beginners (24 Lessons, 12 Weeks, Get Started as a Web Developer https://microsoft.github.io/Web-Dev-For-Beginners)
                 https://github.com/sadanandpai/frontend-learning-kit (Frontend tech guide and curated collection of frontend materials)
-                https://github.com/thedaviddias/Front-End-Performance-Checklist
+                https://github.com/thedaviddias/Front-End-Performance-Checklist (🎮 The only Front-End Performance Checklist that runs faster than the others )
                 https://github.com/topics/front-end?o=desc&s=stars
                 https://github.com/topics/frontend?o=desc&s=stars
                 https://github.com/topics/webdevelopment?o=desc&s=stars
@@ -2888,6 +2891,7 @@ Contents:
                 https://fleuret.org/public/lbdl.pdf (The Little Book of Deep Learning by François Fleuret)
                 https://github.com/ai-boost/Awesome-GPTs (Curated list of awesome GPTs 👍.)
                 https://github.com/ai-collection/ai-collection ( The Generative AI Landscape - A List of Awesome Generative AI Applications Topics)
+                https://github.com/continuedev/continue (https://continue.dev ⏩ Continue is an open-source autopilot for VS Code and JetBrains—the easiest way to code with any LLM)
                 https://github.com/dair-ai/ML-Papers-of-the-Week (🔥Highlighting the top ML papers every week.)
                 https://github.com/dair-ai/Prompt-Engineering-Guide (🐙 Guides, papers, lecture, notebooks and resources for prompt engineering )
                 https://github.com/eugeneyan/applied-ml (📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.)
@@ -2906,6 +2910,7 @@ Contents:
                 https://news.ycombinator.com/item?id=34312248 (Ask HN: What are the foundational texts for learning about AI/ML/NN?)
                 https://news.ycombinator.com/item?id=38638373 (Ask HN: Daily practices for building AI/ML skills?)
                 https://osanseviero.github.io/hackerllama/blog/posts/random_transformer (The Random Transformer Understand how transformers work by demystifying all the math behind them)
+                https://sourcegraph.com/cody (Cody is a coding AI assistant that uses AI and a deep understanding of your codebase to help you write and understand code faster.)
                 https://work.caltech.edu/telecourse (Learning From Data by Caltech's Professor Yaser Abu-Mostafa.)
                 https://www.amazon.com/Artificial-Intelligence-A-Modern-Approach-dp-0134610997/dp/0134610997 (Artificial Intelligence: A Modern Approach (Pearson Series in Artifical Intelligence) 4th Edition by Stuart Russell and Peter Norvig)
                 https://www.amazon.com/Elements-Statistical-Learning-Prediction-Statistics/dp/0387848576 (https://hastie.su.domains/Papers/ESLII.pdf The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition (Springer Series in Statistics) 2nd Edition by Trevor Hastie , Robert Tibshirani , Jerome Friedman)
@@ -2942,6 +2947,8 @@ Contents:
         IDE:
             Sources:
                 https://editorconfig.org (EditorConfig helps maintain consistent coding styles for multiple developers working on the same project across various editors and IDEs.)
+                https://github.com/continuedev/continue (https://continue.dev ⏩ Continue is an open-source autopilot for VS Code and JetBrains—the easiest way to code with any LLM)
+                https://sourcegraph.com/cody (Cody is a coding AI assistant that uses AI and a deep understanding of your codebase to help you write and understand code faster.)
                 https://www.codingfont.com (Gamified experience to help you find your true love of coding fonts!)
 
             Visual Studio Code:
@@ -3618,6 +3625,7 @@ Contents:
         Sources:
             https://80000hours.org/career-guide/how-to-be-successful
             https://alexvermeer.com/8760hours (8,760 Hours: How to get the most out of next year)
+            https://apps.ankiweb.net (Powerful, intelligent flash cards)
             https://collegeinfogeek.com/spaced-repetition-memory-technique
             https://en.wikipedia.org/wiki/52/17_rule (52/17 rule)
             https://en.wikipedia.org/wiki/Pomodoro_Technique (Pomodoro Technique)
@@ -4965,6 +4973,7 @@ Contents:
         https://awesome.digitalbunker.dev (Click to explore one of the awesome lists below)
         https://cheatography.com (Over 5,000 Free Cheat Sheets, Revision Aids and Quick References!)
         https://command-not-found.com (Install any command on any operating system and in Docker)
+        https://curlconverter.com (Convert curl commands to Python, JavaScript and more)
         https://drawabox.com (Drawabox is a set of free exercise-based lessons that focus on the fundamentals of drawing)
         https://en.wikipedia.org/wiki/List_of_common_misconceptions (Wikipedia: List of common misconceptions)
         https://en.wikipedia.org/wiki/List_of_lists_of_lists
