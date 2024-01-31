@@ -516,6 +516,7 @@ Contents:
         Networking:
             Sources:
                 https://beej.us/guide/bgnet (Beej's Guide to Network Programming Using Internet Sockets)
+                https://beej.us/guide/bgnet0 (Beej's Guide to Networking Concepts)
                 https://github.com/gchq/CyberChef (The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis)
                 https://github.com/kffl/speedbump (TCP proxy for simulating variable, yet predictable network latency 🌐⏳)
                 https://github.com/leandromoreira/linux-network-performance-parameters (Learn where some of the network sysctl variables fit into the Linux/Kernel network flow. Translations: 🇷🇺 )
@@ -1251,6 +1252,7 @@ Contents:
                 https://github.com/kdash-rs/kdash (A simple and fast dashboard for Kubernetes)
                 https://github.com/kedacore/keda (https://keda.sh KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes)
                 https://github.com/komodorio/helm-dashboard (The missing UI for Helm - visualize your releases)
+                https://github.com/kubecost (https://www.kubecost.com Kubecost is a monitoring application which provides real-time cost visibility and insights for teams using Kubernetes, helping you continuously reduce your cloud costs)
                 https://github.com/kubernetes-sigs/krew (https://krew.sigs.k8s.io 📦 Find and install kubectl plugins)
                 https://github.com/kubernetes/kops (https://kops.sigs.k8s.io kops will not only help you create, destroy, upgrade and maintain production-grade, highly available, Kubernetes cluster, but it will also provision the necessary cloud infrastructure.)
                 https://github.com/kubeshark/kubeshark (The API traffic viewer for Kubernetes providing deep visibility into all API traffic and payloads going in, out and across containers and pods inside a Kubernetes cluster. Think TCPDump and Wireshark re-invented for Kubernetes)
@@ -1967,7 +1969,7 @@ Contents:
                 https://git-scm.com/book/en/v2/Git-Internals-Plumbing-and-Porcelain (10.1 Git Internals - Plumbing and Porcelain)
                 https://github.com/pluralsight/git-internals-pdf/releases (PeepCode Git Internals PDF:A PDF by Scott Chacon about how the Git source code control system stores files and revisions.)
                 https://jvns.ca/blog/2024/01/26/inside-git (Inside .git)
-                https://maryrosecook.com/blog/post/git-from-the-inside-out (Git from the inside out by Mary Rose Cook)
+                https://maryrosecook.com/blog/post/git-from-the-inside-out (https://youtu.be/fCtZWGhQBvo?si=i2j7W4OzM3DLpJze Git from the inside out by Mary Rose Cook)
                 https://nfarina.com/post/9868516270/git-is-simpler (Git Is Simpler Than You Think)
                 https://shalithasuranga.medium.com/how-does-git-work-internally-7c36dcb1f2cf (How does git work internally)
                 https://shop.jcoglan.com/building-git (Building Git by James Coglan)
