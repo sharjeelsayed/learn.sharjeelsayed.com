@@ -473,6 +473,7 @@ Contents:
                 https://news.ycombinator.com/item?id=23711942 (Ask HN: Recommend a maths book for a teenager?)
                 https://www.3blue1brown.com (Animated math)
                 https://www.3blue1brown.com/topics/calculus (Calculus : Visual introductions to the core ideas of derivatives, integrals, limits and more)
+                https://www.amazon.com/G%C3%B6del-Escher-Bach-Eternal-Golden/dp/0465026567 (Gödel, Escher, Bach: An Eternal Golden Braid by Douglas R. Hofstadter)
                 https://www.reddit.com/r/learnprogramming/comments/70rh9q/is_there_a_cs50_for_math
                 https://www.susanrigetti.com/math (So You Want to Study Mathematics)
                 https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw (3Blue1Brown Channel)
@@ -1076,6 +1077,7 @@ Contents:
                 https://github.com/magicmark/composerize (Turns docker run commands into docker-compose files!)
                 https://github.com/myugan/awesome-docker-security (A curated list of awesome Docker security resources)
                 https://github.com/p8952/bocker (Docker implemented in around 100 lines of bash)
+                https://github.com/containerd/containerd (https://containerd.io An open and reliable container runtime)
                 https://github.com/quay/clair (Vulnerability Static Analysis for Containers)
                 https://github.com/tiangolo/dockerswarm.rocks
                 https://github.com/topics/docker?o=desc&s=stars
@@ -2803,6 +2805,7 @@ Contents:
                 https://github.com/ryanmcdermott/clean-code-javascript (Clean Code concepts adapted for JavaScript)
                 https://github.com/sorrycc/awesome-javascript
                 https://github.com/sudheerj/javascript-interview-questions (List of 1000 JavaScript Interview Questions)
+                https://github.com/sudheerj/reactjs-interview-questions (List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!)
                 https://github.com/topics/javascript?o=desc&s=stars
                 https://github.com/trekhleb/javascript-algorithms (📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings)
                 https://hackr.io/tutorials/learn-javascript
@@ -2898,6 +2901,7 @@ Contents:
                 https://github.com/dair-ai/Prompt-Engineering-Guide (🐙 Guides, papers, lecture, notebooks and resources for prompt engineering )
                 https://github.com/eugeneyan/applied-ml (📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.)
                 https://github.com/eugeneyan/open-llms (🤖 A list of open LLMs available for commercial use.)
+                https://github.com/f/awesome-chatgpt-prompts (https://prompts.chat This repo includes ChatGPT prompt curation to use ChatGPT better.)
                 https://github.com/GoogleCloudPlatform/generative-ai (https://cloud.google.com/vertex-ai/docs/generative-ai/learn/overview Sample code and notebooks for Generative AI on Google Cloud)
                 https://github.com/humanloop/awesome-chatgpt (Curated list of awesome tools, demos, docs for ChatGPT and GPT-3 )
                 https://github.com/labmlai/annotated_deep_learning_paper_implementations ( 🧑‍🏫 60 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠 )
@@ -2917,6 +2921,7 @@ Contents:
                 https://www.amazon.com/Artificial-Intelligence-A-Modern-Approach-dp-0134610997/dp/0134610997 (Artificial Intelligence: A Modern Approach (Pearson Series in Artifical Intelligence) 4th Edition by Stuart Russell and Peter Norvig)
                 https://www.amazon.com/Elements-Statistical-Learning-Prediction-Statistics/dp/0387848576 (https://hastie.su.domains/Papers/ESLII.pdf The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition (Springer Series in Statistics) 2nd Edition by Trevor Hastie , Robert Tibshirani , Jerome Friedman)
                 https://www.deeplearningbook.org (Deep Learning (Adaptive Computation and Machine Learning series) by Ian Goodfellow and Yoshua Bengio and Aaron Courville https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618)
+                https://www.manning.com/books/build-a-large-language-model-from-scratch (Build a Large Language Model (From Scratch) by Sebastian Raschk https://github.com/rasbt/LLMs-from-scratch)
 
             Books and Courses:
                 Machine Learning by Andrew Ng
@@ -3143,6 +3148,7 @@ Contents:
                 https://github.com/h5bp/Front-end-Developer-Interview-Questions (A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.)
                 https://github.com/loettz/interview-process-survival (🌈 🦄 this repository is a interview process guide for developers (web/frontend focused))
                 https://github.com/sudheerj/javascript-interview-questions (List of 1000 JavaScript Interview Questions)
+                https://github.com/sudheerj/reactjs-interview-questions (List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!)
                 https://github.com/yangshun/front-end-interview-handbook (⚡️ Front End interview preparation materials for busy engineers https://www.frontendinterviewhandbook.com)
 
                 Security Interview Questions:
@@ -3646,6 +3652,7 @@ Contents:
             https://github.com/laurent22/joplin (https://joplinapp.org Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.)
             https://github.com/logseq/logseq (https://logseq.com A privacy-first, open-source platform for knowledge management and collaboration)
             https://obsidian.md (Obsidian – A knowledge base that works on local Markdown files.)
+            https://obsidian.md/blog/2023-goty-winners (2023 Gems of the year winners)
 
         Productivity Tools:
             Sources:
@@ -4906,6 +4913,7 @@ Contents:
                 https://www.seikowatches.com/in-en/products/5sports/srpd59 (Seiko 5 SRPD59 SKX Sports Style )
                 https://www.seikowatches.com/instructions/html/SEIKO_4R35_4R36_4R37_4R38_4R39_4R71_4R72_EN/index (Seiko 5 Instructions Manual)
                 https://www.statista.com/statistics/789382/leading-luxury-watch-brands-sales (Sales revenue of the leading luxury watch brands worldwide in 2022)
+                https://www.tudorwatch.com/en/watches/black-bay-gmt/m79830rb-0001 (Tudor Black Bay GMT)
                 https://youtu.be/-1PvBADfQ0s (Top 20 Swiss Watch Brands According To Statistics - Watch Market Update 2023 by Teddy Baldassarre)
                 https://youtu.be/f82nPwGgUDE?si=mqdLLSPyN2qgNgtB (Our Most Worn Watches Of The Year (Over 30 Channels Mentioned))
                 https://youtu.be/fMncXiA-AuE (Tachymeter Explained! (5 examples) by Erik Ternsjö)
