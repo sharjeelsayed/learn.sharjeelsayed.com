@@ -258,6 +258,7 @@ Contents:
                 https://github.com/30-seconds/30-seconds-of-code (https://www.30secondsofcode.org Short code snippets for all your development needs)
                 https://github.com/aceking007/100ProjectsOfCode (A list of practical knowledge-building projects. )
                 https://github.com/AlgoryL/Projects-from-Scratch (A curated list for projects building from scratch.)
+                https://github.com/backstage/backstage (https://backstage.io Backstage is an open platform for building developer portals)
                 https://github.com/bnb/awesome-developer-streams (👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻 Awesome Developers, Streaming )
                 https://github.com/braydie/HowToBeAProgrammer (A guide on how to be a Programmer - originally published by Robert L Read https://braydie.gitbooks.io/how-to-be-a-programmer/content)
                 https://github.com/charlax/engineering-management (A collection of inspiring resources related to engineering management and tech leadership)
@@ -330,7 +331,7 @@ Contents:
                 https://softwareengineeringdaily.com
                 https://survey.stackoverflow.co/2023 (Stackoverflow 2023 Developer Survey)
                 https://www.discoverdev.io (Discover dev brings you a daily digest of the best engineering blogs from across the web! Handpicked by AI and a network of globally distributed nerds!)
-                https://www.jetbrains.com/lp/devecosystem-2021 (The State of Developer Ecosystem 2021)
+                https://www.jetbrains.com/lp/devecosystem-2023 (The State of Developer Ecosystem 2023)
                 https://www.microsoft.com/en-us/research/blog/category/podcast
                 https://www.reddit.com/r/compsci+cscareerquestions+learnprogramming+programming
                 https://www.reddit.com/r/cscareerquestions/comments/6hmlxr/what_are_the_most_indemand_software_skills_right/dizqiie
@@ -1208,7 +1209,7 @@ Contents:
                 https://www.flatcar.org (A community Linux distribution designed for container workloads, with high security and low maintenance)
                 https://www.learncloudnative.com/blog/2022-05-10-kubectl-tips (Kubernetes CLI (kubectl) tips you didn't know about)
                 https://www.linode.com/content/kubernetes-guide (Understanding Kubernetes A Guide to Modernizing Your Cloud Infrastructure)
-                https://www.nsa.gov/Press-Room/News-Highlights/Article/Article/2716980/nsa-cisa-release-kubernetes-hardening-guidance/utm_source/nsa-cisa-release-kubernetes-hardening-guidance (NSA, CISA release Kubernetes Hardening Guidance)
+                https://www.nsa.gov/Press-Room/News-Highlights/Article/Article/2716980/nsa-cisa-release-kubernetes-hardening-guidance (NSA, CISA release Kubernetes Hardening Guidance)
                 https://www.reddit.com/r/kubernetes/comments/1849egq/must_have_kubernetes_cluster_addons (Must have Kubernetes cluster addons?)
                 https://www.reddit.com/r/kubernetes/comments/mwpj1q/how_did_you_really_master_kubernetes
                 https://www.reddit.com/r/kubernetes/comments/xauuxk/what_are_some_useful_kubernetes_tools_you_can (What are some useful Kubernetes tools you can share?)
@@ -2957,6 +2958,7 @@ Contents:
                 https://github.com/mlabonne/llm-course (https://mlabonne.github.io/blog Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.)
                 https://github.com/SkalskiP/courses (This repository is a curated collection of links to various courses and resources about Artificial Intelligence (AI))
                 https://karpathy.ai/zero-to-hero.html (A course by Andrej Karpathy on building neural networks, from scratch, in code)
+                https://www.cloudskillsboost.google/paths/118 (Introduction to Generative AI Learning Path)
                 https://www.deeplearning.ai/courses/generative-ai-for-everyone (Generative AI for Everyone Instructed by Andrew Ng)
                 https://www.youtube.com/playlist?app=desktop&list=PLoROMvodv4rNyWOpJg_Yh4NSqI4Z4vOYy (Stanford CS229: Machine Learning I Spring 2022)
 
@@ -3655,6 +3657,7 @@ Contents:
             https://news.ycombinator.com/item?id=23596471 (Ask HN: How do you take notes when reading a book?)
             https://news.ycombinator.com/item?id=28482726 (	Ask HN: How Do You Learn?)
             https://news.ycombinator.com/item?id=30473322 (Ask HN: Any scientifically proven techniques to boost concentration?)
+            https://oneminutefocus.com (Studies in brain science (neuroscience) has shown that focusing visually actually can help our brain focus on a task (Dr. Andrew Huberman))
             https://www.comptia.org/testing/online-testing-interest-form
             https://www.coursera.org/learn/learning-how-to-learn
 
@@ -4909,7 +4912,6 @@ Contents:
                 https://www.amazon.com/Best-Sellers-Clothing-Shoes-Jewelry-Watch-Repair-Tools-Kits/zgbs/fashion/378531011 (Best Sellers in Watch Repair Tools & Kits)
                 https://www.amazon.in/gp/bestsellers/watches/1375490031 (Bestsellers in Watch Boxes)
                 https://www.chrono24.com/chronopulse.htm (ChronoPulse – Market Performance)
-                https://www.chrono24.in (The World's Leading Watch Market)
                 https://www.hodinkee.com/articles/think-you-can-name-every-single-watch-thats-ever-gone-to-space (Interview Think You Can Name Every Single Watch That's Ever Gone To Space? There are 1,899 of them. Meet the man that's cataloging them all in one database.)
                 https://www.looria.com/reddit/Watches/products (Most discussed products on r/Watches)
                 https://www.reddit.com/r/rolex/wiki (The official r/rolex FAQ)
