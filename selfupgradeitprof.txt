@@ -116,6 +116,7 @@ Contents:
         Games
         Chess
         Weather
+        Movies, TV and Documentaries
         Watch
         Stuff Worth Paid Subscription
 
@@ -4883,6 +4884,29 @@ Contents:
                 https://www.tomorrow.io (132,752)
                 https://www.aerisweather.com (482.092)
 
+        Movies, TV and Documentaries:
+            Sources:
+                http://www.bbc.com/culture/story/20181029-the-100-greatest-foreign-language-films
+                https://criticstop10.com
+                https://editorial.rottentomatoes.com/guide/rt25-critics-top-tv-shows-of-the-last-25-years-2 (RT25: Critics’ Top TV Shows of the Last 25 Years)
+                https://editorial.rottentomatoes.com/guide/rt25-critics-top-tv-shows-of-the-last-25-years-2/ (RT25: Critics’ Top TV Shows of the Last 25 Years)
+                https://en.wikipedia.org/wiki/AFI%27s_100_Years...100_Movies_(10th_Anniversary_Edition)
+                https://en.wikipedia.org/wiki/List_of_films_considered_the_best
+                https://github.com/greybax/awesome-IT-films (https://alfilatov.com/awesome-IT-films A curated list of awesome films about IT & geek people.)
+                https://github.com/iptv-org/iptv (Collection of publicly available IPTV channels from all over the world)
+                https://news.ycombinator.com/item?id=16105040 (Ask HN: Great science fiction movies?)
+                https://news.ycombinator.com/item?id=24088582 (Ask HN: Films that made you see the world differently?)
+                https://news.ycombinator.com/item?id=29106967 (Ask HN: What are some technically inspiring movies, TV shows or documentaries?)
+                https://news.ycombinator.com/item?id=32799789 (Ask HN: What are some of the best documentaries you've seen?)
+                https://www.bbc.com/culture/article/20211015-the-100-greatest-tv-series-of-the-21st-century
+                https://www.businessinsider.in/The-100-best-crime-movies-of-all-time-according-to-critics/articleshow/65875039.cms
+                https://www.indiewire.com/gallery/martin-scorsese-favorite-films-movies/the-haunting-1963-6
+                https://www.nytimes.com/2020/12/03/movies/best-movies.html
+                https://www.rottentomatoes.com/top/bestofrt
+                https://www.theguardian.com/film/2019/sep/13/100-best-films-movies-of-the-21st-century
+                https://www.theguardian.com/tv-and-radio/2019/sep/16/100-best-tv-shows-of-the-21st-century
+                https://www.wondersofphysics.com/2020/04/best-physics-movies.html
+
         Watch:
             Sources:
                 https://ciechanow.ski/mechanical-watch (Mechanical Watch)
@@ -4902,6 +4926,7 @@ Contents:
                 https://en.wikipedia.org/wiki/Spring_Drive (Spring Drive)
                 https://en.wikipedia.org/wiki/TAG_Heuer_Monaco (TAG Heuer Monaco)
                 https://en.wikipedia.org/wiki/Tourbillon (Tourbillon)
+                https://en.wikipedia.org/wiki/Tudor_Watches (Tudor Watches)
                 https://iflwatches.com/blogs/news/top-swiss-watch-brands-2022-a-report-by-morgan-stanley (Top Swiss Watch Brands 2022 - A Report By Morgan Stanley)
                 https://instagram.com/superwatchman (Instagram's Most Followed Celebrity Watch Page 🏆)
                 https://professionalwatches.com/morgan-stanleys-top-20-swiss-watch-company-ranking-for-2023 (Morgan Stanley’s Top 20 Swiss Watch Company Ranking for 2023)
@@ -4916,7 +4941,6 @@ Contents:
                 https://www.looria.com/reddit/Watches/products (Most discussed products on r/Watches)
                 https://www.reddit.com/r/rolex/wiki (The official r/rolex FAQ)
                 https://www.reddit.com/r/Watches/comments/4mp3w7/resources_ive_compiled_all_the_best_documentaries ([Resources] I've compiled all the best documentaries, videos, books, channels, websites, and more about watches, movements, watch history, and watch culture. Great resources for newbies and veterans. 100+ videos, 15+ books, etc. I hope the community finds this useful!)
-                https://www.reddit.com/r/Watches/comments/5obyi8/world_leaders_watches_of_current_leaders_around (Watches of current leaders around the world)
                 https://www.reddit.com/r/Watches/comments/sqr6c8/meta_i_analyzed_the_top_500_posts_of_all_time ([META] I analyzed the top 500 posts of all time. Here are the 15 most popular brands by some metrics)
                 https://www.reddit.com/r/Watches/comments/xfw4q2/meta_i_analyzed_the_most_popular_watches_on ([Meta] I analyzed the most popular watches on Reddit (r/Watches))
                 https://www.reddit.com/r/Watches/comments/zw86rq/myth_busting_i_talked_to_my_watchmaker_about ([Myth Busting] I talked to my watchmaker about water resistance…)
@@ -5010,8 +5034,7 @@ Contents:
         https://github.com/girliemac/a-picture-is-worth-a-1000-words (I am trying to describe complex matters in simple doodles!)
         https://github.com/goenning/google-indexing-script (https://seogets.com/blog/google-indexing-script Google Indexing Script)
         https://github.com/gothinkster/realworld ("The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more)
-        https://github.com/greybax/awesome-IT-films (📺 A curated list of awesome films about IT & geek people.)
-        https://github.com/iptv-org/iptv (Collection of publicly available IPTV channels from all over the world)
+
         https://github.com/jbranchaud/til (Today I Learned)
         https://github.com/jnv/lists (The definitive list of lists (of lists) curated on GitHub and elsewhere )
         https://github.com/mendel5/alternative-front-ends (Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.))
