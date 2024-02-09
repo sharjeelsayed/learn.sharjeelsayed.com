@@ -14,6 +14,7 @@ Contents:
         Networking
         DNS
         Data Engineering
+        Distributed Systems
         Electronics
     DevOps/SRE/SysAdmin:
         DevOps
@@ -122,22 +123,22 @@ Contents:
 
     Computer Science:
         Sources:
-            http://blog.agupieware.com/2014/06/online-learning-intensive-bachelors.html
-            https://begriffs.com/posts/2017-04-13-longterm-computing-reading.html
+            http://blog.agupieware.com/2014/06/online-learning-intensive-bachelors.html (Online Learning: An Intensive Bachelor's Level Computer Science Program Curriculum, Part II (Updated - Dec 2020))
+            https://begriffs.com/posts/2017-04-13-longterm-computing-reading.html (Good books for deep hacks)
             https://docs.google.com/spreadsheets/d/1zfw8nPvJeewxcFUBpKUKmAVE8PjnJI7H0CKimdQXxr0/htmlview (Stanford CS Curriculum)
-            https://en.wikipedia.org/wiki/Outline_of_computer_science
+            https://en.wikipedia.org/wiki/Outline_of_computer_science (Outline of computer science)
             https://github.com/cs-books/influential-cs-books (Most influential books on Computer Science/programming)
             https://github.com/Developer-Y/cs-video-courses (List of Computer Science courses with video lectures.)
-            https://github.com/mvillaloboz/open-source-cs-degree
-            https://github.com/nushackers/notes-to-cs-freshmen-from-the-future
-            https://github.com/open-source-society/computer-science
-            https://github.com/prakhar1989/awesome-courses
+            https://github.com/mvillaloboz/open-source-cs-degree (The Open-Source Computer Science Degree)
+            https://github.com/nushackers/notes-to-cs-freshmen-from-the-future (https://docs.google.com/document/d/1FbCWcnnajHWk594dKmN35b_we50WZf_-cwxqg-cYaRY/edit#heading=h.fnzhav8ixuki Notes to (NUS) Computer Science Freshmen, From The Future (Original by @ejamesc))
+            https://github.com/ossu/computer-science (🎓 Path to a free self-taught education in Computer Science! )
+            https://github.com/prakhar1989/awesome-courses (📚 List of awesome university courses for learning Computer Science! )
             https://github.com/topics/computer-science?o=desc&s=stars
             https://github.com/tpkahlon/cs1000 (A reference site for a beginner, to gain insight into various subjects present around CS and Software engineering. It can serve as a handy material for students to complement their existing undergraduate program.)
             https://github.com/watson/awesome-computer-history
             https://laconicml.com/computer-science-curriculum-youtube-videos (This is The Entire Computer Science Curriculum in 1000 YouTube Videos)
             https://learn-anything.xyz/computer-science
-            https://matt.might.net/articles/what-cs-majors-should-know
+            https://matt.might.net/articles/what-cs-majors-should-know (What every computer science major should know )
             https://medium.freecodecamp.org/640-free-online-programming-computer-science-courses-you-can-start-in-september-f0bd3a184625
             https://news.ycombinator.com/item?id=13014900 (Ask HN: What are the bibles of Computer Science?)
             https://news.ycombinator.com/item?id=13406638 (Ask HN: What's the best computer science book you've read recently?)
@@ -159,15 +160,15 @@ Contents:
             https://news.ycombinator.com/item?id=38443668 (Ask HN: Is Knuth's TAOCP worth the time and effort?)
             https://news.ycombinator.com/item?id=5019373 (How Harvard's CS50 Renewed My Hope For Online Education)
             https://ocw.mit.edu/courses/find-by-topic/#cat=engineering&subcat=computerscience
-            https://spin.atomicobject.com/2015/05/15/obtaining-thorough-cs-background-online
-            https://techdevguide.withgoogle.com
+            https://spin.atomicobject.com/2015/05/15/obtaining-thorough-cs-background-online (Obtaining a Thorough CS Background Online )
+            https://techdevguide.withgoogle.com (Grow Your Technical Skills with Google)
             https://www.amazon.com/Best-Sellers-Books-Computer-Science/zgbs/books/468204
             https://www.classcentral.com/collection/ivy-league-moocs?subject=cs
             https://www.classcentral.com/subject/cs
             https://www.coursebuffet.com/sub/computer-science
             https://www.coursera.org/browse/computer-science
             https://www.edx.org/course/subject/computer-science
-            https://www.freecodecamp.org/news/free-courses-top-cs-universities
+            https://www.freecodecamp.org/news/free-courses-top-cs-universities (900 Free Computer Science Courses from the World’s Top Universities)
             https://www.google.com/about/careers/students/guide-to-technical-development.html
             https://www.omscs.gatech.edu (Georgia Tech Online Master of Science in Computer Science)
             https://www.openculture.com/computer_science_free_courses
@@ -183,12 +184,12 @@ Contents:
             https://pinboard.in/u:SharjeelSayed/t:cs
 
         Books and Courses:
-            Teach Yourself Computer Science
-            https://teachyourselfcs.com
-            https://jointeachyourselfcs.carrd.co (A supportive Discord community (500+ members and counting) to teach yourself computer science.)
+            Teach Yourself Computer Science:
+                https://teachyourselfcs.com
+                https://jointeachyourselfcs.carrd.co (A supportive Discord community (500+ members and counting) to teach yourself computer science.)
 
-            Path to a free self-taught education in Computer Science!
-            https://github.com/ossu/computer-science
+            Path to a free self-taught education in Computer Science!:
+                https://github.com/ossu/computer-science
 
             Structure and Interpretation of Computer Programs - 2nd Edition
             Sources:
@@ -224,18 +225,11 @@ Contents:
                 https://sourceacademy.org/sicpjs/index (SICP JavaScript Edition By Harold Abelson, Gerald Jay Sussman, Martin Henz and Tobias Wrigstad)
 
             Computer Systems: A Programmer's Perspective (3rd Edition)
-            https://www.amazon.com/Computer-Systems-Programmers-Perspective-3rd/dp/013409266X
-            http://csapp.cs.cmu.edu/3e/home.html
+                https://www.amazon.com/Computer-Systems-Programmers-Perspective-3rd/dp/013409266X
+                http://csapp.cs.cmu.edu/3e/home.html
 
             Computer Science 61A, UCBerkeley 001 - Spring 2011
-            https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E?sort=titleSorter
-
-            Distributed Systems 3.01 Edition
-            https://news.ycombinator.com/item?id=26534819 (Distributed Systems: A free online class (distributedsystemscourse.com))
-            https://www.amazon.com/Distributed-Systems-Maarten-van-Steen/dp/1543057381
-            https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB (MIT 6.824 Distributed Systems (Spring 2020))
-            https://pdos.csail.mit.edu/6.824/schedule.html (MIT 6.824 Schedule: Spring 2020 )
-            http://www.distributedsystemscourse.com
+                https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E?sort=titleSorter
 
         Software Engineering:
             Sources:
@@ -356,29 +350,29 @@ Contents:
                 https://www.youtube.com/@TheCodingTrain (The Coding Train)
 
             Books and Courses:
-                CS50 Introduction to Computer Science , Harvard University
-                https://cs50.harvard.edu
-                https://cs50.edx.org
-                https://cs50.stackexchange.com
-                https://cs50x.slack.com
-                https://discord.gg/cs50
-                https://www.facebook.com/groups/cs50
-                https://www.linkedin.com/groups/7437240
-                https://www.reddit.com/r/cs50
-                https://cdn.cs50.net/guide/guide-20.pdf (Unofficial Guide to CS at Harvard)
-                https://www.youtube.com/c/cs50 (cs50 YouTube channel)
+                CS50 Introduction to Computer Science , Harvard University:
+                    https://cs50.harvard.edu
+                    https://cs50.edx.org
+                    https://cs50.stackexchange.com
+                    https://cs50x.slack.com
+                    https://discord.gg/cs50
+                    https://www.facebook.com/groups/cs50
+                    https://www.linkedin.com/groups/7437240
+                    https://www.reddit.com/r/cs50
+                    https://cdn.cs50.net/guide/guide-20.pdf (Unofficial Guide to CS at Harvard)
+                    https://www.youtube.com/c/cs50 (cs50 YouTube channel)
 
                 Introduction to Computer Science and Programming Using Python , MIT
-                https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11
+                    https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11
 
                 How to Design Programs, Second Edition
-                http://www.htdp.org/2018-01-06/Book
+                    http://www.htdp.org/2018-01-06/Book
 
                 The Architecture of Open Source Applications
-                http://aosabook.org
+                    http://aosabook.org
 
                 Code: The Hidden Language of Computer Hardware and Software 2nd Edition
-                http://www.charlespetzold.com/blog/2022/06/Announcing-Code-2nd-Edition.html
+                    http://www.charlespetzold.com/blog/2022/06/Announcing-Code-2nd-Edition.html
 
         Computer Architecture:
             Sources:
@@ -387,19 +381,19 @@ Contents:
                 https://turingcomplete.game (Turing Complete is a puzzle game about computers. Build CPUs, GPUs, and RAM from scratch to solve the game's challenges.)
 
             Books and Courses:
-                The Elements of Computing Systems: Building a Modern Computer from First Principles 2nd Edition by Noam Nisan and Shimon Schocken
-                https://www.amazon.com/Elements-Computing-Systems-second-Principles-dp-0262539802/dp/0262539802
-                http://www.nand2tetris.org
-                http://nandgame.com
+                The Elements of Computing Systems: Building a Modern Computer from First Principles 2nd Edition by Noam Nisan and Shimon Schocken:
+                    https://www.amazon.com/Elements-Computing-Systems-second-Principles-dp-0262539802/dp/0262539802
+                    http://www.nand2tetris.org
+                    http://nandgame.com
 
                 Computer Organization and Design MIPS Edition, Fifth Edition
-                https://www.amazon.com/gp/product/0124077269
+                    https://www.amazon.com/gp/product/0124077269
 
                 Computer Science 61C, UCBerkeley 001 - Spring 2015
-                https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iCl2-D-FS5mk0jFF6cYSJs_?sort=titleSorter
+                    https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iCl2-D-FS5mk0jFF6cYSJs_?sort=titleSorter
 
                 Computation Structures | Electrical Engineering and Computer Science | MIT OpenCourseWare
-                https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-004-computation-structures-spring-2009
+                    https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-004-computation-structures-spring-2009
 
             Additional Material:
                 Modern Microprocessors A 90-Minute Guide! A brief, pulls-no-punches, fast-paced introduction to the main design aspects of modern processor microarchitecture
@@ -431,32 +425,32 @@ Contents:
                 https://www.reddit.com/r/learnprogramming/comments/379vwn/visually_learning_algorithms
 
             Books and Courses:
-                The Algorithm Design Manual 2nd Edition by Steven S. Skiena
-                https://www.amazon.com/gp/product/1848000693
-                https://link.springer.com/book/10.1007/978-1-84800-070-4
-                http://www3.cs.stonybrook.edu/~algorith/video-lectures (Steven Skiena Dept. of Computer Science Stony Brook University Video Lectures)
-                https://www.youtube.com/playlist?list=PLOtl7M3yp-DX32N0fVIyvn7ipWKNGmwpp (CSE373 - Analysis of Algorithms 2016 SBU)
+                The Algorithm Design Manual 2nd Edition by Steven S. Skiena:
+                    https://www.amazon.com/gp/product/1848000693
+                    https://link.springer.com/book/10.1007/978-1-84800-070-4
+                    http://www3.cs.stonybrook.edu/~algorith/video-lectures (Steven Skiena Dept. of Computer Science Stony Brook University Video Lectures)
+                    https://www.youtube.com/playlist?list=PLOtl7M3yp-DX32N0fVIyvn7ipWKNGmwpp (CSE373 - Analysis of Algorithms 2016 SBU)
 
                 Algorithms by S. Dasgupta, C. H. Papadimitriou, and U. V. Vazirani
-                http://algorithmics.lsi.upc.edu/docs/Dasgupta-Papadimitriou-Vazirani.pdf
+                    http://algorithmics.lsi.upc.edu/docs/Dasgupta-Papadimitriou-Vazirani.pdf
 
-                Algorithms (4th Edition) 4th Edition (2011) by Robert Sedgewick and Kevin Wayne
-                https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X
-                https://www.coursera.org/learn/algorithms-part1
-                https://www.coursera.org/learn/algorithms-part2
+                Algorithms (4th Edition) 4th Edition (2011) by Robert Sedgewick and Kevin Wayne:
+                    https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X
+                    https://www.coursera.org/learn/algorithms-part1
+                    https://www.coursera.org/learn/algorithms-part2
 
-                Algorithms by Abdul Bari
-                https://www.udemy.com/course/datastructurescncpp (Mastering Data Structures & Algorithms using C and C++ by Abdul Bari . Learn, Analyse and Implement Data Structure using C and C++. Learn Recursion and Sorting.)
-                https://youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O&si=2yDn0xn0v6Y6-Lx9
-                https://github.com/Chinmay2660/DSA-By-Abdul-Bari (This repository contains implementations of popular data structures and algorithms in C++ based on the teachings of Abdul Bari, an expert in the field of computer science and engineering. The implementations are meant to serve as a reference for those looking to improve their understanding of data structures and algorithms.)
+                Algorithms by Abdul Bari:
+                    https://www.udemy.com/course/datastructurescncpp (Mastering Data Structures & Algorithms using C and C++ by Abdul Bari . Learn, Analyse and Implement Data Structure using C and C++. Learn Recursion and Sorting.)
+                    https://youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O&si=2yDn0xn0v6Y6-Lx9
+                    https://github.com/Chinmay2660/DSA-By-Abdul-Bari (This repository contains implementations of popular data structures and algorithms in C++ based on the teachings of Abdul Bari, an expert in the field of computer science and engineering. The implementations are meant to serve as a reference for those looking to improve their understanding of data structures and algorithms.)
 
             Additional Material:
-                Introduction to Algorithms, 3rd Edition (2009) by Thomas H. Cormen
-                https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844
-                https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011
+                Introduction to Algorithms, 3rd Edition (2009) by Thomas H. Cormen:
+                    https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844
+                    https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011
 
                 Algorithms by Jeff Erickson
-                http://jeffe.cs.illinois.edu/teaching/algorithms
+                    http://jeffe.cs.illinois.edu/teaching/algorithms
 
         Mathematics for Computer Science:
             Sources:
@@ -502,19 +496,19 @@ Contents:
                 https://news.ycombinator.com/item?id=20809666 (Ask HN: Recommended resources to learn the Linux kernel and OS theory?)
 
             Books and Courses:
-                Operating Systems: Three Easy Pieces
-                http://pages.cs.wisc.edu/~remzi/OSTEP
-                http://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/Discussion/videos.html (Video Course based on the book by CS 537 at Wisconsin with Remzi)
+                Operating Systems: Three Easy Pieces:
+                    http://pages.cs.wisc.edu/~remzi/OSTEP
+                    http://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/Discussion/videos.html (Video Course based on the book by CS 537 at Wisconsin with Remzi)
 
                 Computer Science 162, 001 - Spring 2015. Operating Systems and System Programming - John Kubiatowicz UCBerkeley
-                https://archive.org/details/ComputerScience162001Spring2012
+                    https://archive.org/details/ComputerScience162001Spring2012
 
             Additional Material:
                 Operating System Concepts , 9th Edition
-                https://www.amazon.com/dp/1118063333
+                    https://www.amazon.com/dp/1118063333
 
                 Modern Operating Systems , 4th Edition
-                https://www.amazon.com/dp/013359162X
+                    https://www.amazon.com/dp/013359162X
 
         Networking:
             Sources:
@@ -543,30 +537,30 @@ Contents:
                 The Bits and Bytes of Computer Networking -Grow with Google
                 https://www.coursera.org/learn/computer-networking
 
-                Computer Networking: A Top-Down Approach, 8th Edition (2021) by James F. Kurose and Keith Ross
-                https://www.amazon.com/Computer-Networking-Global-James-Kurose/dp/1292405465
-                https://gaia.cs.umass.edu/kurose_ross
-                https://www.pearson.com/us/higher-education/program/Kurose-Pearson-e-Text-Computer-Networking-Access-Card-8th-Edition/PGM2877610.html
-                https://gaia.cs.umass.edu/kurose_ross/lectures.php (Online lectures and review questions)
-                https://gaia.cs.umass.edu/kurose_ross/wireshark.php (Supplements: Wireshark Labs)
-                https://youtube.com/playlist?list=PLvFG2xYBrYASIUH_y2hYaMCro8KUe_yL8 (Computer Networking: A Top-Down Approach 8th edition by Jim Kurose and Keith Ross Playlist)
+                Computer Networking: A Top-Down Approach, 8th Edition (2021) by James F. Kurose and Keith Ross:
+                    https://www.amazon.com/Computer-Networking-Global-James-Kurose/dp/1292405465
+                    https://gaia.cs.umass.edu/kurose_ross
+                    https://www.pearson.com/us/higher-education/program/Kurose-Pearson-e-Text-Computer-Networking-Access-Card-8th-Edition/PGM2877610.html
+                    https://gaia.cs.umass.edu/kurose_ross/lectures.php (Online lectures and review questions)
+                    https://gaia.cs.umass.edu/kurose_ross/wireshark.php (Supplements: Wireshark Labs)
+                    https://youtube.com/playlist?list=PLvFG2xYBrYASIUH_y2hYaMCro8KUe_yL8 (Computer Networking: A Top-Down Approach 8th edition by Jim Kurose and Keith Ross Playlist)
 
                 CS144 Introduction to Computer Networking Stanford University by Philip Levis and Nick McKeown
-                https://youtube.com/playlist?list=PLoCMsyE1cvdWKsLVyf6cPwCLDIZnOj0NS
+                    https://youtube.com/playlist?list=PLoCMsyE1cvdWKsLVyf6cPwCLDIZnOj0NS
 
                 High Performance Browser Networking
-                https://hpbn.co
+                    https://hpbn.co
 
                 Beej's Guide to Network Programming
-                http://beej.us/guide/bgnet
+                    http://beej.us/guide/bgnet
 
-                Networking for Systems Administrators (2015) by Michael W Lucas.mobi
-                https://www.amazon.com/Networking-Systems-Administrators-Mastery-Book-ebook/dp/B00STLTH74
-                https://mwlucas.gumroad.com/l/XfZsR
-                https://mwl.io/nonfiction/networking#n4sa
+                Networking for Systems Administrators (2015) by Michael W Lucas.mobi:
+                    https://www.amazon.com/Networking-Systems-Administrators-Mastery-Book-ebook/dp/B00STLTH74
+                    https://mwlucas.gumroad.com/l/XfZsR
+                    https://mwl.io/nonfiction/networking#n4sa
 
                 Unix Network Programming, Volume 1: The Sockets Networking API (3rd Edition)
-                https://www.amazon.com/Unix-Network-Programming-Sockets-Networking/dp/0131411551
+                    https://www.amazon.com/Unix-Network-Programming-Sockets-Networking/dp/0131411551
 
             Additional Material:
                 CCNA Routing and Switching 200-125 Official Cert Guide Library
@@ -618,7 +612,6 @@ Contents:
                 https://news.ycombinator.com/item?id=13417326 (Ask HN: what is the best online resource to learn advanced sql?)
                 https://news.ycombinator.com/item?id=21793270 (Database internals (databass.dev))
                 https://news.ycombinator.com/item?id=23138297 (Advanced sql and database books and resources (neilwithdata.com))
-                https://news.ycombinator.com/item?id=25987664 (Ask HN: recommended books and papers on distributed systems?)
                 https://ottertune.com/blog/2021-databases-retrospective (Databases in 2021: a year in review)
                 https://redis.com/blog/datasets-for-test-databases (Groovy datasets for test databases)
                 https://sp23.datastructur.es (CS 61b data structures, spring 2023)
@@ -655,12 +648,39 @@ Contents:
                 Database Design for Mere Mortals: A Hands-On Guide to Relational Database Design (3rd Edition)
                 https://www.amazon.com/Database-Design-Mere-Mortals-Hands/dp/0321884493
 
+        Distributed Systems:
+            Sources:
+                https://book.dtornow.com (Thinking in Distributed Systems by Daniel Tornow)
+                https://ferd.ca/a-distributed-systems-reading-list.html (A distributed systems reading list)
+                https://gist.github.com/macintux/6227368 (List of distributed systems reading lists, plus miscellanea)
+                https://github.com/ashishps1/awesome-system-design-resources (This repository contains System Design resources which are useful while preparing for interviews and learning Distributed Systems)
+                https://github.com/madd86/awesome-system-design (A curated list of awesome System Design (A.K.A. Distributed Systems) resources.)
+                https://github.com/mixu/distsysbook (https://book.mixu.net/distsys The book Distributed systems: for fun and profit)
+                https://github.com/theanalyst/awesome-distributed-systems (A curated list to learn about distributed systems)
+                https://news.ycombinator.com/item?id=25987664 (Ask HN: recommended books and papers on distributed systems?)
+                https://news.ycombinator.com/item?id=39303160 (A distributed systems reading list (ferd.ca))
+                https://www.allthingsdistributed.com/2023/07/building-and-operating-a-pretty-big-storage-system.html (Building and operating a pretty big storage system called S3)
+                https://www.microsoft.com/en-us/research/publication/principles-of-eventual-consistency (Principles of Eventual Consistency by Sebastian Burckhardt 2014)
+                https://www.microsoft.com/en-us/research/publication/time-clocks-ordering-events-distributed-system (Time, Clocks, and the Ordering of Events in a Distributed System by Leslie Lamport 1978)
+
+            Books and Courses:
+                Distributed Systems 3rd Edition by Maarten van Steen and Andrew S. Tanenbaum (Feb 2017)
+                    https://news.ycombinator.com/item?id=26534819 (Distributed Systems: A free online class (distributedsystemscourse.com))
+                    https://www.amazon.com/Distributed-Systems-Maarten-van-Steen/dp/1543057381
+                    https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB (MIT 6.824 Distributed Systems (Spring 2020))
+                    https://pdos.csail.mit.edu/6.824/schedule.html (MIT 6.824 Schedule: Spring 2020 )
+                    https://www.distributedsystemscourse.com
+
+                Understanding Distributed Systems: What every developer should know about large distributed applications by Roberto Vitillo ,Second Edition (Feb 2022)
+                    https://understandingdistributed.systems
+                    https://www.amazon.com/Understanding-Distributed-Systems-Second-applications/dp/1838430210
+
                 Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems 1st Edition by Martin Kleppmann (May 2017)
-                https://dataintensive.net
-                https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321
-                https://youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB (MIT 6.824 Distributed Systems (Spring 2020) by by Robert Morris)
-                https://youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB (Distributed Systems lecture series)
-                https://github.com/ept/ddia-references (Literature references for “Designing Data-Intensive Applications” by Ept)
+                    https://dataintensive.net
+                    https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321
+                    https://youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB (MIT 6.824 Distributed Systems (Spring 2020) by by Robert Morris)
+                    https://youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB (Distributed Systems lecture series)
+                    https://github.com/ept/ddia-references (Literature references for “Designing Data-Intensive Applications” by Ept)
 
         Electronics:
             Sources:
@@ -1277,66 +1297,66 @@ Contents:
                 https://www.kubecost.com (Kubecost provides real-time cost visibility and insights for teams using Kubernetes, helping you continuously reduce your cloud costs.)
 
             Books and Courses:
-                Kubernetes Documentation
-                https://kubernetes.io/docs/concepts (The Concepts section helps you learn about the parts of the Kubernetes system and the abstractions Kubernetes uses to represent your cluster, and helps you obtain a deeper understanding of how Kubernetes works.)
-                https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands (Kubernetes Commands)
-                https://kubernetes.io/docs/reference/kubectl/cheatsheet (kubectl Cheat Sheet)
-                https://kubernetes.io/docs/tasks (This section of the Kubernetes documentation contains pages that show how to do individual tasks. )
-                https://kubernetes.io/docs/tasks/manage-kubernetes-objects/imperative-command
-                https://kubernetes.io/docs/tutorials/kubernetes-basics (Learn Kubernetes Basics)
-                https://kubernetes.io/training (Kubernetes Training)
+                Kubernetes Documentation:
+                    https://kubernetes.io/docs/concepts (The Concepts section helps you learn about the parts of the Kubernetes system and the abstractions Kubernetes uses to represent your cluster, and helps you obtain a deeper understanding of how Kubernetes works.)
+                    https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands (Kubernetes Commands)
+                    https://kubernetes.io/docs/reference/kubectl/cheatsheet (kubectl Cheat Sheet)
+                    https://kubernetes.io/docs/tasks (This section of the Kubernetes documentation contains pages that show how to do individual tasks. )
+                    https://kubernetes.io/docs/tasks/manage-kubernetes-objects/imperative-command
+                    https://kubernetes.io/docs/tutorials/kubernetes-basics (Learn Kubernetes Basics)
+                    https://kubernetes.io/training (Kubernetes Training)
 
-                Kubernetes in Action, Second Edition by Marko Lukša (Releasing on August, 2023)
-                https://www.amazon.com/Kubernetes-Action-Second-Marko-Luk%C5%A1a/dp/1617297615
-                https://www.manning.com/books/kubernetes-in-action-second-edition
-                https://livebook.manning.com/book/kubernetes-in-action-second-edition
-                https://wangwei1237.github.io/Kubernetes-in-Action-Second-Edition
-                https://github.com/luksa/kubernetes-in-action-2nd-edition
-                https://www.manning.com/books/kubernetes-in-action
-                https://livebook.manning.com/book/kubernetes-in-action
-                https://github.com/luksa/kubernetes-in-action
+                Kubernetes in Action, Second Edition by Marko Lukša (Releasing on August, 2023):
+                    https://www.amazon.com/Kubernetes-Action-Second-Marko-Luk%C5%A1a/dp/1617297615
+                    https://www.manning.com/books/kubernetes-in-action-second-edition
+                    https://livebook.manning.com/book/kubernetes-in-action-second-edition
+                    https://wangwei1237.github.io/Kubernetes-in-Action-Second-Edition
+                    https://github.com/luksa/kubernetes-in-action-2nd-edition
+                    https://www.manning.com/books/kubernetes-in-action
+                    https://livebook.manning.com/book/kubernetes-in-action
+                    https://github.com/luksa/kubernetes-in-action
 
-                Certified Kubernetes Administrator (CKA) with Practice Tests by Mumshad Mannambeth
-                https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests
-                https://github.com/kodekloudhub/certified-kubernetes-administrator-course
-                https://github.com/mmumshad/kubernetes-the-hard-way
-                https://join.slack.com/t/kodekloud/shared_invite/zt-dkvyibo4-A4JPw459fFtqv7OeR7Qg7w
-                https://kodekloud.com/p/certified-kubernetes-administrator-with-practice-tests
-                https://kodekloud.com/p/json-path-quiz (JSON PATH Quiz- FREE COURSE)
-                https://kodekloud.com/purchase?product_id=1521961&coupon_code=UDEMYSTUDENT1718 (Labs - Certified Kubernetes Administrator with Practice Tests)
-                https://www.fb.com/kodekloudtraining
-                https://www.youtube.com/playlist?list=PL2We04F3Y_41lFKy19ig_9u-5Sj_RWTDL (JSON PATH)
+                Certified Kubernetes Administrator (CKA) with Practice Tests by Mumshad Mannambeth:
+                    https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests
+                    https://github.com/kodekloudhub/certified-kubernetes-administrator-course
+                    https://github.com/mmumshad/kubernetes-the-hard-way
+                    https://join.slack.com/t/kodekloud/shared_invite/zt-dkvyibo4-A4JPw459fFtqv7OeR7Qg7w
+                    https://kodekloud.com/p/certified-kubernetes-administrator-with-practice-tests
+                    https://kodekloud.com/p/json-path-quiz (JSON PATH Quiz- FREE COURSE)
+                    https://kodekloud.com/purchase?product_id=1521961&coupon_code=UDEMYSTUDENT1718 (Labs - Certified Kubernetes Administrator with Practice Tests)
+                    https://www.fb.com/kodekloudtraining
+                    https://www.youtube.com/playlist?list=PL2We04F3Y_41lFKy19ig_9u-5Sj_RWTDL (JSON PATH)
 
                 Kubernetes Hands-On - Deploy Microservices to the AWS Cloud by Richard Chesterwood, Virtual Pair Programmers and Prageeth Warnak
                 https://www.udemy.com/course/kubernetes-microservices
 
-                Kubernetes: Dive Into Kubernetes in One Hour! Fully Hands On by James Spurin
-                https://www.udemy.com/course/diveintokubernetes-introduction
-                https://github.com/spurin/diveintokubernetes-introduction-resources
-                https://youtu.be/n4zxKk2an3U
+                Kubernetes: Dive Into Kubernetes in One Hour! Fully Hands On by James Spurin:
+                    https://www.udemy.com/course/diveintokubernetes-introduction
+                    https://github.com/spurin/diveintokubernetes-introduction-resources
+                    https://youtu.be/n4zxKk2an3U
 
-                Kubernetes Up and Running Dive into the Future of Infrastructure 3rd Edition (2022) by Brendan Burns, Joe Beda, Kelsey Hightower and Lachlan Evenson
-                https://www.oreilly.com/library/view/kubernetes-up-and/9781098110192
-                https://www.amazon.com/Kubernetes-Up-Running-Brendan-Burns-ebook/dp/B0B8G22T5L
-                https://tanzu.vmware.com/content/ebooks/kubernetes-up-running-dive-into-the-future-of-infrastructure (Free Copy)
+                Kubernetes Up and Running Dive into the Future of Infrastructure 3rd Edition (2022) by Brendan Burns, Joe Beda, Kelsey Hightower and Lachlan Evenson:
+                    https://www.oreilly.com/library/view/kubernetes-up-and/9781098110192
+                    https://www.amazon.com/Kubernetes-Up-Running-Brendan-Burns-ebook/dp/B0B8G22T5L
+                    https://tanzu.vmware.com/content/ebooks/kubernetes-up-running-dive-into-the-future-of-infrastructure (Free Copy)
 
-                The Book of Kubernetes: A Complete Guide to Container Orchestration (Sep 2022) by Alan Hohn
-                https://www.amazon.com/Book-Kubernetes-Complete-Container-Orchestration/dp/1718502648
-                https://nostarch.com/book-kubernetes
+                The Book of Kubernetes: A Complete Guide to Container Orchestration (Sep 2022) by Alan Hohn:
+                    https://www.amazon.com/Book-Kubernetes-Complete-Container-Orchestration/dp/1718502648
+                    https://nostarch.com/book-kubernetes
 
-                Kubernetes Tutorial for Beginners [FULL COURSE in 4 Hours] by TechWorld with Nana
-                https://youtu.be/X48VuDVv0do
-                https://gitlab.com/nanuchi/youtube-tutorial-series
-                https://www.techworld-with-nana.com/kubernetes-administrator-cka (The Ultimate Kubernetes Administrator Course)
+                Kubernetes Tutorial for Beginners [FULL COURSE in 4 Hours] by TechWorld with Nana:
+                    https://youtu.be/X48VuDVv0do
+                    https://gitlab.com/nanuchi/youtube-tutorial-series
+                    https://www.techworld-with-nana.com/kubernetes-administrator-cka (The Ultimate Kubernetes Administrator Course)
 
-                EKS Workshop by Containers from the Couch
-                https://www.eksworkshop.com
-                https://youtube.com/playlist?list=PLehXSATXjcQF3NZgGeaNOgo2MRzi0arKY
+                EKS Workshop by Containers from the Couch:
+                    https://www.eksworkshop.com
+                    https://youtube.com/playlist?list=PLehXSATXjcQF3NZgGeaNOgo2MRzi0arKY
 
                 Amazon EKS Terraform Workshop
-                https://tf-eks-workshop.workshop.aws
+                    https://tf-eks-workshop.workshop.aws
 
-            CKA/CKAD/CKS
+            CKA/CKAD/CKS:
                 https://github.com/cncf/curriculum (https://www.cncf.io/training/courses 📚Open Source Curriculum for CNCF Certification Courses)
                 https://github.com/dgkanatsios/CKAD-exercises (A set of exercises to prepare for Certified Kubernetes Application Developer exam by Cloud Native Computing Foundation )
                 https://github.com/jayendrapatil/kubernetes-exercises (Collection covers kubernetes exercises categorized topics-wise and referred back to the individual Kubernetes certification exams.)
@@ -1356,7 +1376,7 @@ Contents:
                 https://www.cncf.io/certification/training
                 https://www.reddit.com/r/kubernetes/comments/r4q1ec/ckad_free_materials (CKAD - free materials)
 
-            Support Groups
+            Support Groups:
                 https://discuss.kubernetes.io (The official Kubernetes Discourse instance)
                 https://docs.google.com/forms/d/e/1FAIpQLSfdsupDfOWBtNVvVvXED6ULxtR4UIsYGCH_cQcRr0VcG1ZqQQ/viewform (https://istio.slack.com)
                 https://kubernauts-slack-join.herokuapp.com
@@ -1367,30 +1387,30 @@ Contents:
 
             Additional Material:
                 Certified Kubernetes Administrator 2022 by Zeal Vora
-                https://www.udemy.com/course/certified-kubernetes-administrator
-                https://github.com/zealvora/certified-kubernetes-administrator
-                https://github.com/zealvora/coupon-codes
+                    https://www.udemy.com/course/certified-kubernetes-administrator
+                    https://github.com/zealvora/certified-kubernetes-administrator
+                    https://github.com/zealvora/coupon-codes
 
                 Kubernetes Learning Path :50 Days From Zero To Hero with Kubernetes by Azure
-                https://azure.microsoft.com/en-us/resources/kubernetes-learning-path
-                https://www.youtube.com/playlist?list=PLLasX02E8BPCrIhFrc_ZiINhbRkYMKdPT Kubernetes Basics by Kubernetes cofounder Brendan Burns
+                    https://azure.microsoft.com/en-us/resources/kubernetes-learning-path
+                    https://www.youtube.com/playlist?list=PLLasX02E8BPCrIhFrc_ZiINhbRkYMKdPT Kubernetes Basics by Kubernetes cofounder Brendan Burns
 
                 Kubernetes for Full-Stack Developers
-                https://www.digitalocean.com/community/curriculums/kubernetes-for-full-stack-developers
+                    https://www.digitalocean.com/community/curriculums/kubernetes-for-full-stack-developers
 
                 Kubernetes – An Enterprise Guide: Effectively containerize applications, integrate enterprise systems, and scale applications in your enterprise, 2nd Edition by Scott Surovich and Marc Boorshtein
-                https://www.amazon.com/Kubernetes-Enterprise-Effectively-containerize-applications-dp-1803230037/dp/1803230037
+                    https://www.amazon.com/Kubernetes-Enterprise-Effectively-containerize-applications-dp-1803230037/dp/1803230037
 
-                Quick Start Kubernetes by Nigel Poulton
-                https://www.amazon.com/dp/B08T21NW4Z
-                https://leanpub.com/quickstartkubernetes
-                https://github.com/nigelpoulton/qsk-book (Quick Start Kubernetes book on GitHub)
+                Quick Start Kubernetes by Nigel Poulton:
+                    https://www.amazon.com/dp/B08T21NW4Z
+                    https://leanpub.com/quickstartkubernetes
+                    https://github.com/nigelpoulton/qsk-book (Quick Start Kubernetes book on GitHub)
 
-                The Kubernetes Book by Nigel Poulton
-                https://www.amazon.com/Kubernetes-Book-Nigel-Poulton/dp/1916585000
-                https://leanpub.com/thekubernetesbook
-                https://github.com/nigelpoulton/TheK8sBook (YAML files for use with The Kubernetes Book)
-                https://nigelpoulton.com/for-individuals (Nigel's learning Roadmap:7 Steps to learn Kubernetes and Docker)
+                The Kubernetes Book by Nigel Poulton:
+                    https://www.amazon.com/Kubernetes-Book-Nigel-Poulton/dp/1916585000
+                    https://leanpub.com/thekubernetesbook
+                    https://github.com/nigelpoulton/TheK8sBook (YAML files for use with The Kubernetes Book)
+                    https://nigelpoulton.com/for-individuals (Nigel's learning Roadmap:7 Steps to learn Kubernetes and Docker)
 
             K8s Visual management: (Sorted by Alexa Rank)
                 https://k8slens.dev (536,393)
@@ -1509,42 +1529,42 @@ Contents:
                 https://github.com/wallix/awless (A Mighty CLI for AWS)
 
             Books and Courses:
-                AWS Certified Solutions Architect - Associate (SAA-C03) by Adrian Cantrill
-                https://learn.cantrill.io/p/aws-certified-solutions-architect-associate-saa-c03
-                https://github.com/acantril/aws-sa-associate-saac02
-                https://github.com/alozano-77/AWS-SAA-C02-Course (Personal notes for SAA-C02 test from: https://learn.cantrill.io)
-                https://discord.com/channels/1191146976847351970 (TechStudyDiscord by Adrian Cantrill)
-                https://talk.cantrill.io
-                https://cantrill.io.i-aws.cloud (Statistics about Adrian Cantrill's courses)
+                AWS Certified Solutions Architect - Associate (SAA-C03) by Adrian Cantrill:
+                    https://learn.cantrill.io/p/aws-certified-solutions-architect-associate-saa-c03
+                    https://github.com/acantril/aws-sa-associate-saac02
+                    https://github.com/alozano-77/AWS-SAA-C02-Course (Personal notes for SAA-C02 test from: https://learn.cantrill.io)
+                    https://discord.com/channels/1191146976847351970 (TechStudyDiscord by Adrian Cantrill)
+                    https://talk.cantrill.io
+                    https://cantrill.io.i-aws.cloud (Statistics about Adrian Cantrill's courses)
 
-                Ultimate AWS Certified Solutions Architect Associate SAA-C03 by Stephane Maarek
-                https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03
-                https://courses.datacumulus.com/downloads/certified-solutions-architect-pn9 (AWS Certified Solutions Architect Associate Code & Slides)
-                https://courses.datacumulus.com (Discount codes for the Course)
+                Ultimate AWS Certified Solutions Architect Associate SAA-C03 by Stephane Maarek:
+                    https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03
+                    https://courses.datacumulus.com/downloads/certified-solutions-architect-pn9 (AWS Certified Solutions Architect Associate Code & Slides)
+                    https://courses.datacumulus.com (Discount codes for the Course)
 
-                AAWS Certified Solutions Architect Associate SAA-C03 Practice Exams 2023 by Jon Bonso
-                https://portal.tutorialsdojo.com/product/aws-certified-solutions-architect-associate-practice-exams
-                https://www.udemy.com/course/aws-certified-solutions-architect-associate-amazon-practice-exams-saa-c02
-                https://tutorialsdojo.com/aws-certified-solutions-architect-associate-saa-c02
-                http://slack.tutorialsdojo.com
+                AAWS Certified Solutions Architect Associate SAA-C03 Practice Exams 2023 by Jon Bonso:
+                    https://portal.tutorialsdojo.com/product/aws-certified-solutions-architect-associate-practice-exams
+                    https://www.udemy.com/course/aws-certified-solutions-architect-associate-amazon-practice-exams-saa-c02
+                    https://tutorialsdojo.com/aws-certified-solutions-architect-associate-saa-c02
+                    http://slack.tutorialsdojo.com
 
-                Ultimate AWS Certified Developer Associate 2022 - NEW! by Stephane Maarek
-                https://www.udemy.com/course/aws-certified-developer-associate-dva-c01
-                https://courses.datacumulus.com/downloads/certified-developer-k92 (AWS Certified Developer Associate Code & Slides)
-                https://courses.datacumulus.com (Discount codes for the Course)
+                Ultimate AWS Certified Developer Associate 2022 - NEW! by Stephane Maarek:
+                    https://www.udemy.com/course/aws-certified-developer-associate-dva-c01
+                    https://courses.datacumulus.com/downloads/certified-developer-k92 (AWS Certified Developer Associate Code & Slides)
+                    https://courses.datacumulus.com (Discount codes for the Course)
 
                 Amazon Web Services — a practical guide
-                https://github.com/open-guides/og-aws
+                    https://github.com/open-guides/og-aws
 
-                EKS Workshop by Containers from the Couch
-                https://www.eksworkshop.com
-                https://youtube.com/playlist?list=PLehXSATXjcQF3NZgGeaNOgo2MRzi0arKY
+                EKS Workshop by Containers from the Couch:
+                    https://www.eksworkshop.com
+                    https://youtube.com/playlist?list=PLehXSATXjcQF3NZgGeaNOgo2MRzi0arKY
 
                 Amazon EKS Terraform Workshop
-                https://tf-eks-workshop.workshop.aws
+                    https://tf-eks-workshop.workshop.aws
 
                 AWS Certified Solutions Architect - Associate 2020 (PASS THE EXAM!) by Andrew Brown of ExamPro, freecodecamp.org
-                https://youtu.be/Ia-UEYYR44s
+                    https://youtu.be/Ia-UEYYR44s
 
             AWS Certification Resources:
                 https://aws.amazon.com/certification (AWS Certification Official Page)
@@ -2898,6 +2918,7 @@ Contents:
                 https://github.com/ax/apk.sh (apk.sh makes reverse engineering Android apps easier, automating some repetitive tasks like pulling, decoding, rebuilding and patching an APK.)
                 https://github.com/sindresorhus/Actions (https://sindresorhus.com/actions ⚙️ Supercharge your shortcuts )
                 https://github.com/skydoves/android-developer-roadmap (🗺 The Android Developer Roadmap offers comprehensive learning paths to help you understand Android ecosystems.)
+                https://www.gizchina.com/2024/02/08/smartphones-2023-top-sellers (Canalys Reveals: Top 10 Shipped Smartphones Worldwide in 2023)
                 https://www.kodeco.com (Learn iOS and Swift, Android and Kotlin & Dart and Flutter development with the largest and highest-quality catalog of video courses and books on the Internet.)
 
         AI and Machine Learning:
@@ -3105,7 +3126,6 @@ Contents:
                 https://github.com/madd86/awesome-system-design (A curated list of awesome System Design (A.K.A. Distributed Systems) resources.)
                 https://github.com/shashank88/system_design (Preparation links and resources for system design questions)
                 https://github.com/shashank88/system_design (Preparation links and resources for system design questions)
-                https://github.com/theanalyst/awesome-distributed-systems (A curated list to learn about distributed systems)
                 https://interviewing.io/guides/system-design-interview (A Senior Engineer's Guide to the System Design Interview)
                 https://www.amazon.com/System-Design-Interview-Insiders-Guide/dp/1736049119 (System Design Interview – An Insider's Guide: Volume 2 by Alex Xu)
                 https://youtu.be/bUHFg8CZFws (System Design Interview – Step By Step Guide by System Design Interview)
@@ -4886,26 +4906,24 @@ Contents:
 
         Movies, TV and Documentaries:
             Sources:
-                http://www.bbc.com/culture/story/20181029-the-100-greatest-foreign-language-films
-                https://criticstop10.com
+                https://criticstop10.com (Critics’ Top 10)
                 https://editorial.rottentomatoes.com/guide/rt25-critics-top-tv-shows-of-the-last-25-years-2 (RT25: Critics’ Top TV Shows of the Last 25 Years)
-                https://editorial.rottentomatoes.com/guide/rt25-critics-top-tv-shows-of-the-last-25-years-2/ (RT25: Critics’ Top TV Shows of the Last 25 Years)
-                https://en.wikipedia.org/wiki/AFI%27s_100_Years...100_Movies_(10th_Anniversary_Edition)
-                https://en.wikipedia.org/wiki/List_of_films_considered_the_best
+                https://en.wikipedia.org/wiki/AFI%27s_100_Years...100_Movies_(10th_Anniversary_Edition) (AFI's 100 Years...100 Movies (10th Anniversary Edition))
+                https://en.wikipedia.org/wiki/List_of_films_considered_the_best (List of films considered the best)
                 https://github.com/greybax/awesome-IT-films (https://alfilatov.com/awesome-IT-films A curated list of awesome films about IT & geek people.)
                 https://github.com/iptv-org/iptv (Collection of publicly available IPTV channels from all over the world)
                 https://news.ycombinator.com/item?id=16105040 (Ask HN: Great science fiction movies?)
                 https://news.ycombinator.com/item?id=24088582 (Ask HN: Films that made you see the world differently?)
                 https://news.ycombinator.com/item?id=29106967 (Ask HN: What are some technically inspiring movies, TV shows or documentaries?)
                 https://news.ycombinator.com/item?id=32799789 (Ask HN: What are some of the best documentaries you've seen?)
+                https://www.bbc.com/culture/article/20181029-the-100-greatest-foreign-language-films (The 100 greatest foreign-language films)
                 https://www.bbc.com/culture/article/20211015-the-100-greatest-tv-series-of-the-21st-century
-                https://www.businessinsider.in/The-100-best-crime-movies-of-all-time-according-to-critics/articleshow/65875039.cms
-                https://www.indiewire.com/gallery/martin-scorsese-favorite-films-movies/the-haunting-1963-6
-                https://www.nytimes.com/2020/12/03/movies/best-movies.html
-                https://www.rottentomatoes.com/top/bestofrt
-                https://www.theguardian.com/film/2019/sep/13/100-best-films-movies-of-the-21st-century
-                https://www.theguardian.com/tv-and-radio/2019/sep/16/100-best-tv-shows-of-the-21st-century
-                https://www.wondersofphysics.com/2020/04/best-physics-movies.html
+                https://www.businessinsider.in/The-100-best-crime-movies-of-all-time-according-to-critics/articleshow/65875039.cms (The 100 best crime movies of all time, according to critics)
+                https://www.indiewire.com/gallery/martin-scorsese-favorite-films-movies (Martin Scorsese’s Favorite Movies: 80 Films the Director Wants You to See)
+                https://www.reddit.com/r/Documentaries+movies+television (Reddit's Most Popular Documentaries, Movies and Television Shows)
+                https://www.theguardian.com/film/2019/sep/13/100-best-films-movies-of-the-21st-century (The 100 best films of the 21st century)
+                https://www.theguardian.com/tv-and-radio/2019/sep/16/100-best-tv-shows-of-the-21st-century (The 100 best TV shows of the 21st century)
+                https://www.wondersofphysics.com/2020/04/best-physics-movies.html (Movies Every Physics Student Should Watch)
 
         Watch:
             Sources:
@@ -4946,9 +4964,6 @@ Contents:
                 https://www.reddit.com/r/Watches/comments/zw86rq/myth_busting_i_talked_to_my_watchmaker_about ([Myth Busting] I talked to my watchmaker about water resistance…)
                 https://www.reddit.com/r/Watches/wiki/brandguide (/r/Watches Brand Guide)
                 https://www.reddit.com/r/Watches/wiki/faq (r/Watches FAQ)
-                https://www.seikowatches.com/in-en/products/5sports/lineup (Seiko 5 Sports Lineup)
-                https://www.seikowatches.com/in-en/products/5sports/srpd59 (Seiko 5 SRPD59 SKX Sports Style )
-                https://www.seikowatches.com/instructions/html/SEIKO_4R35_4R36_4R37_4R38_4R39_4R71_4R72_EN/index (Seiko 5 Instructions Manual)
                 https://www.statista.com/statistics/789382/leading-luxury-watch-brands-sales (Sales revenue of the leading luxury watch brands worldwide in 2022)
                 https://www.tudorwatch.com/en/watches/black-bay-gmt/m79830rb-0001 (Tudor Black Bay GMT)
                 https://youtu.be/-1PvBADfQ0s (Top 20 Swiss Watch Brands According To Statistics - Watch Market Update 2023 by Teddy Baldassarre)
@@ -4957,7 +4972,6 @@ Contents:
                 https://youtu.be/PHis9l8cJks (75 Watch Terms You Need to Know - A Crash Course to Watch Collecting Terminology by Teddy Baldassarre)
                 https://youtu.be/Sy4wusLxTBo (How to Use a Slide Rule on a Watch | Breitling Navitimer by Crown & Caliber by Hodinkee)
                 https://youtu.be/TELYvXbm9SI?si=FZIyiaomx1XXCsmY (The Top 100 GREATEST Watches In The World by Watchfinder & Co.)
-                https://youtu.be/wC9gBMk7_ss (IN-DEPTH Guide - Everything You Need To Know About The OMEGA Co-Axial Escapement by Monochrome Watches)
 
             Casio:
                 https://en.wikipedia.org/wiki/Casio_F-91W (Casio F-91W)
@@ -4985,6 +4999,13 @@ Contents:
                 https://www.omegawatches.com/watch-omega-speedmaster-moonwatch-professional-co-axial-master-chronometer-chronograph-42-mm-31030425001002 (Omega Speedmaster Moonwatch Professional Co‑Axial Master Chronometer Chronograph 42 mm)
                 https://youtu.be/gS92QnF2e4o (How to attach your OMEGA NATO strap - Video Manual by Omega)
                 https://youtu.be/mtFwjY_rjYI (OMEGA Seamaster Diver 300M Calibre 2500/2507 - Video Manual by Omega)
+                https://youtu.be/wC9gBMk7_ss (IN-DEPTH Guide - Everything You Need To Know About The OMEGA Co-Axial Escapement by Monochrome Watches)
+
+            Seiko 5:
+                https://www.seikowatches.com/in-en/products/5sports/lineup (Seiko 5 Sports Lineup)
+                https://www.seikowatches.com/in-en/products/5sports/srpd59 (Seiko 5 SRPD59 SKX Sports Style)
+                https://www.seikowatches.com/instructions/html/SEIKO_4R35_4R36_4R37_4R38_4R39_4R71_4R72_EN/index (Seiko 5 Instructions Manual)
+
 
         Stuff Worth Paid Subscription:
             https://1password.com
@@ -5034,7 +5055,6 @@ Contents:
         https://github.com/girliemac/a-picture-is-worth-a-1000-words (I am trying to describe complex matters in simple doodles!)
         https://github.com/goenning/google-indexing-script (https://seogets.com/blog/google-indexing-script Google Indexing Script)
         https://github.com/gothinkster/realworld ("The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more)
-
         https://github.com/jbranchaud/til (Today I Learned)
         https://github.com/jnv/lists (The definitive list of lists (of lists) curated on GitHub and elsewhere )
         https://github.com/mendel5/alternative-front-ends (Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.))
