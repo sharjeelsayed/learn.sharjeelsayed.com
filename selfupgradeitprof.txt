@@ -851,6 +851,7 @@ Contents:
                 https://systemd-by-example.com (The playground allows you to learn about systemd interactively, right from your browser!)
                 https://tldr.sh (Simplified and community-driven man pages)
                 https://tuxurls.com
+                https://wiki.archlinux.org
                 https://www.amazon.com/Best-Sellers-Books-Linux-Operating-System/zgbs/books/3849 (Best Sellers in Linux Operating System)
                 https://www.amazon.com/gp/bestsellers/books/285860 (Best Sellers in Linux Certification Guides)
                 https://www.brendangregg.com/linuxperf.html (Brendan Gregg's Linux Internals Maps)
@@ -982,9 +983,11 @@ Contents:
                 https://github.com/kellyjonbrazil/jc (CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and simplifying automation scripts.)
                 https://github.com/koalaman/shellcheck (a static analysis tool for shell scripts)
                 https://github.com/nvbn/thefuck (Magnificent app which corrects your previous console command.)
+                https://github.com/Orange-OpenSource/hurl (https://hurl.dev Hurl, run and test HTTP requests with plain text.)
                 https://github.com/phiresky/ripgrep-all (rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.)
                 https://github.com/rupa/z (z - jump around)
                 https://github.com/sxyazi/yazi (https://yazi-rs.github.io 💥 Blazing fast terminal file manager written in Rust, based on async I/O.)
+                https://github.com/Textualize/toolong (https://www.textualize.io A terminal application to view, tail, merge, and search log files (plus JSONL).)
                 https://ugrep.com (a more powerful, ultra fast, user-friendly, compatible grep)
 
             Books and Courses:
@@ -1494,6 +1497,7 @@ Contents:
                 https://instances.vantage.sh (Easy Amazon EC2 Instance Comparison)
                 https://linuxacademy-community-slack.herokuapp.com
                 https://miparnisariblog.wordpress.com/2023/03/29/aws-networking-concepts (AWS Networking Concepts)
+                https://news.ycombinator.com/item?id=39313623 (Almost every infrastructure decision I endorse or regret (cep.dev))
                 https://start.jcolemorrison.com/aws-vpc-core-concepts-analogy-guide (AWS VPC Core Concepts in an Analogy and Guide)
                 https://trustoncloud.com/the-last-s3-security-document-that-well-ever-need (The last S3 security document that we’ll ever need, and how to use it)
                 https://www.amazon.com/aws-courses/b/?node=14297978011
@@ -4798,6 +4802,7 @@ Contents:
                 https://github.com/magicoflolis/Reddit-Piracy-Megathread
                 https://github.com/movie-web/movie-web (https://movie-web.app A small web app for watching movies and shows easily from various torrent sites)
                 https://github.com/ngosang/trackerslist (Updated list of public BitTorrent trackers)
+                https://github.com/popcorn-official/popcorn-desktop (https://popcorntimeapp.netlify.app Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player ( Windows / Mac / Linux ) A Butter-Project Fork)
                 https://torrentfreak.com/top-torrent-sites (Top 10 Most Popular Torrent Sites 2024)
                 https://torrentfreak.com/utorrent-is-the-most-used-bittorrent-client-by-far-200405
                 https://www.reddit.com/r/Addons4Kodi/wiki/preferred_addons
@@ -4820,7 +4825,6 @@ Contents:
                 https://www.qbittorrent.org (32,011)
                 https://www.myanonamouse.net (42,501)
                 https://put.io (45,131)
-                https://popcorntime.app (54,315)
                 https://2torrentz.net (136,917)
 
         BackPacks:
