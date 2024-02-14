@@ -856,6 +856,7 @@ Contents:
                 https://www.amazon.com/gp/bestsellers/books/285860 (Best Sellers in Linux Certification Guides)
                 https://www.brendangregg.com/linuxperf.html (Brendan Gregg's Linux Internals Maps)
                 https://www.digitalocean.com/community/tutorials?primary_filter=popular
+                https://www.reddit.com/r/linux/comments/1apktdk/what_are_some_linux_utilities_that_you_cant_live (What are some linux utilities that you can't live without?)
                 https://www.reddit.com/r/linux/comments/gc1wmr/list_of_largest_linux_distro_subreddits
                 https://www.reddit.com/r/linux4noobs/wiki/resources
                 https://www.reddit.com/r/linuxadmin/comments/2s924h/how_did_you_get_your_start/cnnw1ma
@@ -1935,38 +1936,42 @@ Contents:
 
         Git:
             Sources:
-                https://about.gitlab.com/images/press/git-cheat-sheet.pdf
                 https://blog.martinhujer.cz/dont-put-idea-vscode-directories-to-projects-gitignore (Don't put .idea and .vscode directories to project's .gitignore)
                 https://firstaidgit.io (A searchable collection of the most frequently asked Git Questions)
-                https://git-scm.com/book/en/v2/Git-Tools-Reset-Demystified (Reset vs Checkout)
                 https://gitexplorer.com (Find the right commands you need without digging through the web)
                 https://github.com/AndreMiras/gitpop2 (Find the most popular fork on GitHub)
                 https://github.com/EvanLi/Github-Ranking (⭐Github Ranking⭐ Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily.)
-                https://github.com/FAQGURU/FAQGURU/blob/master/topics/en/git.md (A list of interview questions)
+                https://github.com/FAQGURU/FAQGURU/blob/master/topics/en/git.md (A list of Git interview questions)
+                https://github.com/topics/git?o=desc&s=stars
+                https://github.com/toptal/gitignore.io (Create useful .gitignore files for your project )
+                https://graphite.dev/blog/why-ban-merge-commits (Why large companies and fast-moving startups are banning merge commits)
+                https://grep.app (Search across a half million git repos)
+                https://news.ycombinator.com/item?id=21189256 (99% of the Git commands you'll need at work, demonstrated in a single script (bitbucket.org))
+                https://nvie.com/posts/a-successful-git-branching-model (A successful Git branching model)
+                https://sourcegraph.com/search (Search your code and 2M+ open source repositories)
+                https://stackoverflow.com/questions/tagged/git
+                https://useful-forks.github.io (It aims at increasing the discoverability of useful forks of open-source projects.)
+                https://www.garyrobinson.net/2014/10/git-in-two-minutes-for-a-solo-developer.html (Git In Two Minutes (for a solo developer))
+                https://www.reddit.com/r/git/top/?sort=top&t=all
+                https://www.toptal.com/developers/gitignore
+                https://www.udemy.com/topic/git/?ratings=4.5&sort=popularity (Udemy Courses rated 4.5 stars and above)
+
+            Git Tutorials:
+                https://about.gitlab.com/images/press/git-cheat-sheet.pdf (Git Cheat Sheet)
+                https://blog.gitbutler.com/git-tips-and-tricks (Git Tips and Tricks)
+                https://git-scm.com/book/en/v2/Git-Tools-Reset-Demystified (Reset vs Checkout)
                 https://github.com/git-tips/tips (Most commonly used git tips and tricks.)
                 https://github.com/k88hudson/git-flight-rules (Flight rules for git)
                 https://github.com/tiimgreen/github-cheat-sheet (A list of cool features of Git and GitHub.)
-                https://github.com/topics/git?o=desc&s=stars
-                https://github.com/toptal/gitignore.io (Create useful .gitignore files for your project )
                 https://github.com/UnseenWizzard/git_training (An interactive git training meant to teach you how git works, not just which commands to execute)
-                https://graphite.dev/blog/why-ban-merge-commits (Why large companies and fast-moving startups are banning merge commits)
-                https://grep.app (Search across a half million git repos)
+                https://github.github.com/training-kit/downloads/github-git-cheat-sheet (GitHub Git Cheat Sheet)
                 https://jdsalaro.com/blog/git-tutorial (Git for Beginners: Zero to Hero 🐙)
                 https://jvns.ca/blog/2023/11/01/confusing-git-terminology (Confusing git terminology by Julia Evans)
                 https://jvns.ca/blog/2023/11/06/rebasing-what-can-go-wrong- (git rebase: what can go wrong?)
                 https://jwiegley.github.io/git-from-the-bottom-up/1-Repository/7-branching-and-the-power-of-rebase.html (Best explanation of rebase vs merge)
-                https://news.ycombinator.com/item?id=21189256 (99% of the Git commands you'll need at work, demonstrated in a single script (bitbucket.org))
-                https://nvie.com/posts/a-successful-git-branching-model (A successful Git branching model)
                 https://ohshitgit.com (Bad situations I've gotten myself into, and how I eventually got myself out of them in plain english.)
-                https://sourcegraph.com/search (Search your code and 2M+ open source repositories)
-                https://stackoverflow.com/questions/tagged/git
                 https://techtldr.com/19-git-tips-for-everyday-use (19 Git Tips For Everyday Use)
-                https://useful-forks.github.io (It aims at increasing the discoverability of useful forks of open-source projects.)
-                https://www.garyrobinson.net/2014/10/git-in-two-minutes-for-a-solo-developer.html (Git In Two Minutes (for a solo developer))
-                https://www.reddit.com/r/git/top/?sort=top&t=all
                 https://www.shortcutfoo.com/app/dojos/git (Choose shortcuts to practice)
-                https://www.toptal.com/developers/gitignore
-                https://www.udemy.com/topic/git/?ratings=4.5&sort=popularity (Udemy Courses rated 4.5 stars and above)
                 https://youtu.be/1ffBJ4sVUb4 ([Linux.conf.au 2013] - Git For Ages 4 And Up)
                 https://youtu.be/2sjqTHE0zok (Lecture 6: Version Control (git) (2020) by Missing Semester)
 
@@ -1978,6 +1983,7 @@ Contents:
                 https://github.com/extrawurst/gitui (Blazing 💥 fast terminal-ui for git written in rust 🦀)
                 https://github.com/gabrie30/ghorg (Quickly clone an entire org/users repositories into one directory - Supports GitHub, GitLab, Bitbucket, and more)
                 https://github.com/git-up/GitUp (The Git interface you've been missing all your life has finally arrived. http://gitup.co)
+                https://github.com/gitbutlerapp/gitbutler (https://gitbutler.com The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte)
                 https://github.com/github/hub (A command-line tool that makes git easier to use with GitHub.)
                 https://github.com/initialcommit-com/git-sim (Visually simulate Git operations in your own repos with a single terminal command.)
                 https://github.com/jesseduffield/lazygit (simple terminal UI for git commands)
@@ -1987,55 +1993,55 @@ Contents:
                 https://github.com/martinvonz/jj (A Git-compatible DVCS that is both simple and powerful)
                 https://github.com/o2sh/onefetch (https://onefetch.dev Command-line Git information tool)
                 https://github.com/tpope/vim-fugitive (fugitive.vim: A Git wrapper so awesome, it should be illegal https://www.vim.org/scripts/script.php?script_id=2975)
-                https://www.sourcetreeapp.com (A free Git client for Windows and Mac )
+                https://www.sourcetreeapp.com (A free Git client for Windows and Mac)
                 https://www.sublimemerge.com (Git Client, done Sublime)
 
             Books and Courses:
                 Pro Git
-                https://git-scm.com/book/en/v2
+                    https://git-scm.com/book/en/v2
 
                 Git Concepts:
-                https://think-like-a-git.net (Think Like (a) Git A Guide for the Perplexed)
-                https://www.cduan.com/technical/git (Understanding Git Conceptually)
-                https://youtu.be/P6jD966jzlk?si=BvlE-DitQlhWjo3X (Git Internals - How Git Works - Fear Not The SHA! by GitLab)
+                    https://think-like-a-git.net (Think Like (a) Git A Guide for the Perplexed)
+                    https://www.cduan.com/technical/git (Understanding Git Conceptually)
 
                 Git Internals:
-                https://bakkenbaeck.github.io/a-random-walk-through-git (This tutorial is an in-depth look at how Git works)
-                https://codewords.recurse.com/issues/two/git-from-the-inside-out (Git from the inside out)
-                https://git-scm.com/book/en/v2/Git-Internals-Plumbing-and-Porcelain (10.1 Git Internals - Plumbing and Porcelain)
-                https://github.com/pluralsight/git-internals-pdf/releases (PeepCode Git Internals PDF:A PDF by Scott Chacon about how the Git source code control system stores files and revisions.)
-                https://jvns.ca/blog/2024/01/26/inside-git (Inside .git)
-                https://maryrosecook.com/blog/post/git-from-the-inside-out (https://youtu.be/fCtZWGhQBvo?si=i2j7W4OzM3DLpJze Git from the inside out by Mary Rose Cook)
-                https://nfarina.com/post/9868516270/git-is-simpler (Git Is Simpler Than You Think)
-                https://shalithasuranga.medium.com/how-does-git-work-internally-7c36dcb1f2cf (How does git work internally)
-                https://shop.jcoglan.com/building-git (Building Git by James Coglan)
+                    https://bakkenbaeck.github.io/a-random-walk-through-git (This tutorial is an in-depth look at how Git works)
+                    https://codewords.recurse.com/issues/two/git-from-the-inside-out (Git from the inside out)
+                    https://git-scm.com/book/en/v2/Git-Internals-Plumbing-and-Porcelain (10.1 Git Internals - Plumbing and Porcelain)
+                    https://github.com/pluralsight/git-internals-pdf/releases (PeepCode Git Internals PDF:A PDF by Scott Chacon about how the Git source code control system stores files and revisions.)
+                    https://jvns.ca/blog/2024/01/26/inside-git (Inside .git)
+                    https://maryrosecook.com/blog/post/git-from-the-inside-out (https://youtu.be/fCtZWGhQBvo?si=i2j7W4OzM3DLpJze Git from the inside out by Mary Rose Cook)
+                    https://nfarina.com/post/9868516270/git-is-simpler (Git Is Simpler Than You Think)
+                    https://shalithasuranga.medium.com/how-does-git-work-internally-7c36dcb1f2cf (How does git work internally)
+                    https://shop.jcoglan.com/building-git (Building Git by James Coglan)
+                    https://youtu.be/P6jD966jzlk?si=BvlE-DitQlhWjo3X (Git Internals - How Git Works - Fear Not The SHA! by GitLab)
 
-                Git from the Bottom Up
-                https://jwiegley.github.io/git-from-the-bottom-up
-                https://github.com/jwiegley/git-from-the-bottom-up
-                http://ftp.newartisans.com/pub/git.from.bottom.up.pdf
+                Git from the Bottom Up:
+                    https://jwiegley.github.io/git-from-the-bottom-up
+                    https://github.com/jwiegley/git-from-the-bottom-up
+                    http://ftp.newartisans.com/pub/git.from.bottom.up.pdf
 
                 Githug is designed to give you a practical way of learning git
-                https://github.com/Gazler/githug
+                    https://github.com/Gazler/githug
 
                 Learn Git Branching
-                https://learngitbranching.js.org
+                    https://learngitbranching.js.org
 
-                An open source game about learning Git!
-                https://ohmygit.org
-                https://github.com/git-learning-game/oh-my-git
+                An open source game about learning Git!:
+                    https://ohmygit.org
+                    https://github.com/git-learning-game/oh-my-git
 
                 Complete Git Guide: Understand and master Git and GitHub by Bogdan Stashchuk
-                https://www.udemy.com/course/git-and-github-complete-guide
-                https://youtu.be/3FKrszHcIsA
+                    https://www.udemy.com/course/git-and-github-complete-guide
+                    https://youtu.be/3FKrszHcIsA
 
             Additional Material:
-                Git Video Tutorial by Derek Banas
-                http://www.newthinktank.com/2014/04/git-video-tutorial
-                https://youtu.be/r63f51ce84A
+                Git Video Tutorial by Derek Banas:
+                    http://www.newthinktank.com/2014/04/git-video-tutorial
+                    https://youtu.be/r63f51ce84A
 
                 Git and GitHub for Poets by The Coding Train
-                https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV
+                    https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV
 
         Jenkins:
             Sources:
@@ -2048,35 +2054,35 @@ Contents:
 
             Courses:
                 Jenkins Handbook
-                https://www.jenkins.io/doc/book
+                    https://www.jenkins.io/doc/book
 
                 DevOps Beginners to Advanced with Projects - 2023 | Begin DevOps Career As an Absolute Beginner | AWS, Linux, Scripts, Jenkins, Ansible, GitOps, Docker,Kubernetes, & ChatGPT by Imran Teli
-                https://www.udemy.com/course/decodingdevops
+                    https://www.udemy.com/course/decodingdevops
 
                 Rocking DevOps with Jenkins, Kubernetes, Ansible by Rajdeep Saha | Cloud Architect @Fortune10 Company
-                https://www.udemy.com/course/rocking-devops-with-jenkins-kubernetes-ansible
+                    https://www.udemy.com/course/rocking-devops-with-jenkins-kubernetes-ansible
 
-                DevOps Project - 2022: CI/CD with Jenkins Ansible Kubernetes by AR Shankar | Valaxy Technologies
-                https://www.youtube.com/playlist?list=PLxzKY3wu0_FJdJd3IKdiM4Om1hGo2Hsdt
-                https://www.udemy.com/course/valaxy-devops
-                https://github.com/ValaxyTech
+                DevOps Project - 2022: CI/CD with Jenkins Ansible Kubernetes by AR Shankar | Valaxy Technologies:
+                    https://www.youtube.com/playlist?list=PLxzKY3wu0_FJdJd3IKdiM4Om1hGo2Hsdt
+                    https://www.udemy.com/course/valaxy-devops
+                    https://github.com/ValaxyTech
 
                 Jenkins Tutorial for Beginners by TechWorld with Nana
-                https://www.youtube.com/playlist?list=PLy7NrYWoggjw_LIiDK1LXdNN82uYuuuiC
+                    https://www.youtube.com/playlist?list=PLy7NrYWoggjw_LIiDK1LXdNN82uYuuuiC
 
             Additional Courses:
                 Certified Jenkins Engineer (2020) by Michael McClaren
-                https://acloud.guru/overview/9e73056f-b71d-43c5-b59d-d2053b15290d
+                    https://acloud.guru/overview/9e73056f-b71d-43c5-b59d-d2053b15290d
 
                 Implementing a Full CI/CD Pipeline by William Boyd
-                https://acloud.guru/overview/93e6884d-ac98-49b6-a9cd-5e357d2dbb41
+                    https://acloud.guru/overview/93e6884d-ac98-49b6-a9cd-5e357d2dbb41
 
-                Learn DevOps: CI/CD with Jenkins using Pipelines and Docker by Edward Viaene
-                https://www.udemy.com/course/learn-devops-ci-cd-with-jenkins-using-pipelines-and-docker
-                https://github.com/wardviaene/jenkins-course
-                https://github.com/wardviaene/devops-box
-                https://github.com/wardviaene/docker-demo
-                https://www.facebook.com/groups/devops.courses
+                Learn DevOps: CI/CD with Jenkins using Pipelines and Docker by Edward Viaene:
+                    https://www.udemy.com/course/learn-devops-ci-cd-with-jenkins-using-pipelines-and-docker
+                    https://github.com/wardviaene/jenkins-course
+                    https://github.com/wardviaene/devops-box
+                    https://github.com/wardviaene/docker-demo
+                    https://www.facebook.com/groups/devops.courses
 
         Vim:
             Sources:
@@ -3000,6 +3006,8 @@ Contents:
                 Sources:
                     https://code.visualstudio.com/docs/getstarted/tips-and-tricks (Visual Studio Code Tips and Tricks)
                     https://code.visualstudio.com/docs/sourcecontrol/github (Working with GitHub in VS Code)
+                    https://code.visualstudio.com/docs/sourcecontrol/overview#_3way-merge-editor (Visual Studio Code 3-way merge editor)
+                    https://code.visualstudio.com/docs/sourcecontrol/overview#_timeline-view (Visual Studio Code Timeline View)
                     https://datagubbe.se/vsc (Sane Visual Studio Code)
                     https://github.blog/2024-01-22-10-unexpected-ways-to-use-github-copilot (10 unexpected ways to use GitHub Copilot)
                     https://github.com/topics/vscode?o=desc&s=stars
@@ -3180,6 +3188,7 @@ Contents:
                 https://github.com/DopplerHQ/awesome-interview-questions (A curated awesome list of lists of interview questions. Feel free to contribute! 🎓)
                 https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes (Full reference of LinkedIn answers 2021 for skill assessments, LinkedIn test, questions and answers (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, css, python, machine-learning, power-point) linkedin excel test lösungen, linkedin machine learning test)
                 https://github.com/FAQGURU/FAQGURU (🎒 🚀 🎉 A list of interview questions. This repository is everything you need to prepare for your technical interview.)
+                https://github.com/FAQGURU/FAQGURU/blob/master/topics/en/git.md (A list of Git interview questions)
 
                 Frontend Interview Questions:
                 https://github.com/h5bp/Front-end-Developer-Interview-Questions (A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.)
