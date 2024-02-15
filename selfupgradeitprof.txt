@@ -397,10 +397,10 @@ Contents:
 
             Additional Material:
                 Modern Microprocessors A 90-Minute Guide! A brief, pulls-no-punches, fast-paced introduction to the main design aspects of modern processor microarchitecture
-                http://www.lighterra.com/papers/modernmicroprocessors
+                    http://www.lighterra.com/papers/modernmicroprocessors
 
                 Computer Architecture, Fifth Edition: A Quantitative Approach (The Morgan Kaufmann Series in Computer Architecture and Design) 5th Edition
-                https://www.amazon.com/Computer-Architecture-Fifth-Quantitative-Approach/dp/012383872X
+                    https://www.amazon.com/Computer-Architecture-Fifth-Quantitative-Approach/dp/012383872X
 
         Algorithms and Data Structures:
             Sources:
@@ -475,18 +475,18 @@ Contents:
                 https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw (3Blue1Brown Channel)
 
             Books and Courses:
-                Lecture notes by László Lovász
-                http://www.cs.elte.hu/~lovasz/dmbook.ps
+                Lecture notes by László Lovász:
+                    http://www.cs.elte.hu/~lovasz/dmbook.ps
 
-                Mathematics for Computer Science , MIT
-                https://courses.csail.mit.edu/6.042/spring17/mcs.pdf
-                https://www.youtube.com/playlist?list=PLUl4u3cNGP60UlabZBeeqOuoLuj_KNphQ (MIT 6.042J Mathematics for Computer Science, Spring 2015 YouTube)
+                Mathematics for Computer Science , MIT:
+                    https://courses.csail.mit.edu/6.042/spring17/mcs.pdf
+                    https://www.youtube.com/playlist?list=PLUl4u3cNGP60UlabZBeeqOuoLuj_KNphQ (MIT 6.042J Mathematics for Computer Science, Spring 2015 YouTube)
 
                 Essence of linear algebra
-                https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
+                    https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
 
                 Introduction to Linear Algebra, Fifth Edition
-                https://www.amazon.com/Introduction-Linear-Algebra-Gilbert-Strang/dp/0980232775
+                    https://www.amazon.com/Introduction-Linear-Algebra-Gilbert-Strang/dp/0980232775
 
         Operating Systems Concepts:
             Sources:
@@ -620,33 +620,33 @@ Contents:
                 https://pinboard.in/u:SharjeelSayed/t:db
 
             Books and Courses:
-                15-445/645 Intro to Database Systems (Fall 2019) by Andy Pavlo, Carnegie Mellon University
-                https://youtube.com/playlist?list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi
-                https://15445.courses.cs.cmu.edu/fall2022/schedule.html
+                15-445/645 Intro to Database Systems (Fall 2019) by Andy Pavlo, Carnegie Mellon University:
+                    https://youtube.com/playlist?list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi
+                    https://15445.courses.cs.cmu.edu/fall2022/schedule.html
 
                 15-721 Advanced Database Systems (Spring 2020)
-                https://www.youtube.com/playlist?list=PLSE8ODhjZXjasmrEd2_Yi1deeE360zv5O
+                    https://www.youtube.com/playlist?list=PLSE8ODhjZXjasmrEd2_Yi1deeE360zv5O
 
                 Database Internals: A Deep Dive into How Distributed Data Systems Work 1st Edition by Alex Petrov (Nov 2019)
-                https://www.amazon.com/gp/product/1492040347
+                    https://www.amazon.com/gp/product/1492040347
 
                 Architecture of a Database System
-                http://db.cs.berkeley.edu/papers/fntdb07-architecture.pdf
+                    http://db.cs.berkeley.edu/papers/fntdb07-architecture.pdf
 
                 Readings in Database Systems
-                http://www.redbook.io
+                    http://www.redbook.io
 
                 Computer Science 186, 001 - Spring 2015 UCBerkeley Introduction to Database Systems - Joseph Hellerstein
-                https://archive.org/details/UCBerkeley_Course_Computer_Science_186
+                    https://archive.org/details/UCBerkeley_Course_Computer_Science_186
 
                 Stanford's Databases MOOC
-                https://cs.stanford.edu/people/widom/DB-mooc.html
+                    https://cs.stanford.edu/people/widom/DB-mooc.html
 
                 Database Design by Caleb Curry
-                https://www.youtube.com/playlist?list=PL_c9BZzLwBRK0Pc28IdvPQizD2mJlgoID
+                    https://www.youtube.com/playlist?list=PL_c9BZzLwBRK0Pc28IdvPQizD2mJlgoID
 
                 Database Design for Mere Mortals: A Hands-On Guide to Relational Database Design (3rd Edition)
-                https://www.amazon.com/Database-Design-Mere-Mortals-Hands/dp/0321884493
+                    https://www.amazon.com/Database-Design-Mere-Mortals-Hands/dp/0321884493
 
         Distributed Systems:
             Sources:
@@ -768,13 +768,13 @@ Contents:
 
             Books and Courses:
                 The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win
-                https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262509
+                    https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262509
 
                 The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations
-                https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002
+                    https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002
 
                 The Practice of System and Network Administration: Volume 1: DevOps and other Best Practices for Enterprise IT (3rd Edition)
-                https://www.amazon.com/dp/0321919165
+                    https://www.amazon.com/dp/0321919165
 
         SRE:
             Sources:
@@ -794,17 +794,17 @@ Contents:
                 https://www.usenix.org/srecon
 
             Books and Courses:
-                Site Reliability Engineering: How Google Runs Production Systems
-                https://sre.google/sre-book/table-of-contents
-                https://www.amazon.com/Site-Reliability-Engineering-Production-Systems/dp/149192912X
+                Site Reliability Engineering: How Google Runs Production Systems:
+                    https://sre.google/sre-book/table-of-contents
+                    https://www.amazon.com/Site-Reliability-Engineering-Production-Systems/dp/149192912X
 
-                The Site Reliability Workbook: Practical Ways to Implement SRE
-                https://sre.google/workbook/table-of-contents
-                https://www.amazon.com/Site-Reliability-Workbook-Practical-Implement-ebook/dp/B07FWFPMYG
+                The Site Reliability Workbook: Practical Ways to Implement SRE:
+                    https://sre.google/workbook/table-of-contents
+                    https://www.amazon.com/Site-Reliability-Workbook-Practical-Implement-ebook/dp/B07FWFPMYG
 
-                Building Secure & Reliable Systems
-                https://google.github.io/building-secure-and-reliable-systems
-                https://sre.google/static/pdf/building_secure_and_reliable_systems.pdf
+                Building Secure & Reliable Systems:
+                    https://google.github.io/building-secure-and-reliable-systems
+                    https://sre.google/static/pdf/building_secure_and_reliable_systems.pdf
 
         SysAdmin:
             Sources:
@@ -869,45 +869,45 @@ Contents:
                 https://linuxjourney.com
 
                 A Practical Guide to Linux Commands, Editors, and Shell Programming 4th Edition (November 9, 2017) by Mark G. Sobell
-                https://www.amazon.com/Practical-Guide-Commands-Editors-Programming/dp/0134774604
+                    https://www.amazon.com/Practical-Guide-Commands-Editors-Programming/dp/0134774604
 
                 How Linux Works, 3rd Edition: What Every Superuser Should Know by Brian Ward
-                https://www.amazon.com/How-Linux-Works-Brian-Ward-ebook/dp/B07X7S1JMB
+                    https://www.amazon.com/How-Linux-Works-Brian-Ward-ebook/dp/B07X7S1JMB
 
                 Introduction to Linux by The Linux Foundation
-                https://www.edx.org/course/introduction-to-linux
+                    https://www.edx.org/course/introduction-to-linux
 
                 The Linux Command Line by William Shotts
-                https://linuxcommand.org/tlcl.php
+                    https://linuxcommand.org/tlcl.php
 
                 RHCSA Red Hat Enterprise Linux 9 Certification Study Guide, Eighth Edition (Exam EX200) (RHCSA/RHCE Red Hat Enterprise Linux Certification Study Guide, 9) by Michael Jang and Alessandro Orsaria 8th Edition ((January 11, 2024))
-                https://www.amazon.com/RHCSA-Enterprise-Linux-Certification-Study/dp/1260462072
+                    https://www.amazon.com/RHCSA-Enterprise-Linux-Certification-Study/dp/1260462072
 
                 UNIX and Linux System Administration Handbook (5th Edition)
-                https://www.amazon.com/UNIX-Linux-System-Administration-Handbook/dp/0134277554
+                    https://www.amazon.com/UNIX-Linux-System-Administration-Handbook/dp/0134277554
 
                 RHCSA Red Hat Enterprise Linux 9: Training and Exam Preparation Guide (EX200) by Asghar Ghori Third Edition (February 28, 2023)
-                https://www.amazon.com/RHCSA-Red-Hat-Enterprise-Linux-ebook/dp/B0BY53JYCP
+                    https://www.amazon.com/RHCSA-Red-Hat-Enterprise-Linux-ebook/dp/B0BY53JYCP
 
             Additional Material:
                 Linux From Scratch!
-                http://www.linuxfromscratch.org
+                    http://www.linuxfromscratch.org
 
                 Build yourself a Linux
-                https://github.com/MichielDerhaeg/build-linux
+                    https://github.com/MichielDerhaeg/build-linux
 
-                The Linux Programming Interface: A Linux and UNIX System Programming Handbook
-                https://man7.org/tlpi
-                https://www.amazon.com/Linux-Programming-Interface-System-Handbook/dp/1593272200
+                The Linux Programming Interface: A Linux and UNIX System Programming Handbook:
+                    https://man7.org/tlpi
+                    https://www.amazon.com/Linux-Programming-Interface-System-Handbook/dp/1593272200
 
                 Unix Power Tools,Third Edition
-                https://www.amazon.com/Power-Tools-Third-Shelley-Powers/dp/0596003307
+                    https://www.amazon.com/Power-Tools-Third-Shelley-Powers/dp/0596003307
 
                 Product Documentation for Red Hat Enterprise Linux
-                https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux
+                    https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux
 
                 The Linux Basics Course: Beginner to Sysadmin, Step by Step by tutoriaLinux
-                https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK
+                    https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK
 
         FreeBSD:
             Sources:
@@ -993,13 +993,13 @@ Contents:
 
             Books and Courses:
                 ABS Guide
-                http://tldp.org/LDP/abs/html
+                    http://tldp.org/LDP/abs/html
 
                 All commands sorted by votes | commandlinefu.com
-                http://www.commandlinefu.com/commands/browse/sort-by-votes
+                    http://www.commandlinefu.com/commands/browse/sort-by-votes
 
                 HackerRank Bash Challenges
-                https://www.hackerrank.com/domains/shell/bash
+                    https://www.hackerrank.com/domains/shell/bash
 
         ssh:
             Sources:
@@ -1060,26 +1060,26 @@ Contents:
 
             Books and Courses:
                 Windows Server documentation - Microsoft
-                https://docs.microsoft.com/en-us/windows-server
+                    https://docs.microsoft.com/en-us/windows-server
 
                 Windows Server Courses from Microsoft Virtual Academy
-                https://mva.microsoft.com/LearningPaths.aspx
+                    https://mva.microsoft.com/LearningPaths.aspx
 
-                Windows Internals, Part 1: System architecture, processes, threads, memory management, and more (7th Edition)
-                https://www.amazon.com/Windows-Internals-Part-architecture-management/dp/0735684189
-                https://docs.microsoft.com/en-us/sysinternals/learn/windows-internals
+                Windows Internals, Part 1: System architecture, processes, threads, memory management, and more (7th Edition):
+                    https://www.amazon.com/Windows-Internals-Part-architecture-management/dp/0735684189
+                    https://docs.microsoft.com/en-us/sysinternals/learn/windows-internals
 
         Powershell:
             Sources:
                 https://www.reddit.com/r/PowerShell
 
             Books and Courses:
-                Learn Windows PowerShell in a Month of Lunches 3rd Edition (2016) by Donald W. Jones
-                https://www.amazon.com/Learn-Windows-PowerShell-Month-Lunches/dp/1617294160
-                https://www.youtube.com/playlist?list=PL6D474E721138865A
+                Learn Windows PowerShell in a Month of Lunches 3rd Edition (2016) by Donald W. Jones:
+                    https://www.amazon.com/Learn-Windows-PowerShell-Month-Lunches/dp/1617294160
+                    https://www.youtube.com/playlist?list=PL6D474E721138865A
 
                 PowerShell Cookbook: Your Complete Guide to Scripting the Ubiquitous Object-Based Shell 4th Edition (2021) by Lee Holmes
-                https://www.amazon.com/PowerShell-Cookbook-Scripting-Ubiquitous-Object-Based/dp/109810160X
+                    https://www.amazon.com/PowerShell-Cookbook-Scripting-Ubiquitous-Object-Based/dp/109810160X
 
         Storage:
             Books and Courses:
@@ -1128,46 +1128,46 @@ Contents:
                 https://pinboard.in/u:SharjeelSayed/t:docker
 
             Books and Courses:
-                Docker Official Documentation
-                https://docs.docker.com/get-started/overview
-                https://docs.docker.com/engine/reference/builder
+                Docker Official Documentation:
+                    https://docs.docker.com/get-started/overview
+                    https://docs.docker.com/engine/reference/builder
 
-                Docker for Beginners: Full Course by Mumshad Mannambeth
-                https://youtu.be/zJ6WbK9zFpI
-                https://www.kodekloud.com/p/docker-labs
-                https://www.udemy.com/course/learn-docker
-                https://learning.oreilly.com/videos/docker-for-the/9781788991315
+                Docker for Beginners: Full Course by Mumshad Mannambeth:
+                    https://youtu.be/zJ6WbK9zFpI
+                    https://www.kodekloud.com/p/docker-labs
+                    https://www.udemy.com/course/learn-docker
+                    https://learning.oreilly.com/videos/docker-for-the/9781788991315
 
                 Docker Fundamentals by Adrian Cantrill
-                https://learn.cantrill.io/p/docker-fundamentals
+                    https://learn.cantrill.io/p/docker-fundamentals
 
-                Docker - Swarm, Services and Stack - Hands-On by Mumshad Mannambeth
-                https://learning.oreilly.com/videos/docker-swarm/9781788991414
-                https://www.udemy.com/course/learn-docker-advanced
+                Docker - Swarm, Services and Stack - Hands-On by Mumshad Mannambeth:
+                    https://learning.oreilly.com/videos/docker-swarm/9781788991414
+                    https://www.udemy.com/course/learn-docker-advanced
 
                 Docker Tutorial for Beginners [FULL COURSE in 3 Hours] by TechWorld with Nana
-                https://youtu.be/3c-iBn73dDE
+                    https://youtu.be/3c-iBn73dDE
 
-                Docker Deep Dive: Zero to Docker in a single book by Nigel Poulton
-                https://www.amazon.com/Docker-Deep-Dive-Nigel-Poulton-ebook/dp/B01LXWQUFF
-                https://leanpub.com/dockerdeepdive
-                https://www.oreilly.com/library/view/docker-deep-dive/9781800565135
+                Docker Deep Dive: Zero to Docker in a single book by Nigel Poulton:
+                    https://www.amazon.com/Docker-Deep-Dive-Nigel-Poulton-ebook/dp/B01LXWQUFF
+                    https://leanpub.com/dockerdeepdive
+                    https://www.oreilly.com/library/view/docker-deep-dive/9781800565135
 
             Additional Material:
                 Play with Docker Classroom
-                https://training.play-with-docker.com
+                    https://training.play-with-docker.com
 
                 Docker for Beginners
-                https://prakhar.me/docker-curriculum
+                    https://prakhar.me/docker-curriculum
 
-                Docker Mastery: with Kubernetes +Swarm from a Docker Captain by Bret Fisher
-                https://www.udemy.com/course/docker-mastery
-                https://chat.bretfisher.com
-                https://www.fb.com/bretfisher.devops
+                Docker Mastery: with Kubernetes +Swarm from a Docker Captain by Bret Fisher:
+                    https://www.udemy.com/course/docker-mastery
+                    https://chat.bretfisher.com
+                    https://www.fb.com/bretfisher.devops
 
-                Docker for Developers: Develop and run your application with Docker containers using DevOps tools for continuous delivery by Richard Bullington-McGuire, Andrew K. Dennis, Michael Schwartz
-                https://www.amazon.com/Docker-Developers-application-containers-continuous-ebook/dp/B08C5LSHGW
-                https://www.packtpub.com/product/docker-for-developers/9781789536058
+                Docker for Developers: Develop and run your application with Docker containers using DevOps tools for continuous delivery by Richard Bullington-McGuire, Andrew K. Dennis, Michael Schwartz:
+                    https://www.amazon.com/Docker-Developers-application-containers-continuous-ebook/dp/B08C5LSHGW
+                    https://www.packtpub.com/product/docker-for-developers/9781789536058
 
         Kubernetes:
             Sources:
@@ -1332,7 +1332,7 @@ Contents:
                     https://www.youtube.com/playlist?list=PL2We04F3Y_41lFKy19ig_9u-5Sj_RWTDL (JSON PATH)
 
                 Kubernetes Hands-On - Deploy Microservices to the AWS Cloud by Richard Chesterwood, Virtual Pair Programmers and Prageeth Warnak
-                https://www.udemy.com/course/kubernetes-microservices
+                    https://www.udemy.com/course/kubernetes-microservices
 
                 Kubernetes: Dive Into Kubernetes in One Hour! Fully Hands On by James Spurin:
                     https://www.udemy.com/course/diveintokubernetes-introduction
@@ -1636,7 +1636,7 @@ Contents:
 
             Books and Courses:
                 John Savill's Technical Training
-                https://www.youtube.com/user/NTFAQGuy
+                    https://www.youtube.com/user/NTFAQGuy
 
                 AZ-300/AZ-303 Azure Architecture Technologies Exam Prep 2020 by Scott Duffy:
                     https://www.udemy.com/course/70534-azure
@@ -1644,7 +1644,7 @@ Contents:
                     https://www.facebook.com/groups/azureusergroupunofficial
 
                 Azure Solutions Architect AZ-303 + AZ-304 Certification Training Course by Mike Pfeiffer
-                https://cloudskills.io/courses/az-30x
+                    https://cloudskills.io/courses/az-30x
 
         GCP:
             Sources:
@@ -1666,6 +1666,7 @@ Contents:
                 https://docs.nginx.com/nginx/admin-guide/monitoring/logging
                 https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange
                 https://en.wikipedia.org/wiki/Elliptic-curve_Diffie%E2%80%93Hellman
+                https://freenginx.org (The goal of the project is to keep nginx development free from arbitrary corporate actions)
                 https://gist.github.com/willurd/5720255 (Big list of http static server one-liners)
                 https://github.com/bunkerity/bunkerized-nginx
                 https://github.com/fcambus/nginx-resources
@@ -1687,16 +1688,16 @@ Contents:
 
             Books and Courses:
                 The NGINX Handbook by Farhan Hasin Chowdhury
-                https://www.freecodecamp.org/news/the-nginx-handbook
+                    https://www.freecodecamp.org/news/the-nginx-handbook
 
                 NGINX Fundamentals: High Performance Servers from Scratch by Ray Viljoen
-                https://www.udemy.com/course/nginx-fundamentals
+                    https://www.udemy.com/course/nginx-fundamentals
 
                 Nginx HTTP Server - Fourth Edition: Harness the power of Nginx to make the most of your infrastructure and serve pages faster than ever before by Martin Fjordvald and Clement Nedelcu
-                https://www.amazon.com/Nginx-HTTP-Server-Harness-infrastructure/dp/178862355X
+                    https://www.amazon.com/Nginx-HTTP-Server-Harness-infrastructure/dp/178862355X
 
                 How to improve NGINX performance, security, and other important things
-                https://github.com/trimstray/nginx-admins-handbook
+                    https://github.com/trimstray/nginx-admins-handbook
 
         Apache:
             Books and Courses:
@@ -1730,42 +1731,42 @@ Contents:
 
             Books and Courses:
                 Dive Into Ansible - From Beginner to Expert in Ansible by James Spurin
-                https://www.udemy.com/course/diveintoansible
+                    https://www.udemy.com/course/diveintoansible
 
                 Ansible 101 by Jeff Geerling
-                https://www.youtube.com/playlist?list=PL2_OBreMn7FqZkvMYt6ATmgC0KAGGJNAN
+                    https://www.youtube.com/playlist?list=PL2_OBreMn7FqZkvMYt6ATmgC0KAGGJNAN
 
-                Ansible for DevOps by Jeff Geerling
-                https://www.ansiblefordevops.com
-                https://github.com/geerlingguy/ansible-for-devops
-                https://leanpub.com/ansible-for-devops
+                Ansible for DevOps by Jeff Geerling:
+                    https://www.ansiblefordevops.com
+                    https://github.com/geerlingguy/ansible-for-devops
+                    https://leanpub.com/ansible-for-devops
 
-                Ansible for the Absolute Beginner - Hands-On - DevOps by Mumshad Mannambeth
-                https://www.udemy.com/course/learn-ansible
-                https://learning.oreilly.com/videos/ansible-for-the/9781789132427
+                Ansible for the Absolute Beginner - Hands-On - DevOps by Mumshad Mannambeth:
+                    https://www.udemy.com/course/learn-ansible
+                    https://learning.oreilly.com/videos/ansible-for-the/9781789132427
 
                 Ansible Advanced - Hands-On - DevOps by Mumshad Mannambeth
-                https://www.udemy.com/course/learn-ansible-advanced
-                https://learning.oreilly.com/videos/ansible-advanced/9781789136470
+                    https://www.udemy.com/course/learn-ansible-advanced
+                    https://learning.oreilly.com/videos/ansible-advanced/9781789136470
 
                 Ansible Certification Preparation Course by Mumshad Mannambeth
-                https://kodekloud.com/p/ansible-certification
+                    https://kodekloud.com/p/ansible-certification
 
                 Ansible tutorial
-                https://github.com/leucos/ansible-tuto
+                    https://github.com/leucos/ansible-tuto
 
                 Interactive Ansible tutorials with dead simple setup via Docker
-                https://github.com/turkenh/ansible-interactive-tutorial
+                    https://github.com/turkenh/ansible-interactive-tutorial
 
-                Ansible for Kubernetes by Jeff Geerling
-                https://www.ansibleforkubernetes.com
-                https://github.com/geerlingguy/ansible-for-kubernetes
+                Ansible for Kubernetes by Jeff Geerling:
+                    https://www.ansibleforkubernetes.com
+                    https://github.com/geerlingguy/ansible-for-kubernetes
 
                 Ansible Videos
-                https://www.ansible.com/videos
+                    https://www.ansible.com/videos
 
                 Ansible Essentials: Simplicity in Automation Technical Overview
-                https://www.redhat.com/en/services/training/do007-ansible-essentials-simplicity-automation-technical-overview
+                    https://www.redhat.com/en/services/training/do007-ansible-essentials-simplicity-automation-technical-overview
 
         Terraform:
             Sources:
@@ -1811,28 +1812,28 @@ Contents:
                 https://youtu.be/V4waklkBC38 (HashiCorp Terraform Associate Certification Course - Pass the Exam! by  Andrew Brown (reeCodeCamp.org))
 
             Books and Courses:
-                More than Certified in Terraform by Derek Morgan
-                https://courses.morethancertified.com
-                https://www.udemy.com/course/terraform-certified
-                https://github.com/morethancertified/mtc-terraform
-                https://techstudyslack.slack.com/archives/C01E7UKHR34
+                More than Certified in Terraform by Derek Morgan:
+                    https://courses.morethancertified.com
+                    https://www.udemy.com/course/terraform-certified
+                    https://github.com/morethancertified/mtc-terraform
+                    https://techstudyslack.slack.com/archives/C01E7UKHR34
 
-                HashiCorp Certified: Terraform Associate Practice Exam 2023 by Bryan Krausen
-                https://www.udemy.com/course/terraform-associate-practice-exam
-                https://github.com/btkrausen (Coupon Codes)
+                HashiCorp Certified: Terraform Associate Practice Exam 2023 by Bryan Krausen:
+                    https://www.udemy.com/course/terraform-associate-practice-exam
+                    https://github.com/btkrausen (Coupon Codes)
 
-                HashiCorp Certified: Terraform Associate 2022 by Zeal Vora
-                https://www.udemy.com/course/terraform-beginner-to-advanced
-                https://github.com/zealvora/coupon-codes ((Coupon Codes))
-                https://github.com/zealvora/terraform-beginner-to-advanced-resource
-                https://rutracker.org/forum/viewtopic.php?t=5936588
+                HashiCorp Certified: Terraform Associate 2022 by Zeal Vora:
+                    https://www.udemy.com/course/terraform-beginner-to-advanced
+                    https://github.com/zealvora/coupon-codes ((Coupon Codes))
+                    https://github.com/zealvora/terraform-beginner-to-advanced-resource
+                    https://rutracker.org/forum/viewtopic.php?t=5936588
 
-                Terraform: Up & Running: Writing Infrastructure as Code 3rd Edition By Yevgeniy Brikman
-                https://www.terraformupandrunning.com
-                https://learning.oreilly.com/library/view/terraform-up/9781492046899
-                https://www.oreilly.com/catalog/errata.csp?isbn=0636920225010
-                https://www.amazon.com/Terraform-Running-Writing-Infrastructure-Code/dp/1492046906
-                https://github.com/brikis98/terraform-up-and-running-code
+                Terraform: Up & Running: Writing Infrastructure as Code 3rd Edition By Yevgeniy Brikman:
+                    https://www.terraformupandrunning.com
+                    https://learning.oreilly.com/library/view/terraform-up/9781492046899
+                    https://www.oreilly.com/catalog/errata.csp?isbn=0636920225010
+                    https://www.amazon.com/Terraform-Running-Writing-Infrastructure-Code/dp/1492046906
+                    https://github.com/brikis98/terraform-up-and-running-code
 
                 Amazon EKS Terraform Workshop
                 https://tf-eks-workshop.workshop.aws
@@ -1901,9 +1902,9 @@ Contents:
                 https://www.postgresql.org/docs/current
                 https://pgexercises.com
 
-                The Complete SQL Bootcamp 2020: Go from Zero to Hero by Jose Portilla
-                https://www.udemy.com/course/the-complete-sql-bootcamp
-                https://github.com/jmportilla/Udemy-notes (Coupon)
+                The Complete SQL Bootcamp 2020: Go from Zero to Hero by Jose Portilla:
+                    https://www.udemy.com/course/the-complete-sql-bootcamp
+                    https://github.com/jmportilla/Udemy-notes (Coupon)
 
             PostgreSQL Clients: (Sorted by Alexa Rank)
                 https://www.jetbrains.com/datagrip (1,677)
@@ -2116,28 +2117,28 @@ Contents:
 
             Books and Courses:
                 vimtutor
-                https://vimhelp.org/usr_01.txt.html#vimtutor
+                    https://vimhelp.org/usr_01.txt.html#vimtutor
 
                 Learn Vim Progressively
-                http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively
+                    http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively
 
                 Learn Vim For the Last Time: A Tutorial and Primer
-                https://danielmiessler.com/study/vim
+                    https://danielmiessler.com/study/vim
 
-                Practical Vim: Edit Text at the Speed of Thought , 2nd Edition (2015) by Drew Neil
-                https://learning.oreilly.com/library/view/practical-vim-2nd/9781680501629
-                https://pragprog.com/titles/dnvim2/practical-vim-second-edition
-                https://www.amazon.com/Practical-Vim-Edit-Speed-Thought/dp/1680501275
+                Practical Vim: Edit Text at the Speed of Thought , 2nd Edition (2015) by Drew Neil:
+                    https://learning.oreilly.com/library/view/practical-vim-2nd/9781680501629
+                    https://pragprog.com/titles/dnvim2/practical-vim-second-edition
+                    https://www.amazon.com/Practical-Vim-Edit-Speed-Thought/dp/1680501275
 
                 Modern Vim: Craft Your Development Environment with Vim 8 and Neovim by Drew Neil
-                https://www.amazon.com/Modern-Vim-Development-Environment-Neovim/dp/168050262X
+                    https://www.amazon.com/Modern-Vim-Development-Environment-Neovim/dp/168050262X
 
                 The Valuable Dev
-                https://thevaluable.dev/vim-beginner
-                https://thevaluable.dev/vim-intermediate
-                https://thevaluable.dev/vim-advanced
-                https://thevaluable.dev/vim-adept
-                https://thevaluable.dev/vim-veteran
+                    https://thevaluable.dev/vim-beginner
+                    https://thevaluable.dev/vim-intermediate
+                    https://thevaluable.dev/vim-advanced
+                    https://thevaluable.dev/vim-adept
+                    https://thevaluable.dev/vim-veteran
 
         ELK:
             Books and Courses:
@@ -2217,8 +2218,9 @@ Contents:
                 https://github.com/jatrost/awesome-kubernetes-threat-detection (A curated list of resources about detecting threats and defending Kubernetes systems.)
                 https://github.com/krol3/container-security-checklist (Checklist for container security - devsecops practices)
                 https://github.com/Legit-Labs/legitify (https://legitify.dev Detect and remediate misconfigurations and security risks across all your GitHub and GitLab assets)
+                https://github.com/LetsDefend/SOC-Interview-Questions (SOC Interview Questions)
                 https://github.com/Lissy93/awesome-privacy (🦄 A curated list of privacy & security-focused software and services)
-                https://github.com/Lissy93/personal-security-checklist (🔒 A curated checklist of 300+ tips for protecting digital security and privacy in 2021)
+                https://github.com/Lissy93/personal-security-checklist (https://digital-defense.io 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024)
                 https://github.com/Lissy93/web-check (🌐 All-in-one OSINT tool for analysing any website)
                 https://github.com/mazen160/secrets-patterns-db (Secrets Patterns DB: The largest open-source Database for detecting secrets, API keys, passwords, tokens, and more.)
                 https://github.com/mikeprivette/awesome-sec-challenges (A curated list of Awesome Security Challenges.)
@@ -2320,38 +2322,38 @@ Contents:
 
             Books and Courses:
                 Penetration Testing: A Hands-On Introduction to Hacking
-                https://www.amazon.com/Penetration-Testing-Hands-Introduction-Hacking/dp/1593275641
+                    https://www.amazon.com/Penetration-Testing-Hands-Introduction-Hacking/dp/1593275641
 
                 Offensive Computer Security Spring 2014 Homepage Florida State University
-                http://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity
+                    http://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity
 
                 Offensive Security Certified Professional
-                https://www.offensive-security.com/pwk-oscp
+                    https://www.offensive-security.com/pwk-oscp
 
                 The Hacker Playbook 3: Practical Guide To Penetration Testing
-                https://www.amazon.com/Hacker-Playbook-Practical-Penetration-Testing/dp/1980901759
+                    https://www.amazon.com/Hacker-Playbook-Practical-Penetration-Testing/dp/1980901759
 
                 MIT Course Number 6.858 :Computer Systems Security
-                https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014
+                    https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014
 
-                Practical Ethical Hacking - The Complete Course by Heath Adams
-                https://www.udemy.com/course/practical-ethical-hacking
-                https://academy.tcm-sec.com/p/practical-ethical-hacking-the-complete-course
-                https://youtu.be/fNzpcB7ODxQ (Ethical Hacking in 12 Hours - Full Course - Learn to Hack!)
-                https://github.com/TCM-Course-Resources/Practical-Ethical-Hacking-Resources
-                https://youtu.be/WnN6dbos5u8 (Full Ethical Hacking Course - Beginner Network Penetration Testing (2019))
+                Practical Ethical Hacking - The Complete Course by Heath Adams:
+                    https://www.udemy.com/course/practical-ethical-hacking
+                    https://academy.tcm-sec.com/p/practical-ethical-hacking-the-complete-course
+                    https://youtu.be/fNzpcB7ODxQ (Ethical Hacking in 12 Hours - Full Course - Learn to Hack!)
+                    https://github.com/TCM-Course-Resources/Practical-Ethical-Hacking-Resources
+                    https://youtu.be/WnN6dbos5u8 (Full Ethical Hacking Course - Beginner Network Penetration Testing (2019))
 
                 Open-Source Intelligence (OSINT) in 5 Hours - Full Course - Learn OSINT! by Heath Adams
-                https://youtu.be/qwA6MmbeGNo
+                    https://youtu.be/qwA6MmbeGNo
 
                 Incident Response & Computer Forensics, Third Edition 3rd Edition by Jason T. Luttgens, Matthew Pepe and Kevin Mandia
-                https://www.amazon.com/Incident-Response-Computer-Forensics-Third/dp/0071798684
+                    https://www.amazon.com/Incident-Response-Computer-Forensics-Third/dp/0071798684
 
                 Security Engineering: A Guide to Building Dependable Distributed Systems by Ross Anderson 3rd Edition 2020
-                https://www.amazon.com/Security-Engineering-Building-Dependable-Distributed/dp/1119642787
+                    https://www.amazon.com/Security-Engineering-Building-Dependable-Distributed/dp/1119642787
 
                 HarvardX: CS50's Introduction to Cybersecurity
-                https://www.edx.org/learn/cybersecurity/harvard-university-cs50-s-introduction-to-cybersecurity
+                    https://www.edx.org/learn/cybersecurity/harvard-university-cs50-s-introduction-to-cybersecurity
 
         Hardware:
             Sources:
@@ -2637,23 +2639,23 @@ Contents:
 
             Books and Courses:
                 Stanford DB5 Course on SQL
-                https://lagunita.stanford.edu/courses/DB/SQL/SelfPaced/about
+                    https://lagunita.stanford.edu/courses/DB/SQL/SelfPaced/about
 
                 Learn SQL step by step
-                https://sqlzoo.net
+                    https://sqlzoo.net
 
                 SQL Teaching
-                https://www.sqlteaching.com
+                    https://www.sqlteaching.com
 
                 SQL Tutorial
-                https://www.w3schools.com/sql
+                    https://www.w3schools.com/sql
 
                 SQL Indexing and Tuning e-Book
-                https://use-the-index-luke.com
+                    https://use-the-index-luke.com
 
-                HarvardX: CS50's Introduction to Databases with SQL
-                https://cs50.edx.org/sql
-                https://cs50.harvard.edu/sql/2024
+                HarvardX: CS50's Introduction to Databases with SQL:
+                    https://cs50.edx.org/sql
+                    https://cs50.harvard.edu/sql/2024
 
         Python:
             Sources:
@@ -2950,7 +2952,6 @@ Contents:
                 https://github.com/labmlai/annotated_deep_learning_paper_implementations ( 🧑‍🏫 60 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠 )
                 https://github.com/netease-youdao/QAnything (https://qanything.ai Question and Answer based on Anything.)
                 https://github.com/OpenMindClub/awesome-chatgpt (⚡ Everything about ChatGPT )
-                https://github.com/stas00/ml-engineering (Machine Learning Engineering Online Book https://stasosphere.com/machine-learning)
                 https://github.com/taranjeet/awesome-gpts (Collection of all the GPTs created by the community)
                 https://news.ycombinator.com/item?id=12713056 (Ask HN: How to get started with machine learning?)
                 https://news.ycombinator.com/item?id=16493489 (Machine Learning Crash Course)
@@ -2960,28 +2961,26 @@ Contents:
                 https://news.ycombinator.com/item?id=38638373 (Ask HN: Daily practices for building AI/ML skills?)
                 https://osanseviero.github.io/hackerllama/blog/posts/random_transformer (The Random Transformer Understand how transformers work by demystifying all the math behind them)
                 https://sourcegraph.com/cody (Cody is a coding AI assistant that uses AI and a deep understanding of your codebase to help you write and understand code faster.)
-                https://work.caltech.edu/telecourse (Learning From Data by Caltech's Professor Yaser Abu-Mostafa.)
                 https://www.amazon.com/Artificial-Intelligence-A-Modern-Approach-dp-0134610997/dp/0134610997 (Artificial Intelligence: A Modern Approach (Pearson Series in Artifical Intelligence) 4th Edition by Stuart Russell and Peter Norvig)
                 https://www.amazon.com/Elements-Statistical-Learning-Prediction-Statistics/dp/0387848576 (https://hastie.su.domains/Papers/ESLII.pdf The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition (Springer Series in Statistics) 2nd Edition by Trevor Hastie , Robert Tibshirani , Jerome Friedman)
-                https://www.deeplearningbook.org (Deep Learning (Adaptive Computation and Machine Learning series) by Ian Goodfellow and Yoshua Bengio and Aaron Courville https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618)
                 https://www.manning.com/books/build-a-large-language-model-from-scratch (Build a Large Language Model (From Scratch) by Sebastian Raschk https://github.com/rasbt/LLMs-from-scratch)
 
             Books and Courses:
                 Machine Learning by Andrew Ng
-                https://www.coursera.org/learn/machine-learning
+                    https://www.coursera.org/learn/machine-learning
 
                 Deep Learning Specialization by Andrew Ng
-                https://www.coursera.org/specializations/deep-learning
+                    https://www.coursera.org/specializations/deep-learning
 
                 An Introduction to Statistical Learning
-                https://www.statlearning.com
+                    https://www.statlearning.com
 
                 Micosoft Courses:
-                https://github.com/microsoft/AI-For-Beginners (12 Weeks, 24 Lessons, AI for All!)
-                https://github.com/microsoft/generative-ai-for-beginners (12 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners)
-                https://github.com/microsoft/ML-For-Beginners (12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all)
+                    https://github.com/microsoft/AI-For-Beginners (12 Weeks, 24 Lessons, AI for All!)
+                    https://github.com/microsoft/generative-ai-for-beginners (12 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners)
+                    https://github.com/microsoft/ML-For-Beginners (12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all)
 
-            Other Courses:
+            Other Tutorials:
                 https://ai.stanford.edu/courses (Stanford A.I. courses from Fall 2019 CS229)
                 https://blog.floydhub.com/best-deep-learning-courses-updated-for-2019
                 https://course.fast.ai (Practical Deep Learning for Coders)
@@ -2990,9 +2989,12 @@ Contents:
                 https://github.com/ethen8181/machine-learning (🌎 machine learning tutorials (mainly in Python3))
                 https://github.com/mlabonne/llm-course (https://mlabonne.github.io/blog Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.)
                 https://github.com/SkalskiP/courses (This repository is a curated collection of links to various courses and resources about Artificial Intelligence (AI))
+                https://github.com/stas00/ml-engineering (Machine Learning Engineering Online Book https://stasosphere.com/machine-learning)
                 https://karpathy.ai/zero-to-hero.html (A course by Andrej Karpathy on building neural networks, from scratch, in code)
+                https://work.caltech.edu/telecourse (Learning From Data by Caltech's Professor Yaser Abu-Mostafa.)
                 https://www.cloudskillsboost.google/paths/118 (Introduction to Generative AI Learning Path)
                 https://www.deeplearning.ai/courses/generative-ai-for-everyone (Generative AI for Everyone Instructed by Andrew Ng)
+                https://www.deeplearningbook.org (Deep Learning (Adaptive Computation and Machine Learning series) by Ian Goodfellow and Yoshua Bengio and Aaron Courville https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618)
                 https://www.youtube.com/playlist?app=desktop&list=PLoROMvodv4rNyWOpJg_Yh4NSqI4Z4vOYy (Stanford CS229: Machine Learning I Spring 2022)
 
         IDE:
@@ -3127,98 +3129,99 @@ Contents:
 
             Material:
                 System Design Interview:
-                https://github.com/ashishps1/awesome-system-design-resources (This repository contains System Design resources which are useful while preparing for interviews and learning Distributed Systems)
-                https://github.com/binhnguyennus/awesome-scalability ( The patterns of scalable, reliable, and performant large-scale systems topics)
-                https://github.com/ByteByteGoHq/ml-bytebytego (Reference Materials for System Design Interview)
-                https://github.com/ByteByteGoHq/system-design-101 (Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.)
-                https://github.com/checkcheckzz/system-design-interview (System design interview for IT companies)
-                https://github.com/Coder-World04/Complete-System-Design (This repository contains everything you need to become proficient in System Design)
-                https://github.com/donnemartin/system-design-primer (The System Design Primer)
-                https://github.com/InterviewReady/system-design-resources (https://interviewready.io These are the best resources for System Design on the Internet)
-                https://github.com/karanpratapsingh/system-design (Learn how to design systems at scale and prepare for system design interviews)
-                https://github.com/madd86/awesome-system-design (A curated list of awesome System Design (A.K.A. Distributed Systems) resources.)
-                https://github.com/shashank88/system_design (Preparation links and resources for system design questions)
-                https://github.com/shashank88/system_design (Preparation links and resources for system design questions)
-                https://interviewing.io/guides/system-design-interview (A Senior Engineer's Guide to the System Design Interview)
-                https://www.amazon.com/System-Design-Interview-Insiders-Guide/dp/1736049119 (System Design Interview – An Insider's Guide: Volume 2 by Alex Xu)
-                https://youtu.be/bUHFg8CZFws (System Design Interview – Step By Step Guide by System Design Interview)
+                    https://github.com/ashishps1/awesome-system-design-resources (This repository contains System Design resources which are useful while preparing for interviews and learning Distributed Systems)
+                    https://github.com/binhnguyennus/awesome-scalability ( The patterns of scalable, reliable, and performant large-scale systems topics)
+                    https://github.com/ByteByteGoHq/ml-bytebytego (Reference Materials for System Design Interview)
+                    https://github.com/ByteByteGoHq/system-design-101 (Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.)
+                    https://github.com/checkcheckzz/system-design-interview (System design interview for IT companies)
+                    https://github.com/Coder-World04/Complete-System-Design (This repository contains everything you need to become proficient in System Design)
+                    https://github.com/donnemartin/system-design-primer (The System Design Primer)
+                    https://github.com/InterviewReady/system-design-resources (https://interviewready.io These are the best resources for System Design on the Internet)
+                    https://github.com/karanpratapsingh/system-design (Learn how to design systems at scale and prepare for system design interviews)
+                    https://github.com/madd86/awesome-system-design (A curated list of awesome System Design (A.K.A. Distributed Systems) resources.)
+                    https://github.com/shashank88/system_design (Preparation links and resources for system design questions)
+                    https://github.com/shashank88/system_design (Preparation links and resources for system design questions)
+                    https://interviewing.io/guides/system-design-interview (A Senior Engineer's Guide to the System Design Interview)
+                    https://www.amazon.com/System-Design-Interview-Insiders-Guide/dp/1736049119 (System Design Interview – An Insider's Guide: Volume 2 by Alex Xu)
+                    https://youtu.be/bUHFg8CZFws (System Design Interview – Step By Step Guide by System Design Interview)
 
-                Grokking the System Design Interview
-                https://designgurus.org/course/grokking-the-system-design-interview
-                https://github.com/Jeevan-kumar-Raj/Grokking-System-Design (Systems design is the process of defining the architecture, modules, interfaces, and data for a system to satisfy specified requirements. Systems design could be seen as the application of systems theory to product development.)
+                Grokking the System Design Interview:
+                    https://designgurus.org/course/grokking-the-system-design-interview
+                    https://github.com/Jeevan-kumar-Raj/Grokking-System-Design (Systems design is the process of defining the architecture, modules, interfaces, and data for a system to satisfy specified requirements. Systems design could be seen as the application of systems theory to product development.)
 
-                An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
-                https://github.com/alex/what-happens-when
-                https://github.com/vasanthk/how-web-works
+                An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?":
+                    https://github.com/alex/what-happens-when
+                    https://github.com/vasanthk/how-web-works
 
                 Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
-                https://github.com/bregman-arie/devops-exercises
+                    https://github.com/bregman-arie/devops-exercises
 
                 Site Reliability Engineer Interview Preparation Guide
-                https://github.com/mxssl/sre-interview-prep-guide
+                    https://github.com/mxssl/sre-interview-prep-guide
 
                 Linux Interview Questions:
-                https://github.com/chassing/linux-sysadmin-interview-questions (Linux System Administrator/DevOps Interview Questions)
-                https://github.com/trimstray/test-your-sysadmin-skills (A collection of Linux Sysadmin Test Questions and Answers. Test your knowledge and skills in different fields with these Q/A.)
-                https://sadservers.com (Troubleshoot and make a sad server happy! "Like LeetCode for Linux" Capture The Flag challenges. Train and prove your debugging skills. Practice for your next SRE/DevOps interview.Get a full remote Linux server with a problem and fix it.)
+                    https://github.com/chassing/linux-sysadmin-interview-questions (Linux System Administrator/DevOps Interview Questions)
+                    https://github.com/trimstray/test-your-sysadmin-skills (A collection of Linux Sysadmin Test Questions and Answers. Test your knowledge and skills in different fields with these Q/A.)
+                    https://sadservers.com (Troubleshoot and make a sad server happy! "Like LeetCode for Linux" Capture The Flag challenges. Train and prove your debugging skills. Practice for your next SRE/DevOps interview.Get a full remote Linux server with a problem and fix it.)
 
-                Cracking the Coding Interview: 189 Programming Questions and Solutions 6th Edition by Gayle Laakmann McDowell
-                https://www.crackingthecodinginterview.com
-                https://www.amazon.com/Cracking-Coding-Interview-6th-Programming/dp/0984782850
-                https://github.com/careercup/CtCI-6th-Edition-JavaScript
+                Cracking the Coding Interview: 189 Programming Questions and Solutions 6th Edition by Gayle Laakmann McDowell:
+                    https://www.crackingthecodinginterview.com
+                    https://www.amazon.com/Cracking-Coding-Interview-6th-Programming/dp/0984782850
+                    https://github.com/careercup/CtCI-6th-Edition-JavaScript
 
                 Developer Interview Questions:
-                https://docs.google.com/spreadsheets/d/1hzP8j7matoUiJ15N-RhsL5Dmig8_E3aP (Top Technical Interview Questions From LeetCode - FAANG and Non FAANG)
-                https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation (This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Love Babbar Bhaiya, FAANG Questions), Technical Subjects (OS + DBMS + SQL + CN + OOPs) Theory+Questions, FAANG Interview questions, and Miscellaneous Stuff (Programming MCQs, Puzzles, Aptitude, Reasoning). The Programming languages used for demonstration are C++, Pytho…)
-                https://github.com/CollabCodeTech/backend-challenges (A public list of open-source challenges from jobs around the world )
-                https://github.com/kdn251/interviews (Everything you need to know to get the job.)
-                https://github.com/neetcode-gh/leetcode (This repo hosts the solutions found on NeetCode.io including the solutions shown on the NeetCode YouTube channel.)
-                https://github.com/Olshansk/interview (Everything you need to prepare for your technical interview)
-                https://github.com/seanprashad/leetcode-patterns (A pattern-based approach for learning technical interview questions https://seanprashad.com/leetcode-patterns)
-                https://github.com/twowaits/SDE-Interview-Questions (Most comprehensive list 📋 of tech interview questions 📘 of companies scraped from Geeksforgeeks, CareerCup and Glassdoor.)
-                https://github.com/wisdompeak/LeetCode (This repository contains the solutions and explanations to the algorithm problems on LeetCode. Only medium or above are included. All are written in C++/Python and implemented by myself. The problems attempted multiple times are labelled with hyperlinks.)
-                https://github.com/yangshun/tech-interview-handbook (💯 Curated interview preparation materials for busy engineers https://www.techinterviewhandbook.org)
-                https://leetcode.com/list/xi4ci4ig (Blind 75 Must Do Leetcode)
+                    https://docs.google.com/spreadsheets/d/1hzP8j7matoUiJ15N-RhsL5Dmig8_E3aP (Top Technical Interview Questions From LeetCode - FAANG and Non FAANG)
+                    https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation (This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Love Babbar Bhaiya, FAANG Questions), Technical Subjects (OS + DBMS + SQL + CN + OOPs) Theory+Questions, FAANG Interview questions, and Miscellaneous Stuff (Programming MCQs, Puzzles, Aptitude, Reasoning). The Programming languages used for demonstration are C++, Pytho…)
+                    https://github.com/CollabCodeTech/backend-challenges (A public list of open-source challenges from jobs around the world )
+                    https://github.com/kdn251/interviews (Everything you need to know to get the job.)
+                    https://github.com/neetcode-gh/leetcode (This repo hosts the solutions found on NeetCode.io including the solutions shown on the NeetCode YouTube channel.)
+                    https://github.com/Olshansk/interview (Everything you need to prepare for your technical interview)
+                    https://github.com/seanprashad/leetcode-patterns (A pattern-based approach for learning technical interview questions https://seanprashad.com/leetcode-patterns)
+                    https://github.com/twowaits/SDE-Interview-Questions (Most comprehensive list 📋 of tech interview questions 📘 of companies scraped from Geeksforgeeks, CareerCup and Glassdoor.)
+                    https://github.com/wisdompeak/LeetCode (This repository contains the solutions and explanations to the algorithm problems on LeetCode. Only medium or above are included. All are written in C++/Python and implemented by myself. The problems attempted multiple times are labelled with hyperlinks.)
+                    https://github.com/yangshun/tech-interview-handbook (💯 Curated interview preparation materials for busy engineers https://www.techinterviewhandbook.org)
+                    https://leetcode.com/list/xi4ci4ig (Blind 75 Must Do Leetcode)
 
                 Elements of Programming Interviews in Python: The Insiders' Guide
-                https://www.amazon.com/Elements-Programming-Interviews-Python-Insiders/dp/1537713949
+                    https://www.amazon.com/Elements-Programming-Interviews-Python-Insiders/dp/1537713949
 
                 Multi Skills Interview Questions:
-                https://github.com/andreis/interview (Everything you need to prepare for your technical interview)
-                https://github.com/DopplerHQ/awesome-interview-questions (A curated awesome list of lists of interview questions. Feel free to contribute! 🎓)
-                https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes (Full reference of LinkedIn answers 2021 for skill assessments, LinkedIn test, questions and answers (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, css, python, machine-learning, power-point) linkedin excel test lösungen, linkedin machine learning test)
-                https://github.com/FAQGURU/FAQGURU (🎒 🚀 🎉 A list of interview questions. This repository is everything you need to prepare for your technical interview.)
-                https://github.com/FAQGURU/FAQGURU/blob/master/topics/en/git.md (A list of Git interview questions)
+                    https://github.com/andreis/interview (Everything you need to prepare for your technical interview)
+                    https://github.com/DopplerHQ/awesome-interview-questions (A curated awesome list of lists of interview questions. Feel free to contribute! 🎓)
+                    https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes (Full reference of LinkedIn answers 2021 for skill assessments, LinkedIn test, questions and answers (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, css, python, machine-learning, power-point) linkedin excel test lösungen, linkedin machine learning test)
+                    https://github.com/FAQGURU/FAQGURU (🎒 🚀 🎉 A list of interview questions. This repository is everything you need to prepare for your technical interview.)
+                    https://github.com/FAQGURU/FAQGURU/blob/master/topics/en/git.md (A list of Git interview questions)
 
                 Frontend Interview Questions:
-                https://github.com/h5bp/Front-end-Developer-Interview-Questions (A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.)
-                https://github.com/loettz/interview-process-survival (🌈 🦄 this repository is a interview process guide for developers (web/frontend focused))
-                https://github.com/sudheerj/javascript-interview-questions (List of 1000 JavaScript Interview Questions)
-                https://github.com/sudheerj/reactjs-interview-questions (List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!)
-                https://github.com/yangshun/front-end-interview-handbook (⚡️ Front End interview preparation materials for busy engineers https://www.frontendinterviewhandbook.com)
+                    https://github.com/h5bp/Front-end-Developer-Interview-Questions (A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.)
+                    https://github.com/loettz/interview-process-survival (🌈 🦄 this repository is a interview process guide for developers (web/frontend focused))
+                    https://github.com/sudheerj/javascript-interview-questions (List of 1000 JavaScript Interview Questions)
+                    https://github.com/sudheerj/reactjs-interview-questions (List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!)
+                    https://github.com/yangshun/front-end-interview-handbook (⚡️ Front End interview preparation materials for busy engineers https://www.frontendinterviewhandbook.com)
 
                 Security Interview Questions:
-                https://github.com/security-prince/Application-Security-Engineer-Interview-Questions (Some of the questions which i was asked when i was giving interviews for Application/Product Security roles.)
-                https://github.com/tadwhitaker/Security_Architect_and_Principal_Security_Engineer_Interview_Questions (Security Architect and Principal Security Engineer Interview Questions)
-                https://github.com/tadwhitaker/Security_Engineer_Interview_Questions (Every Security Engineer Interview Question From Glassdoor.com)
-                https://tib3rius.com/interview-questions.html (Web AppSec Interview Questions)
-                https://tryhackme.com/r/resources/blog/security-engineer-interview-guide (Preparing for a Security Engineering Interview)
+                    https://github.com/LetsDefend/SOC-Interview-Questions (SOC Interview Questions)
+                    https://github.com/security-prince/Application-Security-Engineer-Interview-Questions (Some of the questions which i was asked when i was giving interviews for Application/Product Security roles.)
+                    https://github.com/tadwhitaker/Security_Architect_and_Principal_Security_Engineer_Interview_Questions (Security Architect and Principal Security Engineer Interview Questions)
+                    https://github.com/tadwhitaker/Security_Engineer_Interview_Questions (Every Security Engineer Interview Question From Glassdoor.com)
+                    https://tib3rius.com/interview-questions.html (Web AppSec Interview Questions)
+                    https://tryhackme.com/r/resources/blog/security-engineer-interview-guide (Preparing for a Security Engineering Interview)
 
                 Reverse Interview Questions:
-                https://charity.wtf/2021/02/19/questionable-advice-how-can-i-sniff-out-bad-managers-while-interviewing-for-a-job (Questionable Advice: How can I sniff out bad managers while interviewing for a job?)
-                https://github.com/randsleadershipslack/employer-test
-                https://github.com/tBaxter/questions-for-employers (A big collection of useful questions to ask potential employers.)
-                https://github.com/Twipped/InterviewThis (An open source list of developer questions to ask prospective employers)
-                https://github.com/viraptor/reverse-interview (Questions to ask the company during your interview)
-                https://nibblestew.blogspot.com/2022/09/questions-to-ask-prospective-employer.html (Questions to ask a prospective employer during a job interview for developers)
+                    https://charity.wtf/2021/02/19/questionable-advice-how-can-i-sniff-out-bad-managers-while-interviewing-for-a-job (Questionable Advice: How can I sniff out bad managers while interviewing for a job?)
+                    https://github.com/randsleadershipslack/employer-test
+                    https://github.com/tBaxter/questions-for-employers (A big collection of useful questions to ask potential employers.)
+                    https://github.com/Twipped/InterviewThis (An open source list of developer questions to ask prospective employers)
+                    https://github.com/viraptor/reverse-interview (Questions to ask the company during your interview)
+                    https://nibblestew.blogspot.com/2022/09/questions-to-ask-prospective-employer.html (Questions to ask a prospective employer during a job interview for developers)
 
                 Company Interview Questions:
-                https://interviewing.io/mocks (Watch technical mock interviews with engineers from Google, Facebook, Airbnb, and more)
-                https://www.careercup.com/categories (CareerCup is the world's biggest and best source for software engineering interview preparation.)
-                https://www.codinginterview.com (Coding Interviews at FAANG)
-                https://www.geeksforgeeks.org/company-interview-corner/ (Company Interview Corner - GeeksforGeeks)
-                https://www.glassdoor.com/Interview/index.htm (Search Interview Questions)
-                https://www.onsites.fyi (Learn from hundreds of real tech interview experiences! 550+ Interview Experiences Available)
+                    https://interviewing.io/mocks (Watch technical mock interviews with engineers from Google, Facebook, Airbnb, and more)
+                    https://www.careercup.com/categories (CareerCup is the world's biggest and best source for software engineering interview preparation.)
+                    https://www.codinginterview.com (Coding Interviews at FAANG)
+                    https://www.geeksforgeeks.org/company-interview-corner/ (Company Interview Corner - GeeksforGeeks)
+                    https://www.glassdoor.com/Interview/index.htm (Search Interview Questions)
+                    https://www.onsites.fyi (Learn from hundreds of real tech interview experiences! 550+ Interview Experiences Available)
 
             Coding Challenge Websites: (Sorted by Alexa Rank):
                 https://leetcode.com (1,515)
@@ -3602,16 +3605,16 @@ Contents:
 
             Books and Courses:
                 Basic Economics 5th Edition
-                https://www.amazon.com/Basic-Economics-Thomas-Sowell/dp/0465060730
+                    https://www.amazon.com/Basic-Economics-Thomas-Sowell/dp/0465060730
 
                 Financial Markets by Robert Shiller
-                https://www.coursera.org/learn/financial-markets-global
+                    https://www.coursera.org/learn/financial-markets-global
 
                 The Intelligent Investor
-                https://www.amazon.com/Intelligent-Investor-Definitive-Investing-Essentials/dp/0060555661
+                    https://www.amazon.com/Intelligent-Investor-Definitive-Investing-Essentials/dp/0060555661
 
                 The Plain Bagel Basics
-                https://www.youtube.com/playlist?list=PLD18sR-9Y-XHGlrT_3aKElcyzz9eTDGsy
+                    https://www.youtube.com/playlist?list=PLD18sR-9Y-XHGlrT_3aKElcyzz9eTDGsy
 
             Mutual Funds:
                 Mutual Funds 101:
@@ -3942,7 +3945,6 @@ Contents:
                 https://www.rollingstone.com/music/music-lists/best-songs-of-all-time-1224767
                 https://pinboard.in/u:SharjeelSayed/t:music+study
 
-
             Sites:
                 soma fm's Drone Zone Channel
                     https://somafm.com/player/#/now-playing/dronezone
@@ -4062,10 +4064,10 @@ Contents:
 
             Books and Courses:
                 You Suck at Excel with Joel Spolsky
-                https://youtu.be/0nbkaYsR94c
+                    https://youtu.be/0nbkaYsR94c
 
                 Excel 2019 Bible 1st Edition
-                https://www.amazon.com/Excel-2019-Bible-Michael-Alexander/dp/1119514789
+                    https://www.amazon.com/Excel-2019-Bible-Michael-Alexander/dp/1119514789
 
         Touch Typing:
             Sources:
@@ -4156,22 +4158,22 @@ Contents:
 
             Books and Courses:
                 What If?: Serious Scientific Answers to Absurd Hypothetical Questions
-                https://www.amazon.com/What-If-Scientific-Hypothetical-Questions-ebook/dp/B00IYUYF4A
+                    https://www.amazon.com/What-If-Scientific-Hypothetical-Questions-ebook/dp/B00IYUYF4A
 
                 Thing Explainer: Complicated Stuff in Simple Words
-                https://www.amazon.com/Thing-Explainer-Complicated-Stuff-Simple-ebook/dp/B00XJYVF44
+                    https://www.amazon.com/Thing-Explainer-Complicated-Stuff-Simple-ebook/dp/B00XJYVF44
 
                 The Selfish Gene
-                https://www.amazon.com/Selfish-Gene-Anniversary-Landmark-Science/dp/0198788606
+                    https://www.amazon.com/Selfish-Gene-Anniversary-Landmark-Science/dp/0198788606
 
                 A Short History of Nearly Everything
-                https://www.amazon.com/Short-History-Nearly-Everything/dp/076790818X
+                    https://www.amazon.com/Short-History-Nearly-Everything/dp/076790818X
 
                 Planet Earth
-                https://en.wikipedia.org/wiki/Planet_Earth_(franchise)
+                    https://en.wikipedia.org/wiki/Planet_Earth_(franchise)
 
                 Cosmos: A Spacetime Odyssey
-                https://en.wikipedia.org/wiki/Cosmos:_A_Spacetime_Odyssey
+                    https://en.wikipedia.org/wiki/Cosmos:_A_Spacetime_Odyssey
 
             Science Magazines: (Sorted by SimilarWeb.com Rank)
                 https://www.nature.com (1,999)
@@ -4209,10 +4211,10 @@ Contents:
 
             Books and Courses:
                 The Design of Everyday Things
-                https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654
+                    https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654
 
                 The ultimate guide for mobile developers, who want to design
-                https://medium.com/flawless-app-stories/https-medium-com-flawless-app-stories-the-ultimate-guide-for-mobile-developers-who-want-to-design-part1-a2d47c04fd49
+                    https://medium.com/@ahmedsulaiman/https-medium-com-flawless-app-stories-the-ultimate-guide-for-mobile-developers-who-want-to-design-part1-a2d47c04fd49
 
         News:
             Sources:
