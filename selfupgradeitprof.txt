@@ -2666,7 +2666,8 @@ Contents:
                 https://github.com/huangsam/ultimate-python
                 https://github.com/ml-tooling/best-of-web-python
                 https://github.com/pamoroso/free-python-books
-                https://github.com/pyenv/pyenv
+                https://github.com/pyenv/pyenv (Simple Python version management )
+                https://github.com/python-poetry/poetry (https://python-poetry.org Python packaging and dependency management made easy)
                 https://github.com/TheAlgorithms/Python (All Algorithms implemented in Python )
                 https://github.com/topics/python?o=desc&s=stars
                 https://github.com/tuvtran/project-based-learning#python
@@ -4146,6 +4147,7 @@ Contents:
                 https://en.wikipedia.org/wiki/Lists_of_important_publications_in_science
                 https://hn.algolia.com/?query=documentaries&sort=byPopularity&prefix&page=0&dateRange=all&type=story
                 https://news.ycombinator.com/item?id=18085765 (Ask HN: What are some of the best documentaries you've seen?)
+                https://news.ycombinator.com/item?id=20390984 (If Sapiens were a blog post (neilkakkar.com))
                 https://news.ycombinator.com/item?id=32220192 (Ask HN: YouTube Channels for the Intellectually Curious)
                 https://sciurls.com
                 https://www.amazon.com/Best-Sellers-Books-Science-Math/zgbs/books/75
