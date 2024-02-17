@@ -823,6 +823,7 @@ Contents:
                 https://0xax.gitbooks.io/linux-insides (A book-in-progress about the linux kernel and its insides.)
                 https://adamtheautomator.com/check-if-a-port-is-open-in-linux (All the Ways to Check If a Port is Open in Linux)
                 https://biriukov.dev/docs/page-cache/0-linux-page-cache-for-sre ( SRE deep dive into Linux Page Cache)
+                https://crontab.guru (The quick and simple editor for cron schedule expressions by Cronitor)
                 https://dashdash.io (Linux Man Pages)
                 https://github.com/0xAX/linux-insides (https://0xax.gitbooks.io/linux-insides A little bit about a linux kernel )
                 https://github.com/89luca89/distrobox (Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at: https://gitlab.com/89luca89/distrobox https://distrobox.privatedns.org)
@@ -1947,7 +1948,9 @@ Contents:
                 https://github.com/toptal/gitignore.io (Create useful .gitignore files for your project )
                 https://graphite.dev/blog/why-ban-merge-commits (Why large companies and fast-moving startups are banning merge commits)
                 https://grep.app (Search across a half million git repos)
+                https://jvns.ca/blog/2024/02/16/popular-git-config-options (Popular Git config options by Julia Evans)
                 https://news.ycombinator.com/item?id=21189256 (99% of the Git commands you'll need at work, demonstrated in a single script (bitbucket.org))
+                https://news.ycombinator.com/item?id=39400352 (Popular Git config options (jvns.ca))
                 https://nvie.com/posts/a-successful-git-branching-model (A successful Git branching model)
                 https://sourcegraph.com/search (Search your code and 2M+ open source repositories)
                 https://stackoverflow.com/questions/tagged/git
@@ -2306,7 +2309,7 @@ Contents:
                 https://github.com/BishopFox/cloudfox (Open source command line tool created to help penetration testers and other offensive security professionals find exploitable  attack paths in cloud infrastructure)
                 https://github.com/cugu/awesome-forensics ( A curated list of awesome forensic analysis tools and resources http://cugu.github.io/awesome-forensics )
                 https://github.com/devsecops/awesome-devsecops (https://www.devsecops.org An authoritative list of awesome devsecops tools with the help from community experiments and contributions.)
-                https://github.com/gchq/CyberChef (The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis)
+                https://github.com/gchq/CyberChef (https://gchq.github.io/CyberChef The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis)
                 https://github.com/infobyte/faraday (https://faradaysec.com Open Source Vulnerability Management Platform)
                 https://github.com/jtesta/ssh-audit (SSH server & client security auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc))
                 https://github.com/Kyuu-Ji/Awesome-Azure-Pentest (A collection of resources, tools and more for penetration testing and securing Microsofts cloud platform Azure.)
@@ -2659,13 +2662,13 @@ Contents:
 
         Python:
             Sources:
-                https://boto3.amazonaws.com/v1/documentation/api/latest/index.html
-                https://docs.python.org/3/tutorial
+                https://boto3.amazonaws.com/v1/documentation/api/latest/index.html (Boto3 Documentation)
+                https://docs.python.org/3/tutorial (The Python Tutorial)
                 https://github.com/Asabeneh/30-Days-Of-Python (30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.)
-                https://github.com/donnemartin/interactive-coding-challenges
-                https://github.com/huangsam/ultimate-python
-                https://github.com/ml-tooling/best-of-web-python
-                https://github.com/pamoroso/free-python-books
+                https://github.com/donnemartin/interactive-coding-challenges (120+ interactive Python coding interview challenges (algorithms and data structures). Includes Anki flashcards.)
+                https://github.com/huangsam/ultimate-python (Ultimate Python study guide for newcomers and professionals alike. 🐍 🐍 🐍 )
+                https://github.com/ml-tooling/best-of-web-python (🏆 A ranked list of awesome python libraries for web development. Updated weekly.)
+                https://github.com/pamoroso/free-python-books (Python books free to read online or download)
                 https://github.com/pyenv/pyenv (Simple Python version management )
                 https://github.com/python-poetry/poetry (https://python-poetry.org Python packaging and dependency management made easy)
                 https://github.com/TheAlgorithms/Python (All Algorithms implemented in Python )
@@ -2675,22 +2678,36 @@ Contents:
                 https://news.ycombinator.com/item?id=16622038 (At full speed with Python: a book for self-learners)
                 https://news.ycombinator.com/item?id=21054462 (Ask HN: How do you handle/maintain local Python environments?)
                 https://news.ycombinator.com/item?id=30980813 (	Ask HN: Python Programming Books)
+                https://news.ycombinator.com/item?id=39392881 (Think Python, 3rd Edition (allendowney.github.io))
                 https://opensource.com/article/19/5/python-3-default-mac (The right and wrong way to set Python 3 as default on a Mac)
-                https://pybit.es/python-resources.html
-                https://pythonbooks.org
-                https://realpython.com/courses/python-boto3-aws-s3
+                https://pythonbooks.org (Find the best Python books Ranked by popularity. Grouped intelligently. Updated monthly!)
+                https://realpython.com/courses/python-boto3-aws-s3 (Python, Boto3, and AWS S3: Demystified)
+                https://research.google.com/colaboratory/local-runtimes.html (Local Runtimes in Google Colab)
                 https://www.cosmicpython.com https://www.amazon.com/Architecture-Patterns-Python-Domain-Driven-Microservices/dp/1492052205 (Architecture Patterns with Python: Enabling Test-Driven Development, Domain-Driven Design, and Event-Driven Microservices)
-                https://www.jetbrains.com/lp/python-developers-survey-2019
-                https://www.reddit.com/r/learnprogramming/comments/6bxdut/python_for_beginners_complete_series
+                https://www.jetbrains.com/lp/devecosystem-2023 (The State of Developer Ecosystem 2023)
                 https://www.reddit.com/r/learnprogramming/wiki/online#wiki_python
-                https://www.reddit.com/r/learnpython/comments/53z5p4/how_to_start_learning_python_the_complete_guide
-                https://www.reddit.com/r/learnpython/comments/609p5x/selftaught_people_how_did_you_learn_python
-                https://www.reddit.com/r/learnpython/top
-                https://www.reddit.com/r/learnpython/wiki
-                https://www.reddit.com/r/Python/wiki
+                https://www.reddit.com/r/learnpython/comments/53z5p4/how_to_start_learning_python_the_complete_guide (How to start learning Python ? The Complete guide.)
+                https://www.reddit.com/r/Python+learnpython
                 https://www.udemy.com/topic/python/?ratings=4.5&sort=popularity (Udemy Courses rated 4.5 stars and above)
 
             Books and Courses:
+                Think Python, 3rd edition by Allen B. Downey September 3, 2024
+                https://allendowney.github.io/ThinkPython
+                https://www.amazon.com/_/dp/1098155432
+
+                Python Crash Course, 3rd Edition: A Hands-On, Project-Based Introduction to Programming 3rd Edition by Eric Matthes January 10, 2023
+                https://ehmatthes.github.io/pcc
+                https://nostarch.com/python-crash-course-3rd-edition
+                https://www.amazon.com/Python-Crash-Course-Eric-Matthes/dp/1718502702
+                https://github.com/ehmatthes/pcc (Resources for Python Crash Course, from No Starch Press. )
+
+                Fluent Python: Clear, Concise, and Effective Programming by Luciano Ramalho 2nd Edition May 10, 2022
+                https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1492056359
+
+                Effective Python: 135 Specific Ways to Write Better Python by Brett Slatkin 3rd edition March 28, 2024
+                https://effectivepython.com
+                https://www.amazon.com/Effective-Python-Specific-Software-Development-dp-0138172188/dp/0138172188
+
                 Practical Python Programming by David Beazley
                 https://dabeaz-course.github.io/practical-python/Notes/Contents.html
                 https://github.com/dabeaz-course/practical-python
@@ -3524,6 +3541,7 @@ Contents:
                 https://news.ycombinator.com/item?id=29336234 (Ask HN: I’d like to hire a personal/executive assistant – any tips or advice?)
                 https://news.ycombinator.com/item?id=30497703 (Ask HN: Books to read when you transform from SWE into SWE Management?)
                 https://news.ycombinator.com/item?id=38803092 (Ask HN: What are good books/blogs to read for a first time CTO?)
+                https://rankings.ft.com/home/masters-in-business-administration (Financial Times Business School Rankings)
                 https://rankings.ft.com/rankings/2866/mba-2022 (Business school rankings 2022)
                 https://startupstash.com (The world's largest directory of tools and resources for startups and entrepreneurs)
                 https://themanagershandbook.com (The Manager's Handbook by Alex MacCaw from clearbit.com)
