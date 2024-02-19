@@ -284,6 +284,7 @@ Contents:
                 https://github.com/tuvtran/project-based-learning (Curated list of project-based tutorials)
                 https://github.com/veler/DevToys (A Swiss Army knife for developers. https://devtoys.app)
                 https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=every%20programmer&sort=byPopularity&type=story (Things every programmer should know)
+                https://innovationgraph.github.com/global-metrics/programming-languages (Top 50 Programming Languages Globally)
                 https://learnxinyminutes.com (Take a whirlwind tour of your next favorite language. Community-driven!)
                 https://madnight.github.io/githut/#/pull_requests/2023/3 (This website shows the popularity of programming languages on GitHub over time)
                 https://mapfilterfold.com/?genre=programming
@@ -345,6 +346,7 @@ Contents:
                 https://www.reddit.com/r/learnprogramming/wiki/faq
                 https://www.reddit.com/r/learnprogramming/wiki/online
                 https://www.reddit.com/r/programming/comments/6l689j/a_manually_curated_list_of_240_popular
+                https://www.tiobe.com/tiobe-index (The TIOBE index tries to gauge the popularity of programming languages)
                 https://www.udacity.com/course/intro-to-computer-science--cs101
                 https://www.udemy.com/courses/development/software-engineering/?ratings=4.5&sort=popularity (Software Engineering Courses by Udemy)
                 https://www.youtube.com/@TheCodingTrain (The Coding Train)
@@ -1361,6 +1363,9 @@ Contents:
                 Amazon EKS Terraform Workshop
                     https://tf-eks-workshop.workshop.aws
 
+                Kubernetes Patterns: Reusable Elements for Designing Cloud Native Applications 2nd Edition by Bilgin Ibryam and Roland Huß:
+                https://www.amazon.com/Kubernetes-Patterns-Reusable-Designing-Applications/dp/1098131681?dib=eyJ2IjoiMSJ9.U8VJw5OlKOIkfyKzlftEKoMZyFVuSXxijQlzdVBaZiU.m989ah07ZkQNvZ_rSMU7uci9vjbQ_bNytmizqOvfl6U&dib_tag=se
+
             CKA/CKAD/CKS:
                 https://github.com/cncf/curriculum (https://www.cncf.io/training/courses 📚Open Source Curriculum for CNCF Certification Courses)
                 https://github.com/dgkanatsios/CKAD-exercises (A set of exercises to prepare for Certified Kubernetes Application Developer exam by Cloud Native Computing Foundation )
@@ -1892,6 +1897,7 @@ Contents:
                 https://postgrespro.com/blog/pgsql/5969985 ( PostgreSQL 14 Internals :A deep dive into the server mechanics)
                 https://postgresqlco.nf (Manage YOUR postgresql.conf CONFIGURATIONS)
                 https://roadmap.sh/postgresql-dba (Step by step guide to becoming a modern PostgreSQL DB Administrator in 2022)
+                https://supabase.com (Supabase is an open source Firebase alternative. Start your project with a Postgres database, Authentication, instant APIs, Edge Functions, Realtime subscriptions, Storage, and Vector embeddings.)
                 https://theartofpostgresql.com (The book that teaches SQL to developers: Learn to replace thousands of lines of code with simple queries!)
                 https://tomcam.github.io/postgres (psql command line tutorial and cheat sheet)
                 https://www.crunchydata.com/developers/tutorials (Postgres Playground: Enhance your Postgres skills)
@@ -2376,16 +2382,15 @@ Contents:
         macOS:
             Sources:
                 https://app.indieappsales.com (A collection of indie app sales and discounts)
-                https://apple.stackexchange.com/questions/374138/how-to-enable-double-tap-to-drag-in-mac-os-x-catalina
-                https://blog.bejarano.io/hardening-macos
+                https://apple.stackexchange.com/questions/374138/how-to-enable-double-tap-to-drag-in-mac-os-x-catalina (How to enable Double-Tap to Drag in Mac OS X Catalina?)
+                https://blog.bejarano.io/hardening-macos (Hardening macOS)
                 https://command-not-found.com (Install any command on any operating system and in Docker)
-                https://defkey.com/apple-macos-shortcuts
-                https://dev.to/wes/how2-using-gpg-on-macos-without-gpgtools-428f
+                https://defkey.com/apple-macos-shortcuts (Apple macOS keyboard shortcuts)
+                https://dev.to/wes/how2-using-gpg-on-macos-without-gpgtools-428f (Using GPG on macOS without GPGTools)
                 https://discord.gg/apple (Discord server for /r/Apple)
                 https://docs.google.com/spreadsheets/d/1JqyglRJXzxaj8OcQw9jHabxFUdsv9iWJXMPXcL7On0M (Definitive App Comparisons)
                 https://doesitarm.com ( Apps that are reported to support Apple Silicon)
                 https://dotfilehub.com
-                https://draculatheme.com (A dark theme)
                 https://ghuntley.com/anywhere (Reflections on software development from anywhere on an iPad)
                 https://gist.github.com/kconner/cff08fe3e0bb857ea33b47d965b3e19f (macOS Internals)
                 https://gist.github.com/nmcc/4e8ead6c380d8331fedd04e1aa41d351 (Install Consolas font on Mac)
@@ -2393,7 +2398,6 @@ Contents:
                 https://github.com/agarrharr/awesome-macos-screensavers (A curated list of screensavers for Mac OS X)
                 https://github.com/donnemartin/dev-setup (macOS development environment setup: Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduce, AWS, Heroku, JavaScript web development, Android development, common data stores, and dev-based OS X defaults.)
                 https://github.com/drduh/macOS-Security-and-Privacy-Guide (Guide to securing and improving privacy on macOS)
-                https://github.com/exelban/stats (macOS system monitor in your menu bar)
                 https://github.com/geerlingguy/mac-dev-playbook (Mac setup and configuration via Ansible.)
                 https://github.com/iCHAIT/awesome-macOS ( A curated list of awesome applications, softwares, tools and shiny things for macOS.)
                 https://github.com/jaywcjlove/awesome-mac (https://wangchujiang.com/awesome-mac awesome macOS software in various categories)
@@ -2428,7 +2432,6 @@ Contents:
                 https://support.mozilla.org/en-US/kb/keyboard-shortcuts-perform-firefox-tasks-quickly (Keyboard shortcuts - Perform common Firefox tasks quickly)
                 https://support.zoom.us/hc/en-us/articles/205683899-Hot-keys-and-keyboard-shortcuts#collapseMac (Zoom Hot keys and keyboard shortcuts)
                 https://thesweetsetup.com/picks
-                https://universvm.medium.com/20-macos-apps-to-boost-your-productivity-74accb372c9c
                 https://www.applegamingwiki.com/wiki/M1_compatible_games_master_list (M1 compatible games master list)
                 https://www.darlinghq.org (Darling is a translation layer that lets you run macOS software on Linux)
                 https://www.macupdate.com (18,000+ verified Mac apps, handpicked by the MacUpdate team)
@@ -2444,14 +2447,16 @@ Contents:
                 https://alt-tab-macos.netlify.app (AltTab brings the power of Windows’s “alt-tab” window switcher to macOS)
                 https://apps.apple.Com/app/amphetamine/id937984704 (Amphetamine 4+ Powerful Keep-Awake Utility)
                 https://bjango.com/mac/istatmenus (An advanced Mac monitor system monitor for your menu bar)
-                https://brew.sh (The Missing Package Manager for macOS (or Linux))
                 https://cleanshot.com (Capture your Mac’s screen like a pro.)
                 https://devutils.app (Offline Toolbox for Developers)
+                https://draculatheme.com (A dark theme)
                 https://dynamicwallpaper.club/gallery?section=best (Dynamic Wallpaper Club)
                 https://flexibits.Com/fantastical
                 https://folivora.ai/keyboardcleantool (A super simple little tool which blocks all Keyboard and TouchBar input)
                 https://github.com/caldis/mos (A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS )
+                https://github.com/exelban/stats (macOS system monitor in your menu bar)
                 https://github.com/koekeishiya/yabai (A tiling window manager for macOS based on binary space partitioning)
+                https://github.com/MikeMcQuaid/strap (https://strap.mikemcquaid.com 👢 Bootstrap your macOS development system.)
                 https://github.com/Mortennn/Dozer (Hide menu bar icons on macOS)
                 https://github.com/nextdns/nextdns/wiki/macos (NextDNS CLI client (DoH Proxy) )
                 https://github.com/r-darwish/topgrade (Upgrade everything)
@@ -2473,12 +2478,18 @@ Contents:
                 https://www.bresink.com/osx/TinkerTool.html (TinkerTool is an application that gives you access to additional preference settings Apple has built into macOS.)
                 https://www.hammerspoon.Org/go/#pasteblock (Defeating paste blocking)
                 https://www.macbartender.com/Bartender4 (Take control of your menu bar)
-                https://www.parallels.com/products/desktop
+                https://www.parallels.com/products/desktop (Run Windows on Mac.)
                 https://www.titanium-software.fr/en/onyx.html (OnyX is a multifunction utility that you can use to verify the structure of the system files)
                 https://www.usboverdrive.com (Take full advantage of any USB or Bluetooth mouse, keyboard, trackball, joystick or gamepad)
                 https://www.zeiss.co.in/vision-care/eye-care-professionals/other-products/lens-cleaning-solutions.html#overlay-benefits-1697194224 (Zeiss Pre-Moistened Lens Cloths Wipes)
 
             HomeBrew:
+                Sources:
+                    https://brew.sh (The Missing Package Manager for macOS (or Linux))
+                    https://docs.brew.sh/Manpage#bundle-subcommand (Homebrew Bundle)
+                    https://gist.github.com/ChristopherA/a579274536aab36ea9966f301ff14f3f (Brew Bundle Brewfile Tips)
+                    https://github.com/Homebrew/homebrew-bundle (📦 Bundler for non-Ruby dependencies from Homebrew, Homebrew Cask and the Mac App Store.)
+
                 Essential HomeBrew packages:
                     amazon-ecs-cli awk awscli bash-completion@2 bind cabextract cheat coreutils eslint ffmpeg findutils fzf gabrie30/utils/ghorg git gnu-sed grep htop isync jq k9s lsof lynx macos-trash mas moreutils msmtp mutt neomutt neovim nextdns/tap/nextdns openssh pandoc pass php pinentry-mac poppler postgresql@14 pstree pyenv rclone restic ripgrep-all rsync screen shellcheck smartmontools sox speedtest-cli sshuttle telnet tmux topgrade vim watch wget yq yt-dlp/taps/yt-dlp z zip
 
