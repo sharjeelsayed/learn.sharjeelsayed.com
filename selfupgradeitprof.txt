@@ -4232,15 +4232,17 @@ Contents:
 
         Design:
             Sources:
+                https://en.wikipedia.org/wiki/Dieter_Rams (Dieter Rams)
+                https://en.wikipedia.org/wiki/Jony_Ive (Jony Ive)
                 https://github.com/bradtraversy/design-resources-for-developers (Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more)
-                https://github.com/LisaDziuba/Awesome-Design-Tools
+                https://github.com/LisaDziuba/Awesome-Design-Tools (The best design tools and plugins for everything 👉)
                 https://github.com/topics/design?o=desc&s=stars
                 https://github.com/topics/frontend?o=desc&s=stars
                 https://news.ycombinator.com/item?id=15328992 (Ask HN: Learn Modern web design and CSS)
                 https://news.ycombinator.com/item?id=29353980 (Ask HN: What are the best-designed things you've ever used?)
                 https://news.ycombinator.com/item?id=38591437 (Ask HN: Best UI design courses for hackers?)
-                https://nodesign.dev
-                https://www.canva.com
+                https://nodesign.dev (Tools and resources for non artistic developers)
+                https://www.canva.com (Canva makes it easy to create professional designs and to share or print them.)
 
             Books and Courses:
                 The Design of Everyday Things
