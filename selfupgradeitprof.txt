@@ -326,6 +326,8 @@ Contents:
                 https://people.freebsd.org/~lstewart/articles/cpumemory.pdf (What Every Programmer Should Know About Memory)
                 https://softwareengineeringdaily.com
                 https://survey.stackoverflow.co/2023 (Stackoverflow 2023 Developer Survey)
+                https://tldrlegal.com (Software Licenses in Plain English)
+                https://wizardzines.com/comics (programming zines by Julia Evans)
                 https://www.discoverdev.io (Discover dev brings you a daily digest of the best engineering blogs from across the web! Handpicked by AI and a network of globally distributed nerds!)
                 https://www.jetbrains.com/lp/devecosystem-2023 (The State of Developer Ecosystem 2023)
                 https://www.microsoft.com/en-us/research/blog/category/podcast
@@ -1279,6 +1281,7 @@ Contents:
                 https://github.com/containerd/nerdctl (contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ... )
                 https://github.com/corneliusweig/ketall (Like `kubectl get all`, but get really all resources)
                 https://github.com/datreeio/datree (Prevent Kubernetes misconfigurations from reaching production (again 😤 )! Datree is a CLI tool to ensure K8s manifests and Helm charts follow best practices as well as your organization’s policies)
+                https://github.com/doitintl/kube-no-trouble (Easily check your clusters for use of deprecated APIs)
                 https://github.com/eraser-dev/eraser (https://eraser-dev.github.io/eraser 🧹 Cleaning up images from Kubernetes nodes)
                 https://github.com/fluxcd/flux2-kustomize-helm-example (A GitOps workflow example for multi-env deployments with Flux, Kustomize and Helm.)
                 https://github.com/groundcover-com/caretta (Instant K8s service dependency map, right to your Grafana.)
@@ -2410,6 +2413,8 @@ Contents:
                 https://github.com/sb2nov/mac-setup (Installing Development environment on macOS)
                 https://github.com/serhii-londar/open-source-mac-os-apps (🚀 Awesome list of open source applications for macOS.)
                 https://github.com/sveinbjornt/Sloth (Mac app that shows all open files, directories, sockets, pipes and devices in use by all running processes. Nice GUI for lsof. https://sveinbjorn.org/sloth)
+                https://github.com/TheLocehiliosan/yadm (Yet Another Dotfiles Manager)
+                https://github.com/topics/dotfiles?o=desc&s=stars
                 https://github.com/topics/macos?o=desc&s=stars
                 https://indiegoodies.com (iOS and macOS apps that enrich lives and boost productivity)
                 https://isapplesiliconready.com (The complete guide for MacOS Apps Optimized for Apple Silicon Macs and the M1 Processor)
@@ -2496,7 +2501,7 @@ Contents:
                     amazon-ecs-cli awk awscli bash-completion@2 bind cabextract cheat coreutils eslint ffmpeg findutils fzf gabrie30/utils/ghorg git gnu-sed grep htop isync jq k3d k9s kubectx lsof lynx macos-trash mas moreutils msmtp mutt ncdu neomutt neovim nextdns/tap/nextdns openssh pandoc pass php pinentry-mac poppler pstree pyenv rclone restic ripgrep-all rsync screen shellcheck sshuttle telnet tig tmux topgrade vim watch wget yq yt-dlp z zip
 
                 Essential HomeBrew Casks:
-                    1password alfred alt-tab appcleaner bettertouchtool brave-browser cryptomator fantastical firefox github google-chrome google-drive iina intellij-idea istat-menus iterm2 keepassxc keyboardcleantool little-snitch macfuse microsoft-auto-update microsoft-remote-desktop microsoft-teams mos mullvadvpn pdf-expert pgadmin4 rancher session-manager-plugin slack steam sublime-merge usb-overdrive veracrypt visual-studio-code zoom
+                    1password alfred alt-tab appcleaner bettertouchtool brave-browser cryptomator fantastical firefox github google-chrome google-drive iina intellij-idea istat-menus iterm2 keepassxc keyboardcleantool little-snitch macfuse microsoft-auto-update microsoft-remote-desktop microsoft-teams mos mullvadvpn pdf-expert pgadmin4 rancher session-manager-plugin slack steam usb-overdrive veracrypt visual-studio-code zoom
 
             Alfred:
                 http://www.packal.org
@@ -2585,6 +2590,7 @@ Contents:
                 https://news.ycombinator.com/item?id=20583581 (Your favourite tutorial for total beginners?)
                 https://news.ycombinator.com/item?id=21450126 (Free Online Courses from Top Universities (openculture.com))
                 https://news.ycombinator.com/item?id=25245125 (Ask HN: Top Coursera Courses?)
+                https://news.ycombinator.com/item?id=28017289 (Ask HN: Do you have a process or a framework to learn specific skills quickly?)
                 https://news.ycombinator.com/item?id=34591291 (Ask HN: What's the best lecture series you've seen?)
                 https://news.ycombinator.com/item?id=35536042 (Ask HN: What are some of the best university courses available online for free?)
                 https://www.classcentral.com/collection/top-free-online-courses
@@ -2958,11 +2964,18 @@ Contents:
                 https://github.com/aykutkardas/regexlearn.com ( regexlearn.com)
 
         iOS/Android:
+            Sources:
+                https://receive-sms-free.cc (Receive SMS online anonymously and fast, without register or a mobile phone)
+                https://www.chargerlab.com/apple-iphone-15-pro-max-charging-test-chargerlab-compatibility-100 (iPhone 15 Pro Max Charging Test)
+                https://www.gizchina.com/2024/02/08/smartphones-2023-top-sellers (Canalys Reveals: Top 10 Shipped Smartphones Worldwide in 2023)
+                https://www.theverge.com/23674658/best-android-phone (The best Android phone to buy in 2023)
+                https://youtu.be/JkRXhe3KaPE?si=wD_r_g37Gl9k9Jkd (Smartphone Awards 2023!)
+                https://youtu.be/VRoTOE3FqT0?si=N13q0Zf5PxSbWFfm (The Blind Smartphone Camera Test Winners! 2023)
+
             Books and Courses:
                 https://github.com/ax/apk.sh (apk.sh makes reverse engineering Android apps easier, automating some repetitive tasks like pulling, decoding, rebuilding and patching an APK.)
                 https://github.com/sindresorhus/Actions (https://sindresorhus.com/actions ⚙️ Supercharge your shortcuts )
                 https://github.com/skydoves/android-developer-roadmap (🗺 The Android Developer Roadmap offers comprehensive learning paths to help you understand Android ecosystems.)
-                https://www.gizchina.com/2024/02/08/smartphones-2023-top-sellers (Canalys Reveals: Top 10 Shipped Smartphones Worldwide in 2023)
                 https://www.kodeco.com (Learn iOS and Swift, Android and Kotlin & Dart and Flutter development with the largest and highest-quality catalog of video courses and books on the Internet.)
 
         AI and Machine Learning:
@@ -2995,6 +3008,7 @@ Contents:
                 https://www.amazon.com/Artificial-Intelligence-A-Modern-Approach-dp-0134610997/dp/0134610997 (Artificial Intelligence: A Modern Approach (Pearson Series in Artifical Intelligence) 4th Edition by Stuart Russell and Peter Norvig)
                 https://www.amazon.com/Elements-Statistical-Learning-Prediction-Statistics/dp/0387848576 (https://hastie.su.domains/Papers/ESLII.pdf The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition (Springer Series in Statistics) 2nd Edition by Trevor Hastie , Robert Tibshirani , Jerome Friedman)
                 https://www.manning.com/books/build-a-large-language-model-from-scratch (Build a Large Language Model (From Scratch) by Sebastian Raschk https://github.com/rasbt/LLMs-from-scratch)
+                https://www.youtube.com/@AndrejKarpathy (Andrej Karpathy's YouTube Channel)
 
             Books and Courses:
                 Machine Learning by Andrew Ng
@@ -3048,6 +3062,7 @@ Contents:
                     https://github.com/VSCodium/vscodium (binary releases of VS Code without MS branding/telemetry/licensing)
                     https://news.ycombinator.com/item?id=29278370 (Ask HN: What extensions/packs of VS Code are must for web/developers to install?)
                     https://stackoverflow.com/questions/64395814/how-to-resolve-branch-conflicts-in-vscode-github-pull-requests-and-issues-extens/67378107#67378107 (How to resolve branch conflicts in VSCode GitHub Pull Requests and Issues extension?)
+                    https://youtu.be/UQPb73Zz9qk?si=ei4kpEKw9nbjoF4x (GitLens Tutorial: How to Use GitLens in VS Code)
 
                 Configuration:
                     https://gist.github.com/hyperupcall/99e355405611be6c4e0a38b6e3e8aad0 (VSCode config to disable popular extensions' annoyances (telemetry, notifications, welcome pages, etc.))
@@ -3547,6 +3562,9 @@ Contents:
                 https://news.ycombinator.com/item?Id=23152092 (	Ask Hn: I'Ve Been Promoted To Architect. What Do I Need To Learn/Do To Excel?)
                 https://news.ycombinator.com/item?Id=23759547 (	Ask Hn: What Makes A Good Technical Leader – Any Recommended Books?)
                 https://news.ycombinator.com/item?Id=24123372 (Classic Books For Tech Leads Or Those Aspiring To Be (Sourcelevel.Io))
+                https://news.ycombinator.com/item?id=24436135 (Ask HN: What is your favorite motto?)
+                https://news.ycombinator.com/item?id=25136258 (Ask HN: What is the best money you have spent on professional development?)
+                https://news.ycombinator.com/item?id=25518730 (	Tips for a Better Life (lesswrong.com))
                 https://news.ycombinator.com/item?Id=26807085 (Ask Hn: How To Speak Confidently?)
                 https://news.ycombinator.com/item?Id=26847816 (Ask Hn: What Was The Biggest Leadership Challenge Of Your Career?)
                 https://news.ycombinator.com/item?Id=27333260 (Drunk Post: Things I'Ve Learned As A Sr Engineer (Reddit.Com))
@@ -3724,6 +3742,7 @@ Contents:
             https://news.ycombinator.com/item?id=14218408 (Ask HN: How do you keep improving?)
             https://news.ycombinator.com/item?id=14637859 (Ask HN: What's your process for learning?)
             https://news.ycombinator.com/item?id=16202123 (How to Study: A Brief Guide (buffalo.edu))
+            https://news.ycombinator.com/item?id=20007108 (Ask HN: Do you keep a personal knowledge repository?)
             https://news.ycombinator.com/item?id=21310030 (Ask HN: How do you share/organize knowledge at work and life?)
             https://news.ycombinator.com/item?id=23596471 (Ask HN: How do you take notes when reading a book?)
             https://news.ycombinator.com/item?id=28482726 (	Ask HN: How Do You Learn?)
@@ -3777,6 +3796,7 @@ Contents:
                 https://news.ycombinator.com/item?id=23445382 (Show HN: Some Bookmarklets, I Use (ph-uhl.com))
                 https://news.ycombinator.com/item?id=29314560 (Ask HN: What browser extensions are a must-have in 2021?)
                 https://news.ycombinator.com/item?id=37586894 (Block annoyances via ublock origin)
+                https://www.reddit.com/r/uBlockOrigin/comments/178yasm/youtube_antiadblock_and_ads_october_16_2023 ( YouTube Anti-Adblock and Ads - October 16, 2023 (Weekly Thread))
 
             Extensions:
                 https://1blocker.com (The Fastest & Most Powerful Blocker for Safari)
@@ -4174,16 +4194,21 @@ Contents:
                 https://bookauthority.org/books/best-science-books
                 https://docs.google.com/spreadsheets/d/17gv8uAydcInAeflJp5FrzpfmuUhOcyhBcutaZwVMans (Science communication Youtube channels)
                 https://en.wikipedia.org/wiki/Best_science_book_ever
+                https://en.wikipedia.org/wiki/List_of_common_misconceptions (Wikipedia: List of common misconceptions)
                 https://en.wikipedia.org/wiki/List_of_science_magazines
                 https://en.wikipedia.org/wiki/Lists_of_important_publications_in_science
-                https://hn.algolia.com/?query=documentaries&sort=byPopularity&prefix&page=0&dateRange=all&type=story
+                https://hn.algolia.com/?query=documentaries&sort=byPopularity&prefix&page=0&dateRange=all&type=story (HN Documentaries)
+                https://news.ycombinator.com/item?id=17272715 (Ask HN: Any resources to learn the fundamentals of critical thinking?)
                 https://news.ycombinator.com/item?id=18085765 (Ask HN: What are some of the best documentaries you've seen?)
                 https://news.ycombinator.com/item?id=20390984 (If Sapiens were a blog post (neilkakkar.com))
                 https://news.ycombinator.com/item?id=32220192 (Ask HN: YouTube Channels for the Intellectually Curious)
                 https://sciurls.com
                 https://www.amazon.com/Best-Sellers-Books-Science-Math/zgbs/books/75
+                https://www.howacarworks.com/video-course (Understand everything inside a modern car by by Alex Muir.Automotive Engineering 20 hour Video Course)
+                https://www.nytimes.com/interactive/2022/science/astronomy-space-calendar.html (New York Times’s space and astronomy calendar)
                 https://www.reddit.com/r/AskReddit/comments/5x2r6b/reddit_what_are_some_must_see_documentaries
                 https://www.reddit.com/r/AskReddit/comments/7yvhmi/what_is_the_most_interesting_documentary_youve
+                https://www.reddit.com/r/askscience+science (AskScience and Science Subreddits)
                 https://www.reddit.com/r/Documentaries/wiki
                 https://www.susanrigetti.com/physics (So You Want to Learn Physics…SECOND EDITION by Susan J. Rigetti)
                 https://www.theguardian.com/books/booksblog/2017/jul/20/dawkins-sees-off-darwin-in-vote-for-most-influential-science-book
@@ -4972,6 +4997,7 @@ Contents:
                 https://www.bbc.com/culture/article/20211015-the-100-greatest-tv-series-of-the-21st-century
                 https://www.businessinsider.in/The-100-best-crime-movies-of-all-time-according-to-critics/articleshow/65875039.cms (The 100 best crime movies of all time, according to critics)
                 https://www.indiewire.com/gallery/martin-scorsese-favorite-films-movies (Martin Scorsese’s Favorite Movies: 80 Films the Director Wants You to See)
+                https://www.justwatch.com/in?genres=doc (Popular Documentaries)
                 https://www.reddit.com/r/Documentaries+movies+television (Reddit's Most Popular Documentaries, Movies and Television Shows)
                 https://www.theguardian.com/film/2019/sep/13/100-best-films-movies-of-the-21st-century (The 100 best films of the 21st century)
                 https://www.theguardian.com/tv-and-radio/2019/sep/16/100-best-tv-shows-of-the-21st-century (The 100 best TV shows of the 21st century)
@@ -5095,10 +5121,9 @@ Contents:
         https://command-not-found.com (Install any command on any operating system and in Docker)
         https://curlconverter.com (Convert curl commands to Python, JavaScript and more)
         https://drawabox.com (Drawabox is a set of free exercise-based lessons that focus on the fundamentals of drawing)
-        https://en.wikipedia.org/wiki/List_of_common_misconceptions (Wikipedia: List of common misconceptions)
         https://en.wikipedia.org/wiki/List_of_lists_of_lists
         https://en.wikipedia.org/wiki/List_of_most_valuable_brands (List of most valuable brands)
-        https://en.wikipedia.org/wiki/Wikipedia:Vital_articles
+        https://en.wikipedia.org/wiki/Wikipedia:Vital_articles (Wikipedia:Vital articles)
         https://freenode.net
         https://github.com/antontarasenko/smq/blob/master/reports/hackernews-links-in-comments.md (Most mentioned links in Hacker News comments, 2006–2015)
         https://github.com/arcataroger/awesome-engineering-games (A curated list of engineering-related video games rated Very Positive or higher on Steam )
@@ -5111,20 +5136,15 @@ Contents:
         https://github.com/jnv/lists (The definitive list of lists (of lists) curated on GitHub and elsewhere )
         https://github.com/mendel5/alternative-front-ends (Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.))
         https://github.com/NotJoeMartinez/yt-fts (Youtube Full Text Search - Search all of a YouTube channel's subtitles from the command line)
-        https://github.com/rsapkf/42 (This is an ongoing personal collection of over 5000+ sites and resources that I use or have used in the past to learn programming, puzzle-solving, web development and other intellectually stimulating things, categorized (more or less))
         https://github.com/RunaCapital/awesome-oss-alternatives (Awesome list of open-source startup alternatives to well-known SaaS products)
         https://github.com/sherlock-project/sherlock (🔎 Hunt down social media accounts by username across social networks https://sherlock-project.github.io)
-        https://github.com/TheLocehiliosan/yadm (Yet Another Dotfiles Manager)
         https://github.com/topics/awesome (Awesome Lists)
-        https://github.com/topics/dotfiles?o=desc&s=stars
         https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday (Awesome deals on Black Friday: Apps, SaaS, Books, Courses, etc.)
         https://github.com/zed-industries/zed (https://zed.dev Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter)
         https://hackerspaces.org (Hackerspaces are community-operated physical places, where people share their interest in tinkering with technology, meet and work on their projects, and learn from each other)
         https://indie.deals (Early launch deals on products made by Indie Makers)
         https://learn-anything.xyz
         https://looria.com/reddit/overview (Reddit's Favorite Products in One Place)
-        https://news.ycombinator.com/item?id=17272715 (Ask HN: Any resources to learn the fundamentals of critical thinking?)
-        https://news.ycombinator.com/item?id=20007108 (Ask HN: Do you keep a personal knowledge repository?)
         https://news.ycombinator.com/item?id=20110922 (How to Draw Animals (1930) (dessinoprimaire.blogspot.com))
         https://news.ycombinator.com/item?id=20146168 (Sleep tweaks boost night owls' wellbeing (bbc.com))
         https://news.ycombinator.com/item?id=21373931 (Ask HN: What do you automate in your life and work?)
@@ -5132,34 +5152,22 @@ Contents:
         https://news.ycombinator.com/item?id=22849208 (Ask HN: Programs that saved you 100 hours?)
         https://news.ycombinator.com/item?id=23390308 (Ask HN: What is the cheapest way to make a website?)
         https://news.ycombinator.com/item?id=24351073 (	Most-favorited Hacker News posts)
-        https://news.ycombinator.com/item?id=24436135 (Ask HN: What is your favorite motto?)
-        https://news.ycombinator.com/item?id=25136258 (Ask HN: What is the best money you have spent on professional development?)
-        https://news.ycombinator.com/item?id=25518730 (	Tips for a Better Life (lesswrong.com))
         https://news.ycombinator.com/item?id=27219759 (Ask HN: Favorite purchases of last two years?)
-        https://news.ycombinator.com/item?id=28017289 (Ask HN: Do you have a process or a framework to learn specific skills quickly?)
         https://news.ycombinator.com/item?id=28119393 (Ask HN: What tiny purchases have disproportionately improved your life?)
         https://news.ycombinator.com/item?id=28232165 (Ask HN: What's the most life-changing blog post you've ever read?)
         https://news.ycombinator.com/item?id=29675397 (	Ask HN: Where are you getting your money's worth?)
         https://news.ycombinator.com/item?id=30469036 (Ask HN: Anyone here have good material for learning how to sketch from scratch?)
         https://news.ycombinator.com/item?id=31928736 (Ask HN: Can I see your cheatsheet?)
         https://per.quest (Enter a URL to an article, post or page with some text on it to listen to it)
-        https://receive-sms-free.cc (Receive SMS online anonymously and fast, without register or a mobile phone)
         https://rfc.fyi (Browse RFCs by keywords, id or collection)
         https://saasfridaydeals.com (Black Friday Deals From Cool SaaS Founders)
         https://sourceful.co.uk (Discover the best public GoogleDocs and Sheets)
-        https://tldrlegal.com (Software Licenses in Plain English)
-        https://twitter.com/search?q=Gone%20Free%20(from%3ASharjeelSayed)
-        https://wizardzines.com/comics
         https://www.amazon.com/Best-Sellers-Beauty-Personal-Care-Mens-Foil-Shavers/zgbs/beauty/13271094011 (Best Sellers in Men's Foil Shavers)
         https://www.amazon.com/Best-Sellers-Health-Household-Power-Toothbrushes/zgbs/hpc/18065347011 (Best Sellers in Power Toothbrushes)
-        https://www.chargerlab.com/apple-iphone-15-pro-max-charging-test-chargerlab-compatibility-100 (iPhone 15 Pro Max Charging Test)
         https://www.domestika.org (Best online courses for creatives)
-        https://www.howacarworks.com/video-course (Understand everything inside a modern car by by Alex Muir.Automotive Engineering 20 hour Video Course)
-        https://www.justwatch.com/in?genres=doc
         https://www.kantar.com/north-america/company-news/louis-vuitton-reigns-as-the-worlds-most-valuable-luxury-brand-for-the-18th-year (Top 10 Most Valuable Global Luxury Brands 2023)
         https://www.looria.com/reddit/BuyItForLife/brand-popularity (The most popular brands on r/BuyItForLife)
         https://www.nala.ie/resources/better-handwriting-adults
-        https://www.nytimes.com/interactive/2022/science/astronomy-space-calendar.html (New York Times’s space and astronomy calendar)
         https://www.producthunt.com (The place to launch and discover new tech products)
         https://www.reddit.com/r/AskReddit/comments/4q91g9/what_free_things_online_should_everyone_take/d4r8foy
         https://www.reddit.com/r/AskReddit/comments/6k0p7l/what_are_the_best_free_online_certificates_you
@@ -5169,10 +5177,8 @@ Contents:
         https://www.reddit.com/r/dataisbeautiful/comments/ujuui4/oc_the_most_discussed_brands_on_rbuyitforlife (OC: The most discussed brands on r/BuyItForLife)
         https://www.reddit.com/r/EDC/comments/7j7lrs/edc_starter_pack_an_arbitrary_list_of_gear_that (EDC Starter Pack: An Arbitrary List of Gear that Gets Recommended a Lot)
         https://www.reddit.com/r/EDC/comments/ur36lf/i_analyzed_the_top_50_most_mentioned_products_on (I analyzed the top 50 most mentioned products on r/EDC)
-        https://www.reddit.com/r/india/wiki/useful_posts
+        https://www.reddit.com/r/india/wiki/useful_posts (r/india Useful Posts)
         https://www.reddit.com/r/malefashionadvice/wiki (r/malefashionadvice wiki)
-        https://www.reddit.com/r/uBlockOrigin/comments/178yasm/youtube_antiadblock_and_ads_october_16_2023 ( YouTube Anti-Adblock and Ads - October 16, 2023 (Weekly Thread))
-        https://www.theverge.com/23674658/best-android-phone (The best Android phone to buy in 2023)
         https://www.vox.com/science-and-health/2019/8/23/20828597/the-10000-hour-rule-debunked (The “10,000-hour rule” was debunked again. That’s a relief.)
         https://youglish.com (Use YouTube to improve your English pronunciation. With more than 100M tracks, YouGlish gives you fast, unbiased answers about how English is spoken by real people and in context.)
 
