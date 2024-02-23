@@ -411,6 +411,7 @@ Contents:
         Algorithms and Data Structures:
             Sources:
                 https://algorithmsilluminated.org (Algorithms Illuminated Omnibus Edition (September 2022) by Tim Roughgarden )
+                https://bost.ocks.org/mike/algorithms (Visualizing Algorithms)
                 https://github.com/karan/Projects (📃 A list of practical projects that anyone can solve in any programming language.)
                 https://github.com/Pradetto/DSA-Cheat-Sheets (Data Structures and Algorithms Flashcards)
                 https://github.com/tayllan/awesome-algorithms (A curated list of awesome places to learn and/or practice algorithms.)
@@ -623,6 +624,7 @@ Contents:
                 https://redis.com/blog/datasets-for-test-databases (Groovy datasets for test databases)
                 https://sp23.datastructur.es (CS 61b data structures, spring 2023)
                 https://tontinton.com/posts/database-fundementals (Database Fundamentals)
+                https://www.dedp.online (Book: Data Engineering Design Patterns (DEDP))
                 https://www.reddit.com/r/database
                 https://pinboard.in/u:SharjeelSayed/t:db
 
@@ -746,6 +748,7 @@ Contents:
                 https://devopsnewsletters.com (DevOps Newsletters)
                 https://github.com/AcalephStorage/awesome-devops (A curated list of resources for Devops )
                 https://github.com/AdminTurnedDevOps/DevOps-The-Hard-Way-AWS (This repository contains free labs for setting up an entire workflow and DevOps environment from a real-world perspective in AWS)
+                https://github.com/ahmedtariq01/Cloud-DevOps-Learning-Resources (This repo includes Books and imp notes related to GCP, Azure, AWS, Docker, K8s, and DevOps. More, exam and interview prep notes.)
                 https://github.com/bregman-arie/devops-exercises (Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions)
                 https://github.com/bregman-arie/devops-resources (DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP Topics)
                 https://github.com/codeaprendiz/learn-devops (DevOps Essentials | terraform | kubernetes | linux | nginx | monitoring | docker | docker-compose)
@@ -841,6 +844,7 @@ Contents:
                 https://github.com/imthenachoman/How-To-Secure-A-Linux-Server (An evolving how-to guide for securing a Linux server.)
                 https://github.com/leandromoreira/linux-network-performance-parameters (Learn where some of the network sysctl variables fit into the Linux/Kernel network flow. Translations: 🇷🇺 )
                 https://github.com/luong-komorebi/Awesome-Linux-Software (https://luong-komorebi.github.io/Awesome-Linux-Software 🐧 A list of awesome Linux softwares )
+                https://github.com/muesli/duf (Disk Usage/Free Utility - a better 'df' alternative)
                 https://github.com/r-darwish/topgrade (Upgrade everything)
                 https://github.com/sysprog21/lkmpg (The Linux Kernel Module Programming Guide (updated for 5.x kernels))
                 https://github.com/topics/lamp?o=desc&s=stars
@@ -1020,6 +1024,8 @@ Contents:
                 https://github.com/topics/ssh?o=desc&s=stars
                 https://goteleport.com/blog/security-hardening-ssh-bastion-best-practices (SSH Bastion Host Best Practices)
                 https://grahamhelton.com/blog/ssh-cheatsheet (An Excruciatingly Detailed Guide To SSH (But Only The Things I Actually Find Useful))
+                https://iximiuz.com/en/posts/ssh-tunnels (A Visual Guide to SSH Tunnels: Local and Remote Port Forwarding)
+                https://j11g.com/2023/01/14/i-dont-understand-terminals-shells-and-ssh (I don't understand terminals, shells, and SSH)
                 https://news.ycombinator.com/item?id=10726158 (Poor man's VPN via ssh socks proxy (redpill-linpro.com))
                 https://news.ycombinator.com/item?id=26053323 (	A visual guide to SSH tunnels (robotmoon.com))
                 https://news.ycombinator.com/item?id=32486031 (SSH tips and tricks (carlosbecker.dev))
@@ -1184,9 +1190,11 @@ Contents:
         Kubernetes:
             Sources:
                 https://100daysofkubernetes.io (100 Days of Kubernetes is the challenge in which we aim to learn something new related to Kubernetes each day across 100 Days!!!)
+                https://blog.adamchalmers.com/kubernetes-problems (Solving common problems with Kubernetes)
                 https://blog.pipetail.io/posts/2020-05-04-most-common-mistakes-k8s (10 most common mistakes using kubernetes)
                 https://blog.udemy.com/kubernetes-interview-questions (7 Kubernetes Interview Questions You Should Be Able to Answer)
                 https://catalog.us-east-1.prod.workshops.aws/v2/workshops/9da471a0-266a-4d36-8596-e5934aeedd1f/en-US (AWS Policy as Code Workshop)
+                https://cheatsheetseries.owasp.org/cheatsheets/Kubernetes_Security_Cheat_Sheet.html (Kubernetes Security Cheat Sheet)
                 https://chrisshort.net/kubernetes-illustrated-childrens-guide
                 https://cloud.redhat.com/blog/top-open-source-kubernetes-security-tools-of-2021 (Top Open Source Kubernetes Security Tools of 2021)
                 https://docs.aws.amazon.com/prescriptive-guidance/latest/containers-provision-eks-clusters-terraform/welcome.html (Provisioning production-ready Amazon EKS clusters using Terraform)
@@ -1246,7 +1254,9 @@ Contents:
                 https://www.flatcar.org (A community Linux distribution designed for container workloads, with high security and low maintenance)
                 https://www.learncloudnative.com/blog/2022-05-10-kubectl-tips (Kubernetes CLI (kubectl) tips you didn't know about)
                 https://www.linode.com/content/kubernetes-guide (Understanding Kubernetes A Guide to Modernizing Your Cloud Infrastructure)
+                https://www.macchaffee.com/blog/2022/k8s-under-documented-security-tips (Kubernetes Under-Documented Security Tips)
                 https://www.nsa.gov/Press-Room/News-Highlights/Article/Article/2716980/nsa-cisa-release-kubernetes-hardening-guidance (NSA, CISA release Kubernetes Hardening Guidance)
+                https://www.nslookup.io/learning/the-life-of-a-dns-query-in-kubernetes (The Life of a DNS Query in Kubernetes)
                 https://www.reddit.com/r/kubernetes/comments/1849egq/must_have_kubernetes_cluster_addons (Must have Kubernetes cluster addons?)
                 https://www.reddit.com/r/kubernetes/comments/mwpj1q/how_did_you_really_master_kubernetes
                 https://www.reddit.com/r/kubernetes/comments/xauuxk/what_are_some_useful_kubernetes_tools_you_can (What are some useful Kubernetes tools you can share?)
@@ -1517,6 +1527,7 @@ Contents:
                 https://instances.vantage.sh (Easy Amazon EC2 Instance Comparison)
                 https://linuxacademy-community-slack.herokuapp.com
                 https://miparnisariblog.wordpress.com/2023/03/29/aws-networking-concepts (AWS Networking Concepts)
+                https://miparnisariblog.wordpress.com/2023/03/29/aws-networking-concepts (AWS Networking Concepts)
                 https://news.ycombinator.com/item?id=39313623 (Almost every infrastructure decision I endorse or regret (cep.dev))
                 https://start.jcolemorrison.com/aws-vpc-core-concepts-analogy-guide (AWS VPC Core Concepts in an Analogy and Guide)
                 https://trustoncloud.com/the-last-s3-security-document-that-well-ever-need (The last S3 security document that we’ll ever need, and how to use it)
@@ -1540,6 +1551,7 @@ Contents:
                 https://github.com/aws-samples/hardeneks (Runs checks to see if an EKS cluster follows EKS Best Practices.)
                 https://github.com/awslabs/aws-break-glass-role (Create a break glass role for emergency use in order to limit AWS production account access. Configure automatic alerts and logging of activities in the role to secure its use in production environments.)
                 https://github.com/bash-my-aws/bash-my-aws (Simple but powerful CLI commands for managing AWS resources)
+                https://github.com/cloudandthings/terraform-aws-clickops-notifier (https://registry.terraform.io/modules/cloudandthings/clickops-notifier/aws/latest Get notified when actions are taken in the AWS Console. )
                 https://github.com/dannysteenman/aws-toolbox (A Collection of Awesome Tools and Scripts for Cloud Engineers )
                 https://github.com/dpritchett/aws-budget-limiter (Simple Terraform script for capping monthly AWS spend)
                 https://github.com/dutchcoders/cloudman (Textual user interface to manage ec2 instances.)
@@ -1794,6 +1806,7 @@ Contents:
                 https://github.com/antonbabenko/terraform-best-practices
                 https://github.com/Artemmkin/infrastructure-as-code-tutorial (Infrastructure As Code Tutorial. Covers Packer, Terraform, Ansible, Vagrant, Docker, Docker Compose, Kubernetes )
                 https://github.com/camptocamp/terraboard (A web dashboard to inspect Terraform States)
+                https://github.com/coder/coder (https://coder.com Provision remote development environments via Terraform )
                 https://github.com/gofireflyio/aiac (Artificial Intelligence Infrastructure-as-Code Generator.)
                 https://github.com/GoogleCloudPlatform/terraformer (CLI tool to generate terraform files from existing infrastructure (reverse Terraform))
                 https://github.com/im2nguyen/rover (Interactive Terraform visualization. State and configuration explorer.)
@@ -2308,6 +2321,7 @@ Contents:
                 https://www.coursera.org/learn/crypto (Cryptography I Course by Dan Boneh (Stanford))
                 https://www.cybrary.it (Cybrary's accessible, affordable training platform provides curated career paths, threat-informed training, and certification preparation for professionals at all levels.)
                 https://www.edx.org/learn/cybersecurity (Explore cybersecurity courses and certificates)
+                https://www.macchaffee.com/blog/2022/k8s-under-documented-security-tips (Kubernetes Under-Documented Security Tips)
                 https://www.netmeister.org/blog/infosec-competencies.html ((Technical) Infosec Core Competencies)
                 https://www.nsa.gov/Press-Room/News-Highlights/Article/Article/2716980/nsa-cisa-release-kubernetes-hardening-guidance/utm_source/nsa-cisa-release-kubernetes-hardening-guidance (NSA, CISA release Kubernetes Hardening Guidance)
                 https://www.open-scap.org (Discover a wide array of tools for managing system security and standards compliance)
@@ -2582,13 +2596,13 @@ Contents:
                 https://blog.github.com/2018-03-20-top-10-courses-on-github
                 https://freelearninglist.org
                 https://github.com/afontcu/awesome-learning (A curated list of awesome learning material)
+                https://github.com/ahmedtariq01/Cloud-DevOps-Learning-Resources (This repo includes Books and imp notes related to GCP, Azure, AWS, Docker, K8s, and DevOps. More, exam and interview prep notes.)
                 https://github.com/cloudcommunity/Free-Certifications (A curated list of free courses & certifications.)
                 https://github.com/gerryguy311/CyberProfDevelopmentCovidResources
                 https://github.com/JanVanRyswyck/awesome-talks (Awesome online talks and screencasts )
-                https://github.com/JoseDeFreitas/awesome-youtubers
-                https://github.com/learn-awesome/learn-awesome
+                https://github.com/joseadanof/awesome-cloudnative-trainings (Awesome Trainings from Cloud Native Computing Foundation Projects and Kubernetes related software)
+                https://github.com/JoseDeFreitas/awesome-youtubers (An awesome list of awesome YouTubers that teach about technology. Tutorials about web development, computer science, machine learning, game development, cybersecurity, and more. )
                 https://github.com/liuchong/awesome-roadmaps (A curated list of roadmaps)
-                https://github.com/merry75/educative.io_courses
                 https://github.com/practical-tutorials/project-based-learning (Curated list of project-based tutorials)
                 https://github.com/r0oth3x49/udemy-dl (A cross-platform python based utility to download courses from udemy for personal offline use)
                 https://github.com/sindresorhus/awesome (😎 Awesome lists about all kinds of interesting topics)
@@ -2613,7 +2627,7 @@ Contents:
                 https://news.ycombinator.com/item?id=28017289 (Ask HN: Do you have a process or a framework to learn specific skills quickly?)
                 https://news.ycombinator.com/item?id=34591291 (Ask HN: What's the best lecture series you've seen?)
                 https://news.ycombinator.com/item?id=35536042 (Ask HN: What are some of the best university courses available online for free?)
-                https://www.classcentral.com/collection/top-free-online-courses
+                https://www.classcentral.com/collection/top-free-online-courses (The Best Free Online Courses of All Time)
                 https://www.classcentral.com/starting-this-month
                 https://www.cram.com (Find flashcards to study)
                 https://www.freecodecamp.org/news/best-online-courses
@@ -3022,6 +3036,7 @@ Contents:
                 https://news.ycombinator.com/item?id=18321665 (Foundations of ML and AI: Book recommendations (dragan.rocks))
                 https://news.ycombinator.com/item?id=20674745 (Ask HN: What Neural Networks/Deep Learning Books Should I Read?)
                 https://news.ycombinator.com/item?id=34312248 (Ask HN: What are the foundational texts for learning about AI/ML/NN?)
+                https://news.ycombinator.com/item?id=38331200 (Deep Learning Course (fleuret.org))
                 https://news.ycombinator.com/item?id=38638373 (Ask HN: Daily practices for building AI/ML skills?)
                 https://osanseviero.github.io/hackerllama/blog/posts/random_transformer (The Random Transformer Understand how transformers work by demystifying all the math behind them)
                 https://sourcegraph.com/cody (Cody is a coding AI assistant that uses AI and a deep understanding of your codebase to help you write and understand code faster.)
@@ -3051,6 +3066,7 @@ Contents:
                 https://course.fast.ai (Practical Deep Learning for Coders)
                 https://fleuret.org/dlc (François Fleuret's deep-learning courses 14x050 of the University of Geneva, Switzerland)
                 https://github.com/dair-ai/ML-YouTube-Courses (📺 Discover the latest machine learning / AI courses on YouTube.)
+                https://github.com/DataTalksClub/machine-learning-zoomcamp (Learn ML engineering for free in 4 months! )
                 https://github.com/ethen8181/machine-learning (🌎 machine learning tutorials (mainly in Python3))
                 https://github.com/mlabonne/llm-course (https://mlabonne.github.io/blog Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.)
                 https://github.com/SkalskiP/courses (This repository is a curated collection of links to various courses and resources about Artificial Intelligence (AI))
@@ -3208,6 +3224,7 @@ Contents:
                     https://github.com/shashank88/system_design (Preparation links and resources for system design questions)
                     https://github.com/shashank88/system_design (Preparation links and resources for system design questions)
                     https://interviewing.io/guides/system-design-interview (A Senior Engineer's Guide to the System Design Interview)
+                    https://maheshba.bitbucket.io/blog/2023/07/12/Design.html (What we talk about when we talk about System Design)
                     https://www.amazon.com/System-Design-Interview-Insiders-Guide/dp/1736049119 (System Design Interview – An Insider's Guide: Volume 2 by Alex Xu)
                     https://youtu.be/bUHFg8CZFws (System Design Interview – Step By Step Guide by System Design Interview)
 
@@ -3666,13 +3683,15 @@ Contents:
                 https://www.indiainvestments.wiki
                 https://www.indiainvestments.wiki/start-here/zero-to-investing
                 https://www.investopedia.com
+                https://www.jdawiseman.com/books/pricing-money/Pricing_Money_JDAWiseman.html (Pricing Money A Beginner's Guide to Money, Bonds, Futures and Swaps by J. D. A. Wiseman)
                 https://www.livemint.com/insurance/news/mint-beshak-insurance-ratings-11654771446816.html (Mint Beshak Health Insurance Ratings)
                 https://www.livemint.com/money/personal-finance/investment-strategy-where-to-invest-rs-5-lakh-for-best-returns-experts-suggest-these-assets-large-cap-dynamic-bonds-11705238107561.html (Where to invest Rs 5 lakh for best returns? Experts suggest these assets)
                 https://www.reddit.com/r/Economics/wiki/reading
                 https://www.reddit.com/r/IndiaInvestments
+                https://www.thediff.co/archive/100-due-diligence-questions-checklist (A Short 100-Question Diligence Checklist for investing)
                 https://www.visualcapitalist.com/mapped-the-top-1-percent-in-each-u-s-state (Mapped: How Much Does it Take to be the Top 1% in Each U.S. State?)
                 https://www.visualcapitalist.com/net-worth-to-be-wealthy-in-america-2022 (What Does It Take To Be Wealthy in America?)
-                https://zerodha.com/varsity
+                https://zerodha.com/varsity (Free and open stock market and financial education)
 
             Books and Courses:
                 Basic Economics 5th Edition
@@ -4209,6 +4228,7 @@ Contents:
                 https://diagrams.mingrammer.com (Diagrams lets you draw the cloud system architecture in Python code)
                 https://github.com/excalidraw/excalidraw (https://excalidraw.com Virtual whiteboard for sketching hand-drawn like diagrams)
                 https://github.com/mingrammer/diagrams (https://diagrams.mingrammer.com Diagrams lets you draw the cloud system architecture in Python code.)
+                https://news.ycombinator.com/item?id=37222855 (Architecture diagrams enable better conversations (unravelled.dev))
                 https://www.cloudcraft.co (Create smart AWS diagrams)
 
         Science:
