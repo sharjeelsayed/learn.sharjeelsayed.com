@@ -60,6 +60,7 @@ Contents:
         Security
         Hardware
         macOS
+        Dotfiles
         MOOC
     Development:
         SQL
@@ -248,6 +249,7 @@ Contents:
                 https://devurls.com
                 https://docs.google.com/spreadsheets/d/1gIRjeB1Y_AMvtmJsZWl_dNMDJ7lPSIxiVUYyEvrP5P4/htmlview?usp=sharing&sle=true (Popular Programming Podcast episodes)
                 https://exercism.org (Develop fluency in 61 programming languages with our unique blend of learning, practice and mentoring.)
+                https://fasterthanli.me/articles/the-http-crash-course-nobody-asked-for (The HTTP crash course nobody asked for)
                 https://fintechgtm.substack.com/p/us-fintech-and-payments-crash-course (U.S. Fintech & Payments Crash Course)
                 https://github.blog/2023-11-08-the-state-of-open-source-and-ai (Octoverse: The state of open source and rise of AI in 2023)
                 https://github.com/30-seconds/30-seconds-of-code (https://www.30secondsofcode.org Short code snippets for all your development needs)
@@ -529,6 +531,7 @@ Contents:
                 https://news.ycombinator.com/item?id=13983212 (Beej's Guide to Network Programming)
                 https://news.ycombinator.com/item?id=14701199 (Let's Code a TCP/IP Stack: TCP Retransmission (saminiir.com))
                 https://siliconsprawl.com/2020/05/10/network-programming-self-study.html
+                https://tls13.xargs.org (The Illustrated TLS 1.3 Connection Every byte explained and reproduced)
                 https://www.davidc.net/sites/default/subnets/subnets.html (Visual Subnet Calculator)
                 https://www.jeremysitlab.com/ccna-resources
                 https://www.reddit.com/r/ccna/wiki/faqs/materials
@@ -738,6 +741,7 @@ Contents:
         DevOps:
             Sources:
                 http://www.devopsbookmarks.com (Discover tools and frameworks in the DevOps landscape.)
+                https://aws.amazon.com/blogs/devops/the-most-visited-aws-devops-blogs-in-2023 (The most visited AWS DevOps blog posts in 2023)
                 https://devopsengineers.com (Slack Channel)
                 https://devopsnewsletters.com (DevOps Newsletters)
                 https://github.com/AcalephStorage/awesome-devops (A curated list of resources for Devops )
@@ -758,7 +762,7 @@ Contents:
                 https://news.ycombinator.com/item?id=14652993 (Ask HN: DevOps learning resources)
                 https://news.ycombinator.com/item?id=16357368 (Ask HN: Which books describe modern devops?)
                 https://news.ycombinator.com/item?id=29251343 (Ask HN: What is the fastest way to ramp up on DevOps, k8 and GCP?)
-                https://octopus.com/blog/devops-reading-list
+                https://octopus.com/blog/devops-reading-list ( The DevOps reading list: Choosing your next DevOps book )
                 https://roadmap.sh/devops (Step by step guide for DevOps, SRE or any other Operations Role in 2022)
                 https://slack.cloudposse.com https://sweetops.slack.com https://slack.sweetops.com (SweetOps Slack Group)
                 https://www.actionsbyexample.com (GitHub Actions by Example is an introduction to the service through annotated examples.)
@@ -1009,6 +1013,7 @@ Contents:
         ssh:
             Sources:
                 http://www.g-loaded.eu/2006/11/24/auto-closing-ssh-tunnels # Auto-closing SSH tunnels
+                https://carlosbecker.com/posts/ssh-tips-and-tricks (SSH Tips and Tricks)
                 https://github.com/jtesta/ssh-audit (SSH server & client security auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc))
                 https://github.com/moul/awesome-ssh (💻 A curated list of SSH resources. )
                 https://github.com/opsdisk/the_cyber_plumbers_handbook (The definitive guide to Secure Shell (SSH) tunneling, port redirection, and bending traffic like a boss.)
@@ -1017,6 +1022,7 @@ Contents:
                 https://grahamhelton.com/blog/ssh-cheatsheet (An Excruciatingly Detailed Guide To SSH (But Only The Things I Actually Find Useful))
                 https://news.ycombinator.com/item?id=10726158 (Poor man's VPN via ssh socks proxy (redpill-linpro.com))
                 https://news.ycombinator.com/item?id=26053323 (	A visual guide to SSH tunnels (robotmoon.com))
+                https://news.ycombinator.com/item?id=32486031 (SSH tips and tricks (carlosbecker.dev))
                 https://news.ycombinator.com/item?id=32486031 (SSH tips and tricks (carlosbecker.dev))
                 https://news.ycombinator.com/item?id=37240187 (An excruciatingly detailed guide to SSH (but only the things I find useful) (grahamhelton.com))
                 https://susam.in/blog/file-transfer-with-ssh-tee-and-base64.html (File Transfer with SSH, Tee, and Base64)
@@ -1245,6 +1251,7 @@ Contents:
                 https://www.reddit.com/r/kubernetes/comments/mwpj1q/how_did_you_really_master_kubernetes
                 https://www.reddit.com/r/kubernetes/comments/xauuxk/what_are_some_useful_kubernetes_tools_you_can (What are some useful Kubernetes tools you can share?)
                 https://www.tkng.io (The Kubernetes Network Model)
+                https://www.tkng.io/arch (The Kubernetes Network Model)
                 https://www.udemy.com/topic/kubernetes/?ratings=4.5&sort=popularity (Udemy Courses rated 4.5 stars and above)
                 https://ymmt2005.hatenablog.com/entry/k8s-things (47 Things To Become a Kubernetes Expert)
                 https://youtu.be/0Omvgd7Hg1I (Life of a Packet [I] - Michael Rubin, Google)
@@ -1474,12 +1481,14 @@ Contents:
             Sources:
                 http://flaws.cloud (Through a series of levels you'll learn about common mistakes and gotchas when using Amazon Web Services (AWS).)
                 https://adayinthelifeof.nl/2020/05/20/aws.html (A List of One-sentence Descriptions of AWS Services)
-                https://aws.amazon.com/blogs (AWS News Blog)
-                https://aws.amazon.com/blogs/architecture/top-10-architecture-blog-posts-of-2021 (Top 10 Architecture Blog Posts of 2021)
+                https://aws.amazon.com/blogs (AWS Blog)
+                https://aws.amazon.com/blogs/architecture/top-10-aws-architecture-blog-posts-of-2022 (Top 10 Architecture Blog Posts of 2022)
+                https://aws.amazon.com/blogs/devops/the-most-visited-aws-devops-blogs-in-2023 (The most visited AWS DevOps blog posts in 2023)
                 https://aws.amazon.com/builders-library (The Amazon Builders' Library: How Amazon builds and operates software )
                 https://aws.amazon.com/education/awseducate (Build your cloud skills at your own pace, on your own time, and completely for free)
                 https://aws.amazon.com/solutions (AWS Solutions Library Vetted solutions and guidance for business and technical use cases)
                 https://aws.amazon.com/training/digital/aws-security-fundamentals (AWS Security Fundamentals (Second Edition))
+                https://aws.amazon.com/whitepapers (AWS Whitepapers & Guides)
                 https://aws.github.io/aws-security-services-best-practices (AWS Security Services Best Practices)
                 https://awsnotes.dendron.so (Gotchas, Caveats, and Limits Across All Services.The doc is autogenerated from parsing the official AWS docs)
                 https://awsstash.com (A collection of AWS related videos, podcasts, code repositories, whitepapers, and feature releases, all in a single, easy to search interface.)
@@ -1529,6 +1538,7 @@ Contents:
                 https://github.com/AndrewGuenther/fck-nat (https://fck-nat.dev Feasible cost konfigurable NAT: An AWS NAT Instance AMI)
                 https://github.com/aramalipoor/aws-cost-saver (A tiny CLI tool to help save costs in development environments when you're asleep and don't need them!)
                 https://github.com/aws-samples/hardeneks (Runs checks to see if an EKS cluster follows EKS Best Practices.)
+                https://github.com/awslabs/aws-break-glass-role (Create a break glass role for emergency use in order to limit AWS production account access. Configure automatic alerts and logging of activities in the role to secure its use in production environments.)
                 https://github.com/bash-my-aws/bash-my-aws (Simple but powerful CLI commands for managing AWS resources)
                 https://github.com/dannysteenman/aws-toolbox (A Collection of Awesome Tools and Scripts for Cloud Engineers )
                 https://github.com/dpritchett/aws-budget-limiter (Simple Terraform script for capping monthly AWS spend)
@@ -1932,7 +1942,7 @@ Contents:
 
         Redis:
             Sources:
-                https://architecturenotes.co/redis
+                https://architecturenotes.co/redis (A deep technical dive into all things Redis. Covering various Redis topologies, data persistence and process forking.)
 
             Books and Courses:
                 https://redis.io/documentation
@@ -1962,6 +1972,7 @@ Contents:
                 https://news.ycombinator.com/item?id=21189256 (99% of the Git commands you'll need at work, demonstrated in a single script (bitbucket.org))
                 https://news.ycombinator.com/item?id=39400352 (Popular Git config options (jvns.ca))
                 https://nvie.com/posts/a-successful-git-branching-model (A successful Git branching model)
+                https://ossinsight.io (SELECT insights FROM GitHub events 🔥 Trending Repos)
                 https://sourcegraph.com/search (Search your code and 2M+ open source repositories)
                 https://stackoverflow.com/questions/tagged/git
                 https://useful-forks.github.io (It aims at increasing the discoverability of useful forks of open-source projects.)
@@ -2122,6 +2133,7 @@ Contents:
                 https://stackoverflow.com/questions/726894/what-are-the-dark-corners-of-vim-your-mom-never-told-you-abouts (What are the dark corners of Vim your mom never told you about?)
                 https://stackoverflow.com/questions/tagged/vim
                 https://vim.fandom.com
+                https://vimhelp.org/quickref.txt.html (Vim Quick Reference Card)
                 https://www.shortcutfoo.com/app/dojos/vim (Choose shortcuts to practice)
                 https://www.vim.so (We help you master vim with interactive exercises)
                 https://www.youtube.com/playlist?list=PLu-ydI-PCl0OEG0ZEqLRRuCrMJGAAI0tW (Vim as IDE)
@@ -2288,7 +2300,6 @@ Contents:
                 https://tcm-sec.com/so-you-want-to-be-a-hacker-2021-edition (So You Want to Be a Hacker: 2021 Edition)
                 https://tib3rius.com/interview-questions.html (Web AppSec Interview Questions)
                 https://tldrsec.com/p/software-supply-chain-vendor-landscape (Software Supply Chain Vendor Landscape)
-                https://tls13.xargs.org (The Illustrated TLS 1.3 Connection Every byte explained and reproduced)
                 https://toc.cryptobook.us (A Graduate Course in Applied Cryptography)
                 https://tryhackme.com/r/resources/blog/security-engineer-interview-guide (Preparing for a Security Engineering Interview)
                 https://www.cisa.gov/sites/default/files/publications/Federal_Government_Cybersecurity_Incident_and_Vulnerability_Response_Playbooks_508C.pdf (CISA Cybersecurity Incident and Vulnerability Response Playbooks)
@@ -2395,7 +2406,6 @@ Contents:
                 https://discord.gg/apple (Discord server for /r/Apple)
                 https://docs.google.com/spreadsheets/d/1JqyglRJXzxaj8OcQw9jHabxFUdsv9iWJXMPXcL7On0M (Definitive App Comparisons)
                 https://doesitarm.com ( Apps that are reported to support Apple Silicon)
-                https://dotfilehub.com
                 https://ghuntley.com/anywhere (Reflections on software development from anywhere on an iPad)
                 https://gist.github.com/kconner/cff08fe3e0bb857ea33b47d965b3e19f (macOS Internals)
                 https://gist.github.com/nmcc/4e8ead6c380d8331fedd04e1aa41d351 (Install Consolas font on Mac)
@@ -2406,15 +2416,12 @@ Contents:
                 https://github.com/geerlingguy/mac-dev-playbook (Mac setup and configuration via Ansible.)
                 https://github.com/iCHAIT/awesome-macOS ( A curated list of awesome applications, softwares, tools and shiny things for macOS.)
                 https://github.com/jaywcjlove/awesome-mac (https://wangchujiang.com/awesome-mac awesome macOS software in various categories)
-                https://github.com/mathiasbynens/dotfiles (🔧 .files, including ~/.macos — sensible hacker defaults for macOS)
                 https://github.com/mRs-/Black-Friday-Deals (Black Friday Deals for macOS / iOS Software & Books)
                 https://github.com/nikitavoloboev/my-mac-os (List of applications and tools that make my macOS experience even more amazing)
                 https://github.com/pyenv/pyenv/wiki/MacOS-login-shell (Configure the terminal to run your shell as a login shell)
                 https://github.com/sb2nov/mac-setup (Installing Development environment on macOS)
                 https://github.com/serhii-londar/open-source-mac-os-apps (🚀 Awesome list of open source applications for macOS.)
                 https://github.com/sveinbjornt/Sloth (Mac app that shows all open files, directories, sockets, pipes and devices in use by all running processes. Nice GUI for lsof. https://sveinbjorn.org/sloth)
-                https://github.com/TheLocehiliosan/yadm (Yet Another Dotfiles Manager)
-                https://github.com/topics/dotfiles?o=desc&s=stars
                 https://github.com/topics/macos?o=desc&s=stars
                 https://indiegoodies.com (iOS and macOS apps that enrich lives and boost productivity)
                 https://isapplesiliconready.com (The complete guide for MacOS Apps Optimized for Apple Silicon Macs and the M1 Processor)
@@ -2463,6 +2470,7 @@ Contents:
                 https://github.com/caldis/mos (A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS )
                 https://github.com/exelban/stats (macOS system monitor in your menu bar)
                 https://github.com/koekeishiya/yabai (A tiling window manager for macOS based on binary space partitioning)
+                https://github.com/mangerlahn/Latest (https://max.codes/latest A small utility app for macOS that makes sure you know about all the latest updates to the apps you use.)
                 https://github.com/MikeMcQuaid/strap (https://strap.mikemcquaid.com 👢 Bootstrap your macOS development system.)
                 https://github.com/Mortennn/Dozer (Hide menu bar icons on macOS)
                 https://github.com/nextdns/nextdns/wiki/macos (NextDNS CLI client (DoH Proxy) )
@@ -2554,6 +2562,18 @@ Contents:
                 https://help.obdev.at/littlesnitch5/ref-lsrules-file-format
                 https://pgl.yoyo.org/adservers/news.php#littlesnitch-rule-group-subscriptions
                 https://weekly.elfitz.com/2019/02/12/block-ads-and-trackers-on-your-mac-with-little-snitch (Block ads and trackers on your Mac with Little Snitch)
+
+        Dotfiles:
+            Sources:
+                https://dotfilehub.com
+                https://dotfiles.github.io (Your unofficial guide to dotfiles on GitHub.)
+                https://github.com/topics/dotfiles?o=desc&s=stars
+
+            Tools:
+                https://github.com/mathiasbynens/dotfiles (🔧 .files, including ~/.macos — sensible hacker defaults for macOS)
+                https://github.com/TheLocehiliosan/yadm (Yet Another Dotfiles Manager)
+                https://github.com/thoughtbot/rcm (https://thoughtbot.github.io/rcm/rcm.7.html rc file (dotfile) management)
+                https://github.com/twpayne/chezmoi (https://www.chezmoi.io Manage your dotfiles across multiple machines, securely)
 
         MOOC:
             Sources:
@@ -3647,6 +3667,7 @@ Contents:
                 https://www.indiainvestments.wiki/start-here/zero-to-investing
                 https://www.investopedia.com
                 https://www.livemint.com/insurance/news/mint-beshak-insurance-ratings-11654771446816.html (Mint Beshak Health Insurance Ratings)
+                https://www.livemint.com/money/personal-finance/investment-strategy-where-to-invest-rs-5-lakh-for-best-returns-experts-suggest-these-assets-large-cap-dynamic-bonds-11705238107561.html (Where to invest Rs 5 lakh for best returns? Experts suggest these assets)
                 https://www.reddit.com/r/Economics/wiki/reading
                 https://www.reddit.com/r/IndiaInvestments
                 https://www.visualcapitalist.com/mapped-the-top-1-percent-in-each-u-s-state (Mapped: How Much Does it Take to be the Top 1% in Each U.S. State?)
@@ -3888,6 +3909,7 @@ Contents:
                 https://news.ycombinator.com/item?id=27636743 (Ask HN: Which book or course gave you an unfair advantage?)
                 https://news.ycombinator.com/item?id=29462663 (	Ask HN: What are some must read books?)
                 https://news.ycombinator.com/item?id=30241190 (Ask HN: What is one book you would recommend everyone to read?)
+                https://news.ycombinator.com/item?id=32790064 (Ask HN: Which books do you consider real gems in your field of work/study?)
                 https://news.ycombinator.com/item?id=33797862 (Ask HN: Which books have made you a better thinker and problem solver?)
                 https://news.ycombinator.com/item?id=35929112 (Ask HN: What are the most eye-opening textbooks you have ever read?)
                 https://news.ycombinator.com/item?id=39057219 (	Ask HN: Good books on philosophy of engineering?)
@@ -4955,6 +4977,7 @@ Contents:
                 https://lichess.org/coach (Lichess coaches)
                 https://lichess.org/study/all/popular
                 https://lichess.org/training (Lichess Puzzles)
+                https://news.ycombinator.com/item?id=38671876 (How to learn chess as an adult (2021) (alexcrompton.com))
                 https://www.alexcrompton.com/blog/how-to-learn-chess (How To Learn Chess As An Adult (or, how I went from 300 to 1500 ELO in 9 months))
                 https://www.chess.com/article/view/10-positions-chess-engines-just-dont-understand
                 https://www.chess.com/puzzles
@@ -4992,6 +5015,7 @@ Contents:
                 https://news.ycombinator.com/item?id=16105040 (Ask HN: Great science fiction movies?)
                 https://news.ycombinator.com/item?id=24088582 (Ask HN: Films that made you see the world differently?)
                 https://news.ycombinator.com/item?id=29106967 (Ask HN: What are some technically inspiring movies, TV shows or documentaries?)
+                https://news.ycombinator.com/item?id=32799789 (Ask HN: What are some of the best documentaries you've seen?)
                 https://news.ycombinator.com/item?id=32799789 (Ask HN: What are some of the best documentaries you've seen?)
                 https://www.bbc.com/culture/article/20181029-the-100-greatest-foreign-language-films (The 100 greatest foreign-language films)
                 https://www.bbc.com/culture/article/20211015-the-100-greatest-tv-series-of-the-21st-century
@@ -5144,6 +5168,7 @@ Contents:
         https://hackerspaces.org (Hackerspaces are community-operated physical places, where people share their interest in tinkering with technology, meet and work on their projects, and learn from each other)
         https://indie.deals (Early launch deals on products made by Indie Makers)
         https://learn-anything.xyz
+        https://lobste.rs/s/0fkc0u/what_is_terminal_based_game_you_ve_played_s (What is a terminal-based game you've played that's worth mentioning?)
         https://looria.com/reddit/overview (Reddit's Favorite Products in One Place)
         https://news.ycombinator.com/item?id=20110922 (How to Draw Animals (1930) (dessinoprimaire.blogspot.com))
         https://news.ycombinator.com/item?id=20146168 (Sleep tweaks boost night owls' wellbeing (bbc.com))
@@ -5174,13 +5199,16 @@ Contents:
         https://www.reddit.com/r/AskReddit/comments/6q2b8x/reddit_whats_become_clear_to_you_as_youve_gotten
         https://www.reddit.com/r/AskReddit/comments/70q5f2/reddit_what_are_the_most_useful_askreddit_posts
         https://www.reddit.com/r/BuyItForLife/comments/vxeudm/i_analyzed_the_most_and_least_popular_brands_on (I analyzed the most and least popular brands on r/BuyItForLife)
+        https://www.reddit.com/r/dataisbeautiful/comments/11sw2co/oc_who_lived_when_i_charted_out_the_overlapping ([OC] Who Lived When? I charted out the overlapping lives of historical figures, from 1400 to today)
         https://www.reddit.com/r/dataisbeautiful/comments/ujuui4/oc_the_most_discussed_brands_on_rbuyitforlife (OC: The most discussed brands on r/BuyItForLife)
+        https://www.reddit.com/r/dataisbeautiful/comments/vsp9yu/oc_the_most_and_least_popular_brands_on ([OC] The most and least popular brands on r/BuyItForLife)
         https://www.reddit.com/r/EDC/comments/7j7lrs/edc_starter_pack_an_arbitrary_list_of_gear_that (EDC Starter Pack: An Arbitrary List of Gear that Gets Recommended a Lot)
         https://www.reddit.com/r/EDC/comments/ur36lf/i_analyzed_the_top_50_most_mentioned_products_on (I analyzed the top 50 most mentioned products on r/EDC)
         https://www.reddit.com/r/india/wiki/useful_posts (r/india Useful Posts)
         https://www.reddit.com/r/malefashionadvice/wiki (r/malefashionadvice wiki)
         https://www.vox.com/science-and-health/2019/8/23/20828597/the-10000-hour-rule-debunked (The “10,000-hour rule” was debunked again. That’s a relief.)
         https://youglish.com (Use YouTube to improve your English pronunciation. With more than 100M tracks, YouGlish gives you fast, unbiased answers about how English is spoken by real people and in context.)
+
 
     Support this project with these referral links:
         http://share.payoneer.com/nav/fNDwSrQzVfdG8-xoVyx0Bw_ZDmVq9EROCSP2BPIK6ZXFGNfkLTA-k6YqnGHb8YozBtA2obVkitQbtq50VTZ5Bg2 ($25 on Sign Up)
