@@ -660,7 +660,8 @@ Contents:
         Distributed Systems:
             Sources:
                 https://book.dtornow.com (Thinking in Distributed Systems by Daniel Tornow)
-                https://ferd.ca/a-distributed-systems-reading-list.html (A distributed systems reading list)
+                https://book.mixu.net/distsys/single-page.html ( Distributed systems for fun and profit)
+                https://ferd.ca/a-distributed-systems-reading-list.html (A Distributed Systems Reading List)
                 https://gist.github.com/macintux/6227368 (List of distributed systems reading lists, plus miscellanea)
                 https://github.com/ashishps1/awesome-system-design-resources (This repository contains System Design resources which are useful while preparing for interviews and learning Distributed Systems)
                 https://github.com/madd86/awesome-system-design (A curated list of awesome System Design (A.K.A. Distributed Systems) resources.)
@@ -668,6 +669,8 @@ Contents:
                 https://github.com/theanalyst/awesome-distributed-systems (A curated list to learn about distributed systems)
                 https://news.ycombinator.com/item?id=25987664 (Ask HN: recommended books and papers on distributed systems?)
                 https://news.ycombinator.com/item?id=39303160 (A distributed systems reading list (ferd.ca))
+                https://www.allthingsdistributed.com (Werner Vogels on building scalable and robust distributed systems)
+                https://www.allthingsdistributed.com/2023/07/building-and-operating-a-pretty-big-storage-system.html (Building and operating a pretty big storage system called S3)
                 https://www.allthingsdistributed.com/2023/07/building-and-operating-a-pretty-big-storage-system.html (Building and operating a pretty big storage system called S3)
                 https://www.microsoft.com/en-us/research/publication/principles-of-eventual-consistency (Principles of Eventual Consistency by Sebastian Burckhardt 2014)
                 https://www.microsoft.com/en-us/research/publication/time-clocks-ordering-events-distributed-system (Time, Clocks, and the Ordering of Events in a Distributed System by Leslie Lamport 1978)
@@ -755,18 +758,19 @@ Contents:
                 https://github.com/iam-veeramalla/aws-devops-zero-to-hero (https://youtube.com/playlist?list=PLdpzxOOAlwvLNOxX0RfndiYSt1Le9azze&si=OhfxV1KlESpSX5xS AWS zero to hero repo for devops engineers to learn AWS in 30 Days. This repo includes projects, presentations, interview questions and real time examples. )
                 https://github.com/MichaelCade/90DaysOfDevOps (This repository is my documenting repository for learning the world of DevOps)
                 https://github.com/microsoft/code-with-engineering-playbook (This is the playbook for "code-with" customer or partner engagements)
-                https://github.com/milanm/DevOps-Roadmap (DevOps Roadmap for 2023. with learning resources )
+                https://github.com/milanm/DevOps-Roadmap (https://newsletter.techworld-with-milan.com DevOps Roadmap for 2023. with learning resources )
                 https://github.com/nmarus/docker-devops-box (Portable DevOps environment in Docker)
+                https://github.com/Pradumnasaraf/DevOps (https://devops.pradumnasaraf.dev I created this repository to keep my learning, notes, and code in one place for various tools in DevOps. Now, it's helping thousands of learners, practitioners, and professionals every day in their DevOps journey.)
                 https://github.com/Tikam02/DevOps-Guide (Development to Production all configurations with basic notes to debug efficiently.)
                 https://github.com/topics/devops?o=desc&s=stars
-                https://github.com/wmariuss/awesome-devops ( A curated list of awesome DevOps tools, platforms and resources)
+                https://github.com/wmariuss/awesome-devops (https://awesome-devops.xyz A curated list of awesome DevOps tools, platforms and resources)
                 https://infinite.education/view/devops_engineer_2
                 https://learn-anything.xyz/programming/software-development/devops
                 https://news.ycombinator.com/item?id=14652993 (Ask HN: DevOps learning resources)
                 https://news.ycombinator.com/item?id=16357368 (Ask HN: Which books describe modern devops?)
                 https://news.ycombinator.com/item?id=29251343 (Ask HN: What is the fastest way to ramp up on DevOps, k8 and GCP?)
                 https://octopus.com/blog/devops-reading-list ( The DevOps reading list: Choosing your next DevOps book )
-                https://roadmap.sh/devops (Step by step guide for DevOps, SRE or any other Operations Role in 2022)
+                https://roadmap.sh/devops (Step by step guide for DevOps, SRE or any other Operations Role in 2024)
                 https://slack.cloudposse.com https://sweetops.slack.com https://slack.sweetops.com (SweetOps Slack Group)
                 https://www.actionsbyexample.com (GitHub Actions by Example is an introduction to the service through annotated examples.)
                 https://www.linkedin.com/groups/2825397 (DevOps Group)
@@ -1261,7 +1265,6 @@ Contents:
                 https://www.reddit.com/r/kubernetes/comments/mwpj1q/how_did_you_really_master_kubernetes
                 https://www.reddit.com/r/kubernetes/comments/xauuxk/what_are_some_useful_kubernetes_tools_you_can (What are some useful Kubernetes tools you can share?)
                 https://www.tkng.io (The Kubernetes Network Model)
-                https://www.tkng.io/arch (The Kubernetes Network Model)
                 https://www.udemy.com/topic/kubernetes/?ratings=4.5&sort=popularity (Udemy Courses rated 4.5 stars and above)
                 https://ymmt2005.hatenablog.com/entry/k8s-things (47 Things To Become a Kubernetes Expert)
                 https://youtu.be/0Omvgd7Hg1I (Life of a Packet [I] - Michael Rubin, Google)
@@ -1528,6 +1531,7 @@ Contents:
                 https://linuxacademy-community-slack.herokuapp.com
                 https://miparnisariblog.wordpress.com/2023/03/29/aws-networking-concepts (AWS Networking Concepts)
                 https://miparnisariblog.wordpress.com/2023/03/29/aws-networking-concepts (AWS Networking Concepts)
+                https://news.ycombinator.com/item?id=38998516 (Slashing data transfer costs in AWS (bitsand.cloud))
                 https://news.ycombinator.com/item?id=39313623 (Almost every infrastructure decision I endorse or regret (cep.dev))
                 https://start.jcolemorrison.com/aws-vpc-core-concepts-analogy-guide (AWS VPC Core Concepts in an Analogy and Guide)
                 https://trustoncloud.com/the-last-s3-security-document-that-well-ever-need (The last S3 security document that we’ll ever need, and how to use it)
@@ -1535,6 +1539,7 @@ Contents:
                 https://www.chrisfarris.com/post/aws-organizations-in-2021 (AWS Organizations - Checklist for 2021)
                 https://www.cisecurity.org/benchmark/amazon_web_services (A step-by-step checklist to secure Amazon Web Services)
                 https://www.concurrencylabs.com/blog/choose-your-aws-region-wisely (Save yourself a lot of pain (and money) by choosing your AWS Region wisely)
+                https://www.effectiveiam.com (Effective IAM for Amazon Web Services by Stephen Kuenzli )
                 https://www.freecodecamp.org/news/free-107-hour-aws-cloud-project-bootcamp (Free 107-Hour AWS Cloud Project Bootcamp)
                 https://www.lastweekinaws.com/blog/the-17-ways-to-run-containers-on-aws (The 17 Ways to Run Containers on AWS)
                 https://www.linkedin.com/pulse/interviewing-aws-advice-tips-from-250-interviews-nick-matthews (Interviewing at AWS: Advice and tips from 250 interviews by Nick Matthews)
@@ -3223,6 +3228,7 @@ Contents:
                     https://github.com/madd86/awesome-system-design (A curated list of awesome System Design (A.K.A. Distributed Systems) resources.)
                     https://github.com/shashank88/system_design (Preparation links and resources for system design questions)
                     https://github.com/shashank88/system_design (Preparation links and resources for system design questions)
+                    https://github.com/systemdesign42/system-design (https://newsletter.systemdesign.one Building the best system design resource in the internet)
                     https://interviewing.io/guides/system-design-interview (A Senior Engineer's Guide to the System Design Interview)
                     https://maheshba.bitbucket.io/blog/2023/07/12/Design.html (What we talk about when we talk about System Design)
                     https://www.amazon.com/System-Design-Interview-Insiders-Guide/dp/1736049119 (System Design Interview – An Insider's Guide: Volume 2 by Alex Xu)
@@ -3883,6 +3889,7 @@ Contents:
             Sources:
                 http://booksreddit.com (Using data analysis to get best Reddit books suggestions)
                 http://www.openculture.com/free_textbooks (200 Free Textbooks: A Meta Collection)
+                https://annas-archive.org/datasets (Anna's Archive - The largest truly open library in human history. ⭐️ We mirror Sci-Hub and LibGen. We scrape and open-source Z-Lib, OpenLib, and more. 📈 25,608,184 books, 99,902,163 papers — preserved forever)
                 https://bookauthority.org (Book recommendations by thought leaders)
                 https://bookinsider.gitlab.io (We present you with the top books on Stack Overflow and other popular Stack Exchange sites.)
                 https://docs.google.com/spreadsheets/d/e/2PACX-1vQDca1iI1GgcMwBl65XRvJaAnZOv6sCjmAamy_7cioVMV4U_VnBksgZrIKTe5P4aneEXtion1ZA7iPe/pubhtml (Pinker Book Recommendations)
@@ -4645,6 +4652,7 @@ Contents:
                 https://news.ycombinator.com/item?id=9836023 (Ask HN: What tech blogs, podcasts do you follow outside of HN?)
                 https://refined.blog (Curated list of personal blogs)
                 https://wiki.nikitavoloboev.xyz/research/blogs#favorite-blogs
+                https://www.allthingsdistributed.com (Werner Vogels on building scalable and robust distributed systems)
 
         Podcasts:
             Sources:
