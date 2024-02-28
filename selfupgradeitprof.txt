@@ -3004,6 +3004,7 @@ Contents:
 
         iOS/Android:
             Sources:
+                https://esimdb.com (Find the best prepaid eSIM plans for your travel destination)
                 https://receive-sms-free.cc (Receive SMS online anonymously and fast, without register or a mobile phone)
                 https://www.chargerlab.com/apple-iphone-15-pro-max-charging-test-chargerlab-compatibility-100 (iPhone 15 Pro Max Charging Test)
                 https://www.gizchina.com/2024/02/08/smartphones-2023-top-sellers (Canalys Reveals: Top 10 Shipped Smartphones Worldwide in 2023)
