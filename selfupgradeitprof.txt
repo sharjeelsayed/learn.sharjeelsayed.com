@@ -534,7 +534,7 @@ Contents:
                 https://siliconsprawl.com/2020/05/10/network-programming-self-study.html
                 https://tls13.xargs.org (The Illustrated TLS 1.3 Connection Every byte explained and reproduced)
                 https://www.davidc.net/sites/default/subnets/subnets.html (Visual Subnet Calculator)
-                https://www.jeremysitlab.com/ccna-resources
+                https://www.jeremysitlab.com/ccna-resources (Recommended CCNA Resources)
                 https://www.reddit.com/r/ccna/wiki/faqs/materials
                 https://www.reddit.com/r/networking/comments/125oiyo/how_are_large_tech_companies_scaling_their_data (How are large tech companies scaling their Data Centers?)
                 https://www.reddit.com/r/networking/wiki
@@ -588,6 +588,9 @@ Contents:
 
                 Professor Messer - Seven Second Subnetting
                 https://youtu.be/ZxAwQB8TZsM
+
+                Subnetting Mastery by Practical Networking
+                https://youtube.com/playlist?list=PLIFyRwBY_4bQUE4IB5c4VPRyDoLgOdExE
 
         DNS:
             Sources:
@@ -5076,9 +5079,8 @@ Contents:
                 https://en.wikipedia.org/wiki/TAG_Heuer_Monaco (TAG Heuer Monaco)
                 https://en.wikipedia.org/wiki/Tourbillon (Tourbillon)
                 https://en.wikipedia.org/wiki/Tudor_Watches (Tudor Watches)
-                https://iflwatches.com/blogs/news/top-swiss-watch-brands-2022-a-report-by-morgan-stanley (Top Swiss Watch Brands 2022 - A Report By Morgan Stanley)
                 https://instagram.com/superwatchman (Instagram's Most Followed Celebrity Watch Page 🏆)
-                https://professionalwatches.com/morgan-stanleys-top-20-swiss-watch-company-ranking-for-2023 (Morgan Stanley’s Top 20 Swiss Watch Company Ranking for 2023)
+                https://monochrome-watches.com/industry-news-top-50-swiss-watch-companies-of-2023-according-to-morgan-stanley-rolex-breaking-the-chf-10-billion-barrier (The Top 50 Swiss Watch Companies of 2023 According to Morgan Stanley)
                 https://quillandpad.com/2021/03/19/the-diving-bezel-the-most-versatile-watch-complication-even-if-youre-not-a-diver (The Diving Bezel: The Most Versatile Watch Complication, Even If You’re Not A Diver)
                 https://teddybaldassarre.com/blogs/watches/iconic-watches (The 28 Most Iconic Watches of All Time and the Case for Each by Mark Bernardo. June 2023)
                 https://watchcharts.com/screener (Watch Screener: Find watches based on specifications and market performance.)
