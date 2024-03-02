@@ -519,32 +519,23 @@ Contents:
 
         Networking:
             Sources:
-                https://beej.us/guide/bgnet (Beej's Guide to Network Programming Using Internet Sockets)
-                https://beej.us/guide/bgnet0 (Beej's Guide to Networking Concepts)
+                https://en.wikipedia.org/wiki/IP_address#Private_addresses
                 https://github.com/gchq/CyberChef (The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis)
                 https://github.com/kffl/speedbump (TCP proxy for simulating variable, yet predictable network latency 🌐⏳)
                 https://github.com/leandromoreira/linux-network-performance-parameters (Learn where some of the network sysctl variables fit into the Linux/Kernel network flow. Translations: 🇷🇺 )
-                https://github.com/mininet/mininet/wiki/Teaching-and-Learning-with-Mininet
                 https://github.com/netbox-community/netbox (https://netbox.dev The premier source of truth powering network automation. Open source under Apache 2)
-                https://how-did-i-get-here.net (A tool/website/article by @kognise about how routing on the Internet works https://github.com/hackclub/how-did-i-get-here )
-                https://learn.cantrill.io/p/tech-fundamentals (Tech Fundamentals by Adrian Cantrill)
                 https://lucb1e.com/randomprojects/php/funnip.php (list of all the ways (and notation combinations) you can make with your IP address)
                 https://news.ycombinator.com/item?id=13983212 (Beej's Guide to Network Programming)
                 https://news.ycombinator.com/item?id=14701199 (Let's Code a TCP/IP Stack: TCP Retransmission (saminiir.com))
-                https://siliconsprawl.com/2020/05/10/network-programming-self-study.html
-                https://tls13.xargs.org (The Illustrated TLS 1.3 Connection Every byte explained and reproduced)
+                https://siliconsprawl.com/2020/05/10/network-programming-self-study.html (Network Programming Self-Study)
                 https://www.davidc.net/sites/default/subnets/subnets.html (Visual Subnet Calculator)
                 https://www.jeremysitlab.com/ccna-resources (Recommended CCNA Resources)
-                https://www.reddit.com/r/ccna/wiki/faqs/materials
+                https://www.reddit.com/r/ccna/wiki/faqs/materials (/r/CCNA CCNA Study Materials)
                 https://www.reddit.com/r/networking/comments/125oiyo/how_are_large_tech_companies_scaling_their_data (How are large tech companies scaling their Data Centers?)
-                https://www.reddit.com/r/networking/wiki
                 https://www.reddit.com/r/sysadmin/comments/4ux166/do_you_know_a_site_to_learn_more_about_networking
                 https://www.youtube.com/watch?v=WL0ZTcfSvB4 (Tutorial: Troubleshooting with Traceroute by Richard Steenbergen, GTT.)
 
             Books and Courses:
-                The Bits and Bytes of Computer Networking -Grow with Google
-                https://www.coursera.org/learn/computer-networking
-
                 Computer Networking: A Top-Down Approach, 8th Edition (2021) by James F. Kurose and Keith Ross:
                     https://www.amazon.com/Computer-Networking-Global-James-Kurose/dp/1292405465
                     https://gaia.cs.umass.edu/kurose_ross
@@ -559,7 +550,7 @@ Contents:
                 High Performance Browser Networking
                     https://hpbn.co
 
-                Beej's Guide to Network Programming
+                Beej's Guide to Network Programming Using Internet Sockets
                     http://beej.us/guide/bgnet
 
                 Networking for Systems Administrators (2015) by Michael W Lucas.mobi:
@@ -570,27 +561,21 @@ Contents:
                 Unix Network Programming, Volume 1: The Sockets Networking API (3rd Edition)
                     https://www.amazon.com/Unix-Network-Programming-Sockets-Networking/dp/0131411551
 
-            Additional Material:
-                CCNA Routing and Switching 200-125 Official Cert Guide Library
-                https://www.amazon.com/Routing-Switching-200-125-Official-Library/dp/1587205815
+            Other Books and Courses:
+                https://beej.us/guide/bgnet0 (Beej's Guide to Networking Concepts)
+                https://github.com/mininet/mininet/wiki/Teaching-and-Learning-with-Mininet (Teaching and Learning with Mininet)
+                https://how-did-i-get-here.net (A tool/website/article by @kognise about how routing on the Internet works https://github.com/hackclub/how-did-i-get-here )
+                https://learn.cantrill.io/p/tech-fundamentals (Tech Fundamentals by Adrian Cantrill)
+                https://www.amazon.com/Load-Balancing-Servers-Firewalls-Caches/dp/0471415502 (Load Balancing Servers, Firewalls, and Caches)
+                https://www.coursera.org/learn/computer-networking (The Bits and Bytes of Computer Networking by Google)
+                https://www.youtube.com/playlist?list=PLF360ED1082F6F2A5 (Networking by Eli The Computer Guy)
+                https://youtu.be/ZxAwQB8TZsM (Professor Messer - Seven Second Subnetting)
+                https://youtube.com/playlist?list=PLIFyRwBY_4bQUE4IB5c4VPRyDoLgOdExE (Subnetting Mastery by Practical Networking)
 
-                Cisco Certified Network Associate (200-301 CCNA) Online Training by Jeremey Cioara, Keith Barker and Chuck Keith
-                https://www.cbtnuggets.com/it-training/cisco/ccna
-
-                Eli The Computer Guy
-                https://www.youtube.com/playlist?list=PLF360ED1082F6F2A5
-
-                Load Balancing Servers, Firewalls, and Caches
-                https://www.amazon.com/Load-Balancing-Servers-Firewalls-Caches/dp/0471415502
-
-                Professor Messer’s CompTIA N10-007 Network+ Course
-                https://www.professormesser.com/network-plus/n10-007/n10-007-training-course
-
-                Professor Messer - Seven Second Subnetting
-                https://youtu.be/ZxAwQB8TZsM
-
-                Subnetting Mastery by Practical Networking
-                https://youtube.com/playlist?list=PLIFyRwBY_4bQUE4IB5c4VPRyDoLgOdExE
+            Certification:
+                https://www.amazon.com/CCNA-200-301-Official-Guide-Library-dp-1587147149/dp/1587147149 (CCNA 200-301 Official Cert Guide Library by Wendell Odom )
+                https://www.cbtnuggets.com/it-training/cisco/ccna (Cisco Certified Network Associate (200-301 CCNA) Online Training by Jeremey Cioara, Keith Barker and Chuck Keith)
+                https://www.professormesser.com/network-plus/n10-007/n10-007-training-course (Professor Messer’s CompTIA N10-007 Network+ Course)
 
         DNS:
             Sources:
@@ -2223,7 +2208,7 @@ Contents:
 
         Security:
             Sources:
-                https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html-single/using_selinux
+                https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html-single/using_selinux (Using SELinux)
                 https://allinfosecnews.com (Aggregates all of the top news, podcasts and more about Cyber Security, InfoSec, Cryptography, Online Privacy, Hacking, Vulnerability and Threat Research into one place.)
                 https://aws.amazon.com/training/digital/aws-security-fundamentals (AWS Security Fundamentals (Second Edition))
                 https://aws.github.io/aws-security-services-best-practices (AWS Security Services Best Practices)
@@ -2321,6 +2306,7 @@ Contents:
                 https://tcm-sec.com/so-you-want-to-be-a-hacker-2021-edition (So You Want to Be a Hacker: 2021 Edition)
                 https://tib3rius.com/interview-questions.html (Web AppSec Interview Questions)
                 https://tldrsec.com/p/software-supply-chain-vendor-landscape (Software Supply Chain Vendor Landscape)
+                https://tls13.xargs.org (The Illustrated TLS 1.3 Connection Every byte explained and reproduced)
                 https://toc.cryptobook.us (A Graduate Course in Applied Cryptography)
                 https://tryhackme.com/r/resources/blog/security-engineer-interview-guide (Preparing for a Security Engineering Interview)
                 https://www.cisa.gov/sites/default/files/publications/Federal_Government_Cybersecurity_Incident_and_Vulnerability_Response_Playbooks_508C.pdf (CISA Cybersecurity Incident and Vulnerability Response Playbooks)
