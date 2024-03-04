@@ -568,6 +568,7 @@ Contents:
                 https://learn.cantrill.io/p/tech-fundamentals (Tech Fundamentals by Adrian Cantrill)
                 https://www.amazon.com/Load-Balancing-Servers-Firewalls-Caches/dp/0471415502 (Load Balancing Servers, Firewalls, and Caches)
                 https://www.coursera.org/learn/computer-networking (The Bits and Bytes of Computer Networking by Google)
+                https://www.youtube.com/live/e9m4EHBc7YE?si=rdRB7NGnMOurE9V- (Subnet Saturday #6: The Finger Game | Cisco CCNA 200-301 by Keith Barker - The OG of IT)
                 https://www.youtube.com/playlist?list=PLF360ED1082F6F2A5 (Networking by Eli The Computer Guy)
                 https://youtu.be/ZxAwQB8TZsM (Professor Messer - Seven Second Subnetting)
                 https://youtube.com/playlist?list=PLIFyRwBY_4bQUE4IB5c4VPRyDoLgOdExE (Subnetting Mastery by Practical Networking)
@@ -782,9 +783,9 @@ Contents:
         SRE:
             Sources:
                 https://discord.gg/6YJfwpsebh (SRE/DevOps Community)
-                https://enterprisersproject.com/article/2021/3/7-top-site-reliability-engineer-sre-job-interview-questions
-                https://github.com/dastergon/awesome-sre
-                https://github.com/linkedin/school-of-sre
+                https://enterprisersproject.com/article/2021/3/7-top-site-reliability-engineer-sre-job-interview-questions (7 top Site Reliability Engineer (SRE) job interview questions)
+                https://github.com/dastergon/awesome-sre (https://sre.xyz A curated list of Site Reliability and Production Engineering resources. )
+                https://github.com/linkedin/school-of-sre (https://linkedin.github.io/school-of-sre At LinkedIn, we are using this curriculum for onboarding our entry-level talents into the SRE role.)
                 https://github.com/topics/sre?o=desc&s=stars
                 https://github.com/upgundecha/howtheysre (A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE))
                 https://gitlab.com/gitlab-com/runbooks (Run books for the stressed on call )
@@ -792,7 +793,7 @@ Contents:
                 https://news.ycombinator.com/item?id=32864909 (	Good CI/CD and SRE Blogs)
                 https://rootly.com/blog/analyzing-sre-job-postings-from-amazon-to-microsoft (Analyzing SRE Job Postings - From Amazon to Microsoft)
                 https://sre.google/books (Google SRE Books)
-                https://sreweekly.com
+                https://sreweekly.com (SRE Weekly is a newsletter devoted to everything related to keeping a site or service available as consistently as possible. )
                 https://www.meetup.com/topics/site-reliability-engineering
                 https://www.usenix.org/srecon
 
@@ -1518,7 +1519,6 @@ Contents:
                 https://instances.vantage.sh (Easy Amazon EC2 Instance Comparison)
                 https://linuxacademy-community-slack.herokuapp.com
                 https://miparnisariblog.wordpress.com/2023/03/29/aws-networking-concepts (AWS Networking Concepts)
-                https://miparnisariblog.wordpress.com/2023/03/29/aws-networking-concepts (AWS Networking Concepts)
                 https://news.ycombinator.com/item?id=38998516 (Slashing data transfer costs in AWS (bitsand.cloud))
                 https://news.ycombinator.com/item?id=39313623 (Almost every infrastructure decision I endorse or regret (cep.dev))
                 https://start.jcolemorrison.com/aws-vpc-core-concepts-analogy-guide (AWS VPC Core Concepts in an Analogy and Guide)
@@ -1562,7 +1562,7 @@ Contents:
             Books and Courses:
                 AWS Certified Solutions Architect - Associate (SAA-C03) by Adrian Cantrill:
                     https://learn.cantrill.io/p/aws-certified-solutions-architect-associate-saa-c03
-                    https://github.com/acantril/aws-sa-associate-saac02
+                    https://github.com/acantril/aws-sa-associate-saac03
                     https://github.com/alozano-77/AWS-SAA-C02-Course (Personal notes for SAA-C02 test from: https://learn.cantrill.io)
                     https://discord.com/channels/1191146976847351970 (TechStudyDiscord by Adrian Cantrill)
                     https://talk.cantrill.io
@@ -1579,7 +1579,7 @@ Contents:
                     https://tutorialsdojo.com/aws-certified-solutions-architect-associate-saa-c02
                     http://slack.tutorialsdojo.com
 
-                Ultimate AWS Certified Developer Associate 2022 - NEW! by Stephane Maarek:
+               Ultimate AWS Certified Developer Associate 2024 NEW DVA-C02 by Stephane Maarek:
                     https://www.udemy.com/course/aws-certified-developer-associate-dva-c01
                     https://courses.datacumulus.com/downloads/certified-developer-k92 (AWS Certified Developer Associate Code & Slides)
                     https://courses.datacumulus.com (Discount codes for the Course)
@@ -2254,6 +2254,7 @@ Contents:
                 https://github.com/Lissy93/personal-security-checklist (https://digital-defense.io 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024)
                 https://github.com/Lissy93/web-check (🌐 All-in-one OSINT tool for analysing any website)
                 https://github.com/mazen160/secrets-patterns-db (Secrets Patterns DB: The largest open-source Database for detecting secrets, API keys, passwords, tokens, and more.)
+                https://github.com/microsoft/Security-101 (https://microsoft.github.io/Security-101 7 Lessons, Kick-start Your Cybersecurity Learning.)
                 https://github.com/mikeprivette/awesome-sec-challenges (A curated list of Awesome Security Challenges.)
                 https://github.com/myugan/awesome-cicd-security (📚 A curated list of awesome CI CD security resources)
                 https://github.com/myugan/awesome-docker-security (A curated list of awesome Docker security resources)
