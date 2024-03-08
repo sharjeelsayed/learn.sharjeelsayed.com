@@ -237,6 +237,7 @@ Contents:
                 http://programming-motherfucker.com/become.html  (Become a Programmer)
                 http://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read
                 http://www.flyingmachinestudios.com/programming/learn-programming-languages-efficiently
+                https://12factor.net (The twelve-factor methodology)
                 https://abseil.io/resources/swe-book (Software Engineering at Google)
                 https://austinhenley.com/blog/challengingprojects.html (Challenging Projects Every Programmer Should Try)
                 https://blog.codinghorror.com/recommended-reading-for-developers
@@ -285,6 +286,7 @@ Contents:
                 https://github.com/topics/programming?o=desc&s=stars (public repositories matching the topic programming)
                 https://github.com/tuvtran/project-based-learning (Curated list of project-based tutorials)
                 https://github.com/veler/DevToys (A Swiss Army knife for developers. https://devtoys.app)
+                https://google.github.io/eng-practices (Google Engineering Practices Documentation)
                 https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=every%20programmer&sort=byPopularity&type=story (Things every programmer should know)
                 https://innovationgraph.github.com/global-metrics/programming-languages (Top 50 Programming Languages Globally)
                 https://learnxinyminutes.com (Take a whirlwind tour of your next favorite language. Community-driven!)
@@ -1058,6 +1060,7 @@ Contents:
             Sources:
                 https://github.com/Awesome-Windows/Awesome (💻 🎉 An awesome & curated list of best applications and tools for Windows.)
                 https://github.com/ChrisTitusTech/winutil (Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates)
+                https://github.com/dockur/windows (Windows in a Docker container)
                 https://github.com/massgravel/Microsoft-Activation-Scripts (https://massgrave.dev A Windows and Office activator using HWID / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.)
                 https://github.com/microsoft/PowerToys (Windows system utilities to maximize productivity)
                 https://github.com/topics/windows-10?o=desc&s=stars
@@ -1108,6 +1111,7 @@ Contents:
                 https://github.com/docker/docker-bench-security (The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.)
                 https://github.com/docker/docker-install (Docker installation script)
                 https://github.com/dockersamples/example-voting-app (Example Docker Compose app)
+                https://github.com/dockur/windows (Windows in a Docker container)
                 https://github.com/dokku/dokku ( A docker-powered PaaS that helps you build and manage the lifecycle of applications)
                 https://github.com/google/go-containerregistry/blob/main/cmd/crane/recipes.md (crane is a tool for interacting with remote images and registries.)
                 https://github.com/hadolint/hadolint (Dockerfile linter, validate inline bash, written in Haskell)
@@ -3065,9 +3069,11 @@ Contents:
                 https://github.com/DataTalksClub/machine-learning-zoomcamp (Learn ML engineering for free in 4 months! )
                 https://github.com/ethen8181/machine-learning (🌎 machine learning tutorials (mainly in Python3))
                 https://github.com/mlabonne/llm-course (https://mlabonne.github.io/blog Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.)
+                https://github.com/quassnoi/explain-extended-2024 (https://explainextended.com/2023/12/31/happy-new-year-15 GPT in 500 lines of SQL)
                 https://github.com/SkalskiP/courses (This repository is a curated collection of links to various courses and resources about Artificial Intelligence (AI))
                 https://github.com/stas00/ml-engineering (Machine Learning Engineering Online Book https://stasosphere.com/machine-learning)
                 https://karpathy.ai/zero-to-hero.html (A course by Andrej Karpathy on building neural networks, from scratch, in code)
+                https://spreadsheets-are-all-you-need.ai (Learn how AI works from a real LLM implemented entirely in Excel)
                 https://work.caltech.edu/telecourse (Learning From Data by Caltech's Professor Yaser Abu-Mostafa.)
                 https://www.cloudskillsboost.google/paths/118 (Introduction to Generative AI Learning Path)
                 https://www.deeplearning.ai/courses/generative-ai-for-everyone (Generative AI for Everyone Instructed by Andrew Ng)
@@ -3379,6 +3385,7 @@ Contents:
                 https://github.com/SimplifyJobs/Summer2024-Internships (https://swelist.com Collection of Summer 2024 tech internships!)
                 https://hn.algolia.com/?dateRange=pastYear&page=0&prefix=false&query=Ask%20HN%3A%20Who%20is%20hiring%3F&sort=byPopularity&type=story (Ask HN: Who is hiring?)
                 https://llcattorney.com/business-info/us-companies-salaries-vs-revenue (How Long It Takes the Largest Companies in America to Make One Employee's Average Annual Salary)
+                https://news.crunchbase.com/startups/tech-layoffs (The Crunchbase Tech Layoffs Tracker)
                 https://news.ycombinator.com/item?id=14686745 (Ask HN: What are some of the best job boards you have seen (any industry)?)
                 https://news.ycombinator.com/item?id=15473776 (Ask HN: What do you care about the most in a tech job post?)
                 https://news.ycombinator.com/item?id=15646550 (Ask HN: What is your favorite place to find work?)
