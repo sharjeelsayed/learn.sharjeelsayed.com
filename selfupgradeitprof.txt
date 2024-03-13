@@ -328,6 +328,7 @@ Contents:
                 https://octoverse.github.com (The state of open source software)
                 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/index.htm
                 https://people.freebsd.org/~lstewart/articles/cpumemory.pdf (What Every Programmer Should Know About Memory)
+                https://samwho.dev/numbers (Latency Numbers Every Programmer Should Know)
                 https://softwareengineeringdaily.com
                 https://survey.stackoverflow.co/2023 (Stackoverflow 2023 Developer Survey)
                 https://tldrlegal.com (Software Licenses in Plain English)
