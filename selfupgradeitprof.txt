@@ -339,7 +339,6 @@ Contents:
                 https://www.reddit.com/r/compsci+cscareerquestions+learnprogramming+programming
                 https://www.reddit.com/r/cscareerquestions/comments/6hmlxr/what_are_the_most_indemand_software_skills_right/dizqiie
                 https://www.reddit.com/r/cscareerquestions/comments/6w4dej/what_books_should_every_software_engineer_read_to
-                https://www.reddit.com/r/dailyprogrammer/wiki
                 https://www.reddit.com/r/ExperiencedDevs/comments/xqtgxe/youtube_channels_for_senior_engineers (Youtube channels for senior+ engineers?)
                 https://www.reddit.com/r/learnprogramming/comments/6l5u8s/what_one_thing_improved_your_skills_the_most
                 https://www.reddit.com/r/learnprogramming/comments/6lvvqq/audiobooks_on_programming
@@ -522,7 +521,9 @@ Contents:
 
         Networking:
             Sources:
+                https://alexandrehtrb.github.io/posts/2024/03/http2-and-http3-explained (HTTP/2 and HTTP/3 explained)
                 https://en.wikipedia.org/wiki/IP_address#Private_addresses
+                https://github.com/bagder/http3-explained (https://http3-explained.haxx.se A document describing the HTTP/3 and QUIC protocols)
                 https://github.com/gchq/CyberChef (The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis)
                 https://github.com/kffl/speedbump (TCP proxy for simulating variable, yet predictable network latency 🌐⏳)
                 https://github.com/leandromoreira/linux-network-performance-parameters (Learn where some of the network sysctl variables fit into the Linux/Kernel network flow. Translations: 🇷🇺 )
@@ -530,6 +531,7 @@ Contents:
                 https://lucb1e.com/randomprojects/php/funnip.php (list of all the ways (and notation combinations) you can make with your IP address)
                 https://news.ycombinator.com/item?id=13983212 (Beej's Guide to Network Programming)
                 https://news.ycombinator.com/item?id=14701199 (Let's Code a TCP/IP Stack: TCP Retransmission (saminiir.com))
+                https://quic.xargs.org (The Illustrated QUIC Connection)
                 https://siliconsprawl.com/2020/05/10/network-programming-self-study.html (Network Programming Self-Study)
                 https://www.davidc.net/sites/default/subnets/subnets.html (Visual Subnet Calculator)
                 https://www.jeremysitlab.com/ccna-resources (Recommended CCNA Resources)
@@ -696,7 +698,6 @@ Contents:
                 https://news.ycombinator.com/item?id=20126760 (Open Source Electronics Lab for $30 (github.com))
                 https://news.ycombinator.com/item?id=23562181 (Ask HN: What are some good resources to learn how electricity works?)
                 https://news.ycombinator.com/item?id=33869277 (Ask HN: Can you recommend a book to learn basic electrical concepts/engineering?)
-                https://www.reddit.com/r/AskElectronics/wiki
 
             Books and Courses:
                 The Art of Electronics 3rd Edition
@@ -732,7 +733,6 @@ Contents:
             https://www.reddit.com/r/devops/comments/vlsnpw/what_devopssre_podcastschannels_are_you (What DevOps/SRE podcasts/channels are you watching/listening to?)
             https://www.reddit.com/r/homelab/wiki/software
             https://www.reddit.com/r/ITCareerQuestions/comments/5nvltv/what_fieldsdisciplines_should_i_be_looking_into/dcf3ny0
-            https://www.reddit.com/r/ITCareerQuestions/wiki
             https://www.reddit.com/r/sysadmin/comments/4oxxgv/your_favorite_scripts_you_have_stolen_or_made
 
         DevOps:
@@ -821,7 +821,6 @@ Contents:
                 https://github.com/topics/sysadmin?o=desc&s=stars
                 https://www.bookadvice.co/sysadmin.html
                 https://www.reddit.com/r/sysadmin/comments/65u70f/sysadmins_what_are_some_good_it_youtube_channels
-                https://www.reddit.com/r/sysadmin/wiki
 
         Linux:
             Sources:
@@ -2326,11 +2325,8 @@ Contents:
                 https://www.netmeister.org/blog/infosec-competencies.html ((Technical) Infosec Core Competencies)
                 https://www.nsa.gov/Press-Room/News-Highlights/Article/Article/2716980/nsa-cisa-release-kubernetes-hardening-guidance/utm_source/nsa-cisa-release-kubernetes-hardening-guidance (NSA, CISA release Kubernetes Hardening Guidance)
                 https://www.open-scap.org (Discover a wide array of tools for managing system security and standards compliance)
-                https://www.reddit.com/r/crypto/wiki
-                https://www.reddit.com/r/netsec/wiki
                 https://www.reddit.com/r/netsec+privacy+SocialEngineering+onions+ReverseEngineering+crypto+blackhat+security+Malware+pwned+netsecstudents+computerforensics+HackBloc+securityCTF+xss+vrd+rootkit+REMath
                 https://www.reddit.com/r/netsecstudents/top/?sort=top&t=all
-                https://www.reddit.com/r/netsecstudents/wiki
                 https://www.returnonsecurity.com/p/2023-cybersecurity-market-review (The Cybersecurity Market in 2023)
                 https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets
                 https://youtu.be/l8iXMgk2nnY?si=gz-Xi49_yk9pInGG (VIM tutorial: linux terminal tools for bug bounty pentest and redteams with @tomnomnom)
@@ -2929,7 +2925,6 @@ Contents:
                 https://news.ycombinator.com/item?id=22990926 (Eloquent JavaScript 3rd Edition (2018) (eloquentjavascript.net))
                 https://www.reddit.com/r/javascript/top/?sort=top&t=year
                 https://www.reddit.com/r/learnjavascript/top/?sort=top&t=year
-                https://www.reddit.com/r/learnjavascript/wiki
                 https://www.udemy.com/topic/javascript/?ratings=4.5&sort=popularity (Udemy Courses rated 4.5 stars and above)
 
             Books and Courses:
@@ -3208,7 +3203,6 @@ Contents:
                 https://www.reddit.com/r/AskReddit/comments/abljyl/what_is_a_massive_red_flag_about_a_new_workplace
                 https://www.reddit.com/r/cscareerquestions/comments/4ce2s3/resource_interview_questions_my_massive
                 https://www.reddit.com/r/cscareerquestions/comments/8387zj/what_is_your_favorite_method_for_figuring_out_if
-                https://www.reddit.com/r/cscareerquestions/wiki
                 https://www.reddit.com/r/ExperiencedDevs
                 https://pinboard.in/u:SharjeelSayed/t:cheatsheet
                 https://pinboard.in/u:SharjeelSayed/t:interview
@@ -4099,7 +4093,6 @@ Contents:
                     https://www.reddit.com/r/spotify/comments/aj7wkz/the_perfect_playlist_from_the_askreddit_thread
                     https://www.reddit.com/r/spotify/comments/gu81es/my_collection_of_spotify_and_other_music_related
                     https://www.reddit.com/r/spotify/top
-                    https://www.reddit.com/r/spotify/wiki
                     https://youtu.be/jfKfPfyJRdk (lofi hip hop radio - beats to relax/study to)
 
         Headphones:
@@ -4138,7 +4131,6 @@ Contents:
                 https://news.ycombinator.com/item?id=27540941 (Ask HN: Have you found a good desk chair?)
                 https://www.lumens.com/how-tos-and-advice/buyers-guide-to-aeron-chair.html
                 https://www.nytimes.com/wirecutter/reviews/best-office-chair
-                https://www.reddit.com/r/hermanmiller/wiki
                 https://www.reddit.com/r/OfficeChairs
                 https://www.store.hermanmiller.in/products/chairs-office-chairs-embody/bill-stumpf-and-jeff-weber/embody-chair/pid-11056242.aspx
                 https://www.youtube.com/results?search_query=herman+miller+embody&sp=CAM%253D (herman miller embody)
@@ -4259,7 +4251,6 @@ Contents:
                 https://www.reddit.com/r/AskReddit/comments/5x2r6b/reddit_what_are_some_must_see_documentaries
                 https://www.reddit.com/r/AskReddit/comments/7yvhmi/what_is_the_most_interesting_documentary_youve
                 https://www.reddit.com/r/askscience+science (AskScience and Science Subreddits)
-                https://www.reddit.com/r/Documentaries/wiki
                 https://www.susanrigetti.com/physics (So You Want to Learn Physics…SECOND EDITION by Susan J. Rigetti)
                 https://www.theguardian.com/books/booksblog/2017/jul/20/dawkins-sees-off-darwin-in-vote-for-most-influential-science-book
                 https://www.youtube.com/@xkcd_whatif (What If? The Video Series is the official adaptation of the 'What If?' books by Randall Munroe (xkcd.com))
@@ -4710,7 +4701,6 @@ Contents:
                 https://www.microsoft.com/en-in/microsoft-365/business/compare-all-microsoft-365-business-products
                 https://www.migadu.com
                 https://www.rackspace.com/email-hosting/webmail/pricing
-                https://www.reddit.com/r/degoogle/wiki
                 https://www.zoho.com/mail/zohomail-pricing.html
 
                 Fastmail.com:
@@ -4884,7 +4874,6 @@ Contents:
                 https://torrentfreak.com/best-vpn-anonymous-no-logging (Which VPN Providers Really Take Privacy Seriously?)
                 https://tunnelblick.net (free software for OpenVPN on macOS)
                 https://www.privacytools.io/providers/vpn (Top 5: Best VPN for Internet Privacy & Security)
-                https://www.reddit.com/r/NetflixViaVPN/wiki (What is the best VPN to use for Netflix?)
                 https://www.reddit.com/r/NetflixViaVPN+VPN+vpncoupons+vpnreviews
                 https://www.sparklabs.com/viscosity (A first class OpenVPN client that lets you secure your network with ease & style.)
 
@@ -5087,7 +5076,6 @@ Contents:
                 https://www.chrono24.com/chronopulse.htm (ChronoPulse – Market Performance)
                 https://www.hodinkee.com/articles/think-you-can-name-every-single-watch-thats-ever-gone-to-space (Interview Think You Can Name Every Single Watch That's Ever Gone To Space? There are 1,899 of them. Meet the man that's cataloging them all in one database.)
                 https://www.looria.com/reddit/Watches/products (Most discussed products on r/Watches)
-                https://www.reddit.com/r/rolex/wiki (The official r/rolex FAQ)
                 https://www.reddit.com/r/Watches/comments/4mp3w7/resources_ive_compiled_all_the_best_documentaries ([Resources] I've compiled all the best documentaries, videos, books, channels, websites, and more about watches, movements, watch history, and watch culture. Great resources for newbies and veterans. 100+ videos, 15+ books, etc. I hope the community finds this useful!)
                 https://www.reddit.com/r/Watches/comments/sqr6c8/meta_i_analyzed_the_top_500_posts_of_all_time ([META] I analyzed the top 500 posts of all time. Here are the 15 most popular brands by some metrics)
                 https://www.reddit.com/r/Watches/comments/xfw4q2/meta_i_analyzed_the_most_popular_watches_on ([Meta] I analyzed the most popular watches on Reddit (r/Watches))
@@ -5233,7 +5221,6 @@ Contents:
         https://www.reddit.com/r/EDC/comments/7j7lrs/edc_starter_pack_an_arbitrary_list_of_gear_that (EDC Starter Pack: An Arbitrary List of Gear that Gets Recommended a Lot)
         https://www.reddit.com/r/EDC/comments/ur36lf/i_analyzed_the_top_50_most_mentioned_products_on (I analyzed the top 50 most mentioned products on r/EDC)
         https://www.reddit.com/r/india/wiki/useful_posts (r/india Useful Posts)
-        https://www.reddit.com/r/malefashionadvice/wiki (r/malefashionadvice wiki)
         https://www.vox.com/science-and-health/2019/8/23/20828597/the-10000-hour-rule-debunked (The “10,000-hour rule” was debunked again. That’s a relief.)
         https://youglish.com (Use YouTube to improve your English pronunciation. With more than 100M tracks, YouGlish gives you fast, unbiased answers about how English is spoken by real people and in context.)
 
