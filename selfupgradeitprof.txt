@@ -862,6 +862,7 @@ Contents:
                 https://wiki.archlinux.org
                 https://www.amazon.com/Best-Sellers-Books-Linux-Operating-System/zgbs/books/3849 (Best Sellers in Linux Operating System)
                 https://www.amazon.com/gp/bestsellers/books/285860 (Best Sellers in Linux Certification Guides)
+                https://www.amazon.com/gp/bestsellers/books/291379 (Best Sellers in Linux Kernel & Peripherals)
                 https://www.brendangregg.com/linuxperf.html (Brendan Gregg's Linux Internals Maps)
                 https://www.digitalocean.com/community/tutorials?primary_filter=popular
                 https://www.reddit.com/r/linux/comments/1apktdk/what_are_some_linux_utilities_that_you_cant_live (What are some linux utilities that you can't live without?)
@@ -1224,6 +1225,7 @@ Contents:
                 https://goo.gl/Rywkpd (The Kubernetes Learning Resources List)
                 https://hackr.io/tutorials/learn-kubernetes (Kubernetes Tutorials and Courses)
                 https://journal.hexmos.com/kubernetes-ports-overview-covering-expose-nodeport-targetport (6 Kubernetes Ports: A Definitive Look - Expose, NodePort, TargetPort, & More)
+                https://k8slanparty.com (A CTF designed to challenge your Kubernetes hacking skills through a series of critical network vulnerabilities and misconfigurations.)
                 https://kube.academy (Learn Kubernetes From Experts For Free. KubeAcademy from VMware)
                 https://kubenews.net (Kubernetes and Cloud Native Computing Foundation News Sources)
                 https://kubernetes.io/docs/concepts/security/security-checklist (Kubernetes Security Checklist)
@@ -1516,19 +1518,18 @@ Contents:
                 https://github.com/jassics/awesome-aws-security (Curated list of links, references, books videos, tutorials (Free or Paid), Exploit, CTFs, Hacking Practices etc. which are related to AWS Security)
                 https://github.com/localstack/localstack (A fully functional local AWS cloud stack)
                 https://github.com/nccgroup/aws-inventory (Discover resources created in an AWS account)
+                https://github.com/open-guides/og-aws (Amazon Web Services — a practical guide)
                 https://github.com/serverless/serverless (⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more!)
                 https://github.com/topics/aws?o=desc&s=stars
                 https://github.com/undergroundwires/AWS-in-bullet-points
                 https://github.com/vantage-sh/ec2instances.info (Amazon EC2 instance comparison site)
                 https://iam.cloudonaut.io (Creating IAM policies is hard. We collect information from the AWS Documentation to make writing IAM policies easier)
                 https://instances.vantage.sh (Easy Amazon EC2 Instance Comparison)
-                https://linuxacademy-community-slack.herokuapp.com
                 https://miparnisariblog.wordpress.com/2023/03/29/aws-networking-concepts (AWS Networking Concepts)
                 https://news.ycombinator.com/item?id=38998516 (Slashing data transfer costs in AWS (bitsand.cloud))
                 https://news.ycombinator.com/item?id=39313623 (Almost every infrastructure decision I endorse or regret (cep.dev))
                 https://start.jcolemorrison.com/aws-vpc-core-concepts-analogy-guide (AWS VPC Core Concepts in an Analogy and Guide)
                 https://trustoncloud.com/the-last-s3-security-document-that-well-ever-need (The last S3 security document that we’ll ever need, and how to use it)
-                https://www.amazon.com/aws-courses/b/?node=14297978011
                 https://www.chrisfarris.com/post/aws-organizations-in-2021 (AWS Organizations - Checklist for 2021)
                 https://www.cisecurity.org/benchmark/amazon_web_services (A step-by-step checklist to secure Amazon Web Services)
                 https://www.concurrencylabs.com/blog/choose-your-aws-region-wisely (Save yourself a lot of pain (and money) by choosing your AWS Region wisely)
@@ -1589,9 +1590,6 @@ Contents:
                     https://courses.datacumulus.com/downloads/certified-developer-k92 (AWS Certified Developer Associate Code & Slides)
                     https://courses.datacumulus.com (Discount codes for the Course)
 
-                Amazon Web Services — a practical guide
-                    https://github.com/open-guides/og-aws
-
                 EKS Workshop by Containers from the Couch:
                     https://www.eksworkshop.com
                     https://youtube.com/playlist?list=PLehXSATXjcQF3NZgGeaNOgo2MRzi0arKY
@@ -1599,38 +1597,40 @@ Contents:
                 Amazon EKS Terraform Workshop
                     https://tf-eks-workshop.workshop.aws
 
-                AWS Certified Solutions Architect - Associate 2020 (PASS THE EXAM!) by Andrew Brown of ExamPro, freecodecamp.org
-                    https://youtu.be/Ia-UEYYR44s
-
             AWS Certification Resources:
-                https://aws.amazon.com/certification (AWS Certification Official Page)
-                https://aws.amazon.com/getting-started/hands-on (Find the hands-on tutorials for your AWS needs)
-                https://aws.amazon.com/training/learning-paths
-                https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf (AWS Certified Solutions Architect – Associate (SAA-C02) Exam Guide)
-                https://digitalcloud.training/aws-cheat-sheets (AWS Certification Training Notes [Cheat Sheets] by Neal Davis)
-                https://explore.skillbuilder.aws/learn (Your learning center to build in-demand cloud skills)
-                https://github.com/acantril/learn-cantrill-io-labs (Standard and Advanced Demos for learn.cantrill.io courses)
-                https://github.com/baobabKoodaa/cloudbite (Flashcards to learn AWS skills)
-                https://github.com/keenanromain/AWS-SAA-C02-Study-Guide (How to become a certified AWS Solutions Architect by Keenan Romain)
-                https://help.acloud.guru/hc/en-us/articles/360001389256-AWS-Cloud-Sandbox  (AWS Cloud Sandbox)
-                https://learn.cantrill.io/p/aws-certification-recommendations (AWS Certification Recommendations) (SAA -> SAP -> Devops Pro. or SAA-> Dev Asso.-> Sysops Asso.-> SAP-> Devops Pro.  Advanced Networking Specialty is the hardest, Alexa and Security is the easiest)
-                https://notes.arkalim.org/notes/aws%20solutions%20architect%20associate/aws%20solutions%20architect%20associate%20(saa-c02) (Abdur's Notes for AWS Solutions Architect Associate (SAA-C02))
-                https://plazagonzalo.medium.com/aws-solutions-architect-associate-course-4eafb910088d (Complete Course for the AWS Solutions Architect-Associate Certification (SAA-C03))
-                https://skillbuilder.aws (Learn from AWS experts and build in-demand cloud skills your way)
-                https://tutorialsdojo.com/aws-cheat-sheets (AWS Cheat Sheets)
-                https://tutorialsdojo.com/aws-study-path-notes (AWS Exam Study Guides)
-                https://www.aws.training (The only set of training programs and offerings built by the experts at AWS.)
-                https://www.awsgeek.com (Cloud Diagrams & Notes)
-                https://www.exam-answer.com/amazon (Exams from Amazon)
-                https://www.examtopics.com/exams/amazon (AWS Exam Practice Questions.Highest ranked site for AWS practice exams)
-                https://www.freecram.net/vendor/Amazon.html (Free Amazon Certifications Exam Questions)
-                https://www.reddit.com/r/AWSCertifications/comments/18woit6/2024_aws_vouchers_exam_discounts_other (2024 : AWS Vouchers / Exam Discounts / Other Certification related promotions)
-                https://www.reddit.com/r/AWSCertifications/comments/pcj2nk/free_learning_resources_needed_for_aws_solutions/haje9xi (Free Learning Resources needed for "AWS Solutions Architect Associate" exam)
-                https://www.reddit.com/r/AWSCertifications/comments/uqnn53/ive_heard_the_recommendation_here_to_go_saa_sap/i8sbnj5 (If you REALLY want to get devops with minimal study you should do Dev Asso -> Sysops Asso. -> Devops Pro)
-                https://www.reddit.com/r/AWSCertifications/search/?q=course&restrict_sr=on&t=year (This subreddit focuses solely on AWS Certifications.)
-                https://www.reddit.com/r/sysadmin/comments/8inzn5/so_you_want_to_learn_aws_aka_how_do_i_learn_to_be (So, you want to learn AWS? AKA, "How do I learn to be a Cloud Engineer?")
-                https://www.udemy.com/topic/aws-certification/?ratings=4.5&sort=popularity (Udemy Courses rated 4.5 stars and above)
-                https://www.wellarchitectedlabs.com (This repository contains documentation and code in the format of hands-on labs to help you learn, measure, and build using architectural best practices)
+                Sources:
+                    https://github.com/acantril/learn-cantrill-io-labs (Standard and Advanced Demos for learn.cantrill.io courses)
+                    https://github.com/keenanromain/AWS-SAA-C02-Study-Guide (How to become a certified AWS Solutions Architect by Keenan Romain)
+                    https://help.acloud.guru/hc/en-us/articles/360001389256-AWS-Cloud-Sandbox  (AWS Cloud Sandbox)
+                    https://learn.cantrill.io/p/aws-certification-recommendations (AWS Certification Recommendations) (SAA -> SAP -> Devops Pro. or SAA-> Dev Asso.-> Sysops Asso.-> SAP-> Devops Pro.  Advanced Networking Specialty is the hardest, Alexa and Security is the easiest)
+                    https://notes.arkalim.org/notes/aws%20solutions%20architect%20associate/aws%20solutions%20architect%20associate%20(saa-c02) (Abdur's Notes for AWS Solutions Architect Associate (SAA-C02))
+                    https://plazagonzalo.medium.com/aws-solutions-architect-associate-course-4eafb910088d (Complete Course for the AWS Solutions Architect-Associate Certification (SAA-C03))
+                    https://www.awsgeek.com (Cloud Diagrams & Notes)
+                    https://www.exam-answer.com/amazon (Exams from Amazon)
+                    https://www.examtopics.com/exams/amazon (AWS Exam Practice Questions.Highest ranked site for AWS practice exams)
+                    https://www.freecram.net/vendor/Amazon.html (Free Amazon Certifications Exam Questions)
+                    https://www.reddit.com/r/AWSCertifications/comments/18woit6/2024_aws_vouchers_exam_discounts_other (2024 : AWS Vouchers / Exam Discounts / Other Certification related promotions)
+                    https://www.reddit.com/r/AWSCertifications/comments/pcj2nk/free_learning_resources_needed_for_aws_solutions/haje9xi (Free Learning Resources needed for "AWS Solutions Architect Associate" exam)
+                    https://www.reddit.com/r/AWSCertifications/comments/uqnn53/ive_heard_the_recommendation_here_to_go_saa_sap/i8sbnj5 (If you REALLY want to get devops with minimal study you should do Dev Asso -> Sysops Asso. -> Devops Pro)
+                    https://www.reddit.com/r/AWSCertifications/search/?q=course&restrict_sr=on&t=year (This subreddit focuses solely on AWS Certifications.)
+                    https://www.reddit.com/r/sysadmin/comments/8inzn5/so_you_want_to_learn_aws_aka_how_do_i_learn_to_be (So, you want to learn AWS? AKA, "How do I learn to be a Cloud Engineer?")
+                    https://www.udemy.com/topic/aws-certification/?ratings=4.5&sort=popularity (Udemy Courses rated 4.5 stars and above)
+                    https://www.wellarchitectedlabs.com (This repository contains documentation and code in the format of hands-on labs to help you learn, measure, and build using architectural best practices)
+                    https://youtu.be/Ia-UEYYR44s (AWS Certified Solutions Architect - Associate 2020 (PASS THE EXAM!) by Andrew Brown of ExamPro, freecodecamp.org)
+
+                Notes and Cheat Sheets:
+                    https://digitalcloud.training/aws-cheat-sheets (AWS Certification Training Notes [Cheat Sheets] by Neal Davis)
+                    https://tutorialsdojo.com/aws-cheat-sheets (AWS Cheat Sheets)
+                    https://tutorialsdojo.com/aws-study-path-notes (AWS Exam Study Guides)
+
+                AWS provided resources:
+                    https://aws.amazon.com/certification (AWS Certification Official Page)
+                    https://aws.amazon.com/getting-started/hands-on (Find the hands-on tutorials for your AWS needs)
+                    https://aws.amazon.com/training/learn-about (Learning by Role or Solution)
+                    https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf (AWS Certified Solutions Architect – Associate (SAA-C02) Exam Guide)
+                    https://explore.skillbuilder.aws/learn (Your learning center to build in-demand cloud skills)
+                    https://skillbuilder.aws (Learn from AWS experts and build in-demand cloud skills your way)
+                    https://www.aws.training (The only set of training programs and offerings built by the experts at AWS.)
 
             Free AWS Labs:
                 https://run.qwiklabs.com/catalog?keywords=introduction&locale=&cloud%5B%5D=AWS&format%5B%5D=any&level%5B%5D=any&duration%5B%5D=any&price%5B%5D=free&modality%5B%5D=any&language%5B%5D=any
@@ -2013,6 +2013,7 @@ Contents:
 
             Git Tools:
                 https://github.com/acaudwell/Gource (https://gource.io software version control visualization)
+                https://github.com/altsem/gitu (A TUI Git client inspired by Magit)
                 https://github.com/bigH/git-fuzzy (interactive `git` with the help of `fzf`)
                 https://github.com/dandavison/delta (A viewer for git and diff output)
                 https://github.com/earwig/git-repo-updater (A console script that allows you to easily update multiple git repositories at once)
@@ -2286,6 +2287,7 @@ Contents:
                 https://github.com/z1pti3/jimi (Jimi is an automation first no-code platform designed and developed originally for Security Orchestration and Response. Since its launch jimi has developed into a fully fledged IT automation platform which effortlessly integrates with your existing tools unlocking the potential for autonomous IT and Security operations.)
                 https://ishaqmohammed.me/posts/application-security-knowledgebase (Application Security Knowledgebase)
                 https://jhalon.github.io/becoming-a-pentester (So You Want To Be a Pentester? (Updated 2023))
+                https://k8slanparty.com (A CTF designed to challenge your Kubernetes hacking skills through a series of critical network vulnerabilities and misconfigurations)
                 https://krebsonsecurity.com/2020/07/thinking-of-a-cybersecurity-career-read-this (Thinking of a Cybersecurity Career? Read This)
                 https://kubernetes.io/docs/concepts/security/security-checklist (Kubernetes Security Checklist)
                 https://media.defense.gov/2022/Mar/01/2002947139/-1/-1/0/CTR_NSA_NETWORK_INFRASTRUCTURE_SECURITY_GUIDANCE_20220301.PDF (National Security Agency Cybersecurity Technical Report Network Infrastructure Security Guidance March 2022)
