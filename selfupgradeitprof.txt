@@ -1649,20 +1649,20 @@ Contents:
 
         Azure:
             Sources:
-                https://acloud.guru/azure-cloud-training
-                https://acloudguru.com/blog/engineering/which-azure-certification-is-right-for-me
-                https://aka.ms/join-ask-azure
-                https://azure.microsoft.com/en-us/get-started
-                https://docs.microsoft.com/en-us/learn/azure
-                https://docs.microsoft.com/en-us/learn/certifications
+                https://acloudguru.com/blog/engineering/which-azure-certification-is-right-for-me (What's the Best Microsoft Azure Certification Path For Me?)
+                https://aka.ms/join-ask-azure (Join Ask an Azure Architect on Slack)
+                https://azure.microsoft.com/en-us/get-started (Get started with Azure)
+                https://docs.microsoft.com/en-us/learn/azure (Microsoft Learn for Azure)
                 https://github.com/johnthebrit/CertificationMaterials (A collection of materials related to my certification videos https://onboardtoazure.com )
                 https://github.com/Kyuu-Ji/Awesome-Azure-Pentest (A collection of resources, tools and more for penetration testing and securing Microsofts cloud platform Azure.)
                 https://github.com/lukemurraynz/awesome-azure-architecture (A curated list of AWESOME blogs, videos, tutorials, code, tools & scripts, related to the design and implementation of solutions in Microsoft Azure)
-                https://www.examtopics.com/exams/microsoft
-                https://www.pluralsight.com/partners/microsoft/azure
+                https://learn.cantrill.io/courses/category/azure (Azure Courses by James Lee)
+                https://learn.microsoft.com/en-us/azure/architecture/aws-professional/services (AWS to Azure services comparison)
+                https://www.examtopics.com/exams/microsoft (List of all Microsoft exams)
+                https://www.pluralsight.com/partners/microsoft/azure (Build new Azure skills your way )
                 https://www.reddit.com/r/AWSCertifications/comments/uqp9ak/is_there_a_cantrillequivalent_to_an_azure_course (Is there a Cantrill-equivalent to an Azure course?)
                 https://www.reddit.com/r/AZURE/search/?q=course&restrict_sr=on&t=year
-                https://www.whizlabs.com/blog/azure-certifications-path
+                https://www.whizlabs.com/blog/azure-certifications-path ( Microsoft Azure Certifications Path )
 
             Books and Courses:
                 John Savill's Technical Training
@@ -3843,25 +3843,23 @@ Contents:
 
             Extensions:
                 https://1blocker.com (The Fastest & Most Powerful Blocker for Safari)
-                https://addons.mozilla.org/en-GB/firefox/addon/foxytab
-                https://addons.mozilla.org/en-US/firefox/addon/auto-tab-discard
-                https://addons.mozilla.org/en-US/firefox/addon/firefox-translations
-                https://addons.mozilla.org/en-US/firefox/addon/honey
-                https://addons.mozilla.org/en-US/firefox/addon/minimalist-alexa-rank
+                https://addons.mozilla.org/en-GB/firefox/addon/foxytab (Collection of Tab Related Actions e.g. Duplicate, Close Duplicates, Close to the Left, Copy Title, Merge Windows, Save as PDF, Copy Urls Tab/All/Left/Right, Host keep/close/close other, Sort by URL/Title, Asce/Desc, Move, Reload, Reload Timer)
+                https://addons.mozilla.org/en-US/firefox/addon/auto-tab-discard (ncrease browser speed and reduce memory load and when you have numerous open tabs.)
+                https://addons.mozilla.org/en-US/firefox/addon/honey (Automatically find and try coupon codes with 1-click. )
                 https://addons.mozilla.org/en-US/firefox/addon/similarweb-sites-recommendatio (SimilarWeb - Website Traffic Sources and Ranking)
                 https://addons.mozilla.org/en-US/firefox/addon/to-google-translate (To Google Translate)
-                https://addons.mozilla.org/en-US/firefox/addon/wayback-machine_new
+                https://addons.mozilla.org/en-US/firefox/addon/wayback-machine_new (Go back in time to see how a website has changed through the history of the Web. )
                 https://addons.mozilla.org/en-US/firefox/search/?page=1&promoted=recommended&sort=users
                 https://darkreader.org (Dark Reader is an open source eye-care browser extension)
-                https://github.com/ClearURLs/Addon
-                https://github.com/Cookie-AutoDelete/Cookie-AutoDelete
-                https://github.com/deanishe/alfred-firefox
-                https://github.com/gorhill/uBlock
+                https://github.com/aaronraimist/DontFuckWithPaste (Google Chrome and Firefox extension that prevents the blocking of pasting into input fields)
+                https://github.com/ClearURLs/Addon (ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy. )
+                https://github.com/Cookie-AutoDelete/Cookie-AutoDelete (Firefox and Chrome WebExtension that deletes cookies and other browsing site data as soon as the tab closes, domain changes, browser restarts, or a combination of those events. )
+                https://github.com/deanishe/alfred-firefox (Search and control Firefox from Alfred )
+                https://github.com/gorhill/uBlock (uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. )
                 https://github.com/itsecurityco/to-google-translate
                 https://github.com/josh-berry/tab-stash (Firefox extension to save and restore tabs as bookmarks)
-                https://github.com/mbnuqw/sidebery
-                https://github.com/mozilla/contain-facebook
-                https://github.com/mozilla/multi-account-containers
+                https://github.com/mozilla/contain-facebook (Facebook Container isolates your Facebook activity from the rest of your web activity in order to prevent Facebook from tracking you outside of the Facebook website via third party cookies. )
+                https://github.com/mozilla/multi-account-containers (Firefox Multi-Account Containers lets you keep parts of your online life separated into color-coded tabs that preserve your privacy. Cookies are separated by container, allowing you to use the web with multiple identities or accounts simultaneously. )
                 https://github.com/philc/vimium
                 https://github.com/quenhus/uBlock-Origin-dev-filter (Filters to block and remove copycat-websites from DuckDuckGo, Google and other search engines. Specific to dev websites like StackOverflow or GitHub.)
                 https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean (Extension allows you to read articles from (supported) sites that implement a paywall.)
@@ -3871,10 +3869,11 @@ Contents:
                 https://news.ycombinator.com/item?id=38014653 ("Don't mess with paste" - for when signup forms expect you to hand-type your email address twice)
                 https://newsit.benwinding.com
                 https://oblador.github.io/hush (Block nags to accept cookies and privacy invasive tracking in Safari on Mac, iPhone and iPad.)
-                https://privacybadger.org
+                https://privacybadger.org (Privacy Badger is a browser extension that automatically learns to block invisible trackers.)
                 https://support.1password.com/getting-started-1password-x
                 https://support.mozilla.org/en-US/kb/focus
                 https://tabliss.io (A beautiful, customisable New Tab page for Firefox, Chrome, and Edge. )
+                https://underpassapp.com/StopTheMadness (StopTheMadness is a Safari extension for Mac that stops web sites from making your browser harder to use.)
                 https://unhook.app (Watch YouTube free of distractions. Block suggestion feeds, comments, and more)
                 https://www.eff.org/https-everywhere
                 https://www.fbpurity.com (F.B. Purity - Clean Up and Customize Facebook)
