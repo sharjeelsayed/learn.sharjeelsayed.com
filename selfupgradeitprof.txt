@@ -178,6 +178,7 @@ Contents:
             https://www.reddit.com/r/compsci/comments/7s63d6/are_there_cs_related_podcast_to_listen_to
             https://www.reddit.com/r/cscareerquestions/comments/5bsg82/whats_the_single_most_useful_csrelated_link_you
             https://www.reddit.com/r/cscareerquestions/comments/92yuvw/what_parts_of_a_cs_degree_have_been_most_useful
+            https://www.reddit.com/r/learnprogramming/comments/1bj5e8q/i_completed_every_one_of_harvards_cs50_courses (I completed every one of Harvard's CS50 courses. Here's a mini-review of each!)
             https://www.reddit.com/r/learnprogramming/comments/69x0bp/teach_yourself_computer_science
             https://www.reddit.com/r/learnprogramming/comments/764cs8/trello_board_for_teach_yourself_computer_science
             https://www.reddit.com/r/learnprogramming/comments/ani7nb/psa_many_of_berkeleys_courses_have_lectures_and
@@ -286,6 +287,7 @@ Contents:
                 https://github.com/topics/programming?o=desc&s=stars (public repositories matching the topic programming)
                 https://github.com/tuvtran/project-based-learning (Curated list of project-based tutorials)
                 https://github.com/veler/DevToys (A Swiss Army knife for developers. https://devtoys.app)
+                https://github.com/Wilfred/difftastic (https://difftastic.wilfred.me.uk a structural diff that understands syntax 🟥🟩 )
                 https://google.github.io/eng-practices (Google Engineering Practices Documentation)
                 https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=every%20programmer&sort=byPopularity&type=story (Things every programmer should know)
                 https://innovationgraph.github.com/global-metrics/programming-languages (Top 50 Programming Languages Globally)
@@ -369,6 +371,7 @@ Contents:
                     https://www.reddit.com/r/cs50
                     https://cdn.cs50.net/guide/guide-20.pdf (Unofficial Guide to CS at Harvard)
                     https://www.youtube.com/c/cs50 (cs50 YouTube channel)
+                    https://cs50.harvard.edu/sql/2024/courses (CS50 offers 11 different courses)
 
                 Introduction to Computer Science and Programming Using Python , MIT
                     https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11
@@ -692,6 +695,7 @@ Contents:
             Sources:
                 https://beletronics.wordpress.com (Learn electronics by practice)
                 https://electroagenda.com/en/a-summary-of-electronics
+                https://exclusivearchitecture.com/03-technical-articles-IC-00-table-of-contents.html (How Microchips Work)
                 https://learningtheartofelectronics.com (Learning the Art of Electronics A Hands-On Lab Course)
                 https://news.ycombinator.com/item?id=16775744 (Ask HN: How to self-learn electronics?)
                 https://news.ycombinator.com/item?id=16920476 (Ask HN: Where did you learn modular electronics?)
@@ -1248,6 +1252,7 @@ Contents:
                 https://sysdig.com/blog/top-owasp-kubernetes (The OWASP Kubernetes Top 10 puts all possible risks in an order of overall commonality or probability.)
                 https://t.me/learnk8s (Telegram channel for learning Kubernetes)
                 https://techbeacon.com/enterprise-it/47-advanced-tutorials-mastering-kubernetes
+                https://tldrsec.com/p/kubernetes-security-threat-informed-defense (Keep Hackers Out of Your Kubernetes Cluster with These 5 Simple Tricks!)
                 https://www.atomiccommits.io/everything-useful-i-know-about-kubectl (Everything Useful I Know About kubectl)
                 https://www.containiq.com/post/kubernetes-projects-for-beginners (10 Awesome Kubernetes Projects for Beginners)
                 https://www.datadoghq.com/container-report (Oct 2021 report on Kubernetes and Docker Usage)
@@ -2313,6 +2318,7 @@ Contents:
                 https://sysdig.com/blog/top-owasp-kubernetes (The OWASP Kubernetes Top 10 puts all possible risks in an order of overall commonality or probability.)
                 https://tcm-sec.com/so-you-want-to-be-a-hacker-2021-edition (So You Want to Be a Hacker: 2021 Edition)
                 https://tib3rius.com/interview-questions.html (Web AppSec Interview Questions)
+                https://tldrsec.com/p/kubernetes-security-threat-informed-defense (Keep Hackers Out of Your Kubernetes Cluster with These 5 Simple Tricks!)
                 https://tldrsec.com/p/software-supply-chain-vendor-landscape (Software Supply Chain Vendor Landscape)
                 https://tls13.xargs.org (The Illustrated TLS 1.3 Connection Every byte explained and reproduced)
                 https://toc.cryptobook.us (A Graduate Course in Applied Cryptography)
@@ -3382,6 +3388,7 @@ Contents:
                 https://github.com/ReaVNaiL/New-Grad-2024 (👋 Hey there new grad🎉! We've put together a collection of full-time job openings for SWE, Quant, PM and tech roles in 2024! 🚀 )
                 https://github.com/SimplifyJobs/New-Grad-Positions (A collection of New Grad full time roles in SWE, Quant, and PM.)
                 https://github.com/SimplifyJobs/Summer2024-Internships (https://swelist.com Collection of Summer 2024 tech internships!)
+                https://github.com/speedyapply/swe-college-jobs (The most comprehensive 2024 SWE internship & new graduate job list on GitHub.)
                 https://hn.algolia.com/?dateRange=pastYear&page=0&prefix=false&query=Ask%20HN%3A%20Who%20is%20hiring%3F&sort=byPopularity&type=story (Ask HN: Who is hiring?)
                 https://llcattorney.com/business-info/us-companies-salaries-vs-revenue (How Long It Takes the Largest Companies in America to Make One Employee's Average Annual Salary)
                 https://news.crunchbase.com/startups/tech-layoffs (The Crunchbase Tech Layoffs Tracker)
@@ -5206,6 +5213,7 @@ Contents:
         https://sourceful.co.uk (Discover the best public GoogleDocs and Sheets)
         https://www.amazon.com/Best-Sellers-Beauty-Personal-Care-Mens-Foil-Shavers/zgbs/beauty/13271094011 (Best Sellers in Men's Foil Shavers)
         https://www.amazon.com/Best-Sellers-Health-Household-Power-Toothbrushes/zgbs/hpc/18065347011 (Best Sellers in Power Toothbrushes)
+        https://www.construction-physics.com/p/why-is-it-so-hard-to-build-an-airport (Why Is It So Hard to Build an Airport?)
         https://www.domestika.org (Best online courses for creatives)
         https://www.kantar.com/north-america/company-news/louis-vuitton-reigns-as-the-worlds-most-valuable-luxury-brand-for-the-18th-year (Top 10 Most Valuable Global Luxury Brands 2023)
         https://www.looria.com/reddit/BuyItForLife/brand-popularity (The most popular brands on r/BuyItForLife)
