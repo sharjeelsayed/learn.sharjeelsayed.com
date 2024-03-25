@@ -4545,7 +4545,7 @@ Contents:
                         https://www.reddit.com/r/dataisbeautiful/comments/18fvw7v/oc_top_50_subreddits_with_the_most_new_posts_per ([OC] Top 50 subreddits with the most new posts per day and most comments per post (December 2023))
 
                     Subscriptions:
-                        https://www.reddit.com/r/1Password+AWSCertifications+Alfred+Android+AppHookup+AppleWatch+BuyItForLife+DataHoarder+Documentaries+ExperiencedDevs+Flights+FreeEBOOKS+ITCareerQuestions+IndiaInvestments+KindleFreebies+Piracy+Terraform+Ubuntu+Upwork+Watches+announcements+ansible+antiwork+apple+appletv+askscience+aws+compsci+cscareerquestions+dataisbeautiful+devops+diabetes+docker+freelance+gshock+india+ipad+iphone+jobs+kindle+kubernetes+learnprogramming+linux+linuxadmin+mac+macapps+movies+netsec+networking+nextdns+onebag+osx+programming+rolex+science+solotravel+sysadmin+technews+technology+television+todayilearned+todoist+travel+usefulscripts+worldnews
+                        https://www.reddit.com/r/1Password+AWSCertifications+Alfred+Android+AppHookup+AppleWatch+BuyItForLife+DataHoarder+Documentaries+ExperiencedDevs+Flights+FreeEBOOKS+ITCareerQuestions+IndiaInvestments+KindleFreebies+Piracy+Terraform+Ubuntu+Upwork+Watches+announcements+ansible+antiwork+apple+appletv+askscience+aws+compsci+cscareerquestions+dataisbeautiful+devops+diabetes+docker+freelance+gshock+india+ipad+iphone+jobs+kindle+kubernetes+learnprogramming+linux+linuxadmin+mac+macapps+movies+netsec+networking+nextdns+onebag+osx+programming+rolex+science+solotravel+sysadmin+technews+technology+television+todayilearned+todoist+travel+usefulscripts+webdev+worldnews
 
                 Hacker News:
                     https://apps.apple.com/us/app/hack-for-hacker-news-developer/id1464477788
@@ -4785,9 +4785,11 @@ Contents:
                 https://cryptomator.org (ryptomator encrypts your data quickly and easily. Afterwards you upload them protected to your favorite cloud service)
                 https://db.tt/YL0e12GN (Dropbox 500 MB of bonus space)
                 https://github.com/aliparlakci/bulk-downloader-for-reddit (Downloads and archives content from reddit)
+                https://github.com/ArchiveBox/ArchiveBox (https://archivebox.io 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...)
                 https://github.com/gilbertchen/benchmarking (A performance comparison of Duplicacy, restic, Attic, and duplicity )
                 https://github.com/gilbertchen/cloud-storage-comparison (Performance comparisons of cloud backup storages as Duplicacy backends)
                 https://github.com/gilbertchen/duplicacy (https://duplicacy.com A new generation cloud backup tool)
+                https://github.com/gildas-lormeau/single-file-cli (CLI tool for saving a faithful copy of a complete web page in a single HTML file)
                 https://github.com/instaloader/instaloader (Download pictures (or videos) along with their captions and other metadata from Instagram.)
                 https://github.com/jbruchon/jdupes
                 https://github.com/KurtBestor/Hitomi-Downloader (🍰 Desktop utility to download images/videos/music/text from various websites, and more.)
@@ -4798,6 +4800,7 @@ Contents:
                 https://github.com/simon987/awesome-datahoarding
                 https://github.com/topics/backup?o=desc&s=stars
                 https://github.com/widevinedump (Tools to Download Netflix / Disney / Apple TV Content)
+                https://github.com/Y2Z/monolith (⬛️ CLI tool for saving complete web pages as a single HTML file )
                 https://github.com/yt-dlp/yt-dlp (A youtube-dl fork with additional features and fixes)
                 https://indown.io/insta-dp-viewer (Instagram DP Download)
                 https://mega.nz/C!vuhRiKpB (Mega.nz Extra Storage)
