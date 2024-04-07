@@ -1233,6 +1233,7 @@ Contents:
                 https://k8slanparty.com (A CTF designed to challenge your Kubernetes hacking skills through a series of critical network vulnerabilities and misconfigurations.)
                 https://kube.academy (Learn Kubernetes From Experts For Free. KubeAcademy from VMware)
                 https://kubenews.net (Kubernetes and Cloud Native Computing Foundation News Sources)
+                https://kubernetes.io/blog/2024/04/05/diy-create-your-own-cloud-with-kubernetes-part-1 (DIY: Create Your Own Cloud with Kubernetes - Part 1)
                 https://kubernetes.io/docs/concepts/security/security-checklist (Kubernetes Security Checklist)
                 https://kubernetesbyexample.com (KBE lessons emphasize an ‘absorb by doing’ approach so you can practices skills as they are explored and explained to learn Kubernetes By Example)
                 https://kubernetesreadme.com (What books 📚 to read to learn more about Kubernetes)
@@ -2727,6 +2728,7 @@ Contents:
                 https://github.com/Asabeneh/30-Days-Of-Python (30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.)
                 https://github.com/donnemartin/interactive-coding-challenges (120+ interactive Python coding interview challenges (algorithms and data structures). Includes Anki flashcards.)
                 https://github.com/huangsam/ultimate-python (Ultimate Python study guide for newcomers and professionals alike. 🐍 🐍 🐍 )
+                https://github.com/mahmoud/awesome-python-applications ( 💿 Free software that works great, and also happens to be open-source Python ftp://you:relookin@it#readme)
                 https://github.com/ml-tooling/best-of-web-python (🏆 A ranked list of awesome python libraries for web development. Updated weekly.)
                 https://github.com/pamoroso/free-python-books (Python books free to read online or download)
                 https://github.com/pyenv/pyenv (Simple Python version management )
@@ -2921,7 +2923,7 @@ Contents:
 
         JavaScript:
             Sources:
-                https://github.com/airbnb/javascript (avaScript Style Guide )
+                https://github.com/airbnb/javascript (JavaScript Style Guide )
                 https://github.com/developer-resources/frontend-development
                 https://github.com/getify/You-Dont-Know-JS (A book series on JavaScript. @YDKJS on twitter.)
                 https://github.com/ryanmcdermott/clean-code-javascript (Clean Code concepts adapted for JavaScript)
@@ -2949,11 +2951,11 @@ Contents:
                 https://github.com/wesbos/JavaScript30
                 https://wesbos.com/javascript
 
+                Eloquent JavaScript 4th edition by Marijn Haverbeke (2024)
+                https://eloquentjavascript.net
+
                 Practical JavaScript
                 https://watchandcode.com
-
-                Eloquent JavaScript 3rd edition
-                https://eloquentjavascript.net
 
                 The Complete JavaScript Course 2024: From Zero to Expert! by Jonas Schmedtmann
                 https://www.udemy.com/course/the-complete-javascript-course
@@ -4674,6 +4676,7 @@ Contents:
                 https://news.ycombinator.com/item?id=22092900 (Ask HN: What podcast(s) changed your life?)
                 https://news.ycombinator.com/item?id=23051122 (Ask HN: Intellectually simulating Podcasts/conversations/Talk)
                 https://news.ycombinator.com/item?id=9207360 (Ask HN: Favorite podcasts?)
+                https://podtail.com/en/top-podcasts (The 100 Most Popular Podcasts Right Now)
                 https://www.reddit.com/r/podcasts/comments/75ilo5/ive_spent_three_years_listening_to_podcasts
                 https://www.reddit.com/r/sysadmin/comments/au8ugd/what_are_your_preferred_tech_podcasts_as_a
                 https://www.reddit.com/r/sysadmin/comments/han44w/interesting_it_related_podcasts (Interesting IT related Podcasts (self.sysadmin))
