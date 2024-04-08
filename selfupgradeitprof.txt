@@ -868,6 +868,7 @@ Contents:
                 https://www.amazon.com/Best-Sellers-Books-Linux-Operating-System/zgbs/books/3849 (Best Sellers in Linux Operating System)
                 https://www.amazon.com/gp/bestsellers/books/285860 (Best Sellers in Linux Certification Guides)
                 https://www.amazon.com/gp/bestsellers/books/291379 (Best Sellers in Linux Kernel & Peripherals)
+                https://www.brendangregg.com/blog/2024-03-24/linux-crisis-tools.html (Linux Crisis Tools)
                 https://www.brendangregg.com/linuxperf.html (Brendan Gregg's Linux Internals Maps)
                 https://www.digitalocean.com/community/tutorials?primary_filter=popular
                 https://www.reddit.com/r/linux/comments/1apktdk/what_are_some_linux_utilities_that_you_cant_live (What are some linux utilities that you can't live without?)
@@ -3025,6 +3026,7 @@ Contents:
             Sources:
                 https://bbycroft.net/llm (A 3D animated visualization of an LLM with a walkthrough)
                 https://danielmiessler.com/p/get-samantha-tars-interstellar-iphoneandroid (How to Get Samantha from Her or TARS from Interstellar on Your iPhone/Android)
+                https://en.wikipedia.org/wiki/Large_language_model (Large language model)
                 https://fleuret.org/public/lbdl.pdf (The Little Book of Deep Learning by François Fleuret)
                 https://github.com/ai-boost/Awesome-GPTs (Curated list of awesome GPTs 👍.)
                 https://github.com/ai-collection/ai-collection ( The Generative AI Landscape - A List of Awesome Generative AI Applications Topics)
@@ -5145,15 +5147,26 @@ Contents:
         Fashion:
             Soruces:
                 https://companiesmarketcap.com/luxury-goods/largest-luxury-goods-companies-by-market-cap (Largest luxury goods companies by market cap)
-                https://en.m.wikipedia.org/wiki/List_of_most_valuable_brands (List of most valuable brands)
+                https://en.wikipedia.org/wiki/List_of_fashion_magazines (List of fashion magazines)
+                https://en.wikipedia.org/wiki/List_of_most_valuable_brands (List of most valuable brands)
                 https://en.wikipedia.org/wiki/Lists_of_most_expensive_items_by_category (Lists of most expensive items by category)
                 https://en.wikipedia.org/wiki/Louis_Vuitton (Louis Vuitton)
                 https://en.wikipedia.org/wiki/Luxury_goods (Luxury goods)
-                https://www.reddit.com/r/femalefashionadvice (Female Fashion Advice)
-                https://www.reddit.com/r/fragrance (Fragrance Discussions for all Genders)
-                https://www.reddit.com/r/malefashionadvice (Male Fashion Advice)
-                https://www.reddit.com/r/OUTFITS (Outfits For Everyone! A SFW place to discuss outfits from all over the world.)
+                https://www.reddit.com/r/OUTFITS+femalefashionadvice+fragrance+malefashionadvice
                 https://www.statista.com/statistics/267948/brand-value-of-the-leading-10-most-valuable-luxury-brands-worldwide (Brand value of the leading 10 most valuable luxury brands worldwide)
+
+            Fashion Magazines (sorted by similarweb rank)
+                https://www.elle.com (1,250)
+                https://www.cosmopolitan.com (1,486)
+                https://www.vogue.com (3,508)
+                https://www.harpersbazaar.com (3,665)
+                https://www.glamour.com (6,146)
+                https://www.gq.com (7,387)
+                https://www.vanityfair.com (7,818)
+                https://www.allure.com (9,964)
+                https://wwd.com (12,746)
+                https://www.marieclaire.com (19,157)
+                https://www.papermag.com (61,040)
 
         Stuff Worth Paid Subscription:
             https://1password.com
@@ -5186,6 +5199,7 @@ Contents:
     Additional Sources :
         http://techmeme.com/events.ics (Techmeme Calendar)
         http://unixstickers.com (Unixstickers powered by Sticker Mule)
+        https://allaboutberlin.com (Welcome to Berlin This is the start of a great adventure! Let's get you ready for it.)
         https://awesome.digitalbunker.dev (Click to explore one of the awesome lists below)
         https://cheatography.com (Over 5,000 Free Cheat Sheets, Revision Aids and Quick References!)
         https://command-not-found.com (Install any command on any operating system and in Docker)
