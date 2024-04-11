@@ -3081,6 +3081,7 @@ Contents:
                 https://github.com/dair-ai/ML-YouTube-Courses (📺 Discover the latest machine learning / AI courses on YouTube.)
                 https://github.com/DataTalksClub/machine-learning-zoomcamp (Learn ML engineering for free in 4 months! )
                 https://github.com/ethen8181/machine-learning (🌎 machine learning tutorials (mainly in Python3))
+                https://github.com/karpathy/llm.c (LLM training in simple, raw C/CUDA)
                 https://github.com/mlabonne/llm-course (https://mlabonne.github.io/blog Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.)
                 https://github.com/quassnoi/explain-extended-2024 (https://explainextended.com/2023/12/31/happy-new-year-15 GPT in 500 lines of SQL)
                 https://github.com/SkalskiP/courses (This repository is a curated collection of links to various courses and resources about Artificial Intelligence (AI))
@@ -4941,13 +4942,13 @@ Contents:
                 https://www.reddit.com/r/Piracy/comments/xxs0wv/what_are_some_websites_every_person_should_know (What are some websites every person should know?)
                 https://www.reddit.com/r/piracy/wiki/faq
                 https://www.reddit.com/r/piracy/wiki/guides
-                https://www.reddit.com/r/Piracy/wiki/megathread
+                https://www.reddit.com/r/Piracy/wiki/megathread (r/Piracy Megathread)
                 https://www.reddit.com/r/Piracy/wiki/megathread/tools
                 https://pinboard.in/u:SharjeelSayed/t:torrent
 
             Sites: (Sorted by Alexa Rank)
                 https://yts.mx (402)
-                https://1337x.to (415)
+                https://1337x.to (415) (https://1337x-status.org )
                 https://rutracker.org (537)
                 http://rarbg.to (822) or https://rarbgprx.org/torrents.php
                 https://www.limetorrents.info (2,951)
@@ -5268,7 +5269,6 @@ Contents:
         https://www.reddit.com/r/india/wiki/useful_posts (r/india Useful Posts)
         https://www.vox.com/science-and-health/2019/8/23/20828597/the-10000-hour-rule-debunked (The “10,000-hour rule” was debunked again. That’s a relief.)
         https://youglish.com (Use YouTube to improve your English pronunciation. With more than 100M tracks, YouGlish gives you fast, unbiased answers about how English is spoken by real people and in context.)
-
 
     Support this project with these referral links:
         http://share.payoneer.com/nav/fNDwSrQzVfdG8-xoVyx0Bw_ZDmVq9EROCSP2BPIK6ZXFGNfkLTA-k6YqnGHb8YozBtA2obVkitQbtq50VTZ5Bg2 ($25 on Sign Up)
