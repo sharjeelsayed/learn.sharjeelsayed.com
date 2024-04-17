@@ -2472,6 +2472,7 @@ Contents:
                 https://thesweetsetup.com/picks
                 https://www.applegamingwiki.com/wiki/M1_compatible_games_master_list (M1 compatible games master list)
                 https://www.darlinghq.org (Darling is a translation layer that lets you run macOS software on Linux)
+                https://www.digitaltrends.com/computing/best-mac-apps (The best Mac apps for 2024)
                 https://www.macupdate.com (18,000+ verified Mac apps, handpicked by the MacUpdate team)
                 https://www.oss.wiki (ollection of must-have open-sourced apps for Mac)
                 https://www.reddit.com/r/apple+mac+macapps
@@ -5256,6 +5257,7 @@ Contents:
         https://www.kantar.com/north-america/company-news/louis-vuitton-reigns-as-the-worlds-most-valuable-luxury-brand-for-the-18th-year (Top 10 Most Valuable Global Luxury Brands 2023)
         https://www.looria.com/reddit/BuyItForLife/brand-popularity (The most popular brands on r/BuyItForLife)
         https://www.nala.ie/resources/better-handwriting-adults
+        https://www.pricelevel.com (PriceLevel gives you visibility into the price hidden behind "Contact Us".)
         https://www.producthunt.com (The place to launch and discover new tech products)
         https://www.reddit.com/r/AskReddit/comments/4q91g9/what_free_things_online_should_everyone_take/d4r8foy
         https://www.reddit.com/r/AskReddit/comments/6k0p7l/what_are_the_best_free_online_certificates_you
