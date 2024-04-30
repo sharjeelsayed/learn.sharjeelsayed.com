@@ -537,6 +537,7 @@ Contents:
                 https://news.ycombinator.com/item?id=14701199 (Let's Code a TCP/IP Stack: TCP Retransmission (saminiir.com))
                 https://quic.xargs.org (The Illustrated QUIC Connection)
                 https://siliconsprawl.com/2020/05/10/network-programming-self-study.html (Network Programming Self-Study)
+                https://startyourownisp.com (Start Your Own ISP)
                 https://www.davidc.net/sites/default/subnets/subnets.html (Visual Subnet Calculator)
                 https://www.jeremysitlab.com/ccna-resources (Recommended CCNA Resources)
                 https://www.reddit.com/r/ccna/wiki/faqs/materials (/r/CCNA CCNA Study Materials)
@@ -1607,6 +1608,7 @@ Contents:
 
             AWS Certification Resources:
                 Sources:
+                    https://community.aws/content/2d6DCIzXxed5RWMBQ4Mf2WznveW/solutions-architect-deep-dive-resources (Solutions Architect Deep Dive Resources by Ted Trentler Amazon Employee)
                     https://github.com/acantril/learn-cantrill-io-labs (Standard and Advanced Demos for learn.cantrill.io courses)
                     https://github.com/keenanromain/AWS-SAA-C02-Study-Guide (How to become a certified AWS Solutions Architect by Keenan Romain)
                     https://help.acloud.guru/hc/en-us/articles/360001389256-AWS-Cloud-Sandbox  (AWS Cloud Sandbox)
@@ -2337,6 +2339,7 @@ Contents:
                 https://www.netmeister.org/blog/infosec-competencies.html ((Technical) Infosec Core Competencies)
                 https://www.nsa.gov/Press-Room/News-Highlights/Article/Article/2716980/nsa-cisa-release-kubernetes-hardening-guidance/utm_source/nsa-cisa-release-kubernetes-hardening-guidance (NSA, CISA release Kubernetes Hardening Guidance)
                 https://www.open-scap.org (Discover a wide array of tools for managing system security and standards compliance)
+                https://www.reddit.com/r/dataisbeautiful/comments/1cb48y6/oc_i_updated_our_password_table_for_2024_with/#lightbox (Time it takes a hacker to brute force your password in 2024)
                 https://www.reddit.com/r/netsec+privacy+SocialEngineering+onions+ReverseEngineering+crypto+blackhat+security+Malware+pwned+netsecstudents+computerforensics+HackBloc+securityCTF+xss+vrd+rootkit+REMath
                 https://www.reddit.com/r/netsecstudents/top/?sort=top&t=all
                 https://www.returnonsecurity.com/p/2023-cybersecurity-market-review (The Cybersecurity Market in 2023)
@@ -3411,6 +3414,7 @@ Contents:
                 https://news.ycombinator.com/item?id=17047736 (Ask HN: How to become a remote contractor?)
                 https://twitter.com/jobs (X Twitter Jobs Search)
                 https://www.glassdoor.com/research/workplace-trends-2024 (Glassdoor’s 2024 Workplace Trends)
+                https://www.hiringlab.org/2023/11/15/indeeds-2024-us-jobs-hiring-trends-report (Indeed’s 2024 US Jobs & Hiring Trends Report)
                 https://www.indeed.com/career-advice/finding-a-job/rising-tech-jobs-and-skills
                 https://www.naukri.com/pulse/top-it-skills (Naukri:Top 100 Tech Skills That Recruiters Are Searching)
                 https://www.reddit.com/r/antiwork/top (Antiwork: Unemployment for all, not just the rich!)
@@ -4254,10 +4258,12 @@ Contents:
             Sources:
                 https://bookauthority.org/books/best-science-books
                 https://docs.google.com/spreadsheets/d/17gv8uAydcInAeflJp5FrzpfmuUhOcyhBcutaZwVMans (Science communication Youtube channels)
-                https://en.wikipedia.org/wiki/Best_science_book_ever
+                https://en.wikipedia.org/wiki/Abiogenesis (Abiogenesis Origin of life)
+                https://en.wikipedia.org/wiki/Best_science_book_ever (Best science book ever)
                 https://en.wikipedia.org/wiki/List_of_common_misconceptions (Wikipedia: List of common misconceptions)
-                https://en.wikipedia.org/wiki/List_of_science_magazines
+                https://en.wikipedia.org/wiki/List_of_science_magazines (List of science magazines)
                 https://en.wikipedia.org/wiki/Lists_of_important_publications_in_science
+                https://en.wikipedia.org/wiki/Timeline_of_the_evolutionary_history_of_life (Timeline of the evolutionary history of life)
                 https://hn.algolia.com/?query=documentaries&sort=byPopularity&prefix&page=0&dateRange=all&type=story (HN Documentaries)
                 https://news.ycombinator.com/item?id=17272715 (Ask HN: Any resources to learn the fundamentals of critical thinking?)
                 https://news.ycombinator.com/item?id=18085765 (Ask HN: What are some of the best documentaries you've seen?)
@@ -4292,6 +4298,9 @@ Contents:
 
                 Cosmos: A Spacetime Odyssey
                     https://en.wikipedia.org/wiki/Cosmos:_A_Spacetime_Odyssey
+
+                The Whole History of the Earth and Life 【Newest Edition】by Kaoru GreenEmerald
+                    https://youtu.be/SkeNMoDlHUU?si=zcPszlA5fFlNUk2X
 
             Science Magazines: (Sorted by SimilarWeb.com Rank)
                 https://www.nature.com (1,999)
