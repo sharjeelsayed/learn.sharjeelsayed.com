@@ -359,6 +359,7 @@ Contents:
                 https://www.udacity.com/course/intro-to-computer-science--cs101
                 https://www.udemy.com/courses/development/software-engineering/?ratings=4.5&sort=popularity (Software Engineering Courses by Udemy)
                 https://www.youtube.com/@TheCodingTrain (The Coding Train)
+                https://zacharylee.substack.com/p/https-every-programmer-should-know (HTTPS Every Programmer Should Know)
 
             Books and Courses:
                 CS50 Introduction to Computer Science , Harvard University:
@@ -3415,7 +3416,7 @@ Contents:
                 https://twitter.com/jobs (X Twitter Jobs Search)
                 https://www.glassdoor.com/research/workplace-trends-2024 (Glassdoor’s 2024 Workplace Trends)
                 https://www.hiringlab.org/2023/11/15/indeeds-2024-us-jobs-hiring-trends-report (Indeed’s 2024 US Jobs & Hiring Trends Report)
-                https://www.indeed.com/career-advice/finding-a-job/rising-tech-jobs-and-skills
+                https://www.indeed.com/career-advice/finding-a-job/rising-tech-jobs-and-skills (The 10 Fastest-Rising Tech Jobs)
                 https://www.naukri.com/pulse/top-it-skills (Naukri:Top 100 Tech Skills That Recruiters Are Searching)
                 https://www.reddit.com/r/antiwork/top (Antiwork: Unemployment for all, not just the rich!)
                 https://www.reddit.com/r/careerguidance (A place to discuss career options, to ask questions and give advice!)
@@ -5057,6 +5058,7 @@ Contents:
         Movies, TV and Documentaries:
             Sources:
                 https://criticstop10.com (Critics’ Top 10)
+                https://editorial.rottentomatoes.com/guide/best-movies-of-all-time (Rotten Tomatoes : The 200 Best Movies of All Time)
                 https://editorial.rottentomatoes.com/guide/rt25-critics-top-tv-shows-of-the-last-25-years-2 (RT25: Critics’ Top TV Shows of the Last 25 Years)
                 https://en.wikipedia.org/wiki/AFI%27s_100_Years...100_Movies_(10th_Anniversary_Edition) (AFI's 100 Years...100 Movies (10th Anniversary Edition))
                 https://en.wikipedia.org/wiki/List_of_films_considered_the_best (List of films considered the best)
