@@ -539,6 +539,7 @@ Contents:
                 https://quic.xargs.org (The Illustrated QUIC Connection)
                 https://siliconsprawl.com/2020/05/10/network-programming-self-study.html (Network Programming Self-Study)
                 https://startyourownisp.com (Start Your Own ISP)
+                https://www.amazon.com/Certified-Wireless-Network-Administrator-Study/dp/1119734509 CWNA Certified Wireless Network Administrator Study Guide: Exam CWNA-108 (Sybex Study Guide) 6th Edition by David D. Coleman and David A. Westcott
                 https://www.davidc.net/sites/default/subnets/subnets.html (Visual Subnet Calculator)
                 https://www.jeremysitlab.com/ccna-resources (Recommended CCNA Resources)
                 https://www.reddit.com/r/ccna/wiki/faqs/materials (/r/CCNA CCNA Study Materials)
@@ -3030,6 +3031,7 @@ Contents:
 
         AI and Machine Learning:
             Sources:
+                https://arc.net/folder/D0472A20-9C20-4D3F-B145-D2865C0A9FEE (Ilya Sutskever gave John Carmack this reading list of approx 30 research papers and said, ‘If you really learn all of these, you’ll know 90% of what matters today.’)
                 https://bbycroft.net/llm (A 3D animated visualization of an LLM with a walkthrough)
                 https://danielmiessler.com/p/get-samantha-tars-interstellar-iphoneandroid (How to Get Samantha from Her or TARS from Interstellar on Your iPhone/Android)
                 https://en.wikipedia.org/wiki/Large_language_model (Large language model)
