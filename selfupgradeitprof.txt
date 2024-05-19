@@ -3691,6 +3691,7 @@ Contents:
                 http://www.jdawiseman.com/books/pricing-money/Pricing_Money_JDAWiseman.html (Pricing Money A Beginner's Guide to Money, Bonds, Futures and Swaps by J. D. A. Wiseman)
                 https://codewithoutrules.com/2016/08/08/living-below-your-means
                 https://discord.gg/hqBNg4u (/rindiainvestments Discord Channel)
+                https://en.wikipedia.org/wiki/List_of_cities_by_number_of_billionaires (List of cities by number of billionaires)
                 https://finurls.com
                 https://news.ycombinator.com/item?id=12556160 (Ask HN: What are the must-read books about economics/finance?)
                 https://news.ycombinator.com/item?id=15140182 (A Guide to Crypto Currencies (mycrypto.guide))
@@ -4354,6 +4355,7 @@ Contents:
                 https://en.wikipedia.org/wiki/Special:Random
                 https://github.com/maltfield/awesome-lemmy-instances (Comparison of different Lemmy Instances)
                 https://github.com/topics/blogs?o=desc&s=stars
+                https://lobste.rs/s/krkuc9/who_are_your_favorite_tech_youtubers (Who are your favorite tech YouTubers?)
                 https://news.vinc.cc (Search the news)
                 https://news.ycombinator.com/item?id=14086259 (Ask HN: Mailing lists that HN readers ought to know about?)
                 https://news.ycombinator.com/item?id=14378536 (Ask HN: Which websites do you visit?)
@@ -4566,7 +4568,7 @@ Contents:
                         https://www.reddit.com/r/dataisbeautiful/comments/18fvw7v/oc_top_50_subreddits_with_the_most_new_posts_per ([OC] Top 50 subreddits with the most new posts per day and most comments per post (December 2023))
 
                     Subscriptions:
-                        https://www.reddit.com/r/1Password+AWSCertifications+Alfred+Android+AppHookup+AppleWatch+BuyItForLife+DataHoarder+Documentaries+ExperiencedDevs+Flights+FreeEBOOKS+ITCareerQuestions+IndiaInvestments+KindleFreebies+Piracy+Terraform+Ubuntu+Upwork+Watches+announcements+ansible+antiwork+apple+appletv+askscience+aws+compsci+cscareerquestions+dataisbeautiful+devops+diabetes+docker+freelance+gshock+india+ipad+iphone+jobs+kindle+kubernetes+learnprogramming+linux+linuxadmin+mac+macapps+movies+netsec+networking+nextdns+onebag+osx+programming+rolex+science+solotravel+sysadmin+technews+technology+television+todayilearned+todoist+travel+usefulscripts+webdev+worldnews
+                        https://www.reddit.com/r/1Password+AWSCertifications+Alfred+Android+AppHookup+AppleWatch+BuyItForLife+DataHoarder+Documentaries+ExperiencedDevs+Flights+FreeEBOOKS+ITCareerQuestions+IndiaInvestments+KindleFreebies+Piracy+Terraform+Ubuntu+Upwork+Watches+announcements+ansible+antiwork+apple+appletv+askscience+aws+compsci+cscareerquestions+dataisbeautiful+developersIndia+devops+diabetes+docker+freelance+gshock+india+ipad+iphone+jobs+kindle+kubernetes+learnprogramming+linux+linuxadmin+mac+macapps+movies+netsec+networking+nextdns+onebag+osx+programming+rolex+science+solotravel+sysadmin+technews+technology+television+todayilearned+todoist+travel+usefulscripts+webdev+worldnews
 
                 Hacker News:
                     https://apps.apple.com/us/app/hack-for-hacker-news-developer/id1464477788
