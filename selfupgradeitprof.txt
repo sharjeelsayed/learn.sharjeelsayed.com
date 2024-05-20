@@ -1644,6 +1644,11 @@ Contents:
                     https://skillbuilder.aws (Learn from AWS experts and build in-demand cloud skills your way)
                     https://www.aws.training (The only set of training programs and offerings built by the experts at AWS.)
 
+            IAM:
+                https://aws.permissions.cloud (AWS IAM Policy Generator)
+                https://docs.aws.amazon.com/service-authorization/latest/reference/reference_policies_actions-resources-contextkeys.html (Actions, resources, and condition keys for AWS services)
+                https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_aws-services-that-work-with-iam.html (AWS services that work with IAM)
+
             Free AWS Labs:
                 https://run.qwiklabs.com/catalog?keywords=introduction&locale=&cloud%5B%5D=AWS&format%5B%5D=any&level%5B%5D=any&duration%5B%5D=any&price%5B%5D=free&modality%5B%5D=any&language%5B%5D=any
                 https://aws.amazon.com/training/self-paced-labs
