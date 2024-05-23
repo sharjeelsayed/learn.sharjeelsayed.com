@@ -1073,8 +1073,8 @@ Contents:
                 https://github.com/dockur/windows (Windows in a Docker container)
                 https://github.com/massgravel/Microsoft-Activation-Scripts (https://massgrave.dev A Windows and Office activator using HWID / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.)
                 https://github.com/microsoft/PowerToys (Windows system utilities to maximize productivity)
+                https://github.com/Raphire/Win11Debloat (A simple, easy to use powershell script to remove bloatware apps from windows, disable telemetry, bing in windows search aswell as perform various other changes to declutter and improve your windows experience. This script works for both windows 10 and windows 11.)
                 https://github.com/topics/windows-10?o=desc&s=stars
-                https://github.com/W4RH4WK/Debloat-Windows-10 (A Collection of Scripts Which Disable / Remove Windows 10 Features and Apps)
                 https://news.ycombinator.com/item?id=19698620 (Ask HN: How do you secure your Windows PC?)
                 https://www.amazon.com/Best-Sellers-Books-Windows-Operating-System/zgbs/books/10806619011 (Best Sellers in Windows Operating System)
                 https://www.reddit.com/r/sysadmin/comments/3z7qd9/practice_to_become_a_windows_sysadmin/cyjynxh
@@ -2657,8 +2657,8 @@ Contents:
                 https://www.reddit.com/r/compsci/comments/ud0e2n/any_recommendations_of_youtube_channels_for (Any recommendations of youtube channels for programming and computer science stuff?)
                 https://www.reddit.com/r/DataHoarder/comments/c6fh4x/after_hoarding_over_50k_youtube_videos_here_is (After hoarding over 50k YouTube videos, here is the youtube-dl command I settled on)
                 https://www.reddit.com/r/ExperiencedDevs/comments/xqtgxe/youtube_channels_for_senior_engineers (Youtube channels for senior+ engineers?)
+                https://www.reddit.com/r/learnprogramming/comments/1cwigs9/best_youtube_creator_to_learn_from (Best YouTube creator to learn from?)
                 https://www.reddit.com/r/learnprogramming/comments/une7ad/which_coding_bootcamp_would_you_prefer_and_why/i87v5sj (Which coding bootcamp would you prefer and why?)
-                https://www.reddit.com/r/sysadmin/comments/65wdum/whats_your_favorite_selfstudy_resource_paid_free
                 https://www.reddit.com/r/Udemy+udemyfreebies
                 https://www.sololearn.com
                 https://www.techlinks.in/udemy-free-coupons (Free Udemy, Cousera, Eudonix Courses And Coupons)
@@ -2668,6 +2668,7 @@ Contents:
                 https://www.udacity.com/courses/all
                 https://www.udemy.com/courses/free/?p=12&sort=popularity
                 https://www.udemy.com/featured-topics (Popular and trending topics)
+                https://www.youtube.com/@BroCodez (This channel is dedicated to providing free education to those that can't afford college, bootcamps, and whatever crap coding gurus try to sell you.)
                 https://yahnd.com (Best courses , talks and videos recommended on Hacker News)
 
             Online Course Portals: (Sorted by Alexa Rank)
