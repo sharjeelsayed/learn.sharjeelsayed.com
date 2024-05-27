@@ -527,6 +527,7 @@ Contents:
         Networking:
             Sources:
                 https://alexandrehtrb.github.io/posts/2024/03/http2-and-http3-explained (HTTP/2 and HTTP/3 explained)
+                https://devonperoutky.super.site/blog-posts/mediocre-engineers-guide-to-https (A Mediocre Engineer's Guide to HTTPS)
                 https://en.wikipedia.org/wiki/IP_address#Private_addresses
                 https://github.com/bagder/http3-explained (https://http3-explained.haxx.se A document describing the HTTP/3 and QUIC protocols)
                 https://github.com/gchq/CyberChef (The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis)
@@ -2374,6 +2375,7 @@ Contents:
                 https://github.com/prowler-cloud/prowler (https://prowler.pro Prowler is an Open Source Security tool for AWS, Azure and GCP to perform Cloud Security best practices assessments, audits, incident response, compliance, continuous monitoring, hardening and forensics readiness. Includes CIS, NIST 800, NIST CSF, CISA, FedRAMP, PCI-DSS, GDPR, HIPAA, FFIEC, SOC2, GXP, Well-Architected Security, ENS and more.)
                 https://github.com/prowler-cloud/prowler (https://prowler.pro Prowler is an Open Source Security tool for AWS, Azure and GCP to perform Cloud Security best practices assessments, audits, incident response, compliance, continuous monitoring, hardening and forensics readiness. Includes CIS, NIST 800, NIST CSF, CISA, FedRAMP, PCI-DSS, GDPR, HIPAA, FFIEC, SOC2, GXP, Well-Architected Security, ENS and more.)
                 https://github.com/vm32/Linux-Incident-Response (practical toolkit for cybersecurity and IT professionals. It features a detailed Linux cheatsheet for incident response)
+                https://github.com/vulhub/vulhub (https://vulhub.org Pre-Built Vulnerable Environments Based on Docker-Compose)
                 https://github.com/Z4nzu/hackingtool (ALL IN ONE Hacking Tool For Hackers forms.gle/ntuAX8BGRR5yAb9ZA)
                 https://gtfobins.github.io (GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems.)
                 https://netfilter.org/documentation (Documentation about the netfilter/iptables project)
@@ -3243,6 +3245,7 @@ Contents:
 
             Material:
                 System Design Interview:
+                    https://github.com/ashishps1/awesome-low-level-design (Learn Low Level Design (LLD) and prepare for interviews using free resources.)
                     https://github.com/ashishps1/awesome-system-design-resources (This repository contains System Design resources which are useful while preparing for interviews and learning Distributed Systems)
                     https://github.com/binhnguyennus/awesome-scalability ( The patterns of scalable, reliable, and performant large-scale systems topics)
                     https://github.com/ByteByteGoHq/ml-bytebytego (Reference Materials for System Design Interview)
@@ -3253,7 +3256,6 @@ Contents:
                     https://github.com/InterviewReady/system-design-resources (https://interviewready.io These are the best resources for System Design on the Internet)
                     https://github.com/karanpratapsingh/system-design (Learn how to design systems at scale and prepare for system design interviews)
                     https://github.com/madd86/awesome-system-design (A curated list of awesome System Design (A.K.A. Distributed Systems) resources.)
-                    https://github.com/shashank88/system_design (Preparation links and resources for system design questions)
                     https://github.com/shashank88/system_design (Preparation links and resources for system design questions)
                     https://github.com/systemdesign42/system-design (https://newsletter.systemdesign.one Building the best system design resource in the internet)
                     https://interviewing.io/guides/system-design-interview (A Senior Engineer's Guide to the System Design Interview)
