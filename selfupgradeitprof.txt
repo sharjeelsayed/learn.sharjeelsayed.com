@@ -121,7 +121,7 @@ Contents:
         Movies, TV and Documentaries
         Watch
         Fashion
-        Stuff Worth Paid Subscription
+        Stuff Worth Paying For
 
     Computer Science:
         Sources:
@@ -770,6 +770,7 @@ Contents:
                 https://news.ycombinator.com/item?id=16357368 (Ask HN: Which books describe modern devops?)
                 https://news.ycombinator.com/item?id=29251343 (Ask HN: What is the fastest way to ramp up on DevOps, k8 and GCP?)
                 https://octopus.com/blog/devops-reading-list ( The DevOps reading list: Choosing your next DevOps book )
+                https://prepare.sh/engineering/devops (I scraped all DevOps Interview Questions for Meta, Amazon, Google, Yahoo.)
                 https://roadmap.sh/devops (Step by step guide for DevOps, SRE or any other Operations Role in 2024)
                 https://slack.cloudposse.com https://sweetops.slack.com https://slack.sweetops.com (SweetOps Slack Group)
                 https://www.actionsbyexample.com (GitHub Actions by Example is an introduction to the service through annotated examples.)
@@ -3268,8 +3269,9 @@ Contents:
                     https://github.com/alex/what-happens-when
                     https://github.com/vasanthk/how-web-works
 
-                Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
-                    https://github.com/bregman-arie/devops-exercises
+                DevOps Interview Questions:
+                    https://github.com/bregman-arie/devops-exercises (Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions)
+                    https://prepare.sh/engineering/devops (I scraped all DevOps Interview Questions for Meta, Amazon, Google, Yahoo.)
 
                 Site Reliability Engineer Interview Preparation Guide
                     https://github.com/mxssl/sre-interview-prep-guide
@@ -4053,6 +4055,7 @@ Contents:
 
         Study Music:
             Sources:
+                https://100best.music.apple.com/us (Apple Music 100 Best Albums)
                 https://askubuntu.com/questions/789465/generate-white-noise-to-calm-a-baby
                 https://gist.github.com/kristopherjohnson/9f7e3fe61e595ad7cedc (Generate Brown Noise, White Noise, or Pink Noise using SoX)
                 https://lifehacker.com/the-ultimate-list-of-work-and-study-music-1836284255
