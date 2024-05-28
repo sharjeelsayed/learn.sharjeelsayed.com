@@ -1593,11 +1593,15 @@ Contents:
                     https://courses.datacumulus.com/downloads/certified-solutions-architect-pn9 (AWS Certified Solutions Architect Associate Code & Slides)
                     https://courses.datacumulus.com (Discount codes for the Course)
 
-                AAWS Certified Solutions Architect Associate SAA-C03 Practice Exams 2023 by Jon Bonso:
+                AWS Certified Solutions Architect Associate SAA-C03 Practice Exams 2023 by Jon Bonso:
                     https://portal.tutorialsdojo.com/product/aws-certified-solutions-architect-associate-practice-exams
                     https://www.udemy.com/course/aws-certified-solutions-architect-associate-amazon-practice-exams-saa-c02
                     https://tutorialsdojo.com/aws-certified-solutions-architect-associate-saa-c02
                     http://slack.tutorialsdojo.com
+
+                AWS Certified Solutions Architect Associate (SAA-C03) by Andrew Brown of ExamPro
+                    https://youtu.be/c3Cn4xYfxJY?si=At47-Fh8EXyrZJUd (AWS Solutions Architect Associate Certification (SAA-C03) – Full Course to PASS the Exam by Andrew Brown of ExamPro, freecodecamp.org)
+                    https://www.exampro.co/aws-exam-solutions-architect-associate
 
                Ultimate AWS Certified Developer Associate 2024 NEW DVA-C02 by Stephane Maarek:
                     https://www.udemy.com/course/aws-certified-developer-associate-dva-c01
@@ -1631,7 +1635,6 @@ Contents:
                     https://www.reddit.com/r/sysadmin/comments/8inzn5/so_you_want_to_learn_aws_aka_how_do_i_learn_to_be (So, you want to learn AWS? AKA, "How do I learn to be a Cloud Engineer?")
                     https://www.udemy.com/topic/aws-certification/?ratings=4.5&sort=popularity (Udemy Courses rated 4.5 stars and above)
                     https://www.wellarchitectedlabs.com (This repository contains documentation and code in the format of hands-on labs to help you learn, measure, and build using architectural best practices)
-                    https://youtu.be/c3Cn4xYfxJY?si=At47-Fh8EXyrZJUd (AWS Solutions Architect Associate Certification (SAA-C03) – Full Course to PASS the Exam by Andrew Brown of ExamPro, freecodecamp.org)
 
                 Notes and Cheat Sheets:
                     https://digitalcloud.training/aws-cheat-sheets (AWS Certification Training Notes [Cheat Sheets] by Neal Davis)
