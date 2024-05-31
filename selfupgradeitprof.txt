@@ -574,6 +574,9 @@ Contents:
                 Unix Network Programming, Volume 1: The Sockets Networking API (3rd Edition)
                     https://www.amazon.com/Unix-Network-Programming-Sockets-Networking/dp/0131411551
 
+                Network Warrior: Everything You Need to Know That Wasn't on the CCNA Exam 2nd ed. Edition July 2011 by Gary A. Donahue
+                    https://www.amazon.com/Network-Warrior-Everything-Wasnt-Exam/dp/1449387861
+
             Other Books and Courses:
                 https://beej.us/guide/bgnet0 (Beej's Guide to Networking Concepts)
                 https://github.com/mininet/mininet/wiki/Teaching-and-Learning-with-Mininet (Teaching and Learning with Mininet)
@@ -3895,6 +3898,8 @@ Contents:
                 https://addons.mozilla.org/en-US/firefox/search/?page=1&promoted=recommended&sort=users
                 https://darkreader.org (Dark Reader is an open source eye-care browser extension)
                 https://github.com/aaronraimist/DontFuckWithPaste (Google Chrome and Firefox extension that prevents the blocking of pasting into input fields)
+                https://github.com/bpc-clone/bypass-paywalls-chrome-clean (Bypass Paywalls Clean for Chrome)
+                https://github.com/bpc-clone/bypass-paywalls-firefox-clean (Bypass Paywalls Clean for Firefox)
                 https://github.com/ClearURLs/Addon (ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy. )
                 https://github.com/Cookie-AutoDelete/Cookie-AutoDelete (Firefox and Chrome WebExtension that deletes cookies and other browsing site data as soon as the tab closes, domain changes, browser restarts, or a combination of those events. )
                 https://github.com/deanishe/alfred-firefox (Search and control Firefox from Alfred )
