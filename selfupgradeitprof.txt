@@ -1508,6 +1508,7 @@ Contents:
             Sources:
                 http://flaws.cloud (Through a series of levels you'll learn about common mistakes and gotchas when using Amazon Web Services (AWS).)
                 https://adayinthelifeof.nl/2020/05/20/aws.html (A List of One-sentence Descriptions of AWS Services)
+                https://aws.amazon.com/architecture/well-architected (AWS Well-Architected Framework : Learn, measure, and build using architectural best practices)
                 https://aws.amazon.com/blogs (AWS Blog)
                 https://aws.amazon.com/blogs/architecture/top-10-aws-architecture-blog-posts-of-2022 (Top 10 Architecture Blog Posts of 2022)
                 https://aws.amazon.com/blogs/devops/the-most-visited-aws-devops-blogs-in-2023 (The most visited AWS DevOps blog posts in 2023)
@@ -1633,6 +1634,7 @@ Contents:
                     https://www.examtopics.com/exams/amazon (AWS Exam Practice Questions.Highest ranked site for AWS practice exams)
                     https://www.freecram.net/vendor/Amazon.html (Free Amazon Certifications Exam Questions)
                     https://www.reddit.com/r/AWSCertifications/comments/18woit6/2024_aws_vouchers_exam_discounts_other (2024 : AWS Vouchers / Exam Discounts / Other Certification related promotions)
+                    https://www.reddit.com/r/AWSCertifications/comments/1d5kkuw/aws_certified_solutions_architect_associate (AWS Certified Solutions Architect Associate (SAA-C03) Resources)
                     https://www.reddit.com/r/AWSCertifications/comments/pcj2nk/free_learning_resources_needed_for_aws_solutions/haje9xi (Free Learning Resources needed for "AWS Solutions Architect Associate" exam)
                     https://www.reddit.com/r/AWSCertifications/comments/uqnn53/ive_heard_the_recommendation_here_to_go_saa_sap/i8sbnj5 (If you REALLY want to get devops with minimal study you should do Dev Asso -> Sysops Asso. -> Devops Pro)
                     https://www.reddit.com/r/AWSCertifications/search/?q=course&restrict_sr=on&t=year (This subreddit focuses solely on AWS Certifications.)
@@ -1647,10 +1649,14 @@ Contents:
 
                 AWS provided resources:
                     https://aws.amazon.com/certification (AWS Certification Official Page)
+                    https://aws.amazon.com/certification/certified-solutions-architect-associate (AWS Certified Solutions Architect – Associate)
                     https://aws.amazon.com/getting-started/hands-on (Find the hands-on tutorials for your AWS needs)
                     https://aws.amazon.com/training/learn-about (Learning by Role or Solution)
+                    https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf (AWS Certified Solutions Architect - Associate (SAA-C03) Exam Guide)
                     https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf (AWS Certified Solutions Architect – Associate (SAA-C02) Exam Guide)
                     https://explore.skillbuilder.aws/learn (Your learning center to build in-demand cloud skills)
+                    https://explore.skillbuilder.aws/learn/course/external/view/elearning/14760/exam-prep-aws-certified-solutions-architect-associate-saa-c03 (Exam Prep Standard Course: AWS Certified Solutions Architect - Associate (SAA-C03))
+                    https://explore.skillbuilder.aws/learn/course/external/view/elearning/14776/exam-prep-aws-certified-solutions-architect-associate-saa-c03-with-practice-material (Exam Prep Enhanced Course: AWS Certified Solutions Architect - Associate (SAA-C03))
                     https://skillbuilder.aws (Learn from AWS experts and build in-demand cloud skills your way)
                     https://www.aws.training (The only set of training programs and offerings built by the experts at AWS.)
 
@@ -4067,8 +4073,10 @@ Contents:
 
         Study Music:
             Sources:
-                https://100best.music.apple.com/us (Apple Music 100 Best Albums)
                 https://askubuntu.com/questions/789465/generate-white-noise-to-calm-a-baby
+                https://en.wikipedia.org/wiki/Apple_Music_100_Best_Albums (Apple Music 100 Best Albums)
+                https://en.wikipedia.org/wiki/Rolling_Stone%27s_500_Greatest_Albums_of_All_Time (Rolling Stone's 500 Greatest Albums of All Time)
+                https://en.wikipedia.org/wiki/Rolling_Stone%27s_500_Greatest_Songs_of_All_Time (Rolling Stone's 500 Greatest Songs of All Time)
                 https://gist.github.com/kristopherjohnson/9f7e3fe61e595ad7cedc (Generate Brown Noise, White Noise, or Pink Noise using SoX)
                 https://lifehacker.com/the-ultimate-list-of-work-and-study-music-1836284255
                 https://news.ycombinator.com/item?id=11146712 (	AI generated music to improve focus, relaxation and sleep (brain.fm))
@@ -4087,7 +4095,6 @@ Contents:
                 https://www.reddit.com/r/ambientmusic/comments/3tuiu7/ambientmusic_voted_your_top_25_ambient_albums
                 https://www.reddit.com/r/ambientmusic/top
                 https://www.reddit.com/r/medicalschool/comments/9m4afb/serious_spotify_playlists_to_listen_to_while
-                https://www.rollingstone.com/music/music-lists/best-songs-of-all-time-1224767
                 https://pinboard.in/u:SharjeelSayed/t:music+study
 
             Sites:
@@ -5239,6 +5246,7 @@ Contents:
         https://drawabox.com (Drawabox is a set of free exercise-based lessons that focus on the fundamentals of drawing)
         https://en.wikipedia.org/wiki/List_of_lists_of_lists
         https://en.wikipedia.org/wiki/List_of_most_valuable_brands (List of most valuable brands)
+        https://en.wikipedia.org/wiki/List_of_tallest_residential_buildings (List of tallest residential buildings)
         https://en.wikipedia.org/wiki/Wikipedia:Vital_articles (Wikipedia:Vital articles)
         https://freenode.net
         https://github.com/antontarasenko/smq/blob/master/reports/hackernews-links-in-comments.md (Most mentioned links in Hacker News comments, 2006–2015)
