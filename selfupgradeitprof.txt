@@ -3945,7 +3945,7 @@ Contents:
                 https://docs.google.com/spreadsheets/d/e/2PACX-1vQDca1iI1GgcMwBl65XRvJaAnZOv6sCjmAamy_7cioVMV4U_VnBksgZrIKTe5P4aneEXtion1ZA7iPe/pubhtml (Pinker Book Recommendations)
                 https://en.wikipedia.org/wiki/BBC_list_of_100_%27most_inspiring%27_novels
                 https://en.wikipedia.org/wiki/Booker_Prize
-                https://en.wikipedia.org/wiki/List_of_best-selling_books
+                https://en.wikipedia.org/wiki/List_of_best-selling_books (List of best-selling books)
                 https://en.wikipedia.org/wiki/List_of_novels_considered_the_greatest_of_all_time
                 https://en.wikipedia.org/wiki/Lists_of_100_best_books
                 https://en.wikipedia.org/wiki/Pulitzer_Prize
@@ -4038,7 +4038,7 @@ Contents:
                 https://books.goalkicker.com (84,815)
                 https://www.ereaderiq.com (121,075)
                 http://freebookspot.es (159,088)
-                https://zlib.zu1k.com (296,107) (Alternate: https://zlib.freedit.eu https://github.com/zlib-searcher/zlib-searcher)
+                https://singlelogin.re
                 https://standardebooks.org/ebooks (683,375)
                 http://breue.com/free_programming_books (1,030,459)
                 https://forcoder.su (1,156,891)
