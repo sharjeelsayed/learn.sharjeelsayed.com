@@ -246,6 +246,7 @@ Contents:
                 https://blog.rutikwankhade.dev/github-repositories-every-aspiring-developer-should-check-out
                 https://codeconfessions.substack.com/p/gpu-computing (What Every Developer Should Know About GPU Computing)
                 https://codingchallenges.fyi (Helping you become a better software engineer through coding challenges that build real applications. https://github.com/CodingChallegesFYI/SharedSolutions Publicly shared solutions to Coding Challenges)
+                https://craftinginterpreters.com (Crafting Interpreters: A handbook for making programming languages by Robert Nystrom)
                 https://dev.to (DEV Community is a community of 1,236,140 amazing developers )
                 https://devdocs.io (DevDocs combines multiple API documentations in a fast, organized, and searchable interface. )
                 https://devtoolstips.org (154 DevTools Tips)
