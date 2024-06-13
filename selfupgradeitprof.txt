@@ -1264,7 +1264,6 @@ Contents:
                 https://snyk.io/blog/10-kubernetes-security-context-settings-you-should-understand (10 Kubernetes Security Context settings you should understand)
                 https://sparkle.adroitcorp.com.au/market (Flashcards)
                 https://sysdig.com/blog/top-owasp-kubernetes (The OWASP Kubernetes Top 10 puts all possible risks in an order of overall commonality or probability.)
-                https://t.me/learnk8s (Telegram channel for learning Kubernetes)
                 https://techbeacon.com/enterprise-it/47-advanced-tutorials-mastering-kubernetes
                 https://tldrsec.com/p/kubernetes-security-threat-informed-defense (Keep Hackers Out of Your Kubernetes Cluster with These 5 Simple Tricks!)
                 https://www.atomiccommits.io/everything-useful-i-know-about-kubectl (Everything Useful I Know About kubectl)
@@ -1428,8 +1427,10 @@ Contents:
             Support Groups:
                 https://discuss.kubernetes.io (The official Kubernetes Discourse instance)
                 https://docs.google.com/forms/d/e/1FAIpQLSfdsupDfOWBtNVvVvXED6ULxtR4UIsYGCH_cQcRr0VcG1ZqQQ/viewform (https://istio.slack.com)
+                https://github.com/palark/awesome-devops-telegram (Telegram channels & groups about DevOps, SRE, and Platform Engineering.)
                 https://kubernauts-slack-join.herokuapp.com
                 https://slack.k8s.io
+                https://t.me/learnk8s (Telegram channel for learning Kubernetes)
                 https://www.fb.com/groups/kubernetes.users
                 https://www.fb.com/kubernetesio
                 https://www.reddit.com/r/kubernetes
