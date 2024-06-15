@@ -531,7 +531,7 @@ Contents:
                 https://devonperoutky.super.site/blog-posts/mediocre-engineers-guide-to-https (A Mediocre Engineer's Guide to HTTPS)
                 https://en.wikipedia.org/wiki/IP_address#Private_addresses
                 https://github.com/bagder/http3-explained (https://http3-explained.haxx.se A document describing the HTTP/3 and QUIC protocols)
-                https://github.com/gchq/CyberChef (The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis)
+                https://github.com/gchq/CyberChef https://gchq.github.io/CyberChef (The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis)
                 https://github.com/kffl/speedbump (TCP proxy for simulating variable, yet predictable network latency 🌐⏳)
                 https://github.com/leandromoreira/linux-network-performance-parameters (Learn where some of the network sysctl variables fit into the Linux/Kernel network flow. Translations: 🇷🇺 )
                 https://github.com/netbox-community/netbox (https://netbox.dev The premier source of truth powering network automation. Open source under Apache 2)
@@ -577,6 +577,9 @@ Contents:
 
                 Network Warrior: Everything You Need to Know That Wasn't on the CCNA Exam 2nd ed. Edition July 2011 by Gary A. Donahue
                     https://www.amazon.com/Network-Warrior-Everything-Wasnt-Exam/dp/1449387861
+
+                TCPIP Illustrated, Volume 1 The Protocols 2nd Edition 2011 by Kevin Fall , W. Stevens Richard
+                    https://www.amazon.com/TCP-Illustrated-Protocols-Addison-Wesley-Professional/dp/0321336313
 
             Other Books and Courses:
                 https://beej.us/guide/bgnet0 (Beej's Guide to Networking Concepts)
@@ -3942,7 +3945,7 @@ Contents:
             Sources:
                 http://booksreddit.com (Using data analysis to get best Reddit books suggestions)
                 http://www.openculture.com/free_textbooks (200 Free Textbooks: A Meta Collection)
-                https://annas-archive.org/datasets (Anna's Archive - The largest truly open library in human history. ⭐️ We mirror Sci-Hub and LibGen. We scrape and open-source Z-Lib, OpenLib, and more. 📈 25,608,184 books, 99,902,163 papers — preserved forever)
+                https://annas-archive.org/datasets https://annas-archive.org/torrents (Anna's Archive - The largest truly open library in human history. ⭐️ We mirror Sci-Hub and LibGen. We scrape and open-source Z-Lib, OpenLib, and more. 📈 25,608,184 books, 99,902,163 papers — preserved forever)
                 https://bookauthority.org (Book recommendations by thought leaders)
                 https://bookinsider.gitlab.io (We present you with the top books on Stack Overflow and other popular Stack Exchange sites.)
                 https://docs.google.com/spreadsheets/d/e/2PACX-1vQDca1iI1GgcMwBl65XRvJaAnZOv6sCjmAamy_7cioVMV4U_VnBksgZrIKTe5P4aneEXtion1ZA7iPe/pubhtml (Pinker Book Recommendations)
