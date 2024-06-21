@@ -1123,7 +1123,7 @@ Contents:
         Docker:
             Sources:
                 https://cheatsheetseries.owasp.org/cheatsheets/Docker_Security_Cheat_Sheet.html
-                https://containersfromthecouch.com
+                https://containersfromthecouch.com (Live streams and videos featuring AWS Container Services and demos. We focus on demos and teaching people how to use different container technologies. ECS, Kubernetes, Cloud Native, and lots of open source tools and tips.)
                 https://devopswithdocker.com (DevOps with Docker Containers for Beginners by University of Helsinki)
                 https://diveintodocker.com (Dive Into Docker The Complete Docker Course for Developers by Nick Janetakis)
                 https://geshan.com.np/blog/2022/05/docker-commands (10 useful Docker commands to get things done with a real-life example)
@@ -1144,11 +1144,12 @@ Contents:
                 https://github.com/myugan/awesome-docker-security (A curated list of awesome Docker security resources)
                 https://github.com/p8952/bocker (Docker implemented in around 100 lines of bash)
                 https://github.com/quay/clair (Vulnerability Static Analysis for Containers)
+                https://github.com/remorses/docker-phobia (Analyze Docker images size)
                 https://github.com/tiangolo/dockerswarm.rocks
                 https://github.com/topics/docker?o=desc&s=stars
-                https://github.com/veggiemonk/awesome-docker
+                https://github.com/veggiemonk/awesome-docker (🐳 A curated list of Docker resources and projects https://awesome-docker.netlify.app)
                 https://github.com/wagoodman/dive (A tool for exploring each layer in a docker image)
-                https://github.com/wsargent/docker-cheat-sheet
+                https://github.com/wsargent/docker-cheat-sheet (Docker Cheat Sheet )
                 https://knowledgepill.it/posts/docker_swarm_compendium (Docker swarm - setup and usage)
                 https://man7.org/linux/man-pages/man7/cgroups.7.html
                 https://man7.org/linux/man-pages/man7/namespaces.7.html
@@ -2530,7 +2531,6 @@ Contents:
                 https://github.com/koekeishiya/yabai (A tiling window manager for macOS based on binary space partitioning)
                 https://github.com/mangerlahn/Latest (https://max.codes/latest A small utility app for macOS that makes sure you know about all the latest updates to the apps you use.)
                 https://github.com/MikeMcQuaid/strap (https://strap.mikemcquaid.com 👢 Bootstrap your macOS development system.)
-                https://github.com/Mortennn/Dozer (Hide menu bar icons on macOS)
                 https://github.com/nextdns/nextdns/wiki/macos (NextDNS CLI client (DoH Proxy) )
                 https://github.com/r-darwish/topgrade (Upgrade everything)
                 https://github.com/rgcr/m-cli ( Swiss Army Knife For Macos)
@@ -2598,7 +2598,6 @@ Contents:
 
             Better Touch Tool:
                 https://community.folivora.ai/c/setup-preset-sharing/5/l/top
-                https://folivora.ai
                 https://github.com/GoldenChaos/GoldenChaos-BTT
                 https://www.reddit.com/r/apple/comments/3ek0o5/share_your_better_touch_tool_gestures
                 https://youtu.be/CCJVbooKspo (Better Touch Tool: In-Depth Tutorial)
@@ -3472,7 +3471,7 @@ Contents:
                 https://www.themuse.com (3,673)
                 https://www.monsterindia.com (4,215)
                 https://www.timesjobs.com (4,719)
-                https://angel.co (5,741)
+                https://wellfound.com (5,741)
                 https://www.flexjobs.com (5,904)
                 https://news.ycombinator.com/jobs (6,806)
                 https://www.freshersworld.com (7,367)
@@ -4610,13 +4609,14 @@ Contents:
 
                 Hacker News:
                     https://apps.apple.com/us/app/hack-for-hacker-news-developer/id1464477788
-                    https://edavis.github.io/hnrss
                     https://github.com/minimaxir/hacker-news-undocumented (Some of the hidden norms about Hacker News not otherwise covered in the Guidelines and the FAQ.)
-                    https://hckrnews.com
-                    https://hn.algolia.com
+                    https://hckrnews.com (an unofficial alternative hacker news interface)
+                    https://hn.algolia.com ((HackerNews Search))
+                    https://hn.wilsonl.in (HackerNews Search)
                     https://hndex.ml (Search the full text of articles posted to Hacker News, with live updating)
                     https://hndex.org (a search engine for finding articles posted to hacker news)
                     https://hnprofile.com ((Find an Expert on Hacker News))
+                    https://hnrss.github.io (Hacker News RSS)
                     https://news.ycombinator.com
                     https://news.ycombinator.com/item?id=25556990 (	HN Alternative UIs (luke.lol))
                     https://readhacker.news
