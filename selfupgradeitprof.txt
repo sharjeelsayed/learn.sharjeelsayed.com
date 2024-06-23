@@ -2928,6 +2928,7 @@ Contents:
                 https://github.com/loettz/interview-process-survival (🌈 🦄 this repository is a interview process guide for developers (web/frontend focused))
                 https://github.com/markodenic/web-development-resources (https://web-dev-resources.com Awesome Web Development Resources.)
                 https://github.com/microsoft/Web-Dev-For-Beginners (24 Lessons, 12 Weeks, Get Started as a Web Developer https://microsoft.github.io/Web-Dev-For-Beginners)
+                https://github.com/requestly/awesome-frontend-resources (A curated collection of awesome resources for frontend developers: tutorials, tools, libraries, design assets, and more!)
                 https://github.com/sadanandpai/frontend-learning-kit (Frontend tech guide and curated collection of frontend materials)
                 https://github.com/thedaviddias/Front-End-Performance-Checklist (🎮 The only Front-End Performance Checklist that runs faster than the others )
                 https://github.com/topics/front-end?o=desc&s=stars
@@ -4303,6 +4304,7 @@ Contents:
                 https://en.wikipedia.org/wiki/List_of_science_magazines (List of science magazines)
                 https://en.wikipedia.org/wiki/Lists_of_important_publications_in_science
                 https://en.wikipedia.org/wiki/Timeline_of_the_evolutionary_history_of_life (Timeline of the evolutionary history of life)
+                https://en.wikipedia.org/wiki/Yakov_Perelman (Yakov Perelman)
                 https://hn.algolia.com/?query=documentaries&sort=byPopularity&prefix&page=0&dateRange=all&type=story (HN Documentaries)
                 https://news.ycombinator.com/item?id=17272715 (Ask HN: Any resources to learn the fundamentals of critical thinking?)
                 https://news.ycombinator.com/item?id=18085765 (Ask HN: What are some of the best documentaries you've seen?)
