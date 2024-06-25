@@ -2285,7 +2285,6 @@ Contents:
                 https://github.com/HACKE-RC/awesome-reversing (A collection of resources to learn Reverse Engineering from start!)
                 https://github.com/hahwul/DevSecOps ( 🔱 Collection and Roadmap for everyone who wants DevSecOps. Hope your DevOps are more safe 😎)
                 https://github.com/hysnsec/awesome-policy-as-code (A curated list of policy-as-code resources like blogs, videos, and tools to practice on for learning Policy-as-Code.)
-                https://github.com/iacsecurity/tool-compare (infrastructure-as-code security tools comparison)
                 https://github.com/iknowjason/Awesome-CloudSec-Labs (Awesome free cloud native security learning labs. Includes CTF, self-hosted workshops, guided vulnerability labs, and research labs.)
                 https://github.com/imthenachoman/How-To-Secure-A-Linux-Server (An evolving how-to guide for securing a Linux server.)
                 https://github.com/instadoodledavid/Infosec-Deals (Ongoing Infosec Deals 2021)
@@ -2297,7 +2296,6 @@ Contents:
                 https://github.com/LetsDefend/SOC-Interview-Questions (SOC Interview Questions)
                 https://github.com/Lissy93/awesome-privacy (🦄 A curated list of privacy & security-focused software and services)
                 https://github.com/Lissy93/personal-security-checklist (https://digital-defense.io 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024)
-                https://github.com/Lissy93/web-check (🌐 All-in-one OSINT tool for analysing any website)
                 https://github.com/mazen160/secrets-patterns-db (Secrets Patterns DB: The largest open-source Database for detecting secrets, API keys, passwords, tokens, and more.)
                 https://github.com/microsoft/Security-101 (https://microsoft.github.io/Security-101 7 Lessons, Kick-start Your Cybersecurity Learning.)
                 https://github.com/mikeprivette/awesome-sec-challenges (A curated list of Awesome Security Challenges.)
@@ -2307,7 +2305,6 @@ Contents:
                 https://github.com/OWASP/CheatSheetSeries (The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.)
                 https://github.com/pluja/awesome-privacy (A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.)
                 https://github.com/qazbnm456/awesome-web-security (🐶 A curated list of Web Security materials and resources)
-                https://github.com/robertdavidgraham/masscan (TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.)
                 https://github.com/sbilly/awesome-security (A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.)
                 https://github.com/security-prince/Application-Security-Engineer-Interview-Questions (Some of the questions which i was asked when i was giving interviews for Application/Product Security roles.)
                 https://github.com/shreyaschavhan/oscp-pre-preparation-plan-and-notes (𝐎𝐒𝐂𝐏 𝐏𝐫𝐞-𝐏𝐫𝐞𝐩𝐚𝐫𝐚𝐭𝐢𝐨𝐧 𝐏𝐥𝐚𝐧 𝐚𝐧𝐝 𝐍𝐨𝐭𝐞𝐬)
@@ -2317,7 +2314,6 @@ Contents:
                 https://github.com/tadwhitaker/Security_Engineer_Interview_Questions (Every Security Engineer Interview Question From Glassdoor.com )
                 https://github.com/TalEliyahu/awesome-security-newsletters (Periodic cyber security newsletters that capture the latest news, summaries of conference talks, research, best practices, tools, events, vulnerabilities, and analysis of trending threats and attacks)
                 https://github.com/tldrsec/awesome-secure-defaults (Awesome secure by default libraries to help you eliminate bug classes!)
-                https://github.com/toniblyx/my-arsenal-of-aws-security-tools (List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.)
                 https://github.com/topics/devsecops?o=desc&s=stars
                 https://github.com/topics/oscp?o=desc&s=stars
                 https://github.com/topics/security?o=desc&s=stars
@@ -2387,12 +2383,16 @@ Contents:
                 https://github.com/cugu/awesome-forensics ( A curated list of awesome forensic analysis tools and resources http://cugu.github.io/awesome-forensics )
                 https://github.com/devsecops/awesome-devsecops (https://www.devsecops.org An authoritative list of awesome devsecops tools with the help from community experiments and contributions.)
                 https://github.com/gchq/CyberChef (https://gchq.github.io/CyberChef The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis)
+                https://github.com/iacsecurity/tool-compare (infrastructure-as-code security tools comparison)
                 https://github.com/infobyte/faraday (https://faradaysec.com Open Source Vulnerability Management Platform)
                 https://github.com/jtesta/ssh-audit (SSH server & client security auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc))
                 https://github.com/Kyuu-Ji/Awesome-Azure-Pentest (A collection of resources, tools and more for penetration testing and securing Microsofts cloud platform Azure.)
+                https://github.com/Lissy93/web-check (🌐 All-in-one OSINT tool for analysing any website)
                 https://github.com/Manisso/fsociety (fsociety Hacking Tools Pack – A Penetration Testing Framework)
                 https://github.com/prowler-cloud/prowler (https://prowler.pro Prowler is an Open Source Security tool for AWS, Azure and GCP to perform Cloud Security best practices assessments, audits, incident response, compliance, continuous monitoring, hardening and forensics readiness. Includes CIS, NIST 800, NIST CSF, CISA, FedRAMP, PCI-DSS, GDPR, HIPAA, FFIEC, SOC2, GXP, Well-Architected Security, ENS and more.)
                 https://github.com/prowler-cloud/prowler (https://prowler.pro Prowler is an Open Source Security tool for AWS, Azure and GCP to perform Cloud Security best practices assessments, audits, incident response, compliance, continuous monitoring, hardening and forensics readiness. Includes CIS, NIST 800, NIST CSF, CISA, FedRAMP, PCI-DSS, GDPR, HIPAA, FFIEC, SOC2, GXP, Well-Architected Security, ENS and more.)
+                https://github.com/robertdavidgraham/masscan (TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.)
+                https://github.com/toniblyx/my-arsenal-of-aws-security-tools (List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.)
                 https://github.com/vm32/Linux-Incident-Response (practical toolkit for cybersecurity and IT professionals. It features a detailed Linux cheatsheet for incident response)
                 https://github.com/vulhub/vulhub (https://vulhub.org Pre-Built Vulnerable Environments Based on Docker-Compose)
                 https://github.com/Z4nzu/hackingtool (ALL IN ONE Hacking Tool For Hackers forms.gle/ntuAX8BGRR5yAb9ZA)
@@ -5162,6 +5162,7 @@ Contents:
                 https://youtu.be/PHis9l8cJks (75 Watch Terms You Need to Know - A Crash Course to Watch Collecting Terminology by Teddy Baldassarre)
                 https://youtu.be/Sy4wusLxTBo (How to Use a Slide Rule on a Watch | Breitling Navitimer by Crown & Caliber by Hodinkee)
                 https://youtu.be/TELYvXbm9SI?si=FZIyiaomx1XXCsmY (The Top 100 GREATEST Watches In The World by Watchfinder & Co.)
+                https://youtu.be/WPLKs6FDpM4?si=0pqoDyQ-Fzjg8SQL (TUDOR Tutorial #12: how to use the GMT function?)
 
             Casio:
                 https://en.wikipedia.org/wiki/Casio_F-91W (Casio F-91W)
