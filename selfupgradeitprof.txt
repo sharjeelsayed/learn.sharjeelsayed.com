@@ -5105,6 +5105,7 @@ Contents:
                 https://editorial.rottentomatoes.com/guide/rt25-critics-top-tv-shows-of-the-last-25-years-2 (RT25: Critics’ Top TV Shows of the Last 25 Years)
                 https://en.wikipedia.org/wiki/AFI%27s_100_Years...100_Movies_(10th_Anniversary_Edition) (AFI's 100 Years...100 Movies (10th Anniversary Edition))
                 https://en.wikipedia.org/wiki/List_of_films_considered_the_best (List of films considered the best)
+                https://en.wikipedia.org/wiki/The_World_at_War (The World at War is a 26-episode British documentary television series that chronicles the events of the Second World War.)
                 https://github.com/greybax/awesome-IT-films (https://alfilatov.com/awesome-IT-films A curated list of awesome films about IT & geek people.)
                 https://github.com/iptv-org/iptv (Collection of publicly available IPTV channels from all over the world)
                 https://news.ycombinator.com/item?id=16105040 (Ask HN: Great science fiction movies?)
@@ -5200,9 +5201,8 @@ Contents:
         Fashion:
             Soruces:
                 https://companiesmarketcap.com/luxury-goods/largest-luxury-goods-companies-by-market-cap (Largest luxury goods companies by market cap)
+                https://en.wikipedia.org/wiki/Herm%C3%A8s#Leather_goods (Hermès Leather Goods)
                 https://en.wikipedia.org/wiki/List_of_fashion_magazines (List of fashion magazines)
-                https://en.wikipedia.org/wiki/List_of_most_valuable_brands (List of most valuable brands)
-                https://en.wikipedia.org/wiki/Lists_of_most_expensive_items_by_category (Lists of most expensive items by category)
                 https://en.wikipedia.org/wiki/Louis_Vuitton (Louis Vuitton)
                 https://en.wikipedia.org/wiki/Luxury_goods (Luxury goods)
                 https://www.reddit.com/r/OUTFITS+femalefashionadvice+fragrance+malefashionadvice
@@ -5221,7 +5221,7 @@ Contents:
                 https://www.marieclaire.com (19,157)
                 https://www.papermag.com (61,040)
 
-        Stuff Worth Paying For:
+    Stuff Worth Paying For:
             https://1password.com
             https://acloudguru.com
             https://db.tt/YL0e12GN # (Dropbox 500 MB of bonus space)
@@ -5256,7 +5256,9 @@ Contents:
         https://drawabox.com (Drawabox is a set of free exercise-based lessons that focus on the fundamentals of drawing)
         https://en.wikipedia.org/wiki/List_of_lists_of_lists
         https://en.wikipedia.org/wiki/List_of_most_valuable_brands (List of most valuable brands)
+        https://en.wikipedia.org/wiki/List_of_most_valuable_brands (List of most valuable brands)
         https://en.wikipedia.org/wiki/List_of_tallest_residential_buildings (List of tallest residential buildings)
+        https://en.wikipedia.org/wiki/Lists_of_most_expensive_items_by_category (Lists of most expensive items by category)
         https://en.wikipedia.org/wiki/Wikipedia:Vital_articles (Wikipedia:Vital articles)
         https://freenode.net
         https://github.com/antontarasenko/smq/blob/master/reports/hackernews-links-in-comments.md (Most mentioned links in Hacker News comments, 2006–2015)
