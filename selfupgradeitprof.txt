@@ -835,6 +835,7 @@ Contents:
                 http://serverfault.com/questions/1046/what-is-the-single-most-influential-book-every-sysadmin-should-read
                 https://github.com/kahun/awesome-sysadmin
                 https://github.com/n1trux/awesome-sysadmin
+                https://github.com/snipe/snipe-it (https://snipeitapp.com A free open source IT asset/license management system)
                 https://github.com/topics/sysadmin?o=desc&s=stars
                 https://www.bookadvice.co/sysadmin.html
                 https://www.reddit.com/r/sysadmin/comments/65u70f/sysadmins_what_are_some_good_it_youtube_channels
@@ -2282,6 +2283,7 @@ Contents:
                 https://github.com/farhanashrafdev/90DaysOfCyberSecurity (This repository contains a 90-day cybersecurity study plan, along with resources and materials for learning various cybersecurity concepts and technologies. The plan is organized into daily tasks, covering topics such as Network+, Security+, Linux, Python, Traffic Analysis, Git, ELK, AWS, Azure, and Hacking. The repository also includes a `LEARN.md )
                 https://github.com/forter/security-101-for-saas-startups (security tips for startups)
                 https://github.com/Gr1mmie/Practical-Ethical-Hacking-Resources (Compilation of Resources from TCM's Practical Ethical Hacking Udemy Course )
+                https://github.com/gracenolan/Notes (Security Engineering at Google: My Interview Study Notes)
                 https://github.com/Hack-with-Github/Awesome-Hacking (A collection of various awesome lists for hackers, pentesters and security researchers)
                 https://github.com/HACKE-RC/awesome-reversing (A collection of resources to learn Reverse Engineering from start!)
                 https://github.com/hahwul/DevSecOps ( 🔱 Collection and Roadmap for everyone who wants DevSecOps. Hope your DevOps are more safe 😎)
@@ -3341,6 +3343,7 @@ Contents:
                     https://github.com/yangshun/front-end-interview-handbook (⚡️ Front End interview preparation materials for busy engineers https://www.frontendinterviewhandbook.com)
 
                 Security Interview Questions:
+                    https://github.com/gracenolan/Notes (Security Engineering at Google: My Interview Study Notes)
                     https://github.com/LetsDefend/SOC-Interview-Questions (SOC Interview Questions)
                     https://github.com/security-prince/Application-Security-Engineer-Interview-Questions (Some of the questions which i was asked when i was giving interviews for Application/Product Security roles.)
                     https://github.com/tadwhitaker/Security_Architect_and_Principal_Security_Engineer_Interview_Questions (Security Architect and Principal Security Engineer Interview Questions)
@@ -3726,7 +3729,10 @@ Contents:
                 http://www.jdawiseman.com/books/pricing-money/Pricing_Money_JDAWiseman.html (Pricing Money A Beginner's Guide to Money, Bonds, Futures and Swaps by J. D. A. Wiseman)
                 https://codewithoutrules.com/2016/08/08/living-below-your-means
                 https://discord.gg/hqBNg4u (/rindiainvestments Discord Channel)
+                https://en.wikipedia.org/wiki/Big_Four_(banking)#India Big Four (banking): India
                 https://en.wikipedia.org/wiki/List_of_cities_by_number_of_billionaires (List of cities by number of billionaires)
+                https://en.wikipedia.org/wiki/List_of_largest_banks (List of largest banks)
+                https://en.wikipedia.org/wiki/List_of_systemically_important_banks#D-SIBs_situated_outside_EEA_or_US_(both_domestic_and_global) List of systemically important banks: D-SIBs situated outside EEA or US (both domestic and global)
                 https://finurls.com
                 https://news.ycombinator.com/item?id=12556160 (Ask HN: What are the must-read books about economics/finance?)
                 https://news.ycombinator.com/item?id=15140182 (A Guide to Crypto Currencies (mycrypto.guide))
