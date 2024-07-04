@@ -1468,6 +1468,9 @@ Contents:
                     https://github.com/nigelpoulton/TheK8sBook (YAML files for use with The Kubernetes Book)
                     https://nigelpoulton.com/for-individuals (Nigel's learning Roadmap:7 Steps to learn Kubernetes and Docker)
 
+                Argo CD Essential Guide for End Users with Practice by Muhammad Abusaa:
+                    https://www.udemy.com/course/argo-cd-essential-guide-for-end-users-with-practice
+
             K8s Visual management: (Sorted by Alexa Rank)
                 https://k8slens.dev (536,393)
                 https://infra.app (1,617,880)
