@@ -1,4 +1,4 @@
-Curated Self Study Guide for Computer Science, DevOps, SRE & SysAdmin
+Curated Self Study Guide for Computer Science, DevOps, SRE, Platform Engineering & SysAdmin
 
     The latest copy of this page is at https://Learn.SharjeelSayed.com . Star/Watch/Fork at https://github.com/sharjeelsayed/learn.sharjeelsayed.com
 
@@ -791,6 +791,9 @@ Contents:
                 https://youtube.com/playlist?list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak (DevOps Bootcamp by Kunal Kushwaha)
 
             Books and Courses:
+                The Ultimate DevOps Bootcamp - 2023 by Mumshad Mannambeth and KodeKloud Training
+                    https://www.udemy.com/course/the-complete-devops-bootcamp
+
                 The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win
                     https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262509
 
@@ -1357,23 +1360,15 @@ Contents:
                     https://kubernetes.io/docs/tutorials/kubernetes-basics (Learn Kubernetes Basics)
                     https://kubernetes.io/training (Kubernetes Training)
 
-                Kubernetes in Action, Second Edition by Marko Lukša (Releasing on August, 2023):
-                    https://www.amazon.com/Kubernetes-Action-Second-Marko-Luk%C5%A1a/dp/1617297615
-                    https://www.manning.com/books/kubernetes-in-action-second-edition
-                    https://livebook.manning.com/book/kubernetes-in-action-second-edition
-                    https://wangwei1237.github.io/Kubernetes-in-Action-Second-Edition
-                    https://github.com/luksa/kubernetes-in-action-2nd-edition
-                    https://www.manning.com/books/kubernetes-in-action
-                    https://livebook.manning.com/book/kubernetes-in-action
-                    https://github.com/luksa/kubernetes-in-action
-
                 Certified Kubernetes Administrator (CKA) with Practice Tests by Mumshad Mannambeth:
                     https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests
-                    https://github.com/kodekloudhub/certified-kubernetes-administrator-course
+                    https://discord.com/channels/1197109182172770304/1197516535271542834 (KodeKloud Community Discord)
+                    https://github.com/kodekloudhub/certified-kubernetes-administrator-course (Certified Kubernetes Administrator - CKA Course)
                     https://github.com/mmumshad/kubernetes-the-hard-way
-                    https://join.slack.com/t/kodekloud/shared_invite/zt-dkvyibo4-A4JPw459fFtqv7OeR7Qg7w
+                    https://join.slack.com/t/kodekloud/shared_invite/zt-dkvyibo4-A4JPw459fFtqv7OeR7Qg7w (kodekloud.slack.com)
                     https://kodekloud.com/p/certified-kubernetes-administrator-with-practice-tests
                     https://kodekloud.com/p/json-path-quiz (JSON PATH Quiz- FREE COURSE)
+                    https://kodekloud.com/pages/community (KodeKloud Community)
                     https://kodekloud.com/purchase?product_id=1521961&coupon_code=UDEMYSTUDENT1718 (Labs - Certified Kubernetes Administrator with Practice Tests)
                     https://www.fb.com/kodekloudtraining
                     https://www.youtube.com/playlist?list=PL2We04F3Y_41lFKy19ig_9u-5Sj_RWTDL (JSON PATH)
@@ -1411,6 +1406,8 @@ Contents:
                 https://www.amazon.com/Kubernetes-Patterns-Reusable-Designing-Applications/dp/1098131681?dib=eyJ2IjoiMSJ9.U8VJw5OlKOIkfyKzlftEKoMZyFVuSXxijQlzdVBaZiU.m989ah07ZkQNvZ_rSMU7uci9vjbQ_bNytmizqOvfl6U&dib_tag=se
 
             CKA/CKAD/CKS:
+                https://docs.linuxfoundation.org/tc-docs/certification/lf-handbook2 (Linux Foundation Certification Handbook)
+                https://docs.linuxfoundation.org/tc-docs/certification/tips-cka-and-ckad (mportant Instructions: CKA and CKAD)
                 https://github.com/cncf/curriculum (https://www.cncf.io/training/courses 📚Open Source Curriculum for CNCF Certification Courses)
                 https://github.com/dgkanatsios/CKAD-exercises (A set of exercises to prepare for Certified Kubernetes Application Developer exam by Cloud Native Computing Foundation )
                 https://github.com/jayendrapatil/kubernetes-exercises (Collection covers kubernetes exercises categorized topics-wise and referred back to the individual Kubernetes certification exams.)
@@ -1427,7 +1424,8 @@ Contents:
                 https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka
                 https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad
                 https://www.amazon.com/Certified-Kubernetes-Administrator-Study-Depth/dp/1098107225 (Certified Kubernetes Administrator (CKA) Study Guide In-Depth Guidance and Practice 1st Edition 2022 by Benjamin Muschko)
-                https://www.cncf.io/certification/training
+                https://www.cncf.io/certification/cka (Certified Kubernetes Administrator (CKA))
+                https://www.cncf.io/certification/training (Cloud Native Training Courses)
                 https://www.reddit.com/r/kubernetes/comments/r4q1ec/ckad_free_materials (CKAD - free materials)
 
             Support Groups:
@@ -1467,6 +1465,16 @@ Contents:
                     https://leanpub.com/thekubernetesbook
                     https://github.com/nigelpoulton/TheK8sBook (YAML files for use with The Kubernetes Book)
                     https://nigelpoulton.com/for-individuals (Nigel's learning Roadmap:7 Steps to learn Kubernetes and Docker)
+
+                Kubernetes in Action, Second Edition by Marko Lukša (Releasing on November 26, 2024):
+                    https://www.amazon.com/Kubernetes-Action-Second-Marko-Luk%C5%A1a/dp/1617297615
+                    https://www.manning.com/books/kubernetes-in-action-second-edition
+                    https://livebook.manning.com/book/kubernetes-in-action-second-edition
+                    https://wangwei1237.github.io/Kubernetes-in-Action-Second-Edition
+                    https://github.com/luksa/kubernetes-in-action-2nd-edition
+                    https://www.manning.com/books/kubernetes-in-action
+                    https://livebook.manning.com/book/kubernetes-in-action
+                    https://github.com/luksa/kubernetes-in-action
 
                 Argo CD Essential Guide for End Users with Practice by Muhammad Abusaa:
                     https://www.udemy.com/course/argo-cd-essential-guide-for-end-users-with-practice
@@ -2139,6 +2147,9 @@ Contents:
 
                 DevOps Beginners to Advanced with Projects - 2023 | Begin DevOps Career As an Absolute Beginner | AWS, Linux, Scripts, Jenkins, Ansible, GitOps, Docker,Kubernetes, & ChatGPT by Imran Teli
                     https://www.udemy.com/course/decodingdevops
+
+                The Ultimate DevOps Bootcamp - 2023 by Mumshad Mannambeth and KodeKloud Training
+                    https://www.udemy.com/course/the-complete-devops-bootcamp
 
                 Rocking DevOps with Jenkins, Kubernetes, Ansible by Rajdeep Saha | Cloud Architect @Fortune10 Company
                     https://www.udemy.com/course/rocking-devops-with-jenkins-kubernetes-ansible
@@ -3733,6 +3744,7 @@ Contents:
                 https://codewithoutrules.com/2016/08/08/living-below-your-means
                 https://discord.gg/hqBNg4u (/rindiainvestments Discord Channel)
                 https://en.wikipedia.org/wiki/Big_Four_(banking)#India Big Four (banking): India
+                https://en.wikipedia.org/wiki/List_of_banks_in_India (List of banks in India)
                 https://en.wikipedia.org/wiki/List_of_cities_by_number_of_billionaires (List of cities by number of billionaires)
                 https://en.wikipedia.org/wiki/List_of_largest_banks (List of largest banks)
                 https://en.wikipedia.org/wiki/List_of_systemically_important_banks#D-SIBs_situated_outside_EEA_or_US_(both_domestic_and_global) List of systemically important banks: D-SIBs situated outside EEA or US (both domestic and global)
