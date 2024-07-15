@@ -4238,6 +4238,7 @@ Contents:
     Miscellaneous:
         Microsoft Excel:
             Sources:
+                https://github.com/saulpw/visidata (https://www.visidata.org A terminal spreadsheet multitool for discovering and arranging data)
                 https://news.ycombinator.com/item?id=12448545 (You Suck at Excel with Joel Spolsky (2015) [video])
                 https://news.ycombinator.com/item?id=38666340 (	Sydney man dubbed the 'Annihilator' wins spreadsheet world championship (theguardian.com))
                 https://www.reddit.com/r/excel/comments/2e28s3/rexcel_advice_thread_repository
