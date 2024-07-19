@@ -969,6 +969,7 @@ Contents:
                 https://github.com/alexanderepstein/Bash-Snippets (A collection of small bash scripts for heavy terminal users)
                 https://github.com/anordal/shellharden/blob/master/how_to_do_things_safely_in_bash.md (Safe ways to do things in bash)
                 https://github.com/Bash-it/bash-it (Bash-it is a collection of community Bash commands and scripts for Bash 3.2+.)
+                https://github.com/bobbyiliev/introduction-to-bash-scripting (https://ebook.bobby.sh Free Introduction to Bash Scripting eBook)
                 https://github.com/cheat/cheat (cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not frequently enough to remember.)
                 https://github.com/ChrisBuilds/terminaltexteffects (Visual effects applied to text in the terminal.)
                 https://github.com/dylanaraps/pure-bash-bible (📖 A collection of pure bash alternatives to external processes.)
@@ -3068,7 +3069,8 @@ Contents:
                 https://receive-sms-free.cc (Receive SMS online anonymously and fast, without register or a mobile phone)
                 https://www.chargerlab.com/apple-iphone-15-pro-max-charging-test-chargerlab-compatibility-100 (iPhone 15 Pro Max Charging Test)
                 https://www.gizchina.com/2024/02/08/smartphones-2023-top-sellers (Canalys Reveals: Top 10 Shipped Smartphones Worldwide in 2023)
-                https://www.theverge.com/23674658/best-android-phone (The best Android phone to buy in 2023)
+                https://www.reddit.com/r/Android+GalaxyS24Ultra+androidapps+samsung (Android, Galaxy S24 Ultra, Android Apps, Samsung Subreddits)
+                https://www.theverge.com/23674658/best-android-phone (The best Android phones)
                 https://youtu.be/JkRXhe3KaPE?si=wD_r_g37Gl9k9Jkd (Smartphone Awards 2023!)
                 https://youtu.be/VRoTOE3FqT0?si=N13q0Zf5PxSbWFfm (The Blind Smartphone Camera Test Winners! 2023)
 
@@ -3224,6 +3226,7 @@ Contents:
                 Sources:
                     https://blog.jetbrains.com/idea/2022/10/top-underrated-shortcuts (Top Underrated Shortcuts in IntelliJ IDEA)
                     https://blog.jetbrains.com/platform/2023/02/top-10-plugins-for-intellij-based-ides (Top 10 Plugins for IntelliJ-based IDEs)
+                    https://github.com/XGilmar/JetBrains-reset-trial-app
 
                 Extensions:
                     https://plugins.jetbrains.com/plugin/10080-rainbow-brackets
@@ -4632,7 +4635,7 @@ Contents:
                         https://www.reddit.com/r/dataisbeautiful/comments/18fvw7v/oc_top_50_subreddits_with_the_most_new_posts_per ([OC] Top 50 subreddits with the most new posts per day and most comments per post (December 2023))
 
                     Subscriptions:
-                        https://old.reddit.com/r/1Password+ABCDesis+AWSCertifications+Alfred+Android+AppHookup+AppleWatch+BuyItForLife+DataHoarder+Documentaries+ExperiencedDevs+Flights+FreeEBOOKS+ITCareerQuestions+IndiaInvestments+KindleFreebies+Piracy+Terraform+Ubuntu+Upwork+Watches+announcements+ansible+antiwork+apple+appletv+askscience+aws+beta+compsci+cscareerquestions+dataisbeautiful+developersIndia+devops+diabetes+docker+freelance+geopolitics+gshock+india+ipad+iphone+jobs+kindle+kubernetes+learnprogramming+linux+linuxadmin+mac+macapps+movies+netsec+networking+nextdns+onebag+osx+programming+rolex+science+solotravel+sysadmin+technews+technology+television+todayilearned+todoist+travel+usefulscripts+watchesindia+webdev+worldnews
+                        https://old.reddit.com/r/1Password+ABCDesis+AWSCertifications+Alfred+Android+AppHookup+AppleWatch+BuyItForLife+DataHoarder+Documentaries+ExperiencedDevs+Flights+FreeEBOOKS+GalaxyS24Ultra+ITCareerQuestions+IndiaInvestments+KindleFreebies+Piracy+Terraform+Ubuntu+Upwork+Watches+androidapps+announcements+ansible+antiwork+apple+appletv+askscience+aws+beta+compsci+cscareerquestions+dataisbeautiful+developersIndia+devops+diabetes+docker+freelance+geopolitics+gshock+india+ipad+iphone+jobs+kindle+kubernetes+learnprogramming+linux+linuxadmin+mac+macapps+movies+netsec+networking+nextdns+onebag+osx+programming+rolex+samsung+science+solotravel+sysadmin+technews+technology+television+todayilearned+todoist+travel+usefulscripts+watchesindia+webdev+worldnews
 
                 Hacker News:
                     https://apps.apple.com/us/app/hack-for-hacker-news-developer/id1464477788
