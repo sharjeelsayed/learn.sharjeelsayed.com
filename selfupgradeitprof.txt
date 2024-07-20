@@ -3080,6 +3080,13 @@ Contents:
                 https://github.com/skydoves/android-developer-roadmap (🗺 The Android Developer Roadmap offers comprehensive learning paths to help you understand Android ecosystems.)
                 https://www.kodeco.com (Learn iOS and Swift, Android and Kotlin & Dart and Flutter development with the largest and highest-quality catalog of video courses and books on the Internet.)
 
+            Samsung Galaxy S24 Ultra:
+                https://youtu.be/seFmhKVmzbg?si=WEA5pytUB5_pSs_E (17 Killer Features Only PRO Galaxy Users Know! ( One Ui6.1 )) by WhatGear
+                https://youtu.be/unNeWXBIqos?si=YzjiDfmt9vgZ8Enn (Galaxy S24 - First Things To Do! ( Tips & Tricks )) by WhatGear
+                https://youtu.be/qKC2tlsfBSg?si=aJ1viRSHwZAYn65J (Galaxy S24 Ultra - Change These Settings Immediately) by Jimmy is Promo
+                https://youtu.be/2z4kmas8ztM?si=1a8mXWmiSHZzF89n (TOP 24+ SAMSUNG GALAXY S24, S24 PLUS & S24 ULTRA Tips, Tricks - Hidden & Advanced Features) by This is Tech Today
+                https://www.reddit.com/r/GalaxyS24Ultra+samsung (Galaxy S24 Ultra Samsung Subreddits)
+
         AI and Machine Learning:
             Sources:
                 https://arc.net/folder/D0472A20-9C20-4D3F-B145-D2865C0A9FEE (Ilya Sutskever gave John Carmack this reading list of approx 30 research papers and said, ‘If you really learn all of these, you’ll know 90% of what matters today.’)
