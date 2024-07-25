@@ -335,7 +335,7 @@ Contents:
                 https://people.freebsd.org/~lstewart/articles/cpumemory.pdf (What Every Programmer Should Know About Memory)
                 https://samwho.dev/numbers (Latency Numbers Every Programmer Should Know)
                 https://softwareengineeringdaily.com
-                https://survey.stackoverflow.co/2023 (Stackoverflow 2023 Developer Survey)
+                https://survey.stackoverflow.co/2024 (Stackoverflow 2024 Developer Survey)
                 https://tldrlegal.com (Software Licenses in Plain English)
                 https://wizardzines.com/comics (programming zines by Julia Evans)
                 https://www.discoverdev.io (Discover dev brings you a daily digest of the best engineering blogs from across the web! Handpicked by AI and a network of globally distributed nerds!)
@@ -3086,6 +3086,7 @@ Contents:
                 https://youtu.be/qKC2tlsfBSg?si=aJ1viRSHwZAYn65J (Galaxy S24 Ultra - Change These Settings Immediately) by Jimmy is Promo
                 https://youtu.be/2z4kmas8ztM?si=1a8mXWmiSHZzF89n (TOP 24+ SAMSUNG GALAXY S24, S24 PLUS & S24 ULTRA Tips, Tricks - Hidden & Advanced Features) by This is Tech Today
                 https://www.reddit.com/r/GalaxyS24Ultra+samsung (Galaxy S24 Ultra Samsung Subreddits)
+                https://youtu.be/xr6-FJJiXHI?si=Ts-ryjEKgSV6Aueq (Galaxy S24 Ultra - First Things to Do! (Tips & Tricks)) by Pete Matheson
 
         AI and Machine Learning:
             Sources:
