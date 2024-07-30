@@ -239,6 +239,7 @@ Contents:
                 http://programming-motherfucker.com/become.html  (Become a Programmer)
                 http://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read
                 http://www.flyingmachinestudios.com/programming/learn-programming-languages-efficiently
+                https://0xinfection.github.io/reversing ( Reverse Engineering For Everyone! — by @mytechnotalent )
                 https://12factor.net (The twelve-factor methodology)
                 https://abseil.io/resources/swe-book (Software Engineering at Google)
                 https://austinhenley.com/blog/challengingprojects.html (Challenging Projects Every Programmer Should Try)
@@ -2303,6 +2304,7 @@ Contents:
                 https://github.com/gracenolan/Notes (Security Engineering at Google: My Interview Study Notes)
                 https://github.com/Hack-with-Github/Awesome-Hacking (A collection of various awesome lists for hackers, pentesters and security researchers)
                 https://github.com/HACKE-RC/awesome-reversing (A collection of resources to learn Reverse Engineering from start!)
+                https://github.com/HadessCS/Red-team-Interview-Questions (Red team Interview Questions)
                 https://github.com/hahwul/DevSecOps ( 🔱 Collection and Roadmap for everyone who wants DevSecOps. Hope your DevOps are more safe 😎)
                 https://github.com/hysnsec/awesome-policy-as-code (A curated list of policy-as-code resources like blogs, videos, and tools to practice on for learning Policy-as-Code.)
                 https://github.com/iknowjason/Awesome-CloudSec-Labs (Awesome free cloud native security learning labs. Includes CTF, self-hosted workshops, guided vulnerability labs, and research labs.)
@@ -3067,7 +3069,7 @@ Contents:
             Sources:
                 https://esimdb.com (Find the best prepaid eSIM plans for your travel destination)
                 https://receive-sms-free.cc (Receive SMS online anonymously and fast, without register or a mobile phone)
-                https://www.chargerlab.com/apple-iphone-15-pro-max-charging-test-chargerlab-compatibility-100 (iPhone 15 Pro Max Charging Test)
+                https://www.chargerlab.com/apple-iphone-15-pro-max-charging-test-chargerlab-compatibility-100 (Apple iPhone 15 Pro Max Charging Test - ChargerLAB Compatibility 100) https://youtu.be/gHO7G7TzPAI?si=LEZUo6d-JOiRhDsx (How Fast Apple iPhone 15 Pro Max Is Charged? - ChargerLAB Compatibility 100)
                 https://www.gizchina.com/2024/02/08/smartphones-2023-top-sellers (Canalys Reveals: Top 10 Shipped Smartphones Worldwide in 2023)
                 https://www.reddit.com/r/Android+GalaxyS24Ultra+androidapps+samsung (Android, Galaxy S24 Ultra, Android Apps, Samsung Subreddits)
                 https://www.theverge.com/23674658/best-android-phone (The best Android phones)
@@ -3090,9 +3092,11 @@ Contents:
 
         AI and Machine Learning:
             Sources:
+                http://nlp.seas.harvard.edu/annotated-transformer (The Annotated Transformer Attention is All You Need)
                 https://arc.net/folder/D0472A20-9C20-4D3F-B145-D2865C0A9FEE (Ilya Sutskever gave John Carmack this reading list of approx 30 research papers and said, ‘If you really learn all of these, you’ll know 90% of what matters today.’)
                 https://bbycroft.net/llm (A 3D animated visualization of an LLM with a walkthrough)
                 https://danielmiessler.com/p/get-samantha-tars-interstellar-iphoneandroid (How to Get Samantha from Her or TARS from Interstellar on Your iPhone/Android)
+                https://e2eml.school/transformers.html (Transformers from Scratch)
                 https://en.wikipedia.org/wiki/Large_language_model (Large language model)
                 https://fleuret.org/public/lbdl.pdf (The Little Book of Deep Learning by François Fleuret)
                 https://github.com/ai-boost/Awesome-GPTs (Curated list of awesome GPTs 👍.)
@@ -3161,6 +3165,7 @@ Contents:
                 https://www.deeplearning.ai/courses/generative-ai-for-everyone (Generative AI for Everyone Instructed by Andrew Ng)
                 https://www.deeplearningbook.org (Deep Learning (Adaptive Computation and Machine Learning series) by Ian Goodfellow and Yoshua Bengio and Aaron Courville https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618)
                 https://www.youtube.com/playlist?app=desktop&list=PLoROMvodv4rNyWOpJg_Yh4NSqI4Z4vOYy (Stanford CS229: Machine Learning I Spring 2022)
+                https://youtu.be/kCc8FmEb1nY?si=mhTGB4fgUbg1B9Pq (Let's build GPT: from scratch, in code, spelled out. by Andrej Karpathy)
 
         IDE:
             Sources:
@@ -3371,6 +3376,7 @@ Contents:
 
                 Security Interview Questions:
                     https://github.com/gracenolan/Notes (Security Engineering at Google: My Interview Study Notes)
+                    https://github.com/HadessCS/Red-team-Interview-Questions (Red team Interview Questions)
                     https://github.com/LetsDefend/SOC-Interview-Questions (SOC Interview Questions)
                     https://github.com/security-prince/Application-Security-Engineer-Interview-Questions (Some of the questions which i was asked when i was giving interviews for Application/Product Security roles.)
                     https://github.com/tadwhitaker/Security_Architect_and_Principal_Security_Engineer_Interview_Questions (Security Architect and Principal Security Engineer Interview Questions)
