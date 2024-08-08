@@ -5200,14 +5200,25 @@ Contents:
                 https://www.reddit.com/r/Watches/wiki/faq (r/Watches FAQ)
                 https://www.reddit.com/r/watchesindia (Watches India - Reddit's First & India's Most Loved Online Watch Community.)
                 https://www.statista.com/statistics/789382/leading-luxury-watch-brands-sales (Sales revenue of the leading luxury watch brands worldwide in 2022)
-                https://www.tudorwatch.com/en/watches/black-bay-gmt/m79830rb-0001 (Tudor Black Bay GMT)
                 https://youtu.be/-1PvBADfQ0s (Top 20 Swiss Watch Brands According To Statistics - Watch Market Update 2023 by Teddy Baldassarre)
                 https://youtu.be/f82nPwGgUDE?si=mqdLLSPyN2qgNgtB (Our Most Worn Watches Of The Year (Over 30 Channels Mentioned))
                 https://youtu.be/fMncXiA-AuE (Tachymeter Explained! (5 examples) by Erik Ternsjö)
                 https://youtu.be/PHis9l8cJks (75 Watch Terms You Need to Know - A Crash Course to Watch Collecting Terminology by Teddy Baldassarre)
                 https://youtu.be/Sy4wusLxTBo (How to Use a Slide Rule on a Watch | Breitling Navitimer by Crown & Caliber by Hodinkee)
                 https://youtu.be/TELYvXbm9SI?si=FZIyiaomx1XXCsmY (The Top 100 GREATEST Watches In The World by Watchfinder & Co.)
-                https://youtu.be/WPLKs6FDpM4?si=0pqoDyQ-Fzjg8SQL (TUDOR Tutorial #12: how to use the GMT function?)
+
+            Rolex:
+                Roles Sky-Dweller:
+                    https://watchcharts.com/watch_model/46509-rolex-336235/overview
+                    https://www.rolex.com/watches/sky-dweller/m336235-0002
+                    https://www.swisswatchexpo.com/thewatchclub/2024/02/02/history-of-the-rolex-sky-dweller
+                    https://youtu.be/O1KUXPDmu8k?si=xh9UZYiDy81Yj4Hk (How to set your Sky-Dweller)
+
+            Tudor:
+                Tudor Black Bay GMT:
+                    https://watchcharts.com/watch_model/1361-tudor-black-bay-gmt-79830rb/overview
+                    https://www.tudorwatch.com/en/watches/black-bay-gmt/m79830rb-0001 (Tudor Black Bay GMT)
+                    https://youtu.be/WPLKs6FDpM4?si=0pqoDyQ-Fzjg8SQL (TUDOR Tutorial #12: how to use the GMT function?)
 
             Casio:
                 https://en.wikipedia.org/wiki/Casio_F-91W (Casio F-91W)
@@ -5225,17 +5236,19 @@ Contents:
                 https://youtu.be/jkypmuyw08s?si=evlnNmU00hGk8Fj1 (🌐 Multi-Band 6 WITHOUT Tower 📡 Clock Wave App 🕙 by GOAT Reviews)
 
             Omega:
-                https://en.wikipedia.org/wiki/Omega_Seamaster (Omega Seamaster)
-                https://en.wikipedia.org/wiki/Omega_Speedmaster (Omega Speedmaster)
-                https://watchcharts.com/watch_model/30921-omega-speedmaster-professional-moonwatch-310-30-42-50-01-002 (Market Watch Analysis for  Omega 310.30.42.50.01.002 Speedmaster Professional Moonwatch (Sapphire Crystal)
-                https://watchcharts.com/watch_model/4706-omega-210-90-42-20-01-001 (Market Watch Analysis for Omega 210.90.42.20.01.001 Seamaster NTTD)
-                https://www.omegawatches.com/media/pdf/user-manuals/OMEGA_User_Manual_EN.pdf (Omega User Manual)
-                https://www.omegawatches.com/planet-omega/cinema/james-bond (Planet Omega James Bond)
-                https://www.omegawatches.com/watch-omega-seamaster-diver-300m-co-axial-master-chronometer-42-mm-21090422001001 (Omega Seamaster Diver 300M Co‑Axial Master Chronometer 42 mm 007 Edition)
-                https://www.omegawatches.com/watch-omega-speedmaster-moonwatch-professional-co-axial-master-chronometer-chronograph-42-mm-31030425001002 (Omega Speedmaster Moonwatch Professional Co‑Axial Master Chronometer Chronograph 42 mm)
-                https://youtu.be/gS92QnF2e4o (How to attach your OMEGA NATO strap - Video Manual by Omega)
-                https://youtu.be/mtFwjY_rjYI (OMEGA Seamaster Diver 300M Calibre 2500/2507 - Video Manual by Omega)
-                https://youtu.be/wC9gBMk7_ss (IN-DEPTH Guide - Everything You Need To Know About The OMEGA Co-Axial Escapement by Monochrome Watches)
+                Sources:
+                    https://youtu.be/wC9gBMk7_ss (IN-DEPTH Guide - Everything You Need To Know About The OMEGA Co-Axial Escapement by Monochrome Watches)
+
+                Omega Speedmaster:
+                    https://www.omegawatches.com/watch-omega-speedmaster-moonwatch-professional-co-axial-master-chronometer-chronograph-42-mm-31030425001002 (Omega Speedmaster Moonwatch Professional Co‑Axial Master Chronometer Chronograph 42 mm)
+                    https://watchcharts.com/watch_model/30921-omega-speedmaster-professional-moonwatch-310-30-42-50-01-002 (Market Watch Analysis for  Omega 310.30.42.50.01.002 Speedmaster Professional Moonwatch (Sapphire Crystal)
+                    https://www.omegawatches.com/media/pdf/user-manuals/OMEGA_User_Manual_EN.pdf
+                    https://en.wikipedia.org/wiki/Omega_Speedmaster (Omega Speedmaster)
+
+                Omega Seamaster:
+                    https://en.wikipedia.org/wiki/Omega_Seamaster (Omega Seamaster)
+                    https://www.omegawatches.com/watch-omega-seamaster-diver-300m-co-axial-master-chronometer-42-mm-21090422001001 (Omega Seamaster Diver 300M Co‑Axial Master Chronometer 42 mm 007 Edition)
+                    https://watchcharts.com/watch_model/4706-omega-210-90-42-20-01-001 (Market Watch Analysis for Omega 210.90.42.20.01.001 Seamaster NTTD)
 
             Seiko 5:
                 https://www.seikowatches.com/in-en/products/5sports/lineup (Seiko 5 Sports Lineup)
