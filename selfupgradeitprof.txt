@@ -1657,6 +1657,7 @@ Contents:
                     https://www.freecram.net/vendor/Amazon.html (Free Amazon Certifications Exam Questions)
                     https://www.reddit.com/r/AWSCertifications/comments/18woit6/2024_aws_vouchers_exam_discounts_other (2024 : AWS Vouchers / Exam Discounts / Other Certification related promotions)
                     https://www.reddit.com/r/AWSCertifications/comments/1d5kkuw/aws_certified_solutions_architect_associate (AWS Certified Solutions Architect Associate (SAA-C03) Resources)
+                    https://www.reddit.com/r/AWSCertifications/comments/1es74l4/aws_offering_50_discount_for_associate_exams (AWS offering 50% discount for Associate exams Deadline 12 December 2024)
                     https://www.reddit.com/r/AWSCertifications/comments/pcj2nk/free_learning_resources_needed_for_aws_solutions/haje9xi (Free Learning Resources needed for "AWS Solutions Architect Associate" exam)
                     https://www.reddit.com/r/AWSCertifications/comments/uqnn53/ive_heard_the_recommendation_here_to_go_saa_sap/i8sbnj5 (If you REALLY want to get devops with minimal study you should do Dev Asso -> Sysops Asso. -> Devops Pro)
                     https://www.reddit.com/r/AWSCertifications/search/?q=course&restrict_sr=on&t=year (This subreddit focuses solely on AWS Certifications.)
@@ -2541,12 +2542,11 @@ Contents:
                 https://allblackscreen.com (Make your screen black)
                 https://alt-tab-macos.netlify.app (AltTab brings the power of Windows’s “alt-tab” window switcher to macOS)
                 https://apps.apple.Com/app/amphetamine/id937984704 (Amphetamine 4+ Powerful Keep-Awake Utility)
-                https://bjango.com/mac/istatmenus (An advanced Mac monitor system monitor for your menu bar)
                 https://cleanshot.com (Capture your Mac’s screen like a pro.)
                 https://devutils.app (Offline Toolbox for Developers)
                 https://draculatheme.com (A dark theme)
                 https://dynamicwallpaper.club/gallery?section=best (Dynamic Wallpaper Club)
-                https://flexibits.Com/fantastical
+                https://flexibits.Com/fantastical (Calendar App)
                 https://folivora.ai/keyboardcleantool (A super simple little tool which blocks all Keyboard and TouchBar input)
                 https://github.com/actuallymentor/battery (CLI for managing the battery charging status for M1 Macs)
                 https://github.com/caldis/mos (A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS )
@@ -5199,13 +5199,12 @@ Contents:
                 https://www.reddit.com/r/Watches/wiki/brandguide (/r/Watches Brand Guide)
                 https://www.reddit.com/r/Watches/wiki/faq (r/Watches FAQ)
                 https://www.reddit.com/r/watchesindia (Watches India - Reddit's First & India's Most Loved Online Watch Community.)
+                https://www.secondmovement.com (India’s greatest collection of certified pre-owned luxury watches and accessories)
                 https://www.statista.com/statistics/789382/leading-luxury-watch-brands-sales (Sales revenue of the leading luxury watch brands worldwide in 2022)
-                https://youtu.be/-1PvBADfQ0s (Top 20 Swiss Watch Brands According To Statistics - Watch Market Update 2023 by Teddy Baldassarre)
                 https://youtu.be/f82nPwGgUDE?si=mqdLLSPyN2qgNgtB (Our Most Worn Watches Of The Year (Over 30 Channels Mentioned))
                 https://youtu.be/fMncXiA-AuE (Tachymeter Explained! (5 examples) by Erik Ternsjö)
                 https://youtu.be/PHis9l8cJks (75 Watch Terms You Need to Know - A Crash Course to Watch Collecting Terminology by Teddy Baldassarre)
                 https://youtu.be/Sy4wusLxTBo (How to Use a Slide Rule on a Watch | Breitling Navitimer by Crown & Caliber by Hodinkee)
-                https://youtu.be/TELYvXbm9SI?si=FZIyiaomx1XXCsmY (The Top 100 GREATEST Watches In The World by Watchfinder & Co.)
 
             Rolex:
                 Roles Sky-Dweller:
