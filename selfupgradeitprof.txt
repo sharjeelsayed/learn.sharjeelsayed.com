@@ -3508,7 +3508,7 @@ Contents:
                 https://www.fresherslive.com (2,193)
                 https://www.shine.com (2,988)
                 https://www.themuse.com (3,673)
-                https://www.monsterindia.com (4,215)
+                https://www.foundit.in (4,215)
                 https://www.timesjobs.com (4,719)
                 https://wellfound.com (5,741)
                 https://www.flexjobs.com (5,904)
@@ -3530,7 +3530,7 @@ Contents:
                 https://snaphunt.com (48,339)
                 https://powertofly.com (96,425)
                 https://www.michaelpage.co.in (98,471)
-                https://www.jobleads.de (99,051)
+                https://www.jobleads.com (99,051)
                 https://www.workingnomads.co/jobs (128,494)
                 https://relocate.me (155,692)
                 https://himalayas.app (158,672)
@@ -4650,7 +4650,7 @@ Contents:
                         https://www.reddit.com/r/dataisbeautiful/comments/18fvw7v/oc_top_50_subreddits_with_the_most_new_posts_per ([OC] Top 50 subreddits with the most new posts per day and most comments per post (December 2023))
 
                     Subscriptions:
-                        https://old.reddit.com/r/1Password+ABCDesis+AWSCertifications+Alfred+Android+AppHookup+AppleWatch+DataHoarder+Documentaries+ExperiencedDevs+Flights+FreeEBOOKS+GalaxyS24Ultra+ITCareerQuestions+IndiaInvestments+KindleFreebies+Piracy+Terraform+Ubuntu+Upwork+Watches+androidapps+announcements+ansible+antiwork+apple+appletv+askscience+aws+beta+compsci+cscareerquestions+dataisbeautiful+developersIndia+devops+diabetes+docker+geopolitics+india+ipad+iphone+kubernetes+learnprogramming+linux+linuxadmin+mac+macapps+movies+netsec+networking+nextdns+onebag+osx+programming+rolex+samsung+science+solotravel+sysadmin+technews+technology+television+todayilearned+todoist+travel+usefulscripts+watchesindia+webdev+worldnews
+                        https://old.reddit.com/r/1Password+ABCDesis+AWSCertifications+Alfred+Android+AppHookup+AppleWatch+Cartier+DataHoarder+Documentaries+ExperiencedDevs+Flights+FreeEBOOKS+GalaxyS24Ultra+ITCareerQuestions+IndiaInvestments+KindleFreebies+OmegaWatches+Piracy+Terraform+Ubuntu+Upwork+Watches+androidapps+announcements+ansible+antiwork+apple+appletv+askscience+aws+beta+compsci+cscareerquestions+dataisbeautiful+developersIndia+devops+diabetes+docker+geopolitics+india+ipad+iphone+kubernetes+learnprogramming+linux+linuxadmin+mac+macapps+movies+netsec+networking+nextdns+onebag+osx+patekphilippe+programming+rolex+samsung+science+solotravel+sysadmin+technews+technology+television+todayilearned+todoist+travel+usefulscripts+watchesindia+webdev+worldnews
 
                 Hacker News:
                     https://apps.apple.com/us/app/hack-for-hacker-news-developer/id1464477788
@@ -5171,6 +5171,7 @@ Contents:
             Sources:
                 https://ciechanow.ski/mechanical-watch (Mechanical Watch)
                 https://en.wikipedia.org/wiki/Coaxial_escapement (Coaxial escapement)
+                https://en.wikipedia.org/wiki/COSC (Contrôle officiel suisse des Chronomètres (COSC))
                 https://en.wikipedia.org/wiki/Diving_watch (Diving watch)
                 https://en.wikipedia.org/wiki/G%C3%A9rald_Genta (Gérald Genta)
                 https://en.wikipedia.org/wiki/Helium_release_valve (Helium release valve)
@@ -5179,7 +5180,6 @@ Contents:
                 https://en.wikipedia.org/wiki/Patek_Philippe (Patek Philippe)
                 https://en.wikipedia.org/wiki/Reference_57260 (Vacheron Constantin Reference 57260 : The Most Complicated Watch Ever Made)
                 https://en.wikipedia.org/wiki/Spring_Drive (Spring Drive)
-                https://en.wikipedia.org/wiki/Tourbillon (Tourbillon)
                 https://instagram.com/superwatchman (Instagram's Most Followed Celebrity Watch Page 🏆)
                 https://monochrome-watches.com/industry-news-top-50-swiss-watch-companies-of-2023-according-to-morgan-stanley-rolex-breaking-the-chf-10-billion-barrier (The Top 50 Swiss Watch Companies of 2023 According to Morgan Stanley)
                 https://quillandpad.com/2021/03/19/the-diving-bezel-the-most-versatile-watch-complication-even-if-youre-not-a-diver (The Diving Bezel: The Most Versatile Watch Complication, Even If You’re Not A Diver)
@@ -5192,14 +5192,13 @@ Contents:
                 https://www.hodinkee.com/articles/think-you-can-name-every-single-watch-thats-ever-gone-to-space (Interview Think You Can Name Every Single Watch That's Ever Gone To Space? There are 1,899 of them. Meet the man that's cataloging them all in one database.)
                 https://www.looria.com/reddit/Watches/products (Most discussed products on r/Watches)
                 https://www.luxepolis.com/pre-owned-watches-and-new-luxury-designer-watches (New & Pre-Owned Luxury Watches)
+                https://www.reddit.com/r/Cartier+OmegaWatches+VacheronConstantin+Watches+audemarspiguet+gshock+patekphilippe+richardmille+rolex+watchesindia (Reddit's Most Popular Watch Brands)
                 https://www.reddit.com/r/Watches/comments/4mp3w7/resources_ive_compiled_all_the_best_documentaries ([Resources] I've compiled all the best documentaries, videos, books, channels, websites, and more about watches, movements, watch history, and watch culture. Great resources for newbies and veterans. 100+ videos, 15+ books, etc. I hope the community finds this useful!)
                 https://www.reddit.com/r/Watches/comments/sqr6c8/meta_i_analyzed_the_top_500_posts_of_all_time ([META] I analyzed the top 500 posts of all time. Here are the 15 most popular brands by some metrics)
                 https://www.reddit.com/r/Watches/comments/xfw4q2/meta_i_analyzed_the_most_popular_watches_on ([Meta] I analyzed the most popular watches on Reddit (r/Watches))
                 https://www.reddit.com/r/Watches/comments/zw86rq/myth_busting_i_talked_to_my_watchmaker_about ([Myth Busting] I talked to my watchmaker about water resistance…)
                 https://www.reddit.com/r/Watches/wiki/brandguide (/r/Watches Brand Guide)
                 https://www.reddit.com/r/Watches/wiki/faq (r/Watches FAQ)
-                https://www.reddit.com/r/watchesindia (Watches India - Reddit's First & India's Most Loved Online Watch Community.)
-                https://www.secondmovement.com (India’s greatest collection of certified pre-owned luxury watches and accessories)
                 https://www.statista.com/statistics/789382/leading-luxury-watch-brands-sales (Sales revenue of the leading luxury watch brands worldwide in 2022)
                 https://youtu.be/f82nPwGgUDE?si=mqdLLSPyN2qgNgtB (Our Most Worn Watches Of The Year (Over 30 Channels Mentioned))
                 https://youtu.be/fMncXiA-AuE (Tachymeter Explained! (5 examples) by Erik Ternsjö)
@@ -5316,6 +5315,7 @@ Contents:
         https://en.wikipedia.org/wiki/List_of_most_valuable_brands (List of most valuable brands)
         https://en.wikipedia.org/wiki/List_of_tallest_residential_buildings (List of tallest residential buildings)
         https://en.wikipedia.org/wiki/Lists_of_most_expensive_items_by_category (Lists of most expensive items by category)
+        https://en.wikipedia.org/wiki/Valeriepieris_circle (A Valeriepieris circle[1][2][3] is a figure drawn on the Earth's surface such that the majority of the human population lives within its interior.)
         https://en.wikipedia.org/wiki/Wikipedia:Vital_articles (Wikipedia:Vital articles)
         https://freenode.net
         https://github.com/antontarasenko/smq/blob/master/reports/hackernews-links-in-comments.md (Most mentioned links in Hacker News comments, 2006–2015)
