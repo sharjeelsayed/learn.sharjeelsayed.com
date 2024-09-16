@@ -2386,6 +2386,7 @@ Contents:
                 https://www.edx.org/learn/cybersecurity (Explore cybersecurity courses and certificates)
                 https://www.macchaffee.com/blog/2022/k8s-under-documented-security-tips (Kubernetes Under-Documented Security Tips)
                 https://www.netmeister.org/blog/infosec-competencies.html ((Technical) Infosec Core Competencies)
+                https://www.nsa.gov/Podcast (“NSA is known as home to the world’s greatest codemakers and codebreakers—their stories are now being decoded.)
                 https://www.nsa.gov/Press-Room/News-Highlights/Article/Article/2716980/nsa-cisa-release-kubernetes-hardening-guidance/utm_source/nsa-cisa-release-kubernetes-hardening-guidance (NSA, CISA release Kubernetes Hardening Guidance)
                 https://www.open-scap.org (Discover a wide array of tools for managing system security and standards compliance)
                 https://www.reddit.com/r/dataisbeautiful/comments/1cb48y6/oc_i_updated_our_password_table_for_2024_with/#lightbox (Time it takes a hacker to brute force your password in 2024)
@@ -5184,6 +5185,7 @@ Contents:
                 https://instagram.com/superwatchman (Instagram's Most Followed Celebrity Watch Page 🏆)
                 https://monochrome-watches.com/industry-news-top-50-swiss-watch-companies-of-2023-according-to-morgan-stanley-rolex-breaking-the-chf-10-billion-barrier (The Top 50 Swiss Watch Companies of 2023 According to Morgan Stanley)
                 https://quillandpad.com/2021/03/19/the-diving-bezel-the-most-versatile-watch-complication-even-if-youre-not-a-diver (The Diving Bezel: The Most Versatile Watch Complication, Even If You’re Not A Diver)
+                https://subdial.com/market (Watch Index)
                 https://teddybaldassarre.com/blogs/watches/iconic-watches (The 28 Most Iconic Watches of All Time and the Case for Each by Mark Bernardo. June 2023)
                 https://watchcharts.com/screener (Watch Screener: Find watches based on specifications and market performance.)
                 https://www.amazon.com/Best-Sellers-Clothing-Shoes-Jewelry-Mens-Watches/zgbs/fashion/6358539011 (Best Sellers in Men's Watches)
@@ -5199,6 +5201,7 @@ Contents:
                 https://www.reddit.com/r/Watches/comments/zw86rq/myth_busting_i_talked_to_my_watchmaker_about ([Myth Busting] I talked to my watchmaker about water resistance…)
                 https://www.reddit.com/r/Watches/wiki/brandguide (/r/Watches Brand Guide)
                 https://www.reddit.com/r/Watches/wiki/faq (r/Watches FAQ)
+                https://youtu.be/9_QsCLYs2mY?si=8b8_Vq0c2OoUS6XY (How a Mechanical Watch Works by Animagraffs)
                 https://youtu.be/f82nPwGgUDE?si=mqdLLSPyN2qgNgtB (Our Most Worn Watches Of The Year (Over 30 Channels Mentioned))
                 https://youtu.be/fMncXiA-AuE (Tachymeter Explained! (5 examples) by Erik Ternsjö)
                 https://youtu.be/PHis9l8cJks (75 Watch Terms You Need to Know - A Crash Course to Watch Collecting Terminology by Teddy Baldassarre)
@@ -5220,10 +5223,12 @@ Contents:
                     https://en.wikipedia.org/wiki/Rolex#Professional_collections (Rolex Professional Collections)
                     https://watchcharts.com/watch_variation/3-rolex-explorer-ii-226570-0001/overview
                     https://www.rolex.com/watches/explorer/m226570-0001
+                    https://www.rolexmagazine.com/2009/03/reinhold-messner-rolex-explorer-mark-ii.html (The Complete History of the Rolex Explorer II)
                     https://youtu.be/kRiOW2KR5PY?si=-OZm-W_NDV2hN8oD (How to set your Rolex Explorer II by Rolex)
                     https://youtu.be/y_gVrragyNE?si=E3mRryIh-kBtyUd_ (How to adjust the easy link clasp on your Rolex DateJust by Joe Escobar Diamonds)
 
             Tudor Black Bay GMT:
+                    https://millenarywatches.com/tudor-gmt-date-wheel-issue (Tudor GMT Date Wheel Issue)
                     https://watchcharts.com/watch_model/1361-tudor-black-bay-gmt-79830rb/overview
                     https://www.tudorwatch.com/en/watches/black-bay-gmt/m79830rb-0001 (Tudor Black Bay GMT)
                     https://youtu.be/WPLKs6FDpM4?si=0pqoDyQ-Fzjg8SQL (TUDOR Tutorial #12: how to use the GMT function?)
@@ -5377,6 +5382,7 @@ Contents:
         https://www.reddit.com/r/EDC/comments/7j7lrs/edc_starter_pack_an_arbitrary_list_of_gear_that (EDC Starter Pack: An Arbitrary List of Gear that Gets Recommended a Lot)
         https://www.reddit.com/r/EDC/comments/ur36lf/i_analyzed_the_top_50_most_mentioned_products_on (I analyzed the top 50 most mentioned products on r/EDC)
         https://www.reddit.com/r/india/wiki/useful_posts (r/india Useful Posts)
+        https://www.thisiswhyimbroke.com (ThisIsWhyImBroke is where you'll find cool gift ideas, unique products, and awesome birthday and Christmas gift ideas.)
         https://www.vox.com/science-and-health/2019/8/23/20828597/the-10000-hour-rule-debunked (The “10,000-hour rule” was debunked again. That’s a relief.)
         https://youglish.com (Use YouTube to improve your English pronunciation. With more than 100M tracks, YouGlish gives you fast, unbiased answers about how English is spoken by real people and in context.)
 
