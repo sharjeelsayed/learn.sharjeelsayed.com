@@ -2421,6 +2421,7 @@ Contents:
                 https://github.com/toniblyx/my-arsenal-of-aws-security-tools (List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.)
                 https://github.com/vm32/Linux-Incident-Response (practical toolkit for cybersecurity and IT professionals. It features a detailed Linux cheatsheet for incident response)
                 https://github.com/vulhub/vulhub (https://vulhub.org Pre-Built Vulnerable Environments Based on Docker-Compose)
+                https://github.com/wazuh/wazuh (Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads. https://wazuh.com )
                 https://github.com/Z4nzu/hackingtool (ALL IN ONE Hacking Tool For Hackers forms.gle/ntuAX8BGRR5yAb9ZA)
                 https://gtfobins.github.io (GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems.)
                 https://netfilter.org/documentation (Documentation about the netfilter/iptables project)
@@ -3773,6 +3774,7 @@ Contents:
                 https://en.wikipedia.org/wiki/List_of_largest_banks (List of largest banks)
                 https://en.wikipedia.org/wiki/List_of_systemically_important_banks#D-SIBs_situated_outside_EEA_or_US_(both_domestic_and_global) List of systemically important banks: D-SIBs situated outside EEA or US (both domestic and global)
                 https://finurls.com
+                https://livingcost.org/cost/india (Cost of Living in India)
                 https://news.ycombinator.com/item?id=12556160 (Ask HN: What are the must-read books about economics/finance?)
                 https://news.ycombinator.com/item?id=15140182 (A Guide to Crypto Currencies (mycrypto.guide))
                 https://news.ycombinator.com/item?id=15222819 (A New Way to Learn Economics (newyorker.com))
@@ -5265,7 +5267,9 @@ Contents:
                 https://en.wikipedia.org/wiki/Herm%C3%A8s#Leather_goods (Hermès Leather Goods)
                 https://en.wikipedia.org/wiki/List_of_fashion_magazines (List of fashion magazines)
                 https://en.wikipedia.org/wiki/Louis_Vuitton (Louis Vuitton)
+                https://en.wikipedia.org/wiki/Love_bracelet_(Cartier) (Love bracelet (Cartier))
                 https://en.wikipedia.org/wiki/Luxury_goods (Luxury goods)
+                https://realstyle.therealreal.com/trr-full-resale-report-2024 (The RealReal’s FULL 2024 Resale Report)
                 https://www.reddit.com/r/OUTFITS+femalefashionadvice+fragrance+jewelry+malefashionadvice
                 https://www.riorabbit.in/products/king-2-0 ( Inspired by the magnetic charisma of Dunhill Desire Red and the enigmatic ambiance of Diptyque L'Ombre dans)
                 https://www.statista.com/statistics/267948/brand-value-of-the-leading-10-most-valuable-luxury-brands-worldwide (Brand value of the leading 10 most valuable luxury brands worldwide)
