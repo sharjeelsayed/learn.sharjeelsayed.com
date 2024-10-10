@@ -627,6 +627,7 @@ Contents:
                 https://github.com/huachaohuang/awesome-dbdev (Awesome materials about database development.)
                 https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials (The Grand Complete Data Science Guide With Videos And Materials)
                 https://github.com/microsoft/data-science-for-beginners (Data science for beginners - a curriculum . 10 weeks, 20 lessons, data science for all! https://microsoft.github.io/data-science-for-beginners)
+                https://github.com/neilotoole/sq (sq is a command line tool that provides jq-style access to structured data sources: SQL databases, or document formats like CSV or Excel. It is the lovechild of sql+jq. https://sq.io)
                 https://github.com/pingcap/awesome-database-learning (A list of learning materials to understand databases internals)
                 https://news.ycombinator.com/item?id=13417326 (Ask HN: what is the best online resource to learn advanced sql?)
                 https://news.ycombinator.com/item?id=21793270 (Database internals (databass.dev))
@@ -5216,7 +5217,7 @@ Contents:
 
                 Rolex Sky-Dweller:
                     https://watchcharts.com/watch_model/46509-rolex-336235/overview
-                    https://www.rolex.com/watches/sky-dweller/m336235-0002
+                    https://www.rolex.com/watches/sky-dweller/m336235-0002 (Sky-Dweller Oyster, 42 mm, Everose gold Reference 336235)
                     https://www.swisswatchexpo.com/thewatchclub/2024/02/02/history-of-the-rolex-sky-dweller
                     https://youtu.be/O1KUXPDmu8k?si=xh9UZYiDy81Yj4Hk (How to set your Sky-Dweller by Rolex)
 
@@ -5224,7 +5225,7 @@ Contents:
                     https://en.wikipedia.org/wiki/Rolex_Explorer_II
                     https://en.wikipedia.org/wiki/Rolex#Professional_collections (Rolex Professional Collections)
                     https://watchcharts.com/watch_variation/3-rolex-explorer-ii-226570-0001/overview
-                    https://www.rolex.com/watches/explorer/m226570-0001
+                    https://www.rolex.com/watches/explorer/m226570-0001 (Explorer II Oyster, 42 mm, Oystersteel Reference 226570)
                     https://www.rolexmagazine.com/2009/03/reinhold-messner-rolex-explorer-mark-ii.html (The Complete History of the Rolex Explorer II)
                     https://youtu.be/kRiOW2KR5PY?si=-OZm-W_NDV2hN8oD (How to set your Rolex Explorer II by Rolex)
                     https://youtu.be/y_gVrragyNE?si=E3mRryIh-kBtyUd_ (How to adjust the easy link clasp on your Rolex DateJust by Joe Escobar Diamonds)
