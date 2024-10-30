@@ -3491,6 +3491,7 @@ Contents:
                 https://news.ycombinator.com/item?id=16492393 (Ask HN: How Did You Find a Job Abroad?)
                 https://news.ycombinator.com/item?id=16875868 (List of places to find remote jobs and freelancing projects)
                 https://news.ycombinator.com/item?id=17047736 (Ask HN: How to become a remote contractor?)
+                https://news.ycombinator.com/item?id=40014087 (I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA)
                 https://twitter.com/jobs (X Twitter Jobs Search)
                 https://www.glassdoor.com/research/workplace-trends-2024 (Glassdoor’s 2024 Workplace Trends)
                 https://www.hiringlab.org/2023/11/15/indeeds-2024-us-jobs-hiring-trends-report (Indeed’s 2024 US Jobs & Hiring Trends Report)
@@ -4914,6 +4915,7 @@ Contents:
                 https://github.com/schollz/croc (Easily and securely send things from one computer to another 🐊 📦)
                 https://github.com/shadowmoose/RedditDownloader (Scrapes Reddit to download media of your choice.)
                 https://github.com/simon987/awesome-datahoarding
+                https://github.com/soimort/you-get (https://you-get.org ⏬ Dumb downloader that scrapes the web)
                 https://github.com/topics/backup?o=desc&s=stars
                 https://github.com/widevinedump (Tools to Download Netflix / Disney / Apple TV Content)
                 https://github.com/Y2Z/monolith (⬛️ CLI tool for saving complete web pages as a single HTML file )
@@ -5230,6 +5232,12 @@ Contents:
                     https://youtu.be/kRiOW2KR5PY?si=-OZm-W_NDV2hN8oD (How to set your Rolex Explorer II by Rolex)
                     https://youtu.be/y_gVrragyNE?si=E3mRryIh-kBtyUd_ (How to adjust the easy link clasp on your Rolex DateJust by Joe Escobar Diamonds)
 
+                Rolex GMT-Master II:
+                    https://en.wikipedia.org/wiki/Rolex_GMT_Master_II#Ceramic_bezel_models
+                    https://watchcharts.com/watch_model/733-rolex-gmt-master-ii-pepsi-126710blro/overview
+                    https://www.rolex.com/watches/gmt-master-ii/m126710blro-0001 (Oyster, 40 mm, Oystersteel Reference 126710BLRO)
+                    https://youtu.be/hklL3MtuJGo?si=1ZteG6x5VBMLJ8Ip (How to set your Rolex GMT-Master II )
+
             Tudor Black Bay GMT:
                     https://millenarywatches.com/tudor-gmt-date-wheel-issue (Tudor GMT Date Wheel Issue)
                     https://watchcharts.com/watch_model/1361-tudor-black-bay-gmt-79830rb/overview
@@ -5344,6 +5352,7 @@ Contents:
         https://github.com/sherlock-project/sherlock (🔎 Hunt down social media accounts by username across social networks https://sherlock-project.github.io)
         https://github.com/topics/awesome (Awesome Lists)
         https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday (Awesome deals on Black Friday: Apps, SaaS, Books, Courses, etc.)
+        https://github.com/vslavik/diff-pdf (A simple tool for visually comparing two PDF files https://vslavik.github.io/diff-pdf)
         https://github.com/zed-industries/zed (https://zed.dev Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter)
         https://hackerspaces.org (Hackerspaces are community-operated physical places, where people share their interest in tinkering with technology, meet and work on their projects, and learn from each other)
         https://indie.deals (Early launch deals on products made by Indie Makers)
