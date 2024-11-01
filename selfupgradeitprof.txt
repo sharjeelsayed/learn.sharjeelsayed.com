@@ -3363,6 +3363,7 @@ Contents:
                     https://github.com/wisdompeak/LeetCode (This repository contains the solutions and explanations to the algorithm problems on LeetCode. Only medium or above are included. All are written in C++/Python and implemented by myself. The problems attempted multiple times are labelled with hyperlinks.)
                     https://github.com/yangshun/tech-interview-handbook (💯 Curated interview preparation materials for busy engineers https://www.techinterviewhandbook.org)
                     https://leetcode.com/list/xi4ci4ig (Blind 75 Must Do Leetcode)
+                    https://neetcode.io/practice (The Neetcode 150 is the Blind 75 plus 75 more problems. It's a more beginner friendly and comprehensive list. We provide you with a list of problems that are frequently asked in technical interviews at top tech companies.)
 
                 Elements of Programming Interviews in Python: The Insiders' Guide
                     https://www.amazon.com/Elements-Programming-Interviews-Python-Insiders/dp/1537713949
@@ -3861,7 +3862,6 @@ Contents:
                 https://finshots.in/infographic/who-dominates-the-credit-card-market-in-india (57,577)
                 https://www.cashoverflow.in/best-credit-cards-india (59,776)
                 https://www.mymoneymantra.com/blog/top-10-credit-cards-in-india-for-2019 (133,119)
-                https://cardinfo.in/best-credit-cards-in-india-for-2021 (236,015)
 
         Foreign Language:
             Source:
@@ -5216,6 +5216,7 @@ Contents:
                 Sources:
                     https://xj5wpvbg6op.typeform.com/rolex-waitlist (Rolex Waitlist)
                     https://youtu.be/QF_1fGrIxhI?si=q7hL1bKDUYiQmQqY (The Rolex Waitlist Explained (Wait Times Included) by Luxury Bazaar)
+                    https://www.reddit.com/r/rolex/comments/1gf0wsz/i_also_work_at_a_rolex_ad_ama (I also work at a Rolex AD. AMA )
 
                 Rolex Sky-Dweller:
                     https://watchcharts.com/watch_model/46509-rolex-336235/overview
