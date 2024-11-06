@@ -256,7 +256,6 @@ Contents:
                 https://exercism.org (Develop fluency in 61 programming languages with our unique blend of learning, practice and mentoring.)
                 https://fasterthanli.me/articles/the-http-crash-course-nobody-asked-for (The HTTP crash course nobody asked for)
                 https://fintechgtm.substack.com/p/us-fintech-and-payments-crash-course (U.S. Fintech & Payments Crash Course)
-                https://github.blog/2023-11-08-the-state-of-open-source-and-ai (Octoverse: The state of open source and rise of AI in 2023)
                 https://github.com/30-seconds/30-seconds-of-code (https://www.30secondsofcode.org Short code snippets for all your development needs)
                 https://github.com/aceking007/100ProjectsOfCode (A list of practical knowledge-building projects. )
                 https://github.com/AlgoryL/Projects-from-Scratch (A curated list for projects building from scratch.)
@@ -2947,6 +2946,7 @@ Contents:
         Web Development:
             Sources:
                 https://digitaldefynd.com/best-free-web-development-courses-tutorials-certification (20 Best Free Web Development Course & Certification [2024 January][UPDATED])
+                https://github.com/abi/screenshot-to-code (https://screenshottocode.com Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue))
                 https://github.com/Ayushparikh-code/Web-dev-mini-projects (The repository contains the list of awesome✨ & cool web development beginner-friendly✌️ projects!)
                 https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer (Free resources for learning Full Stack Web Development)
                 https://github.com/codeSTACKr/free-developer-resources (https://www.youtube.com/codeSTACKr Free Developer Resources )
@@ -3364,6 +3364,8 @@ Contents:
                     https://github.com/yangshun/tech-interview-handbook (💯 Curated interview preparation materials for busy engineers https://www.techinterviewhandbook.org)
                     https://leetcode.com/list/xi4ci4ig (Blind 75 Must Do Leetcode)
                     https://neetcode.io/practice (The Neetcode 150 is the Blind 75 plus 75 more problems. It's a more beginner friendly and comprehensive list. We provide you with a list of problems that are frequently asked in technical interviews at top tech companies.)
+                    https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems (Striver's SDE Sheet Top Coding Interview Problems Strivers 180)
+                    https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2 (Striver's A2Z DSA Course Sheet 2 Strivers 455)
 
                 Elements of Programming Interviews in Python: The Insiders' Guide
                     https://www.amazon.com/Elements-Programming-Interviews-Python-Insiders/dp/1537713949
@@ -5214,9 +5216,10 @@ Contents:
 
             Rolex:
                 Sources:
+                    https://www.reddit.com/r/rolex/comments/1gf0wsz/i_also_work_at_a_rolex_ad_ama (I also work at a Rolex AD. AMA )
                     https://xj5wpvbg6op.typeform.com/rolex-waitlist (Rolex Waitlist)
                     https://youtu.be/QF_1fGrIxhI?si=q7hL1bKDUYiQmQqY (The Rolex Waitlist Explained (Wait Times Included) by Luxury Bazaar)
-                    https://www.reddit.com/r/rolex/comments/1gf0wsz/i_also_work_at_a_rolex_ad_ama (I also work at a Rolex AD. AMA )
+                    https://youtu.be/y_gVrragyNE?si=E3mRryIh-kBtyUd_ (How to adjust the easy link clasp on your Rolex DateJust by Joe Escobar Diamonds)
 
                 Rolex Sky-Dweller:
                     https://watchcharts.com/watch_model/46509-rolex-336235/overview
@@ -5231,7 +5234,6 @@ Contents:
                     https://www.rolex.com/watches/explorer/m226570-0001 (Explorer II Oyster, 42 mm, Oystersteel Reference 226570)
                     https://www.rolexmagazine.com/2009/03/reinhold-messner-rolex-explorer-mark-ii.html (The Complete History of the Rolex Explorer II)
                     https://youtu.be/kRiOW2KR5PY?si=-OZm-W_NDV2hN8oD (How to set your Rolex Explorer II by Rolex)
-                    https://youtu.be/y_gVrragyNE?si=E3mRryIh-kBtyUd_ (How to adjust the easy link clasp on your Rolex DateJust by Joe Escobar Diamonds)
 
                 Rolex GMT-Master II:
                     https://en.wikipedia.org/wiki/Rolex_GMT_Master_II#Ceramic_bezel_models
