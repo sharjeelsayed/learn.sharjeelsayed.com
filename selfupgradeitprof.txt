@@ -5221,11 +5221,16 @@ Contents:
                     https://youtu.be/QF_1fGrIxhI?si=q7hL1bKDUYiQmQqY (The Rolex Waitlist Explained (Wait Times Included) by Luxury Bazaar)
                     https://youtu.be/y_gVrragyNE?si=E3mRryIh-kBtyUd_ (How to adjust the easy link clasp on your Rolex DateJust by Joe Escobar Diamonds)
 
-                Rolex Sky-Dweller:
-                    https://watchcharts.com/watch_model/46509-rolex-336235/overview
-                    https://www.rolex.com/watches/sky-dweller/m336235-0002 (Sky-Dweller Oyster, 42 mm, Everose gold Reference 336235)
-                    https://www.swisswatchexpo.com/thewatchclub/2024/02/02/history-of-the-rolex-sky-dweller
-                    https://youtu.be/O1KUXPDmu8k?si=xh9UZYiDy81Yj4Hk (How to set your Sky-Dweller by Rolex)
+                Rolex Cosmograph Daytona:
+                    https://en.wikipedia.org/wiki/Rolex_Cosmograph_Daytona
+                    https://watchcharts.com/watch_variation/1456-rolex-cosmograph-daytona-126500ln-0001/overview
+                    https://www.rolex.com/watches/cosmograph-daytona/m126500ln-0001
+
+                Rolex GMT-Master II:
+                    https://en.wikipedia.org/wiki/Rolex_GMT_Master_II#Ceramic_bezel_models
+                    https://watchcharts.com/watch_model/733-rolex-gmt-master-ii-pepsi-126710blro/overview
+                    https://www.rolex.com/watches/gmt-master-ii/m126710blro-0001 (Oyster, 40 mm, Oystersteel Reference 126710BLRO)
+                    https://youtu.be/hklL3MtuJGo?si=1ZteG6x5VBMLJ8Ip (How to set your Rolex GMT-Master II )
 
                 Rolex Explorer II:
                     https://en.wikipedia.org/wiki/Rolex_Explorer_II
@@ -5235,11 +5240,11 @@ Contents:
                     https://www.rolexmagazine.com/2009/03/reinhold-messner-rolex-explorer-mark-ii.html (The Complete History of the Rolex Explorer II)
                     https://youtu.be/kRiOW2KR5PY?si=-OZm-W_NDV2hN8oD (How to set your Rolex Explorer II by Rolex)
 
-                Rolex GMT-Master II:
-                    https://en.wikipedia.org/wiki/Rolex_GMT_Master_II#Ceramic_bezel_models
-                    https://watchcharts.com/watch_model/733-rolex-gmt-master-ii-pepsi-126710blro/overview
-                    https://www.rolex.com/watches/gmt-master-ii/m126710blro-0001 (Oyster, 40 mm, Oystersteel Reference 126710BLRO)
-                    https://youtu.be/hklL3MtuJGo?si=1ZteG6x5VBMLJ8Ip (How to set your Rolex GMT-Master II )
+                Rolex Sky-Dweller:
+                    https://watchcharts.com/watch_model/46509-rolex-336235/overview
+                    https://www.rolex.com/watches/sky-dweller/m336235-0002 (Sky-Dweller Oyster, 42 mm, Everose gold Reference 336235)
+                    https://www.swisswatchexpo.com/thewatchclub/2024/02/02/history-of-the-rolex-sky-dweller
+                    https://youtu.be/O1KUXPDmu8k?si=xh9UZYiDy81Yj4Hk (How to set your Sky-Dweller by Rolex)
 
             Tudor Black Bay GMT:
                     https://millenarywatches.com/tudor-gmt-date-wheel-issue (Tudor GMT Date Wheel Issue)
@@ -5282,6 +5287,9 @@ Contents:
                 https://en.wikipedia.org/wiki/Love_bracelet_(Cartier) (Love bracelet (Cartier))
                 https://en.wikipedia.org/wiki/Luxury_goods (Luxury goods)
                 https://realstyle.therealreal.com/trr-full-resale-report-2024 (The RealReal’s FULL 2024 Resale Report)
+                https://scentjourner.com/en-international/blogs/wellness/the-importance-of-fixatives-and-its-effect-on-projection-longevity-sillage (The Importance of Fixatives and Its Effect on Projection, Longevity, Sillage)
+                https://www.acharr.com/what-is-the-difference-between-edt-edp-and-parfum (What is the difference between EDT, EDP and Parfum ?)
+                https://www.reddit.com/r/fragrance/comments/bhlszk/edc_edt_edp_and_parfum_eductationlong (EDC, EDT, EDP and Parfum - Eductation/Long)
                 https://www.reddit.com/r/OUTFITS+femalefashionadvice+fragrance+jewelry+malefashionadvice
                 https://www.riorabbit.in/products/king-2-0 ( Inspired by the magnetic charisma of Dunhill Desire Red and the enigmatic ambiance of Diptyque L'Ombre dans)
                 https://www.statista.com/statistics/267948/brand-value-of-the-leading-10-most-valuable-luxury-brands-worldwide (Brand value of the leading 10 most valuable luxury brands worldwide)
@@ -5362,6 +5370,7 @@ Contents:
         https://learn-anything.xyz
         https://lobste.rs/s/0fkc0u/what_is_terminal_based_game_you_ve_played_s (What is a terminal-based game you've played that's worth mentioning?)
         https://looria.com/reddit/overview (Reddit's Favorite Products in One Place)
+        https://makeityourself.org (https://n-o-d-e.net/makeityourself.html Make it Yourself is a digital book that showcases this incredible talent, bringing together over 1000 useful DIY projects to demonstrate just what is possible when you make things yourself.)
         https://news.ycombinator.com/item?id=20110922 (How to Draw Animals (1930) (dessinoprimaire.blogspot.com))
         https://news.ycombinator.com/item?id=20146168 (Sleep tweaks boost night owls' wellbeing (bbc.com))
         https://news.ycombinator.com/item?id=21373931 (Ask HN: What do you automate in your life and work?)
