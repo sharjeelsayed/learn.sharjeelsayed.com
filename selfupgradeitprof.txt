@@ -2518,6 +2518,7 @@ Contents:
                 https://news.ycombinator.com/item?id=29577272 (Clever uses of pass, the Unix password manager (vitalyparnas.com))
                 https://news.ycombinator.com/item?id=29742551 (	macOS Setup after 15 Years of Linux (hookrace.net))
                 https://news.ycombinator.com/item?id=38141320 (Paste without formatting on macOS (scottswezey.com))
+                https://news.ycombinator.com/item?id=42057431 (Useful built-in macOS command-line utilities (weiyen.net))
                 https://notes.alinpanaitiu.com/Restarting-macOS-apps-automatically-on-crash (Restarting macOS apps automatically on crash)
                 https://objective-see.com/products.html (Free Mac Security Tools)
                 https://opensource.com/article/19/5/python-3-default-mac (The right and wrong way to set Python 3 as default on a Mac)
@@ -3335,6 +3336,7 @@ Contents:
                 DevOps Interview Questions:
                     https://github.com/bregman-arie/devops-exercises (Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions)
                     https://prepare.sh/engineering/devops (I scraped all DevOps Interview Questions for Meta, Amazon, Google, Yahoo.)
+                    https://github.com/Tikam02/DevOps-Guide/blob/master/Interview/Dev-ops-Interview.md (DevOps Interview Questions)
 
                 Site Reliability Engineer Interview Preparation Guide
                     https://github.com/mxssl/sre-interview-prep-guide
@@ -4373,6 +4375,7 @@ Contents:
                 https://www.susanrigetti.com/physics (So You Want to Learn Physics…SECOND EDITION by Susan J. Rigetti)
                 https://www.theguardian.com/books/booksblog/2017/jul/20/dawkins-sees-off-darwin-in-vote-for-most-influential-science-book
                 https://www.youtube.com/@xkcd_whatif (What If? The Video Series is the official adaptation of the 'What If?' books by Randall Munroe (xkcd.com))
+                https://youtu.be/Vitf8YaVXhc?si=t09mS5NV7Egq9J5P (I never understood why you can't go faster than light - until now! by FloatHeadPhysics)
 
             Books and Courses:
                 What If?: Serious Scientific Answers to Absurd Hypothetical Questions
@@ -5226,12 +5229,12 @@ Contents:
 
                 Rolex Cosmograph Daytona:
                     https://en.wikipedia.org/wiki/Rolex_Cosmograph_Daytona
-                    https://watchcharts.com/watch_variation/1456-rolex-cosmograph-daytona-126500ln-0001/overview
+                    https://watchcharts.com/watch_variation/1456-rolex-cosmograph-daytona-126500ln-0001/overview (Cosmograph Daytona (White Dial) Overview)
                     https://www.rolex.com/watches/cosmograph-daytona/m126500ln-0001
 
                 Rolex GMT-Master II:
                     https://en.wikipedia.org/wiki/Rolex_GMT_Master_II#Ceramic_bezel_models
-                    https://watchcharts.com/watch_model/733-rolex-gmt-master-ii-pepsi-126710blro/overview
+                    https://watchcharts.com/watch_model/733-rolex-gmt-master-ii-pepsi-126710blro/overview (Rolex Pepsi 126710BLRO Overview)
                     https://www.rolex.com/watches/gmt-master-ii/m126710blro-0001 (Oyster, 40 mm, Oystersteel Reference 126710BLRO)
                     https://youtu.be/hklL3MtuJGo?si=1ZteG6x5VBMLJ8Ip (How to set your Rolex GMT-Master II )
 
@@ -5244,7 +5247,7 @@ Contents:
                     https://youtu.be/kRiOW2KR5PY?si=-OZm-W_NDV2hN8oD (How to set your Rolex Explorer II by Rolex)
 
                 Rolex Sky-Dweller:
-                    https://watchcharts.com/watch_model/46509-rolex-336235/overview
+                    https://watchcharts.com/watch_model/46509-rolex-336235/overview (Rolex 336235 Overview)
                     https://www.rolex.com/watches/sky-dweller/m336235-0002 (Sky-Dweller Oyster, 42 mm, Everose gold Reference 336235)
                     https://www.swisswatchexpo.com/thewatchclub/2024/02/02/history-of-the-rolex-sky-dweller
                     https://youtu.be/O1KUXPDmu8k?si=xh9UZYiDy81Yj4Hk (How to set your Sky-Dweller by Rolex)
