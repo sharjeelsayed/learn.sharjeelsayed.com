@@ -2282,6 +2282,7 @@ Contents:
                 https://cloud.redhat.com/blog/top-open-source-kubernetes-security-tools-of-2021 (Top Open Source Kubernetes Security Tools of 2021)
                 https://cloudseclist.com (A low volume newsletter (delivered once per week) that highlights security-related news focused on the cloud native landscape, hand curated by Marco Lancini.)
                 https://crowdsec.net (CrowdSec is an open-source and collaborative IPS for Linux)
+                https://cwe.mitre.org/top25/index.html (CWE Top 25 Most Dangerous Software Weaknesses)
                 https://danielmiessler.com/blog/build-successful-infosec-career (How to Build a Cybersecurity Career [ 2019 Update ])
                 https://dev-sec.io (devops + security Server Hardening Automation Using Ansible)
                 https://en.wikipedia.org/wiki/List_of_computer_security_certifications#Most_Popular_Vendor_Neutral_Cyber_Security_Certifications_Among_employers
@@ -2296,6 +2297,7 @@ Contents:
                 https://github.com/chughes29/Cloud-DevSecOps-Learning/blob/main/Cloud%20%26%20DevSecOps%20Learning%20(1).md (Cloud-DevSecOps-Learning)
                 https://github.com/dafthack/CloudPentestCheatsheets (This repository contains a collection of cheatsheets I have put together for tools related to pentesting organizations that leverage cloud providers.)
                 https://github.com/danielmiessler/SecLists (It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.)
+                https://github.com/davidalex89/Infosec-Deals (Ongoing Infosec Deals)
                 https://github.com/decalage2/awesome-security-hardening (A collection of awesome security hardening guides, tools and other resources)
                 https://github.com/edoardottt/awesome-hacker-search-engines (A list of search engines useful during Penetration testing, vulnerability assessments, red team operations, bug bounty and more)
                 https://github.com/fabionoth/awesome-cyber-security (A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.)
@@ -2311,7 +2313,6 @@ Contents:
                 https://github.com/hysnsec/awesome-policy-as-code (A curated list of policy-as-code resources like blogs, videos, and tools to practice on for learning Policy-as-Code.)
                 https://github.com/iknowjason/Awesome-CloudSec-Labs (Awesome free cloud native security learning labs. Includes CTF, self-hosted workshops, guided vulnerability labs, and research labs.)
                 https://github.com/imthenachoman/How-To-Secure-A-Linux-Server (An evolving how-to guide for securing a Linux server.)
-                https://github.com/instadoodledavid/Infosec-Deals (Ongoing Infosec Deals 2021)
                 https://github.com/jassics/awesome-aws-security (Curated list of links, references, books videos, tutorials (Free or Paid), Exploit, CTFs, Hacking Practices etc. which are related to AWS Security)
                 https://github.com/jassics/security-study-plan (Complete Practical Study Plan to become a successful cybersecurity engineer based on roles like Pentest, AppSec, Cloud Security, DevSecOps and so on...)
                 https://github.com/jatrost/awesome-kubernetes-threat-detection (A curated list of resources about detecting threats and defending Kubernetes systems.)
@@ -2362,6 +2363,7 @@ Contents:
                 https://news.ycombinator.com/item?id=38331501 (Ask HN: Any comprehensive courses on Auth?)
                 https://opensourcesecurityindex.io (The Most Popular & Fastest Growing Open Source Security Projects on GitHub)
                 https://overthewire.org/wargames/bandit (The Bandit wargame is aimed at absolute beginners. It will teach the basics needed to be able to play other wargames.)
+                https://pinboard.in/u:SharjeelSayed/t:security
                 https://portswigger.net/research/top-10-web-hacking-techniques-of-2023 (Top 10 web hacking techniques of 2023 by James Kettle)
                 https://ppn.snovvcrash.rocks (Pentester's promiscuous handbook)
                 https://reynardsec.com/en/docker-platform-security-step-by-step-hardening (Docker Security – Step-by-Step Hardening (Docker Hardening))
@@ -2395,7 +2397,6 @@ Contents:
                 https://www.returnonsecurity.com/p/2023-cybersecurity-market-review (The Cybersecurity Market in 2023)
                 https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets
                 https://youtu.be/l8iXMgk2nnY?si=gz-Xi49_yk9pInGG (VIM tutorial: linux terminal tools for bug bounty pentest and redteams with @tomnomnom)
-                https://pinboard.in/u:SharjeelSayed/t:security
 
             Security Tools:
                 https://cipher387.github.io/osint_stuff_tool_collection (OSINT Tool Collection)
@@ -3075,6 +3076,7 @@ Contents:
         iOS/Android:
             Sources:
                 https://esimdb.com (Find the best prepaid eSIM plans for your travel destination)
+                https://github.com/Psyhackological/AAA (📱 Curated list of THE BEST FOSS Android apps to maximize your freedom & privacy!  https://codeberg.org/Psyhackological/AAA)
                 https://receive-sms-free.cc (Receive SMS online anonymously and fast, without register or a mobile phone)
                 https://www.chargerlab.com/apple-iphone-15-pro-max-charging-test-chargerlab-compatibility-100 (Apple iPhone 15 Pro Max Charging Test - ChargerLAB Compatibility 100) https://youtu.be/gHO7G7TzPAI?si=LEZUo6d-JOiRhDsx (How Fast Apple iPhone 15 Pro Max Is Charged? - ChargerLAB Compatibility 100)
                 https://www.gizchina.com/2024/02/08/smartphones-2023-top-sellers (Canalys Reveals: Top 10 Shipped Smartphones Worldwide in 2023)
