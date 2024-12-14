@@ -539,6 +539,7 @@ Contents:
                 https://lucb1e.com/randomprojects/php/funnip.php (list of all the ways (and notation combinations) you can make with your IP address)
                 https://news.ycombinator.com/item?id=13983212 (Beej's Guide to Network Programming)
                 https://news.ycombinator.com/item?id=14701199 (Let's Code a TCP/IP Stack: TCP Retransmission (saminiir.com))
+                https://ntk148v.github.io/posts/linux-network-performance-ultimate-guide (Linux Network Performance Ultimate Guide)
                 https://quic.xargs.org (The Illustrated QUIC Connection)
                 https://siliconsprawl.com/2020/05/10/network-programming-self-study.html (Network Programming Self-Study)
                 https://startyourownisp.com (Start Your Own ISP)
@@ -879,6 +880,7 @@ Contents:
                 https://news.ycombinator.com/item?id=24027366 (	Low latency tuning guide)
                 https://news.ycombinator.com/item?id=26053323 (	A visual guide to SSH tunnels (robotmoon.com))
                 https://news.ycombinator.com/item?id=3257393 (What's the one Linux command you wish you knew years ago?)
+                https://ntk148v.github.io/posts/linux-network-performance-ultimate-guide (Linux Network Performance Ultimate Guide)
                 https://sadservers.com (Troubleshoot and make a sad server happy! "Like LeetCode for Linux" Capture The Flag challenges. Train and prove your debugging skills. Practice for your next SRE/DevOps interview.Get a full remote Linux server with a problem and fix it.)
                 https://systemd-by-example.com (The playground allows you to learn about systemd interactively, right from your browser!)
                 https://tldr.sh (Simplified and community-driven man pages)
@@ -3180,6 +3182,7 @@ Contents:
             Sources:
                 https://editorconfig.org (EditorConfig helps maintain consistent coding styles for multiple developers working on the same project across various editors and IDEs.)
                 https://github.com/continuedev/continue (https://continue.dev ⏩ Continue is an open-source autopilot for VS Code and JetBrains—the easiest way to code with any LLM)
+                https://github.com/daytonaio/daytona (The Open Source Dev Environment Manager. https://www.daytona.io)
                 https://sourcegraph.com/cody (Cody is a coding AI assistant that uses AI and a deep understanding of your codebase to help you write and understand code faster.)
                 https://www.codingfont.com (Gamified experience to help you find your true love of coding fonts!)
 
@@ -5199,6 +5202,7 @@ Contents:
                 https://quillandpad.com/2021/03/19/the-diving-bezel-the-most-versatile-watch-complication-even-if-youre-not-a-diver (The Diving Bezel: The Most Versatile Watch Complication, Even If You’re Not A Diver)
                 https://subdial.com/market (Watch Index)
                 https://teddybaldassarre.com/blogs/watches/iconic-watches (The 28 Most Iconic Watches of All Time and the Case for Each by Mark Bernardo. June 2023)
+                https://watchanalytics.io/en-eur/watches?ordering=-views (Most Popular watches by watchanalytics.io) )
                 https://watchcharts.com/market/above_retail (Watches That Trade Above Retail)
                 https://watchcharts.com/screener (Watch Screener: Find watches based on specifications and market performance.)
                 https://www.amazon.com/Best-Sellers-Clothing-Shoes-Jewelry-Mens-Watches/zgbs/fashion/6358539011 (Best Sellers in Men's Watches)
