@@ -622,6 +622,7 @@ Contents:
                 https://github.com/alexeygrigorev/data-science-interviews (Data science interview questions and answers https://ds-interviews.org)
                 https://github.com/bytebase/bytebase (https://www.bytebase.com World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams. The GitLab/GitHub for database DevOps.)
                 https://github.com/DataEngineer-io/data-engineer-handbook (This is a repo with links to everything you'd ever want to learn about data engineering)
+                https://github.com/DataExpert-io/data-engineer-handbook (This is a repo with links to everything you'd ever want to learn about data engineering)
                 https://github.com/datatalksclub/data-engineering-zoomcamp (Free data engineering course!)
                 https://github.com/dttung2905/kafka-in-production (📚 Tech blogs & talks by companies that run Kafka in production)
                 https://github.com/huachaohuang/awesome-dbdev (Awesome materials about database development.)
@@ -3603,6 +3604,7 @@ Contents:
             Sources:
                 https://docs.google.com/spreadsheets/d/1JfNAbUX_lN9K3MCNHO15GJtJ5qpk7H9Cl3xTBwv2FR8 (Remote Jobs or Gigs Platforms)
                 https://en.wikipedia.org/wiki/Alan_Weiss_(entrepreneur) (Alan Weiss)
+                https://github.com/midday-ai/midday (Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers https://midday.ai )
                 https://hn.algolia.com/?dateRange=pastYear&page=0&prefix=true&query=upwork&sort=byPopularity&type=story
                 https://news.ycombinator.com/item?id=16651077 (Ask HN: How do you find freelance work?)
                 https://news.ycombinator.com/item?id=18829691 (Ask HN: Fastest way to get started with freelancing?)
@@ -3612,6 +3614,7 @@ Contents:
                 https://news.ycombinator.com/item?id=32606348 (Ask HN: Contractors, what is your hourly rate?)
                 https://news.ycombinator.com/item?id=32701641 (	Ask HN: Generalist contractors, what is your hourly rate?)
                 https://news.ycombinator.com/item?id=32837800 (Ask HN: Where are the good platforms for contract work?)
+                https://news.ycombinator.com/item?id=42425339 (	Ask HN: How do you find part time work?)
                 https://seths.blog/2015/04/the-freelancer-course-is-here (Seth Godin's Freelancer Course https://www.udemy.com/course/seth-godin-freelancer-course)
                 https://www.reddit.com/r/Accounting+Entrepreneur+business+finance+marketing+motivation+smallbusiness+socialmedia+startups
                 https://www.reddit.com/r/beermoney (a community for people to discuss mostly online money-making opportunities. You shouldn't expect to make a living, but it is possible to make extra cash on the side for your habits/needs)
@@ -3642,6 +3645,7 @@ Contents:
                 https://gigster.com (279,501)
                 https://www.freelanced.com (1,263,880 SW)
                 https://calladev.com (2,729,529)
+                https://www.fractionaljobs.io (1,607,807)
 
         Management:
             Sources:
