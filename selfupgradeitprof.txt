@@ -541,6 +541,7 @@ Contents:
                 https://news.ycombinator.com/item?id=14701199 (Let's Code a TCP/IP Stack: TCP Retransmission (saminiir.com))
                 https://ntk148v.github.io/posts/linux-network-performance-ultimate-guide (Linux Network Performance Ultimate Guide)
                 https://quic.xargs.org (The Illustrated QUIC Connection)
+                https://radar.cloudflare.com/year-in-review (Cloudflare Radar: Year in Review)
                 https://siliconsprawl.com/2020/05/10/network-programming-self-study.html (Network Programming Self-Study)
                 https://startyourownisp.com (Start Your Own ISP)
                 https://www.amazon.com/Certified-Wireless-Network-Administrator-Study/dp/1119734509 CWNA Certified Wireless Network Administrator Study Guide: Exam CWNA-108 (Sybex Study Guide) 6th Edition by David D. Coleman and David A. Westcott
@@ -1618,7 +1619,7 @@ Contents:
                     https://talk.cantrill.io
                     https://cantrill.io.i-aws.cloud (Statistics about Adrian Cantrill's courses)
 
-                Ultimate AWS Certified Solutions Architect Associate SAA-C03 by Stephane Maarek:
+                Ultimate AWS Certified Solutions Architect Associate 2025 by Stephane Maarek:
                     https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03
                     https://courses.datacumulus.com/downloads/certified-solutions-architect-pn9 (AWS Certified Solutions Architect Associate Code & Slides)
                     https://courses.datacumulus.com (Discount codes for the Course)
@@ -1633,7 +1634,7 @@ Contents:
                     https://youtu.be/c3Cn4xYfxJY?si=At47-Fh8EXyrZJUd (AWS Solutions Architect Associate Certification (SAA-C03) – Full Course to PASS the Exam by Andrew Brown of ExamPro, freecodecamp.org)
                     https://www.exampro.co/aws-exam-solutions-architect-associate
 
-               Ultimate AWS Certified Developer Associate 2024 NEW DVA-C02 by Stephane Maarek:
+               Ultimate AWS Certified Developer Associate 2025 DVA-C02 by Stephane Maarek:
                     https://www.udemy.com/course/aws-certified-developer-associate-dva-c01
                     https://courses.datacumulus.com/downloads/certified-developer-k92 (AWS Certified Developer Associate Code & Slides)
                     https://courses.datacumulus.com (Discount codes for the Course)
