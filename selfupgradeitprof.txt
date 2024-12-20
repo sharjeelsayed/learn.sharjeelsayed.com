@@ -1630,11 +1630,7 @@ Contents:
                     https://tutorialsdojo.com/aws-certified-solutions-architect-associate-saa-c02
                     http://slack.tutorialsdojo.com
 
-                AWS Certified Solutions Architect Associate (SAA-C03) by Andrew Brown of ExamPro
-                    https://youtu.be/c3Cn4xYfxJY?si=At47-Fh8EXyrZJUd (AWS Solutions Architect Associate Certification (SAA-C03) – Full Course to PASS the Exam by Andrew Brown of ExamPro, freecodecamp.org)
-                    https://www.exampro.co/aws-exam-solutions-architect-associate
-
-               Ultimate AWS Certified Developer Associate 2025 DVA-C02 by Stephane Maarek:
+                Ultimate AWS Certified Developer Associate 2025 DVA-C02 by Stephane Maarek:
                     https://www.udemy.com/course/aws-certified-developer-associate-dva-c01
                     https://courses.datacumulus.com/downloads/certified-developer-k92 (AWS Certified Developer Associate Code & Slides)
                     https://courses.datacumulus.com (Discount codes for the Course)
@@ -1645,6 +1641,10 @@ Contents:
 
                 Amazon EKS Terraform Workshop
                     https://tf-eks-workshop.workshop.aws
+
+                AWS Courses by Andrew Brown of ExamPro
+                    https://youtu.be/c3Cn4xYfxJY?si=At47-Fh8EXyrZJUd (AWS Solutions Architect Associate Certification (SAA-C03) – Full Course to PASS the Exam by Andrew Brown of ExamPro, freecodecamp.org)
+                    https://youtu.be/hyEw7dQ9-JE?si=uKnmUgTqvBDTSoNA 9AWS Solutions Architect Professional (SAP-C02) Certification Course – Pass the Exam!)
 
             AWS Certification Resources:
                 Sources:
@@ -1977,6 +1977,7 @@ Contents:
                 https://gist.github.com/cpursley/c8fb81fe8a7e5df038158bdfe0f06dbb (PostgreSQL is Enough)
                 https://github.com/dhamaniasad/awesome-postgres (A curated list of awesome PostgreSQL software, libraries, tools and resources, inspired by awesome-mysql)
                 https://github.com/okbob/pspg (Unix pager designed for work with tables. Designed for PostgreSQL, but MySQL is supported too. Now it can be used as CSV or TSV viewer. Works well with pgcli too.)
+                https://github.com/Olshansk/postgres_for_everything (How to reduce complexity and move faster? Just Postgres for everything.)
                 https://github.com/topics/postgresql?o=desc&s=stars
                 https://news.ycombinator.com/item?id=23208181 (Ask HN: What PostgreSQL client do you use?)
                 https://pgtune.leopard.in.ua (tuning PostgreSQL config by your hardware)
@@ -3280,6 +3281,7 @@ Contents:
                 https://codesignal.com (Make the right hires faster, save engineering time, increase diversity, and reduce risk with our technical interview and assessment platform.)
                 https://enterprisersproject.com/article/2021/3/7-top-site-reliability-engineer-sre-job-interview-questions (7 top Site Reliability Engineer (SRE) job interview questions)
                 https://github.com/alexeygrigorev/data-science-interviews (Data science interview questions and answers https://ds-interviews.org)
+                https://github.com/ibttf/interview-coder (An open-source invisible desktop application to help you pass your technical interviews.)
                 https://github.com/leetcode-mafia/cheetah (Whisper & GPT-based app for passing remote SWE interviews)
                 https://github.com/topics/interview-questions?o=desc&s=stars
                 https://github.com/topics/interview?o=desc&s=stars
@@ -4024,6 +4026,7 @@ Contents:
                 https://fivebooks.com (The best books on everything)
                 https://github.com/EbookFoundation/free-programming-books (https://ebookfoundation.github.io/free-programming-books 📚 Freely available programming books)
                 https://github.com/laxyapahuja/bunken (A chrome extension to download ebooks directly from Goodreads.)
+                https://hardcover.app (Hardcover is a book recommendation engine that helps you find your next favorite book.)
                 https://news.ycombinator.com/item?id=13803787 (Ask HN: What books fundamentally changed the way you think about the world?)
                 https://news.ycombinator.com/item?id=14477851 (Ask HN: Books you wish you had read earlier?)
                 https://news.ycombinator.com/item?id=15155833 (Ask HN: What books have made the biggest impact on your mental models?)
@@ -4067,6 +4070,7 @@ Contents:
                 https://ramiro.org/vis/hn-most-linked-books (Top 30 books ranked by total number of links to Amazon in Hacker News comments)
                 https://redditfavorites.com/books (What are Reddit's favorite books? From 3.5 billion Reddit comments)
                 https://shepherd.com (8,000+ authors have shared five of their favorite books around a topic, theme, or mood.)
+                https://thestorygraph.com (The StoryGraph helps you track your reading, set goals, and find new books to read.)
                 https://wiki.mobileread.com/wiki/EBook_Lending_Libraries
                 https://www.amazon.com/b/?node=8192263011 (100 Books to Read in a Lifetime)
                 https://www.amazon.com/best-sellers-books-Amazon/zgbs/books
@@ -5415,6 +5419,7 @@ Contents:
         https://www.kantar.com/north-america/company-news/louis-vuitton-reigns-as-the-worlds-most-valuable-luxury-brand-for-the-18th-year (Top 10 Most Valuable Global Luxury Brands 2023)
         https://www.looria.com/reddit/BuyItForLife/brand-popularity (The most popular brands on r/BuyItForLife)
         https://www.nala.ie/resources/better-handwriting-adults
+        https://www.oldmapsonline.org/en/history (Interactive Map of History)
         https://www.pricelevel.com (PriceLevel gives you visibility into the price hidden behind "Contact Us".)
         https://www.producthunt.com (The place to launch and discover new tech products)
         https://www.reddit.com/r/AskReddit/comments/4q91g9/what_free_things_online_should_everyone_take/d4r8foy
