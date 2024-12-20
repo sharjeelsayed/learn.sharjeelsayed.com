@@ -1609,6 +1609,7 @@ Contents:
                 https://github.com/toniblyx/my-arsenal-of-aws-security-tools (List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.)
                 https://github.com/turbot/steampipe (Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required.)
                 https://github.com/wallix/awless (A Mighty CLI for AWS)
+                https://serverlessland.com/patterns (Use serverless patterns to quickly build integrations using AWS SAM and CDK templates. )
 
             Books and Courses:
                 AWS Certified Solutions Architect - Associate (SAA-C03) by Adrian Cantrill:
@@ -1865,6 +1866,7 @@ Contents:
                 https://github.com/antonbabenko/terraform-best-practices
                 https://github.com/Artemmkin/infrastructure-as-code-tutorial (Infrastructure As Code Tutorial. Covers Packer, Terraform, Ansible, Vagrant, Docker, Docker Compose, Kubernetes )
                 https://github.com/camptocamp/terraboard (A web dashboard to inspect Terraform States)
+                https://github.com/cloudposse (Use our ready-to-go terraform architecture blueprints for AWS to get up and running quickly)
                 https://github.com/coder/coder (https://coder.com Provision remote development environments via Terraform )
                 https://github.com/gofireflyio/aiac (Artificial Intelligence Infrastructure-as-Code Generator.)
                 https://github.com/GoogleCloudPlatform/terraformer (CLI tool to generate terraform files from existing infrastructure (reverse Terraform))
@@ -1885,6 +1887,7 @@ Contents:
                 https://medium.com/@brenspiration/free-online-courses-on-kubernetes-docker-products-terraform-2a3cd296ce95
                 https://registry.terraform.io (Terraform Registry )
                 https://scalr.com/blog/top-20-terraform-providers
+                https://serverlessland.com/patterns (Use serverless patterns to quickly build integrations using AWS SAM and CDK templates. )
                 https://terraform-docs.io (Generate Terraform modules documentation in various formats.)
                 https://terragrunt.gruntwork.io
                 https://terratest.gruntwork.io
@@ -1896,9 +1899,8 @@ Contents:
                 https://www.reddit.com/r/Terraform/comments/iguorh/best_terraform_course
                 https://www.reddit.com/r/Terraform/comments/x09dlm/list_of_most_useful_terraform_opensource_tools (List of most useful Terraform open-source tools)
                 https://www.revolgy.com/insights/blog/complete-guide-for-picking-the-right-tool-for-terraform-security-code-analysis (Complete guide for picking the right tool for Terraform Security Code Analysis)
-                https://www.runatlantis.io
+                https://www.runatlantis.io (Atlantis:Terraform Pull Request Automation Running Terraform Workflows with Ease)
                 https://www.terraform-best-practices.com (Terraform Best Practices by Anton Babenko)
-                https://www.thecloud.coach/terraform-crash-course
                 https://www.udemy.com/course/learn-devops-kubernetes-deployment-by-kops-and-terraform
                 https://www.udemy.com/topic/terraform/?ratings=4.5&sort=popularity (Udemy Courses rated 4.5 stars and above)
                 https://youtu.be/V4waklkBC38 (HashiCorp Terraform Associate Certification Course - Pass the Exam! by  Andrew Brown (reeCodeCamp.org))
@@ -2046,6 +2048,7 @@ Contents:
                 https://news.ycombinator.com/item?id=39400352 (Popular Git config options (jvns.ca))
                 https://nvie.com/posts/a-successful-git-branching-model (A successful Git branching model)
                 https://ossinsight.io (SELECT insights FROM GitHub events 🔥 Trending Repos)
+                https://relatedrepos.com (Discover related open source projects)
                 https://sourcegraph.com/search (Search your code and 2M+ open source repositories)
                 https://stackoverflow.com/questions/tagged/git
                 https://useful-forks.github.io (It aims at increasing the discoverability of useful forks of open-source projects.)
