@@ -5081,14 +5081,11 @@ Contents:
                 https://yts.mx (402)
                 https://1337x.to (415) (https://1337x-status.org )
                 https://rutracker.org (537)
-                http://rarbg.to (822) or https://rarbgprx.org/torrents.php
-                https://www.limetorrents.info (2,951)
+                https://www.limetorrents.lol (2,951)
                 https://torrentgalaxy.to (4,765)
-                https://zooqle.com (6,392)
-                https://www.qbittorrent.org (32,011)
+                \https://www.qbittorrent.org (32,011)
                 https://www.myanonamouse.net (42,501)
                 https://put.io (45,131)
-                https://2torrentz.net (136,917)
 
         BackPacks:
             Sources:
