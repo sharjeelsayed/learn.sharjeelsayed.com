@@ -1020,13 +1020,15 @@ Contents:
                 https://github.com/BurntSushi/ripgrep (ripgrep recursively searches directories for a regex pattern while respecting your gitignore )
                 https://github.com/cantino/mcfly (Fly through your shell history. Great Scott!)
                 https://github.com/ellie/atuin (🐢 Magical shell history)
-                https://github.com/junegunn/fzf (A command-line fuzzy finder)
+                https://github.com/jarun/nnn (n³ The unorthodox terminal file manager)
+                https://github.com/junegunn/fzf (https://junegunn.github.io/fzf A command-line fuzzy finder)
                 https://github.com/kaplanelad/shellfirm (Intercept any risky patterns (default or defined by you) and prompt you a small challenge for double verification)
                 https://github.com/kellyjonbrazil/jc (CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and simplifying automation scripts.)
                 https://github.com/koalaman/shellcheck (a static analysis tool for shell scripts)
                 https://github.com/nvbn/thefuck (Magnificent app which corrects your previous console command.)
                 https://github.com/Orange-OpenSource/hurl (https://hurl.dev Hurl, run and test HTTP requests with plain text.)
                 https://github.com/phiresky/ripgrep-all (rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.)
+                https://github.com/ranger/ranger (https://ranger.fm A VIM-inspired filemanager for the console)
                 https://github.com/rupa/z (z - jump around)
                 https://github.com/sxyazi/yazi (https://yazi-rs.github.io 💥 Blazing fast terminal file manager written in Rust, based on async I/O.)
                 https://github.com/Textualize/toolong (https://www.textualize.io A terminal application to view, tail, merge, and search log files (plus JSONL).)
@@ -1660,9 +1662,9 @@ Contents:
                     https://www.exam-answer.com/amazon (Exams from Amazon)
                     https://www.examtopics.com/exams/amazon (AWS Exam Practice Questions.Highest ranked site for AWS practice exams)
                     https://www.freecram.net/vendor/Amazon.html (Free Amazon Certifications Exam Questions)
-                    https://www.reddit.com/r/AWSCertifications/comments/18woit6/2024_aws_vouchers_exam_discounts_other (2024 : AWS Vouchers / Exam Discounts / Other Certification related promotions)
                     https://www.reddit.com/r/AWSCertifications/comments/1d5kkuw/aws_certified_solutions_architect_associate (AWS Certified Solutions Architect Associate (SAA-C03) Resources)
                     https://www.reddit.com/r/AWSCertifications/comments/1es74l4/aws_offering_50_discount_for_associate_exams (AWS offering 50% discount for Associate exams Deadline 12 December 2024)
+                    https://www.reddit.com/r/AWSCertifications/comments/1hlhj0k/2025_aws_vouchers_exam_discounts_coupons_other (2025 : AWS Vouchers / Exam Discounts / Coupons / Other Certification related promotions )
                     https://www.reddit.com/r/AWSCertifications/comments/pcj2nk/free_learning_resources_needed_for_aws_solutions/haje9xi (Free Learning Resources needed for "AWS Solutions Architect Associate" exam)
                     https://www.reddit.com/r/AWSCertifications/comments/uqnn53/ive_heard_the_recommendation_here_to_go_saa_sap/i8sbnj5 (If you REALLY want to get devops with minimal study you should do Dev Asso -> Sysops Asso. -> Devops Pro)
                     https://www.reddit.com/r/AWSCertifications/search/?q=course&restrict_sr=on&t=year (This subreddit focuses solely on AWS Certifications.)
@@ -1678,6 +1680,7 @@ Contents:
                 AWS provided resources:
                     https://aws.amazon.com/certification (AWS Certification Official Page)
                     https://aws.amazon.com/certification/certified-solutions-architect-associate (AWS Certified Solutions Architect – Associate)
+                    https://aws.amazon.com/certification/certified-solutions-architect-professional (AWS Certified Solutions Architect - Professional Learn more about this certification and AWS resources that can help you prepare)
                     https://aws.amazon.com/getting-started/hands-on (Find the hands-on tutorials for your AWS needs)
                     https://aws.amazon.com/training/learn-about (Learning by Role or Solution)
                     https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf (AWS Certified Solutions Architect - Associate (SAA-C03) Exam Guide)
@@ -3458,6 +3461,7 @@ Contents:
             Resume CV Tools:
                 https://github.com/AmruthPillai/Reactive-Resume (https://rxresu.me A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!)
                 https://github.com/BartoszJarocki/cv (Print-friendly, minimalist CV page)
+                https://github.com/emmabostian/developer-portfolios (A list of developer portfolios for your inspiration)
                 https://github.com/jankapunkt/latexcv (👔 A collection of cv and resume templates written in LaTeX. Leave an issue if your language is not supported!)
                 https://github.com/posquit0/Awesome-CV (📄 Awesome CV is LaTeX template for your outstanding job application)
                 https://github.com/saadq/resumake.io (https://resumake.io 📝 A website for automatically generating elegant LaTeX resumes.)
@@ -3553,6 +3557,7 @@ Contents:
                 https://www.simplyhired.co.in (31,413)
                 https://remoteok.io (31,905)
                 https://snaphunt.com (48,339)
+                https://remoteok.com
                 https://powertofly.com (96,425)
                 https://www.michaelpage.co.in (98,471)
                 https://www.jobleads.com (99,051)
@@ -3562,6 +3567,8 @@ Contents:
                 https://www.jobget.com (190,120)
                 https://laskie.com (221,700)
                 https://swissdevjobs.ch (289,507)
+                https://www.remote.io
+                https://www.skipthedrive.com
                 https://remoteleaf.com/whoishiring (684,542)
                 http://www.sampoorna.com (723,834)
                 https://www.trueup.io (736,805)
@@ -3569,6 +3576,7 @@ Contents:
                 https://whoishiring.io (934,790)
                 https://sievejobs.com (3,711,141)
                 https://arbeitnow.com/?tags=%5B%22visa%20sponsorship%22%5D (6,208,741)
+                https://remotive.com
 
             Arab League Countries Job Sites:
                 https://ae.indeed.com (66)
@@ -3993,11 +4001,11 @@ Contents:
                 https://github.com/philc/vimium
                 https://github.com/quenhus/uBlock-Origin-dev-filter (Filters to block and remove copycat-websites from DuckDuckGo, Google and other search engines. Specific to dev websites like StackOverflow or GitHub.)
                 https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean (Extension allows you to read articles from (supported) sites that implement a paywall.)
-                https://keepa.com
-                https://languagetoolplus.com
+                https://keepa.com (Keepa - Amazon Price Tracker)
+                https://languagetoolplus.com (Grammar, Style & Spell Checker)
                 https://news.ycombinator.com/item?id=23446504 ("Remove sticky" bookmarklet)
                 https://news.ycombinator.com/item?id=38014653 ("Don't mess with paste" - for when signup forms expect you to hand-type your email address twice)
-                https://newsit.benwinding.com
+                https://newsit.benwinding.com (Newsit - A news aggregator that lets you read the news without the clutter)
                 https://oblador.github.io/hush (Block nags to accept cookies and privacy invasive tracking in Safari on Mac, iPhone and iPad.)
                 https://privacybadger.org (Privacy Badger is a browser extension that automatically learns to block invisible trackers.)
                 https://support.1password.com/getting-started-1password-x
@@ -4008,7 +4016,7 @@ Contents:
                 https://www.eff.org/https-everywhere
                 https://www.fbpurity.com (F.B. Purity - Clean Up and Customize Facebook)
                 https://www.forbesconrad.com/blog/enable-password-pasting (Enable Password Pasting in Firefox)
-                https://www.joinhoney.com
+                https://www.joinhoney.com (Honey is a browser extension that automatically finds and applies coupon codes at checkout with a single click.)
                 https://www.mrfdev.com/enhancer-for-youtube (Enhancer for YouTube)
 
         Books:
