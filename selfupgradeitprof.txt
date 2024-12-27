@@ -1294,6 +1294,7 @@ Contents:
                 https://www.nsa.gov/Press-Room/News-Highlights/Article/Article/2716980/nsa-cisa-release-kubernetes-hardening-guidance (NSA, CISA release Kubernetes Hardening Guidance)
                 https://www.nslookup.io/learning/the-life-of-a-dns-query-in-kubernetes (The Life of a DNS Query in Kubernetes)
                 https://www.reddit.com/r/kubernetes/comments/1849egq/must_have_kubernetes_cluster_addons (Must have Kubernetes cluster addons?)
+                https://www.reddit.com/r/kubernetes/comments/1hlpl8k/i_want_to_learn_and_be_good_at_kubernetes (I Want to Learn and "be good at" Kubernetes)
                 https://www.reddit.com/r/kubernetes/comments/mwpj1q/how_did_you_really_master_kubernetes
                 https://www.reddit.com/r/kubernetes/comments/xauuxk/what_are_some_useful_kubernetes_tools_you_can (What are some useful Kubernetes tools you can share?)
                 https://www.tkng.io (The Kubernetes Network Model)
@@ -5436,6 +5437,7 @@ Contents:
         https://www.reddit.com/r/AskReddit/comments/70q5f2/reddit_what_are_the_most_useful_askreddit_posts
         https://www.reddit.com/r/BuyItForLife/comments/vxeudm/i_analyzed_the_most_and_least_popular_brands_on (I analyzed the most and least popular brands on r/BuyItForLife)
         https://www.reddit.com/r/dataisbeautiful/comments/11sw2co/oc_who_lived_when_i_charted_out_the_overlapping ([OC] Who Lived When? I charted out the overlapping lives of historical figures, from 1400 to today)
+        https://www.reddit.com/r/dataisbeautiful/comments/1evjgxu/a_pixel_for_every_50000_people_in_the_world (A pixel for every 50,000 people in the world)
         https://www.reddit.com/r/dataisbeautiful/comments/ujuui4/oc_the_most_discussed_brands_on_rbuyitforlife (OC: The most discussed brands on r/BuyItForLife)
         https://www.reddit.com/r/dataisbeautiful/comments/vsp9yu/oc_the_most_and_least_popular_brands_on ([OC] The most and least popular brands on r/BuyItForLife)
         https://www.reddit.com/r/EDC/comments/7j7lrs/edc_starter_pack_an_arbitrary_list_of_gear_that (EDC Starter Pack: An Arbitrary List of Gear that Gets Recommended a Lot)
