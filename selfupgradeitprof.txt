@@ -510,6 +510,7 @@ Contents:
                 https://news.ycombinator.com/item?id=18023062 (How to create an OS from scratch – tutorial (github.com))
                 https://news.ycombinator.com/item?id=18448942 (A book list for OS kernel developers and device driver writers (2006) (jdebp.eu))
                 https://news.ycombinator.com/item?id=20809666 (Ask HN: Recommended resources to learn the Linux kernel and OS theory?)
+                https://www.jmeiners.com/lc3-vm (Write your Own Virtual Machine)
 
             Books and Courses:
                 Operating Systems: Three Easy Pieces:
@@ -1020,6 +1021,7 @@ Contents:
                 https://github.com/BurntSushi/ripgrep (ripgrep recursively searches directories for a regex pattern while respecting your gitignore )
                 https://github.com/cantino/mcfly (Fly through your shell history. Great Scott!)
                 https://github.com/ellie/atuin (🐢 Magical shell history)
+                https://github.com/ghostty-org/ghostty (https://ghostty.org 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.)
                 https://github.com/jarun/nnn (n³ The unorthodox terminal file manager)
                 https://github.com/junegunn/fzf (https://junegunn.github.io/fzf A command-line fuzzy finder)
                 https://github.com/kaplanelad/shellfirm (Intercept any risky patterns (default or defined by you) and prompt you a small challenge for double verification)
@@ -4690,7 +4692,7 @@ Contents:
                         https://www.reddit.com/r/dataisbeautiful/comments/18fvw7v/oc_top_50_subreddits_with_the_most_new_posts_per ([OC] Top 50 subreddits with the most new posts per day and most comments per post (December 2023))
 
                     Subscriptions:
-                        https://old.reddit.com/r/1Password+ABCDesis+AWSCertifications+Alfred+Android+AppHookup+AppleWatch+Cartier+DataHoarder+Documentaries+ExperiencedDevs+Flights+FreeEBOOKS+GalaxyS24Ultra+ITCareerQuestions+IndiaInvestments+KindleFreebies+OmegaWatches+Piracy+Terraform+Ubuntu+Watches+androidapps+announcements+ansible+antiwork+apple+appletv+askscience+aws+beta+compsci+cscareerquestions+dataisbeautiful+developersIndia+devops+diabetes+docker+fragrance+geopolitics+india+ipad+iphone+kubernetes+learnprogramming+linux+linuxadmin+mac+macapps+malefashionadvice+movies+netsec+networking+nextdns+onebag+osx+patekphilippe+programming+rolex+samsung+science+solotravel+sysadmin+technews+technology+television+todayilearned+todoist+travel+usefulscripts+watchesindia+webdev+worldnews
+                        https://www.reddit.com/r/1Password+ABCDesis+AWSCertifications+Alfred+Android+AppHookup+AppleWatch+Cartier+DataHoarder+Documentaries+ExperiencedDevs+Flights+FreeEBOOKS+GalaxyS24Ultra+ITCareerQuestions+IndiaInvestments+KindleFreebies+ManyBaggers+OmegaWatches+Piracy+Terraform+Ubuntu+Watches+androidapps+announcements+ansible+antiwork+apple+appletv+askscience+aws+bangalore+beta+compsci+cscareerquestions+dataisbeautiful+developersIndia+devops+diabetes+digitalnomad+docker+dubai+fragrance+geopolitics+hyderabad+india+ipad+iphone+jewelry+kubernetes+learnprogramming+linux+linuxadmin+mac+macapps+malefashionadvice+movies+mumbai+netsec+networking+nextdns+onebag+osx+patekphilippe+programming+qatar+rolex+samsung+science+solotravel+sysadmin+technews+technology+television+todayilearned+todoist+travel+usefulscripts+watchesindia+webdev+worldnews
 
                 Hacker News:
                     https://apps.apple.com/us/app/hack-for-hacker-news-developer/id1464477788
