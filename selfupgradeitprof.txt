@@ -1,6 +1,6 @@
 Curated Self Study Guide for Computer Science, DevOps, SRE, Platform Engineering & SysAdmin
 
-    The latest copy of this page is at https://Learn.SharjeelSayed.com . Star/Watch/Fork at https://github.com/sharjeelsayed/learn.sharjeelsayed.com
+    The latest copy of this page is at https://Learn.SharjeelSayed.com . Star, Watch or Fork this page at https://GitHub.com/SharjeelSayed/Learn.SharjeelSayed.com
 
     About me: SharjeelSayed.com
 
