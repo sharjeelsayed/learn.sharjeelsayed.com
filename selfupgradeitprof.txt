@@ -635,7 +635,7 @@ Contents:
                 https://news.ycombinator.com/item?id=13417326 (Ask HN: what is the best online resource to learn advanced sql?)
                 https://news.ycombinator.com/item?id=21793270 (Database internals (databass.dev))
                 https://news.ycombinator.com/item?id=23138297 (Advanced sql and database books and resources (neilwithdata.com))
-                https://ottertune.com/blog/2021-databases-retrospective (Databases in 2021: a year in review)
+                https://www.cs.cmu.edu/~pavlo/blog/2025/01/2024-databases-retrospective.html (Databases in 2024: A Year in Review)
                 https://redis.com/blog/datasets-for-test-databases (Groovy datasets for test databases)
                 https://sp23.datastructur.es (CS 61b data structures, spring 2023)
                 https://tontinton.com/posts/database-fundementals (Database Fundamentals)
@@ -788,6 +788,7 @@ Contents:
                 https://roadmap.sh/devops (Step by step guide for DevOps, SRE or any other Operations Role in 2024)
                 https://slack.cloudposse.com https://sweetops.slack.com https://slack.sweetops.com (SweetOps Slack Group)
                 https://www.actionsbyexample.com (GitHub Actions by Example is an introduction to the service through annotated examples.)
+                https://www.devopscommunity.in
                 https://www.linkedin.com/groups/2825397 (DevOps Group)
                 https://www.reddit.com/r/devops/comments/1ahd072/most_intelligent_engineers_on_youtube (Most intelligent engineers on YouTube)
                 https://www.reddit.com/r/devops/comments/n2l9ja/which_are_your_favourite_youtube_channelsblogs
