@@ -3135,6 +3135,7 @@ Contents:
                 https://github.com/eugeneyan/open-llms (🤖 A list of open LLMs available for commercial use.)
                 https://github.com/f/awesome-chatgpt-prompts (https://prompts.chat This repo includes ChatGPT prompt curation to use ChatGPT better.)
                 https://github.com/GoogleCloudPlatform/generative-ai (https://cloud.google.com/vertex-ai/docs/generative-ai/learn/overview Sample code and notebooks for Generative AI on Google Cloud)
+                https://github.com/Hannibal046/Awesome-LLM (Awesome-LLM: a curated list of Large Language Model)
                 https://github.com/humanloop/awesome-chatgpt (Curated list of awesome tools, demos, docs for ChatGPT and GPT-3 )
                 https://github.com/labmlai/annotated_deep_learning_paper_implementations ( 🧑‍🏫 60 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠 )
                 https://github.com/netease-youdao/QAnything (https://qanything.ai Question and Answer based on Anything.)
@@ -3530,6 +3531,7 @@ Contents:
                 https://www.reddit.com/r/india/comments/81r29c/your_onestop_guide_to_emigrating_long_term_to
                 https://www.reddit.com/r/india/comments/gja5eo/advice_for_indians_looking_to_study_abroad_and
                 https://www.reddit.com/r/recruitinghell/top (This subreddit is for all of those recruiters and candidates who really don't get it. Post your horror stories and show us those amazing job offers!)
+                https://www.statista.com/statistics/199999/worldwide-tech-layoffs-covid-19 (Number of tech employees laid off worldwide from 2020 to 2024, by quarter)
                 https://pinboard.in/u:SharjeelSayed/t:jobs
 
         Job Sites: (Sorted by Alexa Rank)
