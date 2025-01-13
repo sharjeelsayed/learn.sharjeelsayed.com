@@ -69,6 +69,7 @@ Contents:
         C
         C++
         Java
+        Rust
         Web Development
         JavaScript
         Node.js
@@ -2964,6 +2965,10 @@ Contents:
 
                 Murach's Java Servlets and JSP
                 https://www.amazon.com/Murachs-Java-Servlets-JSP-2nd/dp/1890774448
+
+        Rust:
+            Sources:
+                https://github.com/mainmatter/100-exercises-to-learn-rust (https://rust-exercises.com A self-paced course to learn Rust, one exercise at a time. )
 
         Web Development:
             Sources:
