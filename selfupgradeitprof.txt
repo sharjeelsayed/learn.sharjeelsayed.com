@@ -2774,7 +2774,7 @@ Contents:
                 https://academy.tcm-sec.com (144,285)
                 https://learnk8s.io (172,663)
 
-            An ACM Membership of $22/year provides free Pluralsight access worth $150+/year https://app.pluralsight.com/library. The India Sign up page is at https://services.acm.org/public/qj/proflevel/proflevel_control.cfm?level=3&country=India&form_type=Professional&promo=LEVEL&pay=DD
+            An ACM Membership of Rs. 1500/ year ($18) gives you an option to purchage the $75 ACM Skills Bundle Add-on which includes O'Reilly, Skillsoft Percipio, and Pluralsight books/courses package https://learning.acm.org/skills-bundle. The India Sign up page is at https://services.acm.org/public/qj/proflevel/proflevel_control.cfm?level=3&country=India&form_type=Professional&promo=LEVEL&pay=DD
 
     Development:
         SQL:
@@ -3157,6 +3157,7 @@ Contents:
                 https://news.ycombinator.com/item?id=34312248 (Ask HN: What are the foundational texts for learning about AI/ML/NN?)
                 https://news.ycombinator.com/item?id=38331200 (Deep Learning Course (fleuret.org))
                 https://news.ycombinator.com/item?id=38638373 (Ask HN: Daily practices for building AI/ML skills?)
+                https://news.ycombinator.com/item?id=42686457 (AI Engineer Reading List (latent.space))
                 https://osanseviero.github.io/hackerllama/blog/posts/random_transformer (The Random Transformer Understand how transformers work by demystifying all the math behind them)
                 https://sourcegraph.com/cody (Cody is a coding AI assistant that uses AI and a deep understanding of your codebase to help you write and understand code faster.)
                 https://www.amazon.com/Artificial-Intelligence-A-Modern-Approach-dp-0134610997/dp/0134610997 (Artificial Intelligence: A Modern Approach (Pearson Series in Artifical Intelligence) 4th Edition by Stuart Russell and Peter Norvig)
@@ -5233,7 +5234,6 @@ Contents:
                 https://en.wikipedia.org/wiki/List_of_most_expensive_watches_sold_at_auction (List of most expensive watches sold at auction)
                 https://en.wikipedia.org/wiki/Reference_57260 (Vacheron Constantin Reference 57260 : The Most Complicated Watch Ever Made)
                 https://en.wikipedia.org/wiki/Spring_Drive (Spring Drive)
-                https://instagram.com/superwatchman (Instagram's Most Followed Celebrity Watch Page 🏆)
                 https://monochrome-watches.com/industry-news-top-50-swiss-watch-companies-of-2023-according-to-morgan-stanley-rolex-breaking-the-chf-10-billion-barrier (The Top 50 Swiss Watch Companies of 2023 According to Morgan Stanley)
                 https://quillandpad.com/2021/03/19/the-diving-bezel-the-most-versatile-watch-complication-even-if-youre-not-a-diver (The Diving Bezel: The Most Versatile Watch Complication, Even If You’re Not A Diver)
                 https://subdial.com/market (Watch Index)
