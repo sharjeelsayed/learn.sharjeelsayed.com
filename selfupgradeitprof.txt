@@ -624,6 +624,7 @@ Contents:
                 https://awesomedataengineering.com (Learning path and resources to become a data engineer. Best books, best courses and best articles on each subject.)
                 https://build-your-own.org/database ( Build your own database from scratch . persistence, indexing, concurrency)
                 https://datasetsearch.research.google.com (Dataset search)
+                https://db-engines.com/en/blog_post/109 (PostgreSQL is the Database Management System of the Year 2024)
                 https://db-engines.com/en/ranking (Db-engines ranking)
                 https://github.com/alexeygrigorev/data-science-interviews (Data science interview questions and answers https://ds-interviews.org)
                 https://github.com/bytebase/bytebase (https://www.bytebase.com World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams. The GitLab/GitHub for database DevOps.)
@@ -639,10 +640,10 @@ Contents:
                 https://news.ycombinator.com/item?id=13417326 (Ask HN: what is the best online resource to learn advanced sql?)
                 https://news.ycombinator.com/item?id=21793270 (Database internals (databass.dev))
                 https://news.ycombinator.com/item?id=23138297 (Advanced sql and database books and resources (neilwithdata.com))
-                https://www.cs.cmu.edu/~pavlo/blog/2025/01/2024-databases-retrospective.html (Databases in 2024: A Year in Review)
                 https://redis.com/blog/datasets-for-test-databases (Groovy datasets for test databases)
                 https://sp23.datastructur.es (CS 61b data structures, spring 2023)
                 https://tontinton.com/posts/database-fundementals (Database Fundamentals)
+                https://www.cs.cmu.edu/~pavlo/blog/2025/01/2024-databases-retrospective.html (Databases in 2024: A Year in Review)
                 https://www.dedp.online (Book: Data Engineering Design Patterns (DEDP))
                 https://www.reddit.com/r/database
                 https://pinboard.in/u:SharjeelSayed/t:db
@@ -997,6 +998,7 @@ Contents:
                 https://github.com/topics/bash?o=desc&s=stars
                 https://github.com/topics/cli?o=desc&s=stars (Command line interface)
                 https://github.com/topics/command-line?o=desc&s=stars (Command line)
+                https://jvns.ca/blog/2025/01/11/getting-a-modern-terminal-setup (What's involved in getting a "modern" terminal setup?)
                 https://linoxide.com/linux-how-to/linux-commands-brief-outline-examples
                 https://linuxcommandlibrary.com/basic/oneliners.html (One-liners)
                 https://miro.medium.com/v2/resize:fit:1400/format:webp/1*VTVc8B7HNyu1AIBII2Ls6g.png (sed cheatsheet)
@@ -1988,6 +1990,7 @@ Contents:
 
         PostgreSQL:
             Sources:
+                https://db-engines.com/en/blog_post/109 (PostgreSQL is the Database Management System of the Year 2024)
                 https://gist.github.com/cpursley/c8fb81fe8a7e5df038158bdfe0f06dbb (PostgreSQL is Enough)
                 https://github.com/dhamaniasad/awesome-postgres (A curated list of awesome PostgreSQL software, libraries, tools and resources, inspired by awesome-mysql)
                 https://github.com/okbob/pspg (Unix pager designed for work with tables. Designed for PostgreSQL, but MySQL is supported too. Now it can be used as CSV or TSV viewer. Works well with pgcli too.)
@@ -2106,6 +2109,7 @@ Contents:
                 https://github.com/LeCoupa/awesome-cheatsheets/blob/master/tools/git.sh
                 https://github.com/Legit-Labs/legitify (https://legitify.dev Detect and remediate misconfigurations and security risks across all your GitHub and GitLab assets)
                 https://github.com/martinvonz/jj (A Git-compatible DVCS that is both simple and powerful)
+                https://github.com/mrgoonie/cmai (A quick CLI command to generate commit message using AI and push to origin )
                 https://github.com/o2sh/onefetch (https://onefetch.dev Command-line Git information tool)
                 https://github.com/tpope/vim-fugitive (fugitive.vim: A Git wrapper so awesome, it should be illegal https://www.vim.org/scripts/script.php?script_id=2975)
                 https://www.sourcetreeapp.com (A free Git client for Windows and Mac)
@@ -2387,6 +2391,7 @@ Contents:
                 https://pinboard.in/u:SharjeelSayed/t:security
                 https://portswigger.net/research/top-10-web-hacking-techniques-of-2023 (Top 10 web hacking techniques of 2023 by James Kettle)
                 https://ppn.snovvcrash.rocks (Pentester's promiscuous handbook)
+                https://redhuntlabs.com/blog/open-port-chronicle-what-port-80-revealed-about-the-internet-project-resonance-wave-12 (What Port 80 Revealed About The Internet)
                 https://reynardsec.com/en/docker-platform-security-step-by-step-hardening (Docker Security – Step-by-Step Hardening (Docker Hardening))
                 https://room362.com/start (Start in Infosec)
                 https://s3ctur.wordpress.com/2017/06/19/breaking-into-infosec-a-beginners-curriculum (Breaking into InfoSec: A Beginners Curriculum)
