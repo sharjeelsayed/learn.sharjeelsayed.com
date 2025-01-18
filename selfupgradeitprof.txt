@@ -622,6 +622,7 @@ Contents:
             Sources:
                 https://architecturenotes.co/things-you-should-know-about-databases (Things you should know about databases)
                 https://awesomedataengineering.com (Learning path and resources to become a data engineer. Best books, best courses and best articles on each subject.)
+                https://build-your-own.org/blog/20251015_db_in_3000 (Build your own database in 3000 lines of code)
                 https://build-your-own.org/database ( Build your own database from scratch . persistence, indexing, concurrency)
                 https://datasetsearch.research.google.com (Dataset search)
                 https://db-engines.com/en/blog_post/109 (PostgreSQL is the Database Management System of the Year 2024)
@@ -814,6 +815,9 @@ Contents:
 
                 The Practice of System and Network Administration: Volume 1: DevOps and other Best Practices for Enterprise IT (3rd Edition)
                     https://www.amazon.com/dp/0321919165
+
+                Accelerate The Science of Lean Software and DevOps Building and Scaling High Performing Technology Organizations by Nicole Forsgren ,Jez Humble and Gene Kim (2018)
+                    https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339
 
         SRE:
             Sources:
@@ -2061,6 +2065,7 @@ Contents:
                 https://jvns.ca/blog/2024/02/16/popular-git-config-options (Popular Git config options by Julia Evans)
                 https://news.ycombinator.com/item?id=21189256 (99% of the Git commands you'll need at work, demonstrated in a single script (bitbucket.org))
                 https://news.ycombinator.com/item?id=39400352 (Popular Git config options (jvns.ca))
+                https://news.ycombinator.com/item?id=42728916 (Oh Shit, Git? (ohshitgit.com))
                 https://nvie.com/posts/a-successful-git-branching-model (A successful Git branching model)
                 https://ossinsight.io (SELECT insights FROM GitHub events 🔥 Trending Repos)
                 https://relatedrepos.com (Discover related open source projects)
@@ -4711,7 +4716,7 @@ Contents:
                         https://www.reddit.com/r/dataisbeautiful/comments/18fvw7v/oc_top_50_subreddits_with_the_most_new_posts_per ([OC] Top 50 subreddits with the most new posts per day and most comments per post (December 2023))
 
                     Subscriptions:
-                        https://www.reddit.com/r/1Password+ABCDesis+AWSCertifications+Alfred+Android+AppHookup+AppleWatch+Cartier+DataHoarder+Documentaries+ExperiencedDevs+Flights+FreeEBOOKS+GalaxyS24Ultra+ITCareerQuestions+IndiaInvestments+KindleFreebies+ManyBaggers+OmegaWatches+Piracy+Terraform+Ubuntu+Watches+androidapps+announcements+ansible+antiwork+apple+appletv+askscience+aws+bangalore+beta+compsci+cscareerquestions+dataisbeautiful+developersIndia+devops+diabetes+digitalnomad+docker+dubai+fragrance+geopolitics+hyderabad+india+ipad+iphone+jewelry+kubernetes+learnprogramming+linux+linuxadmin+mac+macapps+malefashionadvice+movies+mumbai+netsec+networking+nextdns+onebag+osx+patekphilippe+programming+qatar+rolex+samsung+science+solotravel+sysadmin+technews+technology+television+todayilearned+todoist+travel+usefulscripts+watchesindia+webdev+worldnews
+                        https://www.reddit.com/r/1Password+ABCDesis+AWSCertifications+Alfred+Android+AppHookup+AppleWatch+Cartier+DataHoarder+Documentaries+ExperiencedDevs+Flights+FreeEBOOKS+GalaxyS24Ultra+ITCareerQuestions+IndiaInvestments+KindleFreebies+Louisvuitton+ManyBaggers+OmegaWatches+Piracy+Terraform+TheHermesGame+Ubuntu+Watches+androidapps+announcements+ansible+antiwork+apple+appletv+askscience+aws+bangalore+beta+compsci+cscareerquestions+dataisbeautiful+developersIndia+devops+diabetes+digitalnomad+docker+dubai+fragrance+geopolitics+hyderabad+india+ipad+iphone+jewelry+kubernetes+learnprogramming+linux+linuxadmin+mac+macapps+malefashionadvice+movies+mumbai+netsec+networking+nextdns+onebag+osx+patekphilippe+programming+qatar+rolex+samsung+science+solotravel+sysadmin+technews+technology+television+todayilearned+todoist+travel+usefulscripts+watchesindia+webdev+worldnews
 
                 Hacker News:
                     https://apps.apple.com/us/app/hack-for-hacker-news-developer/id1464477788
@@ -5344,7 +5349,7 @@ Contents:
                 https://scentjourner.com/en-international/blogs/wellness/the-importance-of-fixatives-and-its-effect-on-projection-longevity-sillage (The Importance of Fixatives and Its Effect on Projection, Longevity, Sillage)
                 https://www.acharr.com/what-is-the-difference-between-edt-edp-and-parfum (What is the difference between EDT, EDP and Parfum ?)
                 https://www.reddit.com/r/fragrance/comments/bhlszk/edc_edt_edp_and_parfum_eductationlong (EDC, EDT, EDP and Parfum - Eductation/Long)
-                https://www.reddit.com/r/OUTFITS+femalefashionadvice+fragrance+jewelry+malefashionadvice
+                https://www.reddit.com/r/Louisvuitton+OUTFITS+TheHermesGame+femalefashionadvice+fragrance+jewelry+malefashionadvice
                 https://www.riorabbit.in/products/king-2-0 ( Inspired by the magnetic charisma of Dunhill Desire Red and the enigmatic ambiance of Diptyque L'Ombre dans)
                 https://www.statista.com/statistics/267948/brand-value-of-the-leading-10-most-valuable-luxury-brands-worldwide (Brand value of the leading 10 most valuable luxury brands worldwide)
 
