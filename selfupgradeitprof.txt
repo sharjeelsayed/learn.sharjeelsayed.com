@@ -2308,6 +2308,7 @@ Contents:
                 https://allinfosecnews.com (Aggregates all of the top news, podcasts and more about Cyber Security, InfoSec, Cryptography, Online Privacy, Hacking, Vulnerability and Threat Research into one place.)
                 https://aws.amazon.com/training/digital/aws-security-fundamentals (AWS Security Fundamentals (Second Edition))
                 https://aws.github.io/aws-security-services-best-practices (AWS Security Services Best Practices)
+                https://blog.cloudflare.com/ddos-threat-report-for-2024-q4 (Record-breaking 5.6 Tbps DDoS attack and global DDoS trends for 2024 Q4)
                 https://cheatsheetseries.owasp.org (The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.)
                 https://cloud.redhat.com/blog/top-open-source-kubernetes-security-tools-of-2021 (Top Open Source Kubernetes Security Tools of 2021)
                 https://cloudseclist.com (A low volume newsletter (delivered once per week) that highlights security-related news focused on the cloud native landscape, hand curated by Marco Lancini.)
@@ -3145,6 +3146,7 @@ Contents:
                 https://fleuret.org/public/lbdl.pdf (The Little Book of Deep Learning by François Fleuret)
                 https://github.com/ai-boost/Awesome-GPTs (Curated list of awesome GPTs 👍.)
                 https://github.com/ai-collection/ai-collection ( The Generative AI Landscape - A List of Awesome Generative AI Applications Topics)
+                https://github.com/bodo-run/yek (A fast tool to read text-based files in a repository or directory, chunk them, and serialize them for LLM consumption. )
                 https://github.com/continuedev/continue (https://continue.dev ⏩ Continue is an open-source autopilot for VS Code and JetBrains—the easiest way to code with any LLM)
                 https://github.com/dair-ai/ML-Papers-of-the-Week (🔥Highlighting the top ML papers every week.)
                 https://github.com/dair-ai/Prompt-Engineering-Guide (🐙 Guides, papers, lecture, notebooks and resources for prompt engineering )
@@ -3160,6 +3162,7 @@ Contents:
                 https://github.com/OpenMindClub/awesome-chatgpt (⚡ Everything about ChatGPT )
                 https://github.com/Shubhamsaboo/awesome-llm-apps ( https://www.theunwindai.com Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.)
                 https://github.com/taranjeet/awesome-gpts (Collection of all the GPTs created by the community)
+                https://github.com/tencent/Hunyuan3D-2 (High-Resolution 3D Assets Generation with Large Scale Hunyuan3D Diffusion Models.)
                 https://news.ycombinator.com/item?id=12713056 (Ask HN: How to get started with machine learning?)
                 https://news.ycombinator.com/item?id=16493489 (Machine Learning Crash Course)
                 https://news.ycombinator.com/item?id=18321665 (Foundations of ML and AI: Book recommendations (dragan.rocks))
@@ -5267,7 +5270,7 @@ Contents:
                 https://www.reddit.com/r/Watches/wiki/faq (r/Watches FAQ)
                 https://www.styxwatch.com ( STYX Watch Protection film for watches)
                 https://youtu.be/9_QsCLYs2mY?si=8b8_Vq0c2OoUS6XY (How a Mechanical Watch Works by Animagraffs)
-                https://youtu.be/f82nPwGgUDE?si=mqdLLSPyN2qgNgtB (Our Most Worn Watches Of The Year (Over 30 Channels Mentioned))
+                https://youtu.be/p430TQ0TSSM?si=iKhlOVvdw7D2JpY7 (Our Most Worn Watches Of The Year for 2024 (Over 40 Channels Mentioned) by Teddy Baldassarre)
                 https://youtu.be/fMncXiA-AuE (Tachymeter Explained! (5 examples) by Erik Ternsjö)
                 https://youtu.be/PHis9l8cJks (75 Watch Terms You Need to Know - A Crash Course to Watch Collecting Terminology by Teddy Baldassarre)
                 https://youtu.be/Sy4wusLxTBo (How to Use a Slide Rule on a Watch | Breitling Navitimer by Crown & Caliber by Hodinkee)
@@ -5300,6 +5303,7 @@ Contents:
                     https://youtu.be/kRiOW2KR5PY?si=-OZm-W_NDV2hN8oD (How to set your Rolex Explorer II by Rolex)
 
                 Rolex Deepsea:
+                    https://en.wikipedia.org/wiki/Diving_watch#Full_ocean_depth_prototype/experimental_watches (Full ocean depth prototype/experimental watches)
                     https://en.wikipedia.org/wiki/Rolex_Sea-Dweller#Rolex_Sea-Dweller_Deepsea_variant (Rolex Sea-Dweller Deepsea variant)
                     https://watchcharts.com/watch_model/36343-rolex-deepsea-sea-dweller-136660/overview
                     https://www.reddit.com/r/rolex/comments/1f25itc/136660_whats_the_difference_with_or_without (136660, whats the difference with or without “SEA-DWELLER” marking?)
