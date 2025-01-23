@@ -165,6 +165,7 @@ Contents:
             https://ocw.mit.edu/courses/find-by-topic/#cat=engineering&subcat=computerscience
             https://spin.atomicobject.com/2015/05/15/obtaining-thorough-cs-background-online (Obtaining a Thorough CS Background Online )
             https://techdevguide.withgoogle.com (Grow Your Technical Skills with Google)
+            https://terriblesoftware.org/2025/01/22/the-7-most-influential-papers-in-computer-science-history (The 7 Most Influential Papers in Computer Science History)
             https://www.amazon.com/Best-Sellers-Books-Computer-Science/zgbs/books/468204
             https://www.classcentral.com/collection/ivy-league-moocs?subject=cs
             https://www.classcentral.com/subject/cs
@@ -394,6 +395,7 @@ Contents:
             Sources:
                 https://github.com/hackclub/putting-the-you-in-cpu (A technical explainer by @kognise of how your computer runs programs, from start to finish. https://cpu.land)
                 https://news.ycombinator.com/item?id=14526344 (Build a Modern Computer from First Principles: Nand to Tetris Part II)
+                https://news.ycombinator.com/item?id=42793597 (Simple CPU Design (simplecpudesign.com))
                 https://turingcomplete.game (Turing Complete is a puzzle game about computers. Build CPUs, GPUs, and RAM from scratch to solve the game's challenges.)
 
             Books and Courses:
@@ -2459,6 +2461,7 @@ Contents:
                 https://gtfobins.github.io (GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems.)
                 https://netfilter.org/documentation (Documentation about the netfilter/iptables project)
                 https://offsec.tools (A vast collection of security tools)
+                https://stratoshark.org (Stratoshark lets you explore and analyze applications at the system call level using a mature, proven interface based on Wireshark. Created for the community by Sysdig)
                 https://tools.tldr.run (Curated list of security tools for Hackers & Builders!)
 
             Books and Courses:
@@ -3485,6 +3488,7 @@ Contents:
                 https://thetechresume.com (A practical guide written by the people who do the resume screening:)
                 https://www.overleaf.com/latex/templates/tagged/cv
                 https://www.reddit.com/r/sysadminresumes/top
+                https://rabbitresume.com/boost (https://docs.google.com/spreadsheets/d/1VxSdTyCHBR1PcIcrEVwrzBD1HChtgOFbihvYHmw1ric)
                 https://pinboard.in/u:SharjeelSayed/t:resume
 
             Resume CV Tools:
