@@ -1048,6 +1048,8 @@ Contents:
                 https://github.com/rupa/z (z - jump around)
                 https://github.com/sxyazi/yazi (https://yazi-rs.github.io 💥 Blazing fast terminal file manager written in Rust, based on async I/O.)
                 https://github.com/Textualize/toolong (https://www.textualize.io A terminal application to view, tail, merge, and search log files (plus JSONL).)
+                https://github.com/yassinebenaid/bunster (https://bunster.netlify.app Compile shell scripts to native executable programs)
+                https://justine.lol/cosmo3 (Platform-agnostic bash executable)
                 https://ugrep.com (a more powerful, ultra fast, user-friendly, compatible grep)
 
             Books and Courses:
@@ -1604,6 +1606,7 @@ Contents:
                 https://www.reddit.com/r/aws/comments/on154c/lessons_learned_if_you_could_do_it_all_from_the (Lessons learned: if you could do it "all" from the start again, what would you do differently / anew in your AWS? (self.aws))
                 https://www.reddit.com/r/AWSCertifications/comments/y2hw5t/free_technical_fundamentals_content (Free Technical Fundamentals Content by Adrian Cantrill)
                 https://www.stackery.io/registry (Enter an AWS CloudFormation template for instant analysis)
+                https://www.wiz.io/blog/the-many-ways-to-obtain-credentials-in-aws (The many ways to obtain credentials in AWS)
                 https://youtu.be/B08iQQhXG1Y (The Most Important AWS Services (with an easy to follow example!))
                 https://pinboard.in/u:SharjeelSayed/t:aws
 
@@ -2414,6 +2417,7 @@ Contents:
                 https://tls13.xargs.org (The Illustrated TLS 1.3 Connection Every byte explained and reproduced)
                 https://toc.cryptobook.us (A Graduate Course in Applied Cryptography)
                 https://tryhackme.com/r/resources/blog/security-engineer-interview-guide (Preparing for a Security Engineering Interview)
+                https://www.cisa.gov/resources-tools/resources/product-security-bad-practices (Product Security Bad Practices)
                 https://www.cisa.gov/sites/default/files/publications/Federal_Government_Cybersecurity_Incident_and_Vulnerability_Response_Playbooks_508C.pdf (CISA Cybersecurity Incident and Vulnerability Response Playbooks)
                 https://www.cisecurity.org/benchmark/amazon_web_services (A step-by-step checklist to secure Amazon Web Services)
                 https://www.cisecurity.org/cis-benchmarks (CIS Benchmarks List)
@@ -5261,6 +5265,7 @@ Contents:
                 https://www.amazon.com/Best-Sellers-Clothing-Shoes-Jewelry-Mens-Watches/zgbs/fashion/6358539011 (Best Sellers in Men's Watches)
                 https://www.amazon.com/Best-Sellers-Clothing-Shoes-Jewelry-Watch-Repair-Tools-Kits/zgbs/fashion/378531011 (Best Sellers in Watch Repair Tools & Kits)
                 https://www.chrono24.com/chronopulse.htm (ChronoPulse – Market Performance)
+                https://www.gphg.org/en (Grand Prix d'Horlogerie de Genève (GPHG) 1is a foundation under Swiss law recognized as being of public utility since 2011. It holds an annual award ceremony in Geneva in November)
                 https://www.hodinkee.com/articles/every-watch-clock-and-timer-that-went-to-the-moon (In-Depth Every Watch, Clock, And Timer That Went To The Moon)
                 https://www.hodinkee.com/articles/think-you-can-name-every-single-watch-thats-ever-gone-to-space (Interview Think You Can Name Every Single Watch That's Ever Gone To Space? There are 1,899 of them. Meet the man that's cataloging them all in one database.)
                 https://www.instagram.com/dailywatch (World's biggest account on Watches)
@@ -5274,8 +5279,8 @@ Contents:
                 https://www.reddit.com/r/Watches/wiki/faq (r/Watches FAQ)
                 https://www.styxwatch.com ( STYX Watch Protection film for watches)
                 https://youtu.be/9_QsCLYs2mY?si=8b8_Vq0c2OoUS6XY (How a Mechanical Watch Works by Animagraffs)
-                https://youtu.be/p430TQ0TSSM?si=iKhlOVvdw7D2JpY7 (Our Most Worn Watches Of The Year for 2024 (Over 40 Channels Mentioned) by Teddy Baldassarre)
                 https://youtu.be/fMncXiA-AuE (Tachymeter Explained! (5 examples) by Erik Ternsjö)
+                https://youtu.be/p430TQ0TSSM?si=iKhlOVvdw7D2JpY7 (Our Most Worn Watches Of The Year for 2024 (Over 40 Channels Mentioned) by Teddy Baldassarre)
                 https://youtu.be/PHis9l8cJks (75 Watch Terms You Need to Know - A Crash Course to Watch Collecting Terminology by Teddy Baldassarre)
                 https://youtu.be/Sy4wusLxTBo (How to Use a Slide Rule on a Watch | Breitling Navitimer by Crown & Caliber by Hodinkee)
 
@@ -5360,6 +5365,7 @@ Contents:
                 https://en.wikipedia.org/wiki/Louis_Vuitton (Louis Vuitton)
                 https://en.wikipedia.org/wiki/Love_bracelet_(Cartier) (Love bracelet (Cartier))
                 https://en.wikipedia.org/wiki/Luxury_goods (Luxury goods)
+                https://leathertainment.notion.site (Tanner’s Club - Leather Brand Guide)
                 https://realstyle.therealreal.com/trr-full-resale-report-2024 (The RealReal’s FULL 2024 Resale Report)
                 https://scentjourner.com/en-international/blogs/wellness/the-importance-of-fixatives-and-its-effect-on-projection-longevity-sillage (The Importance of Fixatives and Its Effect on Projection, Longevity, Sillage)
                 https://www.acharr.com/what-is-the-difference-between-edt-edp-and-parfum (What is the difference between EDT, EDP and Parfum ?)
