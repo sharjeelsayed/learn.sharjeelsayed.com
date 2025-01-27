@@ -3149,6 +3149,7 @@ Contents:
                 https://bbycroft.net/llm (A 3D animated visualization of an LLM with a walkthrough)
                 https://danielmiessler.com/p/get-samantha-tars-interstellar-iphoneandroid (How to Get Samantha from Her or TARS from Interstellar on Your iPhone/Android)
                 https://e2eml.school/transformers.html (Transformers from Scratch)
+                https://en.wikipedia.org/wiki/DeepSeek (DeepSeek is a Chinese artificial intelligence company which develops open-source large language models.)
                 https://en.wikipedia.org/wiki/Large_language_model (Large language model)
                 https://fleuret.org/public/lbdl.pdf (The Little Book of Deep Learning by François Fleuret)
                 https://github.com/ai-boost/Awesome-GPTs (Curated list of awesome GPTs 👍.)
@@ -3158,6 +3159,7 @@ Contents:
                 https://github.com/dair-ai/ML-Papers-of-the-Week (🔥Highlighting the top ML papers every week.)
                 https://github.com/dair-ai/Prompt-Engineering-Guide (🐙 Guides, papers, lecture, notebooks and resources for prompt engineering )
                 https://github.com/danielmiessler/fabric (fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.)
+                https://github.com/deepseek-ai/awesome-deepseek-integration (Integrate the DeepSeek API into popular softwares.)
                 https://github.com/eugeneyan/applied-ml (📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.)
                 https://github.com/eugeneyan/open-llms (🤖 A list of open LLMs available for commercial use.)
                 https://github.com/f/awesome-chatgpt-prompts (https://prompts.chat This repo includes ChatGPT prompt curation to use ChatGPT better.)
@@ -5286,8 +5288,9 @@ Contents:
 
             Rolex:
                 Sources:
+                    https://quillandpad.com/2024/02/13/rolex-case-study-how-many-watches-and-how-much-money-does-rolex-make-2 (Rolex Case Study: How Many Watches and How Much Money Does Rolex Make?)
                     https://www.reddit.com/r/rolex/comments/1gf0wsz/i_also_work_at_a_rolex_ad_ama (I also work at a Rolex AD. AMA )
-                    https://xj5wpvbg6op.typeform.com/rolex-waitlist (Rolex Waitlist)
+                    https://xj5wpvbg6op.typeform.com/rolex-waitlist (Rolex Waitlist Calculator)
                     https://youtu.be/FDSJU7giBgk?si=_1tDNbPTh5tvxBs0 (Rolex Daytona Buyers Guide: Ranked Worst to Best by Watchtrader & Co)
                     https://youtu.be/QF_1fGrIxhI?si=q7hL1bKDUYiQmQqY (The Rolex Waitlist Explained (Wait Times Included) by Luxury Bazaar)
                     https://youtu.be/y_gVrragyNE?si=E3mRryIh-kBtyUd_ (How to adjust the easy link clasp on your Rolex DateJust by Joe Escobar Diamonds)
