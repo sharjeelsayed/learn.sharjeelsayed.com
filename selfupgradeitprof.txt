@@ -1371,6 +1371,7 @@ Contents:
                 https://github.com/salesforce/sloop (Kubernetes History Visualization)
                 https://github.com/stern/stern (⎈ Multi pod and container log tailing for Kubernetes)
                 https://github.com/vilaca/awesome-k8s-tools (List of k8s/container/devops tools.)
+                https://github.com/vitobotta/hetzner-k3s (The easiest and fastest way to create and manage Kubernetes clusters in Hetzner Cloud using the lightweight distribution k3s by Rancher.)
                 https://github.com/weaveworks/kubediff (a tool for Kubernetes to show differences between running state and version controlled configuration.)
                 https://github.com/zegl/kube-score (https://kube-score.com Kubernetes object analysis with recommendations for improved reliability and security)
                 https://k8syaml.com (Kubernetes YAML Generator)
@@ -5250,11 +5251,13 @@ Contents:
         Wrist Watch:
             Sources:
                 https://ciechanow.ski/mechanical-watch (Mechanical Watch)
+                https://en.wikipedia.org/wiki/Astron_(wristwatch) (World's first "quartz clock")
                 https://en.wikipedia.org/wiki/Coaxial_escapement (Coaxial escapement)
                 https://en.wikipedia.org/wiki/COSC (Contrôle officiel suisse des Chronomètres (COSC))
                 https://en.wikipedia.org/wiki/G%C3%A9rald_Genta (Gérald Genta)
                 https://en.wikipedia.org/wiki/History_of_watches (History of watches)
                 https://en.wikipedia.org/wiki/List_of_most_expensive_watches_sold_at_auction (List of most expensive watches sold at auction)
+                https://en.wikipedia.org/wiki/Poljot (Poljot produced the world's first space watch worn by Yuri Gagarin)
                 https://en.wikipedia.org/wiki/Reference_57260 (Vacheron Constantin Reference 57260 : The Most Complicated Watch Ever Made)
                 https://en.wikipedia.org/wiki/Spring_Drive (Spring Drive)
                 https://monochrome-watches.com/industry-news-top-50-swiss-watch-companies-of-2023-according-to-morgan-stanley-rolex-breaking-the-chf-10-billion-barrier (The Top 50 Swiss Watch Companies of 2023 According to Morgan Stanley)
@@ -5335,10 +5338,10 @@ Contents:
                     https://youtu.be/WPLKs6FDpM4?si=0pqoDyQ-Fzjg8SQL (TUDOR Tutorial #12: how to use the GMT function?)
 
             Omega Speedmaster:
-                    https://www.omegawatches.com/watch-omega-speedmaster-moonwatch-professional-co-axial-master-chronometer-chronograph-42-mm-31030425001002 (Omega Speedmaster Moonwatch Professional Co‑Axial Master Chronometer Chronograph 42 mm)
+                    https://en.wikipedia.org/wiki/Omega_Speedmaster (First watch worn by an astronaut walking on the Moon)
                     https://watchcharts.com/watch_model/30921-omega-speedmaster-professional-moonwatch-310-30-42-50-01-002 (Market Watch Analysis for  Omega 310.30.42.50.01.002 Speedmaster Professional Moonwatch (Sapphire Crystal)
                     https://www.omegawatches.com/media/pdf/user-manuals/OMEGA_User_Manual_EN.pdf
-                    https://en.wikipedia.org/wiki/Omega_Speedmaster (Omega Speedmaster)
+                    https://www.omegawatches.com/watch-omega-speedmaster-moonwatch-professional-co-axial-master-chronometer-chronograph-42-mm-31030425001002 (Omega Speedmaster Moonwatch Professional Co‑Axial Master Chronometer Chronograph 42 mm)
 
             Seiko 5:
                 https://www.seikowatches.com/in-en/products/5sports/lineup (Seiko 5 Sports Lineup)
