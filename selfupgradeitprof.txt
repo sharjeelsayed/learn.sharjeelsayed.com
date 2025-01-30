@@ -3156,6 +3156,7 @@ Contents:
                 https://github.com/ai-boost/Awesome-GPTs (Curated list of awesome GPTs 👍.)
                 https://github.com/ai-collection/ai-collection ( The Generative AI Landscape - A List of Awesome Generative AI Applications Topics)
                 https://github.com/bodo-run/yek (A fast tool to read text-based files in a repository or directory, chunk them, and serialize them for LLM consumption. )
+                https://github.com/cline/cline (https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.)
                 https://github.com/continuedev/continue (https://continue.dev ⏩ Continue is an open-source autopilot for VS Code and JetBrains—the easiest way to code with any LLM)
                 https://github.com/dair-ai/ML-Papers-of-the-Week (🔥Highlighting the top ML papers every week.)
                 https://github.com/dair-ai/Prompt-Engineering-Guide (🐙 Guides, papers, lecture, notebooks and resources for prompt engineering )
@@ -3181,6 +3182,7 @@ Contents:
                 https://news.ycombinator.com/item?id=38331200 (Deep Learning Course (fleuret.org))
                 https://news.ycombinator.com/item?id=38638373 (Ask HN: Daily practices for building AI/ML skills?)
                 https://news.ycombinator.com/item?id=42686457 (AI Engineer Reading List (latent.space))
+                https://openrouter.ai (A unified interface for LLMs)
                 https://osanseviero.github.io/hackerllama/blog/posts/random_transformer (The Random Transformer Understand how transformers work by demystifying all the math behind them)
                 https://sourcegraph.com/cody (Cody is a coding AI assistant that uses AI and a deep understanding of your codebase to help you write and understand code faster.)
                 https://www.amazon.com/Artificial-Intelligence-A-Modern-Approach-dp-0134610997/dp/0134610997 (Artificial Intelligence: A Modern Approach (Pearson Series in Artifical Intelligence) 4th Edition by Stuart Russell and Peter Norvig)
@@ -3290,6 +3292,7 @@ Contents:
                     https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh-edit
                     https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow
                     https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml
+                    https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev
                     https://marketplace.visualstudio.com/items?itemName=timonwong.shellcheck
                     https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons
                     https://marketplace.visualstudio.com/items?itemName=vscode-snippet.Snippet (Insert a snippet from cht.sh for Python, JavaScript, Ruby, C#, Go, Rust (and any other language))
