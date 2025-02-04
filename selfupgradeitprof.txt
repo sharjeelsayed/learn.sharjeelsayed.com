@@ -539,8 +539,6 @@ Contents:
                 https://devonperoutky.super.site/blog-posts/mediocre-engineers-guide-to-https (A Mediocre Engineer's Guide to HTTPS)
                 https://en.wikipedia.org/wiki/IP_address#Private_addresses
                 https://github.com/bagder/http3-explained (https://http3-explained.haxx.se A document describing the HTTP/3 and QUIC protocols)
-                https://github.com/gchq/CyberChef https://gchq.github.io/CyberChef (The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis)
-                https://github.com/kffl/speedbump (TCP proxy for simulating variable, yet predictable network latency 🌐⏳)
                 https://github.com/leandromoreira/linux-network-performance-parameters (Learn where some of the network sysctl variables fit into the Linux/Kernel network flow. Translations: 🇷🇺 )
                 https://github.com/netbox-community/netbox (https://netbox.dev The premier source of truth powering network automation. Open source under Apache 2)
                 https://lucb1e.com/randomprojects/php/funnip.php (list of all the ways (and notation combinations) you can make with your IP address)
@@ -552,12 +550,17 @@ Contents:
                 https://siliconsprawl.com/2020/05/10/network-programming-self-study.html (Network Programming Self-Study)
                 https://startyourownisp.com (Start Your Own ISP)
                 https://www.amazon.com/Certified-Wireless-Network-Administrator-Study/dp/1119734509 CWNA Certified Wireless Network Administrator Study Guide: Exam CWNA-108 (Sybex Study Guide) 6th Edition by David D. Coleman and David A. Westcott
-                https://www.davidc.net/sites/default/subnets/subnets.html (Visual Subnet Calculator)
                 https://www.jeremysitlab.com/ccna-resources (Recommended CCNA Resources)
                 https://www.reddit.com/r/ccna/wiki/faqs/materials (/r/CCNA CCNA Study Materials)
                 https://www.reddit.com/r/networking/comments/125oiyo/how_are_large_tech_companies_scaling_their_data (How are large tech companies scaling their Data Centers?)
                 https://www.reddit.com/r/sysadmin/comments/4ux166/do_you_know_a_site_to_learn_more_about_networking
                 https://www.youtube.com/watch?v=WL0ZTcfSvB4 (Tutorial: Troubleshooting with Traceroute by Richard Steenbergen, GTT.)
+
+            Tools:
+                https://github.com/gchq/CyberChef https://gchq.github.io/CyberChef (The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis)
+                https://github.com/GyulyVGC/sniffnet (https://sniffnet.net Comfortably monitor your Internet traffic 🕵️‍♂️ )
+                https://github.com/kffl/speedbump (TCP proxy for simulating variable, yet predictable network latency 🌐⏳)
+                https://www.davidc.net/sites/default/subnets/subnets.html (Visual Subnet Calculator)
 
             Books and Courses:
                 Computer Networking: A Top-Down Approach, 8th Edition (2021) by James F. Kurose and Keith Ross:
@@ -1946,12 +1949,15 @@ Contents:
                     https://github.com/zealvora/terraform-beginner-to-advanced-resource
                     https://rutracker.org/forum/viewtopic.php?t=5936588
 
-                Terraform: Up & Running: Writing Infrastructure as Code 3rd Edition By Yevgeniy Brikman:
+                Terraform: Up & Running: Writing Infrastructure as Code 3rd Edition by Yevgeniy Brikman:
                     https://www.terraformupandrunning.com
                     https://learning.oreilly.com/library/view/terraform-up/9781492046899
                     https://www.oreilly.com/catalog/errata.csp?isbn=0636920225010
                     https://www.amazon.com/Terraform-Running-Writing-Infrastructure-Code/dp/1492046906
                     https://github.com/brikis98/terraform-up-and-running-code
+
+                Terraform in Depth Infrastructure as Code with Terraform and OpenTofu by Robert Hafner
+                    https://www.manning.com/books/terraform-in-depth
 
                 Amazon EKS Terraform Workshop
                 https://tf-eks-workshop.workshop.aws
@@ -2531,7 +2537,6 @@ Contents:
                 https://discord.gg/apple (Discord server for /r/Apple)
                 https://discussions.apple.com/thread/252335837?answerId=254936159022&sortBy=rank#254936159022 (iMessage NOT syncing across iPhone and MacBook Air)
                 https://docs.google.com/spreadsheets/d/1JqyglRJXzxaj8OcQw9jHabxFUdsv9iWJXMPXcL7On0M (Definitive App Comparisons)
-                https://doesitarm.com ( Apps that are reported to support Apple Silicon)
                 https://ghuntley.com/anywhere (Reflections on software development from anywhere on an iPad)
                 https://gist.github.com/kconner/cff08fe3e0bb857ea33b47d965b3e19f (macOS Internals)
                 https://gist.github.com/nmcc/4e8ead6c380d8331fedd04e1aa41d351 (Install Consolas font on Mac)
@@ -2540,18 +2545,11 @@ Contents:
                 https://github.com/donnemartin/dev-setup (macOS development environment setup: Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduce, AWS, Heroku, JavaScript web development, Android development, common data stores, and dev-based OS X defaults.)
                 https://github.com/drduh/macOS-Security-and-Privacy-Guide (Guide to securing and improving privacy on macOS)
                 https://github.com/geerlingguy/mac-dev-playbook (Mac setup and configuration via Ansible.)
-                https://github.com/iCHAIT/awesome-macOS ( A curated list of awesome applications, softwares, tools and shiny things for macOS.)
-                https://github.com/jaywcjlove/awesome-mac (https://wangchujiang.com/awesome-mac awesome macOS software in various categories)
                 https://github.com/mRs-/Black-Friday-Deals (Black Friday Deals for macOS / iOS Software & Books)
                 https://github.com/nikitavoloboev/my-mac-os (List of applications and tools that make my macOS experience even more amazing)
                 https://github.com/pyenv/pyenv/wiki/MacOS-login-shell (Configure the terminal to run your shell as a login shell)
                 https://github.com/sb2nov/mac-setup (Installing Development environment on macOS)
-                https://github.com/serhii-londar/open-source-mac-os-apps (🚀 Awesome list of open source applications for macOS.)
-                https://github.com/sveinbjornt/Sloth (Mac app that shows all open files, directories, sockets, pipes and devices in use by all running processes. Nice GUI for lsof. https://sveinbjorn.org/sloth)
                 https://github.com/topics/macos?o=desc&s=stars
-                https://indiegoodies.com (iOS and macOS apps that enrich lives and boost productivity)
-                https://isapplesiliconready.com (The complete guide for MacOS Apps Optimized for Apple Silicon Macs and the M1 Processor)
-                https://macmenubar.com (A curated directory of 850+ Mac menu bar apps)
                 https://medium.com/@cav/foss-password-management-with-passwordstore-9d34fec2fe84
                 https://news.ycombinator.com/item?id=20621224 (Ask HN: The most useful Mac keyboard shortcuts?)
                 https://news.ycombinator.com/item?id=24091707 (Ask HN: What feature did you find after years of using macOS?)
@@ -2561,10 +2559,7 @@ Contents:
                 https://news.ycombinator.com/item?id=38141320 (Paste without formatting on macOS (scottswezey.com))
                 https://news.ycombinator.com/item?id=42057431 (Useful built-in macOS command-line utilities (weiyen.net))
                 https://notes.alinpanaitiu.com/Restarting-macOS-apps-automatically-on-crash (Restarting macOS apps automatically on crash)
-                https://objective-see.com/products.html (Free Mac Security Tools)
                 https://opensource.com/article/19/5/python-3-default-mac (The right and wrong way to set Python 3 as default on a Mac)
-                https://renegadevi.gitlab.io/mac-app-collection (Find hidden gem apps to improve your Mac.)
-                https://roaringapps.com (Crowd-sourced application compatibility for macOS, iOS and Windows.)
                 https://saurabhs.org/advanced-macos-commands (Advanced macOS Command-Line Tools)
                 https://support.apple.com/en-in/guide/terminal/trmlshtcts/mac (Keyboard shortcuts in Terminal on Mac)
                 https://support.apple.com/en-in/HT201236 (Mac keyboard shortcuts)
@@ -2573,11 +2568,6 @@ Contents:
                 https://support.mozilla.org/en-US/kb/keyboard-shortcuts-perform-firefox-tasks-quickly (Keyboard shortcuts - Perform common Firefox tasks quickly)
                 https://support.zoom.us/hc/en-us/articles/205683899-Hot-keys-and-keyboard-shortcuts#collapseMac (Zoom Hot keys and keyboard shortcuts)
                 https://thesweetsetup.com/picks
-                https://www.applegamingwiki.com/wiki/M1_compatible_games_master_list (M1 compatible games master list)
-                https://www.darlinghq.org (Darling is a translation layer that lets you run macOS software on Linux)
-                https://www.digitaltrends.com/computing/best-mac-apps (The best Mac apps for 2024)
-                https://www.macupdate.com (18,000+ verified Mac apps, handpicked by the MacUpdate team)
-                https://www.oss.wiki (ollection of must-have open-sourced apps for Mac)
                 https://www.reddit.com/r/apple+mac+macapps
                 https://youtu.be/H3hUk0zsxc4 (How To Use Multiple Desktops On Your Mac by macmostvideo)
                 https://youtu.be/HPQobUOx17o (Amazing Mac Tips You've Never Used! by Snazzy Labs)
@@ -2590,6 +2580,7 @@ Contents:
                 https://apps.apple.Com/app/amphetamine/id937984704 (Amphetamine 4+ Powerful Keep-Awake Utility)
                 https://cleanshot.com (Capture your Mac’s screen like a pro.)
                 https://devutils.app (Offline Toolbox for Developers)
+                https://doesitarm.com ( Apps that are reported to support Apple Silicon)
                 https://draculatheme.com (A dark theme)
                 https://dynamicwallpaper.club/gallery?section=best (Dynamic Wallpaper Club)
                 https://flexibits.Com/fantastical (Calendar App)
@@ -2597,6 +2588,8 @@ Contents:
                 https://github.com/actuallymentor/battery (CLI for managing the battery charging status for M1 Macs)
                 https://github.com/caldis/mos (A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS )
                 https://github.com/exelban/stats (macOS system monitor in your menu bar)
+                https://github.com/iCHAIT/awesome-macOS ( A curated list of awesome applications, softwares, tools and shiny things for macOS.)
+                https://github.com/jaywcjlove/awesome-mac (https://wangchujiang.com/awesome-mac awesome macOS software in various categories)
                 https://github.com/koekeishiya/yabai (A tiling window manager for macOS based on binary space partitioning)
                 https://github.com/mangerlahn/Latest (https://max.codes/latest A small utility app for macOS that makes sure you know about all the latest updates to the apps you use.)
                 https://github.com/MikeMcQuaid/strap (https://strap.mikemcquaid.com 👢 Bootstrap your macOS development system.)
@@ -2604,22 +2597,36 @@ Contents:
                 https://github.com/rgcr/m-cli ( Swiss Army Knife For Macos)
                 https://github.com/samschott/maestral (Open-source Dropbox client for macOS and Linux)
                 https://github.com/sekey/sekey (Use Touch ID / Secure Enclave for SSH Authentication!)
+                https://github.com/serhii-londar/open-source-mac-os-apps (🚀 Awesome list of open source applications for macOS.)
                 https://github.com/sindresorhus/macos-trash (Move files and folders to the trash)
+                https://github.com/sveinbjornt/Sloth (Mac app that shows all open files, directories, sockets, pipes and devices in use by all running processes. Nice GUI for lsof. https://sveinbjorn.org/sloth)
                 https://github.com/topgrade-rs/topgrade (Upgrade all the things)
+                https://github.com/trycua/lume (A lightweight CLI and local API server to create, run and manage macOS and Linux virtual machines (VMs) natively on Apple Silicon. )
                 https://github.com/X74353/amphetamine-enhancer (Add new abilities to the macOS keep-awake utility, Amphetamine.)
                 https://hazeover.com (This app automatically highlights the front window by fading out all the background windows)
+                https://indiegoodies.com (iOS and macOS apps that enrich lives and boost productivity)
+                https://isapplesiliconready.com (The complete guide for MacOS Apps Optimized for Apple Silicon Macs and the M1 Processor)
                 https://iterm2.com/documentation-shell-integration.html (iTerm2 Shell Integration)
+                https://macmenubar.com (A curated directory of 850+ Mac menu bar apps)
                 https://macpaw.com/cleanmymac (It cleans megatons of junk and makes your computer run faster)
                 https://monodraw.helftone.com (Powerful ASCII art editor designed for the Mac)
                 https://news.ycombinator.com/item?id=19515627 (Ask HN: What are your favorite utility desktop apps?)
+                https://objective-see.com/products.html (Free Mac Security Tools)
                 https://osxfuse.github.io (macFUSE allows you to extend macOS's native file handling capabilities via third-party file systems.)
                 https://privacy.sexy (Enforce privacy & security on Windows and macOS)
+                https://renegadevi.gitlab.io/mac-app-collection (Find hidden gem apps to improve your Mac.)
+                https://roaringapps.com (Crowd-sourced application compatibility for macOS, iOS and Windows.)
                 https://setapp.com (One-stop subscription to solving every task on Mac and iPhone.)
                 https://tunnelblick.net (free software for OpenVPN on macOS)
                 https://unsplash.com/apps (Unsplash Wallpapers)
+                https://www.applegamingwiki.com/wiki/M1_compatible_games_master_list (M1 compatible games master list)
                 https://www.bresink.com/osx/TinkerTool.html (TinkerTool is an application that gives you access to additional preference settings Apple has built into macOS.)
+                https://www.darlinghq.org (Darling is a translation layer that lets you run macOS software on Linux)
+                https://www.digitaltrends.com/computing/best-mac-apps (The best Mac apps for 2024)
                 https://www.hammerspoon.Org/go/#pasteblock (Defeating paste blocking)
                 https://www.macbartender.com/Bartender4 (Take control of your menu bar)
+                https://www.macupdate.com (18,000+ verified Mac apps, handpicked by the MacUpdate team)
+                https://www.oss.wiki (ollection of must-have open-sourced apps for Mac)
                 https://www.parallels.com/products/desktop (Run Windows on Mac.)
                 https://www.titanium-software.fr/en/onyx.html (OnyX is a multifunction utility that you can use to verify the structure of the system files)
                 https://www.usboverdrive.com (Take full advantage of any USB or Bluetooth mouse, keyboard, trackball, joystick or gamepad)
@@ -3153,27 +3160,11 @@ Contents:
                 https://en.wikipedia.org/wiki/DeepSeek (DeepSeek is a Chinese artificial intelligence company which develops open-source large language models.)
                 https://en.wikipedia.org/wiki/Large_language_model (Large language model)
                 https://fleuret.org/public/lbdl.pdf (The Little Book of Deep Learning by François Fleuret)
-                https://github.com/ai-boost/Awesome-GPTs (Curated list of awesome GPTs 👍.)
-                https://github.com/ai-collection/ai-collection ( The Generative AI Landscape - A List of Awesome Generative AI Applications Topics)
-                https://github.com/bodo-run/yek (A fast tool to read text-based files in a repository or directory, chunk them, and serialize them for LLM consumption. )
-                https://github.com/cline/cline (https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.)
-                https://github.com/continuedev/continue (https://continue.dev ⏩ Continue is an open-source autopilot for VS Code and JetBrains—the easiest way to code with any LLM)
                 https://github.com/dair-ai/ML-Papers-of-the-Week (🔥Highlighting the top ML papers every week.)
                 https://github.com/dair-ai/Prompt-Engineering-Guide (🐙 Guides, papers, lecture, notebooks and resources for prompt engineering )
-                https://github.com/danielmiessler/fabric (fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.)
-                https://github.com/deepseek-ai/awesome-deepseek-integration (Integrate the DeepSeek API into popular softwares.)
                 https://github.com/eugeneyan/applied-ml (📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.)
-                https://github.com/eugeneyan/open-llms (🤖 A list of open LLMs available for commercial use.)
-                https://github.com/f/awesome-chatgpt-prompts (https://prompts.chat This repo includes ChatGPT prompt curation to use ChatGPT better.)
                 https://github.com/GoogleCloudPlatform/generative-ai (https://cloud.google.com/vertex-ai/docs/generative-ai/learn/overview Sample code and notebooks for Generative AI on Google Cloud)
-                https://github.com/Hannibal046/Awesome-LLM (Awesome-LLM: a curated list of Large Language Model)
-                https://github.com/humanloop/awesome-chatgpt (Curated list of awesome tools, demos, docs for ChatGPT and GPT-3 )
                 https://github.com/labmlai/annotated_deep_learning_paper_implementations ( 🧑‍🏫 60 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠 )
-                https://github.com/netease-youdao/QAnything (https://qanything.ai Question and Answer based on Anything.)
-                https://github.com/OpenMindClub/awesome-chatgpt (⚡ Everything about ChatGPT )
-                https://github.com/Shubhamsaboo/awesome-llm-apps ( https://www.theunwindai.com Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.)
-                https://github.com/taranjeet/awesome-gpts (Collection of all the GPTs created by the community)
-                https://github.com/tencent/Hunyuan3D-2 (High-Resolution 3D Assets Generation with Large Scale Hunyuan3D Diffusion Models.)
                 https://news.ycombinator.com/item?id=12713056 (Ask HN: How to get started with machine learning?)
                 https://news.ycombinator.com/item?id=16493489 (Machine Learning Crash Course)
                 https://news.ycombinator.com/item?id=18321665 (Foundations of ML and AI: Book recommendations (dragan.rocks))
@@ -3182,15 +3173,34 @@ Contents:
                 https://news.ycombinator.com/item?id=38331200 (Deep Learning Course (fleuret.org))
                 https://news.ycombinator.com/item?id=38638373 (Ask HN: Daily practices for building AI/ML skills?)
                 https://news.ycombinator.com/item?id=42686457 (AI Engineer Reading List (latent.space))
-                https://openrouter.ai (A unified interface for LLMs)
                 https://osanseviero.github.io/hackerllama/blog/posts/random_transformer (The Random Transformer Understand how transformers work by demystifying all the math behind them)
-                https://sourcegraph.com/cody (Cody is a coding AI assistant that uses AI and a deep understanding of your codebase to help you write and understand code faster.)
                 https://www.amazon.com/Artificial-Intelligence-A-Modern-Approach-dp-0134610997/dp/0134610997 (Artificial Intelligence: A Modern Approach (Pearson Series in Artifical Intelligence) 4th Edition by Stuart Russell and Peter Norvig)
                 https://www.amazon.com/Elements-Statistical-Learning-Prediction-Statistics/dp/0387848576 (https://hastie.su.domains/Papers/ESLII.pdf The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition (Springer Series in Statistics) 2nd Edition by Trevor Hastie , Robert Tibshirani , Jerome Friedman)
                 https://www.manning.com/books/build-a-large-language-model-from-scratch (Build a Large Language Model (From Scratch) by Sebastian Raschk https://github.com/rasbt/LLMs-from-scratch)
                 https://www.reddit.com/r/LocalLLaMA (Subreddit to discuss about Llama, the large language model created by Meta AI.)
                 https://www.youtube.com/@AndrejKarpathy (Andrej Karpathy's YouTube Channel)
                 https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&si=fKXJlkssxt-cYgWe (Neural networks by 3Blue1Brown)
+
+            Tools:
+                https://github.com/ai-boost/Awesome-GPTs (Curated list of awesome GPTs 👍.)
+                https://github.com/ai-collection/ai-collection ( The Generative AI Landscape - A List of Awesome Generative AI Applications Topics)
+                https://github.com/bodo-run/yek (A fast tool to read text-based files in a repository or directory, chunk them, and serialize them for LLM consumption. )
+                https://github.com/cline/cline (https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.)
+                https://github.com/continuedev/continue (https://continue.dev ⏩ Continue is an open-source autopilot for VS Code and JetBrains—the easiest way to code with any LLM)
+                https://github.com/danielmiessler/fabric (fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.)
+                https://github.com/deepseek-ai/awesome-deepseek-integration (Integrate the DeepSeek API into popular softwares.)
+                https://github.com/eugeneyan/open-llms (🤖 A list of open LLMs available for commercial use.)
+                https://github.com/f/awesome-chatgpt-prompts (https://prompts.chat This repo includes ChatGPT prompt curation to use ChatGPT better.)
+                https://github.com/Hannibal046/Awesome-LLM (Awesome-LLM: a curated list of Large Language Model)
+                https://github.com/humanloop/awesome-chatgpt (Curated list of awesome tools, demos, docs for ChatGPT and GPT-3 )
+                https://github.com/n8n-io/self-hosted-ai-starter-kit (https://n8n.io The Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environment. Curated by n8n, it provides essential tools for creating secure, self-hosted AI workflows. )
+                https://github.com/netease-youdao/QAnything (https://qanything.ai Question and Answer based on Anything.)
+                https://github.com/OpenMindClub/awesome-chatgpt (⚡ Everything about ChatGPT )
+                https://github.com/Shubhamsaboo/awesome-llm-apps ( https://www.theunwindai.com Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.)
+                https://github.com/taranjeet/awesome-gpts (Collection of all the GPTs created by the community)
+                https://github.com/tencent/Hunyuan3D-2 (High-Resolution 3D Assets Generation with Large Scale Hunyuan3D Diffusion Models.)
+                https://openrouter.ai (A unified interface for LLMs)
+                https://sourcegraph.com/cody (Cody is a coding AI assistant that uses AI and a deep understanding of your codebase to help you write and understand code faster.)
 
             Books and Courses:
                 Machine Learning by Andrew Ng
@@ -4436,7 +4446,7 @@ Contents:
                 https://news.ycombinator.com/item?id=20390984 (If Sapiens were a blog post (neilkakkar.com))
                 https://news.ycombinator.com/item?id=32220192 (Ask HN: YouTube Channels for the Intellectually Curious)
                 https://sciurls.com
-                https://www.amazon.com/Best-Sellers-Books-Science-Math/zgbs/books/75
+                https://www.amazon.com/Best-Sellers-Books-Science-Math/zgbs/books/75 (Best Sellers in Science & Math)
                 https://www.howacarworks.com/video-course (Understand everything inside a modern car by by Alex Muir.Automotive Engineering 20 hour Video Course)
                 https://www.nytimes.com/interactive/2022/science/astronomy-space-calendar.html (New York Times’s space and astronomy calendar)
                 https://www.reddit.com/r/AskReddit/comments/5x2r6b/reddit_what_are_some_must_see_documentaries
@@ -5372,9 +5382,9 @@ Contents:
                 https://realstyle.therealreal.com/trr-full-resale-report-2024 (The RealReal’s FULL 2024 Resale Report)
                 https://scentjourner.com/en-international/blogs/wellness/the-importance-of-fixatives-and-its-effect-on-projection-longevity-sillage (The Importance of Fixatives and Its Effect on Projection, Longevity, Sillage)
                 https://www.acharr.com/what-is-the-difference-between-edt-edp-and-parfum (What is the difference between EDT, EDP and Parfum ?)
+                https://www.reddit.com/r/fragrance/comments/1ifqpxg/whats_the_most_complimented_fragrance_in_your (What's the most complimented fragrance in your collection?)
                 https://www.reddit.com/r/fragrance/comments/bhlszk/edc_edt_edp_and_parfum_eductationlong (EDC, EDT, EDP and Parfum - Eductation/Long)
                 https://www.reddit.com/r/Louisvuitton+OUTFITS+TheHermesGame+femalefashionadvice+fragrance+jewelry+malefashionadvice
-                https://www.riorabbit.in/products/king-2-0 ( Inspired by the magnetic charisma of Dunhill Desire Red and the enigmatic ambiance of Diptyque L'Ombre dans)
                 https://www.statista.com/statistics/267948/brand-value-of-the-leading-10-most-valuable-luxury-brands-worldwide (Brand value of the leading 10 most valuable luxury brands worldwide)
 
             Fashion Magazines (sorted by similarweb rank)
