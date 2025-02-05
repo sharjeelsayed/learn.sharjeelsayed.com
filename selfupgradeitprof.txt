@@ -1958,6 +1958,7 @@ Contents:
 
                 Terraform in Depth Infrastructure as Code with Terraform and OpenTofu by Robert Hafner
                     https://www.manning.com/books/terraform-in-depth
+                    https://www.amazon.com/Terraform-Depth-Robert-Hafner/dp/1633438007
 
                 Amazon EKS Terraform Workshop
                 https://tf-eks-workshop.workshop.aws
@@ -5268,10 +5269,12 @@ Contents:
                 https://en.wikipedia.org/wiki/Coaxial_escapement (Coaxial escapement)
                 https://en.wikipedia.org/wiki/COSC (Contrôle officiel suisse des Chronomètres (COSC))
                 https://en.wikipedia.org/wiki/G%C3%A9rald_Genta (Gérald Genta)
+                https://en.wikipedia.org/wiki/George_Daniels_(watchmaker) (Inventor of the coaxial escapement)
                 https://en.wikipedia.org/wiki/History_of_watches (History of watches)
                 https://en.wikipedia.org/wiki/List_of_most_expensive_watches_sold_at_auction (List of most expensive watches sold at auction)
                 https://en.wikipedia.org/wiki/Poljot (Poljot produced the world's first space watch worn by Yuri Gagarin)
                 https://en.wikipedia.org/wiki/Reference_57260 (Vacheron Constantin Reference 57260 : The Most Complicated Watch Ever Made)
+                https://en.wikipedia.org/wiki/Roger_W._Smith (British independent watchmaker)
                 https://en.wikipedia.org/wiki/Spring_Drive (Spring Drive)
                 https://monochrome-watches.com/industry-news-top-50-swiss-watch-companies-of-2023-according-to-morgan-stanley-rolex-breaking-the-chf-10-billion-barrier (The Top 50 Swiss Watch Companies of 2023 According to Morgan Stanley)
                 https://quillandpad.com/2021/03/19/the-diving-bezel-the-most-versatile-watch-complication-even-if-youre-not-a-diver (The Diving Bezel: The Most Versatile Watch Complication, Even If You’re Not A Diver)
@@ -5283,6 +5286,7 @@ Contents:
                 https://www.amazon.com/Best-Sellers-Clothing-Shoes-Jewelry-Mens-Watches/zgbs/fashion/6358539011 (Best Sellers in Men's Watches)
                 https://www.amazon.com/Best-Sellers-Clothing-Shoes-Jewelry-Watch-Repair-Tools-Kits/zgbs/fashion/378531011 (Best Sellers in Watch Repair Tools & Kits)
                 https://www.chrono24.com/chronopulse.htm (ChronoPulse – Market Performance)
+                https://www.chrono24.in/magazine/these-were-the-top-10-best-selling-watches-of-2024-p_145915 (These Were the Top 10 Best-Selling Watches of 2024 by By Thomas Hendricks)
                 https://www.gphg.org/en (Grand Prix d'Horlogerie de Genève (GPHG) 1is a foundation under Swiss law recognized as being of public utility since 2011. It holds an annual award ceremony in Geneva in November)
                 https://www.hodinkee.com/articles/every-watch-clock-and-timer-that-went-to-the-moon (In-Depth Every Watch, Clock, And Timer That Went To The Moon)
                 https://www.hodinkee.com/articles/think-you-can-name-every-single-watch-thats-ever-gone-to-space (Interview Think You Can Name Every Single Watch That's Ever Gone To Space? There are 1,899 of them. Meet the man that's cataloging them all in one database.)
