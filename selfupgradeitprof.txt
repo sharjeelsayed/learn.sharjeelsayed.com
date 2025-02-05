@@ -474,6 +474,7 @@ Contents:
         Mathematics for Computer Science:
             Sources:
                 https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra (Graphic notes on Gilbert Strang's "Linear Algebra for Everyone")
+                https://github.com/ossu/math (🧮 Path to a free self-taught education in Mathematics!)
                 https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=math&sort=byPopularity&type=story
                 https://infinitedescent.xyz (An Infinite Descent into Pure Mathematics by An Infinite Descent into by Clive Newstead)
                 https://news.ycombinator.com/item?id=13800320 (	Mathematics for Computer Science [pdf] (mit.edu))
@@ -815,14 +816,23 @@ Contents:
                 The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win
                     https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262509
 
-                The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations
-                    https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002
+                The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations 2nd Edition (November 30, 2021) by Gene Kim , Jez Humble ,  Patrick Debois , John Willis , Nicole Forsgren
+                    https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations-dp-1950508404/dp/1950508404
+                    https://itrevolution.com/product/the-devops-handbook-second-edition
 
                 The Practice of System and Network Administration: Volume 1: DevOps and other Best Practices for Enterprise IT (3rd Edition)
                     https://www.amazon.com/dp/0321919165
 
                 Accelerate The Science of Lean Software and DevOps Building and Scaling High Performing Technology Organizations by Nicole Forsgren ,Jez Humble and Gene Kim (2018)
                     https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339
+
+                Continuous Delivery : Reliable Software Releases through Build, Test, and Deployment Automation (2010) by Jez Humble and David Farley
+                    https://martinfowler.com/books/continuousDelivery.html
+                    https://www.amazon.com/gp/product/0321601912
+
+                Practice of Cloud System Administration, The: DevOps and SRE Practices for Web Services, Volume 2 1st Edition by Thomas A. Limoncelli , Strata R. Chalup , Christina J. Hogan (2014)
+                    https://the-cloud-book.com
+                    https://www.amazon.com/Practice-Cloud-System-Administration-Practices/dp/032194318X
 
         SRE:
             Sources:
@@ -904,9 +914,9 @@ Contents:
                 https://tldr.sh (Simplified and community-driven man pages)
                 https://tuxurls.com
                 https://wiki.archlinux.org
-                https://www.amazon.com/Best-Sellers-Books-Linux-Operating-System/zgbs/books/3849 (Best Sellers in Linux Operating System)
                 https://www.amazon.com/gp/bestsellers/books/285860 (Best Sellers in Linux Certification Guides)
                 https://www.amazon.com/gp/bestsellers/books/291379 (Best Sellers in Linux Kernel & Peripherals)
+                https://www.amazon.com/gp/bestsellers/books/3849 (Best Sellers in Linux Operating System)
                 https://www.brendangregg.com/blog/2024-03-24/linux-crisis-tools.html (Linux Crisis Tools)
                 https://www.brendangregg.com/linuxperf.html (Brendan Gregg's Linux Internals Maps)
                 https://www.digitalocean.com/community/tutorials?primary_filter=popular
@@ -919,8 +929,12 @@ Contents:
                 https://www.reddit.com/r/Ubuntu+linux+linuxadmin
 
             Books and Courses:
+                Red Hat Video Courses by Sander Van Vugt
+                    https://www.sandervanvugt.com/red-hat-video-courses
+                    https://www.amazon.com/Red-RHCSA-Cert-Guide-Certification/dp/0138096279 (Red Hat RHCSA 9 Cert Guide: EX200 (Certification Guide) 1st Edition (April 15, 2023) by Sander van Vugt)
+
                 Linux Journey
-                https://linuxjourney.com
+                    https://linuxjourney.com
 
                 A Practical Guide to Linux Commands, Editors, and Shell Programming 4th Edition (November 9, 2017) by Mark G. Sobell
                     https://www.amazon.com/Practical-Guide-Commands-Editors-Programming/dp/0134774604
@@ -934,14 +948,14 @@ Contents:
                 The Linux Command Line by William Shotts
                     https://linuxcommand.org/tlcl.php
 
+                RHCSA Red Hat Enterprise Linux 9: Training and Exam Preparation Guide (EX200) by Asghar Ghori Third Edition (February 28, 2023)
+                    https://www.amazon.com/RHCSA-Red-Hat-Enterprise-Linux-ebook/dp/B0BY53JYCP
+
                 RHCSA Red Hat Enterprise Linux 9 Certification Study Guide, Eighth Edition (Exam EX200) (RHCSA/RHCE Red Hat Enterprise Linux Certification Study Guide, 9) by Michael Jang and Alessandro Orsaria 8th Edition ((January 11, 2024))
                     https://www.amazon.com/RHCSA-Enterprise-Linux-Certification-Study/dp/1260462072
 
                 UNIX and Linux System Administration Handbook (5th Edition)
                     https://www.amazon.com/UNIX-Linux-System-Administration-Handbook/dp/0134277554
-
-                RHCSA Red Hat Enterprise Linux 9: Training and Exam Preparation Guide (EX200) by Asghar Ghori Third Edition (February 28, 2023)
-                    https://www.amazon.com/RHCSA-Red-Hat-Enterprise-Linux-ebook/dp/B0BY53JYCP
 
             Additional Material:
                 Linux From Scratch!
@@ -1939,7 +1953,7 @@ Contents:
                     https://github.com/morethancertified/mtc-terraform
                     https://techstudyslack.slack.com/archives/C01E7UKHR34
 
-                HashiCorp Certified: Terraform Associate Practice Exam 2023 by Bryan Krausen:
+                HashiCorp Certified: Terraform Associate Practice Exam 2025 by Bryan Krausen:
                     https://www.udemy.com/course/terraform-associate-practice-exam
                     https://github.com/btkrausen (Coupon Codes)
 
@@ -3158,7 +3172,6 @@ Contents:
                 https://bbycroft.net/llm (A 3D animated visualization of an LLM with a walkthrough)
                 https://danielmiessler.com/p/get-samantha-tars-interstellar-iphoneandroid (How to Get Samantha from Her or TARS from Interstellar on Your iPhone/Android)
                 https://e2eml.school/transformers.html (Transformers from Scratch)
-                https://en.wikipedia.org/wiki/DeepSeek (DeepSeek is a Chinese artificial intelligence company which develops open-source large language models.)
                 https://en.wikipedia.org/wiki/Large_language_model (Large language model)
                 https://fleuret.org/public/lbdl.pdf (The Little Book of Deep Learning by François Fleuret)
                 https://github.com/dair-ai/ML-Papers-of-the-Week (🔥Highlighting the top ML papers every week.)
@@ -3179,8 +3192,6 @@ Contents:
                 https://www.amazon.com/Elements-Statistical-Learning-Prediction-Statistics/dp/0387848576 (https://hastie.su.domains/Papers/ESLII.pdf The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition (Springer Series in Statistics) 2nd Edition by Trevor Hastie , Robert Tibshirani , Jerome Friedman)
                 https://www.manning.com/books/build-a-large-language-model-from-scratch (Build a Large Language Model (From Scratch) by Sebastian Raschk https://github.com/rasbt/LLMs-from-scratch)
                 https://www.reddit.com/r/LocalLLaMA (Subreddit to discuss about Llama, the large language model created by Meta AI.)
-                https://www.youtube.com/@AndrejKarpathy (Andrej Karpathy's YouTube Channel)
-                https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&si=fKXJlkssxt-cYgWe (Neural networks by 3Blue1Brown)
 
             Tools:
                 https://github.com/ai-boost/Awesome-GPTs (Curated list of awesome GPTs 👍.)
@@ -3194,6 +3205,8 @@ Contents:
                 https://github.com/f/awesome-chatgpt-prompts (https://prompts.chat This repo includes ChatGPT prompt curation to use ChatGPT better.)
                 https://github.com/Hannibal046/Awesome-LLM (Awesome-LLM: a curated list of Large Language Model)
                 https://github.com/humanloop/awesome-chatgpt (Curated list of awesome tools, demos, docs for ChatGPT and GPT-3 )
+                https://github.com/langgenius/dify (https://dify.ai Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production. )
+                https://github.com/Mintplex-Labs/anything-llm (https://anythingllm.com The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more.)
                 https://github.com/n8n-io/self-hosted-ai-starter-kit (https://n8n.io The Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environment. Curated by n8n, it provides essential tools for creating secure, self-hosted AI workflows. )
                 https://github.com/netease-youdao/QAnything (https://qanything.ai Question and Answer based on Anything.)
                 https://github.com/OpenMindClub/awesome-chatgpt (⚡ Everything about ChatGPT )
@@ -3212,6 +3225,12 @@ Contents:
 
                 An Introduction to Statistical Learning
                     https://www.statlearning.com
+
+                Andrej Karpathy's YouTube Channel
+                    https://www.youtube.com/@AndrejKarpathy
+
+                Neural networks by 3Blue1Brown
+                    https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&si=fKXJlkssxt-cYgWe
 
                 Micosoft Courses:
                     https://github.com/microsoft/AI-For-Beginners (12 Weeks, 24 Lessons, AI for All!)
