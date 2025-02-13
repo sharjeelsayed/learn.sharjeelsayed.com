@@ -4234,6 +4234,7 @@ Contents:
         Study Music:
             Sources:
                 https://askubuntu.com/questions/789465/generate-white-noise-to-calm-a-baby
+                https://en.wikipedia.org/wiki/AFI%27s_100_Years...100_Songs (AFI's 100 Years...100 Songs)
                 https://en.wikipedia.org/wiki/Apple_Music_100_Best_Albums (Apple Music 100 Best Albums)
                 https://en.wikipedia.org/wiki/Rolling_Stone%27s_500_Greatest_Albums_of_All_Time (Rolling Stone's 500 Greatest Albums of All Time)
                 https://en.wikipedia.org/wiki/Rolling_Stone%27s_500_Greatest_Songs_of_All_Time (Rolling Stone's 500 Greatest Songs of All Time)
@@ -4255,6 +4256,7 @@ Contents:
                 https://www.reddit.com/r/ambientmusic/comments/3tuiu7/ambientmusic_voted_your_top_25_ambient_albums
                 https://www.reddit.com/r/ambientmusic/top
                 https://www.reddit.com/r/medicalschool/comments/9m4afb/serious_spotify_playlists_to_listen_to_while
+                https://youtu.be/7uMW2XsMx8Q?si=2zAXoZYQdOAO_prE (Most recognizable song of each year (1950-2022))
                 https://pinboard.in/u:SharjeelSayed/t:music+study
 
             Sites:
@@ -5291,6 +5293,7 @@ Contents:
                 https://en.wikipedia.org/wiki/George_Daniels_(watchmaker) (Inventor of the coaxial escapement)
                 https://en.wikipedia.org/wiki/History_of_watches (History of watches)
                 https://en.wikipedia.org/wiki/List_of_most_expensive_watches_sold_at_auction (List of most expensive watches sold at auction)
+                https://en.wikipedia.org/wiki/Omega_Speedmaster (First watch worn by an astronaut walking on the Moon)
                 https://en.wikipedia.org/wiki/Poljot (Poljot produced the world's first space watch worn by Yuri Gagarin)
                 https://en.wikipedia.org/wiki/Reference_57260 (Vacheron Constantin Reference 57260 : The Most Complicated Watch Ever Made)
                 https://en.wikipedia.org/wiki/Roger_W._Smith (British independent watchmaker)
@@ -5345,14 +5348,6 @@ Contents:
                     https://www.rolex.com/watches/gmt-master-ii/m126710blro-0001 (Oyster, 40 mm, Oystersteel Reference 126710BLRO)
                     https://youtu.be/hklL3MtuJGo?si=1ZteG6x5VBMLJ8Ip (How to set your Rolex GMT-Master II )
 
-                Rolex Explorer II:
-                    https://en.wikipedia.org/wiki/Rolex_Explorer_II
-                    https://en.wikipedia.org/wiki/Rolex#Professional_collections (Rolex Professional Collections)
-                    https://watchcharts.com/watch_variation/3-rolex-explorer-ii-226570-0001/overview
-                    https://www.rolex.com/watches/explorer/m226570-0001 (Explorer II Oyster, 42 mm, Oystersteel Reference 226570)
-                    https://www.rolexmagazine.com/2009/03/reinhold-messner-rolex-explorer-mark-ii.html (The Complete History of the Rolex Explorer II)
-                    https://youtu.be/kRiOW2KR5PY?si=-OZm-W_NDV2hN8oD (How to set your Rolex Explorer II by Rolex)
-
                 Rolex Deepsea:
                     https://en.wikipedia.org/wiki/Diving_watch#Full_ocean_depth_prototype/experimental_watches (Full ocean depth prototype/experimental watches)
                     https://en.wikipedia.org/wiki/Rolex_Sea-Dweller#Rolex_Sea-Dweller_Deepsea_variant (Rolex Sea-Dweller Deepsea variant)
@@ -5360,6 +5355,19 @@ Contents:
                     https://www.reddit.com/r/rolex/comments/1f25itc/136660_whats_the_difference_with_or_without (136660, whats the difference with or without “SEA-DWELLER” marking?)
                     https://www.rolex.com/watches/deepsea/m136660-0005
                     https://youtu.be/SKiG_G8OMzI?si=L7qg7bBm8qHOu7wr (How to set your Rolex Deepsea by Rolex)
+
+                Rolex Explorer II:
+                    https://en.wikipedia.org/wiki/Rolex_Explorer_II (Rolex Explorer II)
+                    https://watchcharts.com/watch_variation/3-rolex-explorer-ii-226570-0001/overview
+                    https://www.rolex.com/watches/explorer/m226570-0001 (Explorer II Oyster, 42 mm, Oystersteel Reference 226570)
+                    https://www.rolexmagazine.com/2009/03/reinhold-messner-rolex-explorer-mark-ii.html (The Complete History of the Rolex Explorer II)
+                    https://youtu.be/kRiOW2KR5PY?si=-OZm-W_NDV2hN8oD (How to set your Rolex Explorer II by Rolex)
+
+                Rolex Explorer:
+                    https://www.rolex.com/watches/explorer/m124270-0001
+                    https://en.wikipedia.org/wiki/Rolex#Professional_collections (Rolex Professional collections)
+                    https://watchcharts.com/watch_model/33629-rolex-explorer-124270/overview
+                    https://www.youtube.com/watch?v=bQESXOm06r8 (How to set your Rolex Explorer by Rolex)
 
             Tudor Black Bay GMT:
                     https://millenarywatches.com/tudor-gmt-date-wheel-issue (Tudor GMT Date Wheel Issue)
