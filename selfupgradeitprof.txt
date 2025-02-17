@@ -999,6 +999,7 @@ Contents:
                 https://andrew-quinn.me/fzf (So you've installed `fzf`. Now what?)
                 https://antonz.org/mastering-curl (Mastering curl: interactive text guide)
                 https://explainshell.com (write down a command-line to see the help text that matches each argument)
+                https://gist.github.com/steinwaywhw/a4cd19cda655b8249d908261a62687f8 (One Liner to Download the Latest Release from Github Repo)
                 https://github.com/adrianscheff/useful-sed (Useful sed scripts & patterns)
                 https://github.com/alebcay/awesome-shell (A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.)
                 https://github.com/alexanderepstein/Bash-Snippets (A collection of small bash scripts for heavy terminal users)
@@ -5006,7 +5007,7 @@ Contents:
             Sources:
                 http://gaul.org/object-store-comparison
                 https://clonezilla.org (Clonezilla is a partition and disk imaging/cloning program similar to True Image® or Norton Ghost®.)
-                https://cryptomator.org (ryptomator encrypts your data quickly and easily. Afterwards you upload them protected to your favorite cloud service)
+                https://cryptomator.org (Cryptomator encrypts your data quickly and easily. Afterwards you upload them protected to your favorite cloud service)
                 https://db.tt/YL0e12GN (Dropbox 500 MB of bonus space)
                 https://github.com/aliparlakci/bulk-downloader-for-reddit (Downloads and archives content from reddit)
                 https://github.com/ArchiveBox/ArchiveBox (https://archivebox.io 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...)
