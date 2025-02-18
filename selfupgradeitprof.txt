@@ -1806,6 +1806,7 @@ Contents:
                 https://github.com/stark0de/nginxpwner (Nginxpwner is a simple tool to look for common Nginx misconfigurations and vulnerabilities.)
                 https://github.com/topics/nginx?o=desc&s=stars
                 https://github.com/trimstray/nginx-admins-handbook
+                https://github.com/yandex/gixy (Nginx configuration static analyzer)
                 https://jvns.ca/blog/2021/09/24/new-tool--an-nginx-playground (Nginx Playground)
                 https://news.ycombinator.com/item?id=23597294 (Nginx UI – Access and modify the Nginx configurations files without CLI (github.com))
                 https://nginx.org/en/docs
@@ -3014,6 +3015,7 @@ Contents:
 
         Web Development:
             Sources:
+                https://caddyserver.com (Caddy is a powerful, enterprise-ready, open source web server with automatic HTTPS written in Go https://github.com/caddyserver/caddy)
                 https://digitaldefynd.com/best-free-web-development-courses-tutorials-certification (20 Best Free Web Development Course & Certification [2024 January][UPDATED])
                 https://github.com/abi/screenshot-to-code (https://screenshottocode.com Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue))
                 https://github.com/Ayushparikh-code/Web-dev-mini-projects (The repository contains the list of awesome✨ & cool web development beginner-friendly✌️ projects!)
@@ -3216,6 +3218,7 @@ Contents:
                 https://github.com/tencent/Hunyuan3D-2 (High-Resolution 3D Assets Generation with Large Scale Hunyuan3D Diffusion Models.)
                 https://openrouter.ai (A unified interface for LLMs)
                 https://sourcegraph.com/cody (Cody is a coding AI assistant that uses AI and a deep understanding of your codebase to help you write and understand code faster.)
+                https://www.phind.com (Phind is a search engine for AI models.)
 
             Books and Courses:
                 Machine Learning by Andrew Ng
@@ -4214,6 +4217,7 @@ Contents:
             Sources:
                 https://ebook.online-convert.com
                 https://en.wikipedia.org/wiki/Kindle_File_Format
+                https://kindlemodding.org/jailbreaking/WinterBreak (WinterBreak is a jailbreak which was released on New Year’s Day 2025 by HackerDude)
                 https://www.amazon.com/b/?node=11552285011 (Kindle Book Deals)
                 https://www.amazon.com/kindle-dbs/emailsubs (Kindle Email Subscriptions)
                 https://www.amazon.in/gp/help/customer/display.html?nodeId=G7NECT4B4ZWHQ8WV (Learn How to Use Your Send to Kindle Email Address)
@@ -4766,7 +4770,7 @@ Contents:
                         https://www.reddit.com/r/dataisbeautiful/comments/18fvw7v/oc_top_50_subreddits_with_the_most_new_posts_per ([OC] Top 50 subreddits with the most new posts per day and most comments per post (December 2023))
 
                     Subscriptions:
-                        https://www.reddit.com/r/1Password+ABCDesis+AWSCertifications+Alfred+Android+AppHookup+AppleWatch+Cartier+DataHoarder+Documentaries+ExperiencedDevs+Flights+FreeEBOOKS+GalaxyS24Ultra+ITCareerQuestions+IndiaInvestments+KindleFreebies+Louisvuitton+ManyBaggers+Piracy+Terraform+TheHermesGame+Ubuntu+Watches+androidapps+announcements+ansible+antiwork+apple+appletv+askscience+aws+bangalore+beta+compsci+cscareerquestions+dataisbeautiful+developersIndia+devops+diabetes+digitalnomad+docker+dubai+fragrance+geopolitics+hyderabad+india+ipad+iphone+jewelry+kubernetes+learnprogramming+linux+linuxadmin+mac+macapps+malefashionadvice+movies+mumbai+netsec+networking+nextdns+onebag+osx+patekphilippe+programming+qatar+rolex+samsung+science+solotravel+sysadmin+technews+technology+television+todayilearned+todoist+travel+usefulscripts+watchesindia+webdev+worldnews
+                        https://www.reddit.com/r/1Password+ABCDesis+AWSCertifications+Alfred+Android+AppHookup+AppleWatch+Cartier+DataHoarder+Documentaries+ExperiencedDevs+Flights+FreeEBOOKS+GalaxyS24Ultra+ITCareerQuestions+IndiaInvestments+KindleFreebies+Louisvuitton+ManyBaggers+Piracy+Terraform+TheHermesGame+Ubuntu+Watches+androidapps+announcements+ansible+antiwork+apple+appletv+askscience+audemarspiguet+aws+bangalore+beta+compsci+cscareerquestions+dataisbeautiful+developersIndia+devops+diabetes+digitalnomad+docker+dubai+fragrance+geopolitics+hyderabad+india+ipad+iphone+jewelry+kubernetes+learnprogramming+linux+linuxadmin+mac+macapps+malefashionadvice+movies+mumbai+netsec+networking+nextdns+onebag+osx+patekphilippe+programming+qatar+rolex+samsung+science+solotravel+sysadmin+technews+technology+television+todayilearned+todoist+travel+usefulscripts+watchesindia+webdev+worldnews
 
                 Hacker News:
                     https://apps.apple.com/us/app/hack-for-hacker-news-developer/id1464477788
