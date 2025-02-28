@@ -393,6 +393,7 @@ Contents:
 
         Computer Architecture:
             Sources:
+                https://en.wikipedia.org/wiki/Federico_Faggin (Designed the first commercial microprocessor)
                 https://github.com/hackclub/putting-the-you-in-cpu (A technical explainer by @kognise of how your computer runs programs, from start to finish. https://cpu.land)
                 https://news.ycombinator.com/item?id=14526344 (Build a Modern Computer from First Principles: Nand to Tetris Part II)
                 https://news.ycombinator.com/item?id=42793597 (Simple CPU Design (simplecpudesign.com))
@@ -4101,7 +4102,7 @@ Contents:
             Sources:
                 http://booksreddit.com (Using data analysis to get best Reddit books suggestions)
                 http://www.openculture.com/free_textbooks (200 Free Textbooks: A Meta Collection)
-                https://annas-archive.org/datasets https://annas-archive.org/torrents https://annas-archive.org/torrents/scihub https://libgen.is/scimag/repository_torrent (Anna's Archive - The largest truly open library in human history. ⭐️ We mirror Sci-Hub and LibGen. We scrape and open-source Z-Lib, OpenLib, and more. 📈 25,608,184 books, 99,902,163 papers — preserved forever)
+                https://annas-archive.org/datasets https://annas-archive.org/torrents https://annas-archive.org/torrents/scihub https://libgen.li/scimag/repository_torrent (Anna's Archive - The largest truly open library in human history. ⭐️ We mirror Sci-Hub and LibGen. We scrape and open-source Z-Lib, OpenLib, and more. 📈 25,608,184 books, 99,902,163 papers — preserved forever)
                 https://bookauthority.org (Book recommendations by thought leaders)
                 https://bookinsider.gitlab.io (We present you with the top books on Stack Overflow and other popular Stack Exchange sites.)
                 https://docs.google.com/spreadsheets/d/e/2PACX-1vQDca1iI1GgcMwBl65XRvJaAnZOv6sCjmAamy_7cioVMV4U_VnBksgZrIKTe5P4aneEXtion1ZA7iPe/pubhtml (Pinker Book Recommendations)
@@ -4190,7 +4191,7 @@ Contents:
             Sites: (Sorted by Alexa Rank)
                 https://www.pdfdrive.com (1,061)
                 https://www.oreilly.com (2,672)
-                https://libgen.is (https://en.wikipedia.org/wiki/Library_Genesis) (4,910)
+                https://libgen.li (Use https://open-slum.org to find a working mirror https://www.reddit.com/r/libgen/wiki https://en.wikipedia.org/wiki/Library_Genesis) (4,910)
                 https://www.gutenberg.org (6,947)
                 https://singlelogin.re https://zlibrary-asia.se (7,892)
                 https://audiobookbay.fi (8,650)
@@ -4494,8 +4495,8 @@ Contents:
                 The Selfish Gene
                     https://www.amazon.com/Selfish-Gene-Anniversary-Landmark-Science/dp/0198788606
 
-                A Short History of Nearly Everything
-                    https://www.amazon.com/Short-History-Nearly-Everything/dp/076790818X
+                A Short History of Nearly Everything by Bill Bryson and Richard Matthews
+                    https://en.wikipedia.org/wiki/A_Short_History_of_Nearly_Everything
 
                 Planet Earth
                     https://en.wikipedia.org/wiki/Planet_Earth_(franchise)
@@ -4505,6 +4506,10 @@ Contents:
 
                 The Whole History of the Earth and Life 【Newest Edition】by Kaoru GreenEmerald
                     https://youtu.be/SkeNMoDlHUU?si=zcPszlA5fFlNUk2X
+
+                Sapiens: A Brief History of Humankind by Yuval Noah Harari
+                    https://en.wikipedia.org/wiki/Sapiens:_A_Brief_History_of_Humankind
+
 
             Science Magazines: (Sorted by SimilarWeb.com Rank)
                 https://www.nature.com (1,999)
@@ -5292,6 +5297,7 @@ Contents:
             Sources:
                 https://ciechanow.ski/mechanical-watch (Mechanical Watch)
                 https://en.wikipedia.org/wiki/Astron_(wristwatch) (World's first "quartz clock")
+                https://en.wikipedia.org/wiki/Chronograph (Chronograph)
                 https://en.wikipedia.org/wiki/Coaxial_escapement (Coaxial escapement)
                 https://en.wikipedia.org/wiki/COSC (Contrôle officiel suisse des Chronomètres (COSC))
                 https://en.wikipedia.org/wiki/G%C3%A9rald_Genta (Gérald Genta)
@@ -5338,6 +5344,7 @@ Contents:
                 Sources:
                     https://quillandpad.com/2024/02/13/rolex-case-study-how-many-watches-and-how-much-money-does-rolex-make-2 (Rolex Case Study: How Many Watches and How Much Money Does Rolex Make?)
                     https://www.reddit.com/r/rolex/comments/1gf0wsz/i_also_work_at_a_rolex_ad_ama (I also work at a Rolex AD. AMA )
+                    https://www.reddit.com/r/rolex/comments/1it8lmf/ama (I work for a AD in a large city in the south. AMA)
                     https://xj5wpvbg6op.typeform.com/rolex-waitlist (Rolex Waitlist Calculator)
                     https://youtu.be/FDSJU7giBgk?si=_1tDNbPTh5tvxBs0 (Rolex Daytona Buyers Guide: Ranked Worst to Best by Watchtrader & Co)
                     https://youtu.be/QF_1fGrIxhI?si=q7hL1bKDUYiQmQqY (The Rolex Waitlist Explained (Wait Times Included) by Luxury Bazaar)
