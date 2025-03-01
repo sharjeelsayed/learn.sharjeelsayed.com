@@ -2576,9 +2576,11 @@ Contents:
                 https://news.ycombinator.com/item?id=29742551 (	macOS Setup after 15 Years of Linux (hookrace.net))
                 https://news.ycombinator.com/item?id=38141320 (Paste without formatting on macOS (scottswezey.com))
                 https://news.ycombinator.com/item?id=42057431 (Useful built-in macOS command-line utilities (weiyen.net))
+                https://news.ycombinator.com/item?id=43201417 (macOS Tips and Tricks (2022) (saurabhs.org))
                 https://notes.alinpanaitiu.com/Restarting-macOS-apps-automatically-on-crash (Restarting macOS apps automatically on crash)
                 https://opensource.com/article/19/5/python-3-default-mac (The right and wrong way to set Python 3 as default on a Mac)
                 https://saurabhs.org/advanced-macos-commands (Advanced macOS Command-Line Tools)
+                https://saurabhs.org/macos-tips (macOS Tips & Tricks)
                 https://support.apple.com/en-in/guide/terminal/trmlshtcts/mac (Keyboard shortcuts in Terminal on Mac)
                 https://support.apple.com/en-in/HT201236 (Mac keyboard shortcuts)
                 https://support.google.com/chrome/answer/157179 (Chrome keyboard shortcuts)
@@ -4106,15 +4108,13 @@ Contents:
                 https://bookauthority.org (Book recommendations by thought leaders)
                 https://bookinsider.gitlab.io (We present you with the top books on Stack Overflow and other popular Stack Exchange sites.)
                 https://docs.google.com/spreadsheets/d/e/2PACX-1vQDca1iI1GgcMwBl65XRvJaAnZOv6sCjmAamy_7cioVMV4U_VnBksgZrIKTe5P4aneEXtion1ZA7iPe/pubhtml (Pinker Book Recommendations)
-                https://en.wikipedia.org/wiki/BBC_list_of_100_%27most_inspiring%27_novels
-                https://en.wikipedia.org/wiki/Booker_Prize
+                https://en.wikipedia.org/wiki/BBC_list_of_100_%27most_inspiring%27_novels (BBC's 100 Most Inspiring Novels)
+                https://en.wikipedia.org/wiki/Booker_Prize (Booker Prize)
                 https://en.wikipedia.org/wiki/List_of_best-selling_books (List of best-selling books)
-                https://en.wikipedia.org/wiki/List_of_novels_considered_the_greatest_of_all_time
-                https://en.wikipedia.org/wiki/Lists_of_100_best_books
-                https://en.wikipedia.org/wiki/Pulitzer_Prize
-                https://en.wikipedia.org/wiki/Time%27s_List_of_the_100_Best_Novels
+                https://en.wikipedia.org/wiki/List_of_top_book_lists (List of top book lists)
+                https://en.wikipedia.org/wiki/Pulitzer_Prize (Pulitzer Prize)
+                https://en.wikipedia.org/wiki/Time%27s_List_of_the_100_Best_Novels (Time's List of the 100 Best Novels)
                 https://fivebooks.com (The best books on everything)
-                https://github.com/EbookFoundation/free-programming-books (https://ebookfoundation.github.io/free-programming-books 📚 Freely available programming books)
                 https://github.com/laxyapahuja/bunken (A chrome extension to download ebooks directly from Goodreads.)
                 https://hardcover.app (Hardcover is a book recommendation engine that helps you find your next favorite book.)
                 https://news.ycombinator.com/item?id=13803787 (Ask HN: What books fundamentally changed the way you think about the world?)
@@ -4161,19 +4161,20 @@ Contents:
                 https://redditfavorites.com/books (What are Reddit's favorite books? From 3.5 billion Reddit comments)
                 https://shepherd.com (8,000+ authors have shared five of their favorite books around a topic, theme, or mood.)
                 https://thestorygraph.com (The StoryGraph helps you track your reading, set goals, and find new books to read.)
-                https://wiki.mobileread.com/wiki/EBook_Lending_Libraries
-                https://www.amazon.com/b/?node=8192263011 (100 Books to Read in a Lifetime)
-                https://www.amazon.com/best-sellers-books-Amazon/zgbs/books
-                https://www.amazon.com/charts (The Top 20 Most Sold & Most Read Books of the Week)
-                https://www.amazon.com/gp/bestsellers/2023/books (Amazon Best Sellers of 2023 (So Far))
+                https://wiki.mobileread.com/wiki/EBook_Lending_Libraries (EBook Lending Libraries)
+                https://www.amazon.com/b?node=17276804011 (Amazon Best Books of the Year)
+                https://www.amazon.com/b/?node=8192263011 (Amazon 100 Books to Read in a Lifetime)
+                https://www.amazon.com/best-sellers-books-Amazon/zgbs/books (Amazon Best Sellers in Books)
+                https://www.amazon.com/Books/b?node=549028 (The New York Times® Best Sellers)
+                https://www.amazon.com/charts (Amazon : The Top 20 Most Sold & Most Read Books of the Week)
                 https://www.goodreads.com/list
                 https://www.nytimes.com/interactive/2021/12/28/books/best-book-winners.html (What’s the Best Book of the Past 125 Years?)
                 https://www.nytimes.com/section/books/review
-                https://www.reddit.com/r/AskReddit/comments/34m5n6/reddit_what_are_some_must_read_books
-                https://www.reddit.com/r/AskReddit/comments/8cl833/what_are_some_good_books_that_would_make_the
-                https://www.reddit.com/r/AskReddit/comments/8gy4nd/what_are_some_cool_websites_where_you_can
+                https://www.reddit.com/r/AskReddit/comments/34m5n6/reddit_what_are_some_must_read_books (Reddit, what are some "MUST read" books?)
+                https://www.reddit.com/r/AskReddit/comments/8cl833/what_are_some_good_books_that_would_make_the (What are some good books that would make the average person more knowledgeable? )
+                https://www.reddit.com/r/AskReddit/comments/8gy4nd/what_are_some_cool_websites_where_you_can (What are some cool websites where you can download free stuff?)
                 https://www.reddit.com/r/books/wiki/suggested
-                https://www.reddit.com/r/FreeEBOOKS/comments/exw3gj/here_are_50_classic_books_that_you_can_download
+                https://www.reddit.com/r/FreeEBOOKS/comments/exw3gj/here_are_50_classic_books_that_you_can_download (Here are 50 classic books that you can download as free audiobooks from Librivox. Librivox is a site where volunteers create recordings of books that are in the pubic domain and make the available for download. )
                 https://www.reddit.com/r/freeEBOOKS/wiki/febooks
                 https://www.reddit.com/r/FreeEBOOKS+KindleFreebies
                 https://www.reddit.com/r/Piracy/comments/oreyow/heres_the_definitive_list_of_sites_for_ebooks_and
