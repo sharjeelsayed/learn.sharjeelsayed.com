@@ -2096,6 +2096,7 @@ Contents:
                 https://news.ycombinator.com/item?id=21189256 (99% of the Git commands you'll need at work, demonstrated in a single script (bitbucket.org))
                 https://news.ycombinator.com/item?id=39400352 (Popular Git config options (jvns.ca))
                 https://news.ycombinator.com/item?id=42728916 (Oh Shit, Git? (ohshitgit.com))
+                https://news.ycombinator.com/item?id=43169435 (How Core Git Developers Configure Git (gitbutler.com))
                 https://nvie.com/posts/a-successful-git-branching-model (A successful Git branching model)
                 https://ossinsight.io (SELECT insights FROM GitHub events 🔥 Trending Repos)
                 https://relatedrepos.com (Discover related open source projects)
@@ -2110,6 +2111,7 @@ Contents:
             Git Tutorials:
                 https://about.gitlab.com/images/press/git-cheat-sheet.pdf (Git Cheat Sheet)
                 https://blog.gitbutler.com/git-tips-and-tricks (Git Tips and Tricks)
+                https://blog.gitbutler.com/how-git-core-devs-configure-git (How Core Git Developers Configure Git by Scott Chacon)
                 https://git-scm.com/book/en/v2/Git-Tools-Reset-Demystified (Reset vs Checkout)
                 https://github.com/git-tips/tips (Most commonly used git tips and tricks.)
                 https://github.com/k88hudson/git-flight-rules (Flight rules for git)
@@ -4193,6 +4195,7 @@ Contents:
                 https://www.pdfdrive.com (1,061)
                 https://www.oreilly.com (2,672)
                 https://libgen.li (Use https://open-slum.org to find a working mirror https://www.reddit.com/r/libgen/wiki https://en.wikipedia.org/wiki/Library_Genesis) (4,910)
+                https://z-library.sk
                 https://www.gutenberg.org (6,947)
                 https://singlelogin.re https://zlibrary-asia.se (7,892)
                 https://audiobookbay.fi (8,650)
