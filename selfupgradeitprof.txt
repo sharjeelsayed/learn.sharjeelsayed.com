@@ -961,6 +961,7 @@ Contents:
             Additional Material:
                 Linux From Scratch!
                     http://www.linuxfromscratch.org
+                    https://www.linuxfromscratch.org/blfs/read.html
 
                 Build yourself a Linux
                     https://github.com/MichielDerhaeg/build-linux
@@ -2033,12 +2034,14 @@ Contents:
                 https://news.ycombinator.com/item?id=23208181 (Ask HN: What PostgreSQL client do you use?)
                 https://pgtune.leopard.in.ua (tuning PostgreSQL config by your hardware)
                 https://postgrespro.com/blog/pgsql/5969985 ( PostgreSQL 14 Internals :A deep dive into the server mechanics)
+                https://postgrespro.com/community/books/internals (PostgreSQL Internals)
                 https://postgresqlco.nf (Manage YOUR postgresql.conf CONFIGURATIONS)
                 https://roadmap.sh/postgresql-dba (Step by step guide to becoming a modern PostgreSQL DB Administrator in 2022)
                 https://supabase.com (Supabase is an open source Firebase alternative. Start your project with a Postgres database, Authentication, instant APIs, Edge Functions, Realtime subscriptions, Storage, and Vector embeddings.)
                 https://theartofpostgresql.com (The book that teaches SQL to developers: Learn to replace thousands of lines of code with simple queries!)
                 https://tomcam.github.io/postgres (psql command line tutorial and cheat sheet)
                 https://www.crunchydata.com/developers/tutorials (Postgres Playground: Enhance your Postgres skills)
+                https://www.interdb.jp/pg (The Internals of PostgreSQL)
                 https://www.postgresql.org/docs/current/internals.html (PostgreSQL Internals)
                 https://www.timescale.com/blog/state-of-postgresql-2022-13-tools-that-arent-psql (Top Postgresql clients and tools)
                 https://www.udemy.com/topic/postgresql/?ratings=4.5&sort=popularity (Udemy Courses rated 4.5 stars and above)
@@ -4181,6 +4184,7 @@ Contents:
                 https://www.reddit.com/r/FreeEBOOKS+KindleFreebies
                 https://www.reddit.com/r/Piracy/comments/oreyow/heres_the_definitive_list_of_sites_for_ebooks_and
                 https://www.reddit.com/r/suggestmeabook (a sub where you can find new books based on suggestions from the community)
+                https://en.wikipedia.org/wiki/The_Big_Read (The Big Read was a survey on books carried out by the BBC in the United Kingdom in 2003)
                 https://www.goodreads.com/SharjeelSayed
 
             Hacker News Recommended Books:
@@ -4477,7 +4481,7 @@ Contents:
                 https://news.ycombinator.com/item?id=18085765 (Ask HN: What are some of the best documentaries you've seen?)
                 https://news.ycombinator.com/item?id=20390984 (If Sapiens were a blog post (neilkakkar.com))
                 https://news.ycombinator.com/item?id=32220192 (Ask HN: YouTube Channels for the Intellectually Curious)
-                https://sciurls.com
+                https://sciurls.com (Science News and Articles)
                 https://www.amazon.com/Best-Sellers-Books-Science-Math/zgbs/books/75 (Best Sellers in Science & Math)
                 https://www.howacarworks.com/video-course (Understand everything inside a modern car by by Alex Muir.Automotive Engineering 20 hour Video Course)
                 https://www.nytimes.com/interactive/2022/science/astronomy-space-calendar.html (New York Times’s space and astronomy calendar)
@@ -4507,6 +4511,7 @@ Contents:
 
                 Cosmos: A Spacetime Odyssey
                     https://en.wikipedia.org/wiki/Cosmos:_A_Spacetime_Odyssey
+                    https://en.wikipedia.org/wiki/Cosmos_(Sagan_book)
 
                 The Whole History of the Earth and Life 【Newest Edition】by Kaoru GreenEmerald
                     https://youtu.be/SkeNMoDlHUU?si=zcPszlA5fFlNUk2X
@@ -4779,7 +4784,7 @@ Contents:
                         https://www.reddit.com/r/dataisbeautiful/comments/18fvw7v/oc_top_50_subreddits_with_the_most_new_posts_per ([OC] Top 50 subreddits with the most new posts per day and most comments per post (December 2023))
 
                     Subscriptions:
-                        https://www.reddit.com/r/1Password+ABCDesis+AWSCertifications+Alfred+Android+AppHookup+AppleWatch+Cartier+DataHoarder+Documentaries+ExperiencedDevs+Flights+FreeEBOOKS+GalaxyS24Ultra+ITCareerQuestions+IndiaInvestments+KindleFreebies+Louisvuitton+ManyBaggers+Piracy+Terraform+TheHermesGame+Ubuntu+Watches+androidapps+announcements+ansible+antiwork+apple+appletv+askscience+audemarspiguet+aws+bangalore+beta+compsci+cscareerquestions+dataisbeautiful+developersIndia+devops+diabetes+digitalnomad+docker+dubai+fragrance+geopolitics+hyderabad+india+ipad+iphone+jewelry+kubernetes+learnprogramming+linux+linuxadmin+mac+macapps+malefashionadvice+movies+mumbai+netsec+networking+nextdns+onebag+osx+patekphilippe+programming+qatar+rolex+samsung+science+solotravel+sysadmin+technews+technology+television+todayilearned+todoist+travel+usefulscripts+watchesindia+webdev+worldnews
+                        https://www.reddit.com/r/1Password+ABCDesis+AWSCertifications+Alfred+Android+AppHookup+AppleWatch+AskHistorians+Cartier+DataHoarder+Documentaries+ExperiencedDevs+Flights+FreeEBOOKS+GalaxyS24Ultra+ITCareerQuestions+IndiaInvestments+KindleFreebies+Louisvuitton+ManyBaggers+Piracy+Terraform+TheHermesGame+Ubuntu+Watches+androidapps+announcements+ansible+antiwork+apple+appletv+askscience+audemarspiguet+aws+bangalore+beta+compsci+cscareerquestions+dataisbeautiful+developersIndia+devops+diabetes+digitalnomad+docker+dubai+fragrance+geopolitics+history+hyderabad+india+ipad+iphone+jewelry+kubernetes+learnprogramming+linux+linuxadmin+mac+macapps+malefashionadvice+movies+mumbai+netsec+networking+nextdns+onebag+osx+patekphilippe+programming+qatar+rolex+samsung+science+solotravel+sysadmin+technews+technology+television+todayilearned+todoist+travel+usefulscripts+watchesindia+webdev+worldnews/
 
                 Hacker News:
                     https://apps.apple.com/us/app/hack-for-hacker-news-developer/id1464477788
