@@ -562,6 +562,7 @@ Contents:
                 https://github.com/gchq/CyberChef https://gchq.github.io/CyberChef (The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis)
                 https://github.com/GyulyVGC/sniffnet (https://sniffnet.net Comfortably monitor your Internet traffic 🕵️‍♂️ )
                 https://github.com/kffl/speedbump (TCP proxy for simulating variable, yet predictable network latency 🌐⏳)
+                https://github.com/traviscross/mtr (mtr combines the functionality of the 'traceroute' and 'ping' programs in a single network diagnostic tool.)
                 https://www.davidc.net/sites/default/subnets/subnets.html (Visual Subnet Calculator)
 
             Books and Courses:
@@ -3221,6 +3222,7 @@ Contents:
                 https://github.com/n8n-io/self-hosted-ai-starter-kit (https://n8n.io The Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environment. Curated by n8n, it provides essential tools for creating secure, self-hosted AI workflows. )
                 https://github.com/netease-youdao/QAnything (https://qanything.ai Question and Answer based on Anything.)
                 https://github.com/OpenMindClub/awesome-chatgpt (⚡ Everything about ChatGPT )
+                https://github.com/punkpeye/awesome-mcp-servers (https://glama.ai/mcp/servers A collection of MCP servers)
                 https://github.com/Shubhamsaboo/awesome-llm-apps ( https://www.theunwindai.com Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.)
                 https://github.com/taranjeet/awesome-gpts (Collection of all the GPTs created by the community)
                 https://github.com/tencent/Hunyuan3D-2 (High-Resolution 3D Assets Generation with Large Scale Hunyuan3D Diffusion Models.)
@@ -3394,6 +3396,7 @@ Contents:
                 https://news.ycombinator.com/item?id=27161901 (Ask HN: What lessons did you learn from your best or worst colleagues?)
                 https://www.amazon.com/gp/bestsellers/books/2578 (Amazon Best Sellers in Job Interviewing)
                 https://www.firecode.io (Grinding through hundreds of medium and hard questions sucks. We built Firecode.io to make interview prep fun, effective & durable by using machine learning and spaced repetition to pick your next problem for you.|)
+                https://www.interviewdb.io (InterviewDB is a collection of real interview questions from top tech companies.)
                 https://www.linkedin.com/pulse/interviewing-aws-advice-tips-from-250-interviews-nick-matthews (Interviewing at AWS: Advice and tips from 250 interviews by Nick Matthews)
                 https://www.reddit.com/r/AskReddit/comments/74sskj/what_are_some_red_flags_in_a_job_interview
                 https://www.reddit.com/r/AskReddit/comments/9vbwy8/what_are_good_questions_to_ask_potential
@@ -3576,6 +3579,7 @@ Contents:
         Jobs:
             Sources:
                 http://layoffs.fyi (Tracking all tech startup layoffs since COVID-19)
+                https://blog.pragmaticengineer.com/software-engineer-jobs-five-year-low (Software Engineer Jobs at a Five-Year Low)
                 https://docs.google.com/spreadsheets/d/1TLJSlNxCbwRNxy14Toe1PYwbCTY7h0CNHeer9J0VRzE/htmlview#gid=1279011369 (900+ Startups Hiring Remotely in 2024 - by Remotive.com : UPDATED - The List of Awesome!)
                 https://en.wikipedia.org/wiki/List_of_Arab_League_countries_by_GDP_(PPP) (List of Arab League countries by GDP (PPP))
                 https://en.wikipedia.org/wiki/List_of_countries_by_average_annual_labor_hours (List of countries by average annual labor hours)
@@ -5352,13 +5356,13 @@ Contents:
 
             Rolex:
                 Sources:
+                    How to adjust the easy link clasp on your Rolex DateJust https://youtu.be/wKlaunj8E84?si=eshM_EnanXcwVE4i https://youtu.be/y_gVrragyNE?si=KOn82fTGSqbueuXT
                     https://quillandpad.com/2024/02/13/rolex-case-study-how-many-watches-and-how-much-money-does-rolex-make-2 (Rolex Case Study: How Many Watches and How Much Money Does Rolex Make?)
                     https://www.reddit.com/r/rolex/comments/1gf0wsz/i_also_work_at_a_rolex_ad_ama (I also work at a Rolex AD. AMA )
                     https://www.reddit.com/r/rolex/comments/1it8lmf/ama (I work for a AD in a large city in the south. AMA)
                     https://xj5wpvbg6op.typeform.com/rolex-waitlist (Rolex Waitlist Calculator)
                     https://youtu.be/J_gCN20W1Qg?si=fONgmSeKCT7wOU7R (Rolex Submariner Buyers Guide - Ranked Worst To Best by Watchtrader & Co)
                     https://youtu.be/QF_1fGrIxhI?si=q7hL1bKDUYiQmQqY (The Rolex Waitlist Explained (Wait Times Included) by Luxury Bazaar)
-                    https://youtu.be/y_gVrragyNE?si=E3mRryIh-kBtyUd_ (How to adjust the easy link clasp on your Rolex DateJust by Joe Escobar Diamonds)
                     https://youtu.be/Yd8BZxnFc_4?si=NPRBf1cbmxTf9S04 (Rolex Oyster Perpetual Buyers Guide - Ranked Worst To Best by Watchtrader & Co)
 
                 Rolex Cosmograph Daytona:
