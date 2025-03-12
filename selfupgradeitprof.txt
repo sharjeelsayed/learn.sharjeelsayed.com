@@ -869,6 +869,7 @@ Contents:
         SysAdmin:
             Sources:
                 http://serverfault.com/questions/1046/what-is-the-single-most-influential-book-every-sysadmin-should-read
+                https://github.com/awesome-foss/awesome-sysadmin (A curated list of amazingly awesome open-source sysadmin resources.)
                 https://github.com/kahun/awesome-sysadmin
                 https://github.com/n1trux/awesome-sysadmin
                 https://github.com/snipe/snipe-it (https://snipeitapp.com A free open source IT asset/license management system)
