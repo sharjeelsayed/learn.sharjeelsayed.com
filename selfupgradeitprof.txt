@@ -4164,9 +4164,6 @@ Contents:
                 https://news.ycombinator.com/item?id=35929112 (Ask HN: What are the most eye-opening textbooks you have ever read?)
                 https://news.ycombinator.com/item?id=39057219 (	Ask HN: Good books on philosophy of engineering?)
                 https://opentrackers.org/downloading-ebooks-textbooks (A guide to help people find ebooks & textbooks)
-                https://pinboard.in/u:SharjeelSayed/t:course
-                https://pinboard.in/u:SharjeelSayed/t:ebooks
-                https://pinboard.in/u:SharjeelSayed/t:learn
                 https://ramiro.org/vis/hn-most-linked-books (Top 30 books ranked by total number of links to Amazon in Hacker News comments)
                 https://redditfavorites.com/books (What are Reddit's favorite books? From 3.5 billion Reddit comments)
                 https://shepherd.com (8,000+ authors have shared five of their favorite books around a topic, theme, or mood.)
@@ -4188,9 +4185,12 @@ Contents:
                 https://www.reddit.com/r/freeEBOOKS/wiki/febooks
                 https://www.reddit.com/r/FreeEBOOKS+KindleFreebies
                 https://www.reddit.com/r/Piracy/comments/oreyow/heres_the_definitive_list_of_sites_for_ebooks_and
-                https://www.reddit.com/r/suggestmeabook (a sub where you can find new books based on suggestions from the community)
                 https://en.wikipedia.org/wiki/The_Big_Read (The Big Read was a survey on books carried out by the BBC in the United Kingdom in 2003)
                 https://www.goodreads.com/SharjeelSayed
+                https://www.reddit.com/r/books+suggestmeabook (Reddit Books and Suggest Me A Book)
+                https://pinboard.in/u:SharjeelSayed/t:course
+                https://pinboard.in/u:SharjeelSayed/t:ebooks
+                https://pinboard.in/u:SharjeelSayed/t:learn
 
             Hacker News Recommended Books:
                 http://ramiro.org/vis/hn-most-linked-books-unique-users (Top 30 books ranked by total number of links to Amazon in Hacker News comments on January 17, 2016)
@@ -4574,6 +4574,7 @@ Contents:
                 https://en.wikipedia.org/wiki/List_of_film_periodicals (List of film periodicals)
                 https://en.wikipedia.org/wiki/List_of_science_magazines (List of science magazines)
                 https://en.wikipedia.org/wiki/List_of_scientific_journals (List of scientific journals)
+                https://en.wikipedia.org/wiki/News_agency (News agency)
                 https://en.wikipedia.org/wiki/Special:Random
                 https://github.com/maltfield/awesome-lemmy-instances (Comparison of different Lemmy Instances)
                 https://github.com/topics/blogs?o=desc&s=stars
@@ -4790,7 +4791,7 @@ Contents:
                         https://www.reddit.com/r/dataisbeautiful/comments/18fvw7v/oc_top_50_subreddits_with_the_most_new_posts_per ([OC] Top 50 subreddits with the most new posts per day and most comments per post (December 2023))
 
                     Subscriptions:
-                        https://www.reddit.com/r/1Password+ABCDesis+AWSCertifications+Alfred+Android+AppHookup+AppleWatch+AskHistorians+Cartier+DataHoarder+Documentaries+ExperiencedDevs+Flights+FreeEBOOKS+GalaxyS24Ultra+ITCareerQuestions+IndiaInvestments+KindleFreebies+Louisvuitton+ManyBaggers+Piracy+Terraform+TheHermesGame+Ubuntu+Watches+androidapps+announcements+ansible+antiwork+apple+appletv+askscience+audemarspiguet+aws+bangalore+beta+compsci+cscareerquestions+dataisbeautiful+developersIndia+devops+diabetes+digitalnomad+docker+dubai+fragrance+geopolitics+history+hyderabad+india+ipad+iphone+jewelry+kubernetes+learnprogramming+linux+linuxadmin+mac+macapps+malefashionadvice+movies+mumbai+netsec+networking+nextdns+onebag+osx+patekphilippe+programming+qatar+rolex+samsung+science+solotravel+sysadmin+technews+technology+television+todayilearned+todoist+travel+usefulscripts+watchesindia+webdev+worldnews/
+                        https://www.reddit.com/r/ABCDesis+AWSCertifications+Android+AppHookup+AppleWatch+AskHistorians+Cartier+DataHoarder+Documentaries+ExperiencedDevs+Flights+GalaxyS24Ultra+ITCareerQuestions+IndiaInvestments+Louisvuitton+ManyBaggers+Piracy+Terraform+TheHermesGame+Ubuntu+Watches+androidapps+announcements+ansible+antiwork+apple+appletv+askscience+audemarspiguet+aws+bangalore+beta+books+compsci+cscareerquestions+dataisbeautiful+developersIndia+devops+diabetes+digitalnomad+docker+dubai+fragrance+geopolitics+history+hyderabad+india+ipad+iphone+jewelry+kubernetes+learnprogramming+linux+linuxadmin+mac+macapps+malefashionadvice+movies+mumbai+netsec+networking+nextdns+onebag+osx+patekphilippe+programming+qatar+rolex+samsung+science+solotravel+suggestmeabook+sysadmin+technews+technology+television+todayilearned+travel+usefulscripts+watchesindia+webdev+worldnews
 
                 Hacker News:
                     https://apps.apple.com/us/app/hack-for-hacker-news-developer/id1464477788
