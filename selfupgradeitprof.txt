@@ -774,7 +774,7 @@ Contents:
         DevOps:
             Sources:
                 http://www.devopsbookmarks.com (Discover tools and frameworks in the DevOps landscape.)
-                https://aws.amazon.com/blogs/devops/the-most-visited-aws-devops-blogs-in-2023 (The most visited AWS DevOps blog posts in 2023)
+                https://aws.amazon.com/blogs/devops/the-most-visited-devops-and-developer-productivity-blog-posts-in-2024-copy (The most visited DevOps and Developer Productivity blog posts in 2024)
                 https://devopsengineers.com (Slack Channel)
                 https://devopsnewsletters.com (DevOps Newsletters)
                 https://github.com/AcalephStorage/awesome-devops (A curated list of resources for Devops )
@@ -798,6 +798,7 @@ Contents:
                 https://news.ycombinator.com/item?id=16357368 (Ask HN: Which books describe modern devops?)
                 https://news.ycombinator.com/item?id=29251343 (Ask HN: What is the fastest way to ramp up on DevOps, k8 and GCP?)
                 https://octopus.com/blog/devops-reading-list ( The DevOps reading list: Choosing your next DevOps book )
+                https://prepare.sh/articles/devops-job-market-trends-2025 (DevOps Job Market Trends [2025])
                 https://prepare.sh/engineering/devops (I scraped all DevOps Interview Questions for Meta, Amazon, Google, Yahoo.)
                 https://roadmap.sh/devops (Step by step guide for DevOps, SRE or any other Operations Role in 2024)
                 https://slack.cloudposse.com https://sweetops.slack.com https://slack.sweetops.com (SweetOps Slack Group)
@@ -1700,13 +1701,13 @@ Contents:
                     https://help.acloud.guru/hc/en-us/articles/360001389256-AWS-Cloud-Sandbox  (AWS Cloud Sandbox)
                     https://learn.cantrill.io/p/aws-certification-recommendations (AWS Certification Recommendations) (SAA -> SAP -> Devops Pro. or SAA-> Dev Asso.-> Sysops Asso.-> SAP-> Devops Pro.  Advanced Networking Specialty is the hardest, Alexa and Security is the easiest)
                     https://notes.arkalim.org/notes/aws%20solutions%20architect%20associate/aws%20solutions%20architect%20associate%20(saa-c02) (Abdur's Notes for AWS Solutions Architect Associate (SAA-C02))
+                    https://pages.awscloud.com/GLOBAL-other-GC-Traincert-Foundational-and-Associate-Certification-Challenge-2025-reg.html (Save 50% on your AWS certification valid till 5 PM PDT on May 21, 2025)
                     https://plazagonzalo.medium.com/aws-solutions-architect-associate-course-4eafb910088d (Complete Course for the AWS Solutions Architect-Associate Certification (SAA-C03))
                     https://www.awsgeek.com (Cloud Diagrams & Notes)
                     https://www.exam-answer.com/amazon (Exams from Amazon)
                     https://www.examtopics.com/exams/amazon (AWS Exam Practice Questions.Highest ranked site for AWS practice exams)
                     https://www.freecram.net/vendor/Amazon.html (Free Amazon Certifications Exam Questions)
                     https://www.reddit.com/r/AWSCertifications/comments/1d5kkuw/aws_certified_solutions_architect_associate (AWS Certified Solutions Architect Associate (SAA-C03) Resources)
-                    https://www.reddit.com/r/AWSCertifications/comments/1es74l4/aws_offering_50_discount_for_associate_exams (AWS offering 50% discount for Associate exams Deadline 12 December 2024)
                     https://www.reddit.com/r/AWSCertifications/comments/1hlhj0k/2025_aws_vouchers_exam_discounts_coupons_other (2025 : AWS Vouchers / Exam Discounts / Coupons / Other Certification related promotions )
                     https://www.reddit.com/r/AWSCertifications/comments/pcj2nk/free_learning_resources_needed_for_aws_solutions/haje9xi (Free Learning Resources needed for "AWS Solutions Architect Associate" exam)
                     https://www.reddit.com/r/AWSCertifications/comments/uqnn53/ive_heard_the_recommendation_here_to_go_saa_sap/i8sbnj5 (If you REALLY want to get devops with minimal study you should do Dev Asso -> Sysops Asso. -> Devops Pro)
@@ -3604,6 +3605,7 @@ Contents:
                 https://news.ycombinator.com/item?id=16875868 (List of places to find remote jobs and freelancing projects)
                 https://news.ycombinator.com/item?id=17047736 (Ask HN: How to become a remote contractor?)
                 https://news.ycombinator.com/item?id=40014087 (I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA)
+                https://prepare.sh/articles/devops-job-market-trends-2025 (DevOps Job Market Trends [2025])
                 https://twitter.com/jobs (X Twitter Jobs Search)
                 https://www.glassdoor.com/research/workplace-trends-2024 (Glassdoor’s 2024 Workplace Trends)
                 https://www.hiringlab.org/2023/11/15/indeeds-2024-us-jobs-hiring-trends-report (Indeed’s 2024 US Jobs & Hiring Trends Report)
@@ -3616,6 +3618,7 @@ Contents:
                 https://www.reddit.com/r/india/comments/gja5eo/advice_for_indians_looking_to_study_abroad_and
                 https://www.reddit.com/r/recruitinghell/top (This subreddit is for all of those recruiters and candidates who really don't get it. Post your horror stories and show us those amazing job offers!)
                 https://www.statista.com/statistics/199999/worldwide-tech-layoffs-covid-19 (Number of tech employees laid off worldwide from 2020 to 2024, by quarter)
+                https://www.statista.com/statistics/217837/average-duration-of-unemployment-in-the-in-the-us (Average duration of unemployment in the United States from 1990 to 2024)
                 https://pinboard.in/u:SharjeelSayed/t:jobs
 
         Job Sites: (Sorted by Alexa Rank)
