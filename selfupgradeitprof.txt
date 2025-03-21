@@ -1070,6 +1070,8 @@ Contents:
                 https://github.com/phiresky/ripgrep-all (rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.)
                 https://github.com/ranger/ranger (https://ranger.fm A VIM-inspired filemanager for the console)
                 https://github.com/rupa/z (z - jump around)
+                https://github.com/sharkdp/bat (A cat(1) clone with wings.)
+                https://github.com/sharkdp/fd (A simple, fast and user-friendly alternative to 'find')
                 https://github.com/sxyazi/yazi (https://yazi-rs.github.io 💥 Blazing fast terminal file manager written in Rust, based on async I/O.)
                 https://github.com/Textualize/toolong (https://www.textualize.io A terminal application to view, tail, merge, and search log files (plus JSONL).)
                 https://github.com/yassinebenaid/bunster (https://bunster.netlify.app Compile shell scripts to native executable programs)
