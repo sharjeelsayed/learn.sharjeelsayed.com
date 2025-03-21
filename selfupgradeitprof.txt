@@ -1196,6 +1196,7 @@ Contents:
                 https://github.com/hadolint/hadolint (Dockerfile linter, validate inline bash, written in Haskell)
                 https://github.com/Haxxnet/Compose-Examples (Various Docker Compose examples of selfhosted FOSS and proprietary projects.)
                 https://github.com/hexops/dockerfile (Dockerfile best-practices for writing production-worthy Docker images. )
+                https://github.com/hotheadhacker/awesome-selfhost-docker (https://awesome-selfhost-docker.vercel.app https://github.com/hotheadhacker/awesome-selfhost-docker)
                 https://github.com/jesseduffield/lazydocker (The lazier way to manage everything docker)
                 https://github.com/jessfraz/dockerfiles (Various Dockerfiles I use on the desktop and on servers. )
                 https://github.com/magicmark/composerize (Turns docker run commands into docker-compose files!)
@@ -4129,6 +4130,7 @@ Contents:
                 https://en.wikipedia.org/wiki/List_of_best-selling_books (List of best-selling books)
                 https://en.wikipedia.org/wiki/List_of_top_book_lists (List of top book lists)
                 https://en.wikipedia.org/wiki/Pulitzer_Prize (Pulitzer Prize)
+                https://en.wikipedia.org/wiki/The_Big_Read (The Big Read was a survey on books carried out by the BBC in the United Kingdom in 2003)
                 https://en.wikipedia.org/wiki/Time%27s_List_of_the_100_Best_Novels (Time's List of the 100 Best Novels)
                 https://fivebooks.com (The best books on everything)
                 https://github.com/laxyapahuja/bunken (A chrome extension to download ebooks directly from Goodreads.)
@@ -4181,19 +4183,19 @@ Contents:
                 https://www.amazon.com/Books/b?node=549028 (The New York Times® Best Sellers)
                 https://www.amazon.com/charts (Amazon : The Top 20 Most Sold & Most Read Books of the Week)
                 https://www.goodreads.com/list
+                https://www.goodreads.com/SharjeelSayed
                 https://www.nytimes.com/interactive/2021/12/28/books/best-book-winners.html (What’s the Best Book of the Past 125 Years?)
                 https://www.nytimes.com/section/books/review
                 https://www.reddit.com/r/AskReddit/comments/34m5n6/reddit_what_are_some_must_read_books (Reddit, what are some "MUST read" books?)
                 https://www.reddit.com/r/AskReddit/comments/8cl833/what_are_some_good_books_that_would_make_the (What are some good books that would make the average person more knowledgeable? )
                 https://www.reddit.com/r/AskReddit/comments/8gy4nd/what_are_some_cool_websites_where_you_can (What are some cool websites where you can download free stuff?)
+                https://www.reddit.com/r/books/comments/1dy8gy8/for_10_years_now_4chan_has_ranked_the_100_best (For 10 years now, 4chan has ranked the 100 best books ever. I’ve compiled them all to create the Final 4chan List of Greatest Books: Decade Aggregate. A conclusive update on my list from 4 years ago. (OC))
                 https://www.reddit.com/r/books/wiki/suggested
+                https://www.reddit.com/r/books+suggestmeabook (Reddit Books and Suggest Me A Book)
                 https://www.reddit.com/r/FreeEBOOKS/comments/exw3gj/here_are_50_classic_books_that_you_can_download (Here are 50 classic books that you can download as free audiobooks from Librivox. Librivox is a site where volunteers create recordings of books that are in the pubic domain and make the available for download. )
                 https://www.reddit.com/r/freeEBOOKS/wiki/febooks
                 https://www.reddit.com/r/FreeEBOOKS+KindleFreebies
                 https://www.reddit.com/r/Piracy/comments/oreyow/heres_the_definitive_list_of_sites_for_ebooks_and
-                https://en.wikipedia.org/wiki/The_Big_Read (The Big Read was a survey on books carried out by the BBC in the United Kingdom in 2003)
-                https://www.goodreads.com/SharjeelSayed
-                https://www.reddit.com/r/books+suggestmeabook (Reddit Books and Suggest Me A Book)
                 https://pinboard.in/u:SharjeelSayed/t:course
                 https://pinboard.in/u:SharjeelSayed/t:ebooks
                 https://pinboard.in/u:SharjeelSayed/t:learn
@@ -5330,6 +5332,7 @@ Contents:
                 https://en.wikipedia.org/wiki/Poljot (Poljot produced the world's first space watch worn by Yuri Gagarin)
                 https://en.wikipedia.org/wiki/Reference_57260 (Vacheron Constantin Reference 57260 : The Most Complicated Watch Ever Made)
                 https://en.wikipedia.org/wiki/Roger_W._Smith (British independent watchmaker)
+                https://en.wikipedia.org/wiki/SAE_316L_stainless_steel (SAE 316L stainless steel)
                 https://en.wikipedia.org/wiki/Spring_Drive (Spring Drive)
                 https://monochrome-watches.com/morgan-stanleys-top-50-watch-brands-for-2024-rolex-still-by-far-the-leader-overall-market-suffered (Morgan Stanley’s Top 50 Watch Brands for 2024)
                 https://quillandpad.com/2021/03/19/the-diving-bezel-the-most-versatile-watch-complication-even-if-youre-not-a-diver (The Diving Bezel: The Most Versatile Watch Complication, Even If You’re Not A Diver)
@@ -5365,7 +5368,9 @@ Contents:
             Rolex:
                 Sources:
                     How to adjust the easy link clasp on your Rolex DateJust https://youtu.be/wKlaunj8E84?si=eshM_EnanXcwVE4i https://youtu.be/y_gVrragyNE?si=KOn82fTGSqbueuXT
+                    https://en.wikipedia.org/wiki/SAE_904L_stainless_steel (SAE 904L stainless steel)
                     https://quillandpad.com/2024/02/13/rolex-case-study-how-many-watches-and-how-much-money-does-rolex-make-2 (Rolex Case Study: How Many Watches and How Much Money Does Rolex Make?)
+                    https://www.instagram.com/reel/DHYixnSOy64/?igsh=aTJpMW1oa2Rydjli (Top 10 Rolex Watches with the highest ROI by captiv_timepiece)
                     https://www.reddit.com/r/rolex/comments/1gf0wsz/i_also_work_at_a_rolex_ad_ama (I also work at a Rolex AD. AMA )
                     https://www.reddit.com/r/rolex/comments/1it8lmf/ama (I work for a AD in a large city in the south. AMA)
                     https://xj5wpvbg6op.typeform.com/rolex-waitlist (Rolex Waitlist Calculator)
