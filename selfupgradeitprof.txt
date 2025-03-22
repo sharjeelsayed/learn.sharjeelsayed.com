@@ -511,6 +511,7 @@ Contents:
 
         Operating Systems:
             Sources:
+                https://littleosbook.github.io (The little book about OS development)
                 https://news.ycombinator.com/item?id=10182727 (Operating Systems: Three Easy Pieces (wisc.edu))
                 https://news.ycombinator.com/item?id=18023062 (How to create an OS from scratch – tutorial (github.com))
                 https://news.ycombinator.com/item?id=18448942 (A book list for OS kernel developers and device driver writers (2006) (jdebp.eu))
@@ -1286,6 +1287,7 @@ Contents:
                 https://github.com/eon01/kubernetes-workshop (A Gentle introduction to Kubernetes with more than just the basics.)
                 https://github.com/jamiehannaford/what-happens-when-k8s (What happens when I type kubectl run?)
                 https://github.com/jatrost/awesome-kubernetes-threat-detection (A curated list of resources about detecting threats and defending Kubernetes systems.)
+                https://github.com/jpetazzo/container.training (https://container.training Slides and code samples for training, tutorials, and workshops about Docker, containers, and Kubernetes.)
                 https://github.com/karmada-io/karmada (Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration)
                 https://github.com/kelseyhightower/kubernetes-the-hard-way (Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.)
                 https://github.com/ksoclabs/awesome-kubernetes-security (A curated list of awesome Kubernetes security resources)
@@ -4191,7 +4193,7 @@ Contents:
                 https://www.reddit.com/r/AskReddit/comments/8gy4nd/what_are_some_cool_websites_where_you_can (What are some cool websites where you can download free stuff?)
                 https://www.reddit.com/r/books/comments/1dy8gy8/for_10_years_now_4chan_has_ranked_the_100_best (For 10 years now, 4chan has ranked the 100 best books ever. I’ve compiled them all to create the Final 4chan List of Greatest Books: Decade Aggregate. A conclusive update on my list from 4 years ago. (OC))
                 https://www.reddit.com/r/books/wiki/suggested
-                https://www.reddit.com/r/books+suggestmeabook (Reddit Books and Suggest Me A Book)
+                https://www.reddit.com/r/books+booksuggestions+suggestmeabook (Books , Book Suggestions , Suggest Me A Book)
                 https://www.reddit.com/r/FreeEBOOKS/comments/exw3gj/here_are_50_classic_books_that_you_can_download (Here are 50 classic books that you can download as free audiobooks from Librivox. Librivox is a site where volunteers create recordings of books that are in the pubic domain and make the available for download. )
                 https://www.reddit.com/r/freeEBOOKS/wiki/febooks
                 https://www.reddit.com/r/FreeEBOOKS+KindleFreebies
@@ -4799,7 +4801,7 @@ Contents:
                         https://www.reddit.com/r/dataisbeautiful/comments/18fvw7v/oc_top_50_subreddits_with_the_most_new_posts_per ([OC] Top 50 subreddits with the most new posts per day and most comments per post (December 2023))
 
                     Subscriptions:
-                        https://www.reddit.com/r/ABCDesis+AWSCertifications+Android+AppHookup+AppleWatch+AskHistorians+Cartier+DataHoarder+Documentaries+ExperiencedDevs+Flights+GalaxyS24Ultra+ITCareerQuestions+IndiaInvestments+Louisvuitton+ManyBaggers+Piracy+Terraform+TheHermesGame+Ubuntu+Watches+androidapps+announcements+ansible+antiwork+apple+appletv+askscience+audemarspiguet+aws+bangalore+beta+books+compsci+cscareerquestions+dataisbeautiful+developersIndia+devops+diabetes+digitalnomad+docker+dubai+fragrance+geopolitics+history+hyderabad+india+ipad+iphone+jewelry+kubernetes+learnprogramming+linux+linuxadmin+mac+macapps+malefashionadvice+movies+mumbai+netsec+networking+nextdns+onebag+osx+patekphilippe+programming+qatar+rolex+samsung+science+solotravel+suggestmeabook+sysadmin+technews+technology+television+todayilearned+travel+usefulscripts+watchesindia+webdev+worldnews
+                        https://www.reddit.com/r/ABCDesis+AWSCertifications+Android+AppHookup+AppleWatch+AskHistorians+Cartier+DataHoarder+Documentaries+ExperiencedDevs+Flights+GalaxyS24Ultra+ITCareerQuestions+IndiaInvestments+Louisvuitton+ManyBaggers+Piracy+Terraform+TheHermesGame+Ubuntu+Watches+androidapps+announcements+ansible+antiwork+apple+appletv+askscience+audemarspiguet+aws+bangalore+beta+books+booksuggestions+compsci+cscareerquestions+dataisbeautiful+developersIndia+devops+diabetes+digitalnomad+docker+dubai+fragrance+geopolitics+history+hyderabad+india+ipad+iphone+jewelry+kubernetes+learnprogramming+linux+linuxadmin+mac+macapps+malefashionadvice+movies+mumbai+netsec+networking+nextdns+onebag+osx+patekphilippe+programming+qatar+rolex+samsung+science+solotravel+suggestmeabook+sysadmin+technews+technology+television+todayilearned+travel+usefulscripts+watchesindia+webdev+worldnews
 
                 Hacker News:
                     https://apps.apple.com/us/app/hack-for-hacker-news-developer/id1464477788
