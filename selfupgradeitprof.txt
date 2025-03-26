@@ -4907,6 +4907,7 @@ Contents:
                 https://news.ycombinator.com/item?id=29758396 (Ask HN: Best Engineering Blog Posts?)
                 https://news.ycombinator.com/item?id=30245247 (Ask HN: Great Blogs by Programmers)
                 https://news.ycombinator.com/item?id=9836023 (Ask HN: What tech blogs, podcasts do you follow outside of HN?)
+                https://refactoringenglish.com/tools/hn-popularity (The highest-ranking personal blogs of Hacker News)
                 https://refined.blog (Curated list of personal blogs)
                 https://wiki.nikitavoloboev.xyz/research/blogs#favorite-blogs
                 https://www.allthingsdistributed.com (Werner Vogels on building scalable and robust distributed systems)
