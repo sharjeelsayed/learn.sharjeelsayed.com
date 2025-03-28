@@ -126,7 +126,6 @@ Contents:
 
     Computer Science:
         Sources:
-            http://blog.agupieware.com/2014/06/online-learning-intensive-bachelors.html (Online Learning: An Intensive Bachelor's Level Computer Science Program Curriculum, Part II (Updated - Dec 2020))
             https://begriffs.com/posts/2017-04-13-longterm-computing-reading.html (Good books for deep hacks)
             https://docs.google.com/spreadsheets/d/1zfw8nPvJeewxcFUBpKUKmAVE8PjnJI7H0CKimdQXxr0/htmlview (Stanford CS Curriculum)
             https://en.wikipedia.org/wiki/Outline_of_computer_science (Outline of computer science)
@@ -217,7 +216,7 @@ Contents:
                 https://www.youtube.com/playlist?list=PLE18841CABEA24090 (These twenty video lectures by Hal Abelson and Gerald Jay Sussman are a complete presentation of the course, given in July 1986 for Hewlett-Packard employees
 
             SICP CS 61A Berkeley:
-                https://cs61a.org (CS 61A: Structure and Interpretation of Computer Programs Spring 2022 by Pamela Fox)
+                https://cs61a.org (CS 61A: Structure and Interpretation of Computer Programs Spring 2025)
                 http://inst.eecs.berkeley.edu/~cs61a/sp17 (CS 61A: The Structure and Interpretation of Computer Programs - Spring 2017 by Paul Hilfinger)
                 http://inst.eecs.berkeley.edu/~cs61a/fa16 (CS 61A: The Structure and Interpretation of Computer Programs - Fall 2016  by John DeNero)
 
@@ -341,7 +340,7 @@ Contents:
                 https://tldrlegal.com (Software Licenses in Plain English)
                 https://wizardzines.com/comics (programming zines by Julia Evans)
                 https://www.discoverdev.io (Discover dev brings you a daily digest of the best engineering blogs from across the web! Handpicked by AI and a network of globally distributed nerds!)
-                https://www.jetbrains.com/lp/devecosystem-2023 (The State of Developer Ecosystem 2023)
+                https://www.jetbrains.com/lp/devecosystem-2024 (The State of Developer Ecosystem 2024)
                 https://www.microsoft.com/en-us/research/blog/category/podcast
                 https://www.reddit.com/r/compsci+cscareerquestions+learnprogramming+programming
                 https://www.reddit.com/r/cscareerquestions/comments/6hmlxr/what_are_the_most_indemand_software_skills_right/dizqiie
@@ -4804,7 +4803,7 @@ Contents:
                         https://www.reddit.com/r/dataisbeautiful/comments/18fvw7v/oc_top_50_subreddits_with_the_most_new_posts_per ([OC] Top 50 subreddits with the most new posts per day and most comments per post (December 2023))
 
                     Subscriptions:
-                        https://www.reddit.com/r/ABCDesis+AWSCertifications+Android+AppHookup+AppleWatch+AskHistorians+Cartier+DataHoarder+Documentaries+ExperiencedDevs+Flights+GalaxyS24Ultra+ITCareerQuestions+IndiaInvestments+Louisvuitton+ManyBaggers+Piracy+Terraform+TheHermesGame+Ubuntu+Watches+androidapps+announcements+ansible+antiwork+apple+appletv+askscience+audemarspiguet+aws+bangalore+beta+books+booksuggestions+compsci+cscareerquestions+dataisbeautiful+developersIndia+devops+diabetes+digitalnomad+docker+dubai+fragrance+geopolitics+history+hyderabad+india+ipad+iphone+jewelry+kubernetes+learnprogramming+linux+linuxadmin+mac+macapps+malefashionadvice+movies+mumbai+netsec+networking+nextdns+onebag+osx+patekphilippe+programming+qatar+rolex+samsung+science+solotravel+suggestmeabook+sysadmin+technews+technology+television+todayilearned+travel+usefulscripts+watchesindia+webdev+worldnews
+                        https://www.reddit.com/r/ABCDesis+AWSCertifications+Android+AppHookup+AppleWatch+AskHistorians+Cartier+DataHoarder+Documentaries+ExperiencedDevs+Flights+GalaxyS24Ultra+ITCareerQuestions+IndiaInvestments+Louisvuitton+ManyBaggers+Piracy+Terraform+TheHermesGame+Ubuntu+Watches+androidapps+announcements+ansible+antiwork+apple+appletv+askscience+audemarspiguet+aws+bangalore+beta+books+booksuggestions+compsci+cscareerquestions+cybersecurity+dataisbeautiful+developersIndia+devops+diabetes+digitalnomad+docker+dubai+fragrance+geopolitics+history+hyderabad+india+ipad+iphone+jewelry+kubernetes+learnprogramming+linux+linuxadmin+mac+macapps+malefashionadvice+movies+mumbai+netsec+networking+nextdns+onebag+osx+patekphilippe+programming+qatar+rolex+samsung+science+solotravel+suggestmeabook+sysadmin+technews+technology+television+todayilearned+travel+usefulscripts+watchesindia+webdev+worldnews
 
                 Hacker News:
                     https://apps.apple.com/us/app/hack-for-hacker-news-developer/id1464477788
