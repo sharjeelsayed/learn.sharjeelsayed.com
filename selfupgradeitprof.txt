@@ -362,7 +362,7 @@ Contents:
                 https://www.udacity.com/course/intro-to-computer-science--cs101
                 https://www.udemy.com/courses/development/software-engineering/?ratings=4.5&sort=popularity (Software Engineering Courses by Udemy)
                 https://www.youtube.com/@TheCodingTrain (The Coding Train)
-                https://zacharylee.substack.com/p/https-every-programmer-should-know (HTTPS Every Programmer Should Know)
+                https://zacharylee.substack.com/p/https-every-programmer-should-know (HTTPS Every Programmer Should Know))
 
             Books and Courses:
                 CS50 Introduction to Computer Science , Harvard University:
@@ -1692,7 +1692,7 @@ Contents:
                     https://youtube.com/playlist?list=PLehXSATXjcQF3NZgGeaNOgo2MRzi0arKY
 
                 Amazon EKS Terraform Workshop
-                    https://tf-eks-workshop.workshop.aws
+                    https://catalog.us-east-1.prod.workshops.aws/workshops/afee4679-89af-408b-8108-44f5b1065cc7/en-US
 
                 AWS Courses by Andrew Brown of ExamPro
                     https://youtu.be/c3Cn4xYfxJY?si=At47-Fh8EXyrZJUd (AWS Solutions Architect Associate Certification (SAA-C03) – Full Course to PASS the Exam by Andrew Brown of ExamPro, freecodecamp.org)
@@ -4035,8 +4035,9 @@ Contents:
         Note Taking tools:
             https://github.com/laurent22/joplin (https://joplinapp.org Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.)
             https://github.com/logseq/logseq (https://logseq.com A privacy-first, open-source platform for knowledge management and collaboration)
+            https://karpathy.bearblog.dev/the-append-and-review-note (The append-and-review note by Andrej Karpathy)
             https://obsidian.md (Obsidian – A knowledge base that works on local Markdown files.)
-            https://obsidian.md/blog/2023-goty-winners (2023 Gems of the year winners)
+            https://obsidian.md/blog/2024-goty-winners (2024 Gems of the year winners)
 
         Productivity Tools:
             Sources:
