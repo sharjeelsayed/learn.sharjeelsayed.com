@@ -1383,6 +1383,7 @@ Contents:
                 https://github.com/doitintl/kube-no-trouble (Easily check your clusters for use of deprecated APIs)
                 https://github.com/eraser-dev/eraser (https://eraser-dev.github.io/eraser 🧹 Cleaning up images from Kubernetes nodes)
                 https://github.com/fluxcd/flux2-kustomize-helm-example (A GitOps workflow example for multi-env deployments with Flux, Kustomize and Helm.)
+                https://github.com/freelensapp/freelens (https://freelensapp.github.io Free IDE for Kubernetes)
                 https://github.com/groundcover-com/caretta (Instant K8s service dependency map, right to your Grafana.)
                 https://github.com/ishantanu/awesome-kubectl-plugins (Curated list of kubectl plugins)
                 https://github.com/johanhaleby/kubetail (Bash script to tail Kubernetes logs from multiple pods at the same time)
@@ -2141,6 +2142,7 @@ Contents:
 
             Git Tools:
                 https://github.com/acaudwell/Gource (https://gource.io software version control visualization)
+                https://github.com/ahmedkhaleel2004/gitdiagram (https://gitdiagram.com Free, simple, fast interactive diagrams for any GitHub repository)
                 https://github.com/altsem/gitu (A TUI Git client inspired by Magit)
                 https://github.com/bigH/git-fuzzy (interactive `git` with the help of `fzf`)
                 https://github.com/dandavison/delta (A viewer for git and diff output)
@@ -3385,6 +3387,7 @@ Contents:
                 https://github.com/alexeygrigorev/data-science-interviews (Data science interview questions and answers https://ds-interviews.org)
                 https://github.com/ibttf/interview-coder (An open-source invisible desktop application to help you pass your technical interviews.)
                 https://github.com/leetcode-mafia/cheetah (Whisper & GPT-based app for passing remote SWE interviews)
+                https://github.com/Ornithopter-pilot/interview-coder-withoupaywall-opensource (Free, Open-Source AI-Powered Interview Preparation Tool)
                 https://github.com/topics/interview-questions?o=desc&s=stars
                 https://github.com/topics/interview?o=desc&s=stars
                 https://github.com/topics/leetcode?o=desc&s=stars
@@ -4624,6 +4627,7 @@ Contents:
                     Sources:
                         https://burkybang.com/reddit_rss (Reddit has a limit to how often RSS feeds can be fetched. This breaks that limit!)
                         https://github.com/DIYgod/RSSHub (🍰 Everything is RSSible)
+                        https://github.com/iliane5/meridian (Meridian cuts through news noise by scraping hundreds of sources, analyzing stories with AI, and delivering concise, personalized daily briefs. )
                         https://github.com/mshibanami/GitHubTrendingRSS (Unofficial RSS feed generator for GitHub Trending)
                         https://github.com/osmoscraft/osmosfeed (A web-based RSS reader running entirely from your GitHub repo.)
                         https://github.com/topics/rss?o=desc&s=stars
