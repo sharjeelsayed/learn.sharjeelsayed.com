@@ -3377,6 +3377,11 @@ Contents:
                     https://plugins.jetbrains.com/plugin/7499-gittoolbox
                     https://plugins.jetbrains.com/plugin/7808-hashicorp-terraform--hcl-language-support
 
+            Cursor:
+                Sources:
+                    https://github.com/PatrickJS/awesome-cursorrules (📄 A curated list of awesome .cursorrules files )
+                    https://github.com/topics/cursor
+
     Career:
         Interview Guides:
             Sources:
@@ -4872,11 +4877,9 @@ Contents:
                 https://softwareleadweekly.com (1,692,604)
                 https://app.mailbrew.com/unreadit/tech-Rrjzlxqyv6Q1 (1,877,598)
                 https://app.mailbrew.com/unreadit/apple-IrGlTkMnbO9o (1,877,598)
-                https://hackernewsletter.com (1,904,854)
                 https://tldrsec.com (2,243,441)
                 https://sreweekly.com (2,522,079)
                 https://cloudseclist.com (3,016,496)
-                https://www.devopsweekly.com (3,957,079)
                 https://newsletter.sharjeelsayed.com (A Daily Newsletter curated by SharjeelSayed.com)
                 https://eks.news (n/a)
                 https://ipj.dreamhosters.com (n/a)
