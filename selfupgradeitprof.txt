@@ -4758,27 +4758,19 @@ Contents:
                         https://tgram.io
                         https://tlgrm.eu/channels/tech (Technology Channels)
 
-                    Telegram News Feed Setup:
-                        Join these channels
-                        https://t.me/best_hacker_news
+                    Telegram channels:
+                        https://t.me/best_hacker_news (https://github.com/ylogx/best-hackernews-bot Top stories from https://news.ycombinator.com (with 500+ score))
+                        https://t.me/learnk8s (Learn Kubernetes)
                         https://t.me/devopsish (DevOps'ish Telegram Channel)
                         https://t.me/hacker_news_feed
 
-                        Add this bot https://t.me/aximobot
-                        Go to the AximoBot conversation and type
-                        /add rss http://feeds.bbci.co.uk/news/world/rss.xml
-                        /add rss http://rss.slashdot.org/Slashdot/slashdotMain
-                        /add rss https://feeds.feedburner.com/ndtvnews-top-stories?format=xml
-                        /add rss https://feeds.feedburner.com/TheHackersNews?format=xml
-                        /add rss https://burkybang.com/reddit_rss/?rss=r/AppHookup/.rss
-                        /add rss https://burkybang.com/reddit_rss/?rss=r/worldnews/.rss
-                        /add rss https://www.aljazeera.com/xml/rss/all.xml
-                        /add rss https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/section/world/rss.xml
-                        /add rss https://www.techmeme.com/feed.xml
+                    Wikipedia Daily News:
+                        Install the bot https://t.me/TheFeedReaderBot (https://thefeedreaderbot.com/bots.html)
+                        /add https://www.to-rss.xyz/wikipedia/current_events
 
-                        Add this bot https://t.me/TheFeedReaderBot
-                        Go to the "Feed Reader Bot" conversation and type
-                        /add https://burkybang.com/reddit_rss/?rss=r/technology/.rss
+                    Telegram Bots:
+                        https://t.me/aximobot (Hi, i am social network (TikTok, Instagram, YouTube, Twitter, Facebook, Telegram) and RSS forwarder.)
+                        https://t.me/CorsaBot (Make Instant View from any article, chat)
 
                 Google News:
                     https://newsmap-js.herokuapp.com
