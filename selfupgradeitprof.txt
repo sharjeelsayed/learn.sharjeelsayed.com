@@ -1074,6 +1074,7 @@ Contents:
                 https://github.com/sharkdp/fd (A simple, fast and user-friendly alternative to 'find')
                 https://github.com/sxyazi/yazi (https://yazi-rs.github.io 💥 Blazing fast terminal file manager written in Rust, based on async I/O.)
                 https://github.com/Textualize/toolong (https://www.textualize.io A terminal application to view, tail, merge, and search log files (plus JSONL).)
+                https://github.com/tstack/lnav (https://lnav.org Log file navigator with advanced features like syntax highlighting, filtering, and SQL queries.)
                 https://github.com/yassinebenaid/bunster (https://bunster.netlify.app Compile shell scripts to native executable programs)
                 https://justine.lol/cosmo3 (Platform-agnostic bash executable)
                 https://ugrep.com (a more powerful, ultra fast, user-friendly, compatible grep)
@@ -4767,10 +4768,10 @@ Contents:
                         https://t.me/best_hacker_news (https://github.com/ylogx/best-hackernews-bot Top stories from https://news.ycombinator.com (with 500+ score))
                         https://t.me/learnk8s (Learn Kubernetes)
                         https://t.me/devopsish (DevOps'ish Telegram Channel)
-                        https://t.me/hacker_news_feed
+                        https://t.me/hacker_news_feed (Top stories from https://news.ycombinator.com (with 100+ score))
 
                     Wikipedia Daily News:
-                        Install the bot https://t.me/TheFeedReaderBot (https://thefeedreaderbot.com/bots.html)
+                        Start bot https://t.me/TheFeedReaderBot (https://thefeedreaderbot.com/bots.html)
                         /add https://www.to-rss.xyz/wikipedia/current_events
 
                     Telegram Bots:
@@ -5340,6 +5341,7 @@ Contents:
                 https://en.wikipedia.org/wiki/Roger_W._Smith (British independent watchmaker)
                 https://en.wikipedia.org/wiki/SAE_316L_stainless_steel (SAE 316L stainless steel)
                 https://en.wikipedia.org/wiki/Spring_Drive (Spring Drive)
+                https://lookerstudio.google.com/reporting/40738bd5-c07f-41f2-aaad-ca5b0aaf9602/page/ZNSUB (Watches used in space exploration)
                 https://monochrome-watches.com/morgan-stanleys-top-50-watch-brands-for-2024-rolex-still-by-far-the-leader-overall-market-suffered (Morgan Stanley’s Top 50 Watch Brands for 2024)
                 https://quillandpad.com/2021/03/19/the-diving-bezel-the-most-versatile-watch-complication-even-if-youre-not-a-diver (The Diving Bezel: The Most Versatile Watch Complication, Even If You’re Not A Diver)
                 https://subdial.com/market (Watch Index)
@@ -5442,7 +5444,7 @@ Contents:
                     https://www.reddit.com/r/gshock (r/gshock)
                     https://youtu.be/jkypmuyw08s?si=evlnNmU00hGk8Fj1 (🌐 Multi-Band 6 WITHOUT Tower 📡 Clock Wave App 🕙 by GOAT Reviews)
 
-                Casio Master Of G - Landrangeman GW-9400Y-1:
+                Casio Master Of G - Land rangeman GW-9400Y-1:
                     https://www.casio.com/in/watches/gshock/product.GW-9400Y-1 (MASTER OF G - LAND RANGEMAN GW-9400Y-1)
                     https://www.manualpdf.in/casio/g-shock-gw-9400-1/manuals (Casio G-Shock GW-9400-1 manual)
                     https://youtu.be/3BotLQShy-0?si=9g9jSdcNJKwCRHBH (Casio GW 9400 Rangeman 3410 - review & detailed tutorial on how to set up and use all the functions by Watch Geek)
