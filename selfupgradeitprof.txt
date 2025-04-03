@@ -5312,6 +5312,7 @@ Contents:
                 https://news.ycombinator.com/item?id=29106967 (Ask HN: What are some technically inspiring movies, TV shows or documentaries?)
                 https://news.ycombinator.com/item?id=32799789 (Ask HN: What are some of the best documentaries you've seen?)
                 https://news.ycombinator.com/item?id=32799789 (Ask HN: What are some of the best documentaries you've seen?)
+                https://tv.garden (Watch TV channels from all over the world)
                 https://www.bbc.com/culture/article/20181029-the-100-greatest-foreign-language-films (The 100 greatest foreign-language films)
                 https://www.bbc.com/culture/article/20211015-the-100-greatest-tv-series-of-the-21st-century
                 https://www.businessinsider.in/The-100-best-crime-movies-of-all-time-according-to-critics/articleshow/65875039.cms (The 100 best crime movies of all time, according to critics)
@@ -5437,16 +5438,15 @@ Contents:
                     https://shockbase.org/advanced_search.php (G-Shock Advanced Search)
                     https://shockbase.org/watches/compare.php (G-Shock Compare Watches)
                     https://shockbase.org/watches/ranking.php (Best G-Shock watches in terms of functions and features)
-                    https://support.casio.com/storage/en/manual/pdf/EN/009/qw3246.pdf (Protrek PRG-240T-7 Module No.3246 User Manual)
-                    https://www.casio.com/in/watches/gshock/product.GW-9400Y-1 (MASTER OF G - LAND RANGEMAN GW-9400Y-1)
-                    https://www.casio.com/in/watches/protrek/product.PRG-240T-7 (PRG-240 Series PRG-240T-7)
+                    https://www.casio.com/intl/watches/protrek/product.PRG-240T-7 (Casio Pro Trek PRG-240T-7)
                     https://www.reddit.com/r/gshock (r/gshock)
-                    https://youtu.be/3BotLQShy-0?si=9g9jSdcNJKwCRHBH (Casio GW 9400 Rangeman 3410 - review & detailed tutorial on how to set up and use all the functions by Watch Geek)
                     https://youtu.be/jkypmuyw08s?si=evlnNmU00hGk8Fj1 (🌐 Multi-Band 6 WITHOUT Tower 📡 Clock Wave App 🕙 by GOAT Reviews)
 
                 Casio Master Of G - Landrangeman GW-9400Y-1:
                     https://www.casio.com/in/watches/gshock/product.GW-9400Y-1 (MASTER OF G - LAND RANGEMAN GW-9400Y-1)
-                    https://support.casio.com/storage/en/manual/pdf/EN/009/qw3410.pdf (RANGEMAN Module No.3410 User Manual)
+                    https://www.manualpdf.in/casio/g-shock-gw-9400-1/manuals (Casio G-Shock GW-9400-1 manual)
+                    https://youtu.be/3BotLQShy-0?si=9g9jSdcNJKwCRHBH (Casio GW 9400 Rangeman 3410 - review & detailed tutorial on how to set up and use all the functions by Watch Geek)
+                    https://youtu.be/xu8d56KgScI?si=D9gGf1ZzQgBDZtmn (Gshock GW-9400 Rangeman - Watch Setting Tutorial by TT Watches)
 
         Fashion:
             Soruces:
