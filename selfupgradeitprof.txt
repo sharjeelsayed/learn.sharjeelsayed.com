@@ -1064,6 +1064,7 @@ Contents:
                 https://github.com/kaplanelad/shellfirm (Intercept any risky patterns (default or defined by you) and prompt you a small challenge for double verification)
                 https://github.com/kellyjonbrazil/jc (CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and simplifying automation scripts.)
                 https://github.com/koalaman/shellcheck (a static analysis tool for shell scripts)
+                https://github.com/lexiforest/curl-impersonate (An active fork of curl-impersonate with more versions and build targets. A series of patches that make curl requests look like Chrome and Firefox.)
                 https://github.com/mbadolato/iTerm2-Color-Schemes (https://iterm2colorschemes.com Over 325 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio, Alacritty, and many more )
                 https://github.com/nvbn/thefuck (Magnificent app which corrects your previous console command.)
                 https://github.com/Orange-OpenSource/hurl (https://hurl.dev Hurl, run and test HTTP requests with plain text.)
@@ -3220,6 +3221,7 @@ Contents:
             Tools:
                 https://github.com/ai-boost/Awesome-GPTs (Curated list of awesome GPTs 👍.)
                 https://github.com/ai-collection/ai-collection ( The Generative AI Landscape - A List of Awesome Generative AI Applications Topics)
+                https://github.com/All-Hands-AI/OpenHands (https://www.all-hands.dev 🙌 OpenHands: Code Less, Make More )
                 https://github.com/bodo-run/yek (A fast tool to read text-based files in a repository or directory, chunk them, and serialize them for LLM consumption. )
                 https://github.com/browser-use/browser-use ( https://browser-use.com Make websites accessible for AI agents)
                 https://github.com/cline/cline (https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.)
@@ -4040,6 +4042,7 @@ Contents:
             https://oneminutefocus.com (Studies in brain science (neuroscience) has shown that focusing visually actually can help our brain focus on a task (Dr. Andrew Huberman))
             https://www.comptia.org/testing/online-testing-interest-form
             https://www.coursera.org/learn/learning-how-to-learn
+            https://x.com/Hesamation/status/1899191612854702578 (Andrej Karpathy’s bombshells on how to learn https://x.com/karpathy/status/1756380066580455557)
 
         Note Taking tools:
             https://github.com/laurent22/joplin (https://joplinapp.org Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.)
@@ -4749,7 +4752,7 @@ Contents:
                         http://thefeedreaderbot.com (The Feed Reader Bot monitors RSS feeds (and Twitter accounts), and sends messages when new posts are available.)
                         https://docs.google.com/spreadsheets/d/1uQP3f2bWuPapTn_1FUcL67jW9MwLzSjysji39pmyUxY (/r/TelegramBots - Master Bot List)
                         https://draculatheme.com/telegram-ios (Dark theme for Telegram iOS)
-                        https://github.com/ebertti/awesome-telegram
+                        https://github.com/ebertti/awesome-telegram (Collection great groups, channels, bots and libraries for Telegram )
                         https://github.com/topics/telegram?o=desc&s=stars
                         https://ifttt.com/telegram
                         https://t.me/aximobot (Hi, i am a RSS and social network flows agregator)
@@ -4806,7 +4809,7 @@ Contents:
                         https://www.reddit.com/r/dataisbeautiful/comments/18fvw7v/oc_top_50_subreddits_with_the_most_new_posts_per ([OC] Top 50 subreddits with the most new posts per day and most comments per post (December 2023))
 
                     Subscriptions:
-                        https://www.reddit.com/r/ABCDesis+AWSCertifications+Android+AppHookup+AppleWatch+AskHistorians+Cartier+DataHoarder+Documentaries+ExperiencedDevs+Flights+GalaxyS24Ultra+ITCareerQuestions+IndiaInvestments+Louisvuitton+ManyBaggers+Piracy+Terraform+TheHermesGame+Ubuntu+Watches+androidapps+announcements+ansible+antiwork+apple+appletv+askscience+audemarspiguet+aws+bangalore+beta+books+booksuggestions+compsci+cscareerquestions+cybersecurity+dataisbeautiful+developersIndia+devops+diabetes+digitalnomad+docker+dubai+fragrance+geopolitics+history+hyderabad+india+ipad+iphone+jewelry+kubernetes+learnprogramming+linux+linuxadmin+mac+macapps+malefashionadvice+movies+mumbai+netsec+networking+nextdns+onebag+osx+patekphilippe+programming+qatar+rolex+samsung+science+solotravel+suggestmeabook+sysadmin+technews+technology+television+todayilearned+travel+usefulscripts+watchesindia+webdev+worldnews
+                        https://www.reddit.com/r/ABCDesis+AWSCertifications+Android+AppHookup+AppleWatch+AskHistorians+Cartier+DataHoarder+Documentaries+ExperiencedDevs+Flights+GalaxyS24Ultra+IndiaInvestments+Louisvuitton+ManyBaggers+Piracy+Terraform+TheHermesGame+Ubuntu+Watches+androidapps+announcements+ansible+antiwork+apple+appletv+askscience+audemarspiguet+aws+bangalore+beta+books+booksuggestions+compsci+cybersecurity+dataisbeautiful+developersIndia+devops+diabetes+digitalnomad+docker+dubai+fragrance+geopolitics+history+hyderabad+india+ipad+iphone+jewelry+kubernetes+learnprogramming+linux+linuxadmin+mac+macapps+malefashionadvice+movies+mumbai+netsec+networking+nextdns+onebag+osx+patekphilippe+programming+qatar+rolex+samsung+science+solotravel+suggestmeabook+technews+technology+television+todayilearned+travel+usefulscripts+watchesindia+webdev+worldnews
 
                 Hacker News:
                     https://apps.apple.com/us/app/hack-for-hacker-news-developer/id1464477788
