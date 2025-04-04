@@ -4749,37 +4749,32 @@ Contents:
 
                 Telegram:
                     Sources:
-                        http://thefeedreaderbot.com (The Feed Reader Bot monitors RSS feeds (and Twitter accounts), and sends messages when new posts are available.)
                         https://docs.google.com/spreadsheets/d/1uQP3f2bWuPapTn_1FUcL67jW9MwLzSjysji39pmyUxY (/r/TelegramBots - Master Bot List)
                         https://draculatheme.com/telegram-ios (Dark theme for Telegram iOS)
                         https://github.com/ebertti/awesome-telegram (Collection great groups, channels, bots and libraries for Telegram )
                         https://github.com/topics/telegram?o=desc&s=stars
-                        https://ifttt.com/telegram
-                        https://t.me/aximobot (Hi, i am a RSS and social network flows agregator)
-                        https://t.me/best_hacker_news (Top stories from https://news.ycombinator.com (with 500+ score))
+                        https://ifttt.com/telegram (Use IFTTT to automatically message with Telegram)
                         https://t.me/chotamreaderbot (Helps make any link "preview" or have "instant view" on Telegram)
-                        https://t.me/CorsaBot (Make Instant View from any article, chat)
-                        https://t.me/hacker_news_feed (Top stories from https://news.ycombinator.com (with 100+ score))
-                        https://t.me/TheFeedReaderBot (The Feed Reader Bot monitors RSS feeds (and Twitter accounts), and sends messages when new posts are available.)
-                        https://tdirectory.me
+                        https://tdirectory.me (Discover The Most Popular TELEGRAM Channels, Groups and Bots)
                         https://telegramchannels.me/channels?category=technology&sort=members (Top Technology Channels)
                         https://telegramchannels.me/search?search=feed&type=bot (RSS Feed Bots)
-                        https://tgram.io
+                        https://tgram.io (Top telegram groups)
                         https://tlgrm.eu/channels/tech (Technology Channels)
 
                     Telegram channels:
                         https://t.me/best_hacker_news (https://github.com/ylogx/best-hackernews-bot Top stories from https://news.ycombinator.com (with 500+ score))
-                        https://t.me/learnk8s (Learn Kubernetes)
                         https://t.me/devopsish (DevOps'ish Telegram Channel)
                         https://t.me/hacker_news_feed (Top stories from https://news.ycombinator.com (with 100+ score))
+                        https://t.me/learnk8s (Learn Kubernetes)
+
+                    Telegram Bots:
+                        http://thefeedreaderbot.com (The Feed Reader Bot monitors RSS feeds (and Twitter accounts), and sends messages when new posts are available.)
+                        https://t.me/aximobot (Hi, i am social network (TikTok, Instagram, YouTube, Twitter, Facebook, Telegram) and RSS forwarder.)
+                        https://t.me/CorsaBot (Make Instant View from any article, chat)
 
                     Wikipedia Daily News:
                         Start bot https://t.me/TheFeedReaderBot (https://thefeedreaderbot.com/bots.html)
                         /add https://www.to-rss.xyz/wikipedia/current_events
-
-                    Telegram Bots:
-                        https://t.me/aximobot (Hi, i am social network (TikTok, Instagram, YouTube, Twitter, Facebook, Telegram) and RSS forwarder.)
-                        https://t.me/CorsaBot (Make Instant View from any article, chat)
 
                 Google News:
                     https://newsmap-js.herokuapp.com
