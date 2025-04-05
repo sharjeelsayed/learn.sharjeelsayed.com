@@ -5,11 +5,11 @@
   </head>
   <body>
     <outline text="QuickCatchup" title="QuickCatchup">
+      <outline text="Lobsters: Top Stories of the Past Week" title="Lobsters: Top Stories of the Past Week" type="rss" xmlUrl="https://lobste.rs/top/rss" htmlUrl="https://lobste.rs/"/>
+      <outline text="Hacker News 100 points post" title="Hacker News 100 points post" type="rss" xmlUrl="https://hnrss.org/newest?points=100" htmlUrl="https://news.ycombinator.com/newest"/>
       <outline text="worldnews: top scoring links" title="worldnews: top scoring links" type="rss" xmlUrl="https://www.reddit.com/r/worldnews/top/.rss?_=1743744455" htmlUrl="https://www.reddit.com/r/worldnews/top/?_=1743744455"/>
-      <outline text="Hacker News: Front Page" title="Hacker News: Front Page" type="rss" xmlUrl="https://hnrss.org/frontpage" htmlUrl="https://news.ycombinator.com/"/>
       <outline text="geopolitics: top scoring links" title="geopolitics: top scoring links" type="rss" xmlUrl="https://burkybang.com/reddit_rss/?rss=r/geopolitics/top/.rss" htmlUrl="https://www.reddit.com/r/geopolitics/top/?_=1743625811"/>
       <outline text="technology, technews: top scoring links" title="technology, technews: top scoring links" type="rss" xmlUrl="https://burkybang.com/reddit_rss/?rss=r/technews%2Btechnology/top/.rss" htmlUrl="https://www.reddit.com/r/technews+technology/top/?_=1704953138"/>
-      <outline text="Lobsters" title="Lobsters" type="rss" xmlUrl="https://lobste.rs/rss" htmlUrl="https://lobste.rs/"/>
       <outline text="NYT &gt; World" title="NYT &gt; World" type="rss" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" htmlUrl="https://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss"/>
       <outline text="NDTV News  - Top-stories" title="NDTV News  - Top-stories" type="rss" xmlUrl="https://feeds.feedburner.com/ndtvnews-top-stories" htmlUrl="http://www.ndtv.com/"/>
       <outline text="GitHub All Languages Daily Trending" title="GitHub All Languages Daily Trending" type="rss" xmlUrl="https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml" htmlUrl="http://mshibanami.github.io/GitHubTrendingRSS"/>
@@ -25,13 +25,13 @@
       <outline text="Techmeme" title="Techmeme" type="rss" xmlUrl="https://www.techmeme.com/index.xml" htmlUrl="https://www.techmeme.com/"/>
     </outline>
     <outline text="News" title="News">
+      <outline text="Lobsters: Top Stories of the Past Week" title="Lobsters: Top Stories of the Past Week" type="rss" xmlUrl="https://lobste.rs/top/rss" htmlUrl="https://lobste.rs/"/>
+      <outline text="Hacker News 100 points post" title="Hacker News 100 points post" type="rss" xmlUrl="https://hnrss.org/newest?points=100" htmlUrl="https://news.ycombinator.com/newest"/>
       <outline text="worldnews: top scoring links" title="worldnews: top scoring links" type="rss" xmlUrl="https://www.reddit.com/r/worldnews/top/.rss?_=1743744455" htmlUrl="https://www.reddit.com/r/worldnews/top/?_=1743744455"/>
-      <outline text="Hacker News: Front Page" title="Hacker News: Front Page" type="rss" xmlUrl="https://hnrss.org/frontpage" htmlUrl="https://news.ycombinator.com/"/>
       <outline text="geopolitics: top scoring links" title="geopolitics: top scoring links" type="rss" xmlUrl="https://burkybang.com/reddit_rss/?rss=r/geopolitics/top/.rss" htmlUrl="https://www.reddit.com/r/geopolitics/top/?_=1743625811"/>
       <outline text="NYT &gt; Home Page" title="NYT &gt; Home Page" type="rss" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml" htmlUrl="https://www.nytimes.com/pages/index.html?partner=rss&amp;emc=rss"/>
       <outline text="science, askscience: top scoring links" title="science, askscience: top scoring links" type="rss" xmlUrl="https://burkybang.com/reddit_rss/?rss=r/askscience%2Bscience/top/.rss" htmlUrl="https://www.reddit.com/r/askscience+science/top/?_=1704953697"/>
       <outline text="technology, technews: top scoring links" title="technology, technews: top scoring links" type="rss" xmlUrl="https://burkybang.com/reddit_rss/?rss=r/technews%2Btechnology/top/.rss" htmlUrl="https://www.reddit.com/r/technews+technology/top/?_=1704953138"/>
-      <outline text="Lobsters" title="Lobsters" type="rss" xmlUrl="https://lobste.rs/rss" htmlUrl="https://lobste.rs/"/>
       <outline text="Cloudflare Blog" title="Cloudflare Blog" type="rss" xmlUrl="https://feeds.feedburner.com/Cloudflare-Blog" htmlUrl="https://blog.cloudflare.com/"/>
       <outline text="NYT &gt; World" title="NYT &gt; World" type="rss" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" htmlUrl="https://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss"/>
       <outline text="NDTV News  - Top-stories" title="NDTV News  - Top-stories" type="rss" xmlUrl="https://feeds.feedburner.com/ndtvnews-top-stories" htmlUrl="http://www.ndtv.com/"/>
@@ -60,6 +60,8 @@
       <outline text="Pinboard (popular bookmarks)" title="Pinboard (popular bookmarks)" type="rss" xmlUrl="https://feeds.pinboard.in/rss/popular/" htmlUrl="https://pinboard.in/popular/"/>
     </outline>
     <outline text="DevOps" title="DevOps">
+      <outline text="Lobsters: Top Stories of the Past Week" title="Lobsters: Top Stories of the Past Week" type="rss" xmlUrl="https://lobste.rs/top/rss" htmlUrl="https://lobste.rs/"/>
+      <outline text="Hacker News 100 points post" title="Hacker News 100 points post" type="rss" xmlUrl="https://hnrss.org/newest?points=100" htmlUrl="https://news.ycombinator.com/newest"/>
       <outline text="ExperiencedDevs, compsci, learnprogramming, programming, webdev : top scoring links" title="ExperiencedDevs, compsci, learnprogramming, programming, webdev : top scoring links" type="rss" xmlUrl="https://burkybang.com/reddit_rss/?rss=r/learnprogramming%2Bprogramming%2Bwebdev%2Bcompsci%2BExperiencedDevs/top/.rss" htmlUrl="https://www.reddit.com/r/learnprogramming+programming+webdev+compsci+ExperiencedDevs/top/?_=1743731115"/>
       <outline text="developersIndia : top scoring links" title="developersIndia : top scoring links" type="rss" xmlUrl="https://burkybang.com/reddit_rss/?rss=r/developersIndia/top/.rss" htmlUrl="https://www.reddit.com/r/developersIndia/top/?_=1743633263"/>
       <outline text="cybersecurity, netsec : top scoring links" title="cybersecurity, netsec : top scoring links" type="rss" xmlUrl="https://burkybang.com/reddit_rss/?rss=r/cybersecurity%2Bnetsec/top/.rss" htmlUrl="https://www.reddit.com/r/cybersecurity+netsec/top/?_=1743628973"/>
@@ -70,9 +72,9 @@
       <outline text="linux, linuxadmin, Ubuntu:top scoring links" title="linux, linuxadmin, Ubuntu:top scoring links" type="rss" xmlUrl="https://burkybang.com/reddit_rss/?rss=r/Ubuntu%2Blinux%2Blinuxadmin/top/.rss" htmlUrl="https://www.reddit.com/r/Ubuntu+linux+linuxadmin/top/?t=1640774786"/>
       <outline text="AWSCertifications, aws: top scoring links" title="AWSCertifications, aws: top scoring links" type="rss" xmlUrl="https://burkybang.com/reddit_rss/?rss=r/AWSCertifications%2Baws/top/.rss" htmlUrl="https://www.reddit.com/r/AWSCertifications+aws/top/?t=1640473430"/>
       <outline text="Last Week in AWS" title="Last Week in AWS" type="rss" xmlUrl="https://www.lastweekinaws.com/feed" htmlUrl="https://www.lastweekinaws.com/"/>
-      <outline text="Terraform, ansible, usefulscripts: top scoring links" title="Terraform, ansible, usefulscripts: top scoring links" type="rss" xmlUrl="https://burkybang.com/reddit_rss/?rss=r/Terraform%2Bansible%2Busefulscripts/top/.rss" htmlUrl="https://www.reddit.com/r/Terraform+ansible+usefulscripts/top/?t=1628081632"/>
       <outline text="devops: top scoring links" title="devops: top scoring links" type="rss" xmlUrl="https://burkybang.com/reddit_rss/?rss=r/devops/top/.rss" htmlUrl="https://www.reddit.com/r/devops/top/?t=1628082157"/>
       <outline text="The Hacker News" title="The Hacker News" type="rss" xmlUrl="https://thehackernews.com/feeds/posts/default" htmlUrl="https://thehackernews.com/"/>
+      <outline text="Terraform, ansible, usefulscripts: top scoring links" title="Terraform, ansible, usefulscripts: top scoring links" type="rss" xmlUrl="https://burkybang.com/reddit_rss/?rss=r/Terraform%2Bansible%2Busefulscripts/top/.rss" htmlUrl="https://www.reddit.com/r/Terraform+ansible+usefulscripts/top/?t=1628081632"/>
       <outline text="docker, kubernetes: top scoring links" title="docker, kubernetes: top scoring links" type="rss" xmlUrl="https://burkybang.com/reddit_rss/?rss=r/docker%2Bkubernetes/top/.rss" htmlUrl="https://www.reddit.com/r/docker+kubernetes/top/?t=1628081259"/>
       <outline text="AWS Official Blog" title="AWS Official Blog" type="rss" xmlUrl="https://aws.amazon.com/blogs/aws/feed/" htmlUrl="https://aws.amazon.com/blogs/aws/"/>
       <outline text="Blog on restic" title="Blog on restic" type="rss" xmlUrl="https://restic.net/blog/index.xml" htmlUrl="https://restic.net/blog/"/>
@@ -87,7 +89,6 @@
       <outline text="SRE WEEKLY" title="SRE WEEKLY" type="rss" xmlUrl="https://sreweekly.com/feed/" htmlUrl="https://sreweekly.com/"/>
     </outline>
     <outline text="Leisure" title="Leisure">
-      <outline text="antiwork: top scoring links" title="antiwork: top scoring links" type="rss" xmlUrl="https://burkybang.com/reddit_rss/?rss=r/antiwork/top/.rss" htmlUrl="https://www.reddit.com/r/antiwork/top/?_=1743632549"/>
       <outline text="AskHistorians, history: top scoring links" title="AskHistorians, history: top scoring links" type="rss" xmlUrl="https://burkybang.com/reddit_rss/?rss=r/AskHistorians%2Bhistory/top/.rss" htmlUrl="https://www.reddit.com/r/AskHistorians+history/top/?_=1743632850"/>
       <outline text="bangalore , india , hyderabad , mumbai : top scoring links" title="bangalore , india , hyderabad , mumbai : top scoring links" type="rss" xmlUrl="https://burkybang.com/reddit_rss/?rss=r/bangalore%2Bindia%2Bhyderabad%2Bmumbai/top/.rss" htmlUrl="https://www.reddit.com/r/bangalore+india+hyderabad+mumbai/top/?_=1743635170"/>
       <outline text="ABCDesis ,  dubai , qatar , saudiarabia : top scoring links" title="ABCDesis ,  dubai , qatar , saudiarabia : top scoring links" type="rss" xmlUrl="https://burkybang.com/reddit_rss/?rss=r/ABCDesis%2Bdubai%2Bqatar%2Bsaudiarabia/top/.rss" htmlUrl="https://www.reddit.com/r/ABCDesis+dubai+qatar+saudiarabia/top/?_=1743634940"/>
@@ -103,10 +104,8 @@
       <outline text="all subreddits : top scoring links" title="all subreddits : top scoring links" type="rss" xmlUrl="https://burkybang.com/reddit_rss/?rss=r/all/top/.rss" htmlUrl="https://old.reddit.com/r/all/top/?_=1704955030"/>
       <outline text="dataisbeautiful : top scoring links" title="dataisbeautiful : top scoring links" type="rss" xmlUrl="https://burkybang.com/reddit_rss/?rss=r/dataisbeautiful/top/.rss" htmlUrl="https://www.reddit.com/r/dataisbeautiful/top/?_=1704954526"/>
       <outline text="science, askscience: top scoring links" title="science, askscience: top scoring links" type="rss" xmlUrl="https://burkybang.com/reddit_rss/?rss=r/askscience%2Bscience/top/.rss" htmlUrl="https://www.reddit.com/r/askscience+science/top/?_=1704953697"/>
-      <outline text="Lobsters" title="Lobsters" type="rss" xmlUrl="https://lobste.rs/rss" htmlUrl="https://lobste.rs/"/>
       <outline text="Nature" title="Nature" type="rss" xmlUrl="https://www.nature.com/nature.rss" htmlUrl="http://feeds.nature.com/nature/rss/current"/>
       <outline text="Documentaries , Movies , Television: top scoring links" title="Documentaries , Movies , Television: top scoring links" type="rss" xmlUrl="https://burkybang.com/reddit_rss/?rss=r/Documentaries%2Bmovies%2Btelevision/top/.rss" htmlUrl="https://www.reddit.com/r/Documentaries+movies+television/top/?_=1667603914"/>
-      <outline text="1Password, Alfred, nextdns, todoist :top scoring links" title="1Password, Alfred, nextdns, todoist :top scoring links" type="rss" xmlUrl="https://burkybang.com/reddit_rss/?rss=r/1Password%2BAlfred%2Bnextdns%2Btodoist/top/.rss" htmlUrl="https://www.reddit.com/r/1Password+Alfred+nextdns+todoist/top/?t=1640474439"/>
       <outline text="FastMail Status" title="FastMail Status" type="rss" xmlUrl="https://www.fastmailstatus.com/feed" htmlUrl="http://www.fastmailstatus.com/feed"/>
       <outline text="IndiaInvestments: top scoring links" title="IndiaInvestments: top scoring links" type="rss" xmlUrl="https://burkybang.com/reddit_rss/?rss=r/IndiaInvestments/top/.rss" htmlUrl="https://www.reddit.com/r/IndiaInvestments/top/?t=1629752005"/>
       <outline text="AppleWatch, apple, appletv, ipad, iphone, mac, macapps, osx:top scoring links" title="AppleWatch, apple, appletv, ipad, iphone, mac, macapps, osx:top scoring links" type="rss" xmlUrl="https://burkybang.com/reddit_rss/?rss=r/AppleWatch%2Bapple%2Bappletv%2Bipad%2Biphone%2Bmac%2Bmacapps%2Bosx/top/.rss" htmlUrl="https://www.reddit.com/r/AppleWatch+apple+appletv+ipad+iphone+mac+macapps+osx/top/?t=1628070624"/>
