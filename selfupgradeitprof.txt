@@ -734,16 +734,22 @@ Contents:
                 https://news.ycombinator.com/item?id=20126760 (Open Source Electronics Lab for $30 (github.com))
                 https://news.ycombinator.com/item?id=23562181 (Ask HN: What are some good resources to learn how electricity works?)
                 https://news.ycombinator.com/item?id=33869277 (Ask HN: Can you recommend a book to learn basic electrical concepts/engineering?)
+                https://news.ycombinator.com/item?id=43589776 (Learn electricity and electronics fundamentals without taking a formal course (simonmonk.org))
+                https://www.youtube.com/@MoritzKlein0/playlists (Moritz Klein - Electronics and Programming)
 
             Books and Courses:
                 The Art of Electronics 3rd Edition
-                https://www.amazon.com/Art-Electronics-Paul-Horowitz/dp/0521809266
+                    https://www.amazon.com/Art-Electronics-Paul-Horowitz/dp/0521809266
 
                 6.002.1x "Circuits and Electronics 1: Basic Circuit Analysis" Based on 6.002 MIT Course
-                https://courses.edx.org/courses/course-v1:MITx+6.002.1x_1+2T2016/info
+                    https://courses.edx.org/courses/course-v1:MITx+6.002.1x_1+2T2016/info
 
                 Lessons in Electric Circuits
-                https://www.allaboutcircuits.com/textbook
+                    https://www.allaboutcircuits.com/textbook
+
+                Teach Yourself Electricity and Electronics, Seventh Edition 7th Edition by GIBILISCO (August 29, 2022)
+                    https://www.amazon.com/Teach-Yourself-Electricity-Electronics-Seventh/dp/126444138X
+                    https://simonmonk.org/tyee7
 
     DevOps/SRE/SysAdmin:
         Sources:
@@ -3266,6 +3272,9 @@ Contents:
                     https://github.com/microsoft/generative-ai-for-beginners (12 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners)
                     https://github.com/microsoft/ML-For-Beginners (12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all)
 
+                StatQuest Illustrated Guide to Machine Learning by Josh Starmer November 7, 2022
+                    https://www.amazon.com/StatQuest-Illustrated-Guide-Machine-Learning/dp/B0BLM4TLPY
+
             Other Tutorials:
                 https://ai.stanford.edu/courses (Stanford A.I. courses from Fall 2019 CS229)
                 https://blog.floydhub.com/best-deep-learning-courses-updated-for-2019
@@ -3417,6 +3426,7 @@ Contents:
                 https://news.ycombinator.com/item?id=27161901 (Ask HN: What lessons did you learn from your best or worst colleagues?)
                 https://www.amazon.com/gp/bestsellers/books/2578 (Amazon Best Sellers in Job Interviewing)
                 https://www.firecode.io (Grinding through hundreds of medium and hard questions sucks. We built Firecode.io to make interview prep fun, effective & durable by using machine learning and spaced repetition to pick your next problem for you.|)
+                https://www.interviewcoder.co (InterviewCoder is an invibible AI for technical interviews.)
                 https://www.interviewdb.io (InterviewDB is a collection of real interview questions from top tech companies.)
                 https://www.linkedin.com/pulse/interviewing-aws-advice-tips-from-250-interviews-nick-matthews (Interviewing at AWS: Advice and tips from 250 interviews by Nick Matthews)
                 https://www.reddit.com/r/AskReddit/comments/74sskj/what_are_some_red_flags_in_a_job_interview
@@ -3424,7 +3434,7 @@ Contents:
                 https://www.reddit.com/r/AskReddit/comments/abljyl/what_is_a_massive_red_flag_about_a_new_workplace
                 https://www.reddit.com/r/cscareerquestions/comments/4ce2s3/resource_interview_questions_my_massive
                 https://www.reddit.com/r/cscareerquestions/comments/8387zj/what_is_your_favorite_method_for_figuring_out_if
-                https://www.reddit.com/r/ExperiencedDevs
+                https://www.reddit.com/r/ExperiencedDevs (This community should be specialized subreddit facilitating discussion amongst individuals who have gained some ground in the software engineering world. )
                 https://pinboard.in/u:SharjeelSayed/t:cheatsheet
                 https://pinboard.in/u:SharjeelSayed/t:interview
                 https://pinboard.in/u:SharjeelSayed/t:jobs
@@ -4643,6 +4653,7 @@ Contents:
                         https://news.ycombinator.com/item?id=23583629 (RSS Box – RSS for websites that do not support RSS (rssbox.herokuapp.com))
                         https://news.ycombinator.com/item?id=24658424 (Ask HN: What RSS Reader do you use?)
                         https://www.to-rss.xyz
+                        https://github.com/AboutRSS/ALL-about-RSS (A list of RSS related stuff: tools, services, communities and tutorials, etc. )
 
                     Import Opml.SharjeelSayed.com , into an RSS reader like Inoreader.com or Reederapp.com
 
@@ -4771,6 +4782,7 @@ Contents:
                         http://thefeedreaderbot.com (The Feed Reader Bot monitors RSS feeds (and Twitter accounts), and sends messages when new posts are available.)
                         https://t.me/aximobot (Hi, i am social network (TikTok, Instagram, YouTube, Twitter, Facebook, Telegram) and RSS forwarder.)
                         https://t.me/CorsaBot (Make Instant View from any article, chat)
+                        https://t.me/RSStT_Bot (RSS to Telegram Bot https://github.com/Rongronggg9/RSS-to-Telegram-Bot A Telegram RSS bot that cares about your reading experience )
 
                     Wikipedia Daily News:
                         Start bot https://t.me/TheFeedReaderBot (https://thefeedreaderbot.com/bots.html)
@@ -4785,7 +4797,7 @@ Contents:
                 News Aggregators:
                     https://allinfosecnews.com (Aggregates all of the top news, podcasts and more about Cyber Security, InfoSec, Cryptography, Online Privacy, Hacking, Vulnerability and Threat Research into one place.)
                     https://en.wikipedia.org/wiki/Portal:Current_events
-                    https://lobste.rs
+                    https://lobste.rs (https://lobste.rs/top/1w to get the top stories of the last week, use 1d for the last day, 1h for the last hour, etc.)
                     https://pinboard.in/popular
                     https://techurls.com
                     https://www.hvper.com
@@ -4804,7 +4816,7 @@ Contents:
                         https://www.reddit.com/r/dataisbeautiful/comments/18fvw7v/oc_top_50_subreddits_with_the_most_new_posts_per ([OC] Top 50 subreddits with the most new posts per day and most comments per post (December 2023))
 
                     Subscriptions:
-                        https://www.reddit.com/r/ABCDesis+AWSCertifications+Android+AppHookup+AppleWatch+AskHistorians+Cartier+DataHoarder+Documentaries+ExperiencedDevs+Flights+GalaxyS24Ultra+IndiaInvestments+Louisvuitton+ManyBaggers+Piracy+Terraform+TheHermesGame+Ubuntu+Watches+androidapps+announcements+ansible+antiwork+apple+appletv+askscience+audemarspiguet+aws+bangalore+beta+books+booksuggestions+compsci+cybersecurity+dataisbeautiful+developersIndia+devops+diabetes+digitalnomad+docker+dubai+fragrance+geopolitics+history+hyderabad+india+ipad+iphone+jewelry+kubernetes+learnprogramming+linux+linuxadmin+mac+macapps+malefashionadvice+movies+mumbai+netsec+networking+nextdns+onebag+osx+patekphilippe+programming+qatar+rolex+samsung+science+solotravel+suggestmeabook+technews+technology+television+todayilearned+travel+usefulscripts+watchesindia+webdev+worldnews
+                        https://www.reddit.com/r/ABCDesis+AWSCertifications+Android+AppHookup+AppleWatch+AskHistorians+Cartier+DataHoarder+Documentaries+ExperiencedDevs+Flights+GalaxyS24Ultra+IndiaInvestments+Louisvuitton+ManyBaggers+Piracy+Terraform+TheHermesGame+Ubuntu+Watches+androidapps+announcements+ansible+apple+appletv+askscience+audemarspiguet+aws+bangalore+beta+books+booksuggestions+compsci+cybersecurity+dataisbeautiful+developersIndia+devops+diabetes+digitalnomad+docker+dubai+fragrance+geopolitics+history+hyderabad+india+ipad+iphone+jewelry+kubernetes+learnprogramming+linux+linuxadmin+mac+macapps+malefashionadvice+movies+mumbai+netsec+networking+onebag+osx+patekphilippe+programming+qatar+rolex+samsung+science+solotravel+suggestmeabook+technews+technology+television+todayilearned+travel+usefulscripts+watchesindia+webdev+worldnews
 
                 Hacker News:
                     https://apps.apple.com/us/app/hack-for-hacker-news-developer/id1464477788
@@ -4816,15 +4828,13 @@ Contents:
                     https://hndex.org (a search engine for finding articles posted to hacker news)
                     https://hnprofile.com ((Find an Expert on Hacker News))
                     https://hnrss.github.io (Hacker News RSS)
-                    https://news.ycombinator.com
+                    https://news.ycombinator.com (Hacker News)
                     https://news.ycombinator.com/item?id=25556990 (	HN Alternative UIs (luke.lol))
-                    https://readhacker.news
-                    https://showcase.metamate.io/hackernews-trends
-                    https://t.me/best_hacker_news
-                    https://t.me/hacker_news_feed
-                    https://www.daemonology.net/hn-daily (The 10 highest-rated articles on Hacker News)
-                    https://www.fb.com/hn.hiren.news
-                    https://www.hackernewspapers.com
+                    https://readhacker.news (Read Hacker News)
+                    https://showcase.metamate.io/hackernews-trends (HackerNews Trends)
+                    https://t.me/best_hacker_news (Telegram channel for Top stories from https://news.ycombinator.com (with 500+ score))
+                    https://t.me/hacker_news_feed (Telegram channel for Top stories from https://news.ycombinator.com (with 100+ score))
+                    https://www.daemonology.net/hn-daily (Daily top stories from Hacker News)
 
                 YouTube:
                     https://www.youtube.com/channel/UCF0pVplsI8R5kcAqgtoRqoA (YouTube Worldwide Popular Right Now)
