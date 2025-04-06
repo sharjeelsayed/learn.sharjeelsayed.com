@@ -760,6 +760,7 @@ Contents:
             https://github.com/bregman-arie/sre-checklist (A checklist of anyone practicing Site Reliability Engineering)
             https://github.com/danluu/post-mortems (A collection of postmortems. Sorry for the delay in merging PRs! )
             https://github.com/dastergon/awesome-chaos-engineering (A curated list of Chaos Engineering resources.)
+            https://github.com/fleetdm/fleet (https://fleetdm.com Open-source platform for IT, security, and infrastructure teams. (Linux, macOS, Chrome, Windows, cloud, data center) )
             https://github.com/mhadidg/software-architecture-books (A curated list of books on Software Architecture.)
             https://github.com/ripienaar/free-for-dev (A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev)
             https://github.com/topics/architecture?o=desc&s=stars
@@ -914,6 +915,7 @@ Contents:
                 https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools (A list of new(ish) command line tools)
                 https://linuxcommandlibrary.com
                 https://lpc.events (The Linux Plumbers Conference is the premier event for developers working at all levels of the plumbing layer and beyond)
+                https://madaidans-insecurities.github.io/guides/linux-hardening.html (Linux Hardening Guide)
                 https://netfilter.org/documentation (Documentation about the netfilter/iptables project)
                 https://news.ycombinator.com/item?id=22564665 (Linux Kernel Teaching (linux-kernel-labs.github.io))
                 https://news.ycombinator.com/item?id=24027366 (	Low latency tuning guide)
@@ -2435,6 +2437,7 @@ Contents:
                 https://k8slanparty.com (A CTF designed to challenge your Kubernetes hacking skills through a series of critical network vulnerabilities and misconfigurations)
                 https://krebsonsecurity.com/2020/07/thinking-of-a-cybersecurity-career-read-this (Thinking of a Cybersecurity Career? Read This)
                 https://kubernetes.io/docs/concepts/security/security-checklist (Kubernetes Security Checklist)
+                https://madaidans-insecurities.github.io/guides/linux-hardening.html (Linux Hardening Guide)
                 https://media.defense.gov/2022/Mar/01/2002947139/-1/-1/0/CTR_NSA_NETWORK_INFRASTRUCTURE_SECURITY_GUIDANCE_20220301.PDF (National Security Agency Cybersecurity Technical Report Network Infrastructure Security Guidance March 2022)
                 https://myaccount.google.com/stateattackwarning (Find out if someone is trying to access your Google account)
                 https://news.ycombinator.com/item?id=12140477 (A practical security guide for web developers (github.com))
