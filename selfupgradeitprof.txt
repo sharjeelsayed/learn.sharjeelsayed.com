@@ -914,6 +914,7 @@ Contents:
                 https://github.com/Xfennec/progress (Linux tool to show progress for cp, mv, dd, ... (formerly known as cv) )
                 https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools (A list of new(ish) command line tools)
                 https://linuxcommandlibrary.com
+                https://livesys.se/posts/the-chroot-technique (The chroot Technique - a Swiss army multitool for Linux systems)
                 https://lpc.events (The Linux Plumbers Conference is the premier event for developers working at all levels of the plumbing layer and beyond)
                 https://netfilter.org/documentation (Documentation about the netfilter/iptables project)
                 https://news.ycombinator.com/item?id=22564665 (Linux Kernel Teaching (linux-kernel-labs.github.io))
@@ -3211,6 +3212,7 @@ Contents:
                 https://github.com/GoogleCloudPlatform/generative-ai (https://cloud.google.com/vertex-ai/docs/generative-ai/learn/overview Sample code and notebooks for Generative AI on Google Cloud)
                 https://github.com/labmlai/annotated_deep_learning_paper_implementations ( 🧑‍🏫 60 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠 )
                 https://github.com/NirDiamant/GenAI_Agents (This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems. )
+                https://github.com/patchy631/ai-engineering-hub (In-depth tutorials on LLMs, RAGs and real-world AI agent applications. )
                 https://lmarena.ai/?leaderboard (Chatbot Arena LLM Leaderboard: Community-driven Evaluation for Best LLM and AI chatbots)
                 https://news.ycombinator.com/item?id=12713056 (Ask HN: How to get started with machine learning?)
                 https://news.ycombinator.com/item?id=16493489 (Machine Learning Crash Course)
