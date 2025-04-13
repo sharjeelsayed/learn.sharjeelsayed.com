@@ -91,6 +91,7 @@ Contents:
         Note Taking Tools
         Productivity Tools
         Web Browser
+        AdBlock
         Books
         Kindle
         Study Music
@@ -2735,10 +2736,9 @@ Contents:
                 https://www.soma-zone.com/LaunchControl
 
             Little Snitch:
-                https://github.com/naveednajam/Little-Snitch---Rule-Groups (This repo provide rule groups for Little Snitch based on unified host list to block ads, malware and fake news)
                 https://github.com/StevenBlack/hosts (🔒 Consolidating and extending hosts files from several well-curated sources)
                 https://help.obdev.at/littlesnitch5/ref-lsrules-file-format
-                https://obdev.at/products/littlesnitch/blocklists.html (Blocklists for Little Snitch)
+                https://oisd.nl/setup/littlesnitch (Add the oisd blocklist to Little Snitch)
                 https://pgl.yoyo.org/adservers/news.php#littlesnitch-rule-group-subscriptions
                 https://weekly.elfitz.com/2019/02/12/block-ads-and-trackers-on-your-mac-with-little-snitch (Block ads and trackers on your Mac with Little Snitch)
                 https://www.obdev.at/products/littlesnitch (Macos Firewall App)
@@ -4100,23 +4100,16 @@ Contents:
             Sources:
                 http://ebin.city/~werwolf/posts/firefox-hardening-guide
                 https://browser.engineering (This book explains, building a basic but complete web browser, from networking to JavaScript, in a thousand lines of Python.)
-                https://byebyepaywall.com/en (This tool allows you to view URLs behind the paywall and open them in various archive and paywall bypass services. Just enter a URL in the field above and click on the desired service!)
-                https://github.com/collinbarrett/FilterLists (https://filterlists.com Use Bypass Paywalls Clean filter to Filters to bypass paywalls for news sites )
-                https://github.com/topics/adblock (public repositories matching this topic adblock)
                 https://github.com/topics/bookmark-manager?o=desc&s=stars (Bookmark Manager)
-                https://letsblock.it/filters ( Remove low-quality content and useless nags, focus on what matters. Make the web yours again with this collection of community-owned content filters. A companion to the great uBlock Origin content blocker.)
                 https://news.ycombinator.com/item?id=22105561 (Ask HN: How do you manage your bookmarks?)
                 https://news.ycombinator.com/item?id=22778123 (Ask HN: What do you use to keep track of bookmarks/notes/snippets?)
                 https://news.ycombinator.com/item?id=23445382 (Show HN: Some Bookmarklets, I Use (ph-uhl.com))
                 https://news.ycombinator.com/item?id=29314560 (Ask HN: What browser extensions are a must-have in 2021?)
                 https://news.ycombinator.com/item?id=37586894 (Block annoyances via ublock origin)
-                https://www.archivebuttons.com (All of the paywall removers in one place)
-                https://www.reddit.com/r/uBlockOrigin/comments/178yasm/youtube_antiadblock_and_ads_october_16_2023 ( YouTube Anti-Adblock and Ads - October 16, 2023 (Weekly Thread))
 
             Extensions:
                 https://1blocker.com (The Fastest & Most Powerful Blocker for Safari)
                 https://addons.mozilla.org/en-GB/firefox/addon/foxytab (Collection of Tab Related Actions e.g. Duplicate, Close Duplicates, Close to the Left, Copy Title, Merge Windows, Save as PDF, Copy Urls Tab/All/Left/Right, Host keep/close/close other, Sort by URL/Title, Asce/Desc, Move, Reload, Reload Timer)
-                https://addons.mozilla.org/en-US/firefox/addon/auto-tab-discard (ncrease browser speed and reduce memory load and when you have numerous open tabs.)
                 https://addons.mozilla.org/en-US/firefox/addon/honey (Automatically find and try coupon codes with 1-click. )
                 https://addons.mozilla.org/en-US/firefox/addon/similarweb-sites-recommendatio (SimilarWeb - Website Traffic Sources and Ranking)
                 https://addons.mozilla.org/en-US/firefox/addon/to-google-translate (To Google Translate)
@@ -4143,6 +4136,7 @@ Contents:
                 https://news.ycombinator.com/item?id=38014653 ("Don't mess with paste" - for when signup forms expect you to hand-type your email address twice)
                 https://newsit.benwinding.com (Newsit - A news aggregator that lets you read the news without the clutter)
                 https://oblador.github.io/hush (Block nags to accept cookies and privacy invasive tracking in Safari on Mac, iPhone and iPad.)
+                https://oisd.nl/setup/ublockorigin ( Add the oisd blocklist to your adblocker to ublock Orgin)
                 https://privacybadger.org (Privacy Badger is a browser extension that automatically learns to block invisible trackers.)
                 https://support.1password.com/getting-started-1password-x
                 https://support.mozilla.org/en-US/kb/focus
@@ -4154,6 +4148,18 @@ Contents:
                 https://www.forbesconrad.com/blog/enable-password-pasting (Enable Password Pasting in Firefox)
                 https://www.joinhoney.com (Honey is a browser extension that automatically finds and applies coupon codes at checkout with a single click.)
                 https://www.mrfdev.com/enhancer-for-youtube (Enhancer for YouTube)
+                https://www.tackker.com (Tackker - A tool to manage and track your tasks efficiently.)
+
+        AdBlock:
+            Sources:
+                https://byebyepaywall.com/en (This tool allows you to view URLs behind the paywall and open them in various archive and paywall bypass services. Just enter a URL in the field above and click on the desired service!)
+                https://github.com/collinbarrett/FilterLists (https://filterlists.com Use Bypass Paywalls Clean filter to Filters to bypass paywalls for news sites )
+                https://github.com/hagezi/dns-blocklists (DNS-Blocklists: For a better internet - keep the internet clean! )
+                https://github.com/sjhgvr/oisd (https://oisd.nl The blocklist prevents your devices from connecting to unwanted or harmful domains.It reduces ads, decreases the risk of malware, and enhances privacy.)
+                https://github.com/topics/adblock (public repositories matching this topic adblock)
+                https://github.com/yokoffing/NextDNS-Config (Setup guide for NextDNS, a DoH proxy with advanced capabilities)
+                https://www.archivebuttons.com (All of the paywall removers in one place)
+                https://www.reddit.com/r/uBlockOrigin/comments/178yasm/youtube_antiadblock_and_ads_october_16_2023 ( YouTube Anti-Adblock and Ads - October 16, 2023 (Weekly Thread))
 
         Books:
             Sources:
