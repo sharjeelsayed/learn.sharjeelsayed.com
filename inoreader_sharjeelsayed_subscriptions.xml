@@ -5,6 +5,7 @@
   </head>
   <body>
     <outline text="QuickCatchup" title="QuickCatchup">
+      <outline text="mid-day Mumbai News" title="mid-day Mumbai News" type="rss" xmlUrl="https://www.mid-day.com/Resources/midday/rss/mumbai-news.xml" htmlUrl="https://www.mid-day.com/mumbai/mumbai-news"/>
       <outline text="AL JAZEERA ENGLISH (AJE)" title="AL JAZEERA ENGLISH (AJE)" type="rss" xmlUrl="https://www.aljazeera.com/Services/Rss/?PostingId=2007731105943979989" htmlUrl="https://www.aljazeera.com/default.html"/>
       <outline text="r/worldnews :top scoring links" title="r/worldnews :top scoring links" type="rss" xmlUrl="https://burkybang.com/reddit_rss/?rss=r/worldnews/top/.rss" htmlUrl="https://www.reddit.com/r/worldnews/top/?t=1628081840"/>
       <outline text="Lobsters: Top Stories of the Past Week" title="Lobsters: Top Stories of the Past Week" type="rss" xmlUrl="https://lobste.rs/top/rss" htmlUrl="https://lobste.rs/"/>
@@ -27,6 +28,7 @@
       <outline text="Techmeme" title="Techmeme" type="rss" xmlUrl="https://www.techmeme.com/index.xml" htmlUrl="https://www.techmeme.com/"/>
     </outline>
     <outline text="News" title="News">
+      <outline text="mid-day Mumbai News" title="mid-day Mumbai News" type="rss" xmlUrl="https://www.mid-day.com/Resources/midday/rss/mumbai-news.xml" htmlUrl="https://www.mid-day.com/mumbai/mumbai-news"/>
       <outline text="AL JAZEERA ENGLISH (AJE)" title="AL JAZEERA ENGLISH (AJE)" type="rss" xmlUrl="https://www.aljazeera.com/Services/Rss/?PostingId=2007731105943979989" htmlUrl="https://www.aljazeera.com/default.html"/>
       <outline text="r/worldnews :top scoring links" title="r/worldnews :top scoring links" type="rss" xmlUrl="https://burkybang.com/reddit_rss/?rss=r/worldnews/top/.rss" htmlUrl="https://www.reddit.com/r/worldnews/top/?t=1628081840"/>
       <outline text="Lobsters: Top Stories of the Past Week" title="Lobsters: Top Stories of the Past Week" type="rss" xmlUrl="https://lobste.rs/top/rss" htmlUrl="https://lobste.rs/"/>
@@ -94,7 +96,6 @@
       <outline text="r/Cartier, r/OmegaWatches, r/VacheronConstantin, r/gshock, r/watchesindia : top scoring links" title="r/Cartier, r/OmegaWatches, r/VacheronConstantin, r/gshock, r/watchesindia : top scoring links" type="rss" xmlUrl="https://burkybang.com/reddit_rss/?rss=r/Cartier%2BOmegaWatches%2BVacheronConstantin%2Bgshock%2Bwatchesindia/top/.rss" htmlUrl="https://www.reddit.com/r/Cartier+OmegaWatches+VacheronConstantin+gshock+watchesindia/top/?_=1743634306"/>
       <outline text="r/todayilearned : top scoring links" title="r/todayilearned : top scoring links" type="rss" xmlUrl="https://burkybang.com/reddit_rss/?rss=r/todayilearned/top/.rss" htmlUrl="https://www.reddit.com/r/todayilearned/top/?_=1743633742"/>
       <outline text="r/fragrance, r/jewelry, r/malefashionadvice : top scoring links" title="r/fragrance, r/jewelry, r/malefashionadvice : top scoring links" type="rss" xmlUrl="https://burkybang.com/reddit_rss/?rss=r/fragrance%2Bjewelry%2Bmalefashionadvice/top/.rss" htmlUrl="https://www.reddit.com/r/fragrance+jewelry+malefashionadvice/top/?_=1743632686"/>
-      <outline text="r/digitalnomad, r/Flights, r/solotravel, r/travel : top scoring links" title="r/digitalnomad, r/Flights, r/solotravel, r/travel : top scoring links" type="rss" xmlUrl="https://burkybang.com/reddit_rss/?rss=r/digitalnomad%2BFlights%2Bsolotravel%2Btravel/top/.rss" htmlUrl="https://www.reddit.com/r/digitalnomad+Flights+solotravel+travel/top/?_=1743632431"/>
       <outline text="r/Watches, r/audemarspiguet, r/patekphilippe, r/richardmille, r/rolex : top scoring links" title="r/Watches, r/audemarspiguet, r/patekphilippe, r/richardmille, r/rolex : top scoring links" type="rss" xmlUrl="https://burkybang.com/reddit_rss/?rss=r/Watches%2Baudemarspiguet%2Bpatekphilippe%2Brichardmille%2Brolex/top/.rss" htmlUrl="https://www.reddit.com/r/Watches+audemarspiguet+patekphilippe+richardmille+rolex/top/?_=1743631460"/>
       <outline text="r/Android, r/GalaxyS24Ultra, r/androidapps, r/samsung : top scoring links" title="r/Android, r/GalaxyS24Ultra, r/androidapps, r/samsung : top scoring links" type="rss" xmlUrl="https://burkybang.com/reddit_rss/?rss=r/Android%2BGalaxyS24Ultra%2Bandroidapps%2Bsamsung/top/.rss" htmlUrl="https://www.reddit.com/r/Android+GalaxyS24Ultra+androidapps+samsung/top/?_=1743631213"/>
       <outline text="r/booksuggestions, r/suggestmeabook, r/books : top scoring links" title="r/booksuggestions, r/suggestmeabook, r/books : top scoring links" type="rss" xmlUrl="https://burkybang.com/reddit_rss/?rss=r/booksuggestions%2Bsuggestmeabook%2Bbooks/top/.rss" htmlUrl="https://www.reddit.com/r/booksuggestions+suggestmeabook+books/top/?_=1743630609"/>
