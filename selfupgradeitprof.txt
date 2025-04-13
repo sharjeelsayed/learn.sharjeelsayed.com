@@ -3305,7 +3305,9 @@ Contents:
             Sources:
                 https://editorconfig.org (EditorConfig helps maintain consistent coding styles for multiple developers working on the same project across various editors and IDEs.)
                 https://github.com/continuedev/continue (https://continue.dev ⏩ Continue is an open-source autopilot for VS Code and JetBrains—the easiest way to code with any LLM)
+                https://github.com/coteditor/CotEditor (https://coteditor.com CotEditor is a lightweight, open-source text editor for macOS.)
                 https://github.com/daytonaio/daytona (The Open Source Dev Environment Manager. https://www.daytona.io)
+                https://github.com/topics/editor (public repositories matching this topic editor)
                 https://sourcegraph.com/cody (Cody is a coding AI assistant that uses AI and a deep understanding of your codebase to help you write and understand code faster.)
                 https://www.codingfont.com (Gamified experience to help you find your true love of coding fonts!)
 
@@ -4098,6 +4100,9 @@ Contents:
             Sources:
                 http://ebin.city/~werwolf/posts/firefox-hardening-guide
                 https://browser.engineering (This book explains, building a basic but complete web browser, from networking to JavaScript, in a thousand lines of Python.)
+                https://byebyepaywall.com/en (This tool allows you to view URLs behind the paywall and open them in various archive and paywall bypass services. Just enter a URL in the field above and click on the desired service!)
+                https://github.com/collinbarrett/FilterLists (https://filterlists.com Use Bypass Paywalls Clean filter to Filters to bypass paywalls for news sites )
+                https://github.com/topics/adblock (public repositories matching this topic adblock)
                 https://github.com/topics/bookmark-manager?o=desc&s=stars (Bookmark Manager)
                 https://letsblock.it/filters ( Remove low-quality content and useless nags, focus on what matters. Make the web yours again with this collection of community-owned content filters. A companion to the great uBlock Origin content blocker.)
                 https://news.ycombinator.com/item?id=22105561 (Ask HN: How do you manage your bookmarks?)
@@ -4105,6 +4110,7 @@ Contents:
                 https://news.ycombinator.com/item?id=23445382 (Show HN: Some Bookmarklets, I Use (ph-uhl.com))
                 https://news.ycombinator.com/item?id=29314560 (Ask HN: What browser extensions are a must-have in 2021?)
                 https://news.ycombinator.com/item?id=37586894 (Block annoyances via ublock origin)
+                https://www.archivebuttons.com (All of the paywall removers in one place)
                 https://www.reddit.com/r/uBlockOrigin/comments/178yasm/youtube_antiadblock_and_ads_october_16_2023 ( YouTube Anti-Adblock and Ads - October 16, 2023 (Weekly Thread))
 
             Extensions:
@@ -4826,6 +4832,7 @@ Contents:
                 Hacker News:
                     https://apps.apple.com/us/app/hack-for-hacker-news-developer/id1464477788
                     https://github.com/minimaxir/hacker-news-undocumented (Some of the hidden norms about Hacker News not otherwise covered in the Guidelines and the FAQ.)
+                    https://hackernewsletter.com (Since 2010, we've put out a weekly newsletter of the best articles on startups, technology, programming, and more. All links are curated by hand from Hacker News. )
                     https://hckrnews.com (an unofficial alternative hacker news interface)
                     https://hn.algolia.com ((HackerNews Search))
                     https://hn.wilsonl.in (HackerNews Search)
@@ -4839,6 +4846,7 @@ Contents:
                     https://showcase.metamate.io/hackernews-trends (HackerNews Trends)
                     https://t.me/best_hacker_news (Telegram channel for Top stories from https://news.ycombinator.com (with 500+ score))
                     https://t.me/hacker_news_feed (Telegram channel for Top stories from https://news.ycombinator.com (with 100+ score))
+                    https://tldr.tech (275,317) (Get the free daily email with summaries of the most interesting stories in startups 🚀, tech 📱, and programming 💻)
                     https://www.daemonology.net/hn-daily (Daily top stories from Hacker News)
 
                 YouTube:
@@ -4884,13 +4892,14 @@ Contents:
                 https://danielmiessler.com/newsletter (96,519)
                 https://www.ben-evans.com/newsletter (107,535)
                 https://www.schneier.com/crypto-gram (171,909)
-                https://tldr.tech (275,317)
+                https://tldr.tech (275,317) (Get the free daily email with summaries of the most interesting stories in startups 🚀, tech 📱, and programming 💻)
                 https://thebrowser.com (301,904)
                 https://www.lastweekinaws.com (359,464)
                 https://www.emergingtechbrew.com (1,131,395)
                 https://softwareleadweekly.com (1,692,604)
                 https://app.mailbrew.com/unreadit/tech-Rrjzlxqyv6Q1 (1,877,598)
                 https://app.mailbrew.com/unreadit/apple-IrGlTkMnbO9o (1,877,598)
+                https://hackernewsletter.com (#2,010,494) (Since 2010, we've put out a weekly newsletter of the best articles on startups, technology, programming, and more. All links are curated by hand from Hacker News. )
                 https://tldrsec.com (2,243,441)
                 https://sreweekly.com (2,522,079)
                 https://cloudseclist.com (3,016,496)
@@ -5599,6 +5608,7 @@ Contents:
         https://www.thisiswhyimbroke.com (ThisIsWhyImBroke is where you'll find cool gift ideas, unique products, and awesome birthday and Christmas gift ideas.)
         https://www.vox.com/science-and-health/2019/8/23/20828597/the-10000-hour-rule-debunked (The “10,000-hour rule” was debunked again. That’s a relief.)
         https://youglish.com (Use YouTube to improve your English pronunciation. With more than 100M tracks, YouGlish gives you fast, unbiased answers about how English is spoken by real people and in context.)
+        https://github.com/VERT-sh/VERT (https://vert.sh The next-generation file converter. Open source, fully local* and free forever. )
 
     Support this project with these referral links:
         http://share.payoneer.com/nav/fNDwSrQzVfdG8-xoVyx0Bw_ZDmVq9EROCSP2BPIK6ZXFGNfkLTA-k6YqnGHb8YozBtA2obVkitQbtq50VTZ5Bg2 ($25 on Sign Up)
