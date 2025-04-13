@@ -4117,8 +4117,6 @@ Contents:
                 https://addons.mozilla.org/en-US/firefox/search/?page=1&promoted=recommended&sort=users
                 https://darkreader.org (Dark Reader is an open source eye-care browser extension)
                 https://github.com/aaronraimist/DontFuckWithPaste (Google Chrome and Firefox extension that prevents the blocking of pasting into input fields)
-                https://github.com/bpc-clone/bypass-paywalls-chrome-clean (Bypass Paywalls Clean for Chrome)
-                https://github.com/bpc-clone/bypass-paywalls-firefox-clean (Bypass Paywalls Clean for Firefox)
                 https://github.com/ClearURLs/Addon (ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy. )
                 https://github.com/Cookie-AutoDelete/Cookie-AutoDelete (Firefox and Chrome WebExtension that deletes cookies and other browsing site data as soon as the tab closes, domain changes, browser restarts, or a combination of those events. )
                 https://github.com/deanishe/alfred-firefox (Search and control Firefox from Alfred )
@@ -4129,7 +4127,6 @@ Contents:
                 https://github.com/mozilla/multi-account-containers (Firefox Multi-Account Containers lets you keep parts of your online life separated into color-coded tabs that preserve your privacy. Cookies are separated by container, allowing you to use the web with multiple identities or accounts simultaneously. )
                 https://github.com/philc/vimium
                 https://github.com/quenhus/uBlock-Origin-dev-filter (Filters to block and remove copycat-websites from DuckDuckGo, Google and other search engines. Specific to dev websites like StackOverflow or GitHub.)
-                https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean (Extension allows you to read articles from (supported) sites that implement a paywall.)
                 https://keepa.com (Keepa - Amazon Price Tracker)
                 https://languagetoolplus.com (Grammar, Style & Spell Checker)
                 https://news.ycombinator.com/item?id=23446504 ("Remove sticky" bookmarklet)
@@ -4138,7 +4135,6 @@ Contents:
                 https://oblador.github.io/hush (Block nags to accept cookies and privacy invasive tracking in Safari on Mac, iPhone and iPad.)
                 https://oisd.nl/setup/ublockorigin ( Add the oisd blocklist to your adblocker to ublock Orgin)
                 https://privacybadger.org (Privacy Badger is a browser extension that automatically learns to block invisible trackers.)
-                https://support.1password.com/getting-started-1password-x
                 https://support.mozilla.org/en-US/kb/focus
                 https://tabliss.io (A beautiful, customisable New Tab page for Firefox, Chrome, and Edge. )
                 https://underpassapp.com/StopTheMadness (StopTheMadness is a Safari extension for Mac that stops web sites from making your browser harder to use.)
@@ -4153,7 +4149,7 @@ Contents:
         AdBlock:
             Sources:
                 https://byebyepaywall.com/en (This tool allows you to view URLs behind the paywall and open them in various archive and paywall bypass services. Just enter a URL in the field above and click on the desired service!)
-                https://github.com/collinbarrett/FilterLists (https://filterlists.com Use Bypass Paywalls Clean filter to Filters to bypass paywalls for news sites )
+                https://github.com/collinbarrett/FilterLists (https://filterlists.com Use "Bypass Paywalls Clean filter" to bypass paywalls for news sites )
                 https://github.com/hagezi/dns-blocklists (DNS-Blocklists: For a better internet - keep the internet clean! )
                 https://github.com/sjhgvr/oisd (https://oisd.nl The blocklist prevents your devices from connecting to unwanted or harmful domains.It reduces ads, decreases the risk of malware, and enhances privacy.)
                 https://github.com/topics/adblock (public repositories matching this topic adblock)
