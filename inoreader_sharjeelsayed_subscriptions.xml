@@ -5,6 +5,7 @@
   </head>
   <body>
     <outline text="QuickCatchup" title="QuickCatchup">
+      <outline text="Unsupervised Learning" title="Unsupervised Learning" type="rss" xmlUrl="https://rss.beehiiv.com/feeds/gQxaV1KHkQ.xml" htmlUrl="https://danielmiessler.com/"/>
       <outline text="mid-day Mumbai News" title="mid-day Mumbai News" type="rss" xmlUrl="https://www.mid-day.com/Resources/midday/rss/mumbai-news.xml" htmlUrl="https://www.mid-day.com/mumbai/mumbai-news"/>
       <outline text="AL JAZEERA ENGLISH (AJE)" title="AL JAZEERA ENGLISH (AJE)" type="rss" xmlUrl="https://www.aljazeera.com/Services/Rss/?PostingId=2007731105943979989" htmlUrl="https://www.aljazeera.com/default.html"/>
       <outline text="r/worldnews :top scoring links" title="r/worldnews :top scoring links" type="rss" xmlUrl="https://burkybang.com/reddit_rss/?rss=r/worldnews/top/.rss" htmlUrl="https://www.reddit.com/r/worldnews/top/?t=1628081840"/>
@@ -52,6 +53,8 @@
       <outline text="Techmeme" title="Techmeme" type="rss" xmlUrl="https://www.techmeme.com/index.xml" htmlUrl="https://www.techmeme.com/"/>
     </outline>
     <outline text="Newsletters" title="Newsletters">
+      <outline text="tl;dr sec" title="tl;dr sec" type="rss" xmlUrl="https://rss.beehiiv.com/feeds/xgTKUmMmUm.xml" htmlUrl="https://tldrsec.com/"/>
+      <outline text="Unsupervised Learning" title="Unsupervised Learning" type="rss" xmlUrl="https://rss.beehiiv.com/feeds/gQxaV1KHkQ.xml" htmlUrl="https://danielmiessler.com/"/>
       <outline text="Fastmail Blog" title="Fastmail Blog" type="rss" xmlUrl="https://www.fastmail.com/blog/feed.xml" htmlUrl="https://www.fastmail.com/blog/"/>
       <outline text="SRE WEEKLY" title="SRE WEEKLY" type="rss" xmlUrl="https://sreweekly.com/feed/" htmlUrl="https://sreweekly.com/"/>
       <outline text="Schneier on Security" title="Schneier on Security" type="rss" xmlUrl="https://www.schneier.com/feed/atom" htmlUrl="https://www.schneier.com/"/>
@@ -64,6 +67,8 @@
       <outline text="Pinboard (popular bookmarks)" title="Pinboard (popular bookmarks)" type="rss" xmlUrl="https://feeds.pinboard.in/rss/popular/" htmlUrl="https://pinboard.in/popular/"/>
     </outline>
     <outline text="DevOps" title="DevOps">
+      <outline text="tl;dr sec" title="tl;dr sec" type="rss" xmlUrl="https://rss.beehiiv.com/feeds/xgTKUmMmUm.xml" htmlUrl="https://tldrsec.com/"/>
+      <outline text="Unsupervised Learning" title="Unsupervised Learning" type="rss" xmlUrl="https://rss.beehiiv.com/feeds/gQxaV1KHkQ.xml" htmlUrl="https://danielmiessler.com/"/>
       <outline text="Lobsters: Top Stories of the Past Week" title="Lobsters: Top Stories of the Past Week" type="rss" xmlUrl="https://lobste.rs/top/rss" htmlUrl="https://lobste.rs/"/>
       <outline text="Hacker News 100 points posts" title="Hacker News 100 points posts" type="rss" xmlUrl="https://hnrss.org/newest?points=100" htmlUrl="https://news.ycombinator.com/newest"/>
       <outline text="r/ExperiencedDevs, r/compsci, r/learnprogramming, r/programming, r/webdev : top scoring links" title="r/ExperiencedDevs, r/compsci, r/learnprogramming, r/programming, r/webdev : top scoring links" type="rss" xmlUrl="https://burkybang.com/reddit_rss/?rss=r/learnprogramming%2Bprogramming%2Bwebdev%2Bcompsci%2BExperiencedDevs/top/.rss" htmlUrl="https://www.reddit.com/r/learnprogramming+programming+webdev+compsci+ExperiencedDevs/top/?_=1743731115"/>
