@@ -4142,7 +4142,6 @@ Contents:
                 https://www.eff.org/https-everywhere
                 https://www.fbpurity.com (F.B. Purity - Clean Up and Customize Facebook)
                 https://www.forbesconrad.com/blog/enable-password-pasting (Enable Password Pasting in Firefox)
-                https://www.joinhoney.com (Honey is a browser extension that automatically finds and applies coupon codes at checkout with a single click.)
                 https://www.mrfdev.com/enhancer-for-youtube (Enhancer for YouTube)
                 https://www.tackker.com (Tackker - A tool to manage and track your tasks efficiently.)
 
@@ -4152,7 +4151,7 @@ Contents:
                 https://github.com/collinbarrett/FilterLists (https://filterlists.com Use "Bypass Paywalls Clean filter" to bypass paywalls for news sites )
                 https://github.com/hagezi/dns-blocklists (DNS-Blocklists: For a better internet - keep the internet clean! )
                 https://github.com/sjhgvr/oisd (https://oisd.nl The blocklist prevents your devices from connecting to unwanted or harmful domains.It reduces ads, decreases the risk of malware, and enhances privacy.)
-                https://github.com/topics/adblock (public repositories matching this topic adblock)
+                https://github.com/topics/adblock (public repositories matching topic adblock)
                 https://github.com/yokoffing/NextDNS-Config (Setup guide for NextDNS, a DoH proxy with advanced capabilities)
                 https://www.archivebuttons.com (All of the paywall removers in one place)
                 https://www.reddit.com/r/uBlockOrigin/comments/178yasm/youtube_antiadblock_and_ads_october_16_2023 ( YouTube Anti-Adblock and Ads - October 16, 2023 (Weekly Thread))
