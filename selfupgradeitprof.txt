@@ -1482,6 +1482,7 @@ Contents:
                 https://github.com/jayendrapatil/kubernetes-exercises (Collection covers kubernetes exercises categorized topics-wise and referred back to the individual Kubernetes certification exams.)
                 https://github.com/kmjayadeep/cka-learning (My notes and preparation materials for Certified Kubernetes Administrator Exam)
                 https://github.com/lucassha/CKAD-resources
+                https://github.com/nishanb/ck-x (https://ckx.nishann.com  A realistic exam simulator for CKAD, CKA, and CKS featuring timed sessions and hands-on labs with pre-configured clusters. )
                 https://github.com/stackrox/Kubernetes_Security_Specialist_Study_Guide
                 https://github.com/topics/cka?o=desc&s=stars
                 https://github.com/walidshaari/Certified-Kubernetes-Security-Specialist
@@ -3206,6 +3207,7 @@ Contents:
                 https://e2eml.school/transformers.html (Transformers from Scratch)
                 https://en.wikipedia.org/wiki/Large_language_model (Large language model)
                 https://fleuret.org/public/lbdl.pdf (The Little Book of Deep Learning by François Fleuret)
+                https://github.com/appcypher/awesome-mcp-servers (Awesome MCP Servers - A curated list of Model Context Protocol servers )
                 https://github.com/dair-ai/ML-Papers-of-the-Week (🔥Highlighting the top ML papers every week.)
                 https://github.com/dair-ai/Prompt-Engineering-Guide (🐙 Guides, papers, lecture, notebooks and resources for prompt engineering )
                 https://github.com/eugeneyan/applied-ml (📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.)
@@ -3249,6 +3251,7 @@ Contents:
                 https://github.com/OpenMindClub/awesome-chatgpt (⚡ Everything about ChatGPT )
                 https://github.com/punkpeye/awesome-mcp-servers (https://glama.ai/mcp/servers A collection of MCP servers)
                 https://github.com/Shubhamsaboo/awesome-llm-apps ( https://www.theunwindai.com Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.)
+                https://github.com/simonw/llm (https://llm.datasette.io/en/stable Access large language models from the command-line )
                 https://github.com/taranjeet/awesome-gpts (Collection of all the GPTs created by the community)
                 https://github.com/tencent/Hunyuan3D-2 (High-Resolution 3D Assets Generation with Large Scale Hunyuan3D Diffusion Models.)
                 https://openrouter.ai (A unified interface for LLMs)
