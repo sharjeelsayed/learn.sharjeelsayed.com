@@ -4887,20 +4887,20 @@ Contents:
 
             Newsletters: (Sorted by Alexa Rank)
                 https://www.morningbrew.com/it (9,035)
-                https://thenewstack.io/newsletter-archive (24,975)
+                https://thenewstack.io/newsletter-archive (24,975) (No RSS feed available)
                 https://finshots.in (41,149)
                 https://kubeweekly.io (44,540)
                 https://stratechery.com (49,773)
                 https://blog.bytebytego.com (70,838)
                 https://lwn.net (73,553)
                 https://danielmiessler.com/newsletter (96,519)
-                https://www.ben-evans.com/newsletter (107,535)
+                https://www.ben-evans.com/newsletter (107,535) (No RSS feed available)
                 https://www.schneier.com/crypto-gram (171,909)
                 https://tldr.tech (275,317) (Get the free daily email with summaries of the most interesting stories in startups 🚀, tech 📱, and programming 💻)
                 https://thebrowser.com (301,904)
                 https://www.lastweekinaws.com (359,464)
                 https://www.emergingtechbrew.com (1,131,395)
-                https://softwareleadweekly.com (1,692,604)
+                https://softwareleadweekly.com (1,692,604) (No RSS feed available)
                 https://app.mailbrew.com/unreadit/tech-Rrjzlxqyv6Q1 (1,877,598)
                 https://app.mailbrew.com/unreadit/apple-IrGlTkMnbO9o (1,877,598)
                 https://hackernewsletter.com (#2,010,494) (Since 2010, we've put out a weekly newsletter of the best articles on startups, technology, programming, and more. All links are curated by hand from Hacker News. )
@@ -4978,7 +4978,6 @@ Contents:
                 https://blog.boomerangapp.com/2017/01/how-to-end-an-email-email-sign-offs
                 https://github.com/disposable-email-domains/disposable-email-domains (a list of disposable and temporary email address domains )
                 https://github.com/nicanorflavier/spf-dkim-dmarc-simplified (Email security is a key part of internet communication. But what are SPF, DKIM, and DMARC, and how do they work? This guide will explain it all in simple terms to make these concepts clearer. )
-                https://news.ycombinator.com/item?id=25497113 (Ask HN: Best Paid Gmail Replacement?)
                 https://nomoregoogle.com
                 https://stackoverflow.com/questions/9807909/are-email-addresses-case-sensitive
                 https://www.gov.uk/guidance/protect-domains-that-dont-send-email (Protect domains that do not send email)
@@ -5615,10 +5614,5 @@ Contents:
         https://github.com/VERT-sh/VERT (https://vert.sh The next-generation file converter. Open source, fully local* and free forever. )
 
     Support this project with these referral links:
-        http://share.payoneer.com/nav/fNDwSrQzVfdG8-xoVyx0Bw_ZDmVq9EROCSP2BPIK6ZXFGNfkLTA-k6YqnGHb8YozBtA2obVkitQbtq50VTZ5Bg2 ($25 on Sign Up)
-        http://thefrenchieco.refr.cc/sharjeels (10% off)
         https://m.do.co/c/d3160b5e33e8 (DigitalOcean Credits)
-        https://mega.nz/C!vuhRiKpB (Mega.nz Extra Storage)
-        https://repl.it/upgrade/sharjeelsayed
         https://www.expressrefer.com/refer-friend?referrer_id=39360476 (ExpressVPN 30 days free)
-        https://www.stickermule.com/unlock?ref_id=0324563701 ($10 Credit for stickers)
