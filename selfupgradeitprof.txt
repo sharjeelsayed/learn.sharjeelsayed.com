@@ -342,6 +342,7 @@ Contents:
                 https://wizardzines.com/comics (programming zines by Julia Evans)
                 https://www.discoverdev.io (Discover dev brings you a daily digest of the best engineering blogs from across the web! Handpicked by AI and a network of globally distributed nerds!)
                 https://www.jetbrains.com/lp/devecosystem-2024 (The State of Developer Ecosystem 2024)
+                https://www.makingsoftware.com (A reference manual for people who design and build software.)
                 https://www.microsoft.com/en-us/research/blog/category/podcast
                 https://www.reddit.com/r/compsci+cscareerquestions+learnprogramming+programming
                 https://www.reddit.com/r/cscareerquestions/comments/6hmlxr/what_are_the_most_indemand_software_skills_right/dizqiie
@@ -491,6 +492,7 @@ Contents:
                 https://www.3blue1brown.com (Animated math)
                 https://www.3blue1brown.com/topics/calculus (Calculus : Visual introductions to the core ideas of derivatives, integrals, limits and more)
                 https://www.amazon.com/G%C3%B6del-Escher-Bach-Eternal-Golden/dp/0465026567 (Gödel, Escher, Bach: An Eternal Golden Braid by Douglas R. Hofstadter)
+                https://www.amazon.com/Way-Things-Work-Now/dp/0544824385 (The Way Things Work: Newly Revised Edition: The Ultimate Guide to How Things Work by David Macaulay May 2, 2023)
                 https://www.reddit.com/r/learnprogramming/comments/70rh9q/is_there_a_cs50_for_math
                 https://www.susanrigetti.com/math (So You Want to Study Mathematics)
                 https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw (3Blue1Brown Channel)
@@ -4136,9 +4138,7 @@ Contents:
                 https://news.ycombinator.com/item?id=38014653 ("Don't mess with paste" - for when signup forms expect you to hand-type your email address twice)
                 https://newsit.benwinding.com (Newsit - A news aggregator that lets you read the news without the clutter)
                 https://oblador.github.io/hush (Block nags to accept cookies and privacy invasive tracking in Safari on Mac, iPhone and iPad.)
-                https://oisd.nl/setup/ublockorigin ( Add the oisd blocklist to your adblocker to ublock Orgin)
                 https://privacybadger.org (Privacy Badger is a browser extension that automatically learns to block invisible trackers.)
-                https://support.mozilla.org/en-US/kb/focus
                 https://tabliss.io (A beautiful, customisable New Tab page for Firefox, Chrome, and Edge. )
                 https://underpassapp.com/StopTheMadness (StopTheMadness is a Safari extension for Mac that stops web sites from making your browser harder to use.)
                 https://unhook.app (Watch YouTube free of distractions. Block suggestion feeds, comments, and more)
@@ -4151,11 +4151,12 @@ Contents:
         AdBlock:
             Sources:
                 https://byebyepaywall.com/en (This tool allows you to view URLs behind the paywall and open them in various archive and paywall bypass services. Just enter a URL in the field above and click on the desired service!)
-                https://github.com/collinbarrett/FilterLists (https://filterlists.com Use "Bypass Paywalls Clean filter" to bypass paywalls for news sites )
+                https://github.com/collinbarrett/FilterLists (https://filterlists.com/lists/bypass-paywalls-clean-filter Use "Bypass Paywalls Clean filter" to bypass paywalls for news sites )
                 https://github.com/hagezi/dns-blocklists (DNS-Blocklists: For a better internet - keep the internet clean! )
                 https://github.com/sjhgvr/oisd (https://oisd.nl The blocklist prevents your devices from connecting to unwanted or harmful domains.It reduces ads, decreases the risk of malware, and enhances privacy.)
                 https://github.com/topics/adblock (public repositories matching topic adblock)
                 https://github.com/yokoffing/NextDNS-Config (Setup guide for NextDNS, a DoH proxy with advanced capabilities)
+                https://oisd.nl/setup/ublockorigin ( Add the oisd blocklist to your adblocker to ublock Orgin)
                 https://www.archivebuttons.com (All of the paywall removers in one place)
                 https://www.reddit.com/r/uBlockOrigin/comments/178yasm/youtube_antiadblock_and_ads_october_16_2023 ( YouTube Anti-Adblock and Ads - October 16, 2023 (Weekly Thread))
 
