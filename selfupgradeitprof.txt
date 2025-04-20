@@ -3256,6 +3256,7 @@ Contents:
                 https://github.com/simonw/llm (https://llm.datasette.io/en/stable Access large language models from the command-line )
                 https://github.com/taranjeet/awesome-gpts (Collection of all the GPTs created by the community)
                 https://github.com/tencent/Hunyuan3D-2 (High-Resolution 3D Assets Generation with Large Scale Hunyuan3D Diffusion Models.)
+                https://github.com/The-Pocket/Tutorial-Codebase-Knowledge (https://the-pocket.github.io/Tutorial-Codebase-Knowledge Turns Codebase into Easy Tutorial with AI )
                 https://openrouter.ai (A unified interface for LLMs)
                 https://sourcegraph.com/cody (Cody is a coding AI assistant that uses AI and a deep understanding of your codebase to help you write and understand code faster.)
                 https://www.phind.com (Phind is a search engine for AI models.)
