@@ -906,6 +906,7 @@ Contents:
                 https://github.com/ibraheemdev/modern-unix (A collection of modern/faster/saner alternatives or complements to common unix commands.)
                 https://github.com/imthenachoman/How-To-Secure-A-Linux-Server (An evolving how-to guide for securing a Linux server.)
                 https://github.com/leandromoreira/linux-network-performance-parameters (Learn where some of the network sysctl variables fit into the Linux/Kernel network flow. Translations: 🇷🇺 )
+                https://github.com/linuxmint/timeshift (System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB. )
                 https://github.com/luong-komorebi/Awesome-Linux-Software (https://luong-komorebi.github.io/Awesome-Linux-Software 🐧 A list of awesome Linux softwares )
                 https://github.com/muesli/duf (Disk Usage/Free Utility - a better 'df' alternative)
                 https://github.com/sysprog21/lkmpg (The Linux Kernel Module Programming Guide (updated for 5.x kernels))
@@ -2136,6 +2137,7 @@ Contents:
 
             Git Tutorials:
                 https://about.gitlab.com/images/press/git-cheat-sheet.pdf (Git Cheat Sheet)
+                https://beej.us/guide/bggit (Beej's Guide to Git)
                 https://blog.gitbutler.com/git-tips-and-tricks (Git Tips and Tricks)
                 https://blog.gitbutler.com/how-git-core-devs-configure-git (How Core Git Developers Configure Git by Scott Chacon)
                 https://git-scm.com/book/en/v2/Git-Tools-Reset-Demystified (Reset vs Checkout)
