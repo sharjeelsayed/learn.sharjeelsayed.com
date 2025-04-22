@@ -893,34 +893,18 @@ Contents:
             Sources:
                 http://cht.sh (The only cheat sheet you need)
                 http://stackoverflow.com/questions/236838/what-are-good-linuxunix-books-for-an-advancing-user
-                https://0xax.gitbooks.io/linux-insides (A book-in-progress about the linux kernel and its insides.)
-                https://adamtheautomator.com/check-if-a-port-is-open-in-linux (All the Ways to Check If a Port is Open in Linux)
-                https://biriukov.dev/docs/page-cache/0-linux-page-cache-for-sre ( SRE deep dive into Linux Page Cache)
-                https://brendangregg.com/linuxperf.html (Linux Performance by Brendan Gregg)
-                https://crontab.guru (The quick and simple editor for cron schedule expressions by Cronitor)
                 https://dashdash.io (Linux Man Pages)
-                https://github.com/0xAX/linux-insides (https://0xax.gitbooks.io/linux-insides A little bit about a linux kernel )
                 https://github.com/89luca89/distrobox (Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at: https://gitlab.com/89luca89/distrobox https://distrobox.privatedns.org)
-                https://github.com/a13xp0p0v/kernel-hardening-checker (A tool for checking the security hardening options of the Linux kernel)
-                https://github.com/canonical/multipass (Multipass orchestrates virtual Ubuntu instances)
                 https://github.com/ibraheemdev/modern-unix (A collection of modern/faster/saner alternatives or complements to common unix commands.)
-                https://github.com/imthenachoman/How-To-Secure-A-Linux-Server (An evolving how-to guide for securing a Linux server.)
                 https://github.com/leandromoreira/linux-network-performance-parameters (Learn where some of the network sysctl variables fit into the Linux/Kernel network flow. Translations: 🇷🇺 )
-                https://github.com/linuxmint/timeshift (System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB. )
                 https://github.com/luong-komorebi/Awesome-Linux-Software (https://luong-komorebi.github.io/Awesome-Linux-Software 🐧 A list of awesome Linux softwares )
-                https://github.com/muesli/duf (Disk Usage/Free Utility - a better 'df' alternative)
-                https://github.com/sysprog21/lkmpg (The Linux Kernel Module Programming Guide (updated for 5.x kernels))
-                https://github.com/topgrade-rs/topgrade (Upgrade all the things)
+                https://netfilter.org/documentation (Documentation about the netfilter/iptables project)
                 https://github.com/topics/lamp?o=desc&s=stars
                 https://github.com/topics/linux?o=desc&s=stars
-                https://github.com/trimstray/the-practical-linux-hardening-guide
                 https://github.com/vm32/Linux-Incident-Response (practical toolkit for cybersecurity and IT professionals. It features a detailed Linux cheatsheet for incident response)
-                https://github.com/Xfennec/progress (Linux tool to show progress for cp, mv, dd, ... (formerly known as cv) )
                 https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools (A list of new(ish) command line tools)
                 https://linuxcommandlibrary.com
-                https://livesys.se/posts/the-chroot-technique (The chroot Technique - a Swiss army multitool for Linux systems)
                 https://lpc.events (The Linux Plumbers Conference is the premier event for developers working at all levels of the plumbing layer and beyond)
-                https://netfilter.org/documentation (Documentation about the netfilter/iptables project)
                 https://news.ycombinator.com/item?id=22564665 (Linux Kernel Teaching (linux-kernel-labs.github.io))
                 https://news.ycombinator.com/item?id=24027366 (	Low latency tuning guide)
                 https://news.ycombinator.com/item?id=26053323 (	A visual guide to SSH tunnels (robotmoon.com))
@@ -930,7 +914,6 @@ Contents:
                 https://systemd-by-example.com (The playground allows you to learn about systemd interactively, right from your browser!)
                 https://tldr.sh (Simplified and community-driven man pages)
                 https://tuxurls.com
-                https://wiki.archlinux.org
                 https://www.amazon.com/gp/bestsellers/books/285860 (Best Sellers in Linux Certification Guides)
                 https://www.amazon.com/gp/bestsellers/books/291379 (Best Sellers in Linux Kernel & Peripherals)
                 https://www.amazon.com/gp/bestsellers/books/3849 (Best Sellers in Linux Operating System)
@@ -944,6 +927,29 @@ Contents:
                 https://www.reddit.com/r/linuxadmin/comments/7cw116/favorite_posts_youve_bookmarked_or_saved
                 https://www.reddit.com/r/linuxupskillchallenge (https://programming.dev/c/linuxupskillchallenge Daily lessons, support and discussion for those following the month-long "Linux Upskill Challenge" course material. Aimed at those who aspire to get Linux-related jobs in industry - junior Linux sysadmin, devops-related work and similar. This sub will remain open indefinitely to welcome new Linux users but If you can go to our Lemmy instance)
                 https://www.reddit.com/r/Ubuntu+linux+linuxadmin
+
+            Tutorials:
+                https://0xax.gitbooks.io/linux-insides (A book-in-progress about the linux kernel and its insides.)
+                https://adamtheautomator.com/check-if-a-port-is-open-in-linux (All the Ways to Check If a Port is Open in Linux)
+                https://biriukov.dev/docs/page-cache/0-linux-page-cache-for-sre ( SRE deep dive into Linux Page Cache)
+                https://brendangregg.com/linuxperf.html (Linux Performance by Brendan Gregg)
+                https://github.com/0xAX/linux-insides (https://0xax.gitbooks.io/linux-insides A little bit about a linux kernel )
+                https://github.com/imthenachoman/How-To-Secure-A-Linux-Server (An evolving how-to guide for securing a Linux server.)
+                https://github.com/sysprog21/lkmpg (The Linux Kernel Module Programming Guide (updated for 5.x kernels))
+                https://github.com/trimstray/the-practical-linux-hardening-guide
+                https://github.com/trimstray/the-practical-linux-hardening-guide (This guide details creating a secure Linux production system. OpenSCAP (C2S/CIS, STIG).)
+                https://livesys.se/posts/the-chroot-technique (The chroot Technique - a Swiss army multitool for Linux systems)
+                https://netfilter.org/documentation (Documentation about the netfilter/iptables project)
+                https://wiki.archlinux.org (Arch Linux documentation on the web.)
+
+            Tools:
+                https://crontab.guru (The quick and simple editor for cron schedule expressions by Cronitor)
+                https://github.com/a13xp0p0v/kernel-hardening-checker (A tool for checking the security hardening options of the Linux kernel)
+                https://github.com/canonical/multipass (Multipass orchestrates virtual Ubuntu instances)
+                https://github.com/linuxmint/timeshift (System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB. )
+                https://github.com/muesli/duf (Disk Usage/Free Utility - a better 'df' alternative)
+                https://github.com/topgrade-rs/topgrade (Upgrade all the things)
+                https://github.com/Xfennec/progress (Linux tool to show progress for cp, mv, dd, ... (formerly known as cv) )
 
             Books and Courses:
                 Red Hat Video Courses by Sander Van Vugt
@@ -1281,13 +1287,6 @@ Contents:
 
         Kubernetes:
             Sources:
-                https://100daysofkubernetes.io (100 Days of Kubernetes is the challenge in which we aim to learn something new related to Kubernetes each day across 100 Days!!!)
-                https://blog.adamchalmers.com/kubernetes-problems (Solving common problems with Kubernetes)
-                https://blog.pipetail.io/posts/2020-05-04-most-common-mistakes-k8s (10 most common mistakes using kubernetes)
-                https://blog.udemy.com/kubernetes-interview-questions (7 Kubernetes Interview Questions You Should Be Able to Answer)
-                https://catalog.us-east-1.prod.workshops.aws/v2/workshops/9da471a0-266a-4d36-8596-e5934aeedd1f/en-US (AWS Policy as Code Workshop)
-                https://cheatsheetseries.owasp.org/cheatsheets/Kubernetes_Security_Cheat_Sheet.html (Kubernetes Security Cheat Sheet)
-                https://chrisshort.net/kubernetes-illustrated-childrens-guide
                 https://cloud.redhat.com/blog/top-open-source-kubernetes-security-tools-of-2021 (Top Open Source Kubernetes Security Tools of 2021)
                 https://docs.aws.amazon.com/prescriptive-guidance/latest/containers-provision-eks-clusters-terraform/welcome.html (Provisioning production-ready Amazon EKS clusters using Terraform)
                 https://docs.google.com/spreadsheets/d/10NltoF_6y3mBwUzQ4bcQLQfCE1BWSgUDcJXy-Qp2JEU (The Kubernetes Learning Resources List)
@@ -1296,9 +1295,6 @@ Contents:
                 https://github.com/askmeegs/learn-istio (⛵️ Istio resources 🕸)
                 https://github.com/dennyzhang/cheatsheet-kubernetes-A4 (📖 Kubernetes CheatSheets In A4)
                 https://github.com/devtron-labs/devtron (Devtron is an integrated Kubernetes distribution which bundles Argo, Grafana, Helm, Keda, Prometheus and more, saving you the effort of integrating yourself)
-                https://github.com/diegolnasc/kubernetes-best-practices (A cookbook with the best practices for working with kubernetes)
-                https://github.com/eon01/kubernetes-workshop (A Gentle introduction to Kubernetes with more than just the basics.)
-                https://github.com/jamiehannaford/what-happens-when-k8s (What happens when I type kubectl run?)
                 https://github.com/jatrost/awesome-kubernetes-threat-detection (A curated list of resources about detecting threats and defending Kubernetes systems.)
                 https://github.com/jpetazzo/container.training (https://container.training Slides and code samples for training, tutorials, and workshops about Docker, containers, and Kubernetes.)
                 https://github.com/karmada-io/karmada (Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration)
@@ -1310,8 +1306,8 @@ Contents:
                 https://github.com/magnologan/awesome-k8s-security (A curated list for Awesome Kubernetes Security resources)
                 https://github.com/marcel-dempers/docker-development-youtube-series (A Collection of tools, hands-on walkthroughs with source code.The Ultimate Swiss Army knife for DevOps, Developers and Platform Engineers)
                 https://github.com/nkuba/k8s-admin-helper (Kubernetes manifests templates and cheat sheets.)
+                https://github.com/nubenetes/awesome-kubernetes (https://redhatspain.com/kubernetes A curated list of awesome references collected since 2018.)
                 https://github.com/OWASP/www-project-kubernetes-top-ten (OWASP Foundation Web Respository)
-                https://github.com/r0hi7/k8s-In-30Mins (Learn how to set up the Kubernetes cluster in 30 mins and deploy the application inside the cluster.)
                 https://github.com/ramitsurana/awesome-kubernetes (A curated list for awesome kubernetes sources 🚢🎉)
                 https://github.com/techiescamp/kubernetes-learning-path (A roadmap to learn Kubernetes from scratch (Beginner to Advanced level))
                 https://github.com/terraform-aws-modules/terraform-aws-eks (https://registry.terraform.io/modules/terraform-aws-modules/eks/aws Terraform module to create AWS Elastic Kubernetes (EKS) resources 🇺🇦)
@@ -1329,39 +1325,43 @@ Contents:
                 https://kubernetesreadme.com (What books 📚 to read to learn more about Kubernetes)
                 https://labs.play-with-k8s.com (Play with Kubernetes is a labs site provided by Docker and created by Tutorius.)
                 https://learning.oreilly.com/search/?query=kubernetes
-                https://learnk8s.io/troubleshooting-deployments (A visual guide on troubleshooting Kubernetes deployments)
-                https://medium.com/faun/35-advanced-tutorials-to-learn-kubernetes-dae5695b1f18
-                https://medium.com/faun/be-fast-with-kubectl-1-18-ckad-cka-31be00acc443
-                https://mjarosie.github.io/dev/2021/09/15/iam-roles-for-kubernetes-service-accounts-deep-dive.html (IAM roles for Kubernetes service accounts - deep dive)
-                https://napo.io/posts/kubernetes-the-real-hard-way-on-aws (Kubernetes The (real) Hard Way on AWS)
                 https://news.ycombinator.com/item?id=29251343 (Ask HN: What is the fastest way to ramp up on DevOps, k8 and GCP?)
-                https://notes.arkalim.org/notes/kubernetes (Abdur's Notes for Kubernetes)
-                https://redhatspain.com/kubernetes (A curated list of awesome references collected since 2018.)
                 https://roadmap.sh/kubernetes (Kubernetes Roadmap)
                 https://sdk.operatorframework.io (The Operator SDK makes it easier to build Kubernetes native applications, a process that can require deep, application-specific operational knowledge)
                 https://snyk.io/blog/10-kubernetes-security-context-settings-you-should-understand (10 Kubernetes Security Context settings you should understand)
-                https://sparkle.adroitcorp.com.au/market (Flashcards)
                 https://sysdig.com/blog/top-owasp-kubernetes (The OWASP Kubernetes Top 10 puts all possible risks in an order of overall commonality or probability.)
-                https://techbeacon.com/enterprise-it/47-advanced-tutorials-mastering-kubernetes
-                https://tldrsec.com/p/kubernetes-security-threat-informed-defense (Keep Hackers Out of Your Kubernetes Cluster with These 5 Simple Tricks!)
-                https://www.atomiccommits.io/everything-useful-i-know-about-kubectl (Everything Useful I Know About kubectl)
                 https://www.containiq.com/post/kubernetes-projects-for-beginners (10 Awesome Kubernetes Projects for Beginners)
-                https://www.datadoghq.com/container-report (Oct 2021 report on Kubernetes and Docker Usage)
+                https://www.datadoghq.com/container-report (Updated November 2023 report on Kubernetes and Docker Usage)
                 https://www.flatcar.org (A community Linux distribution designed for container workloads, with high security and low maintenance)
                 https://www.learncloudnative.com/blog/2022-05-10-kubectl-tips (Kubernetes CLI (kubectl) tips you didn't know about)
-                https://www.linode.com/content/kubernetes-guide (Understanding Kubernetes A Guide to Modernizing Your Cloud Infrastructure)
                 https://www.macchaffee.com/blog/2022/k8s-under-documented-security-tips (Kubernetes Under-Documented Security Tips)
                 https://www.nsa.gov/Press-Room/News-Highlights/Article/Article/2716980/nsa-cisa-release-kubernetes-hardening-guidance (NSA, CISA release Kubernetes Hardening Guidance)
-                https://www.nslookup.io/learning/the-life-of-a-dns-query-in-kubernetes (The Life of a DNS Query in Kubernetes)
                 https://www.reddit.com/r/kubernetes/comments/1849egq/must_have_kubernetes_cluster_addons (Must have Kubernetes cluster addons?)
                 https://www.reddit.com/r/kubernetes/comments/1hlpl8k/i_want_to_learn_and_be_good_at_kubernetes (I Want to Learn and "be good at" Kubernetes)
                 https://www.reddit.com/r/kubernetes/comments/mwpj1q/how_did_you_really_master_kubernetes
                 https://www.reddit.com/r/kubernetes/comments/xauuxk/what_are_some_useful_kubernetes_tools_you_can (What are some useful Kubernetes tools you can share?)
                 https://www.tkng.io (The Kubernetes Network Model)
                 https://www.udemy.com/topic/kubernetes/?ratings=4.5&sort=popularity (Udemy Courses rated 4.5 stars and above)
+                https://pinboard.in/u:SharjeelSayed/t:kubernetes
+
+            Tutorials:
+                https://100daysofkubernetes.io (100 Days of Kubernetes is the challenge in which we aim to learn something new related to Kubernetes each day across 100 Days!!!)
+                https://blog.adamchalmers.com/kubernetes-problems (Solving common problems with Kubernetes)
+                https://blog.pipetail.io/posts/2020-05-04-most-common-mistakes-k8s (10 most common mistakes using kubernetes)
+                https://blog.udemy.com/kubernetes-interview-questions (7 Kubernetes Interview Questions You Should Be Able to Answer)
+                https://catalog.us-east-1.prod.workshops.aws/v2/workshops/9da471a0-266a-4d36-8596-e5934aeedd1f/en-US (AWS Policy as Code Workshop)
+                https://cheatsheetseries.owasp.org/cheatsheets/Kubernetes_Security_Cheat_Sheet.html (Kubernetes Security Cheat Sheet)
+                https://chrisshort.net/kubernetes-illustrated-childrens-guide (Kubernetes Illustrated Children's Guide)
+                https://github.com/diegolnasc/kubernetes-best-practices (A cookbook with the best practices for working with kubernetes)
+                https://github.com/eon01/kubernetes-workshop (A Gentle introduction to Kubernetes with more than just the basics.)
+                https://github.com/jamiehannaford/what-happens-when-k8s (What happens when I type kubectl run?)
+                https://learnk8s.io/troubleshooting-deployments (A visual guide on troubleshooting Kubernetes deployments)
+                https://mjarosie.github.io/dev/2021/09/15/iam-roles-for-kubernetes-service-accounts-deep-dive.html (IAM roles for Kubernetes service accounts - deep dive)
+                https://tldrsec.com/p/kubernetes-security-threat-informed-defense (Keep Hackers Out of Your Kubernetes Cluster with These 5 Simple Tricks!)
+                https://www.linode.com/content/kubernetes-guide (Understanding Kubernetes A Guide to Modernizing Your Cloud Infrastructure)
+                https://www.nslookup.io/learning/the-life-of-a-dns-query-in-kubernetes (The Life of a DNS Query in Kubernetes)
                 https://ymmt2005.hatenablog.com/entry/k8s-things (47 Things To Become a Kubernetes Expert)
                 https://youtu.be/0Omvgd7Hg1I (Life of a Packet [I] - Michael Rubin, Google)
-                https://pinboard.in/u:SharjeelSayed/t:kubernetes
 
             Kubernetes Distributions:
                 https://github.com/canonical/microk8s (https://microk8s.io MicroK8s is a small, fast, single-package Kubernetes for datacenters and the edge.)
@@ -2114,7 +2114,6 @@ Contents:
                 https://gitexplorer.com (Find the right commands you need without digging through the web)
                 https://github.com/AndreMiras/gitpop2 (Find the most popular fork on GitHub)
                 https://github.com/EvanLi/Github-Ranking (⭐Github Ranking⭐ Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily.)
-                https://github.com/FAQGURU/FAQGURU/blob/master/topics/en/git.md (A list of Git interview questions)
                 https://github.com/topics/git?o=desc&s=stars
                 https://github.com/toptal/gitignore.io (Create useful .gitignore files for your project )
                 https://graphite.dev/blog/why-ban-merge-commits (Why large companies and fast-moving startups are banning merge commits)
@@ -2141,6 +2140,7 @@ Contents:
                 https://blog.gitbutler.com/git-tips-and-tricks (Git Tips and Tricks)
                 https://blog.gitbutler.com/how-git-core-devs-configure-git (How Core Git Developers Configure Git by Scott Chacon)
                 https://git-scm.com/book/en/v2/Git-Tools-Reset-Demystified (Reset vs Checkout)
+                https://github.com/FAQGURU/FAQGURU/blob/master/topics/en/git.md (A list of Git interview questions)
                 https://github.com/git-tips/tips (Most commonly used git tips and tricks.)
                 https://github.com/k88hudson/git-flight-rules (Flight rules for git)
                 https://github.com/tiimgreen/github-cheat-sheet (A list of cool features of Git and GitHub.)
@@ -3626,6 +3626,7 @@ Contents:
             Sources:
                 http://layoffs.fyi (Tracking all tech startup layoffs since COVID-19)
                 https://blog.pragmaticengineer.com/software-engineer-jobs-five-year-low (Software Engineer Jobs at a Five-Year Low)
+                https://databayou.com/population/jobincome.html (Highest Paying Occupation by U.S. County Map)
                 https://docs.google.com/spreadsheets/d/1TLJSlNxCbwRNxy14Toe1PYwbCTY7h0CNHeer9J0VRzE/htmlview#gid=1279011369 (900+ Startups Hiring Remotely in 2024 - by Remotive.com : UPDATED - The List of Awesome!)
                 https://en.wikipedia.org/wiki/List_of_Arab_League_countries_by_GDP_(PPP) (List of Arab League countries by GDP (PPP))
                 https://en.wikipedia.org/wiki/List_of_countries_by_average_annual_labor_hours (List of countries by average annual labor hours)
