@@ -3413,6 +3413,7 @@ Contents:
             Sources:
                 http://blog.interviewing.io/what-really-matters-in-technical-interviews-we-analyzed-thousands-of-interviews-on-everything-from-language-to-code-style-heres-what-we-found
                 https://blog.udemy.com/kubernetes-interview-questions (7 Kubernetes Interview Questions You Should Be Able to Answer)
+                https://cluely.com (Cluely is an undetectable AI-powered assistant built for Virtual Meetings, Sales calls, and more)
                 https://codesignal.com (Make the right hires faster, save engineering time, increase diversity, and reduce risk with our technical interview and assessment platform.)
                 https://enterprisersproject.com/article/2021/3/7-top-site-reliability-engineer-sre-job-interview-questions (7 top Site Reliability Engineer (SRE) job interview questions)
                 https://github.com/alexeygrigorev/data-science-interviews (Data science interview questions and answers https://ds-interviews.org)
@@ -3802,6 +3803,7 @@ Contents:
 
         Management:
             Sources:
+                https://cluely.com (Cluely is an undetectable AI-powered assistant built for Virtual Meetings, Sales calls, and more)
                 https://cofounderslab.com (Find a co-founder, hire a freelancer, or find a job)
                 https://diataxis.fr (The Grand Unified Theory Of Documentation)
                 https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy (Cognitive behavioral therapy)
@@ -5335,6 +5337,8 @@ Contents:
                 https://en.m.wikipedia.org/wiki/The_Sight_and_Sound_Greatest_Films_of_All_Time_2022 (The Sight and Sound Greatest Films of All Time 2022)
                 https://en.wikipedia.org/wiki/AFI%27s_100_Years...100_Movies_(10th_Anniversary_Edition) (AFI's 100 Years...100 Movies (10th Anniversary Edition))
                 https://en.wikipedia.org/wiki/List_of_films_considered_the_best (List of films considered the best)
+                https://en.wikipedia.org/wiki/List_of_most_expensive_films (List of most expensive films)
+                https://en.wikipedia.org/wiki/List_of_most_expensive_television_series (List of most expensive television series)
                 https://en.wikipedia.org/wiki/The_World_at_War (The World at War is a 26-episode British documentary television series that chronicles the events of the Second World War.)
                 https://github.com/greybax/awesome-IT-films (https://alfilatov.com/awesome-IT-films A curated list of awesome films about IT & geek people.)
                 https://github.com/iptv-org/iptv (Collection of publicly available IPTV channels from all over the world)
