@@ -1111,24 +1111,26 @@ Contents:
 
         ssh:
             Sources:
-                http://www.g-loaded.eu/2006/11/24/auto-closing-ssh-tunnels # Auto-closing SSH tunnels
-                https://carlosbecker.com/posts/ssh-tips-and-tricks (SSH Tips and Tricks)
                 https://github.com/jtesta/ssh-audit (SSH server & client security auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc))
                 https://github.com/moul/awesome-ssh (💻 A curated list of SSH resources. )
                 https://github.com/opsdisk/the_cyber_plumbers_handbook (The definitive guide to Secure Shell (SSH) tunneling, port redirection, and bending traffic like a boss.)
                 https://github.com/topics/ssh?o=desc&s=stars
-                https://goteleport.com/blog/security-hardening-ssh-bastion-best-practices (SSH Bastion Host Best Practices)
-                https://grahamhelton.com/blog/ssh-cheatsheet (An Excruciatingly Detailed Guide To SSH (But Only The Things I Actually Find Useful))
-                https://iximiuz.com/en/posts/ssh-tunnels (A Visual Guide to SSH Tunnels: Local and Remote Port Forwarding)
                 https://j11g.com/2023/01/14/i-dont-understand-terminals-shells-and-ssh (I don't understand terminals, shells, and SSH)
                 https://news.ycombinator.com/item?id=10726158 (Poor man's VPN via ssh socks proxy (redpill-linpro.com))
                 https://news.ycombinator.com/item?id=26053323 (	A visual guide to SSH tunnels (robotmoon.com))
                 https://news.ycombinator.com/item?id=32486031 (SSH tips and tricks (carlosbecker.dev))
                 https://news.ycombinator.com/item?id=32486031 (SSH tips and tricks (carlosbecker.dev))
                 https://news.ycombinator.com/item?id=37240187 (An excruciatingly detailed guide to SSH (but only the things I find useful) (grahamhelton.com))
+
+            Tutorials:
+                http://www.g-loaded.eu/2006/11/24/auto-closing-ssh-tunnels # Auto-closing SSH tunnels
+                https://carlosbecker.com/posts/ssh-tips-and-tricks (SSH Tips and Tricks)
+                https://goteleport.com/blog/security-hardening-ssh-bastion-best-practices (SSH Bastion Host Best Practices)
+                https://grahamhelton.com/blog/ssh-cheatsheet (An Excruciatingly Detailed Guide To SSH (But Only The Things I Actually Find Useful))
+                https://iximiuz.com/en/posts/ssh-tunnels (A Visual Guide to SSH Tunnels: Local and Remote Port Forwarding)
                 https://susam.in/blog/file-transfer-with-ssh-tee-and-base64.html (File Transfer with SSH, Tee, and Base64)
-                https://unix.stackexchange.com/a/118650/289353 (How does reverse SSH tunneling work?)
-                https://unix.stackexchange.com/a/2869/187607 (Download or Upload files using SSH)
+                https://unix.stackexchange.com/questions/2857/copy-a-file-back-to-local-system-with-ssh/2869#2869 (Download or Upload files using SSH)
+                https://unix.stackexchange.com/questions/46235/how-does-reverse-ssh-tunneling-work/118650#118650 (How does reverse SSH tunneling work?)
 
             Tools:
                 https://github.com/elpy1/ssh-over-ssm (SSH over AWS SSM. No bastions or public-facing instances. SSH user management through IAM. No requirement to store SSH keys locally or on server.)
@@ -2061,7 +2063,7 @@ Contents:
                 https://postgrespro.com/blog/pgsql/5969985 ( PostgreSQL 14 Internals :A deep dive into the server mechanics)
                 https://postgrespro.com/community/books/internals (PostgreSQL Internals)
                 https://postgresqlco.nf (Manage YOUR postgresql.conf CONFIGURATIONS)
-                https://roadmap.sh/postgresql-dba (Step by step guide to becoming a modern PostgreSQL DB Administrator in 2022)
+                https://roadmap.sh/postgresql-dba (Step by step guide to becoming a modern PostgreSQL DB Administrator in 2025 )
                 https://supabase.com (Supabase is an open source Firebase alternative. Start your project with a Postgres database, Authentication, instant APIs, Edge Functions, Realtime subscriptions, Storage, and Vector embeddings.)
                 https://theartofpostgresql.com (The book that teaches SQL to developers: Learn to replace thousands of lines of code with simple queries!)
                 https://tomcam.github.io/postgres (psql command line tutorial and cheat sheet)
@@ -2275,16 +2277,10 @@ Contents:
 
         Vim:
             Sources:
-                http://derekwyatt.org/vim/tutorials
-                http://vimcasts.org (Learn essential Vim skills with Drew Neil, author of Practical Vim)
-                http://zzapper.co.uk/vimtips.html
-                https://betterprogramming.pub/50-vim-mode-tips-for-ide-users-f7b525a794b3 (Vim Best Practices For IDE Users)
-                https://github.com/amix/vimrc (The ultimate Vim configuration (vimrc) )
-                https://github.com/LazyVim/LazyVim ( Neovim config for the lazy https://www.lazyvim.org)
                 https://github.com/learnbyexample/scripting_course/blob/master/Vim_curated_resources.md
                 https://github.com/LeCoupa/awesome-cheatsheets/blob/master/tools/vim.txt
                 https://github.com/mhinz/vim-galore (All things Vim!)
-                https://github.com/neovim/neovim
+                https://github.com/neovim/neovim (https://neovim.io Vim-fork focused on extensibility and usability )
                 https://github.com/rockerBOO/awesome-neovim ( Collections of awesome neovim plugins.)
                 https://github.com/topics/vim?o=desc&s=stars
                 https://github.com/topics/vimrc?o=desc&s=stars
@@ -2294,15 +2290,22 @@ Contents:
                 https://news.ycombinator.com/item?id=15400037 (Interactive Vim tutorial)
                 https://news.ycombinator.com/item?id=2936670 (Learn Vim Progressively)
                 https://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim/1220118#1220118 (What is your most productive shortcut with Vim?)
-                https://stackoverflow.com/questions/726894/what-are-the-dark-corners-of-vim-your-mom-never-told-you-abouts (What are the dark corners of Vim your mom never told you about?)
                 https://stackoverflow.com/questions/tagged/vim
-                https://vim.fandom.com
+                https://pinboard.in/u:SharjeelSayed/t:vim
+
+            Tutorials:
+                http://derekwyatt.org/vim/tutorials (Vim Videos)
+                http://vimcasts.org (Learn essential Vim skills with Drew Neil, author of Practical Vim)
+                https://betterprogramming.pub/50-vim-mode-tips-for-ide-users-f7b525a794b3 (Vim Best Practices For IDE Users)
+                https://github.com/amix/vimrc (The ultimate Vim configuration (vimrc) )
+                https://github.com/LazyVim/LazyVim ( Neovim config for the lazy https://www.lazyvim.org)
+                https://stackoverflow.com/questions/726894/what-are-the-dark-corners-of-vim-your-mom-never-told-you-abouts (What are the dark corners of Vim your mom never told you about?)
+                https://vim.fandom.com (Vim Tips Wiki)
                 https://vimhelp.org/quickref.txt.html (Vim Quick Reference Card)
                 https://www.shortcutfoo.com/app/dojos/vim (Choose shortcuts to practice)
                 https://www.vim.so (We help you master vim with interactive exercises)
-                https://www.youtube.com/playlist?list=PLu-ydI-PCl0OEG0ZEqLRRuCrMJGAAI0tW (Vim as IDE)
+                https://www.youtube.com/playlist?list=PLu-ydI-PCl0OEG0ZEqLRRuCrMJGAAI0tW (Vim as IDE by by DevOnDuty)
                 https://youtu.be/XA2WjJbmmoM (How to Do 90% of What Plugins Do (With Just Vim))
-                https://pinboard.in/u:SharjeelSayed/t:vim
 
             Books and Courses:
                 vimtutor
