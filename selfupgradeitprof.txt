@@ -1018,40 +1018,14 @@ Contents:
 
         Bash:
             Sources:
-                http://mywiki.wooledge.org/BashPitfalls (This page is a compilation of common mistakes made by bash users. Each example is flawed in some way.)
-                http://redsymbol.net/articles/unofficial-bash-strict-mode (Use Bash Strict Mode (Unless You Love Debugging))
-                https://andrew-quinn.me/fzf (So you've installed `fzf`. Now what?)
-                https://antonz.org/mastering-curl (Mastering curl: interactive text guide)
-                https://explainshell.com (write down a command-line to see the help text that matches each argument)
-                https://gist.github.com/steinwaywhw/a4cd19cda655b8249d908261a62687f8 (One Liner to Download the Latest Release from Github Repo)
-                https://github.com/adrianscheff/useful-sed (Useful sed scripts & patterns)
                 https://github.com/alebcay/awesome-shell (A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.)
                 https://github.com/alexanderepstein/Bash-Snippets (A collection of small bash scripts for heavy terminal users)
-                https://github.com/anordal/shellharden/blob/master/how_to_do_things_safely_in_bash.md (Safe ways to do things in bash)
                 https://github.com/Bash-it/bash-it (Bash-it is a collection of community Bash commands and scripts for Bash 3.2+.)
-                https://github.com/bobbyiliev/introduction-to-bash-scripting (https://ebook.bobby.sh Free Introduction to Bash Scripting eBook)
-                https://github.com/cheat/cheat (cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not frequently enough to remember.)
-                https://github.com/ChrisBuilds/terminaltexteffects (Visual effects applied to text in the terminal.)
-                https://github.com/dylanaraps/pure-bash-bible (📖 A collection of pure bash alternatives to external processes.)
-                https://github.com/dylanaraps/pure-sh-bible (📖 A collection of pure POSIX sh alternatives to external processes.)
-                https://github.com/gleitz/howdoi (instant coding answers via the command line)
                 https://github.com/ibraheemdev/modern-unix (A collection of modern/faster/saner alternatives or complements to common unix commands.)
-                https://github.com/jlevy/the-art-of-command-line (Master the command line, in one page)
-                https://github.com/learnbyexample/Command-line-text-processing
-                https://github.com/onceupon/Bash-Oneliner (A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.)
-                https://github.com/phiresky/ripgrep-all/wiki/fzf-Integration (You can use rga interactively via fzf.)
-                https://github.com/pirate/bash-utils (A collection of hand-crafted bash scripts for various common tasks.)
-                https://github.com/pyenv/pyenv/wiki/MacOS-login-shell (Configure the terminal to run your shell as a login shell)
                 https://github.com/rothgar/awesome-tuis (List of projects that provide terminal user interfaces )
                 https://github.com/topics/bash?o=desc&s=stars
                 https://github.com/topics/cli?o=desc&s=stars (Command line interface)
                 https://github.com/topics/command-line?o=desc&s=stars (Command line)
-                https://jvns.ca/blog/2025/01/11/getting-a-modern-terminal-setup (What's involved in getting a "modern" terminal setup?)
-                https://linoxide.com/linux-how-to/linux-commands-brief-outline-examples
-                https://linuxcommandlibrary.com/basic/oneliners.html (One-liners)
-                https://miro.medium.com/v2/resize:fit:1400/format:webp/1*VTVc8B7HNyu1AIBII2Ls6g.png (sed cheatsheet)
-                https://mywiki.wooledge.org/BashFAQ/105 (Why doesn't set -e (or set -o errexit, or trap ERR) do what I expected?)
-                https://mywiki.wooledge.org/BashPitfalls (This page is a compilation of common mistakes made by bash users. )
                 https://news.ycombinator.com/item?id=14634964 (Ask HN: How can I get better at bash?)
                 https://news.ycombinator.com/item?id=22975437 (Shell Productivity Tips and Tricks (balthazar-rouberol.com))
                 https://news.ycombinator.com/item?id=24880170 (/.bashrc VS –/.profile VS –/.bash_profile (leimao.github.io))
@@ -1060,23 +1034,49 @@ Contents:
                 https://news.ycombinator.com/item?id=27615516 (Bash PS1 Generator (bashrcgenerator.com))
                 https://news.ycombinator.com/item?id=27992073 (	Command line tools for productive programmers (earthly.dev))
                 https://news.ycombinator.com/item?id=38819262 (Ugrep – a more powerful, fast, user-friendly, compatible grep (ugrep.com))
-                https://pragmaticpineapple.com/four-useful-fzf-tricks-for-your-terminal
+                https://www.reddit.com/r/usefulscripts/top
+                https://pinboard.in/u:SharjeelSayed/t:bash
+
+            Tutorials:
+                http://mywiki.wooledge.org/BashPitfalls (This page is a compilation of common mistakes made by bash users. Each example is flawed in some way.)
+                http://redsymbol.net/articles/unofficial-bash-strict-mode (Use Bash Strict Mode (Unless You Love Debugging))
+                https://andrew-quinn.me/fzf (So you've installed `fzf`. Now what?)
+                https://antonz.org/mastering-curl (Mastering curl: interactive text guide)
+                https://github.com/adrianscheff/useful-sed (Useful sed scripts & patterns)
+                https://github.com/anordal/shellharden/blob/master/how_to_do_things_safely_in_bash.md (Safe ways to do things in bash)
+                https://github.com/bobbyiliev/introduction-to-bash-scripting (https://ebook.bobby.sh Free Introduction to Bash Scripting eBook)
+                https://github.com/dylanaraps/pure-bash-bible (📖 A collection of pure bash alternatives to external processes.)
+                https://github.com/dylanaraps/pure-sh-bible (📖 A collection of pure POSIX sh alternatives to external processes.)
+                https://github.com/jlevy/the-art-of-command-line (Master the command line, in one page)
+                https://github.com/learnbyexample/Command-line-text-processing (⚡ From finding text to search and replace, from sorting to beautifying text and more 🎨 )
+                https://github.com/onceupon/Bash-Oneliner (A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.)
+                https://github.com/phiresky/ripgrep-all/wiki/fzf-Integration (You can use rga interactively via fzf.)
+                https://github.com/pirate/bash-utils (A collection of hand-crafted bash scripts for various common tasks.)
+                https://github.com/pyenv/pyenv/wiki/MacOS-login-shell (Configure the terminal to run your shell as a login shell)
+                https://jvns.ca/blog/2025/01/11/getting-a-modern-terminal-setup (What's involved in getting a "modern" terminal setup?)
+                https://linuxcommandlibrary.com/basic/oneliners.html (One-liners)
+                https://miro.medium.com/v2/resize:fit:1400/format:webp/1*VTVc8B7HNyu1AIBII2Ls6g.png (sed cheatsheet)
+                https://mywiki.wooledge.org/BashFAQ/105 (Why doesn't set -e (or set -o errexit, or trap ERR) do what I expected?)
+                https://mywiki.wooledge.org/BashPitfalls (This page is a compilation of common mistakes made by bash users. )
+                https://pragmaticpineapple.com/four-useful-fzf-tricks-for-your-terminal (4 Useful fzf Tricks for Your Terminal)
                 https://rhodesmill.org/brandon/2009/commands-with-comma (Start all of your commands with a comma)
                 https://sharats.me/posts/shell-script-best-practices (Shell Script Best Practices)
                 https://stackoverflow.com/questions/4922943/test-if-remote-tcp-port-is-open-from-a-shell-script/19866239#19866239 (Test if remote TCP port is open from a bash shell script)
                 https://web.archive.org/web/20090815205011/http://www.cuberick.com/2008/11/update-bash-history-in-realtime.html (Update Bash History in Realtime)
                 https://wiki.bash-hackers.org/scripting/debuggingtips (Debugging a script)
-                https://www.reddit.com/r/usefulscripts/top
-                https://www.shellcheck.net (finds bugs in your shell scripts)
-                https://pinboard.in/u:SharjeelSayed/t:bash
 
             Tools:
                 https://altbox.dev (A collection of power tools for the Linux/Unix/macOS command line)
+                https://explainshell.com (write down a command-line to see the help text that matches each argument)
+                https://gist.github.com/steinwaywhw/a4cd19cda655b8249d908261a62687f8 (One Liner to Download the Latest Release from Github Repo)
                 https://github.com/atuinsh/atuin (https://atuin.sh ✨ Magical shell history)
                 https://github.com/BurntSushi/ripgrep (ripgrep recursively searches directories for a regex pattern while respecting your gitignore )
                 https://github.com/cantino/mcfly (Fly through your shell history. Great Scott!)
+                https://github.com/cheat/cheat (cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not frequently enough to remember.)
+                https://github.com/ChrisBuilds/terminaltexteffects (https://chrisbuilds.github.io/terminaltexteffects Visual effects applied to text in the terminal.)
                 https://github.com/ellie/atuin (🐢 Magical shell history)
                 https://github.com/ghostty-org/ghostty (https://ghostty.org 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.)
+                https://github.com/gleitz/howdoi (https://blog.gleitzman.com/post/43330157197/howdoi-instant-coding-answers-via-the-command instant coding answers via the command line)
                 https://github.com/jarun/nnn (n³ The unorthodox terminal file manager)
                 https://github.com/junegunn/fzf (https://junegunn.github.io/fzf A command-line fuzzy finder)
                 https://github.com/kaplanelad/shellfirm (Intercept any risky patterns (default or defined by you) and prompt you a small challenge for double verification)
@@ -1097,6 +1097,7 @@ Contents:
                 https://github.com/yassinebenaid/bunster (https://bunster.netlify.app Compile shell scripts to native executable programs)
                 https://justine.lol/cosmo3 (Platform-agnostic bash executable)
                 https://ugrep.com (a more powerful, ultra fast, user-friendly, compatible grep)
+                https://www.shellcheck.net (finds bugs in your shell scripts)
 
             Books and Courses:
                 ABS Guide
