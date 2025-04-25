@@ -2121,7 +2121,6 @@ Contents:
                 https://github.com/topics/git?o=desc&s=stars
                 https://github.com/toptal/gitignore.io (Create useful .gitignore files for your project )
                 https://graphite.dev/blog/why-ban-merge-commits (Why large companies and fast-moving startups are banning merge commits)
-                https://grep.app (Search across a half million git repos)
                 https://jvns.ca/blog/2024/02/16/popular-git-config-options (Popular Git config options by Julia Evans)
                 https://news.ycombinator.com/item?id=21189256 (99% of the Git commands you'll need at work, demonstrated in a single script (bitbucket.org))
                 https://news.ycombinator.com/item?id=39400352 (Popular Git config options (jvns.ca))
@@ -2156,6 +2155,7 @@ Contents:
                 https://jwiegley.github.io/git-from-the-bottom-up/1-Repository/7-branching-and-the-power-of-rebase.html (Best explanation of rebase vs merge)
                 https://ohshitgit.com (Bad situations I've gotten myself into, and how I eventually got myself out of them in plain english.)
                 https://techtldr.com/19-git-tips-for-everyday-use (19 Git Tips For Everyday Use)
+                https://www.emoses.org/posts/keeping-work-separate (Separating work and personal config)
                 https://www.shortcutfoo.com/app/dojos/git (Choose shortcuts to practice)
                 https://youtu.be/1ffBJ4sVUb4 ([Linux.conf.au 2013] - Git For Ages 4 And Up)
                 https://youtu.be/2sjqTHE0zok (Lecture 6: Version Control (git) (2020) by Missing Semester)
@@ -2182,6 +2182,7 @@ Contents:
                 https://github.com/mrgoonie/cmai (A quick CLI command to generate commit message using AI and push to origin )
                 https://github.com/o2sh/onefetch (https://onefetch.dev Command-line Git information tool)
                 https://github.com/tpope/vim-fugitive (fugitive.vim: A Git wrapper so awesome, it should be illegal https://www.vim.org/scripts/script.php?script_id=2975)
+                https://grep.app (Search across a half million git repos)
                 https://www.sourcetreeapp.com (A free Git client for Windows and Mac)
                 https://www.sublimemerge.com (Git Client, done Sublime)
 
@@ -2463,6 +2464,7 @@ Contents:
 
             Tutorials:
                 https://danielmiessler.com/blog/build-successful-infosec-career (How to Build a Cybersecurity Career [ 2019 Update ])
+                https://gist.github.com/mubix/5737a066c8845d25721ec4bf3139fd31 (https://room362.com/start Start in Infosec)
                 https://github.com/0xsyr0/Awesome-Cybersecurity-Handbooks (A huge chunk of my personal notes since I started playing CTFs and working as a Red Teamer.)
                 https://github.com/farhanashrafdev/90DaysOfCyberSecurity (This repository contains a 90-day cybersecurity study plan, along with resources and materials for learning various cybersecurity concepts and technologies. The plan is organized into daily tasks, covering topics such as Network+, Security+, Linux, Python, Traffic Analysis, Git, ELK, AWS, Azure, and Hacking. The repository also includes a `LEARN.md )
                 https://github.com/gracenolan/Notes (Security Engineering at Google: My Interview Study Notes)
@@ -2475,7 +2477,6 @@ Contents:
                 https://jhalon.github.io/becoming-a-pentester (So You Want To Be a Pentester? (Updated 2023))
                 https://krebsonsecurity.com/2020/07/thinking-of-a-cybersecurity-career-read-this (Thinking of a Cybersecurity Career? Read This)
                 https://kubernetes.io/docs/concepts/security/security-checklist (Kubernetes Security Checklist)
-                https://room362.com/start (https://gist.github.com/mubix/5737a066c8845d25721ec4bf3139fd31 Start in Infosec)
                 https://security.stackexchange.com/questions/46666/at-what-length-does-a-password-stop-making-sense (At what length does a password stop making sense?)
                 https://sgtdede.gitbook.io/hacking/oscp-2022/guide-en (OSCP guide 2022)
                 https://softwareanalyst.substack.com/p/the-beginners-guide-to-cybersecurity (The Beginner's Guide to Cybersecurity)
@@ -4841,7 +4842,7 @@ Contents:
                         https://www.reddit.com/r/dataisbeautiful/comments/18fvw7v/oc_top_50_subreddits_with_the_most_new_posts_per ([OC] Top 50 subreddits with the most new posts per day and most comments per post (December 2023))
 
                     Subscriptions:
-                        https://www.reddit.com/r/ABCDesis+AWSCertifications+Android+AppHookup+AppleWatch+AskHistorians+Cartier+DataHoarder+Documentaries+ExperiencedDevs+Flights+GalaxyS24Ultra+IndiaInvestments+Louisvuitton+ManyBaggers+Piracy+Terraform+TheHermesGame+Ubuntu+Watches+androidapps+announcements+ansible+apple+appletv+askscience+audemarspiguet+aws+bangalore+beta+books+booksuggestions+compsci+cybersecurity+dataisbeautiful+developersIndia+devops+diabetes+digitalnomad+docker+dubai+fragrance+geopolitics+history+hyderabad+india+ipad+iphone+jewelry+kubernetes+learnprogramming+linux+linuxadmin+mac+macapps+malefashionadvice+movies+mumbai+netsec+networking+onebag+osx+patekphilippe+programming+qatar+rolex+samsung+science+solotravel+suggestmeabook+technews+technology+television+todayilearned+travel+usefulscripts+watchesindia+webdev+worldnews
+                        https://www.reddit.com/r/ABCDesis+AWSCertifications+Android+AppHookup+AppleWatch+AskHistorians+Cartier+DataHoarder+Documentaries+ExperiencedDevs+Flights+GalaxyS24Ultra+IndiaInvestments+Louisvuitton+ManyBaggers+Piracy+Terraform+TheHermesGame+Ubuntu+Watches+androidapps+announcements+ansible+apple+appletv+askscience+audemarspiguet+aws+bangalore+beta+books+booksuggestions+compsci+cybersecurity+dataisbeautiful+delhi+developersIndia+devops+diabetes+digitalnomad+docker+dubai+fragrance+geopolitics+history+hyderabad+india+ipad+iphone+jewelry+kubernetes+learnprogramming+linux+linuxadmin+mac+macapps+malefashionadvice+movies+mumbai+netsec+networking+onebag+osx+patekphilippe+programming+qatar+rolex+samsung+science+solotravel+suggestmeabook+technews+technology+television+todayilearned+travel+usefulscripts+watchesindia+webdev+worldnews
 
                 Hacker News:
                     https://apps.apple.com/us/app/hack-for-hacker-news-developer/id1464477788
@@ -5573,6 +5574,7 @@ Contents:
         https://github.com/sherlock-project/sherlock (🔎 Hunt down social media accounts by username across social networks https://sherlock-project.github.io)
         https://github.com/topics/awesome (Awesome Lists)
         https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday (Awesome deals on Black Friday: Apps, SaaS, Books, Courses, etc.)
+        https://github.com/VERT-sh/VERT (https://vert.sh The next-generation file converter. Open source, fully local* and free forever. )
         https://github.com/vslavik/diff-pdf (A simple tool for visually comparing two PDF files https://vslavik.github.io/diff-pdf)
         https://github.com/zed-industries/zed (https://zed.dev Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter)
         https://hackerspaces.org (Hackerspaces are community-operated physical places, where people share their interest in tinkering with technology, meet and work on their projects, and learn from each other)
@@ -5603,6 +5605,7 @@ Contents:
         https://www.construction-physics.com/p/why-is-it-so-hard-to-build-an-airport (Why Is It So Hard to Build an Airport?)
         https://www.domestika.org (Best online courses for creatives)
         https://www.kantar.com/north-america/company-news/louis-vuitton-reigns-as-the-worlds-most-valuable-luxury-brand-for-the-18th-year (Top 10 Most Valuable Global Luxury Brands 2023)
+        https://www.lifeisshort.fyi/calendar (A life calendar to remind us how much time we have left to live — Turns your lifespan into a calendar of weeks so you actually feel time passing.)
         https://www.looria.com/reddit/BuyItForLife/brand-popularity (The most popular brands on r/BuyItForLife)
         https://www.nala.ie/resources/better-handwriting-adults
         https://www.oldmapsonline.org/en/history (Interactive Map of History)
@@ -5623,7 +5626,6 @@ Contents:
         https://www.thisiswhyimbroke.com (ThisIsWhyImBroke is where you'll find cool gift ideas, unique products, and awesome birthday and Christmas gift ideas.)
         https://www.vox.com/science-and-health/2019/8/23/20828597/the-10000-hour-rule-debunked (The “10,000-hour rule” was debunked again. That’s a relief.)
         https://youglish.com (Use YouTube to improve your English pronunciation. With more than 100M tracks, YouGlish gives you fast, unbiased answers about how English is spoken by real people and in context.)
-        https://github.com/VERT-sh/VERT (https://vert.sh The next-generation file converter. Open source, fully local* and free forever. )
 
     Support this project with these referral links:
         https://m.do.co/c/d3160b5e33e8 (DigitalOcean Credits)
