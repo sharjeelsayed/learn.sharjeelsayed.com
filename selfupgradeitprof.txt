@@ -3260,6 +3260,7 @@ Contents:
                 https://github.com/punkpeye/awesome-mcp-servers (https://glama.ai/mcp/servers A collection of MCP servers)
                 https://github.com/Shubhamsaboo/awesome-llm-apps ( https://www.theunwindai.com Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.)
                 https://github.com/simonw/llm (https://llm.datasette.io/en/stable Access large language models from the command-line )
+                https://github.com/skypilot-org/skypilot (https://docs.skypilot.co SkyPilot: Run AI and batch jobs on any infra (Kubernetes or 16+ clouds). Get unified execution, cost savings, and high GPU availability via a simple interface. )
                 https://github.com/taranjeet/awesome-gpts (Collection of all the GPTs created by the community)
                 https://github.com/tencent/Hunyuan3D-2 (High-Resolution 3D Assets Generation with Large Scale Hunyuan3D Diffusion Models.)
                 https://github.com/The-Pocket/Tutorial-Codebase-Knowledge (https://the-pocket.github.io/Tutorial-Codebase-Knowledge Turns Codebase into Easy Tutorial with AI )
@@ -3619,7 +3620,6 @@ Contents:
                 https://github.com/ikatyang/emoji-cheat-sheet
                 https://github.com/kautukkundan/Awesome-Profile-README-templates
                 https://github.com/rahuldkjain/github-profile-readme-generator (🚀 Generate GitHub profile README easily with the latest add-ons like visitors count,GitHub stats, etc using minimal UI.)
-                https://github.com/scastiel/github-business-card (GitHub Business Card)
                 https://github.com/topics/github-profile-readme?o=desc&s=stars
                 https://github.com/topics/github-readme?o=desc&s=stars
                 https://linktr.ee (304)
@@ -4671,15 +4671,16 @@ Contents:
                 RSS:
                     Sources:
                         https://burkybang.com/reddit_rss (Reddit has a limit to how often RSS feeds can be fetched. This breaks that limit!)
+                        https://github.com/AboutRSS/ALL-about-RSS (A list of RSS related stuff: tools, services, communities and tutorials, etc. )
                         https://github.com/DIYgod/RSSHub (🍰 Everything is RSSible)
                         https://github.com/iliane5/meridian (Meridian cuts through news noise by scraping hundreds of sources, analyzing stories with AI, and delivering concise, personalized daily briefs. )
+                        https://github.com/mratmeyer/rsslookup (https://www.rsslookup.com A free, open-source tool to find RSS feeds on any URL)
                         https://github.com/mshibanami/GitHubTrendingRSS (Unofficial RSS feed generator for GitHub Trending)
                         https://github.com/osmoscraft/osmosfeed (A web-based RSS reader running entirely from your GitHub repo.)
                         https://github.com/topics/rss?o=desc&s=stars
                         https://news.ycombinator.com/item?id=23583629 (RSS Box – RSS for websites that do not support RSS (rssbox.herokuapp.com))
                         https://news.ycombinator.com/item?id=24658424 (Ask HN: What RSS Reader do you use?)
                         https://www.to-rss.xyz
-                        https://github.com/AboutRSS/ALL-about-RSS (A list of RSS related stuff: tools, services, communities and tutorials, etc. )
 
                     Import Opml.SharjeelSayed.com , into an RSS reader like Inoreader.com or Reederapp.com
 
@@ -5604,6 +5605,7 @@ Contents:
         https://www.amazon.com/Best-Sellers-Health-Household-Power-Toothbrushes/zgbs/hpc/18065347011 (Best Sellers in Power Toothbrushes)
         https://www.construction-physics.com/p/why-is-it-so-hard-to-build-an-airport (Why Is It So Hard to Build an Airport?)
         https://www.domestika.org (Best online courses for creatives)
+        https://www.isthistechdead.com (Tracking the pulse of tech that flatlined years ago)
         https://www.kantar.com/north-america/company-news/louis-vuitton-reigns-as-the-worlds-most-valuable-luxury-brand-for-the-18th-year (Top 10 Most Valuable Global Luxury Brands 2023)
         https://www.lifeisshort.fyi/calendar (A life calendar to remind us how much time we have left to live — Turns your lifespan into a calendar of weeks so you actually feel time passing.)
         https://www.looria.com/reddit/BuyItForLife/brand-popularity (The most popular brands on r/BuyItForLife)
