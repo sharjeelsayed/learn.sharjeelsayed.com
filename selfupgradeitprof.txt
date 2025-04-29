@@ -2861,6 +2861,7 @@ Contents:
         SQL:
             Sources:
                 https://codapi.org/sql (SQL Polyglot is a quick way to see if a particular SQL feature is supported in different database systems. Write a query and see it run anywhere from PostgreSQL to DuckDB without leaving your browser.)
+                https://github.com/drawdb-io/drawdb (https://www.drawdb.app Free, simple, and intuitive online database diagram editor and SQL generator. )
                 https://github.com/whoiskatrin/sql-translator (SQL Translator is a tool for converting natural language queries into SQL code using artificial intelligence. This project is 100% free and open source.)
                 https://gvwilson.github.io/sql-tutorial (SQL for data scientists in 100 queries)
                 https://news.ycombinator.com/item?id=23070491 (Here are some other SQL Learning resources I have collected in my note taking Wiki (mostly from HN itself))
@@ -3253,6 +3254,7 @@ Contents:
                 https://github.com/Hannibal046/Awesome-LLM (Awesome-LLM: a curated list of Large Language Model)
                 https://github.com/humanloop/awesome-chatgpt (Curated list of awesome tools, demos, docs for ChatGPT and GPT-3 )
                 https://github.com/langgenius/dify (https://dify.ai Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production. )
+                https://github.com/lobehub/lobe-chat (https://chat-preview.lobehub.com/chat 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / DeepSeek / Qwen), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Plugins/Artifacts) and Thinking. One-click FREE deployment of your private ChatGPT/ Claude / DeepSeek application. )
                 https://github.com/Mintplex-Labs/anything-llm (https://anythingllm.com The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more.)
                 https://github.com/n8n-io/self-hosted-ai-starter-kit (https://n8n.io The Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environment. Curated by n8n, it provides essential tools for creating secure, self-hosted AI workflows. )
                 https://github.com/netease-youdao/QAnything (https://qanything.ai Question and Answer based on Anything.)
