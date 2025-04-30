@@ -1415,6 +1415,7 @@ Contents:
                 https://github.com/kubeshark/kubeshark (The API traffic viewer for Kubernetes providing deep visibility into all API traffic and payloads going in, out and across containers and pods inside a Kubernetes cluster. Think TCPDump and Wireshark re-invented for Kubernetes)
                 https://github.com/nevalla/lens-resource-map-extension (Lens - The Kubernetes IDE extension that displays Kubernetes resources and their relations as a force graph.)
                 https://github.com/paralus/paralus (https://www.paralus.io All-in-one Kubernetes access manager. User-level credentials, RBAC, SSO, audit logs.)
+                https://github.com/philippemerle/KubeDiagrams (Generate Kubernetes architecture diagrams from Kubernetes manifest files, kustomization files, Helm charts, and actual cluster state )
                 https://github.com/salesforce/sloop (Kubernetes History Visualization)
                 https://github.com/stern/stern (⎈ Multi pod and container log tailing for Kubernetes)
                 https://github.com/vilaca/awesome-k8s-tools (List of k8s/container/devops tools.)
@@ -2161,6 +2162,7 @@ Contents:
                 https://youtu.be/2sjqTHE0zok (Lecture 6: Version Control (git) (2020) by Missing Semester)
 
             Git Tools:
+                https://deepwiki.com (Which repo would you like to understand?)
                 https://github.com/acaudwell/Gource (https://gource.io software version control visualization)
                 https://github.com/ahmedkhaleel2004/gitdiagram (https://gitdiagram.com Free, simple, fast interactive diagrams for any GitHub repository)
                 https://github.com/altsem/gitu (A TUI Git client inspired by Magit)
@@ -2373,7 +2375,6 @@ Contents:
             Sources:
                 https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html-single/using_selinux (Using SELinux)
                 https://allinfosecnews.com (Aggregates all of the top news, podcasts and more about Cyber Security, InfoSec, Cryptography, Online Privacy, Hacking, Vulnerability and Threat Research into one place.)
-                https://aws.amazon.com/training/digital/aws-security-fundamentals (AWS Security Fundamentals (Second Edition))
                 https://aws.github.io/aws-security-services-best-practices (AWS Security Services Best Practices)
                 https://blog.cloudflare.com/ddos-threat-report-for-2024-q4 (Record-breaking 5.6 Tbps DDoS attack and global DDoS trends for 2024 Q4)
                 https://cheatsheetseries.owasp.org (The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.)
@@ -2454,15 +2455,16 @@ Contents:
                 https://www.cisa.gov/sites/default/files/publications/Federal_Government_Cybersecurity_Incident_and_Vulnerability_Response_Playbooks_508C.pdf (CISA Cybersecurity Incident and Vulnerability Response Playbooks)
                 https://www.cisecurity.org/benchmark/amazon_web_services (A step-by-step checklist to secure Amazon Web Services)
                 https://www.cisecurity.org/cis-benchmarks (CIS Benchmarks List)
+                https://www.hivesystems.com/blog/are-your-passwords-in-the-green (Time it takes for a hacker to brute force your password in 2025)
                 https://www.nsa.gov/Podcast (“NSA is known as home to the world’s greatest codemakers and codebreakers—their stories are now being decoded.)
                 https://www.open-scap.org (Discover a wide array of tools for managing system security and standards compliance)
-                https://www.reddit.com/r/dataisbeautiful/comments/1cb48y6/oc_i_updated_our_password_table_for_2024_with/#lightbox (Time it takes a hacker to brute force your password in 2024)
                 https://www.reddit.com/r/netsec+privacy+SocialEngineering+onions+ReverseEngineering+crypto+blackhat+security+Malware+pwned+netsecstudents+computerforensics+HackBloc+securityCTF+xss+vrd+rootkit+REMath
                 https://www.reddit.com/r/netsecstudents/top/?sort=top&t=all
                 ttps://ishaqmohammed.me/posts/application-security-knowledgebase (Application Security Knowledgebase)
                 https://pinboard.in/u:SharjeelSayed/t:security
 
             Tutorials:
+                https://aws.amazon.com/training/learn-about/security (Get started on security training with content built by AWS experts)
                 https://danielmiessler.com/blog/build-successful-infosec-career (How to Build a Cybersecurity Career [ 2019 Update ])
                 https://gist.github.com/mubix/5737a066c8845d25721ec4bf3139fd31 (https://room362.com/start Start in Infosec)
                 https://github.com/0xsyr0/Awesome-Cybersecurity-Handbooks (A huge chunk of my personal notes since I started playing CTFs and working as a Red Teamer.)
@@ -3240,6 +3242,7 @@ Contents:
                 https://www.reddit.com/r/LocalLLaMA (Subreddit to discuss about Llama, the large language model created by Meta AI.)
 
             Tools:
+                https://deepwiki.com (Which repo would you like to understand?)
                 https://github.com/ai-boost/Awesome-GPTs (Curated list of awesome GPTs 👍.)
                 https://github.com/ai-collection/ai-collection ( The Generative AI Landscape - A List of Awesome Generative AI Applications Topics)
                 https://github.com/All-Hands-AI/OpenHands (https://www.all-hands.dev 🙌 OpenHands: Code Less, Make More )
