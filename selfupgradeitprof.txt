@@ -2166,6 +2166,7 @@ Contents:
                 https://github.com/acaudwell/Gource (https://gource.io software version control visualization)
                 https://github.com/ahmedkhaleel2004/gitdiagram (https://gitdiagram.com Free, simple, fast interactive diagrams for any GitHub repository)
                 https://github.com/altsem/gitu (A TUI Git client inspired by Magit)
+                https://github.com/AsyncFuncAI/deepwiki-open (Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab Repositories)
                 https://github.com/bigH/git-fuzzy (interactive `git` with the help of `fzf`)
                 https://github.com/dandavison/delta (A viewer for git and diff output)
                 https://github.com/earwig/git-repo-updater (A console script that allows you to easily update multiple git repositories at once)
@@ -3246,6 +3247,7 @@ Contents:
                 https://github.com/ai-boost/Awesome-GPTs (Curated list of awesome GPTs 👍.)
                 https://github.com/ai-collection/ai-collection ( The Generative AI Landscape - A List of Awesome Generative AI Applications Topics)
                 https://github.com/All-Hands-AI/OpenHands (https://www.all-hands.dev 🙌 OpenHands: Code Less, Make More )
+                https://github.com/AsyncFuncAI/deepwiki-open (Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab Repositories)
                 https://github.com/bodo-run/yek (A fast tool to read text-based files in a repository or directory, chunk them, and serialize them for LLM consumption. )
                 https://github.com/browser-use/browser-use ( https://browser-use.com Make websites accessible for AI agents)
                 https://github.com/cline/cline (https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.)
@@ -4120,6 +4122,7 @@ Contents:
             Sources:
                 http://ebin.city/~werwolf/posts/firefox-hardening-guide
                 https://browser.engineering (This book explains, building a basic but complete web browser, from networking to JavaScript, in a thousand lines of Python.)
+                https://github.com/linkwarden/linkwarden (https://linkwarden.app ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and documents.)
                 https://github.com/topics/bookmark-manager?o=desc&s=stars (Bookmark Manager)
                 https://news.ycombinator.com/item?id=22105561 (Ask HN: How do you manage your bookmarks?)
                 https://news.ycombinator.com/item?id=22778123 (Ask HN: What do you use to keep track of bookmarks/notes/snippets?)
