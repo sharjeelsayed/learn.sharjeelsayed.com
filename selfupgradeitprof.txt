@@ -1402,6 +1402,7 @@ Contents:
                 https://github.com/eraser-dev/eraser (https://eraser-dev.github.io/eraser 🧹 Cleaning up images from Kubernetes nodes)
                 https://github.com/fluxcd/flux2-kustomize-helm-example (A GitOps workflow example for multi-env deployments with Flux, Kustomize and Helm.)
                 https://github.com/freelensapp/freelens (https://freelensapp.github.io Free IDE for Kubernetes)
+                https://github.com/GoogleCloudPlatform/kubectl-ai (AI powered Kubernetes Assistant)
                 https://github.com/groundcover-com/caretta (Instant K8s service dependency map, right to your Grafana.)
                 https://github.com/ishantanu/awesome-kubectl-plugins (Curated list of kubectl plugins)
                 https://github.com/johanhaleby/kubetail (Bash script to tail Kubernetes logs from multiple pods at the same time)
@@ -3256,6 +3257,7 @@ Contents:
                 https://github.com/deepseek-ai/awesome-deepseek-integration (Integrate the DeepSeek API into popular softwares.)
                 https://github.com/eugeneyan/open-llms (🤖 A list of open LLMs available for commercial use.)
                 https://github.com/f/awesome-chatgpt-prompts (https://prompts.chat This repo includes ChatGPT prompt curation to use ChatGPT better.)
+                https://github.com/GoogleCloudPlatform/kubectl-ai (AI powered Kubernetes Assistant)
                 https://github.com/Hannibal046/Awesome-LLM (Awesome-LLM: a curated list of Large Language Model)
                 https://github.com/humanloop/awesome-chatgpt (Curated list of awesome tools, demos, docs for ChatGPT and GPT-3 )
                 https://github.com/langgenius/dify (https://dify.ai Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production. )
@@ -5427,8 +5429,6 @@ Contents:
                     https://en.wikipedia.org/wiki/SAE_904L_stainless_steel (SAE 904L stainless steel)
                     https://quillandpad.com/2024/02/13/rolex-case-study-how-many-watches-and-how-much-money-does-rolex-make-2 (Rolex Case Study: How Many Watches and How Much Money Does Rolex Make?)
                     https://www.instagram.com/reel/DHYixnSOy64/?igsh=aTJpMW1oa2Rydjli (Top 10 Rolex Watches with the highest ROI by captiv_timepiece)
-                    https://www.reddit.com/r/rolex/comments/1gf0wsz/i_also_work_at_a_rolex_ad_ama (I also work at a Rolex AD. AMA )
-                    https://www.reddit.com/r/rolex/comments/1it8lmf/ama (I work for a AD in a large city in the south. AMA)
                     https://xj5wpvbg6op.typeform.com/rolex-waitlist (Rolex Waitlist Calculator)
                     https://youtu.be/QF_1fGrIxhI?si=q7hL1bKDUYiQmQqY (The Rolex Waitlist Explained (Wait Times Included) by Luxury Bazaar)
                     https://youtu.be/Yd8BZxnFc_4?si=NPRBf1cbmxTf9S04 (Rolex Oyster Perpetual Buyers Guide - Ranked Worst To Best by Watchtrader & Co)
@@ -5503,6 +5503,9 @@ Contents:
                     https://www.manualpdf.in/casio/g-shock-gw-9400-1/manuals (Casio G-Shock GW-9400-1 manual)
                     https://youtu.be/3BotLQShy-0?si=9g9jSdcNJKwCRHBH (Casio GW 9400 Rangeman 3410 - review & detailed tutorial on how to set up and use all the functions by Watch Geek)
                     https://youtu.be/xu8d56KgScI?si=D9gGf1ZzQgBDZtmn (Gshock GW-9400 Rangeman - Watch Setting Tutorial by TT Watches)
+
+            Longines:
+                https://www.longines.com/en-in/p/watch-longines-dolcevita-l5-255-4-71-6 (Longines Dolcevita)
 
         Fashion:
             Soruces:
