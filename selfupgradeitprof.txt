@@ -2185,6 +2185,7 @@ Contents:
                 https://github.com/martinvonz/jj (A Git-compatible DVCS that is both simple and powerful)
                 https://github.com/mrgoonie/cmai (A quick CLI command to generate commit message using AI and push to origin )
                 https://github.com/o2sh/onefetch (https://onefetch.dev Command-line Git information tool)
+                https://github.com/ossf/allstar (GitHub App to set and enforce security policies)
                 https://github.com/tpope/vim-fugitive (fugitive.vim: A Git wrapper so awesome, it should be illegal https://www.vim.org/scripts/script.php?script_id=2975)
                 https://grep.app (Search across a half million git repos)
                 https://www.sourcetreeapp.com (A free Git client for Windows and Mac)
@@ -5377,6 +5378,7 @@ Contents:
             Sources:
                 https://ciechanow.ski/mechanical-watch (Mechanical Watch)
                 https://en.wikipedia.org/wiki/Astron_(wristwatch) (World's first "quartz clock")
+                https://en.wikipedia.org/wiki/Bulova#The_Apollo_15_watch  (The only privately owned watch to have been worn on the lunar surface.)
                 https://en.wikipedia.org/wiki/Chronograph (Chronograph)
                 https://en.wikipedia.org/wiki/Coaxial_escapement (Coaxial escapement)
                 https://en.wikipedia.org/wiki/COSC (Contrôle officiel suisse des Chronomètres (COSC))
@@ -5398,6 +5400,7 @@ Contents:
                 https://watchanalytics.io/en-eur/watches?ordering=-views (Most Popular watches by watchanalytics.io) )
                 https://watchcharts.com/market/above_retail (Watches That Trade Above Retail)
                 https://watchcharts.com/screener (Watch Screener: Find watches based on specifications and market performance.)
+                https://wornandwound.com/military-watches-world-11-watch-won-war (Bulova A-11, the Watch That Won World War 2)
                 https://www.amazon.com/Best-Sellers-Clothing-Shoes-Jewelry-Mens-Watches/zgbs/fashion/6358539011 (Best Sellers in Men's Watches)
                 https://www.amazon.com/gp/bestsellers/fashion/378531011 (Best Sellers in Watch Repair Tools & Kits)
                 https://www.amazon.com/Plastic-Crystal-Scratch-Remover-Polish/dp/B00E3T237C (Polywatch Plastic Crystal Scratch Remover)
