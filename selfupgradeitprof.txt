@@ -1736,6 +1736,7 @@ Contents:
                     https://www.freecram.net/vendor/Amazon.html (Free Amazon Certifications Exam Questions)
                     https://www.reddit.com/r/AWSCertifications/comments/1d5kkuw/aws_certified_solutions_architect_associate (AWS Certified Solutions Architect Associate (SAA-C03) Resources)
                     https://www.reddit.com/r/AWSCertifications/comments/1hlhj0k/2025_aws_vouchers_exam_discounts_coupons_other (2025 : AWS Vouchers / Exam Discounts / Coupons / Other Certification related promotions )
+                    https://www.reddit.com/r/AWSCertifications/comments/1kkp854/saa_c03_tips_and_cheat_sheets_my_experience (SAA - C03 Tips and Cheat Sheets ( My Experience ))
                     https://www.reddit.com/r/AWSCertifications/comments/pcj2nk/free_learning_resources_needed_for_aws_solutions/haje9xi (Free Learning Resources needed for "AWS Solutions Architect Associate" exam)
                     https://www.reddit.com/r/AWSCertifications/comments/uqnn53/ive_heard_the_recommendation_here_to_go_saa_sap/i8sbnj5 (If you REALLY want to get devops with minimal study you should do Dev Asso -> Sysops Asso. -> Devops Pro)
                     https://www.reddit.com/r/AWSCertifications/search/?q=course&restrict_sr=on&t=year (This subreddit focuses solely on AWS Certifications.)
@@ -3331,6 +3332,7 @@ Contents:
                 https://github.com/coteditor/CotEditor (https://coteditor.com CotEditor is a lightweight, open-source text editor for macOS.)
                 https://github.com/daytonaio/daytona (The Open Source Dev Environment Manager. https://www.daytona.io)
                 https://github.com/topics/editor (public repositories matching this topic editor)
+                https://news.ycombinator.com/item?id=43959710 (Ask HN: Cursor or Windsurf?)
                 https://sourcegraph.com/cody (Cody is a coding AI assistant that uses AI and a deep understanding of your codebase to help you write and understand code faster.)
                 https://www.codingfont.com (Gamified experience to help you find your true love of coding fonts!)
 
@@ -4544,14 +4546,16 @@ Contents:
 
         Science:
             Sources:
-                https://bookauthority.org/books/best-science-books
+                https://bookauthority.org/books/best-science-books (The Best Science Books of All Time)
                 https://docs.google.com/spreadsheets/d/17gv8uAydcInAeflJp5FrzpfmuUhOcyhBcutaZwVMans (Science communication Youtube channels)
                 https://en.wikipedia.org/wiki/Abiogenesis (Abiogenesis Origin of life)
                 https://en.wikipedia.org/wiki/Best_science_book_ever (Best science book ever)
+                https://en.wikipedia.org/wiki/Big_History (Big History is an academic discipline that examines history from the Big Bang to the present.)
                 https://en.wikipedia.org/wiki/List_of_common_misconceptions (Wikipedia: List of common misconceptions)
                 https://en.wikipedia.org/wiki/List_of_science_magazines (List of science magazines)
                 https://en.wikipedia.org/wiki/Lists_of_important_publications_in_science
                 https://en.wikipedia.org/wiki/Timeline_of_the_evolutionary_history_of_life (Timeline of the evolutionary history of life)
+                https://en.wikipedia.org/wiki/Timeline_of_the_far_future (Timeline of the far future)
                 https://en.wikipedia.org/wiki/Yakov_Perelman (Yakov Perelman)
                 https://hn.algolia.com/?query=documentaries&sort=byPopularity&prefix&page=0&dateRange=all&type=story (HN Documentaries)
                 https://news.ycombinator.com/item?id=17272715 (Ask HN: Any resources to learn the fundamentals of critical thinking?)
@@ -4568,6 +4572,7 @@ Contents:
                 https://www.susanrigetti.com/physics (So You Want to Learn Physics…SECOND EDITION by Susan J. Rigetti)
                 https://www.theguardian.com/books/booksblog/2017/jul/20/dawkins-sees-off-darwin-in-vote-for-most-influential-science-book
                 https://www.youtube.com/@xkcd_whatif (What If? The Video Series is the official adaptation of the 'What If?' books by Randall Munroe (xkcd.com))
+                https://youtu.be/uD4izuDMUQA?si=ZN_j_0gaTsqW9z6Q (IMELAPSE OF THE FUTURE: A Journey to the End of Time (4K) by melodysheep)
                 https://youtu.be/Vitf8YaVXhc?si=t09mS5NV7Egq9J5P (I never understood why you can't go faster than light - until now! by FloatHeadPhysics)
 
             Books and Courses:
@@ -5429,13 +5434,12 @@ Contents:
             Rolex:
                 Sources:
                     How To Adjust The Easy Link Clasp On Your Rolex Datejust https://Youtu.Be/Wklaunj8e84?Si=Eshm_Enanxcwve4i https://Youtu.Be/Y_Gvrragyne?Si=Kon82ftgsqbueuxt
-                    Https://En.Wikipedia.Org/Wiki/Sae_904l_Stainless_Steel (Sae 904l Stainless Steel)
-                    Https://Quillandpad.Com/2024/02/13/Rolex-Case-Study-How-Many-Watches-And-How-Much-Money-Does-Rolex-Make-2 (Rolex Case Study: How Many Watches And How Much Money Does Rolex Make?)
-                    Https://Www.Instagram.Com/Reel/Dhyixnsoy64/?Igsh=Atjpmw1oa2rydjli (Top 10 Rolex Watches With The Highest Roi By Captiv_Timepiece)
-                    Https://Xj5wpvbg6op.Typeform.Com/Rolex-Waitlist (Rolex Waitlist Calculator)
-                    Https://Youtu.Be/Qf_1fgrixhi?Si=Q7hl1bkduyiqmqqy (The Rolex Waitlist Explained (Wait Times Included) By Luxury Bazaar)
-                    Https://Youtu.Be/Yd8bzxnfc_4?Si=Nprbf1cbmxtf9s04 (Rolex Oyster Perpetual Buyers Guide - Ranked Worst To Best By Watchtrader & Co)
-                    Https://Www.Rolexmagazine.Com/2009/03/Reinhold-Messner-Rolex-Explorer-Mark-Ii.Html (The Complete History Of The Rolex Explorer Ii)
+                    https://En.Wikipedia.Org/Wiki/Sae_904l_Stainless_Steel (Sae 904l Stainless Steel)
+                    https://Quillandpad.Com/2024/02/13/Rolex-Case-Study-How-Many-Watches-And-How-Much-Money-Does-Rolex-Make-2 (Rolex Case Study: How Many Watches And How Much Money Does Rolex Make?)
+                    https://Xj5wpvbg6op.Typeform.Com/Rolex-Waitlist (Rolex Waitlist Calculator)
+                    https://Youtu.Be/Qf_1fgrixhi?Si=Q7hl1bkduyiqmqqy (The Rolex Waitlist Explained (Wait Times Included) By Luxury Bazaar)
+                    https://Youtu.Be/Yd8bzxnfc_4?Si=Nprbf1cbmxtf9s04 (Rolex Oyster Perpetual Buyers Guide - Ranked Worst To Best By Watchtrader & Co)
+                    https://Www.Rolexmagazine.Com/2009/03/Reinhold-Messner-Rolex-Explorer-Mark-Ii.Html (The Complete History Of The Rolex Explorer Ii)
 
                 Rolex Cosmograph Daytona:
                     https://en.wikipedia.org/wiki/Rolex_Cosmograph_Daytona (Rolex Cosmograph Daytona)
@@ -5466,7 +5470,7 @@ Contents:
 
                 Rolex Explorer:
                     https://en.wikipedia.org/wiki/Rolex#Professional_collections (Rolex Professional collections)
-                    https://watchcharts.com/watch_model/33629-rolex-explorer-124270/overview
+                    https://watchcharts.com/watch_model/33629-rolex-explorer-124270/overview (Rolex Explorer Ref. 124270)
                     https://www.rolex.com/watches/explorer/m124270-0001 (Oyster, 36 mm, Oystersteel Reference 124270)
                     https://www.youtube.com/watch?v=bQESXOm06r8 (How to set your Rolex Explorer by Rolex)
 
