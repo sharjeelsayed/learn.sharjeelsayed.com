@@ -2289,6 +2289,7 @@ Contents:
                 https://github.com/LeCoupa/awesome-cheatsheets/blob/master/tools/vim.txt
                 https://github.com/mhinz/vim-galore (All things Vim!)
                 https://github.com/neovim/neovim (https://neovim.io Vim-fork focused on extensibility and usability )
+                https://github.com/nvim-lua/kickstart.nvim (A launch point for your personal nvim configuration )
                 https://github.com/rockerBOO/awesome-neovim ( Collections of awesome neovim plugins.)
                 https://github.com/topics/vim?o=desc&s=stars
                 https://github.com/topics/vimrc?o=desc&s=stars
@@ -2520,6 +2521,7 @@ Contents:
                 https://github.com/Kyuu-Ji/Awesome-Azure-Pentest (A collection of resources, tools and more for penetration testing and securing Microsofts cloud platform Azure.)
                 https://github.com/Lissy93/web-check (🌐 All-in-one OSINT tool for analysing any website)
                 https://github.com/Manisso/fsociety (fsociety Hacking Tools Pack – A Penetration Testing Framework)
+                https://github.com/pirxthepilot/wtfis (Passive hostname, domain and IP lookup tool for non-robots)
                 https://github.com/prowler-cloud/prowler (https://prowler.pro Prowler is an Open Source Security tool for AWS, Azure and GCP to perform Cloud Security best practices assessments, audits, incident response, compliance, continuous monitoring, hardening and forensics readiness. Includes CIS, NIST 800, NIST CSF, CISA, FedRAMP, PCI-DSS, GDPR, HIPAA, FFIEC, SOC2, GXP, Well-Architected Security, ENS and more.)
                 https://github.com/prowler-cloud/prowler (https://prowler.pro Prowler is an Open Source Security tool for AWS, Azure and GCP to perform Cloud Security best practices assessments, audits, incident response, compliance, continuous monitoring, hardening and forensics readiness. Includes CIS, NIST 800, NIST CSF, CISA, FedRAMP, PCI-DSS, GDPR, HIPAA, FFIEC, SOC2, GXP, Well-Architected Security, ENS and more.)
                 https://github.com/robertdavidgraham/masscan (TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.)
@@ -3061,7 +3063,7 @@ Contents:
         Web Development:
             Sources:
                 https://caddyserver.com (Caddy is a powerful, enterprise-ready, open source web server with automatic HTTPS written in Go https://github.com/caddyserver/caddy)
-                https://digitaldefynd.com/best-free-web-development-courses-tutorials-certification (20 Best Free Web Development Course & Certification [2024 January][UPDATED])
+                https://digitaldefynd.com/best-free-web-development-courses-tutorials-certification (20 Best Free Web Development Course & Certification [MIT| CalTech] [2025 May])
                 https://github.com/abi/screenshot-to-code (https://screenshottocode.com Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue))
                 https://github.com/Ayushparikh-code/Web-dev-mini-projects (The repository contains the list of awesome✨ & cool web development beginner-friendly✌️ projects!)
                 https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer (Free resources for learning Full Stack Web Development)
@@ -3080,8 +3082,9 @@ Contents:
                 https://github.com/topics/webdevelopment?o=desc&s=stars
                 https://github.com/yangshun/front-end-interview-handbook (⚡️ Front End interview preparation materials for busy engineers)
                 https://news.ycombinator.com/item?id=24130286 (Ask HN: Self-taught webdev with lots of free time. What should I learn?)
+                https://plainvanillaweb.com (This is an overview of the major techniques used to make web sites and web applications without making use of build tools or frameworks, with just an editor, a browser, and web standards. )
                 https://rutar.org/writing/how-to-build-a-personal-webpage-from-scratch (How to Build a Personal Webpage from Scratch)
-                https://www.photopea.com
+                https://www.photopea.com (Free Online Photo Editor)
                 https://www.udemy.com/courses/development/web-development/?ratings=4.5&sort=popularity (Udemy Courses rated 4.5 stars and above)
                 https://www.wappalyzer.com (Find out the technology stack of any website.)
                 https://www.youtube.com/c/TraversyMedia
@@ -3250,6 +3253,7 @@ Contents:
                 https://github.com/ai-boost/Awesome-GPTs (Curated list of awesome GPTs 👍.)
                 https://github.com/ai-collection/ai-collection ( The Generative AI Landscape - A List of Awesome Generative AI Applications Topics)
                 https://github.com/All-Hands-AI/OpenHands (https://www.all-hands.dev 🙌 OpenHands: Code Less, Make More )
+                https://github.com/asgeirtj/system_prompts_leaks (system_prompts_leaks)
                 https://github.com/AsyncFuncAI/deepwiki-open (Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab Repositories)
                 https://github.com/bodo-run/yek (A fast tool to read text-based files in a repository or directory, chunk them, and serialize them for LLM consumption. )
                 https://github.com/browser-use/browser-use ( https://browser-use.com Make websites accessible for AI agents)
@@ -3312,7 +3316,7 @@ Contents:
                 https://github.com/DataTalksClub/machine-learning-zoomcamp (Learn ML engineering for free in 4 months! )
                 https://github.com/ethen8181/machine-learning (🌎 machine learning tutorials (mainly in Python3))
                 https://github.com/karpathy/llm.c (LLM training in simple, raw C/CUDA)
-                https://github.com/mlabonne/llm-course (https://mlabonne.github.io/blog Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.)
+                https://github.com/mlabonne/llm-course (https://mlabonne.github.io/blog Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks. )
                 https://github.com/quassnoi/explain-extended-2024 (https://explainextended.com/2023/12/31/happy-new-year-15 GPT in 500 lines of SQL)
                 https://github.com/SkalskiP/courses (This repository is a curated collection of links to various courses and resources about Artificial Intelligence (AI))
                 https://github.com/stas00/ml-engineering (Machine Learning Engineering Online Book https://stasosphere.com/machine-learning)
