@@ -3336,6 +3336,7 @@ Contents:
                 https://github.com/coteditor/CotEditor (https://coteditor.com CotEditor is a lightweight, open-source text editor for macOS.)
                 https://github.com/daytonaio/daytona (The Open Source Dev Environment Manager. https://www.daytona.io)
                 https://github.com/topics/editor (public repositories matching this topic editor)
+                https://github.com/zed-industries/zed (https://zed.dev Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.)
                 https://news.ycombinator.com/item?id=43959710 (Ask HN: Cursor or Windsurf?)
                 https://sourcegraph.com/cody (Cody is a coding AI assistant that uses AI and a deep understanding of your codebase to help you write and understand code faster.)
                 https://www.codingfont.com (Gamified experience to help you find your true love of coding fonts!)
@@ -5511,6 +5512,9 @@ Contents:
 
             Longines:
                 https://www.longines.com/en-in/p/watch-longines-dolcevita-l5-255-4-71-6 (Longines Dolcevita)
+
+            Tudor:
+                    https://www.reddit.com/r/Tudor/comments/14o9a6f/comment/jqbq9po (Pelagos is basically a titanium Sea Dweller, Pelagos 39 is a titanium Sub, BB58 and 54s are vintage Subs, Tudor GMT is basically a vintage Pepsi, the BB 31/36/39/41s are basically smooth bezel datelessjusts.)
 
         Fashion:
             Soruces:
