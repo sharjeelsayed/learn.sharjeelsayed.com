@@ -5449,19 +5449,19 @@ Contents:
                 Rolex Cosmograph Daytona:
                     https://en.wikipedia.org/wiki/Rolex_Cosmograph_Daytona (Rolex Cosmograph Daytona)
                     https://watchcharts.com/watch_variation/1456-rolex-cosmograph-daytona-126500ln-0001/overview (Cosmograph Daytona (White Dial) Panda Overview)
-                    https://www.rolex.com/watches/cosmograph-daytona/m126500ln-0001 (White, black counter rings Oyster, 40 mm, Oystersteel Reference 126500LN)
+                    https://www.rolex.com/watches/cosmograph-daytona/m126500ln-0001 (Oyster, 40 mm, Oystersteel, Black ceramic bezel, Oyster bracelet, White, black counter rings dial Reference 126500LN) # Rolex Panda
                     https://youtu.be/FDSJU7giBgk?si=_1tDNbPTh5tvxBs0 (Rolex Daytona Buyers Guide: Ranked Worst to Best by Watchtrader & Co)
 
                 Rolex GMT-Master II:
                     https://en.wikipedia.org/wiki/Rolex_GMT_Master_II#Ceramic_bezel_models
                     https://watchcharts.com/watch_model/733-rolex-gmt-master-ii-pepsi-126710blro/overview (Rolex Pepsi 126710BLRO Overview)
-                    https://www.rolex.com/watches/gmt-master-ii/m126710blro-0001 (Oyster, 40 mm, Oystersteel Reference 126710BLRO)
+                    https://www.rolex.com/watches/gmt-master-ii/m126710blro-0001 (Oyster, 40 mm, Oystersteel, Red and blue bezel, Oyster bracelet, Black dial Reference 126710BLRO) # Rolex Pepsi
                     https://youtu.be/hklL3MtuJGo?si=1ZteG6x5VBMLJ8Ip (How to set your Rolex GMT-Master II )
 
                 Rolex Submariner Date:
                     https://en.wikipedia.org/wiki/Rolex_Submariner (Rolex Submariner)
                     https://watchcharts.com/watch_model/21814-rolex-submariner-date-starbucks-126610lv/overview (Rolex Submariner Date Starbucks 126610LV Overview)
-                    https://www.rolex.com/watches/submariner/m126610lv-0002 (Oyster, 41 mm, Oystersteel Reference 126610LV)
+                    https://www.rolex.com/watches/submariner/m126610lv-0002 (Oyster, 41 mm, Oystersteel, Green ceramic bezel, Oyster bracelet, Black dial Reference 126610LV) # Rolex Starbucks
                     https://youtu.be/6RsIAPBCCWQ?si=V7d0shHIHwq3smiT (Everything You Need To Know About The Rolex Submariner | Reference Points by Hodinkee)
                     https://youtu.be/J_gCN20W1Qg?si=tJUWaAEvejTLHfdz (Rolex Submariner Buyers Guide - Ranked Worst To Best by Watchtrader & Co)
                     https://youtu.be/vQJQyrM0LFw?si=tRVChSad2zw6UuwH (How to Set Rolex Submariner Date Watch | SwissWatchExpo by SwissWatchExpo)
@@ -5470,25 +5470,24 @@ Contents:
                     https://en.wikipedia.org/wiki/Diving_watch#Full_ocean_depth_prototype/experimental_watches (Full ocean depth prototype/experimental watches)
                     https://en.wikipedia.org/wiki/Rolex_Sea-Dweller#Rolex_Sea-Dweller_Deepsea_variant (Rolex Sea-Dweller Deepsea variant)
                     https://watchcharts.com/watch_model/36343-rolex-deepsea-sea-dweller-136660/overview (Rolex Deepsea Sea-Dweller James Cameron)
-                    https://www.rolex.com/watches/deepsea/m136660-0005 (D-blue Oyster, 44 mm, Oystersteel Reference 136660)
+                    https://www.rolex.com/watches/deepsea/m136660-0005 (Oyster, 44 mm, Oystersteel, Black ceramic bezel, Oyster bracelet, D-blue dial Reference 136660) # Rolex James Cameron
                     https://youtu.be/SKiG_G8OMzI?si=L7qg7bBm8qHOu7wr (How to set your Rolex Deepsea by Rolex)
 
                 Rolex Explorer:
                     https://en.wikipedia.org/wiki/Rolex#Professional_collections (Rolex Professional collections)
                     https://watchcharts.com/watch_model/33629-rolex-explorer-124270/overview (Rolex Explorer Ref. 124270)
-                    https://www.rolex.com/watches/explorer/m124270-0001 (Oyster, 36 mm, Oystersteel Reference 124270)
+                    https://www.rolex.com/watches/explorer/m124270-0001 (Oyster, 36 mm, Oystersteel, Smooth bezel, Oyster bracelet, Black dial Reference 124270)
                     https://www.youtube.com/watch?v=bQESXOm06r8 (How to set your Rolex Explorer by Rolex)
 
                 Rolex Datejust:
                     https://en.wikipedia.org/wiki/Rolex_Datejust (Rolex Datejust)
                     https://newsroom.rolex.com/watches/oyster-collection/datejust (Rolex Datejust)
                     https://watchcharts.com/watch_model/15371-rolex-datejust-36-126233/overview (Rolex Datejust 36 126233 Overview)
-                    https://www.rolex.com/watches/datejust/m126233-0023 (White mother-of-pearl set with diamonds Oyster, 36 mm, Oystersteel and yellow gold Reference 126233)
+                    https://www.rolex.com/watches/datejust/m126233-0023 (Oyster, 36 mm, Yellow Rolesor, Fluted bezel, Jubilee bracelet, White mother-of-pearl set with diamonds dial Reference 126233)
                     https://youtu.be/28jPZtC7JfE?si=BjWhQgiuDPhUI1fQ (Rolex Datejust 41 Buyers Guide (Steel) - Dials Ranked Worst to Best by Watchtrader & Co)
                     https://youtu.be/ZN0NHhdpsII?si=DG2ho4QrUAcfBmLQ (How to set your Rolex Datejust 41 by Rolex)
 
             Seiko 5:
-                https://www.seikowatches.com/in-en/products/5sports/lineup (Seiko 5 Sports Lineup)
                 https://www.seikowatches.com/in-en/products/5sports/srpd59 (Seiko 5 SRPD59 SKX Sports Style)
                 https://www.seikowatches.com/instructions/html/SEIKO_4R35_4R36_4R37_4R38_4R39_4R71_4R72_EN/index (Seiko 5 Instructions Manual)
 
