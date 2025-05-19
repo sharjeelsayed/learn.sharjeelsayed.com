@@ -2176,6 +2176,7 @@ Contents:
                 https://github.com/earwig/git-repo-updater (A console script that allows you to easily update multiple git repositories at once)
                 https://github.com/extrawurst/gitui (Blazing 💥 fast terminal-ui for git written in rust 🦀)
                 https://github.com/gabrie30/ghorg (Quickly clone an entire org/users repositories into one directory - Supports GitHub, GitLab, Bitbucket, and more)
+                https://github.com/git-bug/git-bug (Distributed, offline-first bug tracker embedded in git)
                 https://github.com/git-up/GitUp (The Git interface you've been missing all your life has finally arrived. http://gitup.co)
                 https://github.com/gitbutlerapp/gitbutler (https://gitbutler.com The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte)
                 https://github.com/github/hub (A command-line tool that makes git easier to use with GitHub.)
@@ -2293,11 +2294,11 @@ Contents:
                 https://github.com/neovim/neovim (https://neovim.io Vim-fork focused on extensibility and usability )
                 https://github.com/nvim-lua/kickstart.nvim (A launch point for your personal nvim configuration )
                 https://github.com/rockerBOO/awesome-neovim ( Collections of awesome neovim plugins.)
-                https://github.com/topics/vim?o=desc&s=stars
-                https://github.com/topics/vimrc?o=desc&s=stars
-                https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=vim%20&sort=byPopularity&type=all
-                https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=vimrc%20&sort=byPopularity&type=all
-                https://laymanclass.com/vim-essential-setup-to-boost-your-productivity
+                https://github.com/topics/vim?o=desc&s=stars (Vim)
+                https://github.com/topics/vimrc?o=desc&s=stars (Vimrc)
+                https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=vim%20&sort=byPopularity&type=all (Vim)
+                https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=vimrc%20&sort=byPopularity&type=all (Vimrc)
+                https://laymanclass.com/vim-essential-setup-to-boost-your-productivity (Vim Essential Setup to boost your productivity)
                 https://news.ycombinator.com/item?id=15400037 (Interactive Vim tutorial)
                 https://news.ycombinator.com/item?id=2936670 (Learn Vim Progressively)
                 https://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim/1220118#1220118 (What is your most productive shortcut with Vim?)
@@ -2310,6 +2311,7 @@ Contents:
                 https://betterprogramming.pub/50-vim-mode-tips-for-ide-users-f7b525a794b3 (Vim Best Practices For IDE Users)
                 https://github.com/amix/vimrc (The ultimate Vim configuration (vimrc) )
                 https://github.com/LazyVim/LazyVim ( Neovim config for the lazy https://www.lazyvim.org)
+                https://github.com/m4xshen/hardtime.nvim (Break bad habits, master Vim motions)
                 https://stackoverflow.com/questions/726894/what-are-the-dark-corners-of-vim-your-mom-never-told-you-abouts (What are the dark corners of Vim your mom never told you about?)
                 https://vim.fandom.com (Vim Tips Wiki)
                 https://vimhelp.org/quickref.txt.html (Vim Quick Reference Card)
@@ -3317,6 +3319,7 @@ Contents:
                 https://fleuret.org/dlc (François Fleuret's deep-learning courses 14x050 of the University of Geneva, Switzerland)
                 https://github.com/dair-ai/ML-YouTube-Courses (📺 Discover the latest machine learning / AI courses on YouTube.)
                 https://github.com/DataTalksClub/machine-learning-zoomcamp (Learn ML engineering for free in 4 months! )
+                https://github.com/ed-donner/llm_engineering (Repo to accompany my mastering LLM engineering course )
                 https://github.com/ethen8181/machine-learning (🌎 machine learning tutorials (mainly in Python3))
                 https://github.com/karpathy/llm.c (LLM training in simple, raw C/CUDA)
                 https://github.com/mlabonne/llm-course (https://mlabonne.github.io/blog Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks. )
@@ -4342,6 +4345,7 @@ Contents:
                 https://en.wikipedia.org/wiki/Rolling_Stone%27s_500_Greatest_Albums_of_All_Time (Rolling Stone's 500 Greatest Albums of All Time)
                 https://en.wikipedia.org/wiki/Rolling_Stone%27s_500_Greatest_Songs_of_All_Time (Rolling Stone's 500 Greatest Songs of All Time)
                 https://gist.github.com/kristopherjohnson/9f7e3fe61e595ad7cedc (Generate Brown Noise, White Noise, or Pink Noise using SoX)
+                https://github.com/th-ch/youtube-music (https://th-ch.github.io/youtube-music YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader) )
                 https://lifehacker.com/the-ultimate-list-of-work-and-study-music-1836284255
                 https://news.ycombinator.com/item?id=11146712 (	AI generated music to improve focus, relaxation and sleep (brain.fm))
                 https://news.ycombinator.com/item?id=11146712 (AI generated music to improve focus, relaxation and sleep (brain.fm))
@@ -5220,6 +5224,7 @@ Contents:
                 https://getoutline.org (Outline makes it easy to create a VPN server, giving anyone access to the free and open internet.)
                 https://github.com/erebe/wstunnel (Tunnel all your traffic over websocket protocol - Bypass firewalls/DPI - Static binary available)
                 https://github.com/juanfont/headscale (An open source, self-hosted implementation of the Tailscale control server)
+                https://github.com/quarkslab/proxyblob (https://blog.quarkslab.com/proxyblobing-into-your-network.html SOCKS5 proxy tool that uses Azure Blob Storage as a means of communication. )
                 https://github.com/trailofbits/algo (https://blog.trailofbits.com/2016/12/12/meet-algo-the-vpn-that-works Set up a personal VPN in the cloud)
                 https://github.com/yarrick/iodine (tunnel IPv4 data through a DNS server)
 
@@ -5393,7 +5398,7 @@ Contents:
             Sources:
                 https://ciechanow.ski/mechanical-watch (Mechanical Watch)
                 https://en.wikipedia.org/wiki/Astron_(wristwatch) (World's first "quartz clock")
-                https://en.wikipedia.org/wiki/Bulova#The_Apollo_15_watch  (The only privately owned watch to have been worn on the lunar surface.)
+                https://en.wikipedia.org/wiki/Bulova#The_Apollo_15_watch  (Bulova Chronograph Model #88510/01 is the only privately owned watch to have been worn on the lunar surface.)
                 https://en.wikipedia.org/wiki/Chronograph (Chronograph)
                 https://en.wikipedia.org/wiki/Coaxial_escapement (Coaxial escapement)
                 https://en.wikipedia.org/wiki/COSC (Contrôle officiel suisse des Chronomètres (COSC))
@@ -5434,6 +5439,7 @@ Contents:
                 https://www.reddit.com/r/Watches/comments/zw86rq/myth_busting_i_talked_to_my_watchmaker_about ([Myth Busting] I talked to my watchmaker about water resistance…)
                 https://www.reddit.com/r/Watches/wiki/brandguide (/r/Watches Brand Guide)
                 https://www.reddit.com/r/Watches/wiki/faq (r/Watches FAQ)
+                https://www.richardmille.com/collections/rm-up-01-manual-winding-ultraflat-ferrari (Richard Mille RM UP-01 Ferrari . The thinnest watch in the world)
                 https://www.styxwatch.com ( STYX Watch Protection film for watches)
                 https://youtu.be/9_QsCLYs2mY?si=8b8_Vq0c2OoUS6XY (How a Mechanical Watch Works by Animagraffs)
                 https://youtu.be/fMncXiA-AuE (Tachymeter Explained! (5 examples) by Erik Ternsjö)
