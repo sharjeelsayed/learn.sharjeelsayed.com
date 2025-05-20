@@ -788,6 +788,7 @@ Contents:
                 https://aws.amazon.com/blogs/devops/the-most-visited-devops-and-developer-productivity-blog-posts-in-2024-copy (The most visited DevOps and Developer Productivity blog posts in 2024)
                 https://devopsengineers.com (Slack Channel)
                 https://devopsnewsletters.com (DevOps Newsletters)
+                https://docs.google.com/spreadsheets/d/1QT2iUlLlt9R44U4lsTL0u5rOC_Cr_zuYLYAazp-2oA8 (DevOps Skills ScroreCard)
                 https://github.com/AcalephStorage/awesome-devops (A curated list of resources for Devops )
                 https://github.com/AdminTurnedDevOps/DevOps-The-Hard-Way-AWS (This repository contains free labs for setting up an entire workflow and DevOps environment from a real-world perspective in AWS)
                 https://github.com/ahmedtariq01/Cloud-DevOps-Learning-Resources (This repo includes Books and imp notes related to GCP, Azure, AWS, Docker, K8s, and DevOps. More, exam and interview prep notes.)
@@ -3380,13 +3381,11 @@ Contents:
                     https://marketplace.visualstudio.com/items?itemName=4ops.terraform
                     https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks
                     https://marketplace.visualstudio.com/items?itemName=aws-scripting-guy.cform
-                    https://marketplace.visualstudio.com/items?itemName=ban.spellright
                     https://marketplace.visualstudio.com/items?itemName=bbenoist.vagrant
                     https://marketplace.visualstudio.com/items?itemName=Boto3typed.boto3-ide
                     https://marketplace.visualstudio.com/items?itemName=codezombiech.gitignore
                     https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory
                     https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula
-                    https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
                     https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
                     https://marketplace.visualstudio.com/items?itemName=GitHub.copilot
                     https://marketplace.visualstudio.com/items?itemName=hangxingliu.vscode-nginx-conf-hint
@@ -3394,8 +3393,8 @@ Contents:
                     https://marketplace.visualstudio.com/items?itemName=jack89ita.copy-filename
                     https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock
                     https://marketplace.visualstudio.com/items?itemName=kddejong.vscode-cfn-lint
+                    https://marketplace.visualstudio.com/items?itemName=maattdd.gitless (Git for VSCode (based on a fork of Gitlens))
                     https://marketplace.visualstudio.com/items?itemName=marlon407.code-groovy
-                    https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph
                     https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker
                     https://marketplace.visualstudio.com/items?itemName=ms-python.python
                     https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh
@@ -3407,7 +3406,6 @@ Contents:
                     https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons
                     https://marketplace.visualstudio.com/items?itemName=vscode-snippet.Snippet (Insert a snippet from cht.sh for Python, JavaScript, Ruby, C#, Go, Rust (and any other language))
                     https://marketplace.visualstudio.com/items?itemName=xyz.local-history (Plugin for maintaining local history of files)
-                    https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one
 
             IntelliJ IDEA:
                 Sources:
@@ -3989,10 +3987,11 @@ Contents:
                 https://news.ycombinator.com/item?id=32618445 (	What to read to understand how economists think (economist.com))
                 https://trello.com/b/NPlSa3C7/journey-board (Agile Sprint Board for next initiatives of r/IndiaInvestments)
                 https://www.amazon.com/best-sellers-books-Amazon/zgbs/books/2581 (Best Sellers in Economics)
-                https://www.indiainvestments.wiki
+                https://www.indiainvestments.wiki (r/IndiaInvestments Wiki)
                 https://www.indiainvestments.wiki/start-here/zero-to-investing
                 https://www.investopedia.com
                 https://www.jdawiseman.com/books/pricing-money/Pricing_Money_JDAWiseman.html (Pricing Money A Beginner's Guide to Money, Bonds, Futures and Swaps by J. D. A. Wiseman)
+                https://www.kotaksecurities.com/stockshaala (Your Free Guide to Crack The Stock Market Code!)
                 https://www.livemint.com/insurance/news/mint-beshak-insurance-ratings-11654771446816.html (Mint Beshak Health Insurance Ratings)
                 https://www.livemint.com/money/personal-finance/investment-strategy-where-to-invest-rs-5-lakh-for-best-returns-experts-suggest-these-assets-large-cap-dynamic-bonds-11705238107561.html (Where to invest Rs 5 lakh for best returns? Experts suggest these assets)
                 https://www.reddit.com/r/Economics/wiki/reading
@@ -4000,9 +3999,12 @@ Contents:
                 https://www.thediff.co/archive/100-due-diligence-questions-checklist (A Short 100-Question Diligence Checklist for investing)
                 https://www.visualcapitalist.com/mapped-the-top-1-percent-in-each-u-s-state (Mapped: How Much Does it Take to be the Top 1% in Each U.S. State?)
                 https://www.visualcapitalist.com/net-worth-to-be-wealthy-in-america-2022 (What Does It Take To Be Wealthy in America?)
-                https://zerodha.com/varsity (Free and open stock market and financial education)
+                https://zerodha.com/varsity/modules (Explore all the open-access Varsity modules that cover the entire spectrum of financial literacy and capital markets; everything from savings and taxation to option strategies and technical analysis.)
 
             Books and Courses:
+                Let's Talk Money: You've Worked Hard for It, Now Make It Work Hard for You (July 5, 2018) by  Monika Halan
+                    https://www.amazon.com/Lets-Talk-Money-Youve-Worked/dp/9352779398
+
                 Basic Economics 5th Edition
                     https://www.amazon.com/Basic-Economics-Thomas-Sowell/dp/0465060730
 
