@@ -1657,6 +1657,7 @@ Contents:
                 https://www.freecodecamp.org/news/free-107-hour-aws-cloud-project-bootcamp (Free 107-Hour AWS Cloud Project Bootcamp)
                 https://www.lastweekinaws.com/blog/the-17-ways-to-run-containers-on-aws (The 17 Ways to Run Containers on AWS)
                 https://www.linkedin.com/pulse/interviewing-aws-advice-tips-from-250-interviews-nick-matthews (Interviewing at AWS: Advice and tips from 250 interviews by Nick Matthews)
+                https://www.plerion.com/blog/root-in-prod (The most important security analysis you will never do on your AWS accounts)
                 https://www.reddit.com/r/aws/comments/on154c/lessons_learned_if_you_could_do_it_all_from_the (Lessons learned: if you could do it "all" from the start again, what would you do differently / anew in your AWS? (self.aws))
                 https://www.reddit.com/r/AWSCertifications/comments/y2hw5t/free_technical_fundamentals_content (Free Technical Fundamentals Content by Adrian Cantrill)
                 https://www.stackery.io/registry (Enter an AWS CloudFormation template for instant analysis)
@@ -2065,6 +2066,7 @@ Contents:
                 https://github.com/okbob/pspg (Unix pager designed for work with tables. Designed for PostgreSQL, but MySQL is supported too. Now it can be used as CSV or TSV viewer. Works well with pgcli too.)
                 https://github.com/Olshansk/postgres_for_everything (How to reduce complexity and move faster? Just Postgres for everything.)
                 https://github.com/topics/postgresql?o=desc&s=stars
+                https://marketplace.visualstudio.com/items?itemName=ms-ossdata.vscode-pgsql (Develop PostgreSQL applications everywhere by Microsoft)
                 https://news.ycombinator.com/item?id=23208181 (Ask HN: What PostgreSQL client do you use?)
                 https://pgtune.leopard.in.ua (tuning PostgreSQL config by your hardware)
                 https://postgrespro.com/blog/pgsql/5969985 ( PostgreSQL 14 Internals :A deep dive into the server mechanics)
@@ -2503,6 +2505,7 @@ Contents:
                 https://www.macchaffee.com/blog/2022/k8s-under-documented-security-tips (Kubernetes Under-Documented Security Tips)
                 https://www.netmeister.org/blog/infosec-competencies.html ((Technical) Infosec Core Competencies)
                 https://www.nsa.gov/Press-Room/News-Highlights/Article/Article/2716980/nsa-cisa-release-kubernetes-hardening-guidance/utm_source/nsa-cisa-release-kubernetes-hardening-guidance (NSA, CISA release Kubernetes Hardening Guidance)
+                https://www.plerion.com/blog/root-in-prod (The most important security analysis you will never do on your AWS accounts)
                 https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets
                 https://youtu.be/l8iXMgk2nnY?si=gz-Xi49_yk9pInGG (VIM tutorial: linux terminal tools for bug bounty pentest and redteams with @tomnomnom)
 
@@ -3396,6 +3399,7 @@ Contents:
                     https://marketplace.visualstudio.com/items?itemName=maattdd.gitless (Git for VSCode (based on a fork of Gitlens))
                     https://marketplace.visualstudio.com/items?itemName=marlon407.code-groovy
                     https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker
+                    https://marketplace.visualstudio.com/items?itemName=ms-ossdata.vscode-pgsql (Develop PostgreSQL applications everywhere by Microsoft)
                     https://marketplace.visualstudio.com/items?itemName=ms-python.python
                     https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh
                     https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh-edit
