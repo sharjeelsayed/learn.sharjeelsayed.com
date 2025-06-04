@@ -3746,6 +3746,7 @@ Contents:
                 https://sievejobs.com (3,711,141)
                 https://arbeitnow.com/?tags=%5B%22visa%20sponsorship%22%5D (6,208,741)
                 https://remotive.com
+                https://eshsoft.com/jobinator (Search through recent Hacker News job listings, categorized and normalized using a LLM. Updated daily.)
 
             Arab League Countries Job Sites:
                 https://ae.indeed.com (66)
@@ -5611,6 +5612,7 @@ Contents:
         https://freenode.net
         https://github.com/antontarasenko/smq/blob/master/reports/hackernews-links-in-comments.md (Most mentioned links in Hacker News comments, 2006–2015)
         https://github.com/arcataroger/awesome-engineering-games (A curated list of engineering-related video games rated Very Positive or higher on Steam )
+        https://github.com/ArduPilot/ardupilot (https://ardupilot.org ArduPilot is a trusted, versatile, and open source autopilot system supporting many vehicle types: multi-copters, traditional helicopters, fixed wing aircraft, boats, submarines, rovers and more. )
         https://github.com/btw-so/open-source-alternatives (List of open-source alternatives to everyday SaaS products.)
         https://github.com/chubin/awesome-console-services (A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols))
         https://github.com/girliemac/a-picture-is-worth-a-1000-words (I am trying to describe complex matters in simple doodles!)
