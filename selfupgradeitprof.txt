@@ -4102,6 +4102,7 @@ Contents:
             https://news.ycombinator.com/item?id=23596471 (Ask HN: How do you take notes when reading a book?)
             https://news.ycombinator.com/item?id=28482726 (	Ask HN: How Do You Learn?)
             https://news.ycombinator.com/item?id=30473322 (Ask HN: Any scientifically proven techniques to boost concentration?)
+            https://news.ycombinator.com/item?id=44201901 (	4-7-8 Breathing (breathbelly.com))
             https://oneminutefocus.com (Studies in brain science (neuroscience) has shown that focusing visually actually can help our brain focus on a task (Dr. Andrew Huberman))
             https://www.comptia.org/testing/online-testing-interest-form
             https://www.coursera.org/learn/learning-how-to-learn
@@ -5621,6 +5622,7 @@ Contents:
         https://github.com/henki-robotics/robotics_essentials_ros2 (Learn the basics of robotics through hands-on experience using ROS 2 and Gazebo simulation. )
         https://github.com/jbranchaud/til (Today I Learned)
         https://github.com/jnv/lists (The definitive list of lists (of lists) curated on GitHub and elsewhere )
+        https://github.com/kanbn/kan (https://kan.bn The open source Trello alternative. )
         https://github.com/mendel5/alternative-front-ends (Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.))
         https://github.com/NotJoeMartinez/yt-fts (Youtube Full Text Search - Search all of a YouTube channel's subtitles from the command line)
         https://github.com/RunaCapital/awesome-oss-alternatives (Awesome list of open-source startup alternatives to well-known SaaS products)
