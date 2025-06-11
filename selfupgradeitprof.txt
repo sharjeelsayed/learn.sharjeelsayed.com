@@ -1166,6 +1166,7 @@ Contents:
                 https://github.com/Awesome-Windows/Awesome (💻 🎉 An awesome & curated list of best applications and tools for Windows.)
                 https://github.com/ChrisTitusTech/winutil (Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates)
                 https://github.com/dockur/windows (Windows in a Docker container)
+                https://github.com/eythaann/Seelen-UI (The Fully Customizable Desktop Environment for Windows 10/11.)
                 https://github.com/massgravel/Microsoft-Activation-Scripts (https://massgrave.dev A Windows and Office activator using HWID / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.)
                 https://github.com/microsoft/PowerToys (Windows system utilities to maximize productivity)
                 https://github.com/Raphire/Win11Debloat (A simple, easy to use powershell script to remove bloatware apps from windows, disable telemetry, bing in windows search aswell as perform various other changes to declutter and improve your windows experience. This script works for both windows 10 and windows 11.)
@@ -2510,6 +2511,7 @@ Contents:
                 https://youtu.be/l8iXMgk2nnY?si=gz-Xi49_yk9pInGG (VIM tutorial: linux terminal tools for bug bounty pentest and redteams with @tomnomnom)
 
             Security Tools:
+                https://bishopfox.com/blog/2025-red-team-tools-c2-frameworks-active-directory-network-exploitation (Bishop Fox 2025 Red Team Tools List)
                 https://cipher387.github.io/osint_stuff_tool_collection (OSINT Tool Collection)
                 https://github.com/A-poc/RedTeam-Tools (Tools and Techniques for Red Team / Penetration Testing)
                 https://github.com/a13xp0p0v/kernel-hardening-checker (A tool for checking the security hardening options of the Linux kernel)
@@ -2542,6 +2544,7 @@ Contents:
                 https://gtfobins.github.io (GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems.)
                 https://netfilter.org/documentation (Documentation about the netfilter/iptables project)
                 https://offsec.tools (A vast collection of security tools)
+                https://r00m101.com/tools (Comprehensive Collection Of Open Source Intelligence Tools For Investigators, Researchers, And Security Professionals)
                 https://stratoshark.org (Stratoshark lets you explore and analyze applications at the system call level using a mature, proven interface based on Wireshark. Created for the community by Sysdig)
                 https://tools.tldr.run (Curated list of security tools for Hackers & Builders!)
 
@@ -3271,6 +3274,7 @@ Contents:
                 https://github.com/deepseek-ai/awesome-deepseek-integration (Integrate the DeepSeek API into popular softwares.)
                 https://github.com/eugeneyan/open-llms (🤖 A list of open LLMs available for commercial use.)
                 https://github.com/f/awesome-chatgpt-prompts (https://prompts.chat This repo includes ChatGPT prompt curation to use ChatGPT better.)
+                https://github.com/friuns2/BlackFriday-GPTs-Prompts (https://aidark.net List of free GPTs that doesn't require plus subscription)
                 https://github.com/GoogleCloudPlatform/kubectl-ai (AI powered Kubernetes Assistant)
                 https://github.com/Hannibal046/Awesome-LLM (Awesome-LLM: a curated list of Large Language Model)
                 https://github.com/humanloop/awesome-chatgpt (Curated list of awesome tools, demos, docs for ChatGPT and GPT-3 )
@@ -4353,6 +4357,7 @@ Contents:
                 https://en.wikipedia.org/wiki/Rolling_Stone%27s_500_Greatest_Albums_of_All_Time (Rolling Stone's 500 Greatest Albums of All Time)
                 https://en.wikipedia.org/wiki/Rolling_Stone%27s_500_Greatest_Songs_of_All_Time (Rolling Stone's 500 Greatest Songs of All Time)
                 https://gist.github.com/kristopherjohnson/9f7e3fe61e595ad7cedc (Generate Brown Noise, White Noise, or Pink Noise using SoX)
+                https://github.com/linsomniac/spotify_to_ytmusic ( Copy playlists and liked music from Spotify to YTMusic Resources)
                 https://github.com/th-ch/youtube-music (https://th-ch.github.io/youtube-music YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader) )
                 https://lifehacker.com/the-ultimate-list-of-work-and-study-music-1836284255
                 https://news.ycombinator.com/item?id=11146712 (	AI generated music to improve focus, relaxation and sleep (brain.fm))
