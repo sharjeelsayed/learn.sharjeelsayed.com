@@ -947,6 +947,7 @@ Contents:
             Tools:
                 https://crontab.guru (The quick and simple editor for cron schedule expressions by Cronitor)
                 https://github.com/a13xp0p0v/kernel-hardening-checker (A tool for checking the security hardening options of the Linux kernel)
+                https://github.com/apple/container (https://apple.github.io/container/documentation A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It's written in Swift, and optimized for Apple silicon. )
                 https://github.com/canonical/multipass (Multipass orchestrates virtual Ubuntu instances)
                 https://github.com/google/perfetto (https://perfetto.dev Performance instrumentation and tracing for Android, Linux and Chrome )
                 https://github.com/linuxmint/timeshift (System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB. )
@@ -2661,6 +2662,7 @@ Contents:
                 https://flexibits.Com/fantastical (Calendar App)
                 https://folivora.ai/keyboardcleantool (A super simple little tool which blocks all Keyboard and TouchBar input)
                 https://github.com/actuallymentor/battery (CLI for managing the battery charging status for M1 Macs)
+                https://github.com/apple/container (https://apple.github.io/container/documentation A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It's written in Swift, and optimized for Apple silicon. )
                 https://github.com/caldis/mos (A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS )
                 https://github.com/exelban/stats (macOS system monitor in your menu bar)
                 https://github.com/iCHAIT/awesome-macOS ( A curated list of awesome applications, softwares, tools and shiny things for macOS.)
