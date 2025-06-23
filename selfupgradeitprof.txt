@@ -2165,6 +2165,7 @@ Contents:
                 https://jwiegley.github.io/git-from-the-bottom-up/1-Repository/7-branching-and-the-power-of-rebase.html (Best explanation of rebase vs merge)
                 https://ohshitgit.com (Bad situations I've gotten myself into, and how I eventually got myself out of them in plain english.)
                 https://techtldr.com/19-git-tips-for-everyday-use (19 Git Tips For Everyday Use)
+                https://tylercipriani.com/blog/2022/11/19/git-notes-gits-coolest-most-unloved-feature (Git's Coolest, Most Unloved Feature)
                 https://www.emoses.org/posts/keeping-work-separate (Separating work and personal config)
                 https://www.shortcutfoo.com/app/dojos/git (Choose shortcuts to practice)
                 https://youtu.be/1ffBJ4sVUb4 ([Linux.conf.au 2013] - Git For Ages 4 And Up)
@@ -2472,6 +2473,7 @@ Contents:
                 https://www.hivesystems.com/blog/are-your-passwords-in-the-green (Time it takes for a hacker to brute force your password in 2025)
                 https://www.nsa.gov/Podcast (“NSA is known as home to the world’s greatest codemakers and codebreakers—their stories are now being decoded.)
                 https://www.open-scap.org (Discover a wide array of tools for managing system security and standards compliance)
+                https://www.reddit.com/r/cybersecurity/comments/1ld4ksn/what_security_news_letters_to_read (What security news letters to read?)
                 https://www.reddit.com/r/netsec+privacy+SocialEngineering+onions+ReverseEngineering+crypto+blackhat+security+Malware+pwned+netsecstudents+computerforensics+HackBloc+securityCTF+xss+vrd+rootkit+REMath
                 https://www.reddit.com/r/netsecstudents/top/?sort=top&t=all
                 ttps://ishaqmohammed.me/posts/application-security-knowledgebase (Application Security Knowledgebase)
@@ -5429,6 +5431,7 @@ Contents:
                 https://en.wikipedia.org/wiki/Roger_W._Smith (British independent watchmaker)
                 https://en.wikipedia.org/wiki/SAE_316L_stainless_steel (SAE 316L stainless steel)
                 https://en.wikipedia.org/wiki/Spring_Drive (Spring Drive)
+                https://fellerts.no/projects/epoch.html (Mechanical Watch: Exploded View)
                 https://lookerstudio.google.com/reporting/40738bd5-c07f-41f2-aaad-ca5b0aaf9602/page/ZNSUB (Watches used in space exploration)
                 https://monochrome-watches.com/konstantin-chaykin-thinking-final-prototype-worlds-thinnest-mechanical-watch-1-65mm-auction-phillips-introducing (Konstantin Chaykin Presents the Final Version of the 1.65mm ThinKing, the World’s Thinnest Mechanical Watch )
                 https://monochrome-watches.com/morgan-stanleys-top-50-watch-brands-for-2024-rolex-still-by-far-the-leader-overall-market-suffered (Morgan Stanley’s Top 50 Watch Brands for 2024)
@@ -5471,6 +5474,7 @@ Contents:
                     How To Adjust The Easy Link Clasp On Your Rolex Datejust https://Youtu.Be/Wklaunj8e84?Si=Eshm_Enanxcwve4i https://Youtu.Be/Y_Gvrragyne?Si=Kon82ftgsqbueuxt
                     https://En.Wikipedia.Org/Wiki/Sae_904l_Stainless_Steel (Sae 904l Stainless Steel)
                     https://Quillandpad.Com/2024/02/13/Rolex-Case-Study-How-Many-Watches-And-How-Much-Money-Does-Rolex-Make-2 (Rolex Case Study: How Many Watches And How Much Money Does Rolex Make?)
+                    https://teddybaldassarre.com/blogs/watches/most-expensive-rolex-watches (The Most Expensive Rolex Watches: Current Collection and All-Time)
                     https://Www.Rolexmagazine.Com/2009/03/Reinhold-Messner-Rolex-Explorer-Mark-Ii.Html (The Complete History Of The Rolex Explorer Ii)
                     https://Xj5wpvbg6op.Typeform.Com/Rolex-Waitlist (Rolex Waitlist Calculator)
                     https://youtu.be/28jPZtC7JfE?si=BjWhQgiuDPhUI1fQ (Rolex Datejust 41 Buyers Guide (Steel) - Dials Ranked Worst to Best by Watchtrader & Co)
@@ -5492,6 +5496,7 @@ Contents:
                 Rolex Submariner Date:
                     https://en.wikipedia.org/wiki/Rolex_Submariner (Rolex Submariner)
                     https://watchcharts.com/watch_model/21814-rolex-submariner-date-starbucks-126610lv/overview (Rolex Submariner Date Starbucks 126610LV Overview)
+                    https://www.hodinkee.com/articles/bret-gilliam-rolex-man-with-the-golden-sub (The Man With The Golden Sub: Bret Gilliam's Rolex Submariner 1680)
                     https://www.rolex.com/watches/submariner/m126610lv-0002 (Oyster, 41 mm, Oystersteel, Green ceramic bezel, Oyster bracelet, Black dial Reference 126610LV) # Rolex Starbucks
                     https://youtu.be/6RsIAPBCCWQ?si=V7d0shHIHwq3smiT (Everything You Need To Know About The Rolex Submariner | Reference Points by Hodinkee)
                     https://youtu.be/J_gCN20W1Qg?si=tJUWaAEvejTLHfdz (Rolex Submariner Buyers Guide - Ranked Worst To Best by Watchtrader & Co)
@@ -5624,6 +5629,7 @@ Contents:
         https://github.com/antontarasenko/smq/blob/master/reports/hackernews-links-in-comments.md (Most mentioned links in Hacker News comments, 2006–2015)
         https://github.com/arcataroger/awesome-engineering-games (A curated list of engineering-related video games rated Very Positive or higher on Steam )
         https://github.com/ArduPilot/ardupilot (https://ardupilot.org ArduPilot is a trusted, versatile, and open source autopilot system supporting many vehicle types: multi-copters, traditional helicopters, fixed wing aircraft, boats, submarines, rovers and more. )
+        https://github.com/automattic/harper (https://writewithharper.com Offline, privacy-first grammar checker. Fast, open-source, Rust-powered )
         https://github.com/btw-so/open-source-alternatives (List of open-source alternatives to everyday SaaS products.)
         https://github.com/chubin/awesome-console-services (A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols))
         https://github.com/girliemac/a-picture-is-worth-a-1000-words (I am trying to describe complex matters in simple doodles!)
