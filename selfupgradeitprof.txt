@@ -5444,6 +5444,7 @@ Contents:
                 https://watchcharts.com/market/above_retail (Watches That Trade Above Retail)
                 https://watchcharts.com/screener (Watch Screener: Find watches based on specifications and market performance.)
                 https://wornandwound.com/military-watches-world-11-watch-won-war (Bulova A-11, the Watch That Won World War 2)
+                https://www.acollectedman.com/blogs/journal/rise-fall-two-tone-watches (The Rise and Fall of Two-Tone Watches by by Russell Sheldrake)
                 https://www.amazon.com/Best-Sellers-Clothing-Shoes-Jewelry-Mens-Watches/zgbs/fashion/6358539011 (Best Sellers in Men's Watches)
                 https://www.amazon.com/gp/bestsellers/fashion/378531011 (Best Sellers in Watch Repair Tools & Kits)
                 https://www.amazon.com/Plastic-Crystal-Scratch-Remover-Polish/dp/B00E3T237C (Polywatch Plastic Crystal Scratch Remover)
@@ -5495,7 +5496,8 @@ Contents:
                     https://www.rolex.com/watches/gmt-master-ii/m126710blro-0001 (Oyster, 40 mm, Oystersteel, Red and blue bezel, Oyster bracelet, Black dial Reference 126710BLRO) # Rolex Pepsi
                     https://youtu.be/hklL3MtuJGo?si=1ZteG6x5VBMLJ8Ip (How to set your Rolex GMT-Master II )
 
-                Rolex Submariner Date:
+                Rolex Submariner:
+                    https://en.wikipedia.org/wiki/Diving_watch (Diving watch)
                     https://en.wikipedia.org/wiki/Rolex_Submariner (Rolex Submariner)
                     https://watchcharts.com/watch_model/21814-rolex-submariner-date-starbucks-126610lv/overview (Rolex Submariner Date Starbucks 126610LV Overview)
                     https://www.hodinkee.com/articles/bret-gilliam-rolex-man-with-the-golden-sub (The Man With The Golden Sub: Bret Gilliam's Rolex Submariner 1680)
@@ -5521,13 +5523,6 @@ Contents:
                     https://watchcharts.com/watch_model/15371-rolex-datejust-36-126233/overview (Rolex Datejust 36 126233 Overview)
                     https://www.rolex.com/watches/datejust/m126233-0023 (Oyster, 36 mm, Yellow Rolesor, Fluted bezel, Jubilee bracelet, White mother-of-pearl set with diamonds dial Reference 126233)
                     https://youtu.be/ZN0NHhdpsII?si=DG2ho4QrUAcfBmLQ (How to set your Rolex Datejust 41 by Rolex)
-
-                Rolex Deepsea:
-                    https://en.wikipedia.org/wiki/Diving_watch#Full_ocean_depth_prototype/experimental_watches (Full ocean depth prototype/experimental watches)
-                    https://en.wikipedia.org/wiki/Rolex_Sea-Dweller#Rolex_Sea-Dweller_Deepsea_variant (Rolex Sea-Dweller Deepsea variant)
-                    https://watchcharts.com/watch_model/36343-rolex-deepsea-sea-dweller-136660/overview (Rolex Deepsea Sea-Dweller James Cameron)
-                    https://www.rolex.com/watches/deepsea/m136660-0005 (Oyster, 44 mm, Oystersteel, Black ceramic bezel, Oyster bracelet, D-blue dial Reference 136660) # Rolex James Cameron
-                    https://youtu.be/SKiG_G8OMzI?si=L7qg7bBm8qHOu7wr (How to set your Rolex Deepsea by Rolex)
 
             Seiko 5:
                 https://www.seikowatches.com/in-en/products/5sports/srpd59 (Seiko 5 SRPD59 SKX Sports Style)
