@@ -5187,6 +5187,7 @@ Contents:
             Sources:
                 https://github.com/awesome-selfhosted/awesome-selfhosted (A list of Free Software network services and web applications which can be hosted on your own servers https://awesome-selfhosted.net)
                 https://github.com/joedicastro/vps-comparison (https://github.com/joedicastro/vps-comparison#automation A comparison between some VPS providers. It uses Ansible to perform a series of automated benchmark tests over the VPS servers that you specify. It allows the reproducibility of those tests by anyone that wanted to compare these results to their own. All the tests results are available in order to provide independence and transparency.)
+                https://github.com/mikeroyal/Self-Hosting-Guide (Self-Hosting Guide. Learn all about locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.)
                 https://hn.algolia.com/?dateRange=pastYear&page=0&prefix=true&query=ask%20hn%3A%20vps&sort=byPopularity&type=story
                 https://joshtronic.com/2021/01/03/vps-showdown-digitalocean-lightsail-linode-upcloud-vultr
                 https://lowendbox.com (Featuring the Best Cheap VPS Hosting, Dedicated Server and Hosting Deals Daily Plus Much More)
