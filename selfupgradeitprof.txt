@@ -2482,6 +2482,7 @@ Contents:
 
             Tutorials:
                 https://aws.amazon.com/training/learn-about/security (Get started on security training with content built by AWS experts)
+                https://cacr.uwaterloo.ca/hac (Handbook of Applied Cryptography by Alfred J. Menezes, Paul C. van Oorschot, and Scott A. Vanstone)
                 https://danielmiessler.com/blog/build-successful-infosec-career (How to Build a Cybersecurity Career [ 2019 Update ])
                 https://gist.github.com/mubix/5737a066c8845d25721ec4bf3139fd31 (https://room362.com/start Start in Infosec)
                 https://github.com/0xsyr0/Awesome-Cybersecurity-Handbooks (A huge chunk of my personal notes since I started playing CTFs and working as a Red Teamer.)
@@ -2505,6 +2506,7 @@ Contents:
                 https://toc.cryptobook.us (A Graduate Course in Applied Cryptography)
                 https://tryhackme.com/r/resources/blog/security-engineer-interview-guide (Preparing for a Security Engineering Interview)
                 https://www.coursera.org/learn/crypto (Cryptography I Course by Dan Boneh (Stanford))
+                https://www.crypto101.io (Crypto 101 is an introductory course on cryptography, freely available for programmers of all ages and skill levels by Alfred Menezes https://cryptography101.ca/crypto101-building-blocks https://cryptography101.ca/crypto101-deployments)
                 https://www.cybrary.it (Cybrary's accessible, affordable training platform provides curated career paths, threat-informed training, and certification preparation for professionals at all levels.)
                 https://www.edx.org/learn/cybersecurity (Explore cybersecurity courses and certificates)
                 https://www.macchaffee.com/blog/2022/k8s-under-documented-security-tips (Kubernetes Under-Documented Security Tips)
@@ -3106,6 +3108,7 @@ Contents:
                 https://www.udemy.com/courses/development/web-development/?ratings=4.5&sort=popularity (Udemy Courses rated 4.5 stars and above)
                 https://www.wappalyzer.com (Find out the technology stack of any website.)
                 https://www.youtube.com/c/TraversyMedia
+                https://www.youtube.com/playlist?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w (Sigma Web Development Course https://github.com/CodeWithHarry/Sigma-Web-Dev-Course by CodeWithHarry)
 
             Books and Courses:
                 freeCodeCamp
@@ -3288,6 +3291,7 @@ Contents:
                 https://github.com/langgenius/dify (https://dify.ai Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production. )
                 https://github.com/lobehub/lobe-chat (https://chat-preview.lobehub.com/chat 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / DeepSeek / Qwen), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Plugins/Artifacts) and Thinking. One-click FREE deployment of your private ChatGPT/ Claude / DeepSeek application. )
                 https://github.com/Mintplex-Labs/anything-llm (https://anythingllm.com The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more.)
+                https://github.com/ml-tooling/best-of-ml-python (🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.)
                 https://github.com/n8n-io/self-hosted-ai-starter-kit (https://n8n.io The Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environment. Curated by n8n, it provides essential tools for creating secure, self-hosted AI workflows. )
                 https://github.com/netease-youdao/QAnything (https://qanything.ai Question and Answer based on Anything.)
                 https://github.com/OpenMindClub/awesome-chatgpt (⚡ Everything about ChatGPT )
@@ -3296,6 +3300,7 @@ Contents:
                 https://github.com/simonw/llm (https://llm.datasette.io/en/stable Access large language models from the command-line )
                 https://github.com/skypilot-org/skypilot (https://docs.skypilot.co SkyPilot: Run AI and batch jobs on any infra (Kubernetes or 16+ clouds). Get unified execution, cost savings, and high GPU availability via a simple interface. )
                 https://github.com/taranjeet/awesome-gpts (Collection of all the GPTs created by the community)
+                https://github.com/TecharoHQ/anubis (https://anubis.techaro.lol Weighs the soul of incoming HTTP requests to stop AI crawlers )
                 https://github.com/tencent/Hunyuan3D-2 (High-Resolution 3D Assets Generation with Large Scale Hunyuan3D Diffusion Models.)
                 https://github.com/The-Pocket/Tutorial-Codebase-Knowledge (https://the-pocket.github.io/Tutorial-Codebase-Knowledge Turns Codebase into Easy Tutorial with AI )
                 https://github.com/virattt/ai-hedge-fund (An AI Hedge Fund Team)
@@ -3548,6 +3553,7 @@ Contents:
                     https://github.com/CollabCodeTech/backend-challenges (A public list of open-source challenges from jobs around the world )
                     https://github.com/jwasham/coding-interview-university (A complete computer science study plan to become a software engineer.)
                     https://github.com/kdn251/interviews (Everything you need to know to get the job.)
+                    https://github.com/krishnadey30/LeetCode-Questions-CompanyWise ( Contains Company Wise Questions sorted based on Frequency and all time)
                     https://github.com/krishnadey30/LeetCode-Questions-CompanyWise (Contains Company Wise Questions sorted based on Frequency and all time)
                     https://github.com/neetcode-gh/leetcode (This repo hosts the solutions found on NeetCode.io including the solutions shown on the NeetCode YouTube channel.)
                     https://github.com/Olshansk/interview (Everything you need to prepare for your technical interview)
@@ -5101,6 +5107,7 @@ Contents:
             Email Clients:
                 http://www.macdrifter.com/2013/11/mailmate-explorations.html
                 http://www.mutt.org
+                https://github.com/c4pt0r/gmailtail (tail -f your gmail )
                 https://github.com/neomutt/neomutt/issues/1195#issuecomment-388016804 # bind <ctrl-o> to sidebar-open not working
                 https://news.ycombinator.com/item?id=18057643 (Ask HN: Best email client for a Mac?)
                 https://news.ycombinator.com/item?id=19712437 (Ask HN: What email client do you use?)
