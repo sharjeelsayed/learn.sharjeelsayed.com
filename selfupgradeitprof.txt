@@ -2310,6 +2310,7 @@ Contents:
                 https://news.ycombinator.com/item?id=2936670 (Learn Vim Progressively)
                 https://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim/1220118#1220118 (What is your most productive shortcut with Vim?)
                 https://stackoverflow.com/questions/tagged/vim
+                https://yobibyte.github.io/vim.html (why I got rid of all my neovim plugins)
                 https://pinboard.in/u:SharjeelSayed/t:vim
 
             Tutorials:
