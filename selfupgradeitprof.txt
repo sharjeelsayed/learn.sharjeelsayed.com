@@ -2065,6 +2065,7 @@ Contents:
             Sources:
                 https://db-engines.com/en/blog_post/109 (PostgreSQL is the Database Management System of the Year 2024)
                 https://gist.github.com/cpursley/c8fb81fe8a7e5df038158bdfe0f06dbb (PostgreSQL is Enough)
+                https://github.com/aws/pgactive (pgactive is a PostgreSQL replication extension for creating an active-active database.)
                 https://github.com/dhamaniasad/awesome-postgres (A curated list of awesome PostgreSQL software, libraries, tools and resources, inspired by awesome-mysql)
                 https://github.com/okbob/pspg (Unix pager designed for work with tables. Designed for PostgreSQL, but MySQL is supported too. Now it can be used as CSV or TSV viewer. Works well with pgcli too.)
                 https://github.com/Olshansk/postgres_for_everything (How to reduce complexity and move faster? Just Postgres for everything.)
@@ -2606,6 +2607,7 @@ Contents:
             Flipper Zero
                 https://flipperzero.one (Multi-tool Device for Geeks)
                 https://github.com/DarkFlippers/unleashed-firmware (https://t.me/flipperzero_unofficial Flipper Zero Unleashed Firmware)
+                https://github.com/lraton/FlopperZiro (http://flopperziro.iraton.it A Flipper Zero clone, but cheapest, DIY and simply Open Source, made with Arduino IDE )
                 https://github.com/topics/flipper (Public repositories for Flipper)
 
         macOS:
@@ -5206,6 +5208,7 @@ Contents:
                 https://www.lowendstock.com (Compare and check the stock of the cheapest low end virtual private server offers!)
                 https://www.reddit.com/r/VPS+homelab
                 https://www.vpsbenchmarks.com
+                https://codecaptured.com/blog/my-ultimate-self-hosting-setup (My Ultimate Self-hosting Setup)
                 https://pinboard.in/u:SharjeelSayed/t:vps
 
             Hosting Providers: (Sorted by SimilarWeb.com Rank)
