@@ -3257,7 +3257,7 @@ Contents:
                 https://github.com/labmlai/annotated_deep_learning_paper_implementations ( 🧑‍🏫 60 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠 )
                 https://github.com/NirDiamant/GenAI_Agents (This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems. )
                 https://github.com/patchy631/ai-engineering-hub (In-depth tutorials on LLMs, RAGs and real-world AI agent applications. )
-                https://lmarena.ai/?leaderboard (Chatbot Arena LLM Leaderboard: Community-driven Evaluation for Best LLM and AI chatbots)
+                https://lmarena.ai/leaderboard (Chatbot Arena LLM Leaderboard: Community-driven Evaluation for Best LLM and AI chatbots.See how leading models stack up across text, image, vision, and beyond. )
                 https://news.ycombinator.com/item?id=12713056 (Ask HN: How to get started with machine learning?)
                 https://news.ycombinator.com/item?id=16493489 (Machine Learning Crash Course)
                 https://news.ycombinator.com/item?id=18321665 (Foundations of ML and AI: Book recommendations (dragan.rocks))
@@ -5489,15 +5489,16 @@ Contents:
 
             Rolex:
                 Sources:
-                    How To Adjust The Easy Link Clasp On Your Rolex Datejust https://Youtu.Be/Wklaunj8e84?Si=Eshm_Enanxcwve4i https://Youtu.Be/Y_Gvrragyne?Si=Kon82ftgsqbueuxt
-                    https://En.Wikipedia.Org/Wiki/Sae_904l_Stainless_Steel (Sae 904l Stainless Steel)
-                    https://Quillandpad.Com/2024/02/13/Rolex-Case-Study-How-Many-Watches-And-How-Much-Money-Does-Rolex-Make-2 (Rolex Case Study: How Many Watches And How Much Money Does Rolex Make?)
+                    https://en.Wikipedia.Org/Wiki/Sae_904l_Stainless_Steel (Sae 904l Stainless Steel)
+                    https://quillandpad.Com/2024/02/13/Rolex-Case-Study-How-Many-Watches-And-How-Much-Money-Does-Rolex-Make-2 (Rolex Case Study: How Many Watches And How Much Money Does Rolex Make?)
                     https://teddybaldassarre.com/blogs/watches/most-expensive-rolex-watches (The Most Expensive Rolex Watches: Current Collection and All-Time)
                     https://Www.Rolexmagazine.Com/2009/03/Reinhold-Messner-Rolex-Explorer-Mark-Ii.Html (The Complete History Of The Rolex Explorer Ii)
                     https://Xj5wpvbg6op.Typeform.Com/Rolex-Waitlist (Rolex Waitlist Calculator)
                     https://youtu.be/28jPZtC7JfE?si=BjWhQgiuDPhUI1fQ (Rolex Datejust 41 Buyers Guide (Steel) - Dials Ranked Worst to Best by Watchtrader & Co)
-                    https://Youtu.Be/Qf_1fgrixhi?Si=Q7hl1bkduyiqmqqy (The Rolex Waitlist Explained (Wait Times Included) By Luxury Bazaar)
-                    https://Youtu.Be/Yd8bzxnfc_4?Si=Nprbf1cbmxtf9s04 (Rolex Oyster Perpetual Buyers Guide - Ranked Worst To Best By Watchtrader & Co)
+                    https://youtu.Be/Qf_1fgrixhi?Si=Q7hl1bkduyiqmqqy (The Rolex Waitlist Explained (Wait Times Included) By Luxury Bazaar)
+                    https://youtu.Be/Wklaunj8e84?Si=Eshm_Enanxcwve4i https://Youtu.Be/Y_Gvrragyne?Si=Kon82ftgsqbueuxt (How To Adjust The Easy Link Clasp On Your Rolex Datejust )
+                    https://youtu.Be/Yd8bzxnfc_4?Si=Nprbf1cbmxtf9s04 (Rolex Oyster Perpetual Buyers Guide - Ranked Worst To Best By Watchtrader & Co)
+                    https://youtube.com/playlist?list=PL6Ew23VmnLyRXb6qI2nEWRkq5myfuHWLU&si=rFtinKXyY2w_BmDW (Rolex Ranked by Watchtrader & Co)
 
                 Rolex Cosmograph Daytona:
                     https://en.wikipedia.org/wiki/Rolex_Cosmograph_Daytona (Rolex Cosmograph Daytona)
@@ -5509,6 +5510,7 @@ Contents:
                     https://en.wikipedia.org/wiki/Rolex_GMT_Master_II#Ceramic_bezel_models
                     https://watchcharts.com/watch_model/733-rolex-gmt-master-ii-pepsi-126710blro/overview (Rolex Pepsi 126710BLRO Overview)
                     https://www.rolex.com/watches/gmt-master-ii/m126710blro-0001 (Oyster, 40 mm, Oystersteel, Red and blue bezel, Oyster bracelet, Black dial Reference 126710BLRO) # Rolex Pepsi
+                    https://youtu.be/GJDTvzbozrM?si=MLlVZrJts7y3b5RK (Rolex GMT-Master II Buyers Guide - Ranked Worst to Best by Watchtrader & Co)
                     https://youtu.be/hklL3MtuJGo?si=1ZteG6x5VBMLJ8Ip (How to set your Rolex GMT-Master II )
 
                 Rolex Submariner:
