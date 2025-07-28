@@ -261,6 +261,7 @@ Contents:
                 https://github.com/30-seconds/30-seconds-of-code (https://www.30secondsofcode.org Short code snippets for all your development needs)
                 https://github.com/aceking007/100ProjectsOfCode (A list of practical knowledge-building projects. )
                 https://github.com/AlgoryL/Projects-from-Scratch (A curated list for projects building from scratch.)
+                https://github.com/aws/amazon-q-developer-cli (https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/command-line-installing.html ✨ Agentic chat experience in your terminal. Build applications using natural language.)
                 https://github.com/backstage/backstage (https://backstage.io Backstage is an open platform for building developer portals)
                 https://github.com/bnb/awesome-developer-streams (👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻 Awesome Developers, Streaming )
                 https://github.com/braydie/HowToBeAProgrammer (A guide on how to be a Programmer - originally published by Robert L Read https://braydie.gitbooks.io/how-to-be-a-programmer/content)
@@ -272,6 +273,7 @@ Contents:
                 https://github.com/DevToys-app/DevToys (A Swiss Army knife for developers. https://devtoys.app)
                 https://github.com/EbookFoundation/free-programming-books (https://ebookfoundation.github.io/free-programming-books 📚 Freely available programming books)
                 https://github.com/facundoolano/software-papers (📚 A curated list of papers for Software Engineers)
+                https://github.com/freeCodeCamp/devdocs (https://devdocs.io API Documentation Browser )
                 https://github.com/hackclub/some-assembly-required (An approachable introduction to assembly.)
                 https://github.com/jwasham/coding-interview-university (A complete computer science study plan to become a software engineer.)
                 https://github.com/kamranahmedse/design-patterns-for-humans (An ultra-simplified explanation to design patterns)
@@ -901,13 +903,14 @@ Contents:
                 https://github.com/ibraheemdev/modern-unix (A collection of modern/faster/saner alternatives or complements to common unix commands.)
                 https://github.com/leandromoreira/linux-network-performance-parameters (Learn where some of the network sysctl variables fit into the Linux/Kernel network flow. Translations: 🇷🇺 )
                 https://github.com/luong-komorebi/Awesome-Linux-Software (https://luong-komorebi.github.io/Awesome-Linux-Software 🐧 A list of awesome Linux softwares )
-                https://netfilter.org/documentation (Documentation about the netfilter/iptables project)
+                https://github.com/tldr-pages/tldr (https://tldr.sh 📚 Collaborative cheatsheets for console commands)
                 https://github.com/topics/lamp?o=desc&s=stars
                 https://github.com/topics/linux?o=desc&s=stars
                 https://github.com/vm32/Linux-Incident-Response (practical toolkit for cybersecurity and IT professionals. It features a detailed Linux cheatsheet for incident response)
                 https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools (A list of new(ish) command line tools)
                 https://linuxcommandlibrary.com
                 https://lpc.events (The Linux Plumbers Conference is the premier event for developers working at all levels of the plumbing layer and beyond)
+                https://netfilter.org/documentation (Documentation about the netfilter/iptables project)
                 https://news.ycombinator.com/item?id=22564665 (Linux Kernel Teaching (linux-kernel-labs.github.io))
                 https://news.ycombinator.com/item?id=24027366 (	Low latency tuning guide)
                 https://news.ycombinator.com/item?id=26053323 (	A visual guide to SSH tunnels (robotmoon.com))
@@ -915,7 +918,6 @@ Contents:
                 https://ntk148v.github.io/posts/linux-network-performance-ultimate-guide (Linux Network Performance Ultimate Guide)
                 https://sadservers.com (Troubleshoot and make a sad server happy! "Like LeetCode for Linux" Capture The Flag challenges. Train and prove your debugging skills. Practice for your next SRE/DevOps interview.Get a full remote Linux server with a problem and fix it.)
                 https://systemd-by-example.com (The playground allows you to learn about systemd interactively, right from your browser!)
-                https://tldr.sh (Simplified and community-driven man pages)
                 https://tuxurls.com
                 https://www.amazon.com/gp/bestsellers/books/285860 (Best Sellers in Linux Certification Guides)
                 https://www.amazon.com/gp/bestsellers/books/291379 (Best Sellers in Linux Kernel & Peripherals)
@@ -1169,6 +1171,7 @@ Contents:
                 https://github.com/ChrisTitusTech/winutil (Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates)
                 https://github.com/dockur/windows (Windows in a Docker container)
                 https://github.com/eythaann/Seelen-UI (The Fully Customizable Desktop Environment for Windows 10/11.)
+                https://github.com/HotCakeX/Harden-Windows-Security (Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels)
                 https://github.com/massgravel/Microsoft-Activation-Scripts (https://massgrave.dev A Windows and Office activator using HWID / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.)
                 https://github.com/microsoft/PowerToys (Windows system utilities to maximize productivity)
                 https://github.com/Raphire/Win11Debloat (A simple, easy to use powershell script to remove bloatware apps from windows, disable telemetry, bing in windows search aswell as perform various other changes to declutter and improve your windows experience. This script works for both windows 10 and windows 11.)
@@ -2533,6 +2536,7 @@ Contents:
                 https://github.com/devsecops/awesome-devsecops (https://www.devsecops.org An authoritative list of awesome devsecops tools with the help from community experiments and contributions.)
                 https://github.com/docker/docker-bench-security (The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.)
                 https://github.com/gchq/CyberChef (https://gchq.github.io/CyberChef The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis)
+                https://github.com/HotCakeX/Harden-Windows-Security (Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels)
                 https://github.com/iacsecurity/tool-compare (infrastructure-as-code security tools comparison)
                 https://github.com/infobyte/faraday (https://faradaysec.com Open Source Vulnerability Management Platform)
                 https://github.com/jtesta/ssh-audit (SSH server & client security auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc))
@@ -2540,6 +2544,7 @@ Contents:
                 https://github.com/Lissy93/web-check (🌐 All-in-one OSINT tool for analysing any website)
                 https://github.com/Manisso/fsociety (fsociety Hacking Tools Pack – A Penetration Testing Framework)
                 https://github.com/OWASP/Nettacker (https://owasp.org/www-project-nettacker Automated Penetration Testing Framework - Open-Source Vulnerability Scanner - Vulnerability Management )
+                https://github.com/p1ngul1n0/blackbird (An OSINT tool to search for accounts by username and email in social networks. https://p1ngul1n0.gitbook.io/blackbird)
                 https://github.com/pirxthepilot/wtfis (Passive hostname, domain and IP lookup tool for non-robots)
                 https://github.com/prowler-cloud/prowler (https://prowler.pro Prowler is an Open Source Security tool for AWS, Azure and GCP to perform Cloud Security best practices assessments, audits, incident response, compliance, continuous monitoring, hardening and forensics readiness. Includes CIS, NIST 800, NIST CSF, CISA, FedRAMP, PCI-DSS, GDPR, HIPAA, FFIEC, SOC2, GXP, Well-Architected Security, ENS and more.)
                 https://github.com/prowler-cloud/prowler (https://prowler.pro Prowler is an Open Source Security tool for AWS, Azure and GCP to perform Cloud Security best practices assessments, audits, incident response, compliance, continuous monitoring, hardening and forensics readiness. Includes CIS, NIST 800, NIST CSF, CISA, FedRAMP, PCI-DSS, GDPR, HIPAA, FFIEC, SOC2, GXP, Well-Architected Security, ENS and more.)
@@ -2596,6 +2601,7 @@ Contents:
         Hardware:
             Sources:
                 https://github.com/alexellis/awesome-baremetal (Bare-metal is awesome. Let's share our favourite tools.)
+                https://github.com/bluewave-labs/Checkmate (https://checkmate.so Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations. Don't be shy, join here)
                 https://linuxblog.io/home-lab-beginners-guide-hardware (Home Lab Beginners Guide - Hardware)
                 https://news.ycombinator.com/item?id=14123394 (Ask HN: What's the Hacker News of hardware?)
                 https://news.ycombinator.com/item?id=15733760 (What are hardware development learning web tutorials?)
@@ -3177,6 +3183,7 @@ Contents:
 
         Node.js:
             Sources:
+                https://github.com/goldbergyoni/nodebestpractices (✅ The Node.js best practices list (July 2024) https://x.com/nodepractices )
                 https://github.com/goldbergyoni/nodebestpractices (The Node.js best practices list)
                 https://github.com/sindresorhus/awesome-nodejs
                 https://github.com/topics/nodejs?o=desc&s=stars
@@ -3252,6 +3259,7 @@ Contents:
                 https://github.com/appcypher/awesome-mcp-servers (Awesome MCP Servers - A curated list of Model Context Protocol servers )
                 https://github.com/dair-ai/ML-Papers-of-the-Week (🔥Highlighting the top ML papers every week.)
                 https://github.com/dair-ai/Prompt-Engineering-Guide (🐙 Guides, papers, lecture, notebooks and resources for prompt engineering )
+                https://github.com/daveebbelaar/ai-cookbook (Examples and tutorials to help developers build AI systems https://www.youtube.com/@daveebbelaar)
                 https://github.com/eugeneyan/applied-ml (📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.)
                 https://github.com/GoogleCloudPlatform/generative-ai (https://cloud.google.com/vertex-ai/docs/generative-ai/learn/overview Sample code and notebooks for Generative AI on Google Cloud)
                 https://github.com/labmlai/annotated_deep_learning_paper_implementations ( 🧑‍🏫 60 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠 )
@@ -3279,6 +3287,7 @@ Contents:
                 https://github.com/All-Hands-AI/OpenHands (https://www.all-hands.dev 🙌 OpenHands: Code Less, Make More )
                 https://github.com/asgeirtj/system_prompts_leaks (system_prompts_leaks)
                 https://github.com/AsyncFuncAI/deepwiki-open (Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab Repositories)
+                https://github.com/aws/amazon-q-developer-cli (https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/command-line-installing.html ✨ Agentic chat experience in your terminal. Build applications using natural language.)
                 https://github.com/bodo-run/yek (A fast tool to read text-based files in a repository or directory, chunk them, and serialize them for LLM consumption. )
                 https://github.com/browser-use/browser-use ( https://browser-use.com Make websites accessible for AI agents)
                 https://github.com/cline/cline (https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.)
@@ -3290,6 +3299,7 @@ Contents:
                 https://github.com/friuns2/BlackFriday-GPTs-Prompts (https://aidark.net List of free GPTs that doesn't require plus subscription)
                 https://github.com/GoogleCloudPlatform/kubectl-ai (AI powered Kubernetes Assistant)
                 https://github.com/Hannibal046/Awesome-LLM (Awesome-LLM: a curated list of Large Language Model)
+                https://github.com/hesreallyhim/awesome-claude-code (A curated list of awesome commands, files, and workflows for Claude Code )
                 https://github.com/humanloop/awesome-chatgpt (Curated list of awesome tools, demos, docs for ChatGPT and GPT-3 )
                 https://github.com/langgenius/dify (https://dify.ai Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production. )
                 https://github.com/lobehub/lobe-chat (https://chat-preview.lobehub.com/chat 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / DeepSeek / Qwen), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Plugins/Artifacts) and Thinking. One-click FREE deployment of your private ChatGPT/ Claude / DeepSeek application. )
@@ -3324,6 +3334,7 @@ Contents:
 
                 Andrej Karpathy's YouTube Channel
                     https://www.youtube.com/@AndrejKarpathy
+                    https://github.com/karpathy/nn-zero-to-hero (Neural Networks: Zero to Hero)
 
                 Neural networks by 3Blue1Brown
                     https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&si=fKXJlkssxt-cYgWe
@@ -3365,6 +3376,7 @@ Contents:
                 https://github.com/continuedev/continue (https://continue.dev ⏩ Continue is an open-source autopilot for VS Code and JetBrains—the easiest way to code with any LLM)
                 https://github.com/coteditor/CotEditor (https://coteditor.com CotEditor is a lightweight, open-source text editor for macOS.)
                 https://github.com/daytonaio/daytona (The Open Source Dev Environment Manager. https://www.daytona.io)
+                https://github.com/helix-editor/helix (https://helix-editor.com A post-modern modal text editor. )
                 https://github.com/topics/editor (public repositories matching this topic editor)
                 https://github.com/zed-industries/zed (https://zed.dev Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.)
                 https://news.ycombinator.com/item?id=43959710 (Ask HN: Cursor or Windsurf?)
@@ -3688,6 +3700,7 @@ Contents:
                 https://github.com/poteto/hiring-without-whiteboards (⭐️ Companies that don't have a broken hiring process)
                 https://github.com/randallkanna/awesome-job-list (A list of the best places to job hunt. I've been curating this for the past 7 years.)
                 https://github.com/ReaVNaiL/New-Grad-2024 (👋 Hey there new grad🎉! We've put together a collection of full-time job openings for SWE, Quant, PM and tech roles in 2024! 🚀 )
+                https://github.com/remoteintech/remote-jobs (A list of semi to fully remote-friendly companies (jobs) in tech. https://remoteintech.company)
                 https://github.com/SimplifyJobs/New-Grad-Positions (A collection of New Grad full time roles in SWE, Quant, and PM.)
                 https://github.com/SimplifyJobs/Summer2025-Internships (https://swelist.com Collection of Summer 2025 tech internships!)
                 https://github.com/speedyapply/swe-college-jobs (The most comprehensive 2024 SWE internship & new graduate job list on GitHub.)
@@ -3769,6 +3782,7 @@ Contents:
                 https://arbeitnow.com/?tags=%5B%22visa%20sponsorship%22%5D (6,208,741)
                 https://remotive.com
                 https://eshsoft.com/jobinator (Search through recent Hacker News job listings, categorized and normalized using a LLM. Updated daily.)
+                https://remoteintech.company
 
             Arab League Countries Job Sites:
                 https://ae.indeed.com (66)
@@ -5563,7 +5577,7 @@ Contents:
                 https://www.longines.com/en-in/p/watch-longines-dolcevita-l5-255-4-71-6 (Longines Dolcevita)
 
             Tudor:
-                    https://www.reddit.com/r/Tudor/comments/14o9a6f/comment/jqbq9po (Pelagos is basically a titanium Sea Dweller, Pelagos 39 is a titanium Sub, BB58 and 54s are vintage Subs, Tudor GMT is basically a vintage Pepsi, the BB 31/36/39/41s are basically smooth bezel datelessjusts.)
+                https://www.reddit.com/r/Tudor/comments/14o9a6f/comment/jqbq9po (Pelagos is basically a titanium Sea Dweller, Pelagos 39 is a titanium Sub, BB58 and 54s are vintage Subs, Tudor GMT is basically a vintage Pepsi, the BB 31/36/39/41s are basically smooth bezel datelessjusts.)
 
         Fashion:
             Soruces:
@@ -5641,6 +5655,7 @@ Contents:
         https://github.com/ArduPilot/ardupilot (https://ardupilot.org ArduPilot is a trusted, versatile, and open source autopilot system supporting many vehicle types: multi-copters, traditional helicopters, fixed wing aircraft, boats, submarines, rovers and more. )
         https://github.com/automattic/harper (https://writewithharper.com Offline, privacy-first grammar checker. Fast, open-source, Rust-powered )
         https://github.com/btw-so/open-source-alternatives (List of open-source alternatives to everyday SaaS products.)
+        https://github.com/C4illin/ConvertX (💾 Self-hosted online file converter. Supports 1000+ formats ⚙️)
         https://github.com/chubin/awesome-console-services (A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols))
         https://github.com/girliemac/a-picture-is-worth-a-1000-words (I am trying to describe complex matters in simple doodles!)
         https://github.com/goenning/google-indexing-script (https://seogets.com/blog/google-indexing-script Google Indexing Script)
