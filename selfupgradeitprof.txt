@@ -1998,6 +1998,9 @@ Contents:
                     https://github.com/morethancertified/mtc-terraform
                     https://techstudyslack.slack.com/archives/C01E7UKHR34
 
+                HashiCorp Terraform: The Ultimate Beginner's Guide with Labs by Bryan Krausen:
+                    https://www.udemy.com/course/terraform-for-beginners-with-labs
+
                 HashiCorp Certified: Terraform Associate Practice Exam 2025 by Bryan Krausen:
                     https://www.udemy.com/course/terraform-associate-practice-exam
                     https://github.com/btkrausen (Coupon Codes)
@@ -3372,6 +3375,7 @@ Contents:
 
         IDE:
             Sources:
+                https://cursor.com (The AI Code Editor)
                 https://editorconfig.org (EditorConfig helps maintain consistent coding styles for multiple developers working on the same project across various editors and IDEs.)
                 https://github.com/continuedev/continue (https://continue.dev ⏩ Continue is an open-source autopilot for VS Code and JetBrains—the easiest way to code with any LLM)
                 https://github.com/coteditor/CotEditor (https://coteditor.com CotEditor is a lightweight, open-source text editor for macOS.)
@@ -5210,6 +5214,8 @@ Contents:
 
         Hosting:
             Sources:
+                https://codecaptured.com/blog/my-ultimate-self-hosting-setup (My Ultimate Self-hosting Setup)
+                https://github.com/9001/copyparty (Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps )
                 https://github.com/awesome-selfhosted/awesome-selfhosted (A list of Free Software network services and web applications which can be hosted on your own servers https://awesome-selfhosted.net)
                 https://github.com/joedicastro/vps-comparison (https://github.com/joedicastro/vps-comparison#automation A comparison between some VPS providers. It uses Ansible to perform a series of automated benchmark tests over the VPS servers that you specify. It allows the reproducibility of those tests by anyone that wanted to compare these results to their own. All the tests results are available in order to provide independence and transparency.)
                 https://github.com/mikeroyal/Self-Hosting-Guide (Self-Hosting Guide. Learn all about locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.)
@@ -5222,7 +5228,6 @@ Contents:
                 https://www.lowendstock.com (Compare and check the stock of the cheapest low end virtual private server offers!)
                 https://www.reddit.com/r/VPS+homelab
                 https://www.vpsbenchmarks.com
-                https://codecaptured.com/blog/my-ultimate-self-hosting-setup (My Ultimate Self-hosting Setup)
                 https://pinboard.in/u:SharjeelSayed/t:vps
 
             Hosting Providers: (Sorted by SimilarWeb.com Rank)
