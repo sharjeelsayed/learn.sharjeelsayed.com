@@ -1989,20 +1989,14 @@ Contents:
                 https://www.terraform-best-practices.com (Terraform Best Practices by Anton Babenko)
                 https://www.udemy.com/course/learn-devops-kubernetes-deployment-by-kops-and-terraform
                 https://www.udemy.com/topic/terraform/?ratings=4.5&sort=popularity (Udemy Courses rated 4.5 stars and above)
+                https://www.youtube.com/c/NedintheCloud (Ned in the Cloud YouTube Channel)
                 https://youtu.be/V4waklkBC38 (HashiCorp Terraform Associate Certification Course - Pass the Exam! by  Andrew Brown (reeCodeCamp.org))
 
             Books and Courses:
-                More than Certified in Terraform by Derek Morgan:
-                    https://courses.morethancertified.com
-                    https://www.udemy.com/course/terraform-certified
-                    https://github.com/morethancertified/mtc-terraform
-                    https://techstudyslack.slack.com/archives/C01E7UKHR34
-
                 HashiCorp Terraform: The Ultimate Beginner's Guide with Labs by Bryan Krausen:
                     https://www.udemy.com/course/terraform-for-beginners-with-labs
-
-                HashiCorp Certified: Terraform Associate Practice Exam 2025 by Bryan Krausen:
-                    https://www.udemy.com/course/terraform-associate-practice-exam
+                    https://github.com/btkrausen/terraform-codespaces (HashiCorp Terraform training environment using GitHub Codespaces. This pre-configured development environment includes the latest version of Terraform CLI along with AWS and Azure CLIs for hands-on infrastructure as code exercises. )
+                    https://krausen.io/course/hashicorp-terraform-the-ultimate-beginners-guide-with-labs
                     https://github.com/btkrausen (Coupon Codes)
 
                 HashiCorp Certified: Terraform Associate 2022 by Zeal Vora:
@@ -2026,12 +2020,18 @@ Contents:
                 https://tf-eks-workshop.workshop.aws
 
             Additional Material:
+                Bryan Krausen Terraform Additional Courses:
+                    https://www.udemy.com/course/terraform-hands-on-labs (HashiCorp Certified: Terraform Associate - Hands-On Labs .Master the Terraform Associate with 70+ AWS-based labs that follow the Terraform Associate 003 objectives)
+                    https://www.udemy.com/course/terraform-associate-practice-exam (HashiCorp Certified: Terraform Associate Practice Exam 2025.Pass your Terraform cert with 300+ Questions with Explanations and Resources)
+
+                More than Certified in Terraform by Derek Morgan:
+                    https://courses.morethancertified.com
+                    https://www.udemy.com/course/terraform-certified
+                    https://github.com/morethancertified/mtc-terraform
+                    https://techstudyslack.slack.com/archives/C01E7UKHR34
+
                 Deploy Infra in the Cloud using Terraform by Houssem Dellai
                 https://www.udemy.com/course/deploy-infra-in-the-cloud-using-terraform
-
-                Learn DevOps: Infrastructure Automation With Terraform by Edward Viaene
-                https://www.udemy.com/course/learn-devops-infrastructure-automation-with-terraform
-                https://github.com/wardviaene/terraform-course
 
                 Terraform Tutorial by Will Brock
                 https://www.youtube.com/playlist?list=PL8HowI-L-3_9bkocmR3JahQ4Y-Pbqs2Nt
@@ -2160,6 +2160,7 @@ Contents:
                 https://beej.us/guide/bggit (Beej's Guide to Git)
                 https://blog.gitbutler.com/git-tips-and-tricks (Git Tips and Tricks)
                 https://blog.gitbutler.com/how-git-core-devs-configure-git (How Core Git Developers Configure Git by Scott Chacon)
+                https://docs.github.com/en/actions (GitHub Actions documentation)
                 https://git-scm.com/book/en/v2/Git-Tools-Reset-Demystified (Reset vs Checkout)
                 https://github.com/FAQGURU/FAQGURU/blob/master/topics/en/git.md (A list of Git interview questions)
                 https://github.com/git-tips/tips (Most commonly used git tips and tricks.)
