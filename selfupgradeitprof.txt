@@ -1948,9 +1948,17 @@ Contents:
 
         Terraform:
             Sources:
-                https://acloudguru.com/blog/engineering/the-ultimate-terraform-cheatsheet
-                https://github.com/antonbabenko/terraform-best-practices
-                https://github.com/Artemmkin/infrastructure-as-code-tutorial (Infrastructure As Code Tutorial. Covers Packer, Terraform, Ansible, Vagrant, Docker, Docker Compose, Kubernetes )
+                https://github.com/antonbabenko/terraform-best-practices (https://www.terraform-best-practices.com Terraform Best Practices free ebook translated into 🇬🇧🇦🇪🇧🇦🇧🇷🇫🇷🇬🇪🇩🇪🇬🇷🇮🇱🇮🇳🇮🇩🇮🇹🇯🇵🇰🇷🇵🇱🇷🇴🇨🇳🇪🇸🇹🇷🇺🇦🇵🇰 )
+                https://github.com/nsriram/lambda-the-terraform-way (AWS Lambda using Terraform., an Introductory Cookbook)
+                https://github.com/opentofu/opentofu (https://opentofu.org OpenTofu is a fork of Terraform that is open-source, community-driven, and managed by the Linux Foundation.)
+                https://github.com/shuaibiyy/awesome-terraform (Curated list of resources on HashiCorp's Terraform )
+                https://github.com/topics/infrastructure-as-code?o=desc&s=stars
+                https://github.com/topics/terraform?o=desc&s=stars
+                https://www.ansible.com/blog/providing-terraform-with-that-ansible-magic (Providing Terraform with that Ansible Magic)
+                https://www.reddit.com/r/Terraform (Terraform discussion, resources, and other HashiCorp news.)
+                https://www.terraform-best-practices.com (Terraform Best Practices by Anton Babenko)
+
+            Terraform Tools:
                 https://github.com/camptocamp/terraboard (A web dashboard to inspect Terraform States)
                 https://github.com/cloudposse (Use our ready-to-go terraform architecture blueprints for AWS to get up and running quickly)
                 https://github.com/coder/coder (https://coder.com Provision remote development environments via Terraform )
@@ -1960,46 +1968,39 @@ Contents:
                 https://github.com/infracost/infracost (Cloud cost estimates for Terraform in pull requests💰📉 Love your cloud bill!)
                 https://github.com/infracost/vscode-infracost ( See cost estimates for Terraform right in your editor💰📉 www.infracost.io )
                 https://github.com/JamesWoolfenden/pike (Pike is a tool for determining the permissions or policy required for IAC code)
-                https://github.com/nsriram/lambda-the-terraform-way (AWS Lambda using Terraform., an Introductory Cookbook)
-                https://github.com/opentofu/opentofu (https://opentofu.org OpenTofu is a fork of Terraform that is open-source, community-driven, and managed by the Linux Foundation.)
-                https://github.com/shuaibiyy/awesome-terraform (Curated list of resources on HashiCorp's Terraform )
                 https://github.com/tfutils/tfenv (Terraform version manager)
-                https://github.com/topics/infrastructure-as-code?o=desc&s=stars
-                https://github.com/topics/terraform?o=desc&s=stars
                 https://github.com/warrensbox/terraform-switcher (A command line tool to switch between different versions of terraform)
-                https://learn.hashicorp.com/collections/terraform/certification-associate-tutorials (Study for the Terraform Associate exam by following these tutorials)
-                https://learn.hashicorp.com/terraform
-                https://learn.hashicorp.com/tutorials/terraform/associate-study (Study Guide - Terraform Associate Certification)
-                https://medium.com/@brenspiration/free-online-courses-on-kubernetes-docker-products-terraform-2a3cd296ce95
                 https://registry.terraform.io (Terraform Registry )
-                https://scalr.com/blog/top-20-terraform-providers
                 https://serverlessland.com/patterns (Use serverless patterns to quickly build integrations using AWS SAM and CDK templates. )
                 https://terraform-docs.io (Generate Terraform modules documentation in various formats.)
-                https://terragrunt.gruntwork.io
-                https://terratest.gruntwork.io
-                https://www.ansible.com/blog/providing-terraform-with-that-ansible-magic (Providing Terraform with that Ansible Magic)
-                https://www.facebook.com/groups/840062592768074 (Learn DevOps: Continuously Deliver Better Software)
-                https://www.hashicorp.com/community/office-hours (Public, Virtual Office Hours)
-                https://www.linuxtek.ca/2022/10/29/terraform-associate-certification-resources-and-recommendations (Terraform Associate Certification – Resources and Recommendations)
-                https://www.reddit.com/r/Terraform
-                https://www.reddit.com/r/Terraform/comments/iguorh/best_terraform_course
+                https://terragrunt.gruntwork.io (Terragrunt is a flexible orchestration tool that allows Infrastructure as Code to scale. )
+                https://terratest.gruntwork.io (Terratest is a Go library that provides patterns and helper functions for testing infrastructure, with 1st-class support for Terraform, Packer, Docker, Kubernetes, AWS, GCP, and more. )
                 https://www.reddit.com/r/Terraform/comments/x09dlm/list_of_most_useful_terraform_opensource_tools (List of most useful Terraform open-source tools)
                 https://www.revolgy.com/insights/blog/complete-guide-for-picking-the-right-tool-for-terraform-security-code-analysis (Complete guide for picking the right tool for Terraform Security Code Analysis)
                 https://www.runatlantis.io (Atlantis:Terraform Pull Request Automation Running Terraform Workflows with Ease)
-                https://www.terraform-best-practices.com (Terraform Best Practices by Anton Babenko)
-                https://www.udemy.com/course/learn-devops-kubernetes-deployment-by-kops-and-terraform
-                https://www.udemy.com/topic/terraform/?ratings=4.5&sort=popularity (Udemy Courses rated 4.5 stars and above)
-                https://www.youtube.com/c/NedintheCloud (Ned in the Cloud YouTube Channel)
-                https://youtu.be/V4waklkBC38 (HashiCorp Terraform Associate Certification Course - Pass the Exam! by  Andrew Brown (reeCodeCamp.org))
 
             Books and Courses:
+                Sources:
+                    https://acloudguru.com/blog/engineering/the-ultimate-terraform-cheatsheet (The Ultimate Terraform Commands Cheat Sheet)
+                    https://developer.hashicorp.com/terraform/tutorials/certification-003 (Prepare for the Terraform Associate (003) Certification Exam)
+                    https://learn.hashicorp.com/collections/terraform/certification-associate-tutorials (Study for the Terraform Associate exam by following these tutorials)
+                    https://learn.hashicorp.com/terraform (Hashicorp Terraform Learn)
+                    https://learn.hashicorp.com/tutorials/terraform/associate-study (Study Guide - Terraform Associate Certification)
+                    https://www.facebook.com/groups/840062592768074 (Learn DevOps: Continuously Deliver Better Software)
+                    https://www.terraformacademy.com (This experience is exclusive to the mobile app. Download Terraform Academy to unlock Pro Labs, guided quizzes, AI coaching and DevOps Tools. )
+                    https://www.udemy.com/course/learn-devops-kubernetes-deployment-by-kops-and-terraform (Learn Devops Kubernetes deployment by kops and terraform Comprehensive Nginx deployment to Kubernetes on AWS by using kops and terraform)
+                    https://www.udemy.com/topic/terraform/?ratings=4.5&sort=popularity (Udemy Courses rated 4.5 stars and above)
+                    https://www.youtube.com/c/NedintheCloud (Ned in the Cloud YouTube Channel)
+                    https://youtu.be/V4waklkBC38 (HashiCorp Terraform Associate Certification Course - Pass the Exam! by  Andrew Brown (reeCodeCamp.org))
+
                 HashiCorp Terraform: The Ultimate Beginner's Guide with Labs by Bryan Krausen:
                     https://www.udemy.com/course/terraform-for-beginners-with-labs
+                    https://github.com/btkrausen/terraform
                     https://github.com/btkrausen/terraform-codespaces (HashiCorp Terraform training environment using GitHub Codespaces. This pre-configured development environment includes the latest version of Terraform CLI along with AWS and Azure CLIs for hands-on infrastructure as code exercises. )
                     https://krausen.io/course/hashicorp-terraform-the-ultimate-beginners-guide-with-labs
                     https://github.com/btkrausen (Coupon Codes)
 
-                HashiCorp Certified: Terraform Associate 2022 by Zeal Vora:
+                HashiCorp Certified: Terraform Associate 2025 by Zeal Vora:
                     https://www.udemy.com/course/terraform-beginner-to-advanced
                     https://github.com/zealvora/coupon-codes ((Coupon Codes))
                     https://github.com/zealvora/terraform-beginner-to-advanced-resource
@@ -2566,6 +2567,7 @@ Contents:
                 https://r00m101.com/tools (Comprehensive Collection Of Open Source Intelligence Tools For Investigators, Researchers, And Security Professionals)
                 https://stratoshark.org (Stratoshark lets you explore and analyze applications at the system call level using a mature, proven interface based on Wireshark. Created for the community by Sysdig)
                 https://tools.tldr.run (Curated list of security tools for Hackers & Builders!)
+                https://www.revolgy.com/insights/blog/complete-guide-for-picking-the-right-tool-for-terraform-security-code-analysis (Complete guide for picking the right tool for Terraform Security Code Analysis)
 
             Books and Courses:
                 Penetration Testing: A Hands-On Introduction to Hacking
