@@ -255,6 +255,7 @@ Contents:
                 https://devtoolstips.org (154 DevTools Tips)
                 https://devurls.com
                 https://docs.google.com/spreadsheets/d/1gIRjeB1Y_AMvtmJsZWl_dNMDJ7lPSIxiVUYyEvrP5P4/htmlview?usp=sharing&sle=true (Popular Programming Podcast episodes)
+                https://en.wikipedia.org/wiki/Camel_case (Camel case naming convention)
                 https://exercism.org (Develop fluency in 61 programming languages with our unique blend of learning, practice and mentoring.)
                 https://fasterthanli.me/articles/the-http-crash-course-nobody-asked-for (The HTTP crash course nobody asked for)
                 https://fintechgtm.substack.com/p/us-fintech-and-payments-crash-course (U.S. Fintech & Payments Crash Course)
@@ -1025,6 +1026,7 @@ Contents:
 
         Bash:
             Sources:
+                https://en.wikipedia.org/wiki/Snake_case (Snake case naming convention)
                 https://github.com/alebcay/awesome-shell (A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.)
                 https://github.com/alexanderepstein/Bash-Snippets (A collection of small bash scripts for heavy terminal users)
                 https://github.com/Bash-it/bash-it (Bash-it is a collection of community Bash commands and scripts for Bash 3.2+.)
@@ -1302,14 +1304,12 @@ Contents:
             Sources:
                 https://cloud.redhat.com/blog/top-open-source-kubernetes-security-tools-of-2021 (Top Open Source Kubernetes Security Tools of 2021)
                 https://docs.aws.amazon.com/prescriptive-guidance/latest/containers-provision-eks-clusters-terraform/welcome.html (Provisioning production-ready Amazon EKS clusters using Terraform)
-                https://docs.google.com/spreadsheets/d/10NltoF_6y3mBwUzQ4bcQLQfCE1BWSgUDcJXy-Qp2JEU (The Kubernetes Learning Resources List)
                 https://github.com/ahmetb/kubernetes-network-policy-recipes (Example recipes for Kubernetes Network Policies that you can just copy paste)
                 https://github.com/alexellis/k3sup (bootstrap Kubernetes with k3s over SSH < 1 min 🚀)
                 https://github.com/askmeegs/learn-istio (⛵️ Istio resources 🕸)
                 https://github.com/dennyzhang/cheatsheet-kubernetes-A4 (📖 Kubernetes CheatSheets In A4)
                 https://github.com/devtron-labs/devtron (Devtron is an integrated Kubernetes distribution which bundles Argo, Grafana, Helm, Keda, Prometheus and more, saving you the effort of integrating yourself)
                 https://github.com/jatrost/awesome-kubernetes-threat-detection (A curated list of resources about detecting threats and defending Kubernetes systems.)
-                https://github.com/jpetazzo/container.training (https://container.training Slides and code samples for training, tutorials, and workshops about Docker, containers, and Kubernetes.)
                 https://github.com/karmada-io/karmada (Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration)
                 https://github.com/kelseyhightower/kubernetes-the-hard-way (Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.)
                 https://github.com/ksoclabs/awesome-kubernetes-security (A curated list of awesome Kubernetes security resources)
@@ -1317,29 +1317,19 @@ Contents:
                 https://github.com/LeCoupa/awesome-cheatsheets/blob/master/tools/kubernetes.md
                 https://github.com/madhuakula/kubernetes-goat (Kubernetes Goat is "Vulnerable by Design" Kubernetes Cluster)
                 https://github.com/magnologan/awesome-k8s-security (A curated list for Awesome Kubernetes Security resources)
-                https://github.com/marcel-dempers/docker-development-youtube-series (A Collection of tools, hands-on walkthroughs with source code.The Ultimate Swiss Army knife for DevOps, Developers and Platform Engineers)
                 https://github.com/nkuba/k8s-admin-helper (Kubernetes manifests templates and cheat sheets.)
                 https://github.com/nubenetes/awesome-kubernetes (https://redhatspain.com/kubernetes A curated list of awesome references collected since 2018.)
                 https://github.com/OWASP/www-project-kubernetes-top-ten (OWASP Foundation Web Respository)
                 https://github.com/ramitsurana/awesome-kubernetes (A curated list for awesome kubernetes sources 🚢🎉)
-                https://github.com/techiescamp/kubernetes-learning-path (A roadmap to learn Kubernetes from scratch (Beginner to Advanced level))
                 https://github.com/terraform-aws-modules/terraform-aws-eks (https://registry.terraform.io/modules/terraform-aws-modules/eks/aws Terraform module to create AWS Elastic Kubernetes (EKS) resources 🇺🇦)
                 https://github.com/tomhuang12/awesome-k8s-resources (A curated list of awesome Kubernetes tools and resources.)
                 https://github.com/topics/kubernetes?o=desc&s=stars
-                https://goo.gl/Rywkpd (The Kubernetes Learning Resources List)
-                https://hackr.io/tutorials/learn-kubernetes (Kubernetes Tutorials and Courses)
-                https://journal.hexmos.com/kubernetes-ports-overview-covering-expose-nodeport-targetport (6 Kubernetes Ports: A Definitive Look - Expose, NodePort, TargetPort, & More)
                 https://k8slanparty.com (A CTF designed to challenge your Kubernetes hacking skills through a series of critical network vulnerabilities and misconfigurations.)
-                https://kube.academy (Learn Kubernetes From Experts For Free. KubeAcademy from VMware)
                 https://kubenews.net (Kubernetes and Cloud Native Computing Foundation News Sources)
                 https://kubernetes.io/blog/2024/04/05/diy-create-your-own-cloud-with-kubernetes-part-1 (DIY: Create Your Own Cloud with Kubernetes - Part 1)
                 https://kubernetes.io/docs/concepts/security/security-checklist (Kubernetes Security Checklist)
                 https://kubernetesbyexample.com (KBE lessons emphasize an ‘absorb by doing’ approach so you can practices skills as they are explored and explained to learn Kubernetes By Example)
-                https://kubernetesreadme.com (What books 📚 to read to learn more about Kubernetes)
-                https://labs.play-with-k8s.com (Play with Kubernetes is a labs site provided by Docker and created by Tutorius.)
-                https://learning.oreilly.com/search/?query=kubernetes
                 https://news.ycombinator.com/item?id=29251343 (Ask HN: What is the fastest way to ramp up on DevOps, k8 and GCP?)
-                https://roadmap.sh/kubernetes (Kubernetes Roadmap)
                 https://sdk.operatorframework.io (The Operator SDK makes it easier to build Kubernetes native applications, a process that can require deep, application-specific operational knowledge)
                 https://snyk.io/blog/10-kubernetes-security-context-settings-you-should-understand (10 Kubernetes Security Context settings you should understand)
                 https://sysdig.com/blog/top-owasp-kubernetes (The OWASP Kubernetes Top 10 puts all possible risks in an order of overall commonality or probability.)
@@ -1349,32 +1339,7 @@ Contents:
                 https://www.learncloudnative.com/blog/2022-05-10-kubectl-tips (Kubernetes CLI (kubectl) tips you didn't know about)
                 https://www.macchaffee.com/blog/2022/k8s-under-documented-security-tips (Kubernetes Under-Documented Security Tips)
                 https://www.nsa.gov/Press-Room/News-Highlights/Article/Article/2716980/nsa-cisa-release-kubernetes-hardening-guidance (NSA, CISA release Kubernetes Hardening Guidance)
-                https://www.reddit.com/r/kubernetes/comments/1849egq/must_have_kubernetes_cluster_addons (Must have Kubernetes cluster addons?)
-                https://www.reddit.com/r/kubernetes/comments/1hlpl8k/i_want_to_learn_and_be_good_at_kubernetes (I Want to Learn and "be good at" Kubernetes)
-                https://www.reddit.com/r/kubernetes/comments/mwpj1q/how_did_you_really_master_kubernetes
-                https://www.reddit.com/r/kubernetes/comments/xauuxk/what_are_some_useful_kubernetes_tools_you_can (What are some useful Kubernetes tools you can share?)
-                https://www.tkng.io (The Kubernetes Network Model)
-                https://www.udemy.com/topic/kubernetes/?ratings=4.5&sort=popularity (Udemy Courses rated 4.5 stars and above)
                 https://pinboard.in/u:SharjeelSayed/t:kubernetes
-
-            Tutorials:
-                https://100daysofkubernetes.io (100 Days of Kubernetes is the challenge in which we aim to learn something new related to Kubernetes each day across 100 Days!!!)
-                https://blog.adamchalmers.com/kubernetes-problems (Solving common problems with Kubernetes)
-                https://blog.pipetail.io/posts/2020-05-04-most-common-mistakes-k8s (10 most common mistakes using kubernetes)
-                https://blog.udemy.com/kubernetes-interview-questions (7 Kubernetes Interview Questions You Should Be Able to Answer)
-                https://catalog.us-east-1.prod.workshops.aws/v2/workshops/9da471a0-266a-4d36-8596-e5934aeedd1f/en-US (AWS Policy as Code Workshop)
-                https://cheatsheetseries.owasp.org/cheatsheets/Kubernetes_Security_Cheat_Sheet.html (Kubernetes Security Cheat Sheet)
-                https://chrisshort.net/kubernetes-illustrated-childrens-guide (Kubernetes Illustrated Children's Guide)
-                https://github.com/diegolnasc/kubernetes-best-practices (A cookbook with the best practices for working with kubernetes)
-                https://github.com/eon01/kubernetes-workshop (A Gentle introduction to Kubernetes with more than just the basics.)
-                https://github.com/jamiehannaford/what-happens-when-k8s (What happens when I type kubectl run?)
-                https://learnk8s.io/troubleshooting-deployments (A visual guide on troubleshooting Kubernetes deployments)
-                https://mjarosie.github.io/dev/2021/09/15/iam-roles-for-kubernetes-service-accounts-deep-dive.html (IAM roles for Kubernetes service accounts - deep dive)
-                https://tldrsec.com/p/kubernetes-security-threat-informed-defense (Keep Hackers Out of Your Kubernetes Cluster with These 5 Simple Tricks!)
-                https://www.linode.com/content/kubernetes-guide (Understanding Kubernetes A Guide to Modernizing Your Cloud Infrastructure)
-                https://www.nslookup.io/learning/the-life-of-a-dns-query-in-kubernetes (The Life of a DNS Query in Kubernetes)
-                https://ymmt2005.hatenablog.com/entry/k8s-things (47 Things To Become a Kubernetes Expert)
-                https://youtu.be/0Omvgd7Hg1I (Life of a Packet [I] - Michael Rubin, Google)
 
             Kubernetes Distributions:
                 https://github.com/canonical/microk8s (https://microk8s.io MicroK8s is a small, fast, single-package Kubernetes for datacenters and the edge.)
@@ -1438,6 +1403,43 @@ Contents:
                 https://www.kubecost.com (Kubecost provides real-time cost visibility and insights for teams using Kubernetes, helping you continuously reduce your cloud costs.)
 
             Books and Courses:
+                Sources:
+                    https://100daysofkubernetes.io (100 Days of Kubernetes is the challenge in which we aim to learn something new related to Kubernetes each day across 100 Days!!!)
+                    https://blog.adamchalmers.com/kubernetes-problems (Solving common problems with Kubernetes)
+                    https://blog.pipetail.io/posts/2020-05-04-most-common-mistakes-k8s (10 most common mistakes using kubernetes)
+                    https://blog.udemy.com/kubernetes-interview-questions (7 Kubernetes Interview Questions You Should Be Able to Answer)
+                    https://catalog.us-east-1.prod.workshops.aws/v2/workshops/9da471a0-266a-4d36-8596-e5934aeedd1f/en-US (AWS Policy as Code Workshop)
+                    https://cheatsheetseries.owasp.org/cheatsheets/Kubernetes_Security_Cheat_Sheet.html (Kubernetes Security Cheat Sheet)
+                    https://chrisshort.net/kubernetes-illustrated-childrens-guide (Kubernetes Illustrated Children's Guide)
+                    https://docs.google.com/spreadsheets/d/10NltoF_6y3mBwUzQ4bcQLQfCE1BWSgUDcJXy-Qp2JEU (The Kubernetes Learning Resources List)
+                    https://github.com/diegolnasc/kubernetes-best-practices (A cookbook with the best practices for working with kubernetes)
+                    https://github.com/eon01/kubernetes-workshop (A Gentle introduction to Kubernetes with more than just the basics.)
+                    https://github.com/jamiehannaford/what-happens-when-k8s (What happens when I type kubectl run?)
+                    https://github.com/jpetazzo/container.training (https://container.training Slides and code samples for training, tutorials, and workshops about Docker, containers, and Kubernetes.)
+                    https://github.com/marcel-dempers/docker-development-youtube-series (A Collection of tools, hands-on walkthroughs with source code.The Ultimate Swiss Army knife for DevOps, Developers and Platform Engineers)
+                    https://github.com/techiescamp/kubernetes-learning-path (A roadmap to learn Kubernetes from scratch (Beginner to Advanced level))
+                    https://goo.gl/Rywkpd (The Kubernetes Learning Resources List)
+                    https://hackr.io/tutorials/learn-kubernetes (Kubernetes Tutorials and Courses)
+                    https://journal.hexmos.com/kubernetes-ports-overview-covering-expose-nodeport-targetport (6 Kubernetes Ports: A Definitive Look - Expose, NodePort, TargetPort, & More)
+                    https://kube.academy (Learn Kubernetes From Experts For Free. KubeAcademy from VMware)
+                    https://kubernetesreadme.com (What books 📚 to read to learn more about Kubernetes)
+                    https://labs.play-with-k8s.com (Play with Kubernetes is a labs site provided by Docker and created by Tutorius.)
+                    https://learning.oreilly.com/search/?query=kubernetes
+                    https://learnk8s.io/troubleshooting-deployments (A visual guide on troubleshooting Kubernetes deployments)
+                    https://mjarosie.github.io/dev/2021/09/15/iam-roles-for-kubernetes-service-accounts-deep-dive.html (IAM roles for Kubernetes service accounts - deep dive)
+                    https://roadmap.sh/kubernetes (Kubernetes Roadmap)
+                    https://tldrsec.com/p/kubernetes-security-threat-informed-defense (Keep Hackers Out of Your Kubernetes Cluster with These 5 Simple Tricks!)
+                    https://www.linode.com/content/kubernetes-guide (Understanding Kubernetes A Guide to Modernizing Your Cloud Infrastructure)
+                    https://www.nslookup.io/learning/the-life-of-a-dns-query-in-kubernetes (The Life of a DNS Query in Kubernetes)
+                    https://www.reddit.com/r/kubernetes/comments/1849egq/must_have_kubernetes_cluster_addons (Must have Kubernetes cluster addons?)
+                    https://www.reddit.com/r/kubernetes/comments/1hlpl8k/i_want_to_learn_and_be_good_at_kubernetes (I Want to Learn and "be good at" Kubernetes)
+                    https://www.reddit.com/r/kubernetes/comments/mwpj1q/how_did_you_really_master_kubernetes
+                    https://www.reddit.com/r/kubernetes/comments/xauuxk/what_are_some_useful_kubernetes_tools_you_can (What are some useful Kubernetes tools you can share?)
+                    https://www.tkng.io (The Kubernetes Network Model)
+                    https://www.udemy.com/topic/kubernetes/?ratings=4.5&sort=popularity (Udemy Courses rated 4.5 stars and above)
+                    https://ymmt2005.hatenablog.com/entry/k8s-things (47 Things To Become a Kubernetes Expert)
+                    https://youtu.be/0Omvgd7Hg1I (Life of a Packet [I] - Michael Rubin, Google)
+
                 Kubernetes Documentation:
                     https://kubernetes.io/docs/concepts (The Concepts section helps you learn about the parts of the Kubernetes system and the abstractions Kubernetes uses to represent your cluster, and helps you obtain a deeper understanding of how Kubernetes works.)
                     https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands (Kubernetes Commands)
@@ -1481,6 +1483,9 @@ Contents:
                     https://youtu.be/X48VuDVv0do
                     https://gitlab.com/nanuchi/youtube-tutorial-series
                     https://www.techworld-with-nana.com/kubernetes-administrator-cka (The Ultimate Kubernetes Administrator Course)
+
+                Rocking Kubernetes with Amazon EKS, Fargate, And DevOps by Rajdeep Saha:
+                    https://www.udemy.com/course/rocking-kubernetes-with-amazon-eks-fargate-and-devops
 
                 EKS Workshop by Containers from the Couch:
                     https://www.eksworkshop.com
@@ -1948,6 +1953,7 @@ Contents:
 
         Terraform:
             Sources:
+                https://en.wikipedia.org/wiki/Snake_case (Snake case naming convention)
                 https://github.com/antonbabenko/terraform-best-practices (https://www.terraform-best-practices.com Terraform Best Practices free ebook translated into 🇬🇧🇦🇪🇧🇦🇧🇷🇫🇷🇬🇪🇩🇪🇬🇷🇮🇱🇮🇳🇮🇩🇮🇹🇯🇵🇰🇷🇵🇱🇷🇴🇨🇳🇪🇸🇹🇷🇺🇦🇵🇰 )
                 https://github.com/nsriram/lambda-the-terraform-way (AWS Lambda using Terraform., an Introductory Cookbook)
                 https://github.com/opentofu/opentofu (https://opentofu.org OpenTofu is a fork of Terraform that is open-source, community-driven, and managed by the Linux Foundation.)
