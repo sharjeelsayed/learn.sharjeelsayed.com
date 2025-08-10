@@ -711,6 +711,7 @@ Contents:
                 https://www.allthingsdistributed.com/2023/07/building-and-operating-a-pretty-big-storage-system.html (Building and operating a pretty big storage system called S3)
                 https://www.microsoft.com/en-us/research/publication/principles-of-eventual-consistency (Principles of Eventual Consistency by Sebastian Burckhardt 2014)
                 https://www.microsoft.com/en-us/research/publication/time-clocks-ordering-events-distributed-system (Time, Clocks, and the Ordering of Events in a Distributed System by Leslie Lamport 1978)
+                https://www.swequiz.com/blog/every-caching-strategy-explained-in-5-minutes (Every Caching Strategy Explained in 5 Minutes)
 
             Books and Courses:
                 Distributed Systems 3rd Edition by Maarten van Steen and Andrew S. Tanenbaum (Feb 2017)
@@ -2534,6 +2535,7 @@ Contents:
                 https://github.com/prowler-cloud/prowler (https://prowler.pro Prowler is an Open Source Security tool for AWS, Azure and GCP to perform Cloud Security best practices assessments, audits, incident response, compliance, continuous monitoring, hardening and forensics readiness. Includes CIS, NIST 800, NIST CSF, CISA, FedRAMP, PCI-DSS, GDPR, HIPAA, FFIEC, SOC2, GXP, Well-Architected Security, ENS and more.)
                 https://github.com/prowler-cloud/prowler (https://prowler.pro Prowler is an Open Source Security tool for AWS, Azure and GCP to perform Cloud Security best practices assessments, audits, incident response, compliance, continuous monitoring, hardening and forensics readiness. Includes CIS, NIST 800, NIST CSF, CISA, FedRAMP, PCI-DSS, GDPR, HIPAA, FFIEC, SOC2, GXP, Well-Architected Security, ENS and more.)
                 https://github.com/robertdavidgraham/masscan (TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.)
+                https://github.com/steveiliop56/tinyauth (https://tinyauth.app The simplest way to protect your apps with a login screen. )
                 https://github.com/toniblyx/my-arsenal-of-aws-security-tools (List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.)
                 https://github.com/UCYBERS/Awesome-Blackhat-Tools (A curated list of tools officially presented at Black Hat events )
                 https://github.com/vm32/Linux-Incident-Response (practical toolkit for cybersecurity and IT professionals. It features a detailed Linux cheatsheet for incident response)
@@ -3291,6 +3293,7 @@ Contents:
                 https://github.com/aws/amazon-q-developer-cli (https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/command-line-installing.html ✨ Agentic chat experience in your terminal. Build applications using natural language.)
                 https://github.com/bodo-run/yek (A fast tool to read text-based files in a repository or directory, chunk them, and serialize them for LLM consumption. )
                 https://github.com/browser-use/browser-use ( https://browser-use.com Make websites accessible for AI agents)
+                https://github.com/charmbracelet/crush (The glamourous AI coding agent for your favourite terminal 💘)
                 https://github.com/cline/cline (https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.)
                 https://github.com/continuedev/continue (https://continue.dev ⏩ Continue is an open-source autopilot for VS Code and JetBrains—the easiest way to code with any LLM)
                 https://github.com/danielmiessler/fabric (fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.)
@@ -3309,6 +3312,8 @@ Contents:
                 https://github.com/modelcontextprotocol/servers (https://modelcontextprotocol.io Model Context Protocol Servers)
                 https://github.com/n8n-io/self-hosted-ai-starter-kit (https://n8n.io The Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environment. Curated by n8n, it provides essential tools for creating secure, self-hosted AI workflows. )
                 https://github.com/netease-youdao/QAnything (https://qanything.ai Question and Answer based on Anything.)
+                https://github.com/nomic-ai/gpt4all (https://www.nomic.ai/gpt4all GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.)
+                https://github.com/openai/codex (Lightweight coding agent that runs in your terminal )
                 https://github.com/OpenMindClub/awesome-chatgpt (⚡ Everything about ChatGPT )
                 https://github.com/punkpeye/awesome-mcp-servers (https://glama.ai/mcp/servers A collection of MCP servers)
                 https://github.com/Shubhamsaboo/awesome-llm-apps ( https://www.theunwindai.com Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.)
@@ -3563,6 +3568,7 @@ Contents:
                     https://interviewing.io/guides/system-design-interview (A Senior Engineer's Guide to the System Design Interview)
                     https://maheshba.bitbucket.io/blog/2023/07/12/Design.html (What we talk about when we talk about System Design)
                     https://www.amazon.com/System-Design-Interview-Insiders-Guide/dp/1736049119 (System Design Interview – An Insider's Guide: Volume 2 by Alex Xu)
+                    https://www.swequiz.com/blog/every-caching-strategy-explained-in-5-minutes (Every Caching Strategy Explained in 5 Minutes)
                     https://youtu.be/bUHFg8CZFws (System Design Interview – Step By Step Guide by System Design Interview)
 
                 Grokking the System Design Interview:
