@@ -1151,6 +1151,7 @@ Contents:
 
         tmux:
             Sources:
+                https://evgeniipendragon.com/posts/customizing-tmux-and-making-it-less-dreadful (Customizing tmux and making it less dreadful)
                 https://github.com/rothgar/awesome-tmux (A list of awesome resources for tmux )
                 https://github.com/tmux-plugins/list (List of tmux plugins)
                 https://github.com/tmux-plugins/tpm (Tmux Plugin Manager)
@@ -1957,6 +1958,7 @@ Contents:
 
         Terraform:
             Sources:
+                https://developer.hashicorp.com/terraform/cli (Terraform CLI Documentation)
                 https://en.wikipedia.org/wiki/Snake_case (Snake case naming convention)
                 https://github.com/antonbabenko/terraform-best-practices (https://www.terraform-best-practices.com Terraform Best Practices free ebook translated into 🇬🇧🇦🇪🇧🇦🇧🇷🇫🇷🇬🇪🇩🇪🇬🇷🇮🇱🇮🇳🇮🇩🇮🇹🇯🇵🇰🇷🇵🇱🇷🇴🇨🇳🇪🇸🇹🇷🇺🇦🇵🇰 )
                 https://github.com/nsriram/lambda-the-terraform-way (AWS Lambda using Terraform., an Introductory Cookbook)
@@ -3271,34 +3273,11 @@ Contents:
         AI and Machine Learning:
             Sources:
                 http://nlp.seas.harvard.edu/annotated-transformer (The Annotated Transformer Attention is All You Need)
-                https://arc.net/folder/D0472A20-9C20-4D3F-B145-D2865C0A9FEE (Ilya Sutskever gave John Carmack this reading list of approx 30 research papers and said, ‘If you really learn all of these, you’ll know 90% of what matters today.’)
-                https://bbycroft.net/llm (A 3D animated visualization of an LLM with a walkthrough)
                 https://danielmiessler.com/p/get-samantha-tars-interstellar-iphoneandroid (How to Get Samantha from Her or TARS from Interstellar on Your iPhone/Android)
-                https://e2eml.school/transformers.html (Transformers from Scratch)
                 https://en.wikipedia.org/wiki/Large_language_model (Large language model)
-                https://fleuret.org/public/lbdl.pdf (The Little Book of Deep Learning by François Fleuret)
                 https://github.com/appcypher/awesome-mcp-servers (Awesome MCP Servers - A curated list of Model Context Protocol servers )
-                https://github.com/dair-ai/ML-Papers-of-the-Week (🔥Highlighting the top ML papers every week.)
-                https://github.com/dair-ai/Prompt-Engineering-Guide (🐙 Guides, papers, lecture, notebooks and resources for prompt engineering )
-                https://github.com/daveebbelaar/ai-cookbook (Examples and tutorials to help developers build AI systems https://www.youtube.com/@daveebbelaar)
-                https://github.com/eugeneyan/applied-ml (📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.)
                 https://github.com/GoogleCloudPlatform/generative-ai (https://cloud.google.com/vertex-ai/docs/generative-ai/learn/overview Sample code and notebooks for Generative AI on Google Cloud)
-                https://github.com/labmlai/annotated_deep_learning_paper_implementations ( 🧑‍🏫 60 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠 )
-                https://github.com/NirDiamant/GenAI_Agents (This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems. )
-                https://github.com/patchy631/ai-engineering-hub (In-depth tutorials on LLMs, RAGs and real-world AI agent applications. )
                 https://lmarena.ai/leaderboard (Chatbot Arena LLM Leaderboard: Community-driven Evaluation for Best LLM and AI chatbots.See how leading models stack up across text, image, vision, and beyond. )
-                https://news.ycombinator.com/item?id=12713056 (Ask HN: How to get started with machine learning?)
-                https://news.ycombinator.com/item?id=16493489 (Machine Learning Crash Course)
-                https://news.ycombinator.com/item?id=18321665 (Foundations of ML and AI: Book recommendations (dragan.rocks))
-                https://news.ycombinator.com/item?id=20674745 (Ask HN: What Neural Networks/Deep Learning Books Should I Read?)
-                https://news.ycombinator.com/item?id=34312248 (Ask HN: What are the foundational texts for learning about AI/ML/NN?)
-                https://news.ycombinator.com/item?id=38331200 (Deep Learning Course (fleuret.org))
-                https://news.ycombinator.com/item?id=38638373 (Ask HN: Daily practices for building AI/ML skills?)
-                https://news.ycombinator.com/item?id=42686457 (AI Engineer Reading List (latent.space))
-                https://osanseviero.github.io/hackerllama/blog/posts/random_transformer (The Random Transformer Understand how transformers work by demystifying all the math behind them)
-                https://www.amazon.com/Artificial-Intelligence-A-Modern-Approach-dp-0134610997/dp/0134610997 (Artificial Intelligence: A Modern Approach (Pearson Series in Artifical Intelligence) 4th Edition by Stuart Russell and Peter Norvig)
-                https://www.amazon.com/Elements-Statistical-Learning-Prediction-Statistics/dp/0387848576 (https://hastie.su.domains/Papers/ESLII.pdf The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition (Springer Series in Statistics) 2nd Edition by Trevor Hastie , Robert Tibshirani , Jerome Friedman)
-                https://www.manning.com/books/build-a-large-language-model-from-scratch (Build a Large Language Model (From Scratch) by Sebastian Raschk https://github.com/rasbt/LLMs-from-scratch)
                 https://www.reddit.com/r/LocalLLaMA (Subreddit to discuss about Llama, the large language model created by Meta AI.)
 
             Tools:
@@ -3346,6 +3325,53 @@ Contents:
                 https://www.phind.com (Phind is a search engine for AI models.)
 
             Books and Courses:
+                Sources:
+                    https://ai.stanford.edu/courses (Stanford A.I. courses from Fall 2019 CS229)
+                    https://arc.net/folder/D0472A20-9C20-4D3F-B145-D2865C0A9FEE (Ilya Sutskever gave John Carmack this reading list of approx 30 research papers and said, ‘If you really learn all of these, you’ll know 90% of what matters today.’)
+                    https://bbycroft.net/llm (A 3D animated visualization of an LLM with a walkthrough)
+                    https://blog.floydhub.com/best-deep-learning-courses-updated-for-2019
+                    https://course.fast.ai (Practical Deep Learning for Coders)
+                    https://e2eml.school/transformers.html (Transformers from Scratch)
+                    https://fleuret.org/dlc (François Fleuret's deep-learning courses 14x050 of the University of Geneva, Switzerland)
+                    https://fleuret.org/public/lbdl.pdf (The Little Book of Deep Learning by François Fleuret)
+                    https://github.com/dair-ai/ML-Papers-of-the-Week (🔥Highlighting the top ML papers every week.)
+                    https://github.com/dair-ai/ML-YouTube-Courses (📺 Discover the latest machine learning / AI courses on YouTube.)
+                    https://github.com/dair-ai/Prompt-Engineering-Guide (🐙 Guides, papers, lecture, notebooks and resources for prompt engineering )
+                    https://github.com/DataTalksClub/machine-learning-zoomcamp (Learn ML engineering for free in 4 months! )
+                    https://github.com/daveebbelaar/ai-cookbook (Examples and tutorials to help developers build AI systems https://www.youtube.com/@daveebbelaar)
+                    https://github.com/ed-donner/llm_engineering (Repo to accompany my mastering LLM engineering course )
+                    https://github.com/ethen8181/machine-learning (🌎 machine learning tutorials (mainly in Python3))
+                    https://github.com/eugeneyan/applied-ml (📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.)
+                    https://github.com/karpathy/llm.c (LLM training in simple, raw C/CUDA)
+                    https://github.com/labmlai/annotated_deep_learning_paper_implementations ( 🧑‍🏫 60 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠 )
+                    https://github.com/mlabonne/llm-course (https://mlabonne.github.io/blog Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks. )
+                    https://github.com/NirDiamant/GenAI_Agents (This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems. )
+                    https://github.com/patchy631/ai-engineering-hub (In-depth tutorials on LLMs, RAGs and real-world AI agent applications. )
+                    https://github.com/quassnoi/explain-extended-2024 (https://explainextended.com/2023/12/31/happy-new-year-15 GPT in 500 lines of SQL)
+                    https://github.com/SkalskiP/courses (This repository is a curated collection of links to various courses and resources about Artificial Intelligence (AI))
+                    https://github.com/stas00/ml-engineering (Machine Learning Engineering Online Book https://stasosphere.com/machine-learning)
+                    https://jax-ml.github.io/scaling-book (How to Scale Your Model : A Systems View of LLMs on TPUs)
+                    https://karpathy.ai/zero-to-hero.html (A course by Andrej Karpathy on building neural networks, from scratch, in code)
+                    https://news.ycombinator.com/item?id=12713056 (Ask HN: How to get started with machine learning?)
+                    https://news.ycombinator.com/item?id=16493489 (Machine Learning Crash Course)
+                    https://news.ycombinator.com/item?id=18321665 (Foundations of ML and AI: Book recommendations (dragan.rocks))
+                    https://news.ycombinator.com/item?id=20674745 (Ask HN: What Neural Networks/Deep Learning Books Should I Read?)
+                    https://news.ycombinator.com/item?id=34312248 (Ask HN: What are the foundational texts for learning about AI/ML/NN?)
+                    https://news.ycombinator.com/item?id=38331200 (Deep Learning Course (fleuret.org))
+                    https://news.ycombinator.com/item?id=38638373 (Ask HN: Daily practices for building AI/ML skills?)
+                    https://news.ycombinator.com/item?id=42686457 (AI Engineer Reading List (latent.space))
+                    https://osanseviero.github.io/hackerllama/blog/posts/random_transformer (The Random Transformer Understand how transformers work by demystifying all the math behind them)
+                    https://spreadsheets-are-all-you-need.ai (Learn how AI works from a real LLM implemented entirely in Excel)
+                    https://work.caltech.edu/telecourse (Learning From Data by Caltech's Professor Yaser Abu-Mostafa.)
+                    https://www.amazon.com/Artificial-Intelligence-A-Modern-Approach-dp-0134610997/dp/0134610997 (Artificial Intelligence: A Modern Approach (Pearson Series in Artifical Intelligence) 4th Edition by Stuart Russell and Peter Norvig)
+                    https://www.amazon.com/Elements-Statistical-Learning-Prediction-Statistics/dp/0387848576 (https://hastie.su.domains/Papers/ESLII.pdf The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition (Springer Series in Statistics) 2nd Edition by Trevor Hastie , Robert Tibshirani , Jerome Friedman)
+                    https://www.cloudskillsboost.google/paths/118 (Introduction to Generative AI Learning Path)
+                    https://www.deeplearning.ai/courses/generative-ai-for-everyone (Generative AI for Everyone Instructed by Andrew Ng)
+                    https://www.deeplearningbook.org (Deep Learning (Adaptive Computation and Machine Learning series) by Ian Goodfellow and Yoshua Bengio and Aaron Courville https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618)
+                    https://www.manning.com/books/build-a-large-language-model-from-scratch (Build a Large Language Model (From Scratch) by Sebastian Raschk https://github.com/rasbt/LLMs-from-scratch)
+                    https://www.youtube.com/playlist?app=desktop&list=PLoROMvodv4rNyWOpJg_Yh4NSqI4Z4vOYy (Stanford CS229: Machine Learning I Spring 2022)
+                    https://youtu.be/kCc8FmEb1nY?si=mhTGB4fgUbg1B9Pq (Let's build GPT: from scratch, in code, spelled out. by Andrej Karpathy)
+
                 Machine Learning by Andrew Ng
                     https://www.coursera.org/learn/machine-learning
 
@@ -3369,29 +3395,6 @@ Contents:
 
                 StatQuest Illustrated Guide to Machine Learning by Josh Starmer November 7, 2022
                     https://www.amazon.com/StatQuest-Illustrated-Guide-Machine-Learning/dp/B0BLM4TLPY
-
-            Other Tutorials:
-                https://ai.stanford.edu/courses (Stanford A.I. courses from Fall 2019 CS229)
-                https://blog.floydhub.com/best-deep-learning-courses-updated-for-2019
-                https://course.fast.ai (Practical Deep Learning for Coders)
-                https://fleuret.org/dlc (François Fleuret's deep-learning courses 14x050 of the University of Geneva, Switzerland)
-                https://github.com/dair-ai/ML-YouTube-Courses (📺 Discover the latest machine learning / AI courses on YouTube.)
-                https://github.com/DataTalksClub/machine-learning-zoomcamp (Learn ML engineering for free in 4 months! )
-                https://github.com/ed-donner/llm_engineering (Repo to accompany my mastering LLM engineering course )
-                https://github.com/ethen8181/machine-learning (🌎 machine learning tutorials (mainly in Python3))
-                https://github.com/karpathy/llm.c (LLM training in simple, raw C/CUDA)
-                https://github.com/mlabonne/llm-course (https://mlabonne.github.io/blog Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks. )
-                https://github.com/quassnoi/explain-extended-2024 (https://explainextended.com/2023/12/31/happy-new-year-15 GPT in 500 lines of SQL)
-                https://github.com/SkalskiP/courses (This repository is a curated collection of links to various courses and resources about Artificial Intelligence (AI))
-                https://github.com/stas00/ml-engineering (Machine Learning Engineering Online Book https://stasosphere.com/machine-learning)
-                https://karpathy.ai/zero-to-hero.html (A course by Andrej Karpathy on building neural networks, from scratch, in code)
-                https://spreadsheets-are-all-you-need.ai (Learn how AI works from a real LLM implemented entirely in Excel)
-                https://work.caltech.edu/telecourse (Learning From Data by Caltech's Professor Yaser Abu-Mostafa.)
-                https://www.cloudskillsboost.google/paths/118 (Introduction to Generative AI Learning Path)
-                https://www.deeplearning.ai/courses/generative-ai-for-everyone (Generative AI for Everyone Instructed by Andrew Ng)
-                https://www.deeplearningbook.org (Deep Learning (Adaptive Computation and Machine Learning series) by Ian Goodfellow and Yoshua Bengio and Aaron Courville https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618)
-                https://www.youtube.com/playlist?app=desktop&list=PLoROMvodv4rNyWOpJg_Yh4NSqI4Z4vOYy (Stanford CS229: Machine Learning I Spring 2022)
-                https://youtu.be/kCc8FmEb1nY?si=mhTGB4fgUbg1B9Pq (Let's build GPT: from scratch, in code, spelled out. by Andrej Karpathy)
 
         IDE:
             Sources:
@@ -5729,6 +5732,7 @@ Contents:
         https://www.amazon.com/Best-Sellers-Health-Household-Power-Toothbrushes/zgbs/hpc/18065347011 (Best Sellers in Power Toothbrushes)
         https://www.construction-physics.com/p/why-is-it-so-hard-to-build-an-airport (Why Is It So Hard to Build an Airport?)
         https://www.domestika.org (Best online courses for creatives)
+        https://www.historicaltechtree.com (An interactive timeline of the history of technology, from the Stone Age to the present day)
         https://www.isthistechdead.com (Tracking the pulse of tech that flatlined years ago)
         https://www.kantar.com/north-america/company-news/louis-vuitton-reigns-as-the-worlds-most-valuable-luxury-brand-for-the-18th-year (Top 10 Most Valuable Global Luxury Brands 2023)
         https://www.lifeisshort.fyi/calendar (A life calendar to remind us how much time we have left to live — Turns your lifespan into a calendar of weeks so you actually feel time passing.)
