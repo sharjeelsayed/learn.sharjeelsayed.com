@@ -3280,6 +3280,7 @@ Contents:
                 https://github.com/appcypher/awesome-mcp-servers (Awesome MCP Servers - A curated list of Model Context Protocol servers )
                 https://github.com/GoogleCloudPlatform/generative-ai (https://cloud.google.com/vertex-ai/docs/generative-ai/learn/overview Sample code and notebooks for Generative AI on Google Cloud)
                 https://lmarena.ai/leaderboard (Chatbot Arena LLM Leaderboard: Community-driven Evaluation for Best LLM and AI chatbots.See how leading models stack up across text, image, vision, and beyond. )
+                https://wuu73.org/blog/aiguide1.html (How I Code with AI on a budget/free)
                 https://www.reddit.com/r/LocalLLaMA (Subreddit to discuss about Llama, the large language model created by Meta AI.)
 
             Tools:
