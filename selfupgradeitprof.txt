@@ -123,7 +123,9 @@ Contents:
         Movies, TV and Documentaries
         Wrist Watch
         Fashion
+        Electric Shaver
         Stuff Worth Paying For
+        Additional Sources
 
     Computer Science:
         Sources:
@@ -1749,6 +1751,7 @@ Contents:
                     https://notes.arkalim.org/notes/aws%20solutions%20architect%20associate/aws%20solutions%20architect%20associate%20(saa-c02) (Abdur's Notes for AWS Solutions Architect Associate (SAA-C02))
                     https://pages.awscloud.com/GLOBAL-other-GC-Traincert-Foundational-and-Associate-Certification-Challenge-2025-reg.html (Save 50% on your AWS certification valid till 5 PM PDT on May 21, 2025)
                     https://plazagonzalo.medium.com/aws-solutions-architect-associate-course-4eafb910088d (Complete Course for the AWS Solutions Architect-Associate Certification (SAA-C03))
+                    https://skillbuilder.aws/learn/U89MJTNSM8/aws-wellarchitected-foundations (AWS Well-Architected Foundations)
                     https://www.awsgeek.com (Cloud Diagrams & Notes)
                     https://www.exam-answer.com/amazon (Exams from Amazon)
                     https://www.examtopics.com/exams/amazon (AWS Exam Practice Questions.Highest ranked site for AWS practice exams)
@@ -5649,7 +5652,22 @@ Contents:
                 https://www.marieclaire.com (19,157)
                 https://www.papermag.com (61,040)
 
-    Stuff Worth Paying For:
+        Electric Shaver:
+            Sources:
+                https://shavercheck.com/best-electric-razor (The Best Electric Razors For Men (2025): A Practical Guide)
+                https://www.amazon.com/Best-Sellers-Beauty-Personal-Care-Mens-Electric-Shavers/zgbs/beauty/13271092011 (Best Sellers in Men's Electric Shavers)
+                https://www.amazon.in/gp/bestsellers/hpc/26953359031 (Bestsellers in Men's Electric Shavers)
+                https://www.nytimes.com/wirecutter/reviews/best-electric-razor (The Best Electric Razor)
+
+            Braun:
+                https://in.braun.com/en-in/male-grooming/shavers-for-men/series-9 (Braun India Series 9 range)
+                https://shavercheck.com/braun-series9-original-vs-updated (Braun Series 9 (Pro, PRO+) Comparison: Which One To Buy?)
+                https://shavercheck.com/reviews/braun-series-9-pro-plus-review (Braun Series 9 Pro Plus Review)
+                https://us.braun.com/en-us/male-grooming/electric-shavers?_bc_fsnf=1&Model=Series+9 (Braun USA Series 9 Electric Shavers)
+                https://www.amazon.com/Braun-Shave-Preparing-ProComfort-Closeness-9599cc/dp/B0CFC9Y516/133-5264964-4013535 (Braun Series 9 PRO+ Electric Shaver, Shaving Kit with 5 Pro Shave Elements and ProComfort Head, SmartCare Center 9599cc)
+                https://www.amazon.in/Braun-9467cc-shaver-SmartCare-leather/dp/B09KHKWVVC/259-9434447-4000558 (Braun Electric Shaver for Men, Wet & Dry shave, From Gillette Autosense Technology, Gentle on Skin, Effective on Tough Beards, Precision Trimmer, Advanced German Engineering, Silver, Series 9 Pro 9567cc)https://www.tirabeauty.com/product/braun-series-9-pro-9567cc-wet-dry-electric-shaver-9567-7692488 (Braun Series 9 Pro 9567cc Wet & Dry Electric Shaver)
+
+        Stuff Worth Paying For:
             https://1password.com
             https://acloudguru.com
             https://db.tt/YL0e12GN # (Dropbox 500 MB of bonus space)
@@ -5669,103 +5687,102 @@ Contents:
             https://www.apple.com/in/apple-one
             https://www.inoreader.com
             https://www.jetbrains.com/idea/buy
-            https://www.meetcarrot.com/weather
             https://www.obdev.at/products/littlesnitch
             https://www.truecaller.com
 
-    Additional Sources :
-        http://techmeme.com/events.ics (Techmeme Calendar)
-        http://unixstickers.com (Unixstickers powered by Sticker Mule)
-        https://allaboutberlin.com (Welcome to Berlin This is the start of a great adventure! Let's get you ready for it.)
-        https://awesome.digitalbunker.dev (Click to explore one of the awesome lists below)
-        https://cheatography.com (Over 5,000 Free Cheat Sheets, Revision Aids and Quick References!)
-        https://command-not-found.com (Install any command on any operating system and in Docker)
-        https://curlconverter.com (Convert curl commands to Python, JavaScript and more)
-        https://drawabox.com (Drawabox is a set of free exercise-based lessons that focus on the fundamentals of drawing)
-        https://en.wikipedia.org/wiki/List_of_lists_of_lists
-        https://en.wikipedia.org/wiki/List_of_most_valuable_brands (List of most valuable brands)
-        https://en.wikipedia.org/wiki/List_of_most_valuable_brands (List of most valuable brands)
-        https://en.wikipedia.org/wiki/List_of_tallest_residential_buildings (List of tallest residential buildings)
-        https://en.wikipedia.org/wiki/Lists_of_most_expensive_items_by_category (Lists of most expensive items by category)
-        https://en.wikipedia.org/wiki/Valeriepieris_circle (A Valeriepieris circle[1][2][3] is a figure drawn on the Earth's surface such that the majority of the human population lives within its interior.)
-        https://en.wikipedia.org/wiki/Wikipedia:Vital_articles (Wikipedia:Vital articles)
-        https://freenode.net
-        https://github.com/antontarasenko/smq/blob/master/reports/hackernews-links-in-comments.md (Most mentioned links in Hacker News comments, 2006–2015)
-        https://github.com/arcataroger/awesome-engineering-games (A curated list of engineering-related video games rated Very Positive or higher on Steam )
-        https://github.com/ArduPilot/ardupilot (https://ardupilot.org ArduPilot is a trusted, versatile, and open source autopilot system supporting many vehicle types: multi-copters, traditional helicopters, fixed wing aircraft, boats, submarines, rovers and more. )
-        https://github.com/automattic/harper (https://writewithharper.com Offline, privacy-first grammar checker. Fast, open-source, Rust-powered )
-        https://github.com/btw-so/open-source-alternatives (List of open-source alternatives to everyday SaaS products.)
-        https://github.com/C4illin/ConvertX (💾 Self-hosted online file converter. Supports 1000+ formats ⚙️)
-        https://github.com/chubin/awesome-console-services (A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols))
-        https://github.com/girliemac/a-picture-is-worth-a-1000-words (I am trying to describe complex matters in simple doodles!)
-        https://github.com/goenning/google-indexing-script (https://seogets.com/blog/google-indexing-script Google Indexing Script)
-        https://github.com/gothinkster/realworld ("The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more)
-        https://github.com/henki-robotics/robotics_essentials_ros2 (Learn the basics of robotics through hands-on experience using ROS 2 and Gazebo simulation. )
-        https://github.com/jbranchaud/til (Today I Learned)
-        https://github.com/jnv/lists (The definitive list of lists (of lists) curated on GitHub and elsewhere )
-        https://github.com/kanbn/kan (https://kan.bn The open source Trello alternative. )
-        https://github.com/mendel5/alternative-front-ends (Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.))
-        https://github.com/NotJoeMartinez/yt-fts (Youtube Full Text Search - Search all of a YouTube channel's subtitles from the command line)
-        https://github.com/RunaCapital/awesome-oss-alternatives (Awesome list of open-source startup alternatives to well-known SaaS products)
-        https://github.com/sherlock-project/sherlock (🔎 Hunt down social media accounts by username across social networks https://sherlock-project.github.io)
-        https://github.com/topics/awesome (Awesome Lists)
-        https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday (Awesome deals on Black Friday: Apps, SaaS, Books, Courses, etc.)
-        https://github.com/VERT-sh/VERT (https://vert.sh The next-generation file converter. Open source, fully local* and free forever. )
-        https://github.com/vslavik/diff-pdf (A simple tool for visually comparing two PDF files https://vslavik.github.io/diff-pdf)
-        https://github.com/zed-industries/zed (https://zed.dev Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter)
-        https://hackerspaces.org (Hackerspaces are community-operated physical places, where people share their interest in tinkering with technology, meet and work on their projects, and learn from each other)
-        https://indie.deals (Early launch deals on products made by Indie Makers)
-        https://learn-anything.xyz
-        https://lobste.rs/s/0fkc0u/what_is_terminal_based_game_you_ve_played_s (What is a terminal-based game you've played that's worth mentioning?)
-        https://looria.com/reddit/overview (Reddit's Favorite Products in One Place)
-        https://makeityourself.org (https://n-o-d-e.net/makeityourself.html Make it Yourself is a digital book that showcases this incredible talent, bringing together over 1000 useful DIY projects to demonstrate just what is possible when you make things yourself.)
-        https://news.ycombinator.com/item?id=20110922 (How to Draw Animals (1930) (dessinoprimaire.blogspot.com))
-        https://news.ycombinator.com/item?id=20146168 (Sleep tweaks boost night owls' wellbeing (bbc.com))
-        https://news.ycombinator.com/item?id=21373931 (Ask HN: What do you automate in your life and work?)
-        https://news.ycombinator.com/item?id=21581361 (Ask HN: What's the most valuable thing you can learn in an hour?)
-        https://news.ycombinator.com/item?id=22849208 (Ask HN: Programs that saved you 100 hours?)
-        https://news.ycombinator.com/item?id=23390308 (Ask HN: What is the cheapest way to make a website?)
-        https://news.ycombinator.com/item?id=24351073 (	Most-favorited Hacker News posts)
-        https://news.ycombinator.com/item?id=27219759 (Ask HN: Favorite purchases of last two years?)
-        https://news.ycombinator.com/item?id=28119393 (Ask HN: What tiny purchases have disproportionately improved your life?)
-        https://news.ycombinator.com/item?id=28232165 (Ask HN: What's the most life-changing blog post you've ever read?)
-        https://news.ycombinator.com/item?id=29675397 (	Ask HN: Where are you getting your money's worth?)
-        https://news.ycombinator.com/item?id=30469036 (Ask HN: Anyone here have good material for learning how to sketch from scratch?)
-        https://news.ycombinator.com/item?id=31928736 (Ask HN: Can I see your cheatsheet?)
-        https://news.ycombinator.com/item?id=44158353 (Ask HN: How do I learn robotics in 2025?)
-        https://news.ycombinator.com/item?id=44775830 (How to make almost anything (2019) (cba.mit.edu))
-        https://per.quest (Enter a URL to an article, post or page with some text on it to listen to it)
-        https://rfc.fyi (Browse RFCs by keywords, id or collection)
-        https://saasfridaydeals.com (Black Friday Deals From Cool SaaS Founders)
-        https://sourceful.co.uk (Discover the best public GoogleDocs and Sheets)
-        https://www.amazon.com/Best-Sellers-Beauty-Personal-Care-Mens-Foil-Shavers/zgbs/beauty/13271094011 (Best Sellers in Men's Foil Shavers)
-        https://www.amazon.com/Best-Sellers-Health-Household-Power-Toothbrushes/zgbs/hpc/18065347011 (Best Sellers in Power Toothbrushes)
-        https://www.construction-physics.com/p/why-is-it-so-hard-to-build-an-airport (Why Is It So Hard to Build an Airport?)
-        https://www.domestika.org (Best online courses for creatives)
-        https://www.historicaltechtree.com (An interactive timeline of the history of technology, from the Stone Age to the present day)
-        https://www.isthistechdead.com (Tracking the pulse of tech that flatlined years ago)
-        https://www.kantar.com/north-america/company-news/louis-vuitton-reigns-as-the-worlds-most-valuable-luxury-brand-for-the-18th-year (Top 10 Most Valuable Global Luxury Brands 2023)
-        https://www.lifeisshort.fyi/calendar (A life calendar to remind us how much time we have left to live — Turns your lifespan into a calendar of weeks so you actually feel time passing.)
-        https://www.looria.com/reddit/BuyItForLife/brand-popularity (The most popular brands on r/BuyItForLife)
-        https://www.nala.ie/resources/better-handwriting-adults
-        https://www.oldmapsonline.org/en/history (Interactive Map of History)
-        https://www.pricelevel.com (PriceLevel gives you visibility into the price hidden behind "Contact Us".)
-        https://www.producthunt.com (The place to launch and discover new tech products)
-        https://www.reddit.com/r/AskReddit/comments/4q91g9/what_free_things_online_should_everyone_take/d4r8foy
-        https://www.reddit.com/r/AskReddit/comments/6k0p7l/what_are_the_best_free_online_certificates_you
-        https://www.reddit.com/r/AskReddit/comments/6q2b8x/reddit_whats_become_clear_to_you_as_youve_gotten
-        https://www.reddit.com/r/AskReddit/comments/70q5f2/reddit_what_are_the_most_useful_askreddit_posts
-        https://www.reddit.com/r/BuyItForLife/comments/vxeudm/i_analyzed_the_most_and_least_popular_brands_on (I analyzed the most and least popular brands on r/BuyItForLife)
-        https://www.reddit.com/r/dataisbeautiful/comments/11sw2co/oc_who_lived_when_i_charted_out_the_overlapping ([OC] Who Lived When? I charted out the overlapping lives of historical figures, from 1400 to today)
-        https://www.reddit.com/r/dataisbeautiful/comments/1evjgxu/a_pixel_for_every_50000_people_in_the_world (A pixel for every 50,000 people in the world)
-        https://www.reddit.com/r/dataisbeautiful/comments/ujuui4/oc_the_most_discussed_brands_on_rbuyitforlife (OC: The most discussed brands on r/BuyItForLife)
-        https://www.reddit.com/r/dataisbeautiful/comments/vsp9yu/oc_the_most_and_least_popular_brands_on ([OC] The most and least popular brands on r/BuyItForLife)
-        https://www.reddit.com/r/EDC/comments/7j7lrs/edc_starter_pack_an_arbitrary_list_of_gear_that (EDC Starter Pack: An Arbitrary List of Gear that Gets Recommended a Lot)
-        https://www.reddit.com/r/EDC/comments/ur36lf/i_analyzed_the_top_50_most_mentioned_products_on (I analyzed the top 50 most mentioned products on r/EDC)
-        https://www.reddit.com/r/india/wiki/useful_posts (r/india Useful Posts)
-        https://www.thisiswhyimbroke.com (ThisIsWhyImBroke is where you'll find cool gift ideas, unique products, and awesome birthday and Christmas gift ideas.)
-        https://www.vox.com/science-and-health/2019/8/23/20828597/the-10000-hour-rule-debunked (The “10,000-hour rule” was debunked again. That’s a relief.)
-        https://youglish.com (Use YouTube to improve your English pronunciation. With more than 100M tracks, YouGlish gives you fast, unbiased answers about how English is spoken by real people and in context.)
+        Additional Sources :
+            http://techmeme.com/events.ics (Techmeme Calendar)
+            http://unixstickers.com (Unixstickers powered by Sticker Mule)
+            https://allaboutberlin.com (Welcome to Berlin This is the start of a great adventure! Let's get you ready for it.)
+            https://awesome.digitalbunker.dev (Click to explore one of the awesome lists below)
+            https://cheatography.com (Over 5,000 Free Cheat Sheets, Revision Aids and Quick References!)
+            https://command-not-found.com (Install any command on any operating system and in Docker)
+            https://curlconverter.com (Convert curl commands to Python, JavaScript and more)
+            https://drawabox.com (Drawabox is a set of free exercise-based lessons that focus on the fundamentals of drawing)
+            https://en.wikipedia.org/wiki/List_of_lists_of_lists
+            https://en.wikipedia.org/wiki/List_of_most_valuable_brands (List of most valuable brands)
+            https://en.wikipedia.org/wiki/List_of_most_valuable_brands (List of most valuable brands)
+            https://en.wikipedia.org/wiki/List_of_tallest_residential_buildings (List of tallest residential buildings)
+            https://en.wikipedia.org/wiki/Lists_of_most_expensive_items_by_category (Lists of most expensive items by category)
+            https://en.wikipedia.org/wiki/Valeriepieris_circle (A Valeriepieris circle[1][2][3] is a figure drawn on the Earth's surface such that the majority of the human population lives within its interior.)
+            https://en.wikipedia.org/wiki/Wikipedia:Vital_articles (Wikipedia:Vital articles)
+            https://freenode.net
+            https://github.com/antontarasenko/smq/blob/master/reports/hackernews-links-in-comments.md (Most mentioned links in Hacker News comments, 2006–2015)
+            https://github.com/arcataroger/awesome-engineering-games (A curated list of engineering-related video games rated Very Positive or higher on Steam )
+            https://github.com/ArduPilot/ardupilot (https://ardupilot.org ArduPilot is a trusted, versatile, and open source autopilot system supporting many vehicle types: multi-copters, traditional helicopters, fixed wing aircraft, boats, submarines, rovers and more. )
+            https://github.com/automattic/harper (https://writewithharper.com Offline, privacy-first grammar checker. Fast, open-source, Rust-powered )
+            https://github.com/btw-so/open-source-alternatives (List of open-source alternatives to everyday SaaS products.)
+            https://github.com/C4illin/ConvertX (💾 Self-hosted online file converter. Supports 1000+ formats ⚙️)
+            https://github.com/chubin/awesome-console-services (A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols))
+            https://github.com/girliemac/a-picture-is-worth-a-1000-words (I am trying to describe complex matters in simple doodles!)
+            https://github.com/goenning/google-indexing-script (https://seogets.com/blog/google-indexing-script Google Indexing Script)
+            https://github.com/gothinkster/realworld ("The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more)
+            https://github.com/henki-robotics/robotics_essentials_ros2 (Learn the basics of robotics through hands-on experience using ROS 2 and Gazebo simulation. )
+            https://github.com/jbranchaud/til (Today I Learned)
+            https://github.com/jnv/lists (The definitive list of lists (of lists) curated on GitHub and elsewhere )
+            https://github.com/kanbn/kan (https://kan.bn The open source Trello alternative. )
+            https://github.com/mendel5/alternative-front-ends (Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.))
+            https://github.com/NotJoeMartinez/yt-fts (Youtube Full Text Search - Search all of a YouTube channel's subtitles from the command line)
+            https://github.com/RunaCapital/awesome-oss-alternatives (Awesome list of open-source startup alternatives to well-known SaaS products)
+            https://github.com/sherlock-project/sherlock (🔎 Hunt down social media accounts by username across social networks https://sherlock-project.github.io)
+            https://github.com/topics/awesome (Awesome Lists)
+            https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday (Awesome deals on Black Friday: Apps, SaaS, Books, Courses, etc.)
+            https://github.com/VERT-sh/VERT (https://vert.sh The next-generation file converter. Open source, fully local* and free forever. )
+            https://github.com/vslavik/diff-pdf (A simple tool for visually comparing two PDF files https://vslavik.github.io/diff-pdf)
+            https://github.com/zed-industries/zed (https://zed.dev Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter)
+            https://hackerspaces.org (Hackerspaces are community-operated physical places, where people share their interest in tinkering with technology, meet and work on their projects, and learn from each other)
+            https://indie.deals (Early launch deals on products made by Indie Makers)
+            https://learn-anything.xyz
+            https://lobste.rs/s/0fkc0u/what_is_terminal_based_game_you_ve_played_s (What is a terminal-based game you've played that's worth mentioning?)
+            https://looria.com/reddit/overview (Reddit's Favorite Products in One Place)
+            https://makeityourself.org (https://n-o-d-e.net/makeityourself.html Make it Yourself is a digital book that showcases this incredible talent, bringing together over 1000 useful DIY projects to demonstrate just what is possible when you make things yourself.)
+            https://news.ycombinator.com/item?id=20110922 (How to Draw Animals (1930) (dessinoprimaire.blogspot.com))
+            https://news.ycombinator.com/item?id=20146168 (Sleep tweaks boost night owls' wellbeing (bbc.com))
+            https://news.ycombinator.com/item?id=21373931 (Ask HN: What do you automate in your life and work?)
+            https://news.ycombinator.com/item?id=21581361 (Ask HN: What's the most valuable thing you can learn in an hour?)
+            https://news.ycombinator.com/item?id=22849208 (Ask HN: Programs that saved you 100 hours?)
+            https://news.ycombinator.com/item?id=23390308 (Ask HN: What is the cheapest way to make a website?)
+            https://news.ycombinator.com/item?id=24351073 (	Most-favorited Hacker News posts)
+            https://news.ycombinator.com/item?id=27219759 (Ask HN: Favorite purchases of last two years?)
+            https://news.ycombinator.com/item?id=28119393 (Ask HN: What tiny purchases have disproportionately improved your life?)
+            https://news.ycombinator.com/item?id=28232165 (Ask HN: What's the most life-changing blog post you've ever read?)
+            https://news.ycombinator.com/item?id=29675397 (	Ask HN: Where are you getting your money's worth?)
+            https://news.ycombinator.com/item?id=30469036 (Ask HN: Anyone here have good material for learning how to sketch from scratch?)
+            https://news.ycombinator.com/item?id=31928736 (Ask HN: Can I see your cheatsheet?)
+            https://news.ycombinator.com/item?id=44158353 (Ask HN: How do I learn robotics in 2025?)
+            https://news.ycombinator.com/item?id=44775830 (How to make almost anything (2019) (cba.mit.edu))
+            https://per.quest (Enter a URL to an article, post or page with some text on it to listen to it)
+            https://rfc.fyi (Browse RFCs by keywords, id or collection)
+            https://saasfridaydeals.com (Black Friday Deals From Cool SaaS Founders)
+            https://sourceful.co.uk (Discover the best public GoogleDocs and Sheets)
+            https://www.amazon.com/Best-Sellers-Beauty-Personal-Care-Mens-Foil-Shavers/zgbs/beauty/13271094011 (Best Sellers in Men's Foil Shavers)
+            https://www.amazon.com/Best-Sellers-Health-Household-Power-Toothbrushes/zgbs/hpc/18065347011 (Best Sellers in Power Toothbrushes)
+            https://www.construction-physics.com/p/why-is-it-so-hard-to-build-an-airport (Why Is It So Hard to Build an Airport?)
+            https://www.domestika.org (Best online courses for creatives)
+            https://www.historicaltechtree.com (An interactive timeline of the history of technology, from the Stone Age to the present day)
+            https://www.isthistechdead.com (Tracking the pulse of tech that flatlined years ago)
+            https://www.kantar.com/north-america/company-news/louis-vuitton-reigns-as-the-worlds-most-valuable-luxury-brand-for-the-18th-year (Top 10 Most Valuable Global Luxury Brands 2023)
+            https://www.lifeisshort.fyi/calendar (A life calendar to remind us how much time we have left to live — Turns your lifespan into a calendar of weeks so you actually feel time passing.)
+            https://www.looria.com/reddit/BuyItForLife/brand-popularity (The most popular brands on r/BuyItForLife)
+            https://www.nala.ie/resources/better-handwriting-adults
+            https://www.oldmapsonline.org/en/history (Interactive Map of History)
+            https://www.pricelevel.com (PriceLevel gives you visibility into the price hidden behind "Contact Us".)
+            https://www.producthunt.com (The place to launch and discover new tech products)
+            https://www.reddit.com/r/AskReddit/comments/4q91g9/what_free_things_online_should_everyone_take/d4r8foy
+            https://www.reddit.com/r/AskReddit/comments/6k0p7l/what_are_the_best_free_online_certificates_you
+            https://www.reddit.com/r/AskReddit/comments/6q2b8x/reddit_whats_become_clear_to_you_as_youve_gotten
+            https://www.reddit.com/r/AskReddit/comments/70q5f2/reddit_what_are_the_most_useful_askreddit_posts
+            https://www.reddit.com/r/BuyItForLife/comments/vxeudm/i_analyzed_the_most_and_least_popular_brands_on (I analyzed the most and least popular brands on r/BuyItForLife)
+            https://www.reddit.com/r/dataisbeautiful/comments/11sw2co/oc_who_lived_when_i_charted_out_the_overlapping ([OC] Who Lived When? I charted out the overlapping lives of historical figures, from 1400 to today)
+            https://www.reddit.com/r/dataisbeautiful/comments/1evjgxu/a_pixel_for_every_50000_people_in_the_world (A pixel for every 50,000 people in the world)
+            https://www.reddit.com/r/dataisbeautiful/comments/ujuui4/oc_the_most_discussed_brands_on_rbuyitforlife (OC: The most discussed brands on r/BuyItForLife)
+            https://www.reddit.com/r/dataisbeautiful/comments/vsp9yu/oc_the_most_and_least_popular_brands_on ([OC] The most and least popular brands on r/BuyItForLife)
+            https://www.reddit.com/r/EDC/comments/7j7lrs/edc_starter_pack_an_arbitrary_list_of_gear_that (EDC Starter Pack: An Arbitrary List of Gear that Gets Recommended a Lot)
+            https://www.reddit.com/r/EDC/comments/ur36lf/i_analyzed_the_top_50_most_mentioned_products_on (I analyzed the top 50 most mentioned products on r/EDC)
+            https://www.reddit.com/r/india/wiki/useful_posts (r/india Useful Posts)
+            https://www.thisiswhyimbroke.com (ThisIsWhyImBroke is where you'll find cool gift ideas, unique products, and awesome birthday and Christmas gift ideas.)
+            https://www.vox.com/science-and-health/2019/8/23/20828597/the-10000-hour-rule-debunked (The “10,000-hour rule” was debunked again. That’s a relief.)
+            https://youglish.com (Use YouTube to improve your English pronunciation. With more than 100M tracks, YouGlish gives you fast, unbiased answers about how English is spoken by real people and in context.)
 
     Support this project with these referral links:
         https://m.do.co/c/d3160b5e33e8 (DigitalOcean Credits)
