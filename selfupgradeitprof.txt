@@ -5654,18 +5654,27 @@ Contents:
 
         Electric Shaver:
             Sources:
+                https://shavercheck.com/best-body-trimmer (The Best Body Trimmers For Men (2025): The Ultimate Guide)
                 https://shavercheck.com/best-electric-razor (The Best Electric Razors For Men (2025): A Practical Guide)
                 https://www.amazon.com/Best-Sellers-Beauty-Personal-Care-Mens-Electric-Shavers/zgbs/beauty/13271092011 (Best Sellers in Men's Electric Shavers)
+                https://www.amazon.com/gp/bestsellers/beauty/7697066011 (Best Sellers in Body Hair Groomers)
+                https://www.amazon.com/Philips-Norelco-Bodygroomer-BG7040-42/dp/B07H3CKT12 (Philips Norelco Bodygroomer 7000 Series BG7040/42)
+                https://www.amazon.in/Andis-Cool-Clipper-Blades-Maintenance/dp/B0854JWKDG (Andis 5 In-1 Cool Care Plus Spray for Clipper Blades Maintenance (439 gm), White (12750))
                 https://www.amazon.in/gp/bestsellers/hpc/26953359031 (Bestsellers in Men's Electric Shavers)
+                https://www.nytimes.com/wirecutter/reviews/best-beard-trimmer (The Best Beard Trimmer)
                 https://www.nytimes.com/wirecutter/reviews/best-electric-razor (The Best Electric Razor)
 
             Braun:
                 https://in.braun.com/en-in/male-grooming/shavers-for-men/series-9 (Braun India Series 9 range)
                 https://shavercheck.com/braun-series9-original-vs-updated (Braun Series 9 (Pro, PRO+) Comparison: Which One To Buy?)
+                https://shavercheck.com/make-braun-refills-last-longer (How To Make Braun Clean And Renew Refills Last Longer (3 Easy Steps))
                 https://shavercheck.com/reviews/braun-series-9-pro-plus-review (Braun Series 9 Pro Plus Review)
                 https://us.braun.com/en-us/male-grooming/electric-shavers?_bc_fsnf=1&Model=Series+9 (Braun USA Series 9 Electric Shavers)
                 https://www.amazon.com/Braun-Shave-Preparing-ProComfort-Closeness-9599cc/dp/B0CFC9Y516/133-5264964-4013535 (Braun Series 9 PRO+ Electric Shaver, Shaving Kit with 5 Pro Shave Elements and ProComfort Head, SmartCare Center 9599cc)
-                https://www.amazon.in/Braun-9467cc-shaver-SmartCare-leather/dp/B09KHKWVVC/259-9434447-4000558 (Braun Electric Shaver for Men, Wet & Dry shave, From Gillette Autosense Technology, Gentle on Skin, Effective on Tough Beards, Precision Trimmer, Advanced German Engineering, Silver, Series 9 Pro 9567cc)https://www.tirabeauty.com/product/braun-series-9-pro-9567cc-wet-dry-electric-shaver-9567-7692488 (Braun Series 9 Pro 9567cc Wet & Dry Electric Shaver)
+                https://www.amazon.in/Braun-Clean-Frustration-Refill-Cartridges/dp/B06VXND7JF (Braun Clean & Renew Frustration Free Refill Cartridges CCR 4)
+                https://www.amazon.in/Braun-Electric-Shaver-Replacement-Compatible/dp/B09B7SWJBP (Braun Electric Shaver Head Replacement Part 94M Silver, Compatible with Series 9 Pro and Series 9 Electric Razors for Men)
+                https://www.amazon.in/Braun-Powercase-Compatible-Electric-Shavers/dp/B0CFCF4DNR (Braun Powercase, Compatible with Braun Series 8 and 9 Electric Shavers, Charges for up to 6 Weeks)
+                https://www.tirabeauty.com/product/braun-series-9-pro-9567cc-wet-dry-electric-shaver-9567-7692488 (Braun Series 9 Pro 9567cc Wet & Dry Electric Shaver)
 
         Stuff Worth Paying For:
             https://1password.com
@@ -5755,7 +5764,6 @@ Contents:
             https://rfc.fyi (Browse RFCs by keywords, id or collection)
             https://saasfridaydeals.com (Black Friday Deals From Cool SaaS Founders)
             https://sourceful.co.uk (Discover the best public GoogleDocs and Sheets)
-            https://www.amazon.com/Best-Sellers-Beauty-Personal-Care-Mens-Foil-Shavers/zgbs/beauty/13271094011 (Best Sellers in Men's Foil Shavers)
             https://www.amazon.com/Best-Sellers-Health-Household-Power-Toothbrushes/zgbs/hpc/18065347011 (Best Sellers in Power Toothbrushes)
             https://www.construction-physics.com/p/why-is-it-so-hard-to-build-an-airport (Why Is It So Hard to Build an Airport?)
             https://www.domestika.org (Best online courses for creatives)
