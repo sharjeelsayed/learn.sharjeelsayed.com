@@ -957,6 +957,7 @@ Contents:
                 https://github.com/a13xp0p0v/kernel-hardening-checker (A tool for checking the security hardening options of the Linux kernel)
                 https://github.com/apple/container (https://apple.github.io/container/documentation A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It's written in Swift, and optimized for Apple silicon. )
                 https://github.com/canonical/multipass (Multipass orchestrates virtual Ubuntu instances)
+                https://github.com/ChrisTitusTech/linutil (Chris Titus Tech's Linux Toolbox - Linutil is a distro-agnostic toolbox designed to simplify everyday Linux tasks. )
                 https://github.com/google/perfetto (https://perfetto.dev Performance instrumentation and tracing for Android, Linux and Chrome )
                 https://github.com/linuxmint/timeshift (System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB. )
                 https://github.com/muesli/duf (Disk Usage/Free Utility - a better 'df' alternative)
@@ -1680,6 +1681,7 @@ Contents:
                 https://github.com/aramalipoor/aws-cost-saver (A tiny CLI tool to help save costs in development environments when you're asleep and don't need them!)
                 https://github.com/aws-samples/hardeneks (Runs checks to see if an EKS cluster follows EKS Best Practices.)
                 https://github.com/awslabs/aws-break-glass-role (Create a break glass role for emergency use in order to limit AWS production account access. Configure automatic alerts and logging of activities in the role to secure its use in production environments.)
+                https://github.com/awslabs/mcp (https://awslabs.github.io/mcp AWS MCP Servers — helping you get the most out of AWS, wherever you use MCP. )
                 https://github.com/bash-my-aws/bash-my-aws (Simple but powerful CLI commands for managing AWS resources)
                 https://github.com/cloudandthings/terraform-aws-clickops-notifier (https://registry.terraform.io/modules/cloudandthings/clickops-notifier/aws/latest Get notified when actions are taken in the AWS Console. )
                 https://github.com/dannysteenman/aws-toolbox (A Collection of Awesome Tools and Scripts for Cloud Engineers )
@@ -2526,6 +2528,7 @@ Contents:
                 https://github.com/gchq/CyberChef (https://gchq.github.io/CyberChef The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis)
                 https://github.com/hashcat/hashcat (https://hashcat.net/hashcat https://github.com/hashcat/hashcat)
                 https://github.com/HotCakeX/Harden-Windows-Security (Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels)
+                https://github.com/HunxByts/GhostTrack (Useful tool to track location or mobile number)
                 https://github.com/iacsecurity/tool-compare (infrastructure-as-code security tools comparison)
                 https://github.com/infobyte/faraday (https://faradaysec.com Open Source Vulnerability Management Platform)
                 https://github.com/jtesta/ssh-audit (SSH server & client security auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc))
@@ -2714,6 +2717,7 @@ Contents:
                 https://github.com/mangerlahn/Latest (https://max.codes/latest A small utility app for macOS that makes sure you know about all the latest updates to the apps you use.)
                 https://github.com/MikeMcQuaid/strap (https://strap.mikemcquaid.com 👢 Bootstrap your macOS development system.)
                 https://github.com/nextdns/nextdns/wiki/macos (NextDNS CLI client (DoH Proxy) )
+                https://github.com/qarmin/czkawka (Multi functional app to find duplicates, empty folders, similar images etc. )
                 https://github.com/rgcr/m-cli ( Swiss Army Knife For Macos)
                 https://github.com/samschott/maestral (Open-source Dropbox client for macOS and Linux)
                 https://github.com/sekey/sekey (Use Touch ID / Secure Enclave for SSH Authentication!)
@@ -3295,6 +3299,7 @@ Contents:
                 https://github.com/ashishpatel26/500-AI-Agents-Projects (The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more. )
                 https://github.com/AsyncFuncAI/deepwiki-open (Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab Repositories)
                 https://github.com/aws/amazon-q-developer-cli (https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/command-line-installing.html ✨ Agentic chat experience in your terminal. Build applications using natural language.)
+                https://github.com/awslabs/mcp (https://awslabs.github.io/mcp AWS MCP Servers — helping you get the most out of AWS, wherever you use MCP. )
                 https://github.com/bodo-run/yek (A fast tool to read text-based files in a repository or directory, chunk them, and serialize them for LLM consumption. )
                 https://github.com/browser-use/browser-use ( https://browser-use.com Make websites accessible for AI agents)
                 https://github.com/charmbracelet/crush (The glamourous AI coding agent for your favourite terminal 💘)
@@ -5350,7 +5355,7 @@ Contents:
                 https://github.com/movie-web/movie-web (https://movie-web.app A small web app for watching movies and shows easily from various torrent sites)
                 https://github.com/ngosang/trackerslist (Updated list of public BitTorrent trackers)
                 https://github.com/popcorn-official/popcorn-desktop (https://popcorntimeapp.netlify.app Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player ( Windows / Mac / Linux ) A Butter-Project Fork)
-                https://torrentfreak.com/top-torrent-sites (Top 10 Most Popular Torrent Sites 2024)
+                https://torrentfreak.com/top-torrent-sites (Top 10 Most Popular Torrent Sites 2025)
                 https://torrentfreak.com/utorrent-is-the-most-used-bittorrent-client-by-far-200405
                 https://www.reddit.com/r/Addons4Kodi/wiki/preferred_addons
                 https://www.reddit.com/r/movieleaks
