@@ -950,6 +950,7 @@ Contents:
                 https://github.com/trimstray/the-practical-linux-hardening-guide (This guide details creating a secure Linux production system. OpenSCAP (C2S/CIS, STIG).)
                 https://livesys.se/posts/the-chroot-technique (The chroot Technique - a Swiss army multitool for Linux systems)
                 https://netfilter.org/documentation (Documentation about the netfilter/iptables project)
+                https://roguesecurity.dev/blog/systemd-hardening (SystemD Service Hardening)
                 https://wiki.archlinux.org (Arch Linux documentation on the web.)
 
             Tools:
@@ -958,6 +959,7 @@ Contents:
                 https://github.com/apple/container (https://apple.github.io/container/documentation A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It's written in Swift, and optimized for Apple silicon. )
                 https://github.com/canonical/multipass (Multipass orchestrates virtual Ubuntu instances)
                 https://github.com/ChrisTitusTech/linutil (Chris Titus Tech's Linux Toolbox - Linutil is a distro-agnostic toolbox designed to simplify everyday Linux tasks. )
+                https://github.com/desbma/shh (Systemd Hardening Helper - Automatic systemd service hardening guided by strace profiling )
                 https://github.com/google/perfetto (https://perfetto.dev Performance instrumentation and tracing for Android, Linux and Chrome )
                 https://github.com/linuxmint/timeshift (System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB. )
                 https://github.com/muesli/duf (Disk Usage/Free Utility - a better 'df' alternative)
@@ -1084,8 +1086,10 @@ Contents:
                 https://explainshell.com (write down a command-line to see the help text that matches each argument)
                 https://gist.github.com/steinwaywhw/a4cd19cda655b8249d908261a62687f8 (One Liner to Download the Latest Release from Github Repo)
                 https://github.com/atuinsh/atuin (https://atuin.sh ✨ Magical shell history)
+                https://github.com/bgreenwell/doxx (https://bgreenwell.github.io/doxx/doxx Expose the contents of .docx files without leaving your terminal. Fast, safe, and smart — no Office required! )
                 https://github.com/BurntSushi/ripgrep (ripgrep recursively searches directories for a regex pattern while respecting your gitignore )
                 https://github.com/cantino/mcfly (Fly through your shell history. Great Scott!)
+                https://github.com/charmbracelet/glow (Render markdown on the CLI, with pizzazz! 💅🏻)
                 https://github.com/cheat/cheat (cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not frequently enough to remember.)
                 https://github.com/ChrisBuilds/terminaltexteffects (https://chrisbuilds.github.io/terminaltexteffects Visual effects applied to text in the terminal.)
                 https://github.com/ellie/atuin (🐢 Magical shell history)
@@ -2495,6 +2499,7 @@ Contents:
                 https://portswigger.net/research/top-10-web-hacking-techniques-of-2023 (Top 10 web hacking techniques of 2023 by James Kettle. Updated: 19 February 2024)
                 https://ppn.snovvcrash.rocks (Pentester's promiscuous handbook)
                 https://redhuntlabs.com/blog/open-port-chronicle-what-port-80-revealed-about-the-internet-project-resonance-wave-12 (What Port 80 Revealed About The Internet)
+                https://roguesecurity.dev/blog/systemd-hardening (SystemD Service Hardening)
                 https://sysdig.com/blog/top-owasp-kubernetes (The OWASP Kubernetes Top 10 puts all possible risks in an order of overall commonality or probability.)
                 https://tldrsec.com/p/kubernetes-security-threat-informed-defense (Keep Hackers Out of Your Kubernetes Cluster with These 5 Simple Tricks!)
                 https://tldrsec.com/p/software-supply-chain-vendor-landscape (Software Supply Chain Vendor Landscape)
@@ -2524,6 +2529,7 @@ Contents:
                 https://github.com/BushidoUK/Ransomware-Tool-Matrix (https://blog.bushidotoken.net/2024/08/the-ransomware-tool-matrix.html A resource containing all the tools each ransomware gangs uses)
                 https://github.com/Cryakl/Ultimate-RAT-Collection (For educational purposes only, exhaustive samples of 450+ classic/modern trojan builders including screenshots. )
                 https://github.com/cugu/awesome-forensics ( A curated list of awesome forensic analysis tools and resources http://cugu.github.io/awesome-forensics )
+                https://github.com/desbma/shh (Systemd Hardening Helper - Automatic systemd service hardening guided by strace profiling )
                 https://github.com/devsecops/awesome-devsecops (https://www.devsecops.org An authoritative list of awesome devsecops tools with the help from community experiments and contributions.)
                 https://github.com/docker/docker-bench-security (The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.)
                 https://github.com/dstotijn/hetty (https://hetty.xyz An HTTP toolkit for security research.)
@@ -5667,10 +5673,11 @@ Contents:
             Sources:
                 https://shavercheck.com/best-body-trimmer (The Best Body Trimmers For Men (2025): The Ultimate Guide)
                 https://shavercheck.com/best-electric-razor (The Best Electric Razors For Men (2025): A Practical Guide)
+                https://shavercheck.com/electric-shaver-cleaning (How To Clean An Electric Shaver The Right Way (Quickly And Efficiently))
+                https://shavercheck.com/lubricate-electric-razor (How To Lubricate An Electric Razor The Right Way)
                 https://www.amazon.com/Best-Sellers-Beauty-Personal-Care-Mens-Electric-Shavers/zgbs/beauty/13271092011 (Best Sellers in Men's Electric Shavers)
                 https://www.amazon.com/gp/bestsellers/beauty/7697066011 (Best Sellers in Body Hair Groomers)
                 https://www.amazon.in/Andis-Cool-Clipper-Blades-Maintenance/dp/B0854JWKDG (Andis 5 In-1 Cool Care Plus Spray for Clipper Blades Maintenance (439 gm), White (12750))
-                https://www.amazon.in/dp/B00KCMRZ40 (Philips QG3387/15 9-in-1 Head to Toe Trimmer)
                 https://www.amazon.in/gp/bestsellers/hpc/26953359031 (Bestsellers in Men's Electric Shavers)
                 https://www.nytimes.com/wirecutter/reviews/best-beard-trimmer (The Best Beard Trimmer)
                 https://www.nytimes.com/wirecutter/reviews/best-electric-razor (The Best Electric Razor)
@@ -5686,6 +5693,10 @@ Contents:
                 https://www.amazon.in/Braun-Electric-Shaver-Replacement-Compatible/dp/B09B7SWJBP (Braun Electric Shaver Head Replacement Part 94M Silver, Compatible with Series 9 Pro and Series 9 Electric Razors for Men)
                 https://www.amazon.in/Braun-Powercase-Compatible-Electric-Shavers/dp/B0CFCF4DNR (Braun Powercase, Compatible with Braun Series 8 and 9 Electric Shavers, Charges for up to 6 Weeks)
                 https://www.tirabeauty.com/product/braun-series-9-pro-9567cc-wet-dry-electric-shaver-9567-7692488 (Braun Series 9 Pro 9567cc Wet & Dry Electric Shaver)
+
+            Philips:
+                https://www.amazon.in/dp/B00KCMRZ40 (Philips QG3387/15 9-in-1 Head to Toe Trimmer)
+                https://www.amazon.in/dp/B0B53LLP5H (Philips QP6550/15 OneBlade Pro Trimmer and Shaver with 14 trimming length options and 120 mins run time (New Model) )
 
         Stuff Worth Paying For:
             https://1password.com
