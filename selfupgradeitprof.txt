@@ -576,10 +576,10 @@ Contents:
                 https://www.davidc.net/sites/default/subnets/subnets.html (Visual Subnet Calculator)
 
             Books and Courses:
-                Computer Networking: A Top-Down Approach, 8th Edition (2021) by James F. Kurose and Keith Ross:
+                Computer Networking A Top-Down Approach, 9th edition (2025) by James F. Kurose and Keith Ross:
                     https://www.amazon.com/Computer-Networking-Global-James-Kurose/dp/1292405465
-                    https://gaia.cs.umass.edu/kurose_ross
-                    https://www.pearson.com/us/higher-education/program/Kurose-Pearson-e-Text-Computer-Networking-Access-Card-8th-Edition/PGM2877610.html
+                    https://gaia.cs.umass.edu/kurose_ross (Authors' website for the textbook, Computer Networking: a Top Down Approach (Pearson). )
+                    https://www.pearson.com/en-us/subject-catalog/p/computer-networking-a-top-down-approach/P200000013385/9780135415603
                     https://gaia.cs.umass.edu/kurose_ross/lectures.php (Online lectures and review questions)
                     https://gaia.cs.umass.edu/kurose_ross/wireshark.php (Supplements: Wireshark Labs)
                     https://youtube.com/playlist?list=PLvFG2xYBrYASIUH_y2hYaMCro8KUe_yL8 (Computer Networking: A Top-Down Approach 8th edition by Jim Kurose and Keith Ross Playlist)
@@ -3304,6 +3304,7 @@ Contents:
                 https://github.com/ai-boost/Awesome-GPTs (Curated list of awesome GPTs 👍.)
                 https://github.com/ai-collection/ai-collection ( The Generative AI Landscape - A List of Awesome Generative AI Applications Topics)
                 https://github.com/All-Hands-AI/OpenHands (https://www.all-hands.dev 🙌 OpenHands: Code Less, Make More )
+                https://github.com/anthropics/claude-code (https://www.anthropic.com/claude-code)
                 https://github.com/asgeirtj/system_prompts_leaks (system_prompts_leaks)
                 https://github.com/ashishpatel26/500-AI-Agents-Projects (The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more. )
                 https://github.com/AsyncFuncAI/deepwiki-open (Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab Repositories)
@@ -3424,8 +3425,8 @@ Contents:
 
         IDE:
             Sources:
-                https://cursor.com (The AI Code Editor)
                 https://editorconfig.org (EditorConfig helps maintain consistent coding styles for multiple developers working on the same project across various editors and IDEs.)
+                https://github.com/anthropics/claude-code (https://www.anthropic.com/claude-code)
                 https://github.com/continuedev/continue (https://continue.dev ⏩ Continue is an open-source autopilot for VS Code and JetBrains—the easiest way to code with any LLM)
                 https://github.com/coteditor/CotEditor (https://coteditor.com CotEditor is a lightweight, open-source text editor for macOS.)
                 https://github.com/daytonaio/daytona (The Open Source Dev Environment Manager. https://www.daytona.io)
@@ -3521,6 +3522,7 @@ Contents:
 
             Cursor:
                 Sources:
+                    https://cursor.com (The AI Code Editor)
                     https://github.com/PatrickJS/awesome-cursorrules (📄 A curated list of awesome .cursorrules files )
                     https://github.com/topics/cursor
 
@@ -5692,6 +5694,7 @@ Contents:
                 https://www.amazon.in/Braun-Clean-Frustration-Refill-Cartridges/dp/B06VXND7JF (Braun Clean & Renew Frustration Free Refill Cartridges CCR 4)
                 https://www.amazon.in/Braun-Electric-Shaver-Replacement-Compatible/dp/B09B7SWJBP (Braun Electric Shaver Head Replacement Part 94M Silver, Compatible with Series 9 Pro and Series 9 Electric Razors for Men)
                 https://www.amazon.in/Braun-Powercase-Compatible-Electric-Shavers/dp/B0CFCF4DNR (Braun Powercase, Compatible with Braun Series 8 and 9 Electric Shavers, Charges for up to 6 Weeks)
+                https://www.flipkart.com/braun-ccr5-1-clean-renew-cleaning-cartridge-trimmer-70-min-runtime-1-length-settings/p/itm20aecea8fa422 (Braun CCR5+1 Clean & Renew Cleaning Cartridge)
                 https://www.tirabeauty.com/product/braun-series-9-pro-9567cc-wet-dry-electric-shaver-9567-7692488 (Braun Series 9 Pro 9567cc Wet & Dry Electric Shaver)
 
             Philips:
