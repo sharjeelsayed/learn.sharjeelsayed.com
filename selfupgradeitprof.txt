@@ -344,7 +344,7 @@ Contents:
                 https://people.freebsd.org/~lstewart/articles/cpumemory.pdf (What Every Programmer Should Know About Memory)
                 https://samwho.dev/numbers (Latency Numbers Every Programmer Should Know)
                 https://softwareengineeringdaily.com
-                https://survey.stackoverflow.co/2024 (Stackoverflow 2024 Developer Survey)
+                https://survey.stackoverflow.co/2025 (Stackoverflow 2025 Developer Survey)
                 https://tldrlegal.com (Software Licenses in Plain English)
                 https://wizardzines.com/comics (programming zines by Julia Evans)
                 https://www.discoverdev.io (Discover dev brings you a daily digest of the best engineering blogs from across the web! Handpicked by AI and a network of globally distributed nerds!)
@@ -2983,6 +2983,7 @@ Contents:
                 https://github.com/topics/python?o=desc&s=stars
                 https://github.com/tuvtran/project-based-learning#python
                 https://github.com/vinta/awesome-python (A curated list of awesome Python frameworks, libraries, software and resources)
+                https://lp.jetbrains.com/python-developers-survey-2024 (Python Developers Survey 2024 Results)
                 https://news.ycombinator.com/item?id=16622038 (At full speed with Python: a book for self-learners)
                 https://news.ycombinator.com/item?id=21054462 (Ask HN: How do you handle/maintain local Python environments?)
                 https://news.ycombinator.com/item?id=30980813 (	Ask HN: Python Programming Books)
@@ -2992,7 +2993,6 @@ Contents:
                 https://realpython.com/courses/python-boto3-aws-s3 (Python, Boto3, and AWS S3: Demystified)
                 https://research.google.com/colaboratory/local-runtimes.html (Local Runtimes in Google Colab)
                 https://www.cosmicpython.com https://www.amazon.com/Architecture-Patterns-Python-Domain-Driven-Microservices/dp/1492052205 (Architecture Patterns with Python: Enabling Test-Driven Development, Domain-Driven Design, and Event-Driven Microservices)
-                https://www.jetbrains.com/lp/devecosystem-2023 (The State of Developer Ecosystem 2023)
                 https://www.reddit.com/r/learnprogramming/wiki/online#wiki_python
                 https://www.reddit.com/r/learnpython/comments/53z5p4/how_to_start_learning_python_the_complete_guide (How to start learning Python ? The Complete guide.)
                 https://www.reddit.com/r/Python+learnpython
@@ -3109,6 +3109,7 @@ Contents:
             Sources:
                 https://github.com/akullpp/awesome-java
                 https://github.com/iluwatar/java-design-patterns (Design patterns implemented in Java)
+                https://github.com/TheAlgorithms/Java (All Algorithms implemented in Java )
                 https://github.com/topics/java?o=desc&s=stars
                 https://www.reddit.com/r/learnprogramming/wiki/online#wiki_java
 
@@ -5222,6 +5223,7 @@ Contents:
                 https://clonezilla.org (Clonezilla is a partition and disk imaging/cloning program similar to True Image® or Norton Ghost®.)
                 https://cryptomator.org (Cryptomator encrypts your data quickly and easily. Afterwards you upload them protected to your favorite cloud service)
                 https://db.tt/YL0e12GN (Dropbox 500 MB of bonus space)
+                https://git-annex.branchable.com (git-annex allows managing large files with git, without storing the file contents in git. It can sync, backup, and archive your data, offline and online. )
                 https://github.com/aliparlakci/bulk-downloader-for-reddit (Downloads and archives content from reddit)
                 https://github.com/ArchiveBox/ArchiveBox (https://archivebox.io 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...)
                 https://github.com/gilbertchen/benchmarking (A performance comparison of Duplicacy, restic, Attic, and duplicity )
