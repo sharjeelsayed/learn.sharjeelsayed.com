@@ -165,6 +165,7 @@ Contents:
             https://news.ycombinator.com/item?id=38443668 (Ask HN: Is Knuth's TAOCP worth the time and effort?)
             https://news.ycombinator.com/item?id=5019373 (How Harvard's CS50 Renewed My Hope For Online Education)
             https://ocw.mit.edu/courses/find-by-topic/#cat=engineering&subcat=computerscience
+            https://samwho.dev/big-o (A visual introduction to big O notation )
             https://spin.atomicobject.com/2015/05/15/obtaining-thorough-cs-background-online (Obtaining a Thorough CS Background Online )
             https://techdevguide.withgoogle.com (Grow Your Technical Skills with Google)
             https://terriblesoftware.org/2025/01/22/the-7-most-influential-papers-in-computer-science-history (The 7 Most Influential Papers in Computer Science History)
@@ -821,7 +822,7 @@ Contents:
                 https://prepare.sh/articles/devops-job-market-trends-2025 (DevOps Job Market Trends [2025])
                 https://prepare.sh/articles/devops-job-market-trends-2025 (DevOps Job Market Trends [2025])
                 https://prepare.sh/engineering/devops (I scraped all DevOps Interview Questions for Meta, Amazon, Google, Yahoo.)
-                https://roadmap.sh/devops (Step by step guide for DevOps, SRE or any other Operations Role in 2024)
+                https://roadmap.sh/devops (Step by step guide for DevOps, SRE or any other Operations Role in 2025)
                 https://slack.cloudposse.com https://sweetops.slack.com https://slack.sweetops.com (SweetOps Slack Group)
                 https://www.actionsbyexample.com (GitHub Actions by Example is an introduction to the service through annotated examples.)
                 https://www.devopscommunity.in
@@ -2180,31 +2181,6 @@ Contents:
                 https://www.toptal.com/developers/gitignore
                 https://www.udemy.com/topic/git/?ratings=4.5&sort=popularity (Udemy Courses rated 4.5 stars and above)
 
-            Git Tutorials:
-                https://about.gitlab.com/images/press/git-cheat-sheet.pdf (Git Cheat Sheet)
-                https://beej.us/guide/bggit (Beej's Guide to Git)
-                https://blog.gitbutler.com/git-tips-and-tricks (Git Tips and Tricks)
-                https://blog.gitbutler.com/how-git-core-devs-configure-git (How Core Git Developers Configure Git by Scott Chacon)
-                https://docs.github.com/en/actions (GitHub Actions documentation)
-                https://git-scm.com/book/en/v2/Git-Tools-Reset-Demystified (Reset vs Checkout)
-                https://github.com/FAQGURU/FAQGURU/blob/master/topics/en/git.md (A list of Git interview questions)
-                https://github.com/git-tips/tips (Most commonly used git tips and tricks.)
-                https://github.com/k88hudson/git-flight-rules (Flight rules for git)
-                https://github.com/tiimgreen/github-cheat-sheet (A list of cool features of Git and GitHub.)
-                https://github.com/UnseenWizzard/git_training (An interactive git training meant to teach you how git works, not just which commands to execute)
-                https://github.github.com/training-kit/downloads/github-git-cheat-sheet (GitHub Git Cheat Sheet)
-                https://jdsalaro.com/blog/git-tutorial (Git for Beginners: Zero to Hero 🐙)
-                https://jvns.ca/blog/2023/11/01/confusing-git-terminology (Confusing git terminology by Julia Evans)
-                https://jvns.ca/blog/2023/11/06/rebasing-what-can-go-wrong- (git rebase: what can go wrong?)
-                https://jwiegley.github.io/git-from-the-bottom-up/1-Repository/7-branching-and-the-power-of-rebase.html (Best explanation of rebase vs merge)
-                https://ohshitgit.com (Bad situations I've gotten myself into, and how I eventually got myself out of them in plain english.)
-                https://techtldr.com/19-git-tips-for-everyday-use (19 Git Tips For Everyday Use)
-                https://tylercipriani.com/blog/2022/11/19/git-notes-gits-coolest-most-unloved-feature (Git's Coolest, Most Unloved Feature)
-                https://www.emoses.org/posts/keeping-work-separate (Separating work and personal config)
-                https://www.shortcutfoo.com/app/dojos/git (Choose shortcuts to practice)
-                https://youtu.be/1ffBJ4sVUb4 ([Linux.conf.au 2013] - Git For Ages 4 And Up)
-                https://youtu.be/2sjqTHE0zok (Lecture 6: Version Control (git) (2020) by Missing Semester)
-
             Git Tools:
                 https://deepwiki.com (Which repo would you like to understand?)
                 https://github.com/acaudwell/Gource (https://gource.io software version control visualization)
@@ -2237,6 +2213,31 @@ Contents:
                 https://www.sublimemerge.com (Git Client, done Sublime)
 
             Books and Courses:
+                Git Tutorials:
+                    https://about.gitlab.com/images/press/git-cheat-sheet.pdf (Git Cheat Sheet)
+                    https://beej.us/guide/bggit (Beej's Guide to Git)
+                    https://blog.gitbutler.com/git-tips-and-tricks (Git Tips and Tricks)
+                    https://blog.gitbutler.com/how-git-core-devs-configure-git (How Core Git Developers Configure Git by Scott Chacon)
+                    https://docs.github.com/en/actions (GitHub Actions documentation)
+                    https://git-scm.com/book/en/v2/Git-Tools-Reset-Demystified (Reset vs Checkout)
+                    https://github.com/FAQGURU/FAQGURU/blob/master/topics/en/git.md (A list of Git interview questions)
+                    https://github.com/git-tips/tips (Most commonly used git tips and tricks.)
+                    https://github.com/k88hudson/git-flight-rules (Flight rules for git)
+                    https://github.com/tiimgreen/github-cheat-sheet (A list of cool features of Git and GitHub.)
+                    https://github.com/UnseenWizzard/git_training (An interactive git training meant to teach you how git works, not just which commands to execute)
+                    https://github.github.com/training-kit/downloads/github-git-cheat-sheet (GitHub Git Cheat Sheet)
+                    https://jdsalaro.com/blog/git-tutorial (Git for Beginners: Zero to Hero 🐙)
+                    https://jvns.ca/blog/2023/11/01/confusing-git-terminology (Confusing git terminology by Julia Evans)
+                    https://jvns.ca/blog/2023/11/06/rebasing-what-can-go-wrong- (git rebase: what can go wrong?)
+                    https://jwiegley.github.io/git-from-the-bottom-up/1-Repository/7-branching-and-the-power-of-rebase.html (Best explanation of rebase vs merge)
+                    https://ohshitgit.com (Bad situations I've gotten myself into, and how I eventually got myself out of them in plain english.)
+                    https://techtldr.com/19-git-tips-for-everyday-use (19 Git Tips For Everyday Use)
+                    https://tylercipriani.com/blog/2022/11/19/git-notes-gits-coolest-most-unloved-feature (Git's Coolest, Most Unloved Feature)
+                    https://www.emoses.org/posts/keeping-work-separate (Separating work and personal config)
+                    https://www.shortcutfoo.com/app/dojos/git (Choose shortcuts to practice)
+                    https://youtu.be/1ffBJ4sVUb4 ([Linux.conf.au 2013] - Git For Ages 4 And Up)
+                    https://youtu.be/2sjqTHE0zok (Lecture 6: Version Control (git) (2020) by Missing Semester)
+
                 Pro Git
                     https://git-scm.com/book/en/v2
 
@@ -2275,6 +2276,12 @@ Contents:
                     https://www.udemy.com/course/git-and-github-complete-guide
                     https://youtu.be/3FKrszHcIsA
 
+                The Git & Github Bootcamp : Master the essentials and the tricky bits: rebasing, squashing, stashing, reflogs, blobs, trees, & more! 2025 by Colt Steele
+                    https://www.udemy.com/course/git-and-github-bootcamp
+
+                GitHub Actions - The Complete Guide: Learn how to build automated CI / CD workflows with GitHub's DevOps service 2025 by Maximilian Schwarzmüller
+                    https://www.udemy.com/course/github-actions-the-complete-guide
+
             Additional Material:
                 Git Video Tutorial by Derek Banas:
                     http://www.newthinktank.com/2014/04/git-video-tutorial
@@ -2296,36 +2303,8 @@ Contents:
                 Jenkins Handbook
                     https://www.jenkins.io/doc/book
 
-                DevOps Beginners to Advanced with Projects - 2023 | Begin DevOps Career As an Absolute Beginner | AWS, Linux, Scripts, Jenkins, Ansible, GitOps, Docker,Kubernetes, & ChatGPT by Imran Teli
+                DevOps Beginners to Advanced with Projects - 2025 | Begin Your DevOps Career As a Newbie | AWS, Linux, Scripting, Jenkins, Ansible, GitOps, Docker, Kubernetes, & Terraform. by Imran Teli
                     https://www.udemy.com/course/decodingdevops
-
-                The Ultimate DevOps Bootcamp - 2023 by Mumshad Mannambeth and KodeKloud Training
-                    https://www.udemy.com/course/the-complete-devops-bootcamp
-
-                Rocking DevOps with Jenkins, Kubernetes, Ansible by Rajdeep Saha | Cloud Architect @Fortune10 Company
-                    https://www.udemy.com/course/rocking-devops-with-jenkins-kubernetes-ansible
-
-                DevOps Project - 2022: CI/CD with Jenkins Ansible Kubernetes by AR Shankar | Valaxy Technologies:
-                    https://www.youtube.com/playlist?list=PLxzKY3wu0_FJdJd3IKdiM4Om1hGo2Hsdt
-                    https://www.udemy.com/course/valaxy-devops
-                    https://github.com/ValaxyTech
-
-                Jenkins Tutorial for Beginners by TechWorld with Nana
-                    https://www.youtube.com/playlist?list=PLy7NrYWoggjw_LIiDK1LXdNN82uYuuuiC
-
-            Additional Courses:
-                Certified Jenkins Engineer (2020) by Michael McClaren
-                    https://acloud.guru/overview/9e73056f-b71d-43c5-b59d-d2053b15290d
-
-                Implementing a Full CI/CD Pipeline by William Boyd
-                    https://acloud.guru/overview/93e6884d-ac98-49b6-a9cd-5e357d2dbb41
-
-                Learn DevOps: CI/CD with Jenkins using Pipelines and Docker by Edward Viaene:
-                    https://www.udemy.com/course/learn-devops-ci-cd-with-jenkins-using-pipelines-and-docker
-                    https://github.com/wardviaene/jenkins-course
-                    https://github.com/wardviaene/devops-box
-                    https://github.com/wardviaene/docker-demo
-                    https://www.facebook.com/groups/devops.courses
 
         Vim:
             Sources:
@@ -2941,6 +2920,7 @@ Contents:
                 https://github.com/drawdb-io/drawdb (https://www.drawdb.app Free, simple, and intuitive online database diagram editor and SQL generator. )
                 https://github.com/whoiskatrin/sql-translator (SQL Translator is a tool for converting natural language queries into SQL code using artificial intelligence. This project is 100% free and open source.)
                 https://gvwilson.github.io/sql-tutorial (SQL for data scientists in 100 queries)
+                https://menial.co.uk/base (The best SQLite database editor for macOS)
                 https://news.ycombinator.com/item?id=23070491 (Here are some other SQL Learning resources I have collected in my note taking Wiki (mostly from HN itself))
                 https://news.ycombinator.com/item?id=23138297 (Advanced SQL and database books and resources (neilwithdata.com))
                 https://selectstarsql.com (This is an interactive book which aims to be the best place on the internet for learning SQL.)
@@ -3321,6 +3301,7 @@ Contents:
                 https://github.com/eugeneyan/open-llms (🤖 A list of open LLMs available for commercial use.)
                 https://github.com/f/awesome-chatgpt-prompts (https://prompts.chat This repo includes ChatGPT prompt curation to use ChatGPT better.)
                 https://github.com/friuns2/BlackFriday-GPTs-Prompts (https://aidark.net List of free GPTs that doesn't require plus subscription)
+                https://github.com/getAsterisk/gooey (https://claudiacode.com Claudia: Your elegant desktop companion for Claude Code)
                 https://github.com/GoogleCloudPlatform/kubectl-ai (AI powered Kubernetes Assistant)
                 https://github.com/Hannibal046/Awesome-LLM (Awesome-LLM: a curated list of Large Language Model)
                 https://github.com/hesreallyhim/awesome-claude-code (A curated list of awesome commands, files, and workflows for Claude Code )
@@ -3431,6 +3412,7 @@ Contents:
                 https://github.com/continuedev/continue (https://continue.dev ⏩ Continue is an open-source autopilot for VS Code and JetBrains—the easiest way to code with any LLM)
                 https://github.com/coteditor/CotEditor (https://coteditor.com CotEditor is a lightweight, open-source text editor for macOS.)
                 https://github.com/daytonaio/daytona (The Open Source Dev Environment Manager. https://www.daytona.io)
+                https://github.com/getAsterisk/gooey (https://claudiacode.com Claudia: Your elegant desktop companion for Claude Code)
                 https://github.com/helix-editor/helix (https://helix-editor.com A post-modern modal text editor. )
                 https://github.com/openai/agents.md (https://agents.md AGENTS.md — a simple, open format for guiding coding agents)
                 https://github.com/topics/editor (public repositories matching this topic editor)
@@ -3744,6 +3726,7 @@ Contents:
                 https://www.qrcode-monkey.com/#vcard
                 https://www.vistaprint.in/business-cards
                 https://youtu.be/n6d4KHSKqGk (UPDATE: Next Level GitHub Profile README (NEW) | GitHub Actions | Vercel | Spotify)
+                https://github.com/anuraghazra/github-readme-stats (⚡ Dynamically generated stats for your github readmes)
 
         Jobs:
             Sources:
@@ -4480,6 +4463,7 @@ Contents:
                     https://open.spotify.com/playlist/6buS3xfirKekKanY53l2fN (Soma FM Drone Zone & Deep Space One)
 
                 Spotify:
+                    https://github.com/spotDL/spotify-downloader (https://spotdl.readthedocs.io/en/latest Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found). )
                     https://open.spotify.com/album/6035JmOXELaAUjbaCzq7bu (Studying Music: Binaural Beats Sounds For Studying, Focus, Concentration and Ambient Study Music)
                     https://open.spotify.com/album/6XRukyQYxofq4QbPirgtpc (Brown Noise DLX)
                     https://open.spotify.com/album/6YxOJgSL1EQONuJgyBIPhg (Ambient World by David Arkenstone)
@@ -5740,6 +5724,7 @@ Contents:
             https://en.wikipedia.org/wiki/List_of_most_valuable_brands (List of most valuable brands)
             https://en.wikipedia.org/wiki/List_of_tallest_residential_buildings (List of tallest residential buildings)
             https://en.wikipedia.org/wiki/Lists_of_most_expensive_items_by_category (Lists of most expensive items by category)
+            https://en.wikipedia.org/wiki/Space_Pen (Space Pen by Fisher Space Pen Company)
             https://en.wikipedia.org/wiki/Valeriepieris_circle (A Valeriepieris circle[1][2][3] is a figure drawn on the Earth's surface such that the majority of the human population lives within its interior.)
             https://en.wikipedia.org/wiki/Wikipedia:Vital_articles (Wikipedia:Vital articles)
             https://freenode.net
