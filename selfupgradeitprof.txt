@@ -2018,11 +2018,10 @@ Contents:
                     https://www.youtube.com/c/NedintheCloud (Ned in the Cloud YouTube Channel)
                     https://youtu.be/V4waklkBC38 (HashiCorp Terraform Associate Certification Course - Pass the Exam! by  Andrew Brown (reeCodeCamp.org))
 
-                HashiCorp Terraform: The Ultimate Beginner's Guide with Labs by Bryan Krausen:
-                    https://www.udemy.com/course/terraform-for-beginners-with-labs
-                    https://github.com/btkrausen/terraform
-                    https://github.com/btkrausen/terraform-codespaces (HashiCorp Terraform training environment using GitHub Codespaces. This pre-configured development environment includes the latest version of Terraform CLI along with AWS and Azure CLIs for hands-on infrastructure as code exercises. )
-                    https://krausen.io/course/hashicorp-terraform-the-ultimate-beginners-guide-with-labs
+                HashiCorp Certified: Terraform Associate - Hands-On Labs : Terraform Associate 003 - Learn with 70+ AWS Labs Aligned to HashiCorp Exam Objectives for IaC, DevOps, and Cloud Skills by Bryan Krausen and Gabe Maentz
+                    https://www.udemy.com/course/terraform-hands-on-labs
+                    https://github.com/btkrausen/hashicorp/tree/master/terraform
+                    https://github.com/btkrausen/hashicorp/tree/master/terraform/Hands-On%20Labs (Hands-On Labs)
                     https://github.com/btkrausen (Coupon Codes)
 
                 HashiCorp Certified: Terraform Associate 2025 by Zeal Vora:
@@ -2043,11 +2042,16 @@ Contents:
                     https://www.amazon.com/Terraform-Depth-Robert-Hafner/dp/1633438007
 
                 Amazon EKS Terraform Workshop
-                https://tf-eks-workshop.workshop.aws
+                    https://tf-eks-workshop.workshop.aws
 
             Additional Material:
+                HashiCorp Terraform: The Ultimate Beginner's Guide with Labs by Bryan Krausen:
+                    https://www.udemy.com/course/terraform-for-beginners-with-labs
+                    https://github.com/btkrausen/terraform
+                    https://github.com/btkrausen/terraform-codespaces (HashiCorp Terraform training environment using GitHub Codespaces. This pre-configured development environment includes the latest version of Terraform CLI along with AWS and Azure CLIs for hands-on infrastructure as code exercises. )
+                    https://krausen.io/course/hashicorp-terraform-the-ultimate-beginners-guide-with-labs
+
                 Bryan Krausen Terraform Additional Courses:
-                    https://www.udemy.com/course/terraform-hands-on-labs (HashiCorp Certified: Terraform Associate - Hands-On Labs .Master the Terraform Associate with 70+ AWS-based labs that follow the Terraform Associate 003 objectives)
                     https://www.udemy.com/course/terraform-associate-practice-exam (HashiCorp Certified: Terraform Associate Practice Exam 2025.Pass your Terraform cert with 300+ Questions with Explanations and Resources)
 
                 More than Certified in Terraform by Derek Morgan:
@@ -2272,23 +2276,16 @@ Contents:
                     https://ohmygit.org
                     https://github.com/git-learning-game/oh-my-git
 
-                Complete Git Guide: Understand and master Git and GitHub by Bogdan Stashchuk
-                    https://www.udemy.com/course/git-and-github-complete-guide
-                    https://youtu.be/3FKrszHcIsA
+                Learn Git – Full Course for Beginners by freeCodeCamp (✏️ Course developed by Hitesh Choudhary)
+                    https://youtu.be/zTjRZNkhiEU?si=AY9leXM2GnohGHnu
 
-                The Git & Github Bootcamp : Master the essentials and the tricky bits: rebasing, squashing, stashing, reflogs, blobs, trees, & more! 2025 by Colt Steele
+                The Git & Github Bootcamp : Master the essentials and the tricky bits: rebasing, squashing, stashing, reflogs, blobs, trees, & more! by Colt Steele
                     https://www.udemy.com/course/git-and-github-bootcamp
 
-                GitHub Actions - The Complete Guide: Learn how to build automated CI / CD workflows with GitHub's DevOps service 2025 by Maximilian Schwarzmüller
+                GitHub Actions - The Complete Guide: Learn how to build automated CI / CD workflows with GitHub's DevOps service by Maximilian Schwarzmüller
                     https://www.udemy.com/course/github-actions-the-complete-guide
-
-            Additional Material:
-                Git Video Tutorial by Derek Banas:
-                    http://www.newthinktank.com/2014/04/git-video-tutorial
-                    https://youtu.be/r63f51ce84A
-
-                Git and GitHub for Poets by The Coding Train
-                    https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV
+                    https://github.com/academind/github-actions-course-resources (Resources (code, slides) for our GitHub Actions course (https://acad.link/gh-actions))
+                    https://academind.com/community
 
         Jenkins:
             Sources:
@@ -2303,7 +2300,7 @@ Contents:
                 Jenkins Handbook
                     https://www.jenkins.io/doc/book
 
-                DevOps Beginners to Advanced with Projects - 2025 | Begin Your DevOps Career As a Newbie | AWS, Linux, Scripting, Jenkins, Ansible, GitOps, Docker, Kubernetes, & Terraform. by Imran Teli
+                DevOps Beginners to Advanced with Projects . Begin Your DevOps Career As a Newbie | AWS, Linux, Scripting, Jenkins, Ansible, GitOps, Docker, Kubernetes, & Terraform. by Imran Teli
                     https://www.udemy.com/course/decodingdevops
 
         Vim:
