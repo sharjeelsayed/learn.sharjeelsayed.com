@@ -1663,7 +1663,6 @@ Contents:
                 https://github.com/topics/aws?o=desc&s=stars
                 https://github.com/vantage-sh/ec2instances.info (Amazon EC2 instance comparison site)
                 https://instances.vantage.sh (Easy Amazon EC2 Instance Comparison)
-                https://kodekloud.com/playgrounds (KodeKloud Playgrounds. Playgrounds are sandboxed Cloud and DevOps environments for you to experience without fear of failure)
                 https://miparnisariblog.wordpress.com/2023/03/29/aws-networking-concepts (AWS Networking Concepts)
                 https://news.ycombinator.com/item?id=38998516 (Slashing data transfer costs in AWS (bitsand.cloud))
                 https://news.ycombinator.com/item?id=39313623 (Almost every infrastructure decision I endorse or regret (cep.dev))
@@ -1809,6 +1808,12 @@ Contents:
                 https://awsworkshop.io (This website is a dedicated resource for curated workshops and training Modules created by the teams at AWS and AWS Partners.)
                 https://workshops.aws (This website lists workshops created by the teams at Amazon Web Services (AWS). Workshops are hands-on events designed to teach or introduce practical skills, techniques, or concepts which you can use to solve business problems.)
                 https://www.wellarchitectedlabs.com
+
+            AWS Sandbox Playground:
+                https://kodekloud.com/playgrounds (KodeKloud Playgrounds. Playgrounds are sandboxed Cloud and DevOps environments for you to experience without fear of failure)
+                https://learn.acloud.guru/cloud-playground/cloud-sandboxes (Build skills across hundreds of cloud services in real AWS, Azure and GCP sandboxes Cloud along with courses, )
+                https://portal.tutorialsdojo.com/product/playcloud-sandbox-aws (The PlayCloud Sandbox is an isolated AWS environment where you can confidently experiment and run applications.)
+                https://www.whizlabs.com/labs/sandbox (A secure, isolated, contained environment.)
 
             AWS Support Groups:
                 https://discord.com/channels/1191146976847351970 (TechStudyDiscord by Adrian Cantrill)
@@ -2334,11 +2339,14 @@ Contents:
                 https://github.com/amix/vimrc (The ultimate Vim configuration (vimrc) )
                 https://github.com/LazyVim/LazyVim ( Neovim config for the lazy https://www.lazyvim.org)
                 https://github.com/m4xshen/hardtime.nvim (Break bad habits, master Vim motions)
+                https://github.com/renzorlive/vimmaster (https://renzorlive.github.io/vimmaster VIM Master is a lightweight in-browser game that teaches core Vim motions and editing commands through short, focused levels. No installs required—just open `index.html` and start practicing. )
                 https://stackoverflow.com/questions/726894/what-are-the-dark-corners-of-vim-your-mom-never-told-you-abouts (What are the dark corners of Vim your mom never told you about?)
+                https://vim-adventures.com (Learn Vim while playing a game)
                 https://vim.fandom.com (Vim Tips Wiki)
                 https://vimhelp.org/quickref.txt.html (Vim Quick Reference Card)
                 https://www.shortcutfoo.com/app/dojos/vim (Choose shortcuts to practice)
                 https://www.vim.so (We help you master vim with interactive exercises)
+                https://www.vimgolf.com (Real Vim ninjas count every keystroke - do you? Pick a challenge, fire up Vim, and show us what you got.)
                 https://www.youtube.com/playlist?list=PLu-ydI-PCl0OEG0ZEqLRRuCrMJGAAI0tW (Vim as IDE by by DevOnDuty)
                 https://youtu.be/XA2WjJbmmoM (How to Do 90% of What Plugins Do (With Just Vim))
 
@@ -3831,6 +3839,7 @@ Contents:
                 https://remotive.com
                 https://eshsoft.com/jobinator (Search through recent Hacker News job listings, categorized and normalized using a LLM. Updated daily.)
                 https://remoteintech.company
+                https://www.fossjobs.net (This is a job board exclusively for paid free & open source jobs: We only list jobs at organizations that improve and involve FOSS or open hardware projects. )
 
             Arab League Countries Job Sites:
                 https://ae.indeed.com (66)
@@ -3921,6 +3930,7 @@ Contents:
                 https://cofounderslab.com (Find a co-founder, hire a freelancer, or find a job)
                 https://diataxis.fr (The Grand Unified Theory Of Documentation)
                 https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy (Cognitive behavioral therapy)
+                https://en.wikipedia.org/wiki/List_of_cognitive_biases (List of cognitive biases)
                 https://en.wikipedia.org/wiki/Nonviolent_Communication
                 https://en.wikipedia.org/wiki/Steve_Jobs_(book) (Steve Jobs by Walter Isaacson)
                 https://en.wikipedia.org/wiki/The_Innovator%27s_Dilemma (he Innovator's Dilemma: When New Technologies Cause Great Firms to Fail)
