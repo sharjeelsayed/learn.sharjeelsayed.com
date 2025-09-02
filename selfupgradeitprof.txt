@@ -963,6 +963,7 @@ Contents:
                 https://github.com/desbma/shh (Systemd Hardening Helper - Automatic systemd service hardening guided by strace profiling )
                 https://github.com/google/perfetto (https://perfetto.dev Performance instrumentation and tracing for Android, Linux and Chrome )
                 https://github.com/linuxmint/timeshift (System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB. )
+                https://github.com/microsoft/ProcMon-for-Linux (A Linux version of the Procmon Sysinternals tool )
                 https://github.com/muesli/duf (Disk Usage/Free Utility - a better 'df' alternative)
                 https://github.com/topgrade-rs/topgrade (Upgrade all the things)
                 https://github.com/Xfennec/progress (Linux tool to show progress for cp, mv, dd, ... (formerly known as cv) )
@@ -2276,7 +2277,7 @@ Contents:
                     https://github.com/Gazler/githug
 
                 Learn Git Branching
-                    https://learngitbranching.js.org
+                    https://learngitbranching.js.org (https://github.com/pcottle/learnGitBranching An interactive git visualization and tutorial. Aspiring students of git can use this app to educate and challenge themselves towards mastery of git! )
 
                 An open source game about learning Git!:
                     https://ohmygit.org
