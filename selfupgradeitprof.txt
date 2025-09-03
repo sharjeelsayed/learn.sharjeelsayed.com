@@ -1155,6 +1155,7 @@ Contents:
 
             Tools:
                 https://github.com/elpy1/ssh-over-ssm (SSH over AWS SSM. No bastions or public-facing instances. SSH user management through IAM. No requirement to store SSH keys locally or on server.)
+                https://github.com/LukeGus/Termix (https://docs.termix.site Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities. )
                 https://github.com/pgrok/pgrok (Poor man's ngrok - a multi-tenant HTTP reverse tunnel solution through SSH remote port forwarding )
                 https://github.com/sekey/sekey (Use Touch ID / Secure Enclave for SSH Authentication!)
                 https://github.com/sshuttle/sshuttle (Transparent proxy server that works as a poor man's VPN. Forwards over ssh. Doesn't require admin. Works with Linux and MacOS. Supports DNS tunneling.)
