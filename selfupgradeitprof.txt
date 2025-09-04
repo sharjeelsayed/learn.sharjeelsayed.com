@@ -275,6 +275,7 @@ Contents:
                 https://github.com/CorentinTh/it-tools (https://it-tools.tech Collection of handy online tools for developers, with great UX.)
                 https://github.com/danistefanovic/build-your-own-x
                 https://github.com/DevToys-app/DevToys (A Swiss Army knife for developers. https://devtoys.app)
+                https://github.com/dipakkr/A-to-Z-Resources-for-Students (https://www.tooljunction.io ✅ Curated list of resources for college students )
                 https://github.com/EbookFoundation/free-programming-books (https://ebookfoundation.github.io/free-programming-books 📚 Freely available programming books)
                 https://github.com/facundoolano/software-papers (📚 A curated list of papers for Software Engineers)
                 https://github.com/freeCodeCamp/devdocs (https://devdocs.io API Documentation Browser )
@@ -1052,6 +1053,7 @@ Contents:
                 https://news.ycombinator.com/item?id=27615516 (Bash PS1 Generator (bashrcgenerator.com))
                 https://news.ycombinator.com/item?id=27992073 (	Command line tools for productive programmers (earthly.dev))
                 https://news.ycombinator.com/item?id=38819262 (Ugrep – a more powerful, fast, user-friendly, compatible grep (ugrep.com))
+                https://www.gilesorr.com/bashprompt/prompts (Bash Prompts)
                 https://www.reddit.com/r/usefulscripts/top
                 https://pinboard.in/u:SharjeelSayed/t:bash
 
@@ -2233,6 +2235,8 @@ Contents:
                     https://docs.github.com/en/actions (GitHub Actions documentation)
                     https://git-scm.com/book/en/v2/Git-Tools-Reset-Demystified (Reset vs Checkout)
                     https://github.com/FAQGURU/FAQGURU/blob/master/topics/en/git.md (A list of Git interview questions)
+                    https://github.com/Gazler/githug (Githug is designed to give you a practical way of learning git. It has a series of levels, each requiring you to use git commands to arrive at a correct answer.)
+                    https://github.com/git-learning-game/oh-my-git (https://ohmygit.org An open source game about learning Git!)
                     https://github.com/git-tips/tips (Most commonly used git tips and tricks.)
                     https://github.com/k88hudson/git-flight-rules (Flight rules for git)
                     https://github.com/tiimgreen/github-cheat-sheet (A list of cool features of Git and GitHub.)
@@ -2249,9 +2253,13 @@ Contents:
                     https://www.shortcutfoo.com/app/dojos/git (Choose shortcuts to practice)
                     https://youtu.be/1ffBJ4sVUb4 ([Linux.conf.au 2013] - Git For Ages 4 And Up)
                     https://youtu.be/2sjqTHE0zok (Lecture 6: Version Control (git) (2020) by Missing Semester)
+                    https://youtu.be/aolI_Rz0ZqY?si=RcI9i3Ku2fWD8PbI (So You Think You Know Git - FOSDEM 2024 by Scott Chacon's from GitButler)
 
                 Pro Git
                     https://git-scm.com/book/en/v2
+
+                Learn Git Branching
+                    https://learngitbranching.js.org (https://github.com/pcottle/learnGitBranching An interactive git visualization and tutorial. Aspiring students of git can use this app to educate and challenge themselves towards mastery of git! )
 
                 Git Concepts:
                     https://think-like-a-git.net (Think Like (a) Git A Guide for the Perplexed)
@@ -2273,19 +2281,6 @@ Contents:
                     https://jwiegley.github.io/git-from-the-bottom-up
                     https://github.com/jwiegley/git-from-the-bottom-up
                     http://ftp.newartisans.com/pub/git.from.bottom.up.pdf
-
-                Githug is designed to give you a practical way of learning git
-                    https://github.com/Gazler/githug
-
-                Learn Git Branching
-                    https://learngitbranching.js.org (https://github.com/pcottle/learnGitBranching An interactive git visualization and tutorial. Aspiring students of git can use this app to educate and challenge themselves towards mastery of git! )
-
-                An open source game about learning Git!:
-                    https://ohmygit.org
-                    https://github.com/git-learning-game/oh-my-git
-
-                Learn Git – Full Course for Beginners by freeCodeCamp (✏️ Course developed by Hitesh Choudhary)
-                    https://youtu.be/zTjRZNkhiEU?si=AY9leXM2GnohGHnu
 
                 The Git & Github Bootcamp : Master the essentials and the tricky bits: rebasing, squashing, stashing, reflogs, blobs, trees, & more! by Colt Steele
                     https://www.udemy.com/course/git-and-github-bootcamp
@@ -2876,6 +2871,7 @@ Contents:
                 https://www.cram.com (Find flashcards to study)
                 https://www.freecodecamp.org/news/best-online-courses
                 https://www.masterclass.com
+                https://www.nirfindia.org/Rankings/2025/OverallRanking.html (National Institutional Ranking Framework Ministry of Education Government of India College and University Ranking)
                 https://www.real.discount (Discount coupons for Popular courses and MOOC Platforms)
                 https://www.reddit.com/r/compsci/comments/ud0e2n/any_recommendations_of_youtube_channels_for (Any recommendations of youtube channels for programming and computer science stuff?)
                 https://www.reddit.com/r/DataHoarder/comments/c6fh4x/after_hoarding_over_50k_youtube_videos_here_is (After hoarding over 50k YouTube videos, here is the youtube-dl command I settled on)
@@ -2885,7 +2881,7 @@ Contents:
                 https://www.reddit.com/r/Udemy+udemyfreebies
                 https://www.sololearn.com
                 https://www.techlinks.in/udemy-free-coupons (Free Udemy, Cousera, Eudonix Courses And Coupons)
-                https://www.timeshighereducation.com/world-university-rankings/2024/world-ranking (The Times Higher Education World University Rankings 2024)
+                https://www.timeshighereducation.com/world-university-rankings/latest/world-ranking (Times Higher Education World University Rankings 2025)
                 https://www.topuniversities.com/world-university-rankings (QS World University Rankings)
                 https://www.tutorialbar.com (Udemy Coupons)
                 https://www.udacity.com/courses/all
