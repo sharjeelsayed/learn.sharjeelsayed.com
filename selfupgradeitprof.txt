@@ -164,32 +164,32 @@ Contents:
             https://www.scotthyoung.com/blog/myprojects/mit-challenge-2 (MIT Challenge Over the next 12 months, I’m going to learn the entire 4-year MIT curriculum for computer science, without taking any classes.)
             https://pinboard.in/u:SharjeelSayed/t:cs
 
-        Tutorials:
-            https://begriffs.com/posts/2017-04-13-longterm-computing-reading.html (Good books for deep hacks)
-            https://docs.google.com/spreadsheets/d/1zfw8nPvJeewxcFUBpKUKmAVE8PjnJI7H0CKimdQXxr0/htmlview (Stanford CS Curriculum)
-            https://github.com/cs-books/influential-cs-books (Most influential books on Computer Science/programming)
-            https://github.com/Developer-Y/cs-video-courses (List of Computer Science courses with video lectures.)
-            https://github.com/mvillaloboz/open-source-cs-degree (The Open-Source Computer Science Degree)
-            https://github.com/nushackers/notes-to-cs-freshmen-from-the-future (https://docs.google.com/document/d/1FbCWcnnajHWk594dKmN35b_we50WZf_-cwxqg-cYaRY/edit#heading=h.fnzhav8ixuki Notes to (NUS) Computer Science Freshmen, From The Future (Original by @ejamesc))
-            https://github.com/ossu/computer-science (🎓 Path to a free self-taught education in Computer Science! )
-            https://github.com/prakhar1989/awesome-courses (📚 List of awesome university courses for learning Computer Science! )
-            https://learn-anything.xyz/computer-science
-            https://matt.might.net/articles/what-cs-majors-should-know (What every computer science major should know )
-            https://ocw.mit.edu/courses/find-by-topic/#cat=engineering&subcat=computerscience
-            https://omscs.gatech.edu (Georgia Tech Online Master of Science in Computer Science (OMSCS) College of Computing)
-            https://samwho.dev/big-o (A visual introduction to big O notation )
-            https://techdevguide.withgoogle.com (Grow Your Technical Skills with Google)
-            https://www.amazon.com/Best-Sellers-Books-Computer-Science/zgbs/books/468204
-            https://www.classcentral.com/collection/ivy-league-moocs?subject=cs (Ivy League Computer Science Courses)
-            https://www.classcentral.com/subject/cs ( Online Computer Science Courses and Certifications)
-            https://www.coursebuffet.com/sub/computer-science
-            https://www.coursera.org/browse/computer-science
-            https://www.freecodecamp.org/news/free-courses-top-cs-universities (900 Free Computer Science Courses from the World’s Top Universities)
-            https://www.freecodecamp.org/news/free-online-programming-cs-courses (860+ Free Online Programming & Computer Science Courses You Can Start This New Year)
-            https://www.google.com/about/careers/students/guide-to-technical-development.html
-            https://www.openculture.com/computer_science_free_courses (Free Online Computer Science Courses )
-
         Books and Courses:
+            Tutorials:
+                https://begriffs.com/posts/2017-04-13-longterm-computing-reading.html (Good books for deep hacks)
+                https://docs.google.com/spreadsheets/d/1zfw8nPvJeewxcFUBpKUKmAVE8PjnJI7H0CKimdQXxr0/htmlview (Stanford CS Curriculum)
+                https://github.com/cs-books/influential-cs-books (Most influential books on Computer Science/programming)
+                https://github.com/Developer-Y/cs-video-courses (List of Computer Science courses with video lectures.)
+                https://github.com/mvillaloboz/open-source-cs-degree (The Open-Source Computer Science Degree)
+                https://github.com/nushackers/notes-to-cs-freshmen-from-the-future (https://docs.google.com/document/d/1FbCWcnnajHWk594dKmN35b_we50WZf_-cwxqg-cYaRY/edit#heading=h.fnzhav8ixuki Notes to (NUS) Computer Science Freshmen, From The Future (Original by @ejamesc))
+                https://github.com/ossu/computer-science (🎓 Path to a free self-taught education in Computer Science! )
+                https://github.com/prakhar1989/awesome-courses (📚 List of awesome university courses for learning Computer Science! )
+                https://learn-anything.xyz/computer-science
+                https://matt.might.net/articles/what-cs-majors-should-know (What every computer science major should know )
+                https://ocw.mit.edu/courses/find-by-topic/#cat=engineering&subcat=computerscience
+                https://omscs.gatech.edu (Georgia Tech Online Master of Science in Computer Science (OMSCS) College of Computing)
+                https://samwho.dev/big-o (A visual introduction to big O notation )
+                https://techdevguide.withgoogle.com (Grow Your Technical Skills with Google)
+                https://www.amazon.com/Best-Sellers-Books-Computer-Science/zgbs/books/468204
+                https://www.classcentral.com/collection/ivy-league-moocs?subject=cs (Ivy League Computer Science Courses)
+                https://www.classcentral.com/subject/cs ( Online Computer Science Courses and Certifications)
+                https://www.coursebuffet.com/sub/computer-science
+                https://www.coursera.org/browse/computer-science
+                https://www.freecodecamp.org/news/free-courses-top-cs-universities (900 Free Computer Science Courses from the World’s Top Universities)
+                https://www.freecodecamp.org/news/free-online-programming-cs-courses (860+ Free Online Programming & Computer Science Courses You Can Start This New Year)
+                https://www.google.com/about/careers/students/guide-to-technical-development.html
+                https://www.openculture.com/computer_science_free_courses (Free Online Computer Science Courses )
+
             Teach Yourself Computer Science:
                 https://teachyourselfcs.com
                 https://jointeachyourselfcs.carrd.co (A supportive Discord community (500+ members and counting) to teach yourself computer science.)
@@ -320,55 +320,56 @@ Contents:
                 https://www.reddit.com/r/programming/comments/6l689j/a_manually_curated_list_of_240_popular
                 https://www.tiobe.com/tiobe-index (The TIOBE index tries to gauge the popularity of programming languages)
 
-            Tutorials:
-                http://programming-motherfucker.com/become.html  (Become a Programmer by Zed A. Shaw)
-                http://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read (What is the single most influential book every programmer should read?)
-                https://0xinfection.xyz/reversing ( Reverse Engineering For Everyone! — by @mytechnotalent )
-                https://12factor.net (The twelve-factor methodology)
-                https://abseil.io/resources/swe-book (Software Engineering at Google)
-                https://austinhenley.com/blog/challengingprojects.html (Challenging Projects Every Programmer Should Try)
-                https://blog.codinghorror.com/recommended-reading-for-developers (Recommended Reading for Developers by Jeff Atwood)
-                https://codeconfessions.substack.com/p/gpu-computing (What Every Developer Should Know About GPU Computing)
-                https://codingchallenges.fyi (Helping you become a better software engineer through coding challenges that build real applications. https://github.com/CodingChallegesFYI/SharedSolutions Publicly shared solutions to Coding Challenges)
-                https://craftinginterpreters.com (Crafting Interpreters: A handbook for making programming languages by Robert Nystrom)
-                https://exercism.org (Develop fluency in 78 programming languages with our unique blend of learning, practice and mentoring. Exercism is fun, effective and 100% free, forever.)
-                https://fasterthanli.me/articles/the-http-crash-course-nobody-asked-for (The HTTP crash course nobody asked for)
-                https://fintechgtm.substack.com/p/us-fintech-and-payments-crash-course (U.S. Fintech & Payments Crash Course)
-                https://github.com/30-seconds/30-seconds-of-code (https://www.30secondsofcode.org Coding articles to level up your development skills)
-                https://github.com/bnb/awesome-developer-streams (👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻 Awesome Developers, Streaming )
-                https://github.com/braydie/HowToBeAProgrammer (A guide on how to be a Programmer - originally published by Robert L Read https://braydie.gitbooks.io/how-to-be-a-programmer/content)
-                https://github.com/charlax/engineering-management (A collection of inspiring resources related to engineering management and tech leadership)
-                https://github.com/charlax/professional-programming (A collection of learning resources for curious software engineers)
-                https://github.com/codecrafters-io/build-your-own-x (https://codecrafters.io Master programming by recreating your favorite technologies from scratch. )
-                https://github.com/dipakkr/A-to-Z-Resources-for-Students (https://www.tooljunction.io ✅ Curated list of resources for college students )
-                https://github.com/EbookFoundation/free-programming-books (https://ebookfoundation.github.io/free-programming-books 📚 Freely available programming books)
-                https://github.com/facundoolano/software-papers (📚 A curated list of papers for Software Engineers)
-                https://github.com/hackclub/some-assembly-required (An approachable introduction to assembly.)
-                https://github.com/jwasham/coding-interview-university (A complete computer science study plan to become a software engineer.)
-                https://github.com/kamranahmedse/design-patterns-for-humans (An ultra-simplified explanation to design patterns)
-                https://github.com/kamranahmedse/developer-roadmap (https://roadmap.sh Interactive roadmaps, guides and other educational content to help developers grow in their careers)
-                https://github.com/LeCoupa/awesome-cheatsheets (https://lecoupa.github.io/awesome-cheatsheets 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.)
-                https://github.com/mehdihadeli/awesome-software-architecture (https://awesome-architecture.com A curated list of awesome articles and resources to learn and practice about software architecture, patterns, and principles)
-                https://github.com/Michael0x2a/curated-programming-resources (A curated list of resources for learning programming. )
-                https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming (A multi-module course teaching everything you need to know about using GitHub Copilot as an AI Peer Programming resource. )
-                https://github.com/mtdvio/every-programmer-should-know (A collection of (mostly) technical things every software developer should know about )
-                https://github.com/MunGell/awesome-for-beginners (A list of awesome beginners-friendly projects.)
-                https://github.com/P1xt/p1xt-guides (Programming curricula)
-                https://github.com/practical-tutorials/project-based-learning (Curated list of project-based tutorials)
-                https://github.com/sdmg15/Best-websites-a-programmer-should-visit (🔗 Some useful websites for programmers.)
-                https://github.com/tuvtran/project-based-learning (Curated list of project-based tutorials)
-                https://learnxinyminutes.com (Take a whirlwind tour of your next favorite language. Community-driven!)
-                https://missing.csail.mit.edu (The Missing Semester of Your CS Education)
-                https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/index.htm (Introduction to Electrical Engineering and Computer Science I)
-                https://people.freebsd.org/~lstewart/articles/cpumemory.pdf (What Every Programmer Should Know About Memory)
-                https://samwho.dev/numbers (Latency Numbers Every Programmer Should Know)
-                https://wizardzines.com/comics (programming zines by Julia Evans)
-                https://www.makingsoftware.com (A reference manual for people who design and build software.)
-                https://www.udacity.com/course/intro-to-computer-science--cs101 (Intro to Computer Science by Udacity)
-                https://www.udemy.com/courses/development (SDevelopment Courses by Udemy)
-                https://www.youtube.com/@TheCodingTrain (The Coding Train is on its way with creative coding video tutorials on subjects ranging from the basics of programming languages like JavaScript to algorithmic art, machine learning, simulation, generative poetry, and more.)
-
             Books and Courses:
+                Tutorials:
+                    http://programming-motherfucker.com/become.html  (Become a Programmer by Zed A. Shaw)
+                    http://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read (What is the single most influential book every programmer should read?)
+                    https://0xinfection.xyz/reversing ( Reverse Engineering For Everyone! — by @mytechnotalent )
+                    https://12factor.net (The twelve-factor methodology)
+                    https://abseil.io/resources/swe-book (Software Engineering at Google)
+                    https://austinhenley.com/blog/challengingprojects.html (Challenging Projects Every Programmer Should Try)
+                    https://blog.codinghorror.com/recommended-reading-for-developers (Recommended Reading for Developers by Jeff Atwood)
+                    https://codeconfessions.substack.com/p/gpu-computing (What Every Developer Should Know About GPU Computing)
+                    https://codingchallenges.fyi (Helping you become a better software engineer through coding challenges that build real applications. https://github.com/CodingChallegesFYI/SharedSolutions Publicly shared solutions to Coding Challenges)
+                    https://craftinginterpreters.com (Crafting Interpreters: A handbook for making programming languages by Robert Nystrom)
+                    https://exercism.org (Develop fluency in 78 programming languages with our unique blend of learning, practice and mentoring. Exercism is fun, effective and 100% free, forever.)
+                    https://fasterthanli.me/articles/the-http-crash-course-nobody-asked-for (The HTTP crash course nobody asked for)
+                    https://fintechgtm.substack.com/p/us-fintech-and-payments-crash-course (U.S. Fintech & Payments Crash Course)
+                    https://github.com/30-seconds/30-seconds-of-code (https://www.30secondsofcode.org Coding articles to level up your development skills)
+                    https://github.com/bnb/awesome-developer-streams (👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻 Awesome Developers, Streaming )
+                    https://github.com/braydie/HowToBeAProgrammer (A guide on how to be a Programmer - originally published by Robert L Read https://braydie.gitbooks.io/how-to-be-a-programmer/content)
+                    https://github.com/charlax/engineering-management (A collection of inspiring resources related to engineering management and tech leadership)
+                    https://github.com/charlax/professional-programming (A collection of learning resources for curious software engineers)
+                    https://github.com/codecrafters-io/build-your-own-x (https://codecrafters.io Master programming by recreating your favorite technologies from scratch. )
+                    https://github.com/dipakkr/A-to-Z-Resources-for-Students (https://www.tooljunction.io ✅ Curated list of resources for college students )
+                    https://github.com/EbookFoundation/free-programming-books (https://ebookfoundation.github.io/free-programming-books 📚 Freely available programming books)
+                    https://github.com/facundoolano/software-papers (📚 A curated list of papers for Software Engineers)
+                    https://github.com/hackclub/some-assembly-required (An approachable introduction to assembly.)
+                    https://github.com/jwasham/coding-interview-university (A complete computer science study plan to become a software engineer.)
+                    https://github.com/kamranahmedse/design-patterns-for-humans (An ultra-simplified explanation to design patterns)
+                    https://github.com/kamranahmedse/developer-roadmap (https://roadmap.sh Interactive roadmaps, guides and other educational content to help developers grow in their careers)
+                    https://github.com/LeCoupa/awesome-cheatsheets (https://lecoupa.github.io/awesome-cheatsheets 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.)
+                    https://github.com/mehdihadeli/awesome-software-architecture (https://awesome-architecture.com A curated list of awesome articles and resources to learn and practice about software architecture, patterns, and principles)
+                    https://github.com/mhadidg/software-architecture-books (A curated list of books on Software Architecture.)
+                    https://github.com/Michael0x2a/curated-programming-resources (A curated list of resources for learning programming. )
+                    https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming (A multi-module course teaching everything you need to know about using GitHub Copilot as an AI Peer Programming resource. )
+                    https://github.com/mtdvio/every-programmer-should-know (A collection of (mostly) technical things every software developer should know about )
+                    https://github.com/MunGell/awesome-for-beginners (A list of awesome beginners-friendly projects.)
+                    https://github.com/P1xt/p1xt-guides (Programming curricula)
+                    https://github.com/practical-tutorials/project-based-learning (Curated list of project-based tutorials)
+                    https://github.com/sdmg15/Best-websites-a-programmer-should-visit (🔗 Some useful websites for programmers.)
+                    https://github.com/tuvtran/project-based-learning (Curated list of project-based tutorials)
+                    https://learnxinyminutes.com (Take a whirlwind tour of your next favorite language. Community-driven!)
+                    https://missing.csail.mit.edu (The Missing Semester of Your CS Education)
+                    https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/index.htm (Introduction to Electrical Engineering and Computer Science I)
+                    https://people.freebsd.org/~lstewart/articles/cpumemory.pdf (What Every Programmer Should Know About Memory)
+                    https://samwho.dev/numbers (Latency Numbers Every Programmer Should Know)
+                    https://wizardzines.com/comics (programming zines by Julia Evans)
+                    https://www.makingsoftware.com (A reference manual for people who design and build software.)
+                    https://www.udacity.com/course/intro-to-computer-science--cs101 (Intro to Computer Science by Udacity)
+                    https://www.udemy.com/courses/development (SDevelopment Courses by Udemy)
+                    https://www.youtube.com/@TheCodingTrain (The Coding Train is on its way with creative coding video tutorials on subjects ranging from the basics of programming languages like JavaScript to algorithmic art, machine learning, simulation, generative poetry, and more.)
+
                 CS50 Introduction to Computer Science , Harvard University:
                     https://cs50.harvard.edu
                     https://cs50.edx.org
@@ -561,7 +562,8 @@ Contents:
                 https://github.com/traviscross/mtr (mtr combines the functionality of the 'traceroute' and 'ping' programs in a single network diagnostic tool.)
                 https://www.davidc.net/sites/default/subnets/subnets.html (Visual Subnet Calculator)
 
-            Tutorials:
+            Books and Courses:
+                Tutorials:
                 https://alexandrehtrb.github.io/posts/2024/03/http2-and-http3-explained (HTTP/2 and HTTP/3 explained)
                 https://beej.us/guide/bgnet0 (Beej's Guide to Networking Concepts)
                 https://devonperoutky.super.site/blog-posts/mediocre-engineers-guide-to-https (A Mediocre Engineer's Guide to HTTPS)
@@ -585,7 +587,6 @@ Contents:
                 https://youtu.be/ZxAwQB8TZsM (Professor Messer - Seven Second Subnetting)
                 https://youtube.com/playlist?list=PLIFyRwBY_4bQUE4IB5c4VPRyDoLgOdExE (Subnetting Mastery by Practical Networking)
 
-            Books and Courses:
                 Computer Networking A Top-Down Approach, 9th edition (2025) by James F. Kurose and Keith Ross:
                     https://www.amazon.com/Computer-Networking-Global-James-Kurose/dp/1292405465
                     https://gaia.cs.umass.edu/kurose_ross (Authors' website for the textbook, Computer Networking: a Top Down Approach (Pearson). )
@@ -760,12 +761,9 @@ Contents:
             https://discord.gg/NwfDnNj54T (A Cloud Guru Community Hub)
             https://free-for.dev (This is a list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers)
             https://github.com/255kb/stack-on-a-budget (A collection of services with great free tiers for developers on a budget.)
-            https://github.com/Artemmkin/infrastructure-as-code-tutorial (Infrastructure As Code Tutorial. Covers Packer, Terraform, Ansible, Vagrant, Docker, Docker Compose, Kubernetes)
-            https://github.com/bregman-arie/sre-checklist (A checklist of anyone practicing Site Reliability Engineering)
             https://github.com/danluu/post-mortems (A collection of postmortems. Sorry for the delay in merging PRs! )
             https://github.com/dastergon/awesome-chaos-engineering (A curated list of Chaos Engineering resources.)
             https://github.com/fleetdm/fleet (https://fleetdm.com Open-source platform for IT, security, and infrastructure teams. (Linux, macOS, Chrome, Windows, cloud, data center) )
-            https://github.com/mhadidg/software-architecture-books (A curated list of books on Software Architecture.)
             https://github.com/ripienaar/free-for-dev (A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev)
             https://github.com/topics/architecture?o=desc&s=stars
             https://github.com/trimstray/the-book-of-secret-knowledge (A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.)
@@ -779,8 +777,6 @@ Contents:
             https://www.reddit.com/r/compsci+cscareerquestions+learnprogramming+linux+linuxadmin+netsec+networking+programming+sysadmin
             https://www.reddit.com/r/devops/comments/vlsnpw/what_devopssre_podcastschannels_are_you (What DevOps/SRE podcasts/channels are you watching/listening to?)
             https://www.reddit.com/r/homelab/wiki/software
-            https://www.reddit.com/r/ITCareerQuestions/comments/5nvltv/what_fieldsdisciplines_should_i_be_looking_into/dcf3ny0
-            https://www.reddit.com/r/sysadmin/comments/4oxxgv/your_favorite_scripts_you_have_stolen_or_made
 
         DevOps:
             Sources:
@@ -816,7 +812,6 @@ Contents:
                 https://prepare.sh/engineering/devops (I scraped all DevOps Interview Questions for Meta, Amazon, Google, Yahoo.)
                 https://roadmap.sh/devops (Step by step guide for DevOps, SRE or any other Operations Role in 2025)
                 https://slack.cloudposse.com https://sweetops.slack.com https://slack.sweetops.com (SweetOps Slack Group)
-                https://www.actionsbyexample.com (GitHub Actions by Example is an introduction to the service through annotated examples.)
                 https://www.devopscommunity.in
                 https://www.linkedin.com/groups/2825397 (DevOps Group)
                 https://www.reddit.com/r/devops/comments/1ahd072/most_intelligent_engineers_on_youtube (Most intelligent engineers on YouTube)
@@ -855,6 +850,7 @@ Contents:
             Sources:
                 https://discord.gg/6YJfwpsebh (SRE/DevOps Community)
                 https://enterprisersproject.com/article/2021/3/7-top-site-reliability-engineer-sre-job-interview-questions (7 top Site Reliability Engineer (SRE) job interview questions)
+                https://github.com/bregman-arie/sre-checklist (A checklist of anyone practicing Site Reliability Engineering)
                 https://github.com/dastergon/awesome-sre (https://sre.xyz A curated list of Site Reliability and Production Engineering resources. )
                 https://github.com/linkedin/school-of-sre (https://linkedin.github.io/school-of-sre At LinkedIn, we are using this curriculum for onboarding our entry-level talents into the SRE role.)
                 https://github.com/topics/sre?o=desc&s=stars
@@ -866,7 +862,7 @@ Contents:
                 https://sre.google/books (Google SRE Books)
                 https://sreweekly.com (SRE Weekly is a newsletter devoted to everything related to keeping a site or service available as consistently as possible. )
                 https://www.meetup.com/topics/site-reliability-engineering
-                https://www.usenix.org/srecon
+                https://www.usenix.org/conference/srecon (SREcon is a gathering of engineers who care deeply about site reliability, systems engineering, and working with complex distributed systems at scale. )
 
             Books and Courses:
                 Site Reliability Engineering: How Google Runs Production Systems:
@@ -1085,7 +1081,8 @@ Contents:
                 https://ugrep.com (a more powerful, ultra fast, user-friendly, compatible grep)
                 https://www.shellcheck.net (finds bugs in your shell scripts)
 
-            Tutorials:
+            Books and Courses:
+                Tutorials:
                 http://mywiki.wooledge.org/BashPitfalls (This page is a compilation of common mistakes made by bash users. Each example is flawed in some way.)
                 http://redsymbol.net/articles/unofficial-bash-strict-mode (Use Bash Strict Mode (Unless You Love Debugging))
                 https://andrew-quinn.me/fzf (So you've installed `fzf`. Now what?)
@@ -1113,7 +1110,6 @@ Contents:
                 https://web.archive.org/web/20090815205011/http://www.cuberick.com/2008/11/update-bash-history-in-realtime.html (Update Bash History in Realtime)
                 https://wiki.bash-hackers.org/scripting/debuggingtips (Debugging a script)
 
-            Books and Courses:
                 ABS Guide
                     http://tldp.org/LDP/abs/html
 
@@ -1256,7 +1252,8 @@ Contents:
                 https://github.com/tiangolo/dockerswarm.rocks (https://dockerswarm.rocks Docker Swarm mode rocks! Ideas, tools and recipes. Get a production-ready, distributed, HTTPS served, cluster in minutes, not weeks. )
                 https://github.com/wagoodman/dive (A tool for exploring each layer in a docker image)
 
-            Tutorials:
+            Books and Courses:
+                Tutorials:
                 https://containersfromthecouch.com (Live streams and videos featuring AWS Container Services and demos. We focus on demos and teaching people how to use different container technologies. ECS, Kubernetes, Cloud Native, and lots of open source tools and tips.)
                 https://devopswithdocker.com (DevOps with Docker Containers for Beginners by University of Helsinki)
                 https://diveintodocker.com (Dive Into Docker The Complete Docker Course for Developers by Nick Janetakis)
@@ -1266,7 +1263,6 @@ Contents:
                 https://sysdig.com/blog/dockerfile-best-practices (Top 20 Dockerfile best practices)
                 https://www.freecodecamp.org/news/the-docker-handbook (The Docker Handbook – Learn Docker for Beginners by Farhan Hasin Chowdhury)
 
-            Books and Courses:
                 Docker Official Documentation:
                     https://docs.docker.com/get-started/overview
                     https://docs.docker.com/engine/reference/builder
@@ -1861,33 +1857,33 @@ Contents:
 
         NGINX:
             Sources:
-                https://blog.detectify.com/2020/11/10/common-nginx-misconfigurations
-                https://docs.nginx.com/nginx/admin-guide/monitoring/logging
-                https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange
-                https://en.wikipedia.org/wiki/Elliptic-curve_Diffie%E2%80%93Hellman
+                https://docs.nginx.com/ (NGINX Documentation)
+                https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange (Diffie–Hellman key exchange)
+                https://en.wikipedia.org/wiki/Elliptic-curve_Diffie%E2%80%93Hellman (Elliptic-curve Diffie–Hellman)
                 https://freenginx.org (The goal of the project is to keep nginx development free from arbitrary corporate actions)
                 https://gist.github.com/willurd/5720255 (Big list of http static server one-liners)
-                https://github.com/bunkerity/bunkerized-nginx
-                https://github.com/fcambus/nginx-resources
+                https://github.com/bunkerity/bunkerweb (https://www.bunkerweb.io 🛡️ Open-source and next-generation Web Application Firewall (WAF) )
                 https://github.com/stark0de/nginxpwner (Nginxpwner is a simple tool to look for common Nginx misconfigurations and vulnerabilities.)
                 https://github.com/topics/nginx?o=desc&s=stars
-                https://github.com/trimstray/nginx-admins-handbook
-                https://github.com/yandex/gixy (Nginx configuration static analyzer)
                 https://jvns.ca/blog/2021/09/24/new-tool--an-nginx-playground (Nginx Playground)
                 https://news.ycombinator.com/item?id=23597294 (Nginx UI – Access and modify the Nginx configurations files without CLI (github.com))
-                https://nginx.org/en/docs
+                https://nginx.org/en/docs (nginx documentation)
                 https://unit.nginx.org (NGINX Unit is a lightweight and versatile application runtime that provides the essential components for your web application as a single open-source server: running application code (including WebAssembly), serving static assets, handling TLS and request routing.)
-                https://www.digitalocean.com/community/tools/nginx (The easiest way to configure a performant, secure, and stable NGINX server.)
-                https://www.digitalocean.com/community/tutorials?q=nginx
-                https://www.digitalocean.com/community/tutorials/understanding-and-implementing-fastcgi-proxying-in-nginx
-                https://www.nginx.com/blog/avoiding-top-10-nginx-configuration-mistakes (Avoiding the Top 10 NGINX Configuration Mistakes)
-                https://www.nginx.com/blog/nginx-1-13-9-http2-server-push
-                https://www.nginx.com/resources/wiki/start/topics/depth/ifisevil
-                https://www.nginx.com/resources/wiki/start/topics/examples/systemd
-                https://www.nginx.com/resources/wiki/start/topics/tutorials/config_pitfalls
-                https://www.udemy.com/topic/nginx/?ratings=4.5&sort=popularity (Udemy Courses ranked 4.5 stars and above)
+                https://www.nginx.com/blog/nginx-1-13-9-http2-server-push (Introducing HTTP/2 Server Push with NGINX 1.13.9 )
 
             Books and Courses:
+                Tutorials:
+                    https://blog.detectify.com/2020/11/10/common-nginx-misconfigurations (Common Nginx misconfigurations that leave your web server open to attack)
+                    https://docs.nginx.com/nginx/admin-guide/monitoring/logging (This article describes how to log errors and requests in NGINX Open Source and NGINX Plus.)
+                    https://github.com/fcambus/nginx-resources (https://www.cambus.net A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine )
+                    https://github.com/trimstray/nginx-admins-handbook (How to improve NGINX performance, security, and other important things. )
+                    https://github.com/yandex/gixy (Nginx configuration static analyzer)
+                    https://www.digitalocean.com/community/tools/nginx (The easiest way to configure a performant, secure, and stable NGINX server.)
+                    https://www.digitalocean.com/community/tutorials?q=nginx (Nginx Tutorials)
+                    https://www.digitalocean.com/community/tutorials/understanding-and-implementing-fastcgi-proxying-in-nginx (Understanding and Implementing FastCGI Proxying in Nginx)
+                    https://www.nginx.com/blog/avoiding-top-10-nginx-configuration-mistakes (Avoiding the Top 10 NGINX Configuration Mistakes)
+                    https://www.udemy.com/topic/nginx/?ratings=4.5&sort=popularity (Udemy Courses ranked 4.5 stars and above)
+
                 The NGINX Handbook by Farhan Hasin Chowdhury
                     https://www.freecodecamp.org/news/the-nginx-handbook
 
@@ -2223,7 +2219,6 @@ Contents:
                     https://beej.us/guide/bggit (Beej's Guide to Git)
                     https://blog.gitbutler.com/git-tips-and-tricks (Git Tips and Tricks)
                     https://blog.gitbutler.com/how-git-core-devs-configure-git (How Core Git Developers Configure Git by Scott Chacon)
-                    https://docs.github.com/en/actions (GitHub Actions documentation)
                     https://git-scm.com/book/en/v2/Git-Tools-Reset-Demystified (Reset vs Checkout)
                     https://github.com/FAQGURU/FAQGURU/blob/master/topics/en/git.md (A list of Git interview questions)
                     https://github.com/Gazler/githug (Githug is designed to give you a practical way of learning git. It has a series of levels, each requiring you to use git commands to arrive at a correct answer.)
@@ -2276,13 +2271,25 @@ Contents:
                 The Git & Github Bootcamp : Master the essentials and the tricky bits: rebasing, squashing, stashing, reflogs, blobs, trees, & more! by Colt Steele
                     https://www.udemy.com/course/git-and-github-bootcamp
 
-                GitHub Actions Certification – Full Course to PASS the Exam by freeCodeCamp (✏️ Course developed by Andrew Brown of ExamProm )
-                    https://youtu.be/Tz7FsunBbfQ?si=6XZSSMHuyNfvOmdl
+        GitHub Actions:
+            Sources:
+                https://docs.github.com/en/actions (GitHub Actions documentation)
+                https://www.actionsbyexample.com (GitHub Actions by Example is an introduction to the service through annotated examples.)
+
+            Books and Courses:
+                GitHub Actions by Barahalikar Siddharth Kodekloud
+                    https://learn.kodekloud.com/courses/github-actions
+                    https://youtu.be/E2RRxcq_08E?si=ZO1AHvGr0mYtSdc1 (GitHub Actions Tutorial: Advanced Concepts You Should Know (Part 1))
+                    https://youtu.be/TKj0KyX8m8o?si=kCnOK2MizkXvQlsz (GitHub Actions Tutorial: Advanced Concepts You Should Know (Part 2))
 
                 GitHub Actions - The Complete Guide: Learn how to build automated CI / CD workflows with GitHub's DevOps service by Maximilian Schwarzmüller
                     https://www.udemy.com/course/github-actions-the-complete-guide
                     https://github.com/academind/github-actions-course-resources (Resources (code, slides) for our GitHub Actions course (https://acad.link/gh-actions))
                     https://academind.com/community
+
+                GitHub Actions by Andrew Brown ExamPro
+                    https://www.exampro.co/github-actions
+                    https://youtu.be/Tz7FsunBbfQ?si=6XZSSMHuyNfvOmdl (GitHub Actions Certification – Full Course to PASS the Exam by freeCodeCamp (✏️ Course developed by Andrew Brown of ExamProm ))
 
         Jenkins:
             Sources:
