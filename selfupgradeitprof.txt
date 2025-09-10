@@ -1643,7 +1643,7 @@ Contents:
                 https://docs.aws.amazon.com/wellarchitected/latest/framework (AWS Well-Architected Framework)
                 https://github.com/1debit/alternat (High availability implementation of AWS NAT instances.)
                 https://github.com/4ndersonLin/awesome-cloud-security (Awesome Cloud Security Resources)
-                https://github.com/anaibol/awesome-serverless
+                https://github.com/anaibol/awesome-serverless (☁️ A curated list of awesome services, solutions and resources for serverless / nobackend applications. )
                 https://github.com/awsdocs (Amazon Web Services - Documentation)
                 https://github.com/donnemartin/awesome-aws (A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources)
                 https://github.com/jassics/awesome-aws-security (Curated list of links, references, books videos, tutorials (Free or Paid), Exploit, CTFs, Hacking Practices etc. which are related to AWS Security)
@@ -1658,6 +1658,7 @@ Contents:
                 https://news.ycombinator.com/item?id=38998516 (Slashing data transfer costs in AWS (bitsand.cloud))
                 https://news.ycombinator.com/item?id=39313623 (Almost every infrastructure decision I endorse or regret (cep.dev))
                 https://news.ycombinator.com/item?id=44962844 (AWS in 2025: Stuff you think you know that's now wrong (lastweekinaws.com))
+                https://serverlesshorrors.com (ServerlessHorrors is a simple blog where you can read all the horror stories of serverless. Yikes!)
                 https://start.jcolemorrison.com/aws-vpc-core-concepts-analogy-guide (AWS VPC Core Concepts in an Analogy and Guide)
                 https://trustoncloud.com/the-last-s3-security-document-that-well-ever-need (The last S3 security document that we’ll ever need, and how to use it)
                 https://www.chrisfarris.com/post/aws-organizations-in-2021 (AWS Organizations - Checklist for 2021)
@@ -2327,7 +2328,8 @@ Contents:
                 https://yobibyte.github.io/vim.html (why I got rid of all my neovim plugins)
                 https://pinboard.in/u:SharjeelSayed/t:vim
 
-            Tutorials:
+            Books and Courses:
+                Tutorials:
                 http://derekwyatt.org/vim/tutorials (Vim Videos)
                 http://vimcasts.org (Learn essential Vim skills with Drew Neil, author of Practical Vim)
                 https://betterprogramming.pub/50-vim-mode-tips-for-ide-users-f7b525a794b3 (Vim Best Practices For IDE Users)
@@ -2345,7 +2347,6 @@ Contents:
                 https://www.youtube.com/playlist?list=PLu-ydI-PCl0OEG0ZEqLRRuCrMJGAAI0tW (Vim as IDE by by DevOnDuty)
                 https://youtu.be/XA2WjJbmmoM (How to Do 90% of What Plugins Do (With Just Vim))
 
-            Books and Courses:
                 vimtutor
                     https://vimhelp.org/usr_01.txt.html#vimtutor
 
@@ -2420,7 +2421,6 @@ Contents:
                 https://en.wikipedia.org/wiki/List_of_computer_security_certifications#Most_Popular_Vendor_Neutral_Cyber_Security_Certifications_Among_employers
                 https://gist.github.com/securibee/054d4588e7f4dc892ae603c963558943 (The InfoSec OPML File by Securibee)
                 https://github.com/0x90n/InfoSec-Black-Friday (All the deals for InfoSec related software/tools this Black Friday)
-                https://github.com/0xsyr0/OSCP (OSCP Cheat Sheet)
                 https://github.com/4ndersonLin/awesome-cloud-security (Awesome Cloud Security Resources)
                 https://github.com/6mile/DevSecOps-Playbook (This is a step-by-step guide to implementing a DevSecOps program for any size organization)
                 https://github.com/Arudjreis/awesome-security-GRC (Curated list of resources for security Governance, Risk Management, Compliance and Audit professionals and enthusiasts (if they exist).)
@@ -2437,8 +2437,6 @@ Contents:
                 https://github.com/Gr1mmie/Practical-Ethical-Hacking-Resources (Compilation of Resources from TCM's Practical Ethical Hacking Udemy Course )
                 https://github.com/Hack-with-Github/Awesome-Hacking (A collection of various awesome lists for hackers, pentesters and security researchers)
                 https://github.com/HACKE-RC/awesome-reversing (A collection of resources to learn Reverse Engineering from start!)
-                https://github.com/HadessCS/Red-team-Interview-Questions (Red team Interview Questions)
-                https://github.com/hahwul/DevSecOps ( 🔱 Collection and Roadmap for everyone who wants DevSecOps. Hope your DevOps are more safe 😎)
                 https://github.com/hysnsec/awesome-policy-as-code (A curated list of policy-as-code resources like blogs, videos, and tools to practice on for learning Policy-as-Code.)
                 https://github.com/iknowjason/Awesome-CloudSec-Labs (Awesome free cloud native security learning labs. Includes CTF, self-hosted workshops, guided vulnerability labs, and research labs.)
                 https://github.com/jassics/awesome-aws-security (Curated list of links, references, books videos, tutorials (Free or Paid), Exploit, CTFs, Hacking Practices etc. which are related to AWS Security)
@@ -2496,7 +2494,6 @@ Contents:
                 https://www.reddit.com/r/cybersecurity/comments/1ld4ksn/what_security_news_letters_to_read (What security news letters to read?)
                 https://www.reddit.com/r/netsec+privacy+SocialEngineering+onions+ReverseEngineering+crypto+blackhat+security+Malware+pwned+netsecstudents+computerforensics+HackBloc+securityCTF+xss+vrd+rootkit+REMath
                 https://www.reddit.com/r/netsecstudents/top/?sort=top&t=all
-                ttps://ishaqmohammed.me/posts/application-security-knowledgebase (Application Security Knowledgebase)
                 https://pinboard.in/u:SharjeelSayed/t:security
 
             Security Tools:
@@ -2516,6 +2513,7 @@ Contents:
                 https://github.com/devsecops/awesome-devsecops (https://www.devsecops.org An authoritative list of awesome devsecops tools with the help from community experiments and contributions.)
                 https://github.com/docker/docker-bench-security (The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.)
                 https://github.com/dstotijn/hetty (https://hetty.xyz An HTTP toolkit for security research.)
+                https://github.com/EFForg/rayhunter (https://efforg.github.io/rayhunter Rust tool to detect cell site simulators on an orbic mobile hotspot )
                 https://github.com/EmenstaNougat/ESP32-BlueJammer (https://esp32-bluejammerflasher.pages.dev The ESP32-BlueJammer (Bluetooth jammer, BLE jammer, WiFi jammer, RC jammer) disrupts 2.4GHz communications. Using an ESP32 and nRF24 modules, it generates noise and unnecessary packets, causing interference between the devices communicating, making them unable to work as intended. Ideal for controlled disruption and security testing. )
                 https://github.com/gchq/CyberChef (https://gchq.github.io/CyberChef The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis)
                 https://github.com/hashcat/hashcat (https://hashcat.net/hashcat https://github.com/hashcat/hashcat)
@@ -2551,20 +2549,24 @@ Contents:
                 https://www.revolgy.com/insights/blog/complete-guide-for-picking-the-right-tool-for-terraform-security-code-analysis (Complete guide for picking the right tool for Terraform Security Code Analysis)
 
             Books and Courses:
-                Sources:
+                Tutorials:
                     https://aws.amazon.com/training/learn-about/security (Get started on security training with content built by AWS experts)
                     https://cacr.uwaterloo.ca/hac (Handbook of Applied Cryptography by Alfred J. Menezes, Paul C. van Oorschot, and Scott A. Vanstone)
                     https://danielmiessler.com/blog/build-successful-infosec-career (How to Build a Cybersecurity Career [ 2019 Update ])
                     https://gist.github.com/mubix/5737a066c8845d25721ec4bf3139fd31 (https://room362.com/start Start in Infosec)
                     https://github.com/0xsyr0/Awesome-Cybersecurity-Handbooks (A huge chunk of my personal notes since I started playing CTFs and working as a Red Teamer.)
+                    https://github.com/0xsyr0/OSCP (OSCP Cheat Sheet)
                     https://github.com/farhanashrafdev/90DaysOfCyberSecurity (This repository contains a 90-day cybersecurity study plan, along with resources and materials for learning various cybersecurity concepts and technologies. The plan is organized into daily tasks, covering topics such as Network+, Security+, Linux, Python, Traffic Analysis, Git, ELK, AWS, Azure, and Hacking. The repository also includes a `LEARN.md )
                     https://github.com/gracenolan/Notes (Security Engineering at Google: My Interview Study Notes)
+                    https://github.com/HadessCS/Red-team-Interview-Questions (Red team Interview Questions)
+                    https://github.com/hahwul/DevSecOps ( 🔱 Collection and Roadmap for everyone who wants DevSecOps. Hope your DevOps are more safe 😎)
                     https://github.com/imthenachoman/How-To-Secure-A-Linux-Server (An evolving how-to guide for securing a Linux server.)
                     https://github.com/jassics/security-study-plan (https://cybercloud.guru Complete Practical Study Plan to become a successful cybersecurity engineer based on roles like Pentest, AppSec, Cloud Security, DevSecOps and so on...)
                     https://github.com/krol3/container-security-checklist (Checklist for container security - devsecops practices)
                     https://github.com/LetsDefend/SOC-Interview-Questions (SOC Interview Questions)
                     https://github.com/microsoft/Security-101 (https://microsoft.github.io/Security-101 7 Lessons, Kick-start Your Cybersecurity Learning.)
                     https://github.com/tadwhitaker/Security_Engineer_Interview_Questions (Every Security Engineer Interview Question From Glassdoor.com )
+                    https://ishaqmohammed.me/posts/application-security-knowledgebase (Application Security Knowledgebase)
                     https://jhalon.github.io/becoming-a-pentester (So You Want To Be a Pentester? (Updated 2023))
                     https://krebsonsecurity.com/2020/07/thinking-of-a-cybersecurity-career-read-this (Thinking of a Cybersecurity Career? Read This)
                     https://kubernetes.io/docs/concepts/security/security-checklist (Kubernetes Security Checklist)
@@ -3343,7 +3345,7 @@ Contents:
                 https://www.phind.com (Phind is a search engine for AI models.)
 
             Books and Courses:
-                Sources:
+                Tutorials:
                     https://ai.stanford.edu/courses (Stanford A.I. courses from Fall 2019 CS229)
                     https://arc.net/folder/D0472A20-9C20-4D3F-B145-D2865C0A9FEE (Ilya Sutskever gave John Carmack this reading list of approx 30 research papers and said, ‘If you really learn all of these, you’ll know 90% of what matters today.’)
                     https://bbycroft.net/llm (A 3D animated visualization of an LLM with a walkthrough)
@@ -3386,6 +3388,7 @@ Contents:
                     https://www.cloudskillsboost.google/paths/118 (Introduction to Generative AI Learning Path)
                     https://www.deeplearning.ai/courses/generative-ai-for-everyone (Generative AI for Everyone Instructed by Andrew Ng)
                     https://www.deeplearningbook.org (Deep Learning (Adaptive Computation and Machine Learning series) by Ian Goodfellow and Yoshua Bengio and Aaron Courville https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618)
+                    https://www.gilesthomas.com/2025/09/maths-for-llms (The maths you need to start understanding LLMs)
                     https://www.manning.com/books/build-a-large-language-model-from-scratch (Build a Large Language Model (From Scratch) by Sebastian Raschk https://github.com/rasbt/LLMs-from-scratch)
                     https://www.youtube.com/playlist?app=desktop&list=PLoROMvodv4rNyWOpJg_Yh4NSqI4Z4vOYy (Stanford CS229: Machine Learning I Spring 2022)
                     https://youtu.be/kCc8FmEb1nY?si=mhTGB4fgUbg1B9Pq (Let's build GPT: from scratch, in code, spelled out. by Andrej Karpathy)
@@ -3402,6 +3405,7 @@ Contents:
                 Andrej Karpathy's YouTube Channel
                     https://www.youtube.com/@AndrejKarpathy
                     https://github.com/karpathy/nn-zero-to-hero (Neural Networks: Zero to Hero)
+                    https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ (Neural Networks: Zero to Hero by Andrej Karpathy YouTube Playlist)
 
                 Neural networks by 3Blue1Brown
                     https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&si=fKXJlkssxt-cYgWe
