@@ -1173,6 +1173,14 @@ Contents:
 
         Windows:
             Sources:
+                https://github.com/topics/windows-10?o=desc&s=stars
+                https://news.ycombinator.com/item?id=19698620 (Ask HN: How do you secure your Windows PC?)
+                https://www.amazon.com/Best-Sellers-Books-Windows-Operating-System/zgbs/books/10806619011 (Best Sellers in Windows Operating System)
+                https://www.reddit.com/r/sysadmin/comments/3z7qd9/practice_to_become_a_windows_sysadmin/cyjynxh (Practice to become a Windows sysadmin?)
+                https://www.reddit.com/r/sysadmin/wiki/ms/resources (Resources for Learning Microsoft Windows, Office 365, Azure & Visual Studio)
+                https://pinboard.in/u:SharjeelSayed/t:windows
+
+            Tools:
                 https://github.com/Awesome-Windows/Awesome (💻 🎉 An awesome & curated list of best applications and tools for Windows.)
                 https://github.com/ChrisTitusTech/winutil (Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates)
                 https://github.com/dockur/windows (Windows inside a Docker container.)
@@ -1180,13 +1188,8 @@ Contents:
                 https://github.com/HotCakeX/Harden-Windows-Security (Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels)
                 https://github.com/massgravel/Microsoft-Activation-Scripts (https://massgrave.dev A Windows and Office activator using HWID / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.)
                 https://github.com/microsoft/PowerToys (Windows system utilities to maximize productivity)
+                https://github.com/ntdevlabs/tiny11builder (Scripts to build a trimmed-down Windows 11 image.)
                 https://github.com/Raphire/Win11Debloat (A simple, easy to use powershell script to remove bloatware apps from windows, disable telemetry, bing in windows search aswell as perform various other changes to declutter and improve your windows experience. This script works for both windows 10 and windows 11.)
-                https://github.com/topics/windows-10?o=desc&s=stars
-                https://news.ycombinator.com/item?id=19698620 (Ask HN: How do you secure your Windows PC?)
-                https://www.amazon.com/Best-Sellers-Books-Windows-Operating-System/zgbs/books/10806619011 (Best Sellers in Windows Operating System)
-                https://www.reddit.com/r/sysadmin/comments/3z7qd9/practice_to_become_a_windows_sysadmin/cyjynxh
-                https://www.reddit.com/r/sysadmin/wiki/ms/resources (Resources for Learning Microsoft Windows, Office 365, Azure & Visual Studio)
-                https://pinboard.in/u:SharjeelSayed/t:windows
 
             Books and Courses:
                 Windows Server documentation - Microsoft
@@ -1758,8 +1761,10 @@ Contents:
                     https://www.examtopics.com/exams/amazon (AWS Exam Practice Questions.Highest ranked site for AWS practice exams)
                     https://www.freecram.net/vendor/Amazon.html (Free Amazon Certifications Exam Questions)
                     https://www.reddit.com/r/AWSCertifications/comments/1d5kkuw/aws_certified_solutions_architect_associate (AWS Certified Solutions Architect Associate (SAA-C03) Resources)
+                    https://www.reddit.com/r/AWSCertifications/comments/1d5kkuw/aws_certified_solutions_architect_associate (AWS Certified Solutions Architect Associate (SAA-C03) Resources)
                     https://www.reddit.com/r/AWSCertifications/comments/1hlhj0k/2025_aws_vouchers_exam_discounts_coupons_other (2025 : AWS Vouchers / Exam Discounts / Coupons / Other Certification related promotions )
                     https://www.reddit.com/r/AWSCertifications/comments/1kkp854/saa_c03_tips_and_cheat_sheets_my_experience (SAA - C03 Tips and Cheat Sheets ( My Experience ))
+                    https://www.reddit.com/r/AWSCertifications/comments/1l6l9rd/my_index_of_all_aws_certification_related_answers (My index of ALL AWS certification related answers / resources - One Page to rule them all!)
                     https://www.reddit.com/r/AWSCertifications/comments/pcj2nk/free_learning_resources_needed_for_aws_solutions/haje9xi (Free Learning Resources needed for "AWS Solutions Architect Associate" exam)
                     https://www.reddit.com/r/AWSCertifications/comments/uqnn53/ive_heard_the_recommendation_here_to_go_saa_sap/i8sbnj5 (If you REALLY want to get devops with minimal study you should do Dev Asso -> Sysops Asso. -> Devops Pro)
                     https://www.reddit.com/r/AWSCertifications/search/?q=course&restrict_sr=on&t=year (This subreddit focuses solely on AWS Certifications.)
