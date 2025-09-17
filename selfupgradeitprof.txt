@@ -3302,6 +3302,7 @@ Contents:
                 https://github.com/ai-collection/ai-collection ( The Generative AI Landscape - A List of Awesome Generative AI Applications Topics)
                 https://github.com/All-Hands-AI/OpenHands (https://www.all-hands.dev 🙌 OpenHands: Code Less, Make More )
                 https://github.com/anthropics/claude-code (https://www.anthropic.com/claude-code)
+                https://github.com/Arindam200/awesome-ai-apps (A collection of projects showcasing RAG, agents, workflows, and other AI use cases)
                 https://github.com/asgeirtj/system_prompts_leaks (system_prompts_leaks)
                 https://github.com/ashishpatel26/500-AI-Agents-Projects (The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more. )
                 https://github.com/AsyncFuncAI/deepwiki-open (Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab Repositories)
@@ -4271,6 +4272,7 @@ Contents:
                 https://github.com/ClearURLs/Addon (ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy. )
                 https://github.com/Cookie-AutoDelete/Cookie-AutoDelete (Firefox and Chrome WebExtension that deletes cookies and other browsing site data as soon as the tab closes, domain changes, browser restarts, or a combination of those events. )
                 https://github.com/deanishe/alfred-firefox (Search and control Firefox from Alfred )
+                https://github.com/dessant/web-archives (Web Archives is a browser extension that enables you to find archived and cached versions of web pages, and comes with support for various search engines.)
                 https://github.com/gorhill/uBlock (uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. )
                 https://github.com/itsecurityco/to-google-translate
                 https://github.com/josh-berry/tab-stash (Firefox extension to save and restore tabs as bookmarks)
@@ -5752,6 +5754,7 @@ Contents:
             https://en.wikipedia.org/wiki/Space_Pen (Space Pen by Fisher Space Pen Company)
             https://en.wikipedia.org/wiki/Valeriepieris_circle (A Valeriepieris circle[1][2][3] is a figure drawn on the Earth's surface such that the majority of the human population lives within its interior.)
             https://en.wikipedia.org/wiki/Wikipedia:Vital_articles (Wikipedia:Vital articles)
+            https://forgoodfirstissue.github.com (A repository of social impact and open source projects)
             https://freenode.net
             https://github.com/antontarasenko/smq/blob/master/reports/hackernews-links-in-comments.md (Most mentioned links in Hacker News comments, 2006–2015)
             https://github.com/arcataroger/awesome-engineering-games (A curated list of engineering-related video games rated Very Positive or higher on Steam )
