@@ -1469,14 +1469,7 @@ Contents:
                     https://kodekloud.com/purchase?product_id=1521961&coupon_code=UDEMYSTUDENT1718 (Labs - Certified Kubernetes Administrator with Practice Tests)
                     https://www.fb.com/kodekloudtraining
                     https://www.youtube.com/playlist?list=PL2We04F3Y_41lFKy19ig_9u-5Sj_RWTDL (JSON PATH)
-
-                Kubernetes Hands-On - Deploy Microservices to the AWS Cloud by Richard Chesterwood, Virtual Pair Programmers and Prageeth Warnak
-                    https://www.udemy.com/course/kubernetes-microservices
-
-                Kubernetes: Dive Into Kubernetes in One Hour! Fully Hands On by James Spurin:
-                    https://www.udemy.com/course/diveintokubernetes-introduction
-                    https://github.com/spurin/diveintokubernetes-introduction-resources
-                    https://youtu.be/n4zxKk2an3U
+                    https://youtu.be/XuSQU5Grv1g?si=nKr79YJYpDjAcRMs (Kubernetes Crash Course: Learn the Basics and Build a Microservice Application by Mumshad Mannambeth)
 
                 Kubernetes Up and Running Dive into the Future of Infrastructure 3rd Edition (2022) by Brendan Burns, Joe Beda, Kelsey Hightower and Lachlan Evenson:
                     https://www.oreilly.com/library/view/kubernetes-up-and/9781098110192
@@ -1486,11 +1479,6 @@ Contents:
                 The Book of Kubernetes: A Complete Guide to Container Orchestration (Sep 2022) by Alan Hohn:
                     https://www.amazon.com/Book-Kubernetes-Complete-Container-Orchestration/dp/1718502648
                     https://nostarch.com/book-kubernetes
-
-                Kubernetes Tutorial for Beginners [FULL COURSE in 4 Hours] by TechWorld with Nana:
-                    https://youtu.be/X48VuDVv0do
-                    https://gitlab.com/nanuchi/youtube-tutorial-series
-                    https://www.techworld-with-nana.com/kubernetes-administrator-cka (The Ultimate Kubernetes Administrator Course)
 
                 Rocking Kubernetes with Amazon EKS, Fargate, And DevOps by Rajdeep Saha:
                     https://www.udemy.com/course/rocking-kubernetes-with-amazon-eks-fargate-and-devops
@@ -1579,6 +1567,19 @@ Contents:
 
                 Argo CD Essential Guide for End Users with Practice by Muhammad Abusaa:
                     https://www.udemy.com/course/argo-cd-essential-guide-for-end-users-with-practice
+
+                Kubernetes: Dive Into Kubernetes in One Hour! Fully Hands On by James Spurin:
+                    https://www.udemy.com/course/diveintokubernetes-introduction
+                    https://github.com/spurin/diveintokubernetes-introduction-resources
+                    https://youtu.be/n4zxKk2an3U
+
+                Kubernetes Hands-On - Deploy Microservices to the AWS Cloud by Richard Chesterwood, Virtual Pair Programmers and Prageeth Warnak
+                    https://www.udemy.com/course/kubernetes-microservices
+
+                Kubernetes Tutorial for Beginners [FULL COURSE in 4 Hours] by TechWorld with Nana:
+                    https://youtu.be/X48VuDVv0do
+                    https://gitlab.com/nanuchi/youtube-tutorial-series
+                    https://www.techworld-with-nana.com/kubernetes-administrator-cka (The Ultimate Kubernetes Administrator Course)
 
             K8s Visual management: (Sorted by Alexa Rank)
                 https://k8slens.dev (536,393)
