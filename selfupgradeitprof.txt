@@ -2968,10 +2968,6 @@ Contents:
         Python:
             Sources:
                 https://boto3.amazonaws.com/v1/documentation/api/latest/index.html (Boto3 Documentation)
-                https://docs.python.org/3/tutorial (The Python Tutorial)
-                https://github.com/Asabeneh/30-Days-Of-Python (30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.)
-                https://github.com/donnemartin/interactive-coding-challenges (120+ interactive Python coding interview challenges (algorithms and data structures). Includes Anki flashcards.)
-                https://github.com/huangsam/ultimate-python (Ultimate Python study guide for newcomers and professionals alike. 🐍 🐍 🐍 )
                 https://github.com/mahmoud/awesome-python-applications ( 💿 Free software that works great, and also happens to be open-source Python ftp://you:relookin@it#readme)
                 https://github.com/ml-tooling/best-of-web-python (🏆 A ranked list of awesome python libraries for web development. Updated weekly.)
                 https://github.com/pamoroso/free-python-books (Python books free to read online or download)
@@ -2992,11 +2988,17 @@ Contents:
                 https://research.google.com/colaboratory/local-runtimes.html (Local Runtimes in Google Colab)
                 https://www.cosmicpython.com https://www.amazon.com/Architecture-Patterns-Python-Domain-Driven-Microservices/dp/1492052205 (Architecture Patterns with Python: Enabling Test-Driven Development, Domain-Driven Design, and Event-Driven Microservices)
                 https://www.reddit.com/r/learnprogramming/wiki/online#wiki_python
-                https://www.reddit.com/r/learnpython/comments/53z5p4/how_to_start_learning_python_the_complete_guide (How to start learning Python ? The Complete guide.)
                 https://www.reddit.com/r/Python+learnpython
-                https://www.udemy.com/topic/python/?ratings=4.5&sort=popularity (Udemy Courses rated 4.5 stars and above)
 
             Books and Courses:
+                Tutorials:
+                    https://docs.python.org/3/tutorial (The Python Tutorial)
+                    https://github.com/Asabeneh/30-Days-Of-Python (30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.)
+                    https://github.com/donnemartin/interactive-coding-challenges (120+ interactive Python coding interview challenges (algorithms and data structures). Includes Anki flashcards.)
+                    https://github.com/huangsam/ultimate-python (Ultimate Python study guide for newcomers and professionals alike. 🐍 🐍 🐍 )
+                    https://www.reddit.com/r/learnpython/comments/53z5p4/how_to_start_learning_python_the_complete_guide (How to start learning Python ? The Complete guide.)
+                    https://www.udemy.com/topic/python/?ratings=4.5&sort=popularity (Udemy Courses rated 4.5 stars and above)
+
                 Think Python, 3rd edition by Allen B. Downey September 3, 2024
                 https://allendowney.github.io/ThinkPython
                 https://www.amazon.com/_/dp/1098155432
@@ -4586,8 +4588,9 @@ Contents:
 
         Ear Plugs:
             Sources:
-                https://www.nytimes.com/wirecutter/reviews/best-earplugs-for-sleeping
-                https://www.amazon.com/gp/bestsellers/hpc/3779871
+                https://www.amazon.com/gp/bestsellers/hpc/3779871 (Best Sellers in EarPlugs)
+                https://www.amazon.com/Macks-Ultra-Soft-Foam-Earplugs/dp/B0051U7W32 (Mack's Ultra Soft Foam Earplugs, 50 Pair - 33dB Highest NRR, Comfortable Ear Plugs for Sleeping, Snoring, Travel, Concerts, Studying, Loud Noise, Work | Made in USA )
+                https://www.nytimes.com/wirecutter/reviews/best-earplugs-for-sleeping (The Best Earplugs for Sleeping by Wirecutter)
 
             Sites:
                 Mack's Ultra Soft Foam Earplugs
