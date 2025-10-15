@@ -940,6 +940,7 @@ Contents:
                 https://github.com/muesli/duf (Disk Usage/Free Utility - a better 'df' alternative)
                 https://github.com/topgrade-rs/topgrade (Upgrade all the things)
                 https://github.com/Xfennec/progress (Linux tool to show progress for cp, mv, dd, ... (formerly known as cv) )
+                https://ikrima.dev/dev-notes/linux/linux-modern-tools Modern Linux Tools https://github.com/ikrima/gamedevguide )
 
             Tutorials:
                 https://0xax.gitbooks.io/linux-insides (A book-in-progress about the linux kernel and its insides.)
@@ -3242,6 +3243,7 @@ Contents:
                 https://esimdb.com (Find the best prepaid eSIM plans for your travel destination)
                 https://github.com/FifiTheBulldog/ios-settings-urls (A collection of iOS Settings URLs )
                 https://github.com/Psyhackological/AAA (📱 Curated list of THE BEST FOSS Android apps to maximize your freedom & privacy!  https://codeberg.org/Psyhackological/AAA)
+                https://jpsapi.wirelesspowerconsortium.com/products/qi (Products that have been certified to meet the Qi standard for safety and interoperability are issued a certified ID number and are included in the Wireless Power Consortium Product Database. The best way to ensure that a product is certified is to check to see if it’s in this database.)
                 https://receive-sms-free.cc (Receive SMS online anonymously and fast, without register or a mobile phone)
                 https://routinehub.co (RoutineHub is a growing community around automating Apple iPhones and iPads with Siri Shortcuts. )
                 https://www.chargerlab.com/apple-iphone-15-pro-max-charging-test-chargerlab-compatibility-100 (Apple iPhone 15 Pro Max Charging Test - ChargerLAB Compatibility 100) https://youtu.be/gHO7G7TzPAI?si=LEZUo6d-JOiRhDsx (How Fast Apple iPhone 15 Pro Max Is Charged? - ChargerLAB Compatibility 100)
@@ -3319,6 +3321,7 @@ Contents:
                 https://github.com/Shubhamsaboo/awesome-llm-apps ( https://www.theunwindai.com Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.)
                 https://github.com/simonw/llm (https://llm.datasette.io/en/stable Access large language models from the command-line )
                 https://github.com/skypilot-org/skypilot (https://docs.skypilot.co SkyPilot: Run AI and batch jobs on any infra (Kubernetes or 16+ clouds). Get unified execution, cost savings, and high GPU availability via a simple interface. )
+                https://github.com/snarktank/ai-dev-tasks (https://youtu.be/fD4ktSkNCw4?si=wlnDDnNa0AKXKjxi  A simple task management system for managing AI dev agents)
                 https://github.com/sst/opencode (https://opencode.ai AI coding agent, built for the terminal.)
                 https://github.com/taranjeet/awesome-gpts (Collection of all the GPTs created by the community)
                 https://github.com/TecharoHQ/anubis (https://anubis.techaro.lol Weighs the soul of incoming HTTP requests to stop AI crawlers )
@@ -3412,6 +3415,7 @@ Contents:
                 https://github.com/coteditor/CotEditor (https://coteditor.com CotEditor is a lightweight, open-source text editor for macOS.)
                 https://github.com/daytonaio/daytona (The Open Source Dev Environment Manager. https://www.daytona.io)
                 https://github.com/getAsterisk/gooey (https://claudiacode.com Claudia: Your elegant desktop companion for Claude Code)
+                https://github.com/github/awesome-copilot (Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot. )
                 https://github.com/helix-editor/helix (https://helix-editor.com A post-modern modal text editor. )
                 https://github.com/openai/agents.md (https://agents.md AGENTS.md — a simple, open format for guiding coding agents)
                 https://github.com/styfle/awesome-online-ide (🌩️ A list of awesome online development environments https://styfle.dev/projects/awesome-online-ide)
@@ -4458,6 +4462,7 @@ Contents:
                 https://www.reddit.com/r/ambientmusic/top
                 https://www.reddit.com/r/medicalschool/comments/9m4afb/serious_spotify_playlists_to_listen_to_while
                 https://youtu.be/7uMW2XsMx8Q?si=2zAXoZYQdOAO_prE (Most recognizable song of each year (1950-2022))
+                https://clideo.com/cut-audio (Online Audio Cutter)
                 https://pinboard.in/u:SharjeelSayed/t:music+study
 
             Sites:
