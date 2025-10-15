@@ -123,6 +123,7 @@ Contents:
         Movies, TV and Documentaries
         Wrist Watch
         Fashion
+        Fragrance
         Electric Shaver
         Stuff Worth Paying For
         Additional Sources
@@ -5643,7 +5644,7 @@ Contents:
                 https://www.reddit.com/r/Tudor/comments/14o9a6f/comment/jqbq9po (Pelagos is basically a titanium Sea Dweller, Pelagos 39 is a titanium Sub, BB58 and 54s are vintage Subs, Tudor GMT is basically a vintage Pepsi, the BB 31/36/39/41s are basically smooth bezel datelessjusts.)
 
         Fashion:
-            Soruces:
+            Sources:
                 https://companiesmarketcap.com/luxury-goods/largest-luxury-goods-companies-by-market-cap (Largest luxury goods companies by market cap)
                 https://en.wikipedia.org/wiki/Herm%C3%A8s#Leather_goods (Hermès Leather Goods)
                 https://en.wikipedia.org/wiki/List_of_fashion_magazines (List of fashion magazines)
@@ -5652,10 +5653,6 @@ Contents:
                 https://en.wikipedia.org/wiki/Luxury_goods (Luxury goods)
                 https://leathertainment.notion.site (Tanner’s Club - Leather Brand Guide)
                 https://realstyle.therealreal.com/trr-full-resale-report-2024 (The RealReal’s FULL 2024 Resale Report)
-                https://scentjourner.com/en-international/blogs/wellness/the-importance-of-fixatives-and-its-effect-on-projection-longevity-sillage (The Importance of Fixatives and Its Effect on Projection, Longevity, Sillage)
-                https://www.acharr.com/what-is-the-difference-between-edt-edp-and-parfum (What is the difference between EDT, EDP and Parfum ?)
-                https://www.reddit.com/r/fragrance/comments/1ifqpxg/whats_the_most_complimented_fragrance_in_your (What's the most complimented fragrance in your collection?)
-                https://www.reddit.com/r/fragrance/comments/bhlszk/edc_edt_edp_and_parfum_eductationlong (EDC, EDT, EDP and Parfum - Eductation/Long)
                 https://www.reddit.com/r/Louisvuitton+OUTFITS+TheHermesGame+femalefashionadvice+fragrance+jewelry+malefashionadvice
                 https://www.statista.com/statistics/267948/brand-value-of-the-leading-10-most-valuable-luxury-brands-worldwide (Brand value of the leading 10 most valuable luxury brands worldwide)
 
@@ -5671,6 +5668,16 @@ Contents:
                 https://wwd.com (12,746)
                 https://www.marieclaire.com (19,157)
                 https://www.papermag.com (61,040)
+
+        Fragrance:
+            Sources:
+                https://scentjourner.com/en-international/blogs/wellness/the-importance-of-fixatives-and-its-effect-on-projection-longevity-sillage (The Importance of Fixatives and Its Effect on Projection, Longevity, Sillage)
+                https://www.acharr.com/what-is-the-difference-between-edt-edp-and-parfum (What is the difference between EDT, EDP and Parfum ?)
+                https://www.fragrantica.com/awards2024/category/Best-Mens-Fragrance-2024 (Best Fragrance of 2024 - 8th Fragrantica Community Awards Best Men's Fragrance 2024)
+                https://www.fragrantica.com/search/?spol=male~unisex (Most popular Men's and Unisex fragrances on Fragrantica)
+                https://www.reddit.com/r/fragrance/comments/1ifqpxg/whats_the_most_complimented_fragrance_in_your (What's the most complimented fragrance in your collection?)
+                https://www.reddit.com/r/fragrance/comments/bhlszk/edc_edt_edp_and_parfum_eductationlong (EDC, EDT, EDP and Parfum - Eductation/Long)
+                https://www.reddit.com/r/malefashionadvice/comments/iqljj/a_guide_to_cologne (A Guide to Cologne)
 
         Electric Shaver:
             Sources:
