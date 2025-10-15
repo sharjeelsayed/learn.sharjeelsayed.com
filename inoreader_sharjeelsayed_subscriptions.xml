@@ -5,16 +5,18 @@
   </head>
   <body>
     <outline text="MustRead" title="MustRead">
+      <outline text="Hacker News 500 points posts" title="Hacker News 500 points posts" type="rss" xmlUrl="https://hnrss.org/newest?points=500" htmlUrl="https://news.ycombinator.com/newest"/>
       <outline text="Amazon Web Services Service Status" title="Amazon Web Services Service Status" type="rss" xmlUrl="https://status.aws.amazon.com/rss/all.rss" htmlUrl="https://status.aws.amazon.com/"/>
       <outline text="Slack System Status" title="Slack System Status" type="rss" xmlUrl="https://slack-status.com/feed/atom" htmlUrl="https://slack-status.com"/>
       <outline text="Unsupervised Learning" title="Unsupervised Learning" type="rss" xmlUrl="https://rss.beehiiv.com/feeds/gQxaV1KHkQ.xml" htmlUrl="https://danielmiessler.com/"/>
-      <outline text="Hacker News 100 points posts" title="Hacker News 100 points posts" type="rss" xmlUrl="https://hnrss.org/newest?points=100" htmlUrl="https://news.ycombinator.com/newest"/>
+      <outline text="mid-day Mumbai News" title="mid-day Mumbai News" type="rss" xmlUrl="https://www.mid-day.com/Resources/midday/rss/mumbai-news.xml" htmlUrl="https://www.mid-day.com/mumbai/mumbai-news"/>
+      <outline text="Lobsters: Top Stories of the Past Week" title="Lobsters: Top Stories of the Past Week" type="rss" xmlUrl="https://lobste.rs/top/rss" htmlUrl="https://lobste.rs/"/>
       <outline text="GitHub All Languages Daily Trending" title="GitHub All Languages Daily Trending" type="rss" xmlUrl="https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml" htmlUrl="http://mshibanami.github.io/GitHubTrendingRSS"/>
       <outline text="LWN.net" title="LWN.net" type="rss" xmlUrl="https://lwn.net/headlines/newrss" htmlUrl="https://lwn.net/"/>
       <outline text="r/AWSCertifications, r/aws: top scoring links" title="r/AWSCertifications, r/aws: top scoring links" type="rss" xmlUrl="https://burkybang.com/reddit_rss/?rss=r/AWSCertifications%2Baws/top/.rss" htmlUrl="https://www.reddit.com/r/AWSCertifications+aws/top/?t=1640473430"/>
-      <outline text="r/Terraform, r/ansible, r/usefulscripts: top scoring links" title="r/Terraform, r/ansible, r/usefulscripts: top scoring links" type="rss" xmlUrl="https://burkybang.com/reddit_rss/?rss=r/Terraform%2Bansible%2Busefulscripts/top/.rss" htmlUrl="https://www.reddit.com/r/Terraform+ansible+usefulscripts/top/?t=1628081632"/>
       <outline text="r/devops: top scoring links" title="r/devops: top scoring links" type="rss" xmlUrl="https://burkybang.com/reddit_rss/?rss=r/devops/top/.rss" htmlUrl="https://www.reddit.com/r/devops/top/?t=1628082157"/>
       <outline text="Slashdot" title="Slashdot" type="rss" xmlUrl="https://rss.slashdot.org/Slashdot/slashdotMain" htmlUrl="https://slashdot.org/"/>
+      <outline text="r/Terraform, r/ansible, r/usefulscripts: top scoring links" title="r/Terraform, r/ansible, r/usefulscripts: top scoring links" type="rss" xmlUrl="https://burkybang.com/reddit_rss/?rss=r/Terraform%2Bansible%2Busefulscripts/top/.rss" htmlUrl="https://www.reddit.com/r/Terraform+ansible+usefulscripts/top/?t=1628081632"/>
       <outline text="AWS Official Blog" title="AWS Official Blog" type="rss" xmlUrl="https://aws.amazon.com/blogs/aws/feed/" htmlUrl="https://aws.amazon.com/blogs/aws/"/>
       <outline text="Kubernetes" title="Kubernetes" type="rss" xmlUrl="https://kubernetes.io/feed.xml" htmlUrl="https://kubernetes.io/"/>
       <outline text="Google Apps Status Dashboard" title="Google Apps Status Dashboard" type="rss" xmlUrl="https://www.google.com/appsstatus/rss/en" htmlUrl="http://www.google.com/appsstatus/rss/en"/>
@@ -24,6 +26,7 @@
       <outline text="News from wikipedia events" title="News from wikipedia events" type="rss" xmlUrl="https://news.vinc.cc/search.atom?q=wikipedia+events" htmlUrl="https://news.vinc.cc/"/>
     </outline>
     <outline text="News" title="News">
+      <outline text="Hacker News 500 points posts" title="Hacker News 500 points posts" type="rss" xmlUrl="https://hnrss.org/newest?points=500" htmlUrl="https://news.ycombinator.com/newest"/>
       <outline text="mid-day Mumbai News" title="mid-day Mumbai News" type="rss" xmlUrl="https://www.mid-day.com/Resources/midday/rss/mumbai-news.xml" htmlUrl="https://www.mid-day.com/mumbai/mumbai-news"/>
       <outline text="AL JAZEERA ENGLISH (AJE)" title="AL JAZEERA ENGLISH (AJE)" type="rss" xmlUrl="https://www.aljazeera.com/Services/Rss/?PostingId=2007731105943979989" htmlUrl="https://www.aljazeera.com/default.html"/>
       <outline text="r/worldnews :top scoring links" title="r/worldnews :top scoring links" type="rss" xmlUrl="https://burkybang.com/reddit_rss/?rss=r/worldnews/top/.rss" htmlUrl="https://www.reddit.com/r/worldnews/top/?t=1628081840"/>
@@ -62,6 +65,7 @@
       <outline text="Pinboard (popular bookmarks)" title="Pinboard (popular bookmarks)" type="rss" xmlUrl="https://feeds.pinboard.in/rss/popular/" htmlUrl="https://pinboard.in/popular/"/>
     </outline>
     <outline text="DevOps" title="DevOps">
+      <outline text="Hacker News 500 points posts" title="Hacker News 500 points posts" type="rss" xmlUrl="https://hnrss.org/newest?points=500" htmlUrl="https://news.ycombinator.com/newest"/>
       <outline text="Amazon Web Services Service Status" title="Amazon Web Services Service Status" type="rss" xmlUrl="https://status.aws.amazon.com/rss/all.rss" htmlUrl="https://status.aws.amazon.com/"/>
       <outline text="tl;dr sec" title="tl;dr sec" type="rss" xmlUrl="https://rss.beehiiv.com/feeds/xgTKUmMmUm.xml" htmlUrl="https://tldrsec.com/"/>
       <outline text="Unsupervised Learning" title="Unsupervised Learning" type="rss" xmlUrl="https://rss.beehiiv.com/feeds/gQxaV1KHkQ.xml" htmlUrl="https://danielmiessler.com/"/>
@@ -90,6 +94,7 @@
       <outline text="SRE WEEKLY" title="SRE WEEKLY" type="rss" xmlUrl="https://sreweekly.com/feed/" htmlUrl="https://sreweekly.com/"/>
     </outline>
     <outline text="Leisure" title="Leisure">
+      <outline text="r/Ultrahuman : top scoring links" title="r/Ultrahuman : top scoring links" type="rss" xmlUrl="https://www.reddit.com/r/Ultrahuman/top/.rss?_=1760551634" htmlUrl="https://www.reddit.com/r/Ultrahuman/top/?_=1760551634"/>
       <outline text="Slack System Status" title="Slack System Status" type="rss" xmlUrl="https://slack-status.com/feed/atom" htmlUrl="https://slack-status.com"/>
       <outline text="r/bangalore, r/delhi, r/hyderabad, r/india, r/mumbai :top scoring links" title="r/bangalore, r/delhi, r/hyderabad, r/india, r/mumbai :top scoring links" type="rss" xmlUrl="https://burkybang.com/reddit_rss/?rss=r/bangalore%2Bdelhi%2Bhyderabad%2Bindia%2Bmumbai/top/.rss" htmlUrl="https://www.reddit.com/r/bangalore+delhi+hyderabad+india+mumbai/top/?_=1745575981"/>
       <outline text="r/AskHistorians, r/history : top scoring links" title="r/AskHistorians, r/history : top scoring links" type="rss" xmlUrl="https://burkybang.com/reddit_rss/?rss=r/AskHistorians%2Bhistory/top/.rss" htmlUrl="https://www.reddit.com/r/AskHistorians+history/top/?_=1743632850"/>
