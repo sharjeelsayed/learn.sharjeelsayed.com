@@ -2142,6 +2142,7 @@ Contents:
             Sources:
                 https://blog.martinhujer.cz/dont-put-idea-vscode-directories-to-projects-gitignore (Don't put .idea and .vscode directories to project's .gitignore)
                 https://firstaidgit.io (A searchable collection of the most frequently asked Git Questions)
+                https://git-stars.org (Uncover the most trending GitHub repositories, explore programming languages, and connect with top developers in the open source ecosystem.)
                 https://gitexplorer.com (Find the right commands you need without digging through the web)
                 https://github.com/AndreMiras/gitpop2 (Find the most popular fork on GitHub)
                 https://github.com/EvanLi/Github-Ranking (⭐Github Ranking⭐ Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily.)
@@ -4982,6 +4983,7 @@ Contents:
                     https://apps.apple.com/us/app/hack-for-hacker-news-developer/id1464477788
                     https://github.com/minimaxir/hacker-news-undocumented (Some of the hidden norms about Hacker News not otherwise covered in the Guidelines and the FAQ.)
                     https://hackernewsletter.com (Since 2010, we've put out a weekly newsletter of the best articles on startups, technology, programming, and more. All links are curated by hand from Hacker News. )
+                    https://hakkernieuws.vercel.app/top (Hakkernieuws strips HN down to just stories and favicons)
                     https://hckrnews.com (an unofficial alternative hacker news interface)
                     https://hn.algolia.com ((HackerNews Search))
                     https://hn.wilsonl.in (HackerNews Search)
