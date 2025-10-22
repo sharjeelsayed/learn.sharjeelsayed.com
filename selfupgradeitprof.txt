@@ -1688,14 +1688,6 @@ Contents:
                     https://aws.amazon.com/training/digital/aws-security-fundamentals (AWS Security Fundamentals (Second Edition))
                     https://www.freecodecamp.org/news/free-107-hour-aws-cloud-project-bootcamp (Free 107-Hour AWS Cloud Project Bootcamp)
 
-                AWS Certified Solutions Architect - Associate (SAA-C03) by Adrian Cantrill:
-                    https://learn.cantrill.io/p/aws-certified-solutions-architect-associate-saa-c03
-                    https://github.com/acantril/aws-sa-associate-saac03
-                    https://github.com/alozano-77/AWS-SAA-C02-Course (Personal notes for SAA-C02 test from: https://learn.cantrill.io)
-                    https://discord.com/channels/1191146976847351970 (TechStudyDiscord by Adrian Cantrill)
-                    https://talk.cantrill.io
-                    https://cantrill.io.i-aws.cloud (Statistics about Adrian Cantrill's courses)
-
                 Ultimate AWS Certified Solutions Architect Associate 2025 by Stephane Maarek:
                     https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03
                     https://courses.datacumulus.com/downloads/certified-solutions-architect-pn9 (AWS Certified Solutions Architect Associate Code & Slides)
@@ -1722,6 +1714,14 @@ Contents:
                 AWS Courses by Andrew Brown of ExamPro
                     https://youtu.be/c3Cn4xYfxJY?si=At47-Fh8EXyrZJUd (AWS Solutions Architect Associate Certification (SAA-C03) – Full Course to PASS the Exam by Andrew Brown of ExamPro, freecodecamp.org)
                     https://youtu.be/hyEw7dQ9-JE?si=uKnmUgTqvBDTSoNA (AWS Solutions Architect Professional (SAP-C02) Certification Course – Pass the Exam!)
+
+                AWS Certified Solutions Architect - Associate (SAA-C03) by Adrian Cantrill:
+                    https://learn.cantrill.io/p/aws-certified-solutions-architect-associate-saa-c03
+                    https://github.com/acantril/aws-sa-associate-saac03
+                    https://github.com/alozano-77/AWS-SAA-C02-Course (Personal notes for SAA-C02 test from: https://learn.cantrill.io)
+                    https://discord.com/channels/1191146976847351970 (TechStudyDiscord by Adrian Cantrill)
+                    https://talk.cantrill.io
+                    https://cantrill.io.i-aws.cloud (Statistics about Adrian Cantrill's courses)
 
             AWS Certification Resources:
                 Sources:
