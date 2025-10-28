@@ -301,7 +301,7 @@ Contents:
                 https://survey.stackoverflow.co/2025 (Stackoverflow 2025 Developer Survey)
                 https://tldrlegal.com (Software Licenses in Plain English)
                 https://www.discoverdev.io (Discover dev brings you a daily digest of the best engineering blogs from across the web! Handpicked by AI and a network of globally distributed nerds!)
-                https://www.jetbrains.com/lp/devecosystem-2024 (The State of Developer Ecosystem 2024)
+                https://devecosystem-2025.jetbrains.com (The State of Developer Ecosystem 2025)
                 https://www.microsoft.com/en-us/research/podcast (Microsoft Research Podcast )
                 https://www.reddit.com/r/compsci+cscareerquestions+learnprogramming+programming
                 https://www.reddit.com/r/cscareerquestions/comments/6hmlxr/what_are_the_most_indemand_software_skills_right/dizqiie
@@ -482,6 +482,7 @@ Contents:
             Sources:
                 https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra (Graphic notes on Gilbert Strang's "Linear Algebra for Everyone")
                 https://github.com/ossu/math (🧮 Path to a free self-taught education in Mathematics!)
+                https://github.com/rossant/awesome-math (A curated list of awesome mathematics resources )
                 https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=math&sort=byPopularity&type=story
                 https://infinitedescent.xyz (An Infinite Descent into Pure Mathematics by An Infinite Descent into by Clive Newstead)
                 https://news.ycombinator.com/item?id=13800320 (	Mathematics for Computer Science [pdf] (mit.edu))
@@ -792,6 +793,7 @@ Contents:
                 https://github.com/ahmedtariq01/Cloud-DevOps-Learning-Resources (This repo includes Books and imp notes related to GCP, Azure, AWS, Docker, K8s, and DevOps. More, exam and interview prep notes.)
                 https://github.com/bregman-arie/devops-exercises (Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions)
                 https://github.com/bregman-arie/devops-resources (DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP Topics)
+                https://github.com/ChristianLempa/boilerplates (Boilerplates is a curated collection of production-ready templates for your homelab and infrastructure projects. )
                 https://github.com/codeaprendiz/learn-devops (DevOps Essentials | terraform | kubernetes | linux | nginx | monitoring | docker | docker-compose)
                 https://github.com/iam-veeramalla/aws-devops-zero-to-hero (https://youtube.com/playlist?list=PLdpzxOOAlwvLNOxX0RfndiYSt1Le9azze&si=OhfxV1KlESpSX5xS AWS zero to hero repo for devops engineers to learn AWS in 30 Days. This repo includes projects, presentations, interview questions and real time examples. )
                 https://github.com/jersonmartinez/DevOps-YouTube-Channels (DevOps YouTube Channels)
@@ -1220,6 +1222,9 @@ Contents:
                     https://www.amazon.com/PowerShell-Cookbook-Scripting-Ubiquitous-Object-Based/dp/109810160X
 
         Storage:
+            Sources:
+                https://github.com/seaweedfs/seaweedfs (https://seaweedfs.com SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. Enterprise version is at seaweedfs.com.)
+
             Books and Courses:
                 Data Storage Networking: Real World Skills for the CompTIA Storage+ Certification and Beyond 1st Edition
                 https://www.amazon.com/Data-Storage-Networking-CompTIA-Certification/dp/1118679210
@@ -1633,6 +1638,7 @@ Contents:
                 https://github.com/open-guides/og-aws (Amazon Web Services — a practical guide)
                 https://github.com/serverless/serverless (⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more!)
                 https://github.com/topics/aws?o=desc&s=stars
+                https://github.com/ubicloud/ubicloud (https://www.ubicloud.com Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services. )
                 https://github.com/vantage-sh/ec2instances.info (Amazon EC2 instance comparison site)
                 https://instances.vantage.sh (Easy Amazon EC2 Instance Comparison)
                 https://miparnisariblog.wordpress.com/2023/03/29/aws-networking-concepts (AWS Networking Concepts)
@@ -3388,6 +3394,7 @@ Contents:
                     https://www.deeplearningbook.org (Deep Learning (Adaptive Computation and Machine Learning series) by Ian Goodfellow and Yoshua Bengio and Aaron Courville https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618)
                     https://www.gilesthomas.com/2025/09/maths-for-llms (The maths you need to start understanding LLMs)
                     https://www.manning.com/books/build-a-large-language-model-from-scratch (Build a Large Language Model (From Scratch) by Sebastian Raschk https://github.com/rasbt/LLMs-from-scratch)
+                    https://www.mlsysbook.ai (Principles and Practices of Engineering Artificially Intelligent Systems by Vijay Janapa Reddi)
                     https://www.youtube.com/playlist?app=desktop&list=PLoROMvodv4rNyWOpJg_Yh4NSqI4Z4vOYy (Stanford CS229: Machine Learning I Spring 2022)
                     https://youtu.be/kCc8FmEb1nY?si=mhTGB4fgUbg1B9Pq (Let's build GPT: from scratch, in code, spelled out. by Andrej Karpathy)
 
@@ -4591,6 +4598,7 @@ Contents:
                 https://github.com/saulpw/visidata (https://www.visidata.org A terminal spreadsheet multitool for discovering and arranging data)
                 https://news.ycombinator.com/item?id=12448545 (You Suck at Excel with Joel Spolsky (2015) [video])
                 https://news.ycombinator.com/item?id=38666340 (	Sydney man dubbed the 'Annihilator' wins spreadsheet world championship (theguardian.com))
+                https://www.claude.com/claude-for-excel (PilotingClaude for Excel)
                 https://www.reddit.com/r/excel/comments/2e28s3/rexcel_advice_thread_repository
 
             Books and Courses:
@@ -5216,6 +5224,8 @@ Contents:
             Tlds:
                 https://domaintyper.com/top-websites
                 https://domcomp.com
+                https://github.com/DigitalPlatDev/FreeDomain (https://domain.digitalplat.org DigitalPlat FreeDomain: Free Domain For Everyone )
+                https://github.com/is-a-dev/register (https://docs.is-a.dev Grab your own sweet-looking '.is-a.dev' subdomain. )
                 https://hostingtribunal.com/blog/tld-statistics
                 https://news.ycombinator.com/item?id=24538758 (Domains for the Rest of Us (domainsfortherestofus.com))
                 https://tld-list.com
@@ -5776,6 +5786,7 @@ Contents:
             https://github.com/kanbn/kan (https://kan.bn The open source Trello alternative. )
             https://github.com/mendel5/alternative-front-ends (Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.))
             https://github.com/NotJoeMartinez/yt-fts (Youtube Full Text Search - Search all of a YouTube channel's subtitles from the command line)
+            https://github.com/qeeqbox/social-analyzer (API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites)
             https://github.com/RunaCapital/awesome-oss-alternatives (Awesome list of open-source startup alternatives to well-known SaaS products)
             https://github.com/sherlock-project/sherlock (🔎 Hunt down social media accounts by username across social networks https://sherlock-project.github.io)
             https://github.com/topics/awesome (Awesome Lists)
