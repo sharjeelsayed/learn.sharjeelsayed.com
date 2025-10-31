@@ -703,6 +703,7 @@ Contents:
                 https://github.com/madd86/awesome-system-design (A curated list of awesome System Design (A.K.A. Distributed Systems) resources.)
                 https://github.com/mixu/distsysbook (https://book.mixu.net/distsys The book Distributed systems: for fun and profit)
                 https://github.com/theanalyst/awesome-distributed-systems (A curated list to learn about distributed systems)
+                https://how.complexsystems.fail (How Complex Systems Fail  by Dr. Richard I. Cook Cognitive Technologies Labratory University of Chicago )
                 https://news.ycombinator.com/item?id=25987664 (Ask HN: recommended books and papers on distributed systems?)
                 https://news.ycombinator.com/item?id=39303160 (A distributed systems reading list (ferd.ca))
                 https://www.allthingsdistributed.com (Werner Vogels on building scalable and robust distributed systems)
@@ -3287,6 +3288,7 @@ Contents:
                 https://en.wikipedia.org/wiki/Large_language_model (Large language model)
                 https://github.com/appcypher/awesome-mcp-servers (Awesome MCP Servers - A curated list of Model Context Protocol servers )
                 https://github.com/GoogleCloudPlatform/generative-ai (https://cloud.google.com/vertex-ai/docs/generative-ai/learn/overview Sample code and notebooks for Generative AI on Google Cloud)
+                https://github.com/topics/llm (Large Language Model GitHub Repos)
                 https://lmarena.ai/leaderboard (Chatbot Arena LLM Leaderboard: Community-driven Evaluation for Best LLM and AI chatbots.See how leading models stack up across text, image, vision, and beyond. )
                 https://wuu73.org/blog/aiguide1.html (How I Code with AI on a budget/free)
                 https://www.reddit.com/r/LocalLLaMA (Subreddit to discuss about Llama, the large language model created by Meta AI.)
@@ -5430,6 +5432,7 @@ Contents:
 
         Survival:
             Sources:
+                https://en.wikipedia.org/wiki/WHO_Model_List_of_Essential_Medicines (WHO Model List of Essential Medicines)
                 https://www.amazon.com/gp/bestsellers/books/465688 (Best Sellers in Safety & First Aid)
                 https://www.amazon.com/gp/bestsellers/books/689734011 (Best Sellers in Emergency Medicine)
                 https://www.amazon.com/gp/bestsellers/books/8975382011 (Best Sellers in Survival & Emergency Preparedness)
