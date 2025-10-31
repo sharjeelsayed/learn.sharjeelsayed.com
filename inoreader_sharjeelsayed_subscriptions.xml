@@ -5,17 +5,19 @@
   </head>
   <body>
     <outline text="MustRead" title="MustRead">
+      <outline text="r/Ultrahuman : top scoring links" title="r/Ultrahuman : top scoring links" type="rss" xmlUrl="https://www.reddit.com/r/Ultrahuman/top/.rss?_=1760551634" htmlUrl="https://www.reddit.com/r/Ultrahuman/top/?_=1760551634"/>
       <outline text="Hacker News 500 points posts" title="Hacker News 500 points posts" type="rss" xmlUrl="https://hnrss.org/newest?points=500" htmlUrl="https://news.ycombinator.com/newest"/>
       <outline text="Amazon Web Services Service Status" title="Amazon Web Services Service Status" type="rss" xmlUrl="https://status.aws.amazon.com/rss/all.rss" htmlUrl="https://status.aws.amazon.com/"/>
       <outline text="Slack System Status" title="Slack System Status" type="rss" xmlUrl="https://slack-status.com/feed/atom" htmlUrl="https://slack-status.com"/>
       <outline text="Unsupervised Learning" title="Unsupervised Learning" type="rss" xmlUrl="https://rss.beehiiv.com/feeds/gQxaV1KHkQ.xml" htmlUrl="https://danielmiessler.com/"/>
       <outline text="mid-day Mumbai News" title="mid-day Mumbai News" type="rss" xmlUrl="https://www.mid-day.com/Resources/midday/rss/mumbai-news.xml" htmlUrl="https://www.mid-day.com/mumbai/mumbai-news"/>
       <outline text="Lobsters: Top Stories of the Past Week" title="Lobsters: Top Stories of the Past Week" type="rss" xmlUrl="https://lobste.rs/top/rss" htmlUrl="https://lobste.rs/"/>
+      <outline text="r/science, r/askscience : top scoring links" title="r/science, r/askscience : top scoring links" type="rss" xmlUrl="https://burkybang.com/reddit_rss/?rss=r/askscience%2Bscience/top/.rss" htmlUrl="https://www.reddit.com/r/askscience+science/top/?_=1704953697"/>
       <outline text="GitHub All Languages Daily Trending" title="GitHub All Languages Daily Trending" type="rss" xmlUrl="https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml" htmlUrl="http://mshibanami.github.io/GitHubTrendingRSS"/>
       <outline text="LWN.net" title="LWN.net" type="rss" xmlUrl="https://lwn.net/headlines/newrss" htmlUrl="https://lwn.net/"/>
       <outline text="r/AWSCertifications, r/aws: top scoring links" title="r/AWSCertifications, r/aws: top scoring links" type="rss" xmlUrl="https://burkybang.com/reddit_rss/?rss=r/AWSCertifications%2Baws/top/.rss" htmlUrl="https://www.reddit.com/r/AWSCertifications+aws/top/?t=1640473430"/>
-      <outline text="r/devops: top scoring links" title="r/devops: top scoring links" type="rss" xmlUrl="https://burkybang.com/reddit_rss/?rss=r/devops/top/.rss" htmlUrl="https://www.reddit.com/r/devops/top/?t=1628082157"/>
       <outline text="Slashdot" title="Slashdot" type="rss" xmlUrl="https://rss.slashdot.org/Slashdot/slashdotMain" htmlUrl="https://slashdot.org/"/>
+      <outline text="r/devops: top scoring links" title="r/devops: top scoring links" type="rss" xmlUrl="https://burkybang.com/reddit_rss/?rss=r/devops/top/.rss" htmlUrl="https://www.reddit.com/r/devops/top/?t=1628082157"/>
       <outline text="r/Terraform, r/ansible, r/usefulscripts: top scoring links" title="r/Terraform, r/ansible, r/usefulscripts: top scoring links" type="rss" xmlUrl="https://burkybang.com/reddit_rss/?rss=r/Terraform%2Bansible%2Busefulscripts/top/.rss" htmlUrl="https://www.reddit.com/r/Terraform+ansible+usefulscripts/top/?t=1628081632"/>
       <outline text="AWS Official Blog" title="AWS Official Blog" type="rss" xmlUrl="https://aws.amazon.com/blogs/aws/feed/" htmlUrl="https://aws.amazon.com/blogs/aws/"/>
       <outline text="Kubernetes" title="Kubernetes" type="rss" xmlUrl="https://kubernetes.io/feed.xml" htmlUrl="https://kubernetes.io/"/>
@@ -33,10 +35,8 @@
       <outline text="Lobsters: Top Stories of the Past Week" title="Lobsters: Top Stories of the Past Week" type="rss" xmlUrl="https://lobste.rs/top/rss" htmlUrl="https://lobste.rs/"/>
       <outline text="Hacker News 100 points posts" title="Hacker News 100 points posts" type="rss" xmlUrl="https://hnrss.org/newest?points=100" htmlUrl="https://news.ycombinator.com/newest"/>
       <outline text="r/geopolitics: top scoring links" title="r/geopolitics: top scoring links" type="rss" xmlUrl="https://burkybang.com/reddit_rss/?rss=r/geopolitics/top/.rss" htmlUrl="https://www.reddit.com/r/geopolitics/top/?_=1743625811"/>
-      <outline text="r/science, r/askscience : top scoring links" title="r/science, r/askscience : top scoring links" type="rss" xmlUrl="https://burkybang.com/reddit_rss/?rss=r/askscience%2Bscience/top/.rss" htmlUrl="https://www.reddit.com/r/askscience+science/top/?_=1704953697"/>
       <outline text="r/technology, r/technews: top scoring links" title="r/technology, r/technews: top scoring links" type="rss" xmlUrl="https://burkybang.com/reddit_rss/?rss=r/technews%2Btechnology/top/.rss" htmlUrl="https://www.reddit.com/r/technews+technology/top/?_=1704953138"/>
       <outline text="NYT &gt; World" title="NYT &gt; World" type="rss" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" htmlUrl="https://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss"/>
-      <outline text="NDTV News  - Top-stories" title="NDTV News  - Top-stories" type="rss" xmlUrl="https://feeds.feedburner.com/ndtvnews-top-stories" htmlUrl="http://www.ndtv.com/"/>
       <outline text="Nature" title="Nature" type="rss" xmlUrl="https://www.nature.com/nature.rss" htmlUrl="http://feeds.nature.com/nature/rss/current"/>
       <outline text="LWN.net" title="LWN.net" type="rss" xmlUrl="https://lwn.net/headlines/newrss" htmlUrl="https://lwn.net/"/>
       <outline text="Ars Technica" title="Ars Technica" type="rss" xmlUrl="https://feeds.arstechnica.com/arstechnica/index" htmlUrl="https://arstechnica.com/"/>
