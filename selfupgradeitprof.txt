@@ -1071,6 +1071,7 @@ Contents:
                 https://github.com/koalaman/shellcheck (a static analysis tool for shell scripts)
                 https://github.com/lexiforest/curl-impersonate (An active fork of curl-impersonate with more versions and build targets. A series of patches that make curl requests look like Chrome and Firefox.)
                 https://github.com/mbadolato/iTerm2-Color-Schemes (https://iterm2colorschemes.com Over 325 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio, Alacritty, and many more )
+                https://github.com/NARKOZ/hacker-scripts (hacker-scripts)
                 https://github.com/nvbn/thefuck (Magnificent app which corrects your previous console command.)
                 https://github.com/Orange-OpenSource/hurl (https://hurl.dev Hurl, run and test HTTP requests with plain text.)
                 https://github.com/phiresky/ripgrep-all (rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.)
