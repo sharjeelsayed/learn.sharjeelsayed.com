@@ -1399,6 +1399,7 @@ Contents:
                 https://github.com/kubernetes/kops (https://kops.sigs.k8s.io kops will not only help you create, destroy, upgrade and maintain production-grade, highly available, Kubernetes cluster, but it will also provision the necessary cloud infrastructure.)
                 https://github.com/kubeshark/kubeshark (The API traffic viewer for Kubernetes providing deep visibility into all API traffic and payloads going in, out and across containers and pods inside a Kubernetes cluster. Think TCPDump and Wireshark re-invented for Kubernetes)
                 https://github.com/kubesphere/kubesphere (https://kubesphere.io The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️)
+                https://github.com/lima-vm/lima (https://lima-vm.io Linux virtual machines, with a focus on running containers )
                 https://github.com/nevalla/lens-resource-map-extension (Lens - The Kubernetes IDE extension that displays Kubernetes resources and their relations as a force graph.)
                 https://github.com/paralus/paralus (https://www.paralus.io All-in-one Kubernetes access manager. User-level credentials, RBAC, SSO, audit logs.)
                 https://github.com/philippemerle/KubeDiagrams (Generate Kubernetes architecture diagrams from Kubernetes manifest files, kustomization files, Helm charts, and actual cluster state )
@@ -3329,6 +3330,7 @@ Contents:
                 https://github.com/Mintplex-Labs/anything-llm (https://anythingllm.com The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more.)
                 https://github.com/ml-tooling/best-of-ml-python (🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.)
                 https://github.com/modelcontextprotocol/servers (https://modelcontextprotocol.io Model Context Protocol Servers)
+                https://github.com/MoonshotAI/Kimi-K2 ( Kimi K2 is the large language model series developed by Moonshot AI team Resources)
                 https://github.com/n8n-io/self-hosted-ai-starter-kit (https://n8n.io The Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environment. Curated by n8n, it provides essential tools for creating secure, self-hosted AI workflows. )
                 https://github.com/netease-youdao/QAnything (https://qanything.ai Question and Answer based on Anything.)
                 https://github.com/nomic-ai/gpt4all (https://www.nomic.ai/gpt4all GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.)
@@ -3453,6 +3455,7 @@ Contents:
                     https://code.visualstudio.com/docs/sourcecontrol/overview#_timeline-view (Visual Studio Code Timeline View)
                     https://datagubbe.se/vsc (Sane Visual Studio Code)
                     https://github.blog/2024-01-22-10-unexpected-ways-to-use-github-copilot (10 unexpected ways to use GitHub Copilot)
+                    https://github.com/coder/code-server (https://coder.com VS Code in the browser)
                     https://github.com/topics/vscode?o=desc&s=stars
                     https://github.com/viatsko/awesome-vscode (https://viatsko.github.io/awesome-vscode 🎨 A curated list of delightful VS Code packages and resources.)
                     https://github.com/VSCodium/vscodium (binary releases of VS Code without MS branding/telemetry/licensing)
@@ -5755,7 +5758,7 @@ Contents:
             https://www.obdev.at/products/littlesnitch
             https://www.truecaller.com
 
-        Additional Sources :
+        Additional Sources:
             http://techmeme.com/events.ics (Techmeme Calendar)
             http://unixstickers.com (Unixstickers powered by Sticker Mule)
             https://allaboutberlin.com (Welcome to Berlin This is the start of a great adventure! Let's get you ready for it.)
@@ -5774,10 +5777,12 @@ Contents:
             https://en.wikipedia.org/wiki/Wikipedia:Vital_articles (Wikipedia:Vital articles)
             https://forgoodfirstissue.github.com (A repository of social impact and open source projects)
             https://freenode.net
+            https://github.com/antiwork/gumroad (https://gumroad.com Gumroad is an e-commerce platform that enables creators to sell products directly to consumers.)
             https://github.com/antontarasenko/smq/blob/master/reports/hackernews-links-in-comments.md (Most mentioned links in Hacker News comments, 2006–2015)
             https://github.com/arcataroger/awesome-engineering-games (A curated list of engineering-related video games rated Very Positive or higher on Steam )
             https://github.com/ArduPilot/ardupilot (https://ardupilot.org ArduPilot is a trusted, versatile, and open source autopilot system supporting many vehicle types: multi-copters, traditional helicopters, fixed wing aircraft, boats, submarines, rovers and more. )
             https://github.com/automattic/harper (https://writewithharper.com Offline, privacy-first grammar checker. Fast, open-source, Rust-powered )
+            https://github.com/bobeff/open-source-games (A list of open source games.)
             https://github.com/btw-so/open-source-alternatives (List of open-source alternatives to everyday SaaS products.)
             https://github.com/C4illin/ConvertX (💾 Self-hosted online file converter. Supports 1000+ formats ⚙️)
             https://github.com/chubin/awesome-console-services (A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols))
