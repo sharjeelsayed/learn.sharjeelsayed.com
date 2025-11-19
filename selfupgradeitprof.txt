@@ -2186,6 +2186,7 @@ Contents:
                 https://github.com/dandavison/delta (A viewer for git and diff output)
                 https://github.com/earwig/git-repo-updater (A console script that allows you to easily update multiple git repositories at once)
                 https://github.com/extrawurst/gitui (Blazing 💥 fast terminal-ui for git written in rust 🦀)
+                https://github.com/f/git-rewrite-commits (https://blog.fka.dev/git-rewrite-commits AI-powered git commit message rewriter using Ollama or GPT)
                 https://github.com/gabrie30/ghorg (Quickly clone an entire org/users repositories into one directory - Supports GitHub, GitLab, Bitbucket, and more)
                 https://github.com/git-bug/git-bug (Distributed, offline-first bug tracker embedded in git)
                 https://github.com/git-up/GitUp (The Git interface you've been missing all your life has finally arrived. http://gitup.co)
@@ -2437,6 +2438,7 @@ Contents:
                 https://github.com/HACKE-RC/awesome-reversing (A collection of resources to learn Reverse Engineering from start!)
                 https://github.com/hysnsec/awesome-policy-as-code (A curated list of policy-as-code resources like blogs, videos, and tools to practice on for learning Policy-as-Code.)
                 https://github.com/iknowjason/Awesome-CloudSec-Labs (Awesome free cloud native security learning labs. Includes CTF, self-hosted workshops, guided vulnerability labs, and research labs.)
+                https://github.com/jacobdjwilson/awesome-annual-security-reports (A curated list of annual cyber security reports)
                 https://github.com/jassics/awesome-aws-security (Curated list of links, references, books videos, tutorials (Free or Paid), Exploit, CTFs, Hacking Practices etc. which are related to AWS Security)
                 https://github.com/Legit-Labs/legitify (https://legitify.dev Detect and remediate misconfigurations and security risks across all your GitHub and GitLab assets)
                 https://github.com/Lissy93/awesome-privacy (🦄 A curated list of privacy & security-focused software and services)
@@ -3292,6 +3294,7 @@ Contents:
                 https://github.com/GoogleCloudPlatform/generative-ai (https://cloud.google.com/vertex-ai/docs/generative-ai/learn/overview Sample code and notebooks for Generative AI on Google Cloud)
                 https://github.com/topics/llm (Large Language Model GitHub Repos)
                 https://lmarena.ai/leaderboard (Chatbot Arena LLM Leaderboard: Community-driven Evaluation for Best LLM and AI chatbots.See how leading models stack up across text, image, vision, and beyond. )
+                https://scale.com/leaderboard (SEAL LLM Leaderboards evaluate agentic, frontier, safety, and public-sentiment of the latest LLMs.)
                 https://wuu73.org/blog/aiguide1.html (How I Code with AI on a budget/free)
                 https://www.reddit.com/r/LocalLLaMA (Subreddit to discuss about Llama, the large language model created by Meta AI.)
 
@@ -5114,8 +5117,9 @@ Contents:
 
         Podcasts:
             Sources:
-                http://www.openculture.com/great-podcasts
+                http://www.openculture.com/great-podcasts (The 150 Best Podcasts to Enrich Your Mind)
                 https://hn.algolia.com/?query=podcast&sort=byPopularity&prefix&page=0&dateRange=all&type=story
+                https://lobste.rs/s/kinpl3/what_s_your_favourite_podcast_at_moment (What’s your favourite podcast at the moment?)
                 https://news.ycombinator.com/item?id=13574916 (Ask HN: What are some 'must watch' talks?)
                 https://news.ycombinator.com/item?id=13747563 (Ask HN: What are your favorite tech podcasts?)
                 https://news.ycombinator.com/item?id=14529759 (Ask HN: What podcasts are you listening to?)
@@ -5572,6 +5576,7 @@ Contents:
                 https://www.gphg.org/en (Grand Prix d'Horlogerie de Genève (GPHG) 1is a foundation under Swiss law recognized as being of public utility since 2011. It holds an annual award ceremony in Geneva in November)
                 https://www.hodinkee.com/articles/every-watch-clock-and-timer-that-went-to-the-moon (In-Depth Every Watch, Clock, And Timer That Went To The Moon)
                 https://www.hodinkee.com/articles/introducing-vacheron-constantin-les-cabinotiers-solaria (Vacheron Constantin Breaks The World Record for Most Complicated Wristwatch With The Les Cabinotiers ‘Solaria Ultra Grand Complication’ with 41 complications)
+                https://www.hodinkee.com/articles/the-2025-gphg-breguet-wins-the-aiguille-dor (The 2025 GPHG Awards)
                 https://www.hodinkee.com/articles/think-you-can-name-every-single-watch-thats-ever-gone-to-space (Intervies Think You Can Name Every Single Watch That's Ever Gone To Space? There are 1,899 of them. Meet the man that's cataloging them all in one database.)
                 https://www.instagram.com/dailywatch (World's biggest Instagram account on Watches)
                 https://www.looria.com/reddit/Watches/products (Most discussed products on r/Watches)
