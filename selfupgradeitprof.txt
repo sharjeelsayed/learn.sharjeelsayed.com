@@ -3297,6 +3297,7 @@ Contents:
                 https://scale.com/leaderboard (SEAL LLM Leaderboards evaluate agentic, frontier, safety, and public-sentiment of the latest LLMs.)
                 https://wuu73.org/blog/aiguide1.html (How I Code with AI on a budget/free)
                 https://www.reddit.com/r/LocalLLaMA (Subreddit to discuss about Llama, the large language model created by Meta AI.)
+                https://www.semrush.com/blog/most-cited-domains-ai (The Most-Cited Domains in AI)
 
             Tools:
                 https://deepwiki.com (Which repo would you like to understand?)
@@ -5511,6 +5512,7 @@ Contents:
             Sources:
                 https://criticstop10.com (Critics’ Top 10)
                 https://editorial.rottentomatoes.com/guide/best-movies-of-all-time (Rotten Tomatoes : The 200 Best Movies of All Time)
+                https://editorial.rottentomatoes.com/guide/popular-tv-shows (25 Most Popular TV Shows Right Now: What to Watch on Streaming by Rotten Tomatoes Editors)
                 https://editorial.rottentomatoes.com/guide/rt25-critics-top-tv-shows-of-the-last-25-years-2 (RT25: Critics’ Top TV Shows of the Last 25 Years)
                 https://en.m.wikipedia.org/wiki/List_of_films_voted_the_best (List of films voted the best)
                 https://en.m.wikipedia.org/wiki/The_Sight_and_Sound_Greatest_Films_of_All_Time_2022 (The Sight and Sound Greatest Films of All Time 2022)
@@ -5528,8 +5530,9 @@ Contents:
                 https://news.ycombinator.com/item?id=32799789 (Ask HN: What are some of the best documentaries you've seen?)
                 https://tv.garden (Watch TV channels from all over the world)
                 https://www.bbc.com/culture/article/20181029-the-100-greatest-foreign-language-films (The 100 greatest foreign-language films)
-                https://www.bbc.com/culture/article/20211015-the-100-greatest-tv-series-of-the-21st-century
+                https://www.bbc.com/culture/article/20211015-the-100-greatest-tv-series-of-the-21st-century (The 100 greatest TV series of the 21st Century)
                 https://www.businessinsider.in/The-100-best-crime-movies-of-all-time-according-to-critics/articleshow/65875039.cms (The 100 best crime movies of all time, according to critics)
+                https://www.imdb.com/chart/tvmeter (Most popular TV shows As determined by IMDb users)
                 https://www.indiewire.com/gallery/martin-scorsese-favorite-films-movies (Martin Scorsese’s Favorite Movies: 80 Films the Director Wants You to See)
                 https://www.justwatch.com/in?genres=doc (Popular Documentaries)
                 https://www.nytimes.com/interactive/2025/movies/best-movies-21st-century.html (100 Best Movies Of The 21st Century)
