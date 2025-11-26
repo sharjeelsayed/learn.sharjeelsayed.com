@@ -2173,7 +2173,6 @@ Contents:
                 https://useful-forks.github.io (It aims at increasing the discoverability of useful forks of open-source projects.)
                 https://www.garyrobinson.net/2014/10/git-in-two-minutes-for-a-solo-developer.html (Git In Two Minutes (for a solo developer))
                 https://www.reddit.com/r/git/top/?sort=top&t=all
-                https://www.toptal.com/developers/gitignore
                 https://www.udemy.com/topic/git/?ratings=4.5&sort=popularity (Udemy Courses rated 4.5 stars and above)
 
             Git Tools:
@@ -2191,6 +2190,7 @@ Contents:
                 https://github.com/git-bug/git-bug (Distributed, offline-first bug tracker embedded in git)
                 https://github.com/git-up/GitUp (The Git interface you've been missing all your life has finally arrived. http://gitup.co)
                 https://github.com/gitbutlerapp/gitbutler (https://gitbutler.com The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte)
+                https://github.com/github/gitignore (A collection of useful .gitignore templates)
                 https://github.com/github/hub (A command-line tool that makes git easier to use with GitHub.)
                 https://github.com/go-gitea/gitea (Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD https://about.gitea.com)
                 https://github.com/idosal/git-mcp (https://gitmcp.io Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project )
@@ -2207,6 +2207,7 @@ Contents:
                 https://grep.app (Search across a half million git repos)
                 https://www.sourcetreeapp.com (A free Git client for Windows and Mac)
                 https://www.sublimemerge.com (Git Client, done Sublime)
+                https://www.toptal.com/developers/gitignore (Create useful .gitignore files for your project)
 
             Books and Courses:
                 Git Tutorials:
@@ -5687,6 +5688,7 @@ Contents:
                 https://en.wikipedia.org/wiki/Luxury_goods (Luxury goods)
                 https://leathertainment.notion.site (Tanner’s Club - Leather Brand Guide)
                 https://realstyle.therealreal.com/trr-full-resale-report-2024 (The RealReal’s FULL 2024 Resale Report)
+                https://www.cushmanwakefield.com/en/belgium/news/2025/11/londons-new-bond-street-most-expensive-retail-destination-in-the-world (most expensive retail destination in the world,)
                 https://www.reddit.com/r/Louisvuitton+OUTFITS+TheHermesGame+femalefashionadvice+fragrance+jewelry+malefashionadvice
                 https://www.statista.com/statistics/267948/brand-value-of-the-leading-10-most-valuable-luxury-brands-worldwide (Brand value of the leading 10 most valuable luxury brands worldwide)
 
