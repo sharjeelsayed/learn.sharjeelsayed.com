@@ -240,8 +240,10 @@ Contents:
 
         Software Engineering:
             Sources:
+                https://adventofcode.com (Advent of Code is an Advent calendar of small programming puzzles for a variety of skill levels that can be solved in any programming language you like. People use them as interview prep, company training, university coursework, practice problems, a speed contest, or to challenge each other.)
                 https://dev.to (DEV Community is a community of 1,236,140 amazing developers )
                 https://devdocs.io (DevDocs combines multiple API documentations in a fast, organized, and searchable interface. )
+                https://devecosystem-2025.jetbrains.com (The State of Developer Ecosystem 2025)
                 https://devtoolstips.org (154 DevTools Tips)
                 https://devurls.com (Developer news aggregator)
                 https://docs.google.com/spreadsheets/d/1gIRjeB1Y_AMvtmJsZWl_dNMDJ7lPSIxiVUYyEvrP5P4/htmlview?usp=sharing&sle=true (Popular Programming Podcast episodes)
@@ -301,7 +303,6 @@ Contents:
                 https://survey.stackoverflow.co/2025 (Stackoverflow 2025 Developer Survey)
                 https://tldrlegal.com (Software Licenses in Plain English)
                 https://www.discoverdev.io (Discover dev brings you a daily digest of the best engineering blogs from across the web! Handpicked by AI and a network of globally distributed nerds!)
-                https://devecosystem-2025.jetbrains.com (The State of Developer Ecosystem 2025)
                 https://www.microsoft.com/en-us/research/podcast (Microsoft Research Podcast )
                 https://www.reddit.com/r/compsci+cscareerquestions+learnprogramming+programming
                 https://www.reddit.com/r/cscareerquestions/comments/6hmlxr/what_are_the_most_indemand_software_skills_right/dizqiie
@@ -2201,10 +2202,12 @@ Contents:
                 https://github.com/Legit-Labs/legitify (https://legitify.dev Detect and remediate misconfigurations and security risks across all your GitHub and GitLab assets)
                 https://github.com/martinvonz/jj (A Git-compatible DVCS that is both simple and powerful)
                 https://github.com/mrgoonie/cmai (A quick CLI command to generate commit message using AI and push to origin )
+                https://github.com/mshibanami/GitHubTrendingRSS (https://mshibanami.github.io/GitHubTrendingRSS Unofficial RSS feed generator for GitHub Trending)
                 https://github.com/o2sh/onefetch (https://onefetch.dev Command-line Git information tool)
                 https://github.com/ossf/allstar (GitHub App to set and enforce security policies)
                 https://github.com/tpope/vim-fugitive (fugitive.vim: A Git wrapper so awesome, it should be illegal https://www.vim.org/scripts/script.php?script_id=2975)
                 https://grep.app (Search across a half million git repos)
+                https://mshibanami.github.io/GitHubTrendingRSS (GitHub Trending RSS)
                 https://www.sourcetreeapp.com (A free Git client for Windows and Mac)
                 https://www.sublimemerge.com (Git Client, done Sublime)
                 https://www.toptal.com/developers/gitignore (Create useful .gitignore files for your project)
@@ -3861,6 +3864,7 @@ Contents:
                 https://eshsoft.com/jobinator (Search through recent Hacker News job listings, categorized and normalized using a LLM. Updated daily.)
                 https://remoteintech.company
                 https://www.fossjobs.net (This is a job board exclusively for paid free & open source jobs: We only list jobs at organizations that improve and involve FOSS or open hardware projects. )
+                https://map.stapply.ai (Map of Jobs at Top AI Companies | Stapply Job Map)
 
             Arab League Countries Job Sites:
                 https://ae.indeed.com (66)
@@ -4835,7 +4839,7 @@ Contents:
                         https://github.com/DIYgod/RSSHub (🍰 Everything is RSSible)
                         https://github.com/iliane5/meridian (Meridian cuts through news noise by scraping hundreds of sources, analyzing stories with AI, and delivering concise, personalized daily briefs. )
                         https://github.com/mratmeyer/rsslookup (https://www.rsslookup.com A free, open-source tool to find RSS feeds on any URL)
-                        https://github.com/mshibanami/GitHubTrendingRSS (Unofficial RSS feed generator for GitHub Trending)
+                        https://github.com/mshibanami/GitHubTrendingRSS (https://mshibanami.github.io/GitHubTrendingRSS Unofficial RSS feed generator for GitHub Trending)
                         https://github.com/osmoscraft/osmosfeed (A web-based RSS reader running entirely from your GitHub repo.)
                         https://github.com/topics/rss?o=desc&s=stars
                         https://news.ycombinator.com/item?id=23583629 (RSS Box – RSS for websites that do not support RSS (rssbox.herokuapp.com))
