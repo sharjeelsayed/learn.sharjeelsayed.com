@@ -2700,7 +2700,6 @@ Contents:
 
             Tools:
                 https://allblackscreen.com (Make your screen black)
-                https://alt-tab-macos.netlify.app (AltTab brings the power of Windows’s “alt-tab” window switcher to macOS)
                 https://apps.apple.Com/app/amphetamine/id937984704 (Amphetamine 4+ Powerful Keep-Awake Utility)
                 https://cleanshot.com (Capture your Mac’s screen like a pro.)
                 https://devutils.app (Offline Toolbox for Developers)
@@ -2711,6 +2710,7 @@ Contents:
                 https://folivora.ai/keyboardcleantool (A super simple little tool which blocks all Keyboard and TouchBar input)
                 https://github.com/actuallymentor/battery (CLI for managing the battery charging status for M1 Macs)
                 https://github.com/apple/container (https://apple.github.io/container/documentation A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It's written in Swift, and optimized for Apple silicon. )
+                https://github.com/artginzburg/sudo-touchid ( Permanent TouchID support 👆 for `sudo`.)
                 https://github.com/caldis/mos (A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS )
                 https://github.com/exelban/stats (macOS system monitor in your menu bar)
                 https://github.com/iCHAIT/awesome-macOS ( A curated list of awesome applications, softwares, tools and shiny things for macOS.)
@@ -2722,7 +2722,6 @@ Contents:
                 https://github.com/qarmin/czkawka (Multi functional app to find duplicates, empty folders, similar images etc. )
                 https://github.com/rgcr/m-cli ( Swiss Army Knife For Macos)
                 https://github.com/samschott/maestral (Open-source Dropbox client for macOS and Linux)
-                https://github.com/sekey/sekey (Use Touch ID / Secure Enclave for SSH Authentication!)
                 https://github.com/serhii-londar/open-source-mac-os-apps (🚀 Awesome list of open source applications for macOS.)
                 https://github.com/sindresorhus/macos-trash (Move files and folders to the trash)
                 https://github.com/sveinbjornt/Sloth (Mac app that shows all open files, directories, sockets, pipes and devices in use by all running processes. Nice GUI for lsof. https://sveinbjorn.org/sloth)
@@ -2734,7 +2733,6 @@ Contents:
                 https://isapplesiliconready.com (The complete guide for MacOS Apps Optimized for Apple Silicon Macs and the M1 Processor)
                 https://iterm2.com/documentation-shell-integration.html (iTerm2 Shell Integration)
                 https://macmenubar.com (A curated directory of 850+ Mac menu bar apps)
-                https://macpaw.com/cleanmymac (It cleans megatons of junk and makes your computer run faster)
                 https://monodraw.helftone.com (Powerful ASCII art editor designed for the Mac)
                 https://news.ycombinator.com/item?id=19515627 (Ask HN: What are your favorite utility desktop apps?)
                 https://objective-see.com/products.html (Free Mac Security Tools)
@@ -4442,6 +4440,7 @@ Contents:
                 https://cse.google.com/cse/publicurl?cx=011394183039475424659:5bfyqg89ers (Google Custom Search Engine for Ebooks)
                 irc://irc.irchighway.net/ebooks
                 irc://irc.undernet.org/bookz
+                https://book.sv (I scraped 3B Goodreads reviews to train a better recommendation model)
 
         Kindle:
             Sources:
