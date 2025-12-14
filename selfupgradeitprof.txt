@@ -5415,12 +5415,12 @@ Contents:
                 https://pinboard.in/u:SharjeelSayed/t:torrent
 
             Sites: (Sorted by Alexa Rank)
-                https://yts.mx (402)
                 https://1337x.to (415) (https://1337x-status.org )
+                https://nyaa.si (1,080 similarweb.com))
+                https://eztvx.to (3,713 similarweb.com))
                 https://rutracker.org (537)
                 https://www.limetorrents.lol (2,951)
-                https://torrentgalaxy.to (4,765)
-                \https://www.qbittorrent.org (32,011)
+                https://www.qbittorrent.org (32,011)
                 https://www.myanonamouse.net (42,501)
                 https://put.io (45,131)
 
@@ -5597,7 +5597,7 @@ Contents:
                 https://youtu.be/9_QsCLYs2mY?si=8b8_Vq0c2OoUS6XY (How a Mechanical Watch Works by Animagraffs)
                 https://youtu.be/e81aZ-qYzrE?si=QwgPesgnTKv5k0KA (Watches That Changed The Industry Forever by Teddy Baldassarre)
                 https://youtu.be/fMncXiA-AuE (Tachymeter Explained! (5 examples) by Erik Ternsjö)
-                https://youtu.be/p430TQ0TSSM?si=iKhlOVvdw7D2JpY7 (Our Most Worn Watches Of The Year for 2024 (Over 40 Channels Mentioned) by Teddy Baldassarre)
+                https://youtu.be/kRJWASDPBls?si=frjxvVWe0lhgPwJx (Our Most Worn Watches Of The Year for 2025 (35 Creators Featured) by Teddy Baldassarre)
                 https://youtu.be/PHis9l8cJks (75 Watch Terms You Need to Know - A Crash Course to Watch Collecting Terminology by Teddy Baldassarre)
                 https://youtu.be/Sy4wusLxTBo (How to Use a Slide Rule on a Watch | Breitling Navitimer by Crown & Caliber by Hodinkee)
 
