@@ -947,6 +947,7 @@ Contents:
                 https://github.com/topgrade-rs/topgrade (Upgrade all the things)
                 https://github.com/Xfennec/progress (Linux tool to show progress for cp, mv, dd, ... (formerly known as cv) )
                 https://ikrima.dev/dev-notes/linux/linux-modern-tools Modern Linux Tools https://github.com/ikrima/gamedevguide )
+                https://github.com/rustdesk/rustdesk (https://rustdesk.com/ Open Source Remote Desktop Software, an alternative to TeamViewer or AnyDesk)
 
             Tutorials:
                 https://0xax.gitbooks.io/linux-insides (A book-in-progress about the linux kernel and its insides.)
@@ -3270,6 +3271,7 @@ Contents:
                 https://www.reddit.com/r/Android+GalaxyS24Ultra+androidapps+samsung (Android, Galaxy S24 Ultra, Android Apps, Samsung Subreddits)
                 https://www.theverge.com/23674658/best-android-phone (The best Android phones)
                 https://youtu.be/sfyL4BswUeE?si=FYws2nUrsemB-Y8f (Smartphone Awards 2025! by Marques Brownlee)
+                https://youtu.be/ZdO82BBni0M?si=4iElP5SXg9fIRqHS (Which SMARTPHONES Do We Actually Use? 2025/26 Edition ft. MKBHD, Linus Tech Tips + More by SuperSaf)
 
             Books and Courses:
                 https://github.com/ax/apk.sh (apk.sh makes reverse engineering Android apps easier, automating some repetitive tasks like pulling, decoding, rebuilding and patching an APK.)
@@ -3294,6 +3296,7 @@ Contents:
                 https://github.com/GoogleCloudPlatform/generative-ai (https://cloud.google.com/vertex-ai/docs/generative-ai/learn/overview Sample code and notebooks for Generative AI on Google Cloud)
                 https://github.com/topics/llm (Large Language Model GitHub Repos)
                 https://lmarena.ai/leaderboard (Chatbot Arena LLM Leaderboard: Community-driven Evaluation for Best LLM and AI chatbots.See how leading models stack up across text, image, vision, and beyond. )
+                https://openrouter.ai/state-of-ai (An Empirical 100 Trillion Token Study with OpenRouter)
                 https://scale.com/leaderboard (SEAL LLM Leaderboards evaluate agentic, frontier, safety, and public-sentiment of the latest LLMs.)
                 https://wuu73.org/blog/aiguide1.html (How I Code with AI on a budget/free)
                 https://www.reddit.com/r/LocalLLaMA (Subreddit to discuss about Llama, the large language model created by Meta AI.)
@@ -5251,57 +5254,49 @@ Contents:
 
         Backup:
             Sources:
-                http://gaul.org/object-store-comparison
-                https://clonezilla.org (Clonezilla is a partition and disk imaging/cloning program similar to True Image® or Norton Ghost®.)
-                https://cryptomator.org (Cryptomator encrypts your data quickly and easily. Afterwards you upload them protected to your favorite cloud service)
+                http://gaul.org/object-store-comparison (Object Store comparison)
                 https://db.tt/YL0e12GN (Dropbox 500 MB of bonus space)
                 https://git-annex.branchable.com (git-annex allows managing large files with git, without storing the file contents in git. It can sync, backup, and archive your data, offline and online. )
                 https://github.com/aliparlakci/bulk-downloader-for-reddit (Downloads and archives content from reddit)
                 https://github.com/ArchiveBox/ArchiveBox (https://archivebox.io 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...)
                 https://github.com/gilbertchen/benchmarking (A performance comparison of Duplicacy, restic, Attic, and duplicity )
                 https://github.com/gilbertchen/cloud-storage-comparison (Performance comparisons of cloud backup storages as Duplicacy backends)
-                https://github.com/gilbertchen/duplicacy (https://duplicacy.com A new generation cloud backup tool)
-                https://github.com/gildas-lormeau/single-file-cli (CLI tool for saving a faithful copy of a complete web page in a single HTML file)
-                https://github.com/instaloader/instaloader (Download pictures (or videos) along with their captions and other metadata from Instagram.)
-                https://github.com/jbruchon/jdupes
-                https://github.com/KurtBestor/Hitomi-Downloader (🍰 Desktop utility to download images/videos/music/text from various websites, and more.)
-                https://github.com/mikf/gallery-dl (Command-line program to download image galleries and collections from several image hosting sites)
                 https://github.com/restic/others (Exhaustive list of backup solutions for Linux)
                 https://github.com/schollz/croc (Easily and securely send things from one computer to another 🐊 📦)
                 https://github.com/shadowmoose/RedditDownloader (Scrapes Reddit to download media of your choice.)
-                https://github.com/simon987/awesome-datahoarding
-                https://github.com/soimort/you-get (https://you-get.org ⏬ Dumb downloader that scrapes the web)
+                https://github.com/simon987/awesome-datahoarding (List of data-hoarding related tools )
                 https://github.com/topics/backup?o=desc&s=stars
                 https://github.com/widevinedump (Tools to Download Netflix / Disney / Apple TV Content)
-                https://github.com/Y2Z/monolith (⬛️ CLI tool for saving complete web pages as a single HTML file )
-                https://github.com/yt-dlp/yt-dlp (A youtube-dl fork with additional features and fixes)
-                https://indown.io/insta-dp-viewer (Instagram DP Download)
                 https://mega.nz/C!vuhRiKpB (Mega.nz Extra Storage)
                 https://news.ycombinator.com/item?id=17603348 (Ask HN: How do you backup your files without depending on a third party service?)
                 https://news.ycombinator.com/item?id=18692844 (Ask HN: Best Centralized Backup Solution)
                 https://news.ycombinator.com/item?id=29209455 (Restic – Backups Done Right (restic.net))
                 https://nuetzlich.net/gocryptfs/comparison
                 https://restic.readthedocs.io/en/stable/100_references.html#design
-                https://ruderich.org/simon/notes/append-only-backups-with-restic-and-rclone
+                https://ruderich.org/simon/notes/append-only-backups-with-restic-and-rclone (Append-only backups with restic and rclone)
                 https://serverfault.com/questions/86048/gpg-what-do-i-need-to-backup/1040984#1040984
-                https://syncthing.net (Syncthing is a continuous file synchronization program.)
                 https://szymonkrajewski.pl/synchronize-local-files-cryptomator-vault
-                https://www.backblaze.com/b2/cloud-storage-pricing.html
-                https://www.reddit.com/r/DataHoarder/comments/axvxwl/anything_cheaper_than_backblaze_b2
-                https://www.tarsnap.com (Online backups for the truly paranoid)
+                https://www.backblaze.com/cloud-storage/pricing (loud storage cost comparison calculator)
 
             Tools:
-                Restic
-                https://restic.net
-
-                rclone - rsync for cloud storage
-                https://rclone.org
-
-                Backblaze B2 Cloud Storage
-                https://www.backblaze.com/b2/cloud-storage.html
-
-                Wasabi Object Storage
-                https://wasabi.com
+                https://clonezilla.org (Clonezilla is a partition and disk imaging/cloning program similar to True Image® or Norton Ghost®.)
+                https://cryptomator.org (Cryptomator encrypts your data quickly and easily. Afterwards you upload them protected to your favorite cloud service)
+                https://github.com/gilbertchen/duplicacy (https://duplicacy.com A new generation cloud backup tool)
+                https://github.com/gildas-lormeau/single-file-cli (CLI tool for saving a faithful copy of a complete web page in a single HTML file)
+                https://github.com/instaloader/instaloader (Download pictures (or videos) along with their captions and other metadata from Instagram.)
+                https://github.com/KurtBestor/Hitomi-Downloader (🍰 Desktop utility to download images/videos/music/text from various websites, and more.)
+                https://github.com/mikf/gallery-dl (Command-line program to download image galleries and collections from several image hosting sites)
+                https://github.com/nicotsx/zerobyte (Backup automation for self-hosters. Built on top of restic )
+                https://github.com/soimort/you-get (https://you-get.org ⏬ Dumb downloader that scrapes the web)
+                https://github.com/Y2Z/monolith (⬛️ CLI tool for saving complete web pages as a single HTML file )
+                https://github.com/yt-dlp/yt-dlp (A youtube-dl fork with additional features and fixes)
+                https://indown.io/insta-dp-viewer (Instagram DP Download)
+                https://rclone.org (Rclone syncs your files to cloud storage)
+                https://restic.net (Restic is a fast, efficient and secure backup program)
+                https://syncthing.net (Syncthing is a continuous file synchronization program.)
+                https://wasabi.com (Wasabi Hot Cloud Storage)
+                https://www.backblaze.com/cloud-storage (Backblaze B2 Cloud Storage)
+                https://www.tarsnap.com (Online backups for the truly paranoid)
 
         Hosting:
             Sources:
@@ -5523,6 +5518,7 @@ Contents:
                 https://en.wikipedia.org/wiki/List_of_most_expensive_films (List of most expensive films)
                 https://en.wikipedia.org/wiki/List_of_most_expensive_television_series (List of most expensive television series)
                 https://en.wikipedia.org/wiki/The_World_at_War (The World at War is a 26-episode British documentary television series that chronicles the events of the Second World War.)
+                https://github.com/Free-TV/IPTV (M3U Playlist for free TV channels )
                 https://github.com/greybax/awesome-IT-films (https://alfilatov.com/awesome-IT-films A curated list of awesome films about IT & geek people.)
                 https://github.com/iptv-org/iptv (Collection of publicly available IPTV channels from all over the world)
                 https://news.ycombinator.com/item?id=16105040 (Ask HN: Great science fiction movies?)
