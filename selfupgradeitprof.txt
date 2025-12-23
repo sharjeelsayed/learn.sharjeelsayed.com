@@ -2154,6 +2154,7 @@ Contents:
         Git:
             Sources:
                 https://blog.martinhujer.cz/dont-put-idea-vscode-directories-to-projects-gitignore (Don't put .idea and .vscode directories to project's .gitignore)
+                https://docs.github.com/en/repositories/releasing-projects-on-github/linking-to-releases (Linking to the latest release)
                 https://firstaidgit.io (A searchable collection of the most frequently asked Git Questions)
                 https://git-stars.org (Uncover the most trending GitHub repositories, explore programming languages, and connect with top developers in the open source ecosystem.)
                 https://gitexplorer.com (Find the right commands you need without digging through the web)
@@ -2522,6 +2523,7 @@ Contents:
                 https://github.com/EFForg/rayhunter (https://efforg.github.io/rayhunter Rust tool to detect cell site simulators on an orbic mobile hotspot )
                 https://github.com/EmenstaNougat/ESP32-BlueJammer (https://esp32-bluejammerflasher.pages.dev The ESP32-BlueJammer (Bluetooth jammer, BLE jammer, WiFi jammer, RC jammer) disrupts 2.4GHz communications. Using an ESP32 and nRF24 modules, it generates noise and unnecessary packets, causing interference between the devices communicating, making them unable to work as intended. Ideal for controlled disruption and security testing. )
                 https://github.com/gchq/CyberChef (https://gchq.github.io/CyberChef The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis)
+                https://github.com/GreyDGL/PentestGPT (A GPT-empowered penetration testing tool )
                 https://github.com/hashcat/hashcat (https://hashcat.net/hashcat https://github.com/hashcat/hashcat)
                 https://github.com/HotCakeX/Harden-Windows-Security (Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels)
                 https://github.com/HunxByts/GhostTrack (Useful tool to track location or mobile number)
@@ -3370,6 +3372,7 @@ Contents:
                     https://e2eml.school/transformers.html (Transformers from Scratch)
                     https://fleuret.org/dlc (François Fleuret's deep-learning courses 14x050 of the University of Geneva, Switzerland)
                     https://fleuret.org/public/lbdl.pdf (The Little Book of Deep Learning by François Fleuret)
+                    https://github.com/afshinea/stanford-cs-229-machine-learning (https://stanford.edu/~shervine/teaching/cs-229 VIP cheatsheets for Stanford's CS 229 Machine Learning )
                     https://github.com/dair-ai/ML-Papers-of-the-Week (🔥Highlighting the top ML papers every week.)
                     https://github.com/dair-ai/ML-YouTube-Courses (📺 Discover the latest machine learning / AI courses on YouTube.)
                     https://github.com/dair-ai/Prompt-Engineering-Guide (🐙 Guides, papers, lecture, notebooks and resources for prompt engineering )
@@ -3740,6 +3743,7 @@ Contents:
                 https://github.com/emmabostian/developer-portfolios (A list of developer portfolios for your inspiration)
                 https://github.com/jankapunkt/latexcv (👔 A collection of cv and resume templates written in LaTeX. Leave an issue if your language is not supported!)
                 https://github.com/posquit0/Awesome-CV (📄 Awesome CV is LaTeX template for your outstanding job application)
+                https://github.com/rendercv/rendercv (https://docs.rendercv.com Typst-based CV/resume generator for academics and engineers )
                 https://github.com/saadq/resumake.io (https://resumake.io 📝 A website for automatically generating elegant LaTeX resumes.)
                 https://github.com/salomonelli/best-resume-ever (https://salomonelli.github.io/best-resume-ever 👔 💼 Build fast 🚀 and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.)
                 https://github.com/xitanggg/open-resume (https://open-resume.com OpenResume is a powerful open-source resume builder and resume parser)
