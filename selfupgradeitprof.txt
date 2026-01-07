@@ -117,6 +117,7 @@ Contents:
         BitTorrent
         BackPacks
         Survival
+        History
         Games
         Chess
         Weather
@@ -660,7 +661,7 @@ Contents:
                 https://redis.com/blog/datasets-for-test-databases (Groovy datasets for test databases)
                 https://sp23.datastructur.es (CS 61b data structures, spring 2023)
                 https://tontinton.com/posts/database-fundementals (Database Fundamentals)
-                https://www.cs.cmu.edu/~pavlo/blog/2025/01/2024-databases-retrospective.html (Databases in 2024: A Year in Review)
+                https://www.cs.cmu.edu/~pavlo/blog/2026/01/2025-databases-retrospective.html (Databases in 2025: A Year in Review)
                 https://www.dedp.online (Book: Data Engineering Design Patterns (DEDP))
                 https://www.reddit.com/r/database
                 https://pinboard.in/u:SharjeelSayed/t:db
@@ -2541,7 +2542,9 @@ Contents:
                 https://github.com/pirxthepilot/wtfis (Passive hostname, domain and IP lookup tool for non-robots)
                 https://github.com/prowler-cloud/prowler (https://prowler.pro Prowler is an Open Source Security tool for AWS, Azure and GCP to perform Cloud Security best practices assessments, audits, incident response, compliance, continuous monitoring, hardening and forensics readiness. Includes CIS, NIST 800, NIST CSF, CISA, FedRAMP, PCI-DSS, GDPR, HIPAA, FFIEC, SOC2, GXP, Well-Architected Security, ENS and more.)
                 https://github.com/prowler-cloud/prowler (https://prowler.pro Prowler is an Open Source Security tool for AWS, Azure and GCP to perform Cloud Security best practices assessments, audits, incident response, compliance, continuous monitoring, hardening and forensics readiness. Includes CIS, NIST 800, NIST CSF, CISA, FedRAMP, PCI-DSS, GDPR, HIPAA, FFIEC, SOC2, GXP, Well-Architected Security, ENS and more.)
+                https://github.com/qeeqbox/social-analyzer (API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites)
                 https://github.com/robertdavidgraham/masscan (TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.)
+                https://github.com/sherlock-project/sherlock (🔎 Hunt down social media accounts by username across social networks https://sherlock-project.github.io)
                 https://github.com/stamparm/maltrail (Malicious traffic detection system )
                 https://github.com/Stanford-Trinity/ARTEMIS (ARTEMIS is an autonomous agent created by the Stanford Trinity project to automate vulnerability discovery.)
                 https://github.com/steveiliop56/tinyauth (https://tinyauth.app The simplest way to protect your apps with a login screen. )
@@ -4196,8 +4199,10 @@ Contents:
         Foreign Language:
             Source:
                 https://duome.eu/tips/en (Duolingo's language notes all on one page)
+                https://github.com/automattic/harper (https://writewithharper.com Offline, privacy-first grammar checker. Fast, open-source, Rust-powered )
                 https://news.ycombinator.com/item?id=30467597 (How I learned French in 12 months (2020) (runwes.com))
                 https://www.reddit.com/r/dataisbeautiful/comments/12bdj40/oc_most_spoken_languages_in_the_world_by_country ([OC] Most spoken languages in the world)
+                https://youglish.com (Use YouTube to improve your English pronunciation. With more than 100M tracks, YouGlish gives you fast, unbiased answers about how English is spoken by real people and in context.)
 
             Books and Courses: (Sorted by Alexa Rank)
                 https://www.duolingo.com (683)
@@ -5464,6 +5469,14 @@ Contents:
                 Bushcraft 101: A Field Guide to the Art of Wilderness Survival
                 https://www.amazon.com/Bushcraft-101-Field-Wilderness-Survival/dp/1440579776
 
+        History:
+            Sources:
+                https://www.historicaltechtree.com (An interactive timeline of the history of technology, from the Stone Age to the present day)
+                https://www.oldmapsonline.org/en/history (Interactive Map of History)
+                https://www.reddit.com/r/dataisbeautiful/comments/11sw2co/oc_who_lived_when_i_charted_out_the_overlapping ([OC] Who Lived When? I charted out the overlapping lives of historical figures, from 1400 to today)
+                https://www.youtube.com/playlist?list=PLBDA2E52FB1EF80C9 (World History by CrashCourse)
+                https://youtu.be/__BaaMfiD0Q?si=Y1OerF3LAx3BsCVu (Timeline of World History | Major Time Periods & Ages  by UsefulCharts)
+
         Games:
             Sources:
                 https://en.wikipedia.org/wiki/List_of_best-selling_game_consoles
@@ -5695,8 +5708,13 @@ Contents:
                 https://leathertainment.notion.site (Tanner’s Club - Leather Brand Guide)
                 https://realstyle.therealreal.com/trr-full-resale-report-2024 (The RealReal’s FULL 2024 Resale Report)
                 https://www.cushmanwakefield.com/en/belgium/news/2025/11/londons-new-bond-street-most-expensive-retail-destination-in-the-world (most expensive retail destination in the world,)
+                https://www.reddit.com/r/dataisbeautiful/comments/ujuui4/oc_the_most_discussed_brands_on_rbuyitforlife (OC: The most discussed brands on r/BuyItForLife)
+                https://www.reddit.com/r/dataisbeautiful/comments/vsp9yu/oc_the_most_and_least_popular_brands_on ([OC] The most and least popular brands on r/BuyItForLife)
+                https://www.reddit.com/r/EDC/comments/7j7lrs/edc_starter_pack_an_arbitrary_list_of_gear_that (EDC Starter Pack: An Arbitrary List of Gear that Gets Recommended a Lot)
+                https://www.reddit.com/r/EDC/comments/ur36lf/i_analyzed_the_top_50_most_mentioned_products_on (I analyzed the top 50 most mentioned products on r/EDC)
                 https://www.reddit.com/r/Louisvuitton+OUTFITS+TheHermesGame+femalefashionadvice+fragrance+jewelry+malefashionadvice
                 https://www.statista.com/statistics/267948/brand-value-of-the-leading-10-most-valuable-luxury-brands-worldwide (Brand value of the leading 10 most valuable luxury brands worldwide)
+                https://www.walletopia.info (Wallert Reviews and Comparisons)
 
             Fashion Magazines (sorted by similarweb rank)
                 https://www.elle.com (1,250)
@@ -5785,7 +5803,6 @@ Contents:
             https://drawabox.com (Drawabox is a set of free exercise-based lessons that focus on the fundamentals of drawing)
             https://en.wikipedia.org/wiki/List_of_lists_of_lists
             https://en.wikipedia.org/wiki/List_of_most_valuable_brands (List of most valuable brands)
-            https://en.wikipedia.org/wiki/List_of_most_valuable_brands (List of most valuable brands)
             https://en.wikipedia.org/wiki/List_of_tallest_residential_buildings (List of tallest residential buildings)
             https://en.wikipedia.org/wiki/Lists_of_most_expensive_items_by_category (Lists of most expensive items by category)
             https://en.wikipedia.org/wiki/Space_Pen (Space Pen by Fisher Space Pen Company)
@@ -5797,7 +5814,6 @@ Contents:
             https://github.com/antontarasenko/smq/blob/master/reports/hackernews-links-in-comments.md (Most mentioned links in Hacker News comments, 2006–2015)
             https://github.com/arcataroger/awesome-engineering-games (A curated list of engineering-related video games rated Very Positive or higher on Steam )
             https://github.com/ArduPilot/ardupilot (https://ardupilot.org ArduPilot is a trusted, versatile, and open source autopilot system supporting many vehicle types: multi-copters, traditional helicopters, fixed wing aircraft, boats, submarines, rovers and more. )
-            https://github.com/automattic/harper (https://writewithharper.com Offline, privacy-first grammar checker. Fast, open-source, Rust-powered )
             https://github.com/bobeff/open-source-games (A list of open source games.)
             https://github.com/btw-so/open-source-alternatives (List of open-source alternatives to everyday SaaS products.)
             https://github.com/C4illin/ConvertX (💾 Self-hosted online file converter. Supports 1000+ formats ⚙️)
@@ -5811,9 +5827,7 @@ Contents:
             https://github.com/kanbn/kan (https://kan.bn The open source Trello alternative. )
             https://github.com/mendel5/alternative-front-ends (Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.))
             https://github.com/NotJoeMartinez/yt-fts (Youtube Full Text Search - Search all of a YouTube channel's subtitles from the command line)
-            https://github.com/qeeqbox/social-analyzer (API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites)
             https://github.com/RunaCapital/awesome-oss-alternatives (Awesome list of open-source startup alternatives to well-known SaaS products)
-            https://github.com/sherlock-project/sherlock (🔎 Hunt down social media accounts by username across social networks https://sherlock-project.github.io)
             https://github.com/topics/awesome (Awesome Lists)
             https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday (Awesome deals on Black Friday: Apps, SaaS, Books, Courses, etc.)
             https://github.com/VERT-sh/VERT (https://vert.sh The next-generation file converter. Open source, fully local* and free forever. )
@@ -5848,31 +5862,22 @@ Contents:
             https://www.amazon.com/Best-Sellers-Health-Household-Power-Toothbrushes/zgbs/hpc/18065347011 (Best Sellers in Power Toothbrushes)
             https://www.construction-physics.com/p/why-is-it-so-hard-to-build-an-airport (Why Is It So Hard to Build an Airport?)
             https://www.domestika.org (Best online courses for creatives)
-            https://www.historicaltechtree.com (An interactive timeline of the history of technology, from the Stone Age to the present day)
             https://www.isthistechdead.com (Tracking the pulse of tech that flatlined years ago)
             https://www.kantar.com/north-america/company-news/louis-vuitton-reigns-as-the-worlds-most-valuable-luxury-brand-for-the-18th-year (Top 10 Most Valuable Global Luxury Brands 2023)
             https://www.lifeisshort.fyi/calendar (A life calendar to remind us how much time we have left to live — Turns your lifespan into a calendar of weeks so you actually feel time passing.)
             https://www.looria.com/reddit/BuyItForLife/brand-popularity (The most popular brands on r/BuyItForLife)
             https://www.nala.ie/resources/better-handwriting-adults
-            https://www.oldmapsonline.org/en/history (Interactive Map of History)
             https://www.pricelevel.com (PriceLevel gives you visibility into the price hidden behind "Contact Us".)
             https://www.producthunt.com (The place to launch and discover new tech products)
-            https://www.reddit.com/r/AskReddit/comments/4q91g9/what_free_things_online_should_everyone_take/d4r8foy
-            https://www.reddit.com/r/AskReddit/comments/6k0p7l/what_are_the_best_free_online_certificates_you
-            https://www.reddit.com/r/AskReddit/comments/6q2b8x/reddit_whats_become_clear_to_you_as_youve_gotten
-            https://www.reddit.com/r/AskReddit/comments/70q5f2/reddit_what_are_the_most_useful_askreddit_posts
+            https://www.reddit.com/r/AskReddit/comments/4q91g9/what_free_things_online_should_everyone_take/d4r8foy (What free things online should everyone take advantage of?)
+            https://www.reddit.com/r/AskReddit/comments/6k0p7l/comment/djjdwrk (Reddit: What are the best free online certificates you can complete that will actually look good on a resume?)
+            https://www.reddit.com/r/AskReddit/comments/6q2b8x/reddit_whats_become_clear_to_you_as_youve_gotten (Reddit, what's become clear to you as you've gotten older? )
+            https://www.reddit.com/r/AskReddit/comments/70q5f2/reddit_what_are_the_most_useful_askreddit_posts (Reddit, what are the most useful askreddit posts? )
             https://www.reddit.com/r/BuyItForLife/comments/vxeudm/i_analyzed_the_most_and_least_popular_brands_on (I analyzed the most and least popular brands on r/BuyItForLife)
-            https://www.reddit.com/r/dataisbeautiful/comments/11sw2co/oc_who_lived_when_i_charted_out_the_overlapping ([OC] Who Lived When? I charted out the overlapping lives of historical figures, from 1400 to today)
             https://www.reddit.com/r/dataisbeautiful/comments/1evjgxu/a_pixel_for_every_50000_people_in_the_world (A pixel for every 50,000 people in the world)
-            https://www.reddit.com/r/dataisbeautiful/comments/ujuui4/oc_the_most_discussed_brands_on_rbuyitforlife (OC: The most discussed brands on r/BuyItForLife)
-            https://www.reddit.com/r/dataisbeautiful/comments/vsp9yu/oc_the_most_and_least_popular_brands_on ([OC] The most and least popular brands on r/BuyItForLife)
-            https://www.reddit.com/r/EDC/comments/7j7lrs/edc_starter_pack_an_arbitrary_list_of_gear_that (EDC Starter Pack: An Arbitrary List of Gear that Gets Recommended a Lot)
-            https://www.reddit.com/r/EDC/comments/ur36lf/i_analyzed_the_top_50_most_mentioned_products_on (I analyzed the top 50 most mentioned products on r/EDC)
             https://www.reddit.com/r/india/wiki/useful_posts (r/india Useful Posts)
             https://www.thisiswhyimbroke.com (ThisIsWhyImBroke is where you'll find cool gift ideas, unique products, and awesome birthday and Christmas gift ideas.)
             https://www.visionofhumanity.org/maps (Global Peace Index Maps)
-            https://www.vox.com/science-and-health/2019/8/23/20828597/the-10000-hour-rule-debunked (The “10,000-hour rule” was debunked again. That’s a relief.)
-            https://youglish.com (Use YouTube to improve your English pronunciation. With more than 100M tracks, YouGlish gives you fast, unbiased answers about how English is spoken by real people and in context.)
 
     Support this project with these referral links:
         https://m.do.co/c/d3160b5e33e8 (DigitalOcean Credits)
