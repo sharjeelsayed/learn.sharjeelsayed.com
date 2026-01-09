@@ -256,6 +256,7 @@ Contents:
                 https://github.com/freeCodeCamp/devdocs (https://devdocs.io API Documentation Browser )
                 https://github.com/kdeldycke/awesome-falsehood (😱 Falsehoods Programmers Believe in)
                 https://github.com/Kuchin/Awesome-Cto (A Curated And Opinionated List Of Resources For Chief Technology Officers, With The Emphasis On Startups)
+                https://github.com/marcelscruz/public-apis (https://publicapis.dev A collaborative list of public APIs for developers )
                 https://github.com/n8n-io/n8n (https://n8n.io Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. )
                 https://github.com/public-apis/public-apis (A collective list of free APIs)
                 https://github.com/rShetty/awesome-podcasts (List of podcasts which are helpful for software engineers/programmers. )
@@ -4717,6 +4718,7 @@ Contents:
                 https://en.wikipedia.org/wiki/Lists_of_important_publications_in_science
                 https://en.wikipedia.org/wiki/Timeline_of_the_evolutionary_history_of_life (Timeline of the evolutionary history of life)
                 https://en.wikipedia.org/wiki/Timeline_of_the_far_future (Timeline of the far future)
+                https://en.wikipedia.org/wiki/Tit_for_tat (A highly effective strategy in game theory.)
                 https://en.wikipedia.org/wiki/Yakov_Perelman (Yakov Perelman)
                 https://hn.algolia.com/?query=documentaries&sort=byPopularity&prefix&page=0&dateRange=all&type=story (HN Documentaries)
                 https://news.ycombinator.com/item?id=17272715 (Ask HN: Any resources to learn the fundamentals of critical thinking?)
@@ -5127,6 +5129,7 @@ Contents:
                 https://news.ycombinator.com/item?id=29758396 (Ask HN: Best Engineering Blog Posts?)
                 https://news.ycombinator.com/item?id=30245247 (Ask HN: Great Blogs by Programmers)
                 https://news.ycombinator.com/item?id=9836023 (Ask HN: What tech blogs, podcasts do you follow outside of HN?)
+                https://refactoringenglish.com/blog/2025-hn-top-5 (The Most Popular Blogs of Hacker News in 2025)
                 https://refactoringenglish.com/tools/hn-popularity (The highest-ranking personal blogs of Hacker News https://go.bsky.app/HmV5x47 (Blue Sky Accounts))
                 https://refined.blog (Curated list of personal blogs)
                 https://softwareengineeringdaily.com
