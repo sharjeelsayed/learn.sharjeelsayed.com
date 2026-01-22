@@ -403,6 +403,7 @@ Contents:
         Computer Architecture:
             Sources:
                 https://en.wikipedia.org/wiki/Federico_Faggin (Designed the first commercial microprocessor)
+                https://github.com/adam-maj/tiny-gpu (A minimal GPU design in Verilog to learn how GPUs work from the ground up )
                 https://github.com/hackclub/putting-the-you-in-cpu (A technical explainer by @kognise of how your computer runs programs, from start to finish. https://cpu.land)
                 https://news.ycombinator.com/item?id=14526344 (Build a Modern Computer from First Principles: Nand to Tetris Part II)
                 https://news.ycombinator.com/item?id=42793597 (Simple CPU Design (simplecpudesign.com))
@@ -946,10 +947,11 @@ Contents:
                 https://github.com/linuxmint/timeshift (System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB. )
                 https://github.com/microsoft/ProcMon-for-Linux (A Linux version of the Procmon Sysinternals tool )
                 https://github.com/muesli/duf (Disk Usage/Free Utility - a better 'df' alternative)
+                https://github.com/rustdesk/rustdesk (https://rustdesk.com/ Open Source Remote Desktop Software, an alternative to TeamViewer or AnyDesk)
                 https://github.com/topgrade-rs/topgrade (Upgrade all the things)
                 https://github.com/Xfennec/progress (Linux tool to show progress for cp, mv, dd, ... (formerly known as cv) )
+                https://github.com/xpipe-io/xpipe (https://xpipe.io Access your entire server infrastructure from your local desktop )
                 https://ikrima.dev/dev-notes/linux/linux-modern-tools Modern Linux Tools https://github.com/ikrima/gamedevguide )
-                https://github.com/rustdesk/rustdesk (https://rustdesk.com/ Open Source Remote Desktop Software, an alternative to TeamViewer or AnyDesk)
 
             Tutorials:
                 https://0xax.gitbooks.io/linux-insides (A book-in-progress about the linux kernel and its insides.)
@@ -1196,6 +1198,7 @@ Contents:
                 https://github.com/Atlas-OS/Atlas (https://atlasos.net 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability. )
                 https://github.com/Awesome-Windows/Awesome (💻 🎉 An awesome & curated list of best applications and tools for Windows.)
                 https://github.com/ChrisTitusTech/winutil (Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates)
+                https://github.com/DavidXanatos/TaskExplorer (https://xanasoft.com Power full Task Manager )
                 https://github.com/dockur/windows (Windows inside a Docker container.)
                 https://github.com/eythaann/Seelen-UI (The Fully Customizable Desktop Environment for Windows 10/11.)
                 https://github.com/HotCakeX/Harden-Windows-Security (Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels)
@@ -1204,6 +1207,7 @@ Contents:
                 https://github.com/microsoft/terminal (The new Windows Terminal and the original Windows console host, all in the same place! )
                 https://github.com/ntdevlabs/tiny11builder (Scripts to build a trimmed-down Windows 11 image.)
                 https://github.com/Raphire/Win11Debloat (A simple, easy to use powershell script to remove bloatware apps from windows, disable telemetry, bing in windows search aswell as perform various other changes to declutter and improve your windows experience. This script works for both windows 10 and windows 11.)
+                https://github.com/zoicware/RemoveWindowsAI (Force Remove Copilot, Recall and More in Windows 11 )
 
             Books and Courses:
                 Windows Server documentation - Microsoft
@@ -1919,6 +1923,7 @@ Contents:
                 https://galaxy.ansible.com
                 https://github.com/ansible/ansible-lint (checks playbooks for practices and behaviour that could potentially be improved.)
                 https://github.com/Artemmkin/infrastructure-as-code-tutorial
+                https://github.com/dev-sec/ansible-collection-hardening (https://dev-sec.io This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL)
                 https://github.com/dev-sec/ansible-os-hardening
                 https://github.com/topics/ansible?o=desc&s=stars
                 https://www.ansible.com/blog/providing-terraform-with-that-ansible-magic (Providing Terraform with that Ansible Magic)
@@ -2100,6 +2105,7 @@ Contents:
                 https://github.com/dhamaniasad/awesome-postgres (A curated list of awesome PostgreSQL software, libraries, tools and resources, inspired by awesome-mysql)
                 https://github.com/okbob/pspg (Unix pager designed for work with tables. Designed for PostgreSQL, but MySQL is supported too. Now it can be used as CSV or TSV viewer. Works well with pgcli too.)
                 https://github.com/Olshansk/postgres_for_everything (How to reduce complexity and move faster? Just Postgres for everything.)
+                https://github.com/timescale/pg-aiguide (MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL code. )
                 https://github.com/topics/postgresql?o=desc&s=stars
                 https://marketplace.visualstudio.com/items?itemName=ms-ossdata.vscode-pgsql (Develop PostgreSQL applications everywhere by Microsoft)
                 https://news.ycombinator.com/item?id=23208181 (Ask HN: What PostgreSQL client do you use?)
@@ -2719,6 +2725,7 @@ Contents:
                 https://flexibits.Com/fantastical (Calendar App)
                 https://folivora.ai/keyboardcleantool (A super simple little tool which blocks all Keyboard and TouchBar input)
                 https://github.com/actuallymentor/battery (CLI for managing the battery charging status for M1 Macs)
+                https://github.com/agrinman/tunnelto (https://tunnelto.dev Expose your local web server to the internet with a public URL. )
                 https://github.com/apple/container (https://apple.github.io/container/documentation A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It's written in Swift, and optimized for Apple silicon. )
                 https://github.com/artginzburg/sudo-touchid ( Permanent TouchID support 👆 for `sudo`.)
                 https://github.com/caldis/mos (A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS )
@@ -2864,6 +2871,7 @@ Contents:
                 https://hackr.io
                 https://hourups.com (171 hand-picked crash courses from the best instructors on YouTube)
                 https://lbry.com/news/20000-illegal-college-lectures-rescued
+                https://learn-anything.xyz (Learn Anything is a learning platform that organizes knowledge in a social way.)
                 https://learning.oreilly.com
                 https://lifehacker.com/tag/lifehacker-u
                 https://news.ycombinator.com/item?id=10644518 (Ask HN: What's your favorite online course?)
@@ -2896,7 +2904,7 @@ Contents:
                 https://www.reddit.com/r/Udemy+udemyfreebies
                 https://www.sololearn.com
                 https://www.techlinks.in/udemy-free-coupons (Free Udemy, Cousera, Eudonix Courses And Coupons)
-                https://www.timeshighereducation.com/world-university-rankings/latest/world-ranking (Times Higher Education World University Rankings 2025)
+                https://www.timeshighereducation.com/world-university-rankings/latest/world-ranking (Times Higher Education World University Rankings)
                 https://www.topuniversities.com/world-university-rankings (QS World University Rankings)
                 https://www.tutorialbar.com (Udemy Coupons)
                 https://www.udacity.com/courses/all
@@ -4279,6 +4287,7 @@ Contents:
             Sources:
                 http://ebin.city/~werwolf/posts/firefox-hardening-guide
                 https://browser.engineering (This book explains, building a basic but complete web browser, from networking to JavaScript, in a thousand lines of Python.)
+                https://github.com/corbindavenport/just-the-browser (https://justthebrowser.comn Remove AI features, telemetry data reporting, sponsored content, product integrations, and other annoyances from web browsers. )
                 https://github.com/linkwarden/linkwarden (https://linkwarden.app ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and documents.)
                 https://github.com/topics/bookmark-manager?o=desc&s=stars (Bookmark Manager)
                 https://news.ycombinator.com/item?id=22105561 (Ask HN: How do you manage your bookmarks?)
@@ -5825,11 +5834,13 @@ Contents:
             https://github.com/goenning/google-indexing-script (https://seogets.com/blog/google-indexing-script Google Indexing Script)
             https://github.com/gothinkster/realworld ("The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more)
             https://github.com/henki-robotics/robotics_essentials_ros2 (Learn the basics of robotics through hands-on experience using ROS 2 and Gazebo simulation. )
+            https://github.com/icloud-photos-downloader/icloud_photos_downloader (A command-line tool to download photos from iCloud)
             https://github.com/jbranchaud/til (Today I Learned)
             https://github.com/jnv/lists (The definitive list of lists (of lists) curated on GitHub and elsewhere )
             https://github.com/kanbn/kan (https://kan.bn The open source Trello alternative. )
             https://github.com/mendel5/alternative-front-ends (Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.))
             https://github.com/NotJoeMartinez/yt-fts (Youtube Full Text Search - Search all of a YouTube channel's subtitles from the command line)
+            https://github.com/Pankajtanwarbanna/stfu (https://stfu.pankajtanwar.in A tiny app that plays back the same audio it hears, delayed by ~2 seconds.)
             https://github.com/RunaCapital/awesome-oss-alternatives (Awesome list of open-source startup alternatives to well-known SaaS products)
             https://github.com/topics/awesome (Awesome Lists)
             https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday (Awesome deals on Black Friday: Apps, SaaS, Books, Courses, etc.)
@@ -5838,7 +5849,6 @@ Contents:
             https://github.com/zed-industries/zed (https://zed.dev Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter)
             https://hackerspaces.org (Hackerspaces are community-operated physical places, where people share their interest in tinkering with technology, meet and work on their projects, and learn from each other)
             https://indie.deals (Early launch deals on products made by Indie Makers)
-            https://learn-anything.xyz
             https://lobste.rs/s/0fkc0u/what_is_terminal_based_game_you_ve_played_s (What is a terminal-based game you've played that's worth mentioning?)
             https://looria.com/reddit/overview (Reddit's Favorite Products in One Place)
             https://makeityourself.org (https://n-o-d-e.net/makeityourself.html Make it Yourself is a digital book that showcases this incredible talent, bringing together over 1000 useful DIY projects to demonstrate just what is possible when you make things yourself.)
