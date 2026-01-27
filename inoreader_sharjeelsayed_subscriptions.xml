@@ -16,7 +16,6 @@
       <outline text="GitHub All Languages Daily Trending" title="GitHub All Languages Daily Trending" type="rss" xmlUrl="https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml" htmlUrl="http://mshibanami.github.io/GitHubTrendingRSS"/>
       <outline text="LWN.net" title="LWN.net" type="rss" xmlUrl="https://lwn.net/headlines/newrss" htmlUrl="https://lwn.net/"/>
       <outline text="r/AWSCertifications, r/aws: top scoring links" title="r/AWSCertifications, r/aws: top scoring links" type="rss" xmlUrl="https://burkybang.com/reddit_rss/?rss=r/AWSCertifications%2Baws/top/.rss" htmlUrl="https://www.reddit.com/r/AWSCertifications+aws/top/?t=1640473430"/>
-      <outline text="Slashdot" title="Slashdot" type="rss" xmlUrl="https://rss.slashdot.org/Slashdot/slashdotMain" htmlUrl="https://slashdot.org/"/>
       <outline text="r/devops: top scoring links" title="r/devops: top scoring links" type="rss" xmlUrl="https://burkybang.com/reddit_rss/?rss=r/devops/top/.rss" htmlUrl="https://www.reddit.com/r/devops/top/?t=1628082157"/>
       <outline text="r/Terraform, r/ansible, r/usefulscripts: top scoring links" title="r/Terraform, r/ansible, r/usefulscripts: top scoring links" type="rss" xmlUrl="https://burkybang.com/reddit_rss/?rss=r/Terraform%2Bansible%2Busefulscripts/top/.rss" htmlUrl="https://www.reddit.com/r/Terraform+ansible+usefulscripts/top/?t=1628081632"/>
       <outline text="AWS Official Blog" title="AWS Official Blog" type="rss" xmlUrl="https://aws.amazon.com/blogs/aws/feed/" htmlUrl="https://aws.amazon.com/blogs/aws/"/>
@@ -26,6 +25,8 @@
       <outline text="The GitHub Blog" title="The GitHub Blog" type="rss" xmlUrl="https://github.blog/feed/" htmlUrl="https://github.blog/"/>
       <outline text="FastMail Status" title="FastMail Status" type="rss" xmlUrl="https://www.fastmailstatus.com/feed" htmlUrl="http://www.fastmailstatus.com/feed"/>
       <outline text="News from wikipedia events" title="News from wikipedia events" type="rss" xmlUrl="https://news.vinc.cc/search.atom?q=wikipedia+events" htmlUrl="https://news.vinc.cc/"/>
+      <outline text="Slashdot" title="Slashdot" type="rss" xmlUrl="https://rss.slashdot.org/Slashdot/slashdotMain" htmlUrl="https://slashdot.org/"/>
+      <outline text="Pinboard (popular bookmarks)" title="Pinboard (popular bookmarks)" type="rss" xmlUrl="https://feeds.pinboard.in/rss/popular/" htmlUrl="https://pinboard.in/popular/"/>
     </outline>
     <outline text="News" title="News">
       <outline text="Hacker News 500 points posts" title="Hacker News 500 points posts" type="rss" xmlUrl="https://hnrss.org/newest?points=500" htmlUrl="https://news.ycombinator.com/newest"/>
