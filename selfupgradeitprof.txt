@@ -22,8 +22,9 @@ Contents:
         SysAdmin
         Linux
         FreeBSD
-        ssh
+        Command Line
         Bash
+        ssh
         tmux
         Windows
         Powershell
@@ -1033,42 +1034,53 @@ Contents:
                 The Design and Implementation of the FreeBSD Operating System (2nd Edition)
                 https://www.amazon.com/Design-Implementation-FreeBSD-Operating-System/dp/0321968972
 
+        Command Line:
+            Sources:
+                https://github.com/topics/cli?o=desc&s=stars (Command line interface)
+                https://github.com/topics/command-line?o=desc&s=stars (Command line)
+
+            Tools:
+                https://altbox.dev (A collection of power tools for the Linux/Unix/macOS command line)
+                https://command-not-found.com (Install any command on any operating system and in Docker)
+                https://curlconverter.com (Convert curl commands to Python, JavaScript and more)
+                https://github.com/alebcay/awesome-shell (A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.)
+                https://github.com/charmbracelet/glow (Render markdown on the CLI, with pizzazz! 💅🏻)
+                https://github.com/chubin/awesome-console-services (A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols))
+                https://github.com/ghostty-org/ghostty (https://ghostty.org 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.)
+                https://github.com/icloud-photos-downloader/icloud_photos_downloader (A command-line tool to download photos from iCloud)
+                https://github.com/mpv-player/mpv (https://mpv.io 🎥 Command line media player )
+                https://github.com/NotJoeMartinez/yt-fts (Youtube Full Text Search - Search all of a YouTube channel's subtitles from the command line)
+                https://github.com/vslavik/diff-pdf (A simple tool for visually comparing two PDF files https://vslavik.github.io/diff-pdf)
+                https://muhammadraza.me/2021/Oneliners (My Favorite One Liners)
+                https://www.commandlinefu.com (A collection of command-line gems)
+                https://www.reddit.com/r/usefulscripts (A subreddit for sharing useful scripts and command-line snippets)
+
         Bash:
             Sources:
                 https://en.wikipedia.org/wiki/Snake_case (Snake case naming convention)
-                https://github.com/alebcay/awesome-shell (A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.)
                 https://github.com/alexanderepstein/Bash-Snippets (A collection of small bash scripts for heavy terminal users)
                 https://github.com/Bash-it/bash-it (Bash-it is a collection of community Bash commands and scripts for Bash 3.2+.)
                 https://github.com/ibraheemdev/modern-unix (A collection of modern/faster/saner alternatives or complements to common unix commands.)
                 https://github.com/rothgar/awesome-tuis (List of projects that provide terminal user interfaces )
                 https://github.com/topics/bash?o=desc&s=stars
-                https://github.com/topics/cli?o=desc&s=stars (Command line interface)
-                https://github.com/topics/command-line?o=desc&s=stars (Command line)
                 https://news.ycombinator.com/item?id=14634964 (Ask HN: How can I get better at bash?)
                 https://news.ycombinator.com/item?id=22975437 (Shell Productivity Tips and Tricks (balthazar-rouberol.com))
                 https://news.ycombinator.com/item?id=24880170 (/.bashrc VS –/.profile VS –/.bash_profile (leimao.github.io))
-                https://news.ycombinator.com/item?id=25069452 (Linux Command One-Liners (commandlinefu.com))
-                https://news.ycombinator.com/item?id=27023572 (	My Favorite One Liners (muhammadraza.me))
-                https://news.ycombinator.com/item?id=27615516 (Bash PS1 Generator (bashrcgenerator.com))
-                https://news.ycombinator.com/item?id=27992073 (	Command line tools for productive programmers (earthly.dev))
                 https://news.ycombinator.com/item?id=38819262 (Ugrep – a more powerful, fast, user-friendly, compatible grep (ugrep.com))
                 https://www.gilesorr.com/bashprompt/prompts (Bash Prompts)
-                https://www.reddit.com/r/usefulscripts/top
                 https://pinboard.in/u:SharjeelSayed/t:bash
 
             Tools:
-                https://altbox.dev (A collection of power tools for the Linux/Unix/macOS command line)
                 https://explainshell.com (write down a command-line to see the help text that matches each argument)
                 https://gist.github.com/steinwaywhw/a4cd19cda655b8249d908261a62687f8 (One Liner to Download the Latest Release from Github Repo)
                 https://github.com/atuinsh/atuin (https://atuin.sh ✨ Magical shell history)
                 https://github.com/bgreenwell/doxx (https://bgreenwell.github.io/doxx/doxx Expose the contents of .docx files without leaving your terminal. Fast, safe, and smart — no Office required! )
                 https://github.com/BurntSushi/ripgrep (ripgrep recursively searches directories for a regex pattern while respecting your gitignore )
                 https://github.com/cantino/mcfly (Fly through your shell history. Great Scott!)
-                https://github.com/charmbracelet/glow (Render markdown on the CLI, with pizzazz! 💅🏻)
                 https://github.com/cheat/cheat (cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not frequently enough to remember.)
                 https://github.com/ChrisBuilds/terminaltexteffects (https://chrisbuilds.github.io/terminaltexteffects Visual effects applied to text in the terminal.)
                 https://github.com/ellie/atuin (🐢 Magical shell history)
-                https://github.com/ghostty-org/ghostty (https://ghostty.org 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.)
+
                 https://github.com/gleitz/howdoi (https://blog.gleitzman.com/post/43330157197/howdoi-instant-coding-answers-via-the-command instant coding answers via the command line)
                 https://github.com/jarun/nnn (n³ The unorthodox terminal file manager)
                 https://github.com/junegunn/fzf (https://junegunn.github.io/fzf A command-line fuzzy finder)
@@ -1097,32 +1109,32 @@ Contents:
 
             Books and Courses:
                 Tutorials:
-                http://mywiki.wooledge.org/BashPitfalls (This page is a compilation of common mistakes made by bash users. Each example is flawed in some way.)
-                http://redsymbol.net/articles/unofficial-bash-strict-mode (Use Bash Strict Mode (Unless You Love Debugging))
-                https://andrew-quinn.me/fzf (So you've installed `fzf`. Now what?)
-                https://antonz.org/mastering-curl (Mastering curl: interactive text guide)
-                https://github.com/adrianscheff/useful-sed (Useful sed scripts & patterns)
-                https://github.com/anordal/shellharden/blob/master/how_to_do_things_safely_in_bash.md (Safe ways to do things in bash)
-                https://github.com/bobbyiliev/introduction-to-bash-scripting (https://ebook.bobby.sh Free Introduction to Bash Scripting eBook)
-                https://github.com/dylanaraps/pure-bash-bible (📖 A collection of pure bash alternatives to external processes.)
-                https://github.com/dylanaraps/pure-sh-bible (📖 A collection of pure POSIX sh alternatives to external processes.)
-                https://github.com/jlevy/the-art-of-command-line (Master the command line, in one page)
-                https://github.com/learnbyexample/Command-line-text-processing (⚡ From finding text to search and replace, from sorting to beautifying text and more 🎨 )
-                https://github.com/onceupon/Bash-Oneliner (A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.)
-                https://github.com/phiresky/ripgrep-all/wiki/fzf-Integration (You can use rga interactively via fzf.)
-                https://github.com/pirate/bash-utils (A collection of hand-crafted bash scripts for various common tasks.)
-                https://github.com/pyenv/pyenv/wiki/MacOS-login-shell (Configure the terminal to run your shell as a login shell)
-                https://jvns.ca/blog/2025/01/11/getting-a-modern-terminal-setup (What's involved in getting a "modern" terminal setup?)
-                https://linuxcommandlibrary.com/basic/oneliners.html (One-liners)
-                https://miro.medium.com/v2/resize:fit:1400/format:webp/1*VTVc8B7HNyu1AIBII2Ls6g.png (sed cheatsheet)
-                https://mywiki.wooledge.org/BashFAQ/105 (Why doesn't set -e (or set -o errexit, or trap ERR) do what I expected?)
-                https://mywiki.wooledge.org/BashPitfalls (This page is a compilation of common mistakes made by bash users. )
-                https://pragmaticpineapple.com/four-useful-fzf-tricks-for-your-terminal (4 Useful fzf Tricks for Your Terminal)
-                https://rhodesmill.org/brandon/2009/commands-with-comma (Start all of your commands with a comma)
-                https://sharats.me/posts/shell-script-best-practices (Shell Script Best Practices)
-                https://stackoverflow.com/questions/4922943/test-if-remote-tcp-port-is-open-from-a-shell-script/19866239#19866239 (Test if remote TCP port is open from a bash shell script)
-                https://web.archive.org/web/20090815205011/http://www.cuberick.com/2008/11/update-bash-history-in-realtime.html (Update Bash History in Realtime)
-                https://wiki.bash-hackers.org/scripting/debuggingtips (Debugging a script)
+                    http://mywiki.wooledge.org/BashPitfalls (This page is a compilation of common mistakes made by bash users. Each example is flawed in some way.)
+                    http://redsymbol.net/articles/unofficial-bash-strict-mode (Use Bash Strict Mode (Unless You Love Debugging))
+                    https://andrew-quinn.me/fzf (So you've installed `fzf`. Now what?)
+                    https://antonz.org/mastering-curl (Mastering curl: interactive text guide)
+                    https://github.com/adrianscheff/useful-sed (Useful sed scripts & patterns)
+                    https://github.com/anordal/shellharden/blob/master/how_to_do_things_safely_in_bash.md (Safe ways to do things in bash)
+                    https://github.com/bobbyiliev/introduction-to-bash-scripting (https://ebook.bobby.sh Free Introduction to Bash Scripting eBook)
+                    https://github.com/dylanaraps/pure-bash-bible (📖 A collection of pure bash alternatives to external processes.)
+                    https://github.com/dylanaraps/pure-sh-bible (📖 A collection of pure POSIX sh alternatives to external processes.)
+                    https://github.com/jlevy/the-art-of-command-line (Master the command line, in one page)
+                    https://github.com/learnbyexample/Command-line-text-processing (⚡ From finding text to search and replace, from sorting to beautifying text and more 🎨 )
+                    https://github.com/onceupon/Bash-Oneliner (A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.)
+                    https://github.com/phiresky/ripgrep-all/wiki/fzf-Integration (You can use rga interactively via fzf.)
+                    https://github.com/pirate/bash-utils (A collection of hand-crafted bash scripts for various common tasks.)
+                    https://github.com/pyenv/pyenv/wiki/MacOS-login-shell (Configure the terminal to run your shell as a login shell)
+                    https://jvns.ca/blog/2025/01/11/getting-a-modern-terminal-setup (What's involved in getting a "modern" terminal setup?)
+                    https://linuxcommandlibrary.com/basic/oneliners.html (One-liners)
+                    https://miro.medium.com/v2/resize:fit:1400/format:webp/1*VTVc8B7HNyu1AIBII2Ls6g.png (sed cheatsheet)
+                    https://mywiki.wooledge.org/BashFAQ/105 (Why doesn't set -e (or set -o errexit, or trap ERR) do what I expected?)
+                    https://mywiki.wooledge.org/BashPitfalls (This page is a compilation of common mistakes made by bash users. )
+                    https://pragmaticpineapple.com/four-useful-fzf-tricks-for-your-terminal (4 Useful fzf Tricks for Your Terminal)
+                    https://rhodesmill.org/brandon/2009/commands-with-comma (Start all of your commands with a comma)
+                    https://sharats.me/posts/shell-script-best-practices (Shell Script Best Practices)
+                    https://stackoverflow.com/questions/4922943/test-if-remote-tcp-port-is-open-from-a-shell-script/19866239#19866239 (Test if remote TCP port is open from a bash shell script)
+                    https://web.archive.org/web/20090815205011/http://www.cuberick.com/2008/11/update-bash-history-in-realtime.html (Update Bash History in Realtime)
+                    https://wiki.bash-hackers.org/scripting/debuggingtips (Debugging a script)
 
                 ABS Guide
                     http://tldp.org/LDP/abs/html
@@ -2709,6 +2721,7 @@ Contents:
                 https://support.mozilla.org/en-US/kb/keyboard-shortcuts-perform-firefox-tasks-quickly (Keyboard shortcuts - Perform common Firefox tasks quickly)
                 https://support.zoom.us/hc/en-us/articles/205683899-Hot-keys-and-keyboard-shortcuts#collapseMac (Zoom Hot keys and keyboard shortcuts)
                 https://thesweetsetup.com/picks
+                https://www.bugsappleloves.com ( Bugs Apple Loves Why else would they keep them around for so long?)
                 https://www.reddit.com/r/apple+mac+macapps
                 https://youtu.be/H3hUk0zsxc4 (How To Use Multiple Desktops On Your Mac by macmostvideo)
                 https://youtu.be/HPQobUOx17o (Amazing Mac Tips You've Never Used! by Snazzy Labs)
@@ -2913,6 +2926,7 @@ Contents:
                 https://www.udemy.com/featured-topics (Popular and trending topics)
                 https://www.youtube.com/@BroCodez (This channel is dedicated to providing free education to those that can't afford college, bootcamps, and whatever crap coding gurus try to sell you.)
                 https://yahnd.com (Best courses , talks and videos recommended on Hacker News)
+                https://www.domestika.org (Best online courses for creatives)
 
             Online Course Portals: (Sorted by Alexa Rank)
                 https://www.linkedin.com/learning (14)
@@ -3378,6 +3392,7 @@ Contents:
                 https://openrouter.ai (A unified interface for LLMs)
                 https://sourcegraph.com/cody (Cody is a coding AI assistant that uses AI and a deep understanding of your codebase to help you write and understand code faster.)
                 https://www.phind.com (Phind is a search engine for AI models.)
+                https://github.com/ComposioHQ/awesome-claude-skills (A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows )
 
             Books and Courses:
                 Tutorials:
@@ -3469,6 +3484,7 @@ Contents:
                 https://github.com/openai/agents.md (https://agents.md AGENTS.md — a simple, open format for guiding coding agents)
                 https://github.com/styfle/awesome-online-ide (🌩️ A list of awesome online development environments https://styfle.dev/projects/awesome-online-ide)
                 https://github.com/topics/editor (public repositories matching this topic editor)
+                https://github.com/zed-industries/zed (https://zed.dev Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter)
                 https://github.com/zed-industries/zed (https://zed.dev Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.)
                 https://news.ycombinator.com/item?id=43959710 (Ask HN: Cursor or Windsurf?)
                 https://sourcegraph.com/cody (Cody is a coding AI assistant that uses AI and a deep understanding of your codebase to help you write and understand code faster.)
@@ -5048,6 +5064,7 @@ Contents:
                     https://hnrss.github.io (Hacker News RSS)
                     https://jerbear2008.github.io/hn-live (A live-updating feed for Hacker News stories and votes.)
                     https://news.ycombinator.com (Hacker News)
+                    https://news.ycombinator.com/item?id=24351073 (	Most-favorited Hacker News posts)
                     https://news.ycombinator.com/item?id=25556990 (	HN Alternative UIs (luke.lol))
                     https://readhacker.news (Read Hacker News)
                     https://showcase.metamate.io/hackernews-trends (HackerNews Trends)
@@ -5312,6 +5329,7 @@ Contents:
                 https://github.com/instaloader/instaloader (Download pictures (or videos) along with their captions and other metadata from Instagram.)
                 https://github.com/KurtBestor/Hitomi-Downloader (🍰 Desktop utility to download images/videos/music/text from various websites, and more.)
                 https://github.com/mikf/gallery-dl (Command-line program to download image galleries and collections from several image hosting sites)
+                https://github.com/nexmoe/VidBee (https://vidbee.org Download videos from almost any website worldwide through the powerful yt-dlp engine )
                 https://github.com/nicotsx/zerobyte (Backup automation for self-hosters. Built on top of restic )
                 https://github.com/soimort/you-get (https://you-get.org ⏬ Dumb downloader that scrapes the web)
                 https://github.com/Y2Z/monolith (⬛️ CLI tool for saving complete web pages as a single HTML file )
@@ -5714,6 +5732,7 @@ Contents:
                 https://companiesmarketcap.com/luxury-goods/largest-luxury-goods-companies-by-market-cap (Largest luxury goods companies by market cap)
                 https://en.wikipedia.org/wiki/Herm%C3%A8s#Leather_goods (Hermès Leather Goods)
                 https://en.wikipedia.org/wiki/List_of_fashion_magazines (List of fashion magazines)
+                https://en.wikipedia.org/wiki/List_of_most_valuable_brands )List of most valuable brands)
                 https://en.wikipedia.org/wiki/Louis_Vuitton (Louis Vuitton)
                 https://en.wikipedia.org/wiki/Love_bracelet_(Cartier) (Love bracelet (Cartier))
                 https://en.wikipedia.org/wiki/Luxury_goods (Luxury goods)
@@ -5721,6 +5740,7 @@ Contents:
                 https://leathertainment.notion.site (Tanner’s Club - Leather Brand Guide)
                 https://realstyle.therealreal.com/trr-full-resale-report-2024 (The RealReal’s FULL 2024 Resale Report)
                 https://www.cushmanwakefield.com/en/belgium/news/2025/11/londons-new-bond-street-most-expensive-retail-destination-in-the-world (most expensive retail destination in the world,)
+                https://www.looria.com/reddit/BuyItForLife/brand-popularity (The most popular brands on r/BuyItForLife)
                 https://www.reddit.com/r/dataisbeautiful/comments/ujuui4/oc_the_most_discussed_brands_on_rbuyitforlife (OC: The most discussed brands on r/BuyItForLife)
                 https://www.reddit.com/r/dataisbeautiful/comments/vsp9yu/oc_the_most_and_least_popular_brands_on ([OC] The most and least popular brands on r/BuyItForLife)
                 https://www.reddit.com/r/EDC/comments/7j7lrs/edc_starter_pack_an_arbitrary_list_of_gear_that (EDC Starter Pack: An Arbitrary List of Gear that Gets Recommended a Lot)
@@ -5812,8 +5832,6 @@ Contents:
             https://allaboutberlin.com (Welcome to Berlin This is the start of a great adventure! Let's get you ready for it.)
             https://awesome.digitalbunker.dev (Click to explore one of the awesome lists below)
             https://cheatography.com (Over 5,000 Free Cheat Sheets, Revision Aids and Quick References!)
-            https://command-not-found.com (Install any command on any operating system and in Docker)
-            https://curlconverter.com (Convert curl commands to Python, JavaScript and more)
             https://drawabox.com (Drawabox is a set of free exercise-based lessons that focus on the fundamentals of drawing)
             https://en.wikipedia.org/wiki/List_of_lists_of_lists
             https://en.wikipedia.org/wiki/List_of_most_valuable_brands (List of most valuable brands)
@@ -5823,7 +5841,7 @@ Contents:
             https://en.wikipedia.org/wiki/Valeriepieris_circle (A Valeriepieris circle[1][2][3] is a figure drawn on the Earth's surface such that the majority of the human population lives within its interior.)
             https://en.wikipedia.org/wiki/Wikipedia:Vital_articles (Wikipedia:Vital articles)
             https://forgoodfirstissue.github.com (A repository of social impact and open source projects)
-            https://freenode.net
+            https://freenode.net (IRC for Free & Open Source Software)
             https://github.com/antiwork/gumroad (https://gumroad.com Gumroad is an e-commerce platform that enables creators to sell products directly to consumers.)
             https://github.com/antontarasenko/smq/blob/master/reports/hackernews-links-in-comments.md (Most mentioned links in Hacker News comments, 2006–2015)
             https://github.com/arcataroger/awesome-engineering-games (A curated list of engineering-related video games rated Very Positive or higher on Steam )
@@ -5831,24 +5849,19 @@ Contents:
             https://github.com/bobeff/open-source-games (A list of open source games.)
             https://github.com/btw-so/open-source-alternatives (List of open-source alternatives to everyday SaaS products.)
             https://github.com/C4illin/ConvertX (💾 Self-hosted online file converter. Supports 1000+ formats ⚙️)
-            https://github.com/chubin/awesome-console-services (A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols))
             https://github.com/girliemac/a-picture-is-worth-a-1000-words (I am trying to describe complex matters in simple doodles!)
             https://github.com/goenning/google-indexing-script (https://seogets.com/blog/google-indexing-script Google Indexing Script)
             https://github.com/gothinkster/realworld ("The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more)
             https://github.com/henki-robotics/robotics_essentials_ros2 (Learn the basics of robotics through hands-on experience using ROS 2 and Gazebo simulation. )
-            https://github.com/icloud-photos-downloader/icloud_photos_downloader (A command-line tool to download photos from iCloud)
             https://github.com/jbranchaud/til (Today I Learned)
             https://github.com/jnv/lists (The definitive list of lists (of lists) curated on GitHub and elsewhere )
             https://github.com/kanbn/kan (https://kan.bn The open source Trello alternative. )
             https://github.com/mendel5/alternative-front-ends (Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.))
-            https://github.com/NotJoeMartinez/yt-fts (Youtube Full Text Search - Search all of a YouTube channel's subtitles from the command line)
             https://github.com/Pankajtanwarbanna/stfu (https://stfu.pankajtanwar.in A tiny app that plays back the same audio it hears, delayed by ~2 seconds.)
             https://github.com/RunaCapital/awesome-oss-alternatives (Awesome list of open-source startup alternatives to well-known SaaS products)
             https://github.com/topics/awesome (Awesome Lists)
             https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday (Awesome deals on Black Friday: Apps, SaaS, Books, Courses, etc.)
             https://github.com/VERT-sh/VERT (https://vert.sh The next-generation file converter. Open source, fully local* and free forever. )
-            https://github.com/vslavik/diff-pdf (A simple tool for visually comparing two PDF files https://vslavik.github.io/diff-pdf)
-            https://github.com/zed-industries/zed (https://zed.dev Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter)
             https://hackerspaces.org (Hackerspaces are community-operated physical places, where people share their interest in tinkering with technology, meet and work on their projects, and learn from each other)
             https://indie.deals (Early launch deals on products made by Indie Makers)
             https://lobste.rs/s/0fkc0u/what_is_terminal_based_game_you_ve_played_s (What is a terminal-based game you've played that's worth mentioning?)
@@ -5860,7 +5873,6 @@ Contents:
             https://news.ycombinator.com/item?id=21581361 (Ask HN: What's the most valuable thing you can learn in an hour?)
             https://news.ycombinator.com/item?id=22849208 (Ask HN: Programs that saved you 100 hours?)
             https://news.ycombinator.com/item?id=23390308 (Ask HN: What is the cheapest way to make a website?)
-            https://news.ycombinator.com/item?id=24351073 (	Most-favorited Hacker News posts)
             https://news.ycombinator.com/item?id=27219759 (Ask HN: Favorite purchases of last two years?)
             https://news.ycombinator.com/item?id=28119393 (Ask HN: What tiny purchases have disproportionately improved your life?)
             https://news.ycombinator.com/item?id=28232165 (Ask HN: What's the most life-changing blog post you've ever read?)
@@ -5876,12 +5888,8 @@ Contents:
             https://wikigrapher.com/paths (Wikipedia as a Graph. Find degrees of separation between articles. Also https://www.thewikigame.com/play)
             https://www.amazon.com/Best-Sellers-Health-Household-Power-Toothbrushes/zgbs/hpc/18065347011 (Best Sellers in Power Toothbrushes)
             https://www.construction-physics.com/p/why-is-it-so-hard-to-build-an-airport (Why Is It So Hard to Build an Airport?)
-            https://www.domestika.org (Best online courses for creatives)
             https://www.isthistechdead.com (Tracking the pulse of tech that flatlined years ago)
-            https://www.kantar.com/north-america/company-news/louis-vuitton-reigns-as-the-worlds-most-valuable-luxury-brand-for-the-18th-year (Top 10 Most Valuable Global Luxury Brands 2023)
             https://www.lifeisshort.fyi/calendar (A life calendar to remind us how much time we have left to live — Turns your lifespan into a calendar of weeks so you actually feel time passing.)
-            https://www.looria.com/reddit/BuyItForLife/brand-popularity (The most popular brands on r/BuyItForLife)
-            https://www.nala.ie/resources/better-handwriting-adults
             https://www.pricelevel.com (PriceLevel gives you visibility into the price hidden behind "Contact Us".)
             https://www.producthunt.com (The place to launch and discover new tech products)
             https://www.reddit.com/r/AskReddit/comments/4q91g9/what_free_things_online_should_everyone_take/d4r8foy (What free things online should everyone take advantage of?)
