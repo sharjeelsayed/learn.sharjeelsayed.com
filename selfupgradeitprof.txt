@@ -1052,6 +1052,7 @@ Contents:
                 https://github.com/NotJoeMartinez/yt-fts (Youtube Full Text Search - Search all of a YouTube channel's subtitles from the command line)
                 https://github.com/vslavik/diff-pdf (A simple tool for visually comparing two PDF files https://vslavik.github.io/diff-pdf)
                 https://muhammadraza.me/2021/Oneliners (My Favorite One Liners)
+                https://telnet.org/htm/places.htm (A list of fun destinations for telnet)
                 https://www.commandlinefu.com (A collection of command-line gems)
                 https://www.reddit.com/r/usefulscripts (A subreddit for sharing useful scripts and command-line snippets)
 
@@ -3294,6 +3295,7 @@ Contents:
 
         iOS/Android:
             Sources:
+                https://counterpointresearch.com/en/insights/iphone-16-worlds-best-selling-smartphone-in-2025-apple-takes-7-spots-in-top-10-models (iPhone 16 World’s Best-selling Smartphone in 2025; Apple Takes 7 Spots in Top 10 Models)
                 https://esimdb.com (Find the best prepaid eSIM plans for your travel destination)
                 https://github.com/FifiTheBulldog/ios-settings-urls (A collection of iOS Settings URLs )
                 https://github.com/Psyhackological/AAA (📱 Curated list of THE BEST FOSS Android apps to maximize your freedom & privacy!  https://codeberg.org/Psyhackological/AAA)
@@ -3352,6 +3354,7 @@ Contents:
                 https://github.com/browser-use/browser-use ( https://browser-use.com Make websites accessible for AI agents)
                 https://github.com/charmbracelet/crush (The glamourous AI coding agent for your favourite terminal 💘)
                 https://github.com/cline/cline (https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.)
+                https://github.com/ComposioHQ/awesome-claude-skills (A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows )
                 https://github.com/continuedev/continue (https://continue.dev ⏩ Continue is an open-source autopilot for VS Code and JetBrains—the easiest way to code with any LLM)
                 https://github.com/danielmiessler/fabric (fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.)
                 https://github.com/deepseek-ai/awesome-deepseek-integration (Integrate the DeepSeek API into popular softwares.)
@@ -3390,9 +3393,9 @@ Contents:
                 https://github.com/virattt/ai-hedge-fund (An AI Hedge Fund Team)
                 https://github.com/wshobson/agents (A collection of production-ready subagents for Claude Code )
                 https://openrouter.ai (A unified interface for LLMs)
+                https://skills.sh (Skills are reusable capabilities for AI agents. Install them with a single command to enhance your agents with access to procedural knowledge.)
                 https://sourcegraph.com/cody (Cody is a coding AI assistant that uses AI and a deep understanding of your codebase to help you write and understand code faster.)
                 https://www.phind.com (Phind is a search engine for AI models.)
-                https://github.com/ComposioHQ/awesome-claude-skills (A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows )
 
             Books and Courses:
                 Tutorials:
@@ -5901,6 +5904,7 @@ Contents:
             https://www.reddit.com/r/india/wiki/useful_posts (r/india Useful Posts)
             https://www.thisiswhyimbroke.com (ThisIsWhyImBroke is where you'll find cool gift ideas, unique products, and awesome birthday and Christmas gift ideas.)
             https://www.visionofhumanity.org/maps (Global Peace Index Maps)
+            https://alternativeto.net (A crowd-sourced and free site that helps you find better apps and services.)
 
     Support this project with these referral links:
         https://m.do.co/c/d3160b5e33e8 (DigitalOcean Credits)
