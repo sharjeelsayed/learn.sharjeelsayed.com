@@ -2496,6 +2496,7 @@ Contents:
                 https://github.com/topics/security?o=desc&s=stars
                 https://github.com/topics/websecurity?o=desc&s=stars
                 https://github.com/vulnerable-apps (Over 100 forks of deliberately vulnerable web applications and APIs.)
+                https://hackread.com/top-ai-tools-for-red-teaming-in-2026 (Top AI Tools for Red Teaming in 2026)
                 https://k8slanparty.com (A CTF designed to challenge your Kubernetes hacking skills through a series of critical network vulnerabilities and misconfigurations)
                 https://media.defense.gov/2022/Mar/01/2002947139/-1/-1/0/CTR_NSA_NETWORK_INFRASTRUCTURE_SECURITY_GUIDANCE_20220301.PDF (National Security Agency Cybersecurity Technical Report Network Infrastructure Security Guidance March 2022)
                 https://myaccount.google.com/stateattackwarning (Find out if someone is trying to access your Google account)
@@ -2510,7 +2511,7 @@ Contents:
                 https://opensourcesecurityindex.io (The Most Popular & Fastest Growing Open Source Security Projects on GitHub)
                 https://overthewire.org/wargames/bandit (The Bandit wargame is aimed at absolute beginners. It will teach the basics needed to be able to play other wargames.)
                 https://owasp.org/www-project-top-ten (The OWASP Top 10 is a standard awareness document for developers and web application security. It represents a broad consensus about the most critical security risks to web applications)
-                https://portswigger.net/research/top-10-web-hacking-techniques-of-2023 (Top 10 web hacking techniques of 2023 by James Kettle. Updated: 19 February 2024)
+                https://portswigger.net/research/top-10-web-hacking-techniques-of-2025 (Top 10 web hacking techniques of 2023 by James Kettle. Updated: 06 February 2026)
                 https://ppn.snovvcrash.rocks (Pentester's promiscuous handbook)
                 https://redhuntlabs.com/blog/open-port-chronicle-what-port-80-revealed-about-the-internet-project-resonance-wave-12 (What Port 80 Revealed About The Internet)
                 https://roguesecurity.dev/blog/systemd-hardening (SystemD Service Hardening)
@@ -3371,6 +3372,7 @@ Contents:
                 https://github.com/GoogleCloudPlatform/kubectl-ai (AI powered Kubernetes Assistant)
                 https://github.com/Hannibal046/Awesome-LLM (Awesome-LLM: a curated list of Large Language Model)
                 https://github.com/hesreallyhim/awesome-claude-code (A curated list of awesome commands, files, and workflows for Claude Code )
+                https://github.com/HKUDS/nanobot ("🐈 nanobot: The Ultra-Lightweight Clawdbot" )
                 https://github.com/humanloop/awesome-chatgpt (Curated list of awesome tools, demos, docs for ChatGPT and GPT-3 )
                 https://github.com/idosal/git-mcp (https://gitmcp.io Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project )
                 https://github.com/langgenius/dify (https://dify.ai Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production. )
@@ -3390,6 +3392,7 @@ Contents:
                 https://github.com/punkpeye/awesome-mcp-servers (https://glama.ai/mcp/servers A collection of MCP servers)
                 https://github.com/Shubhamsaboo/awesome-llm-apps ( https://www.theunwindai.com Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.)
                 https://github.com/simonw/llm (https://llm.datasette.io/en/stable Access large language models from the command-line )
+                https://github.com/sipeed/picoclaw (🦐 PicoClaw is an ultra-lightweight personal AI Assistant inspired by nanobot, refactored from the ground up in Go through a self-bootstrapping process, where the AI agent itself drove the entire architectural migration and code optimization.)
                 https://github.com/skypilot-org/skypilot (https://docs.skypilot.co SkyPilot: Run AI and batch jobs on any infra (Kubernetes or 16+ clouds). Get unified execution, cost savings, and high GPU availability via a simple interface. )
                 https://github.com/snarktank/ai-dev-tasks (https://youtu.be/fD4ktSkNCw4?si=wlnDDnNa0AKXKjxi  A simple task management system for managing AI dev agents)
                 https://github.com/sst/opencode (https://opencode.ai AI coding agent, built for the terminal.)
