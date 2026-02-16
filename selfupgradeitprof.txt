@@ -4857,6 +4857,7 @@ Contents:
                 https://en.wikipedia.org/wiki/List_of_science_magazines (List of science magazines)
                 https://en.wikipedia.org/wiki/List_of_scientific_journals (List of scientific journals)
                 https://en.wikipedia.org/wiki/News_agency (News agency)
+                https://en.wikipedia.org/wiki/Newspaper_of_record (Newspaper of record)
                 https://en.wikipedia.org/wiki/Special:Random
                 https://github.com/maltfield/awesome-lemmy-instances (Comparison of different Lemmy Instances)
                 https://github.com/topics/blogs?o=desc&s=stars
@@ -4880,12 +4881,12 @@ Contents:
                 https://news.ycombinator.com/item?id=32799789 (Ask HN: What are some of the best documentaries you've seen?)
                 https://news.ycombinator.com/item?id=35313232 (	Text only news websites (2022) (wturrell.co.uk))
                 https://news.ycombinator.com/item?id=36175315 (Ask HN: What other news feeds do you read besides Hacker News?)
+                https://news.ycombinator.com/user?id=SharjeelSayed
                 https://pageviews.wmcloud.org/topviews/?project=en.wikipedia.org&platform=all-access&date=yesterday&excludes= (Wikipedia daily most viewed pages)
                 https://prashantbarahi.com.np/read-in-public (Software blog articles : The #ReadInPublic is my attempt at sharing what I have learned with the world.)
+                https://twitter.com/SharjeelSayed
                 https://www.reddit.com/r/AskReddit/comments/9nggyv/what_is_a_great_youtube_channel_to_binge_watch
                 https://www.reddit.com/r/AskReddit/comments/aa7zs9/what_youtube_channels_are_genuinely_worth_watching
-                https://news.ycombinator.com/user?id=SharjeelSayed
-                https://twitter.com/SharjeelSayed
                 https://www.reddit.com/user/SharjeelSayed
 
             Sites and Apps:
