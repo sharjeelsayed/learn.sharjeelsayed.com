@@ -2236,6 +2236,7 @@ Contents:
                 https://github.com/ossf/allstar (GitHub App to set and enforce security policies)
                 https://github.com/tpope/vim-fugitive (fugitive.vim: A Git wrapper so awesome, it should be illegal https://www.vim.org/scripts/script.php?script_id=2975)
                 https://grep.app (Search across a half million git repos)
+                https://mrshu.github.io/github-statuses (The Missing GitHub Status Page)
                 https://mshibanami.github.io/GitHubTrendingRSS (GitHub Trending RSS)
                 https://www.sourcetreeapp.com (A free Git client for Windows and Mac)
                 https://www.sublimemerge.com (Git Client, done Sublime)
@@ -3377,6 +3378,7 @@ Contents:
                 https://github.com/HKUDS/nanobot ("🐈 nanobot: The Ultra-Lightweight Clawdbot" )
                 https://github.com/humanloop/awesome-chatgpt (Curated list of awesome tools, demos, docs for ChatGPT and GPT-3 )
                 https://github.com/idosal/git-mcp (https://gitmcp.io Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project )
+                https://github.com/Jeffallan/claude-skills (66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.)
                 https://github.com/langgenius/dify (https://dify.ai Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production. )
                 https://github.com/linexjlin/GPTs (leaked prompts of GPTs )
                 https://github.com/lobehub/lobe-chat (https://chat-preview.lobehub.com/chat 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / DeepSeek / Qwen), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Plugins/Artifacts) and Thinking. One-click FREE deployment of your private ChatGPT/ Claude / DeepSeek application. )
@@ -5282,6 +5284,7 @@ Contents:
                 http://www.mutt.org
                 https://github.com/c4pt0r/gmailtail (tail -f your gmail )
                 https://github.com/neomutt/neomutt/issues/1195#issuecomment-388016804 # bind <ctrl-o> to sidebar-open not working
+                https://github.com/steipete/gogcli (https://gogcli.sh Google Suite CLI: Gmail, GCal, GDrive, GContacts. )
                 https://news.ycombinator.com/item?id=18057643 (Ask HN: Best email client for a Mac?)
                 https://news.ycombinator.com/item?id=19712437 (Ask HN: What email client do you use?)
                 https://sparkmailapp.com
@@ -5587,6 +5590,7 @@ Contents:
                 https://en.wikipedia.org/wiki/List_of_films_considered_the_best (List of films considered the best)
                 https://en.wikipedia.org/wiki/List_of_most_expensive_films (List of most expensive films)
                 https://en.wikipedia.org/wiki/List_of_most_expensive_television_series (List of most expensive television series)
+                https://en.wikipedia.org/wiki/The_Sight_and_Sound_Greatest_Films_of_All_Time_2022 (The Sight and Sound Greatest Films of All Time 2022)
                 https://en.wikipedia.org/wiki/The_World_at_War (The World at War is a 26-episode British documentary television series that chronicles the events of the Second World War.)
                 https://github.com/Free-TV/IPTV (M3U Playlist for free TV channels )
                 https://github.com/greybax/awesome-IT-films (https://alfilatov.com/awesome-IT-films A curated list of awesome films about IT & geek people.)
@@ -5847,6 +5851,7 @@ Contents:
             http://techmeme.com/events.ics (Techmeme Calendar)
             http://unixstickers.com (Unixstickers powered by Sticker Mule)
             https://allaboutberlin.com (Welcome to Berlin This is the start of a great adventure! Let's get you ready for it.)
+            https://alternativeto.net (A crowd-sourced and free site that helps you find better apps and services.)
             https://awesome.digitalbunker.dev (Click to explore one of the awesome lists below)
             https://cheatography.com (Over 5,000 Free Cheat Sheets, Revision Aids and Quick References!)
             https://drawabox.com (Drawabox is a set of free exercise-based lessons that focus on the fundamentals of drawing)
@@ -5898,12 +5903,14 @@ Contents:
             https://news.ycombinator.com/item?id=31928736 (Ask HN: Can I see your cheatsheet?)
             https://news.ycombinator.com/item?id=44158353 (Ask HN: How do I learn robotics in 2025?)
             https://news.ycombinator.com/item?id=44775830 (How to make almost anything (2019) (cba.mit.edu))
+            https://openfactbook.org (The community-maintained successor to the CIA World Factbook. Comprehensive data on 254 countries and territories.)
             https://per.quest (Enter a URL to an article, post or page with some text on it to listen to it)
             https://rfc.fyi (Browse RFCs by keywords, id or collection)
             https://saasfridaydeals.com (Black Friday Deals From Cool SaaS Founders)
             https://sourceful.co.uk (Discover the best public GoogleDocs and Sheets)
             https://wikigrapher.com/paths (Wikipedia as a Graph. Find degrees of separation between articles. Also https://www.thewikigame.com/play)
             https://www.amazon.com/Best-Sellers-Health-Household-Power-Toothbrushes/zgbs/hpc/18065347011 (Best Sellers in Power Toothbrushes)
+            https://www.cntraveller.in/story/the-best-restaurants-in-india-2025-top-restaurant-awards (The best restaurants in India, revealed at the Condé Nast Traveller x District Top Restaurant Awards 2025)
             https://www.construction-physics.com/p/why-is-it-so-hard-to-build-an-airport (Why Is It So Hard to Build an Airport?)
             https://www.isthistechdead.com (Tracking the pulse of tech that flatlined years ago)
             https://www.lifeisshort.fyi/calendar (A life calendar to remind us how much time we have left to live — Turns your lifespan into a calendar of weeks so you actually feel time passing.)
@@ -5918,7 +5925,6 @@ Contents:
             https://www.reddit.com/r/india/wiki/useful_posts (r/india Useful Posts)
             https://www.thisiswhyimbroke.com (ThisIsWhyImBroke is where you'll find cool gift ideas, unique products, and awesome birthday and Christmas gift ideas.)
             https://www.visionofhumanity.org/maps (Global Peace Index Maps)
-            https://alternativeto.net (A crowd-sourced and free site that helps you find better apps and services.)
 
     Support this project with these referral links:
         https://m.do.co/c/d3160b5e33e8 (DigitalOcean Credits)
