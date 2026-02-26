@@ -1723,7 +1723,7 @@ Contents:
                     https://aws.amazon.com/training/digital/aws-security-fundamentals (AWS Security Fundamentals (Second Edition))
                     https://www.freecodecamp.org/news/free-107-hour-aws-cloud-project-bootcamp (Free 107-Hour AWS Cloud Project Bootcamp)
 
-                Ultimate AWS Certified Solutions Architect Associate 2025 by Stephane Maarek:
+                Ultimate AWS Certified Solutions Architect Associate 2026 by Stephane Maarek:
                     https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03
                     https://courses.datacumulus.com/downloads/certified-solutions-architect-pn9 (AWS Certified Solutions Architect Associate Code & Slides)
                     https://courses.datacumulus.com (Discount codes for the Course)
@@ -1734,7 +1734,7 @@ Contents:
                     https://tutorialsdojo.com/aws-certified-solutions-architect-associate-saa-c02
                     http://slack.tutorialsdojo.com
 
-                Ultimate AWS Certified Developer Associate 2025 DVA-C02 by Stephane Maarek:
+                Ultimate AWS Certified Developer Associate 2026 DVA-C02 by Stephane Maarek:
                     https://www.udemy.com/course/aws-certified-developer-associate-dva-c01
                     https://courses.datacumulus.com/downloads/certified-developer-k92 (AWS Certified Developer Associate Code & Slides)
                     https://courses.datacumulus.com (Discount codes for the Course)
@@ -5633,12 +5633,11 @@ Contents:
                 https://en.wikipedia.org/wiki/Spring_Drive (Spring Drive)
                 https://fellerts.no/projects/epoch.html (Mechanical Watch: Exploded View)
                 https://lookerstudio.google.com/reporting/40738bd5-c07f-41f2-aaad-ca5b0aaf9602/page/ZNSUB (Watches used in space exploration)
-                https://monochrome-watches.com/industry-new-morgan-stanley-top-50-watch-brands-for-2025-rolex-still-leading-the-pack-strong-polarization-of-the-market (Morgan Stanley’s 2025 Top 50 Watch Brands Report: Rolex Leads Amid Rising Market Polarisation)
                 https://monochrome-watches.com/konstantin-chaykin-thinking-final-prototype-worlds-thinnest-mechanical-watch-1-65mm-auction-phillips-introducing (Konstantin Chaykin Presents the Final Version of the 1.65mm ThinKing, the World’s Thinnest Mechanical Watch )
-                https://professionalwatches.com/morgan-stanleys-top-20-swiss-watch-company-ranking-for-2026 (Morgan Stanley’s Top 20 Swiss Watch Company Ranking for 2026)
                 https://quillandpad.com/2021/03/19/the-diving-bezel-the-most-versatile-watch-complication-even-if-youre-not-a-diver (The Diving Bezel: The Most Versatile Watch Complication, Even If You’re Not A Diver)
                 https://subdial.com/market (Watch Index)
                 https://teddybaldassarre.com/blogs/watches/iconic-watches (The 28 Most Iconic Watches of All Time and the Case for Each by Mark Bernardo. June 2023)
+                https://thehourmarkers.com/articles/morgan-stanley-luxeconsult-ninth-annual-swiss-watcher-2025 (Morgan Stanley And LuxeConsult’s Top 50 Swiss Watch Brands For 2025)
                 https://watchanalytics.io/en-eur/watches?ordering=-views (Most Popular watches by watchanalytics.io) )
                 https://watchcharts.com/market/above_retail (Watches That Trade Above Retail)
                 https://wornandwound.com/military-watches-world-11-watch-won-war (Bulova A-11, the Watch That Won World War 2)
@@ -5654,8 +5653,10 @@ Contents:
                 https://www.hodinkee.com/articles/the-2025-gphg-breguet-wins-the-aiguille-dor (The 2025 GPHG Awards)
                 https://www.hodinkee.com/articles/think-you-can-name-every-single-watch-thats-ever-gone-to-space (Intervies Think You Can Name Every Single Watch That's Ever Gone To Space? There are 1,899 of them. Meet the man that's cataloging them all in one database.)
                 https://www.instagram.com/dailywatch (World's biggest Instagram account on Watches)
+                https://www.longines.com/en-in/p/watch-longines-dolcevita-l5-255-4-71-6 (Longines Dolcevita)
                 https://www.looria.com/reddit/Watches/products (Most discussed products on r/Watches)
                 https://www.reddit.com/r/Cartier+OmegaWatches+VacheronConstantin+Watches+audemarspiguet+gshock+patekphilippe+richardmille+rolex+watchesindia (Reddit's Most Popular Watch Brands)
+                https://www.reddit.com/r/Tudor/comments/14o9a6f/comment/jqbq9po (Pelagos is basically a titanium Sea Dweller, Pelagos 39 is a titanium Sub, BB58 and 54s are vintage Subs, Tudor GMT is basically a vintage Pepsi, the BB 31/36/39/41s are basically smooth bezel datelessjusts.)
                 https://www.reddit.com/r/Watches/comments/1iphoaw/discussion_swiss_luxury_watch_market_share_by ([Discussion] Swiss luxury watch market share by sales revenue 2024)
                 https://www.reddit.com/r/Watches/comments/4mp3w7/resources_ive_compiled_all_the_best_documentaries ([Resources] I've compiled all the best documentaries, videos, books, channels, websites, and more about watches, movements, watch history, and watch culture. Great resources for newbies and veterans. 100+ videos, 15+ books, etc. I hope the community finds this useful!)
                 https://www.reddit.com/r/Watches/comments/sqr6c8/meta_i_analyzed_the_top_500_posts_of_all_time ([META] I analyzed the top 500 posts of all time. Here are the 15 most popular brands by some metrics)
@@ -5742,12 +5743,6 @@ Contents:
                     https://www.manualpdf.in/casio/g-shock-gw-9400-1/manuals (Casio G-Shock GW-9400-1 manual)
                     https://youtu.be/3BotLQShy-0?si=9g9jSdcNJKwCRHBH (Casio GW 9400 Rangeman 3410 - review & detailed tutorial on how to set up and use all the functions by Watch Geek)
                     https://youtu.be/xu8d56KgScI?si=D9gGf1ZzQgBDZtmn (Gshock GW-9400 Rangeman - Watch Setting Tutorial by TT Watches)
-
-            Longines:
-                https://www.longines.com/en-in/p/watch-longines-dolcevita-l5-255-4-71-6 (Longines Dolcevita)
-
-            Tudor:
-                https://www.reddit.com/r/Tudor/comments/14o9a6f/comment/jqbq9po (Pelagos is basically a titanium Sea Dweller, Pelagos 39 is a titanium Sub, BB58 and 54s are vintage Subs, Tudor GMT is basically a vintage Pepsi, the BB 31/36/39/41s are basically smooth bezel datelessjusts.)
 
         Fashion:
             Sources:
