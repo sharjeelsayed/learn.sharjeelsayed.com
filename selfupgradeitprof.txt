@@ -2590,6 +2590,7 @@ Contents:
                 https://netfilter.org/documentation (Documentation about the netfilter/iptables project)
                 https://offsec.tools (A vast collection of security tools)
                 https://r00m101.com/tools (Comprehensive Collection Of Open Source Intelligence Tools For Investigators, Researchers, And Security Professionals)
+                https://rankclaw.com (Check any AI skill for security vulnerabilities before you install it)
                 https://stratoshark.org (Stratoshark lets you explore and analyze applications at the system call level using a mature, proven interface based on Wireshark. Created for the community by Sysdig)
                 https://tools.tldr.run (Curated list of security tools for Hackers & Builders!)
                 https://www.revolgy.com/insights/blog/complete-guide-for-picking-the-right-tool-for-terraform-security-code-analysis (Complete guide for picking the right tool for Terraform Security Code Analysis)
@@ -3409,6 +3410,7 @@ Contents:
                 https://github.com/virattt/ai-hedge-fund (An AI Hedge Fund Team)
                 https://github.com/wshobson/agents (A collection of production-ready subagents for Claude Code )
                 https://openrouter.ai (A unified interface for LLMs)
+                https://rankclaw.com (Check any AI skill for security vulnerabilities before you install it)
                 https://skills.sh (Skills are reusable capabilities for AI agents. Install them with a single command to enhance your agents with access to procedural knowledge.)
                 https://sourcegraph.com/cody (Cody is a coding AI assistant that uses AI and a deep understanding of your codebase to help you write and understand code faster.)
                 https://www.phind.com (Phind is a search engine for AI models.)
@@ -3712,6 +3714,7 @@ Contents:
                     https://github.com/wisdompeak/LeetCode (This repository contains the solutions and explanations to the algorithm problems on LeetCode. Only medium or above are included. All are written in C++/Python and implemented by myself. The problems attempted multiple times are labelled with hyperlinks.)
                     https://github.com/yangshun/tech-interview-handbook (💯 Curated interview preparation materials for busy engineers https://www.techinterviewhandbook.org)
                     https://leetcode.com/list/xi4ci4ig (Blind 75 Must Do Leetcode)
+                    https://leetcode.com/problem-list/oizxjoit (The Blind 75 is a curated list of 75 essential LeetCode questions designed to help software engineers prepare efficiently for technical coding interviews. )
                     https://neetcode.io/practice (The Neetcode 150 is the Blind 75 plus 75 more problems. It's a more beginner friendly and comprehensive list. We provide you with a list of problems that are frequently asked in technical interviews at top tech companies.)
                     https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems (Striver's SDE Sheet Top Coding Interview Problems Strivers 180)
                     https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2 (Striver's A2Z DSA Course Sheet 2 Strivers 455)
@@ -4478,7 +4481,7 @@ Contents:
             Sites: (Sorted by Alexa Rank)
                 https://www.pdfdrive.com (1,061)
                 https://www.oreilly.com (2,672)
-                https://libgen.li (Use https://open-slum.org to find a working mirror https://www.reddit.com/r/libgen/wiki https://en.wikipedia.org/wiki/Library_Genesis) (4,910)
+                https://libgen.li (Use https://open-slum.org or https://open-slum.pages.dev to find a working mirror https://www.reddit.com/r/libgen/wiki https://en.wikipedia.org/wiki/Library_Genesis) (4,910)
                 https://z-library.sk
                 https://www.gutenberg.org (6,947)
                 https://singlelogin.re https://zlibrary-asia.se (7,892)
@@ -5286,6 +5289,7 @@ Contents:
                 http://www.macdrifter.com/2013/11/mailmate-explorations.html
                 http://www.mutt.org
                 https://github.com/c4pt0r/gmailtail (tail -f your gmail )
+                https://github.com/googleworkspace/cli (https://developers.google.com/workspace Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills. )
                 https://github.com/neomutt/neomutt/issues/1195#issuecomment-388016804 # bind <ctrl-o> to sidebar-open not working
                 https://github.com/steipete/gogcli (https://gogcli.sh Google Suite CLI: Gmail, GCal, GDrive, GContacts. )
                 https://news.ycombinator.com/item?id=18057643 (Ask HN: Best email client for a Mac?)
