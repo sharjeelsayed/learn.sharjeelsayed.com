@@ -2035,13 +2035,13 @@ Contents:
                     https://www.youtube.com/c/NedintheCloud (Ned in the Cloud YouTube Channel)
                     https://youtu.be/V4waklkBC38 (HashiCorp Terraform Associate Certification Course - Pass the Exam! by  Andrew Brown (reeCodeCamp.org))
 
-                HashiCorp Certified: Terraform Associate - Hands-On Labs : Terraform Associate 003 - Learn with 70+ AWS Labs Aligned to HashiCorp Exam Objectives for IaC, DevOps, and Cloud Skills by Bryan Krausen and Gabe Maentz
-                    https://www.udemy.com/course/terraform-hands-on-labs
+                HashiCorp Certified Terraform Associate 004 Exam Prep Course - The complete Terraform Associate (TA-004) training course - lectures, hands-on labs, quizzes, and full practice exams by Bryan Krausen
+                    https://www.udemy.com/course/hashicorp-certified-terraform-associate-004
                     https://github.com/btkrausen/hashicorp/tree/master/terraform
                     https://github.com/btkrausen/hashicorp/tree/master/terraform/Hands-On%20Labs (Hands-On Labs)
                     https://github.com/btkrausen (Coupon Codes)
 
-                HashiCorp Certified: Terraform Associate 2025 by Zeal Vora:
+                HashiCorp Certified: Terraform Associate 2026 by Zeal Vora:
                     https://www.udemy.com/course/terraform-beginner-to-advanced
                     https://github.com/zealvora/coupon-codes ((Coupon Codes))
                     https://github.com/zealvora/terraform-beginner-to-advanced-resource
@@ -3382,9 +3382,11 @@ Contents:
                 https://github.com/humanloop/awesome-chatgpt (Curated list of awesome tools, demos, docs for ChatGPT and GPT-3 )
                 https://github.com/idosal/git-mcp (https://gitmcp.io Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project )
                 https://github.com/Jeffallan/claude-skills (66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.)
+                https://github.com/K-Dense-AI/claude-scientific-skills (https://www.k-dense.ai)
                 https://github.com/langgenius/dify (https://dify.ai Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production. )
                 https://github.com/linexjlin/GPTs (leaked prompts of GPTs )
                 https://github.com/lobehub/lobe-chat (https://chat-preview.lobehub.com/chat 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / DeepSeek / Qwen), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Plugins/Artifacts) and Thinking. One-click FREE deployment of your private ChatGPT/ Claude / DeepSeek application. )
+                https://github.com/microsoft/markitdown (Python tool for converting files and office documents to Markdown. )
                 https://github.com/Mintplex-Labs/anything-llm (https://anythingllm.com The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more.)
                 https://github.com/ml-tooling/best-of-ml-python (🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.)
                 https://github.com/modelcontextprotocol/servers (https://modelcontextprotocol.io Model Context Protocol Servers)
@@ -3426,6 +3428,7 @@ Contents:
                     https://fleuret.org/dlc (François Fleuret's deep-learning courses 14x050 of the University of Geneva, Switzerland)
                     https://fleuret.org/public/lbdl.pdf (The Little Book of Deep Learning by François Fleuret)
                     https://github.com/afshinea/stanford-cs-229-machine-learning (https://stanford.edu/~shervine/teaching/cs-229 VIP cheatsheets for Stanford's CS 229 Machine Learning )
+                    https://github.com/anthropics/prompt-eng-interactive-tutorial (Anthropic's Interactive Prompt Engineering Tutorial )
                     https://github.com/dair-ai/ML-Papers-of-the-Week (🔥Highlighting the top ML papers every week.)
                     https://github.com/dair-ai/ML-YouTube-Courses (📺 Discover the latest machine learning / AI courses on YouTube.)
                     https://github.com/dair-ai/Prompt-Engineering-Guide (🐙 Guides, papers, lecture, notebooks and resources for prompt engineering )
