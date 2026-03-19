@@ -1497,7 +1497,6 @@ Contents:
                     https://kubernetes.io/training (Kubernetes Training)
 
                 Certified Kubernetes Administrator (CKA) with Practice Tests by Mumshad Mannambeth:
-                    https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests
                     https://discord.com/channels/1197109182172770304/1197516535271542834 (KodeKloud Community Discord)
                     https://github.com/kodekloudhub/certified-kubernetes-administrator-course (Certified Kubernetes Administrator - CKA Course)
                     https://github.com/mmumshad/kubernetes-the-hard-way
@@ -1506,7 +1505,10 @@ Contents:
                     https://kodekloud.com/p/json-path-quiz (JSON PATH Quiz- FREE COURSE)
                     https://kodekloud.com/pages/community (KodeKloud Community)
                     https://kodekloud.com/purchase?product_id=1521961&coupon_code=UDEMYSTUDENT1718 (Labs - Certified Kubernetes Administrator with Practice Tests)
+                    https://notes.kodekloud.com/docs/AWS-EKS (AWS EKS Notes)
+                    https://notes.kodekloud.com/docs/Certified-Kubernetes-Administrator-CKA (Certified Kubernetes Administrator (CKA) Notes)
                     https://www.fb.com/kodekloudtraining
+                    https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests
                     https://www.youtube.com/playlist?list=PL2We04F3Y_41lFKy19ig_9u-5Sj_RWTDL (JSON PATH)
                     https://youtu.be/XuSQU5Grv1g?si=nKr79YJYpDjAcRMs (Kubernetes Crash Course: Learn the Basics and Build a Microservice Application by Mumshad Mannambeth)
 
@@ -1721,6 +1723,7 @@ Contents:
                     https://aws.amazon.com/education/awseducate (Build your cloud skills at your own pace, on your own time, and completely for free)
                     https://aws.amazon.com/solutions (AWS Solutions Library Vetted solutions and guidance for business and technical use cases)
                     https://aws.amazon.com/training/digital/aws-security-fundamentals (AWS Security Fundamentals (Second Edition))
+                    https://notes.kodekloud.com/docs/AWS-Networking-Fundamentals (AWS Networking Fundamentals Notes by KodeKloud)
                     https://www.freecodecamp.org/news/free-107-hour-aws-cloud-project-bootcamp (Free 107-Hour AWS Cloud Project Bootcamp)
 
                 Ultimate AWS Certified Solutions Architect Associate 2026 by Stephane Maarek:
@@ -3865,6 +3868,7 @@ Contents:
                 https://www.naukri.com/pulse/top-it-skills (Naukri:Top 100 Tech Skills That Recruiters Are Searching)
                 https://www.reddit.com/r/antiwork/top (Antiwork: Unemployment for all, not just the rich!)
                 https://www.reddit.com/r/careerguidance (A place to discuss career options, to ask questions and give advice!)
+                https://www.reddit.com/r/developersIndia/comments/1rwxa77/which_job_platforms_are_actually_giving_you (Which job platforms are actually giving you interviews?)
                 https://www.reddit.com/r/dubai/comments/194ouc4/what_are_some_things_every_newcomer_to_dubai (what are some things every newcomer to dubai should know?)
                 https://www.reddit.com/r/india/comments/81r29c/your_onestop_guide_to_emigrating_long_term_to
                 https://www.reddit.com/r/india/comments/gja5eo/advice_for_indians_looking_to_study_abroad_and
@@ -3927,6 +3931,7 @@ Contents:
                 https://remoteintech.company
                 https://www.fossjobs.net (This is a job board exclusively for paid free & open source jobs: We only list jobs at organizations that improve and involve FOSS or open hardware projects. )
                 https://map.stapply.ai (Map of Jobs at Top AI Companies | Stapply Job Map)
+                https://internshala.com (Internship and Training in India)
 
             Arab League Countries Job Sites:
                 https://ae.indeed.com (66)
@@ -5590,6 +5595,7 @@ Contents:
 
         Movies, TV and Documentaries:
             Sources:
+                https://channelsurfer.tv (Watch YouTube like it’s cable TV)
                 https://criticstop10.com (Critics’ Top 10)
                 https://editorial.rottentomatoes.com/guide/best-movies-of-all-time (Rotten Tomatoes : The 200 Best Movies of All Time)
                 https://editorial.rottentomatoes.com/guide/popular-tv-shows (25 Most Popular TV Shows Right Now: What to Watch on Streaming by Rotten Tomatoes Editors)
