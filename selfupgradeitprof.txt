@@ -4845,6 +4845,7 @@ Contents:
                 https://physicsworld.com (106,305)
                 https://facts.net (161,199)
                 https://www.americanscientist.org (259,313)
+                https://www.sciencedaily.com
 
         Design:
             Sources:
@@ -5600,6 +5601,7 @@ Contents:
                 https://channelsurfer.tv (Watch YouTube like it’s cable TV)
                 https://criticstop10.com (Critics’ Top 10)
                 https://editorial.rottentomatoes.com/guide/best-movies-of-all-time (Rotten Tomatoes : The 200 Best Movies of All Time)
+                https://editorial.rottentomatoes.com/guide/popular-movies (30 Most Popular Movies Right Now: What to Watch In Theaters and Streaming by Rotten Tomatoes Editors)
                 https://editorial.rottentomatoes.com/guide/popular-tv-shows (25 Most Popular TV Shows Right Now: What to Watch on Streaming by Rotten Tomatoes Editors)
                 https://editorial.rottentomatoes.com/guide/rt25-critics-top-tv-shows-of-the-last-25-years-2 (RT25: Critics’ Top TV Shows of the Last 25 Years)
                 https://en.m.wikipedia.org/wiki/List_of_films_voted_the_best (List of films voted the best)
@@ -5885,6 +5887,7 @@ Contents:
             https://github.com/bobeff/open-source-games (A list of open source games.)
             https://github.com/btw-so/open-source-alternatives (List of open-source alternatives to everyday SaaS products.)
             https://github.com/C4illin/ConvertX (💾 Self-hosted online file converter. Supports 1000+ formats ⚙️)
+            https://github.com/Crosstalk-Solutions/project-nomad (https://www.projectnomad.us Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.)
             https://github.com/girliemac/a-picture-is-worth-a-1000-words (I am trying to describe complex matters in simple doodles!)
             https://github.com/goenning/google-indexing-script (https://seogets.com/blog/google-indexing-script Google Indexing Script)
             https://github.com/gothinkster/realworld ("The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more)
