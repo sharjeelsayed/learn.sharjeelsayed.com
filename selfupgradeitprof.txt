@@ -5167,6 +5167,7 @@ Contents:
                 https://eks.news (n/a)
                 https://ipj.dreamhosters.com (n/a)
                 https://thisweekindevops.com (n/a)
+                https://www.devopsweekly.com
 
         Blogs:
             Sources:
@@ -5614,7 +5615,7 @@ Contents:
                 https://en.wikipedia.org/wiki/The_World_at_War (The World at War is a 26-episode British documentary television series that chronicles the events of the Second World War.)
                 https://github.com/Free-TV/IPTV (M3U Playlist for free TV channels )
                 https://github.com/greybax/awesome-IT-films (https://alfilatov.com/awesome-IT-films A curated list of awesome films about IT & geek people.)
-                https://github.com/iptv-org/iptv (Collection of publicly available IPTV channels from all over the world)
+                https://github.com/iptv-org/iptv (https://iptv-org.github.io Collection of publicly available IPTV channels from all over the world )
                 https://news.ycombinator.com/item?id=16105040 (Ask HN: Great science fiction movies?)
                 https://news.ycombinator.com/item?id=24088582 (Ask HN: Films that made you see the world differently?)
                 https://news.ycombinator.com/item?id=29106967 (Ask HN: What are some technically inspiring movies, TV shows or documentaries?)
