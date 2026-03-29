@@ -1194,6 +1194,7 @@ Contents:
                 https://www.byobu.org (Byobu is a GPLv3 open source text-based window manager and terminal multiplexer.)
                 https://www.commandlinefu.com/commands/matching/tmux/dG11eA==/sort-by-votes
                 https://www.iterm2.com/documentation-tmux-integration.html (iTerm2 is integrated with tmux, allowing you to enjoy a native user interface with all the benefits of tmux's persistence.)
+                https://www.simplethread.com/the-tmux-intro-i-wish-i-had-gotten (The tmux intro I wish I had gotten)
                 https://www.stationx.net/tmux-cheat-sheet (Tmux Cheat Sheet: Essential Commands And Quick References)
                 https://xai.sh/2020/10/16/Move-running-process-into-tmux-session.html (Move a running process into a tmux session)
                 https://youtu.be/DzNmUNvnB04 (Tmux has forever changed the way I write code by Dreams of Code)
@@ -1426,6 +1427,7 @@ Contents:
                 https://github.com/kubeshark/kubeshark (The API traffic viewer for Kubernetes providing deep visibility into all API traffic and payloads going in, out and across containers and pods inside a Kubernetes cluster. Think TCPDump and Wireshark re-invented for Kubernetes)
                 https://github.com/kubesphere/kubesphere (https://kubesphere.io The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️)
                 https://github.com/lima-vm/lima (https://lima-vm.io Linux virtual machines, with a focus on running containers )
+                https://github.com/metalbear-co/mirrord (https://metalbear.com/mirrord Connect your local process and your cloud environment, and run local code in cloud conditions.)
                 https://github.com/nevalla/lens-resource-map-extension (Lens - The Kubernetes IDE extension that displays Kubernetes resources and their relations as a force graph.)
                 https://github.com/paralus/paralus (https://www.paralus.io All-in-one Kubernetes access manager. User-level credentials, RBAC, SSO, audit logs.)
                 https://github.com/philippemerle/KubeDiagrams (Generate Kubernetes architecture diagrams from Kubernetes manifest files, kustomization files, Helm charts, and actual cluster state )
@@ -1582,7 +1584,7 @@ Contents:
                     https://github.com/nigelpoulton/TheK8sBook (YAML files for use with The Kubernetes Book)
                     https://nigelpoulton.com/for-individuals (Nigel's learning Roadmap:7 Steps to learn Kubernetes and Docker)
 
-                Kubernetes in Action, Second Edition by Marko Lukša (Releasing on November 26, 2024):
+                Kubernetes in Action, Second Edition by Marko Lukša:
                     https://www.amazon.com/Kubernetes-Action-Second-Marko-Luk%C5%A1a/dp/1617297615
                     https://www.manning.com/books/kubernetes-in-action-second-edition
                     https://livebook.manning.com/book/kubernetes-in-action-second-edition
@@ -2152,7 +2154,7 @@ Contents:
                     https://www.udemy.com/course/the-complete-sql-bootcamp
                     https://github.com/jmportilla/Udemy-notes (Coupon)
 
-            PostgreSQL Clients: (Sorted by Alexa Rank)
+            PostgreSQL Tools and Clients: (Sorted by Alexa Rank)
                 https://www.jetbrains.com/datagrip (1,677)
                 https://tableplus.com (41,038)
                 https://www.navicat.com (52,231)
@@ -2164,6 +2166,7 @@ Contents:
                 https://www.pgcli.com (4,635,481)
                 https://www.valentina-db.com/en/valentina-studio-overview (626,733)
                 https://www.malcolmhardie.com/sqleditor (5,931,983)
+                https://github.com/dimitri/pgcopydb (Copy a Postgres database to a target Postgres server (pg_dump | pg_restore on steroids) )
 
         Redis:
             Sources:
@@ -2185,7 +2188,6 @@ Contents:
             Sources:
                 https://blog.martinhujer.cz/dont-put-idea-vscode-directories-to-projects-gitignore (Don't put .idea and .vscode directories to project's .gitignore)
                 https://docs.github.com/en/repositories/releasing-projects-on-github/linking-to-releases (Linking to the latest release)
-                https://firstaidgit.io (A searchable collection of the most frequently asked Git Questions)
                 https://git-stars.org (Uncover the most trending GitHub repositories, explore programming languages, and connect with top developers in the open source ecosystem.)
                 https://gitexplorer.com (Find the right commands you need without digging through the web)
                 https://github.com/AndreMiras/gitpop2 (Find the most popular fork on GitHub)
@@ -2205,7 +2207,7 @@ Contents:
                 https://stackoverflow.com/questions/tagged/git
                 https://useful-forks.github.io (It aims at increasing the discoverability of useful forks of open-source projects.)
                 https://www.garyrobinson.net/2014/10/git-in-two-minutes-for-a-solo-developer.html (Git In Two Minutes (for a solo developer))
-                https://www.reddit.com/r/git/top/?sort=top&t=all
+                https://www.reddit.com/r/git/top/?sort=top&t=all (Top posts in r/git)
                 https://www.udemy.com/topic/git/?ratings=4.5&sort=popularity (Udemy Courses rated 4.5 stars and above)
 
             Git Tools:
@@ -2251,6 +2253,7 @@ Contents:
                     https://beej.us/guide/bggit (Beej's Guide to Git)
                     https://blog.gitbutler.com/git-tips-and-tricks (Git Tips and Tricks)
                     https://blog.gitbutler.com/how-git-core-devs-configure-git (How Core Git Developers Configure Git by Scott Chacon)
+                    https://firstaidgit.io (A searchable collection of the most frequently asked Git Questions)
                     https://git-scm.com/book/en/v2/Git-Tools-Reset-Demystified (Reset vs Checkout)
                     https://github.com/FAQGURU/FAQGURU/blob/master/topics/en/git.md (A list of Git interview questions)
                     https://github.com/Gazler/githug (Githug is designed to give you a practical way of learning git. It has a series of levels, each requiring you to use git commands to arrive at a correct answer.)
@@ -2271,6 +2274,7 @@ Contents:
                     https://www.shortcutfoo.com/app/dojos/git (Choose shortcuts to practice)
                     https://youtu.be/1ffBJ4sVUb4 ([Linux.conf.au 2013] - Git For Ages 4 And Up)
                     https://youtu.be/2sjqTHE0zok (Lecture 6: Version Control (git) (2020) by Missing Semester)
+                    https://youtu.be/Ala6PHlYjmw?si=egxhojfiwjgr76D1 (Git Will Finally Make Sense After This)
                     https://youtu.be/aolI_Rz0ZqY?si=RcI9i3Ku2fWD8PbI (So You Think You Know Git - FOSDEM 2024 by Scott Chacon's from GitButler)
 
                 Pro Git
@@ -2761,6 +2765,7 @@ Contents:
                 https://github.com/exelban/stats (macOS system monitor in your menu bar)
                 https://github.com/iCHAIT/awesome-macOS ( A curated list of awesome applications, softwares, tools and shiny things for macOS.)
                 https://github.com/jaywcjlove/awesome-mac (https://wangchujiang.com/awesome-mac awesome macOS software in various categories)
+                https://github.com/kerma/defaultbrowser (Command line tool for getting and setting a default browser (HTTP handler) in macOS)
                 https://github.com/koekeishiya/yabai (A tiling window manager for macOS based on binary space partitioning)
                 https://github.com/mangerlahn/Latest (https://max.codes/latest A small utility app for macOS that makes sure you know about all the latest updates to the apps you use.)
                 https://github.com/MikeMcQuaid/strap (https://strap.mikemcquaid.com 👢 Bootstrap your macOS development system.)
@@ -3014,7 +3019,6 @@ Contents:
                 https://boto3.amazonaws.com/v1/documentation/api/latest/index.html (Boto3 Documentation)
                 https://github.com/mahmoud/awesome-python-applications ( 💿 Free software that works great, and also happens to be open-source Python ftp://you:relookin@it#readme)
                 https://github.com/ml-tooling/best-of-web-python (🏆 A ranked list of awesome python libraries for web development. Updated weekly.)
-                https://github.com/pamoroso/free-python-books (Python books free to read online or download)
                 https://github.com/pyenv/pyenv (Simple Python version management )
                 https://github.com/python-poetry/poetry (https://python-poetry.org Python packaging and dependency management made easy)
                 https://github.com/TheAlgorithms/Python (All Algorithms implemented in Python )
@@ -3090,8 +3094,8 @@ Contents:
                 100 Days of Code: The Complete Python Pro Bootcamp by Dr. Angela Yu
                 https://www.udemy.com/course/100-days-of-code
 
-                Python Programming MOOC 2024 by the University of Helsinki
-                https://programming-24.mooc.fi
+                Python Programming MOOC 2026 by the University of Helsinki
+                https://programming-26.mooc.fi
 
         Go:
             Sources:
@@ -5145,7 +5149,6 @@ Contents:
                 https://www.morningbrew.com/it (9,035)
                 https://thenewstack.io/newsletter-archive (24,975) (No RSS feed available)
                 https://finshots.in (41,149)
-                https://kubeweekly.io (44,540)
                 https://stratechery.com (49,773)
                 https://blog.bytebytego.com (70,838)
                 https://lwn.net (73,553)
@@ -5154,20 +5157,21 @@ Contents:
                 https://www.schneier.com/crypto-gram (171,909)
                 https://tldr.tech (275,317) (Get the free daily email with summaries of the most interesting stories in startups 🚀, tech 📱, and programming 💻)
                 https://thebrowser.com (301,904)
-                https://www.lastweekinaws.com (359,464)
+                https://www.lastweekinaws.com (359,464) (Chief Cloud Economist Corey Quinn goes through the torrent of news about Amazon’s cloud ecosystem and strains out the noise. Then he takes what’s left and gently and lovingly makes fun of it.)
                 https://www.emergingtechbrew.com (1,131,395)
                 https://softwareleadweekly.com (1,692,604) (No RSS feed available)
                 https://app.mailbrew.com/unreadit/tech-Rrjzlxqyv6Q1 (1,877,598)
                 https://app.mailbrew.com/unreadit/apple-IrGlTkMnbO9o (1,877,598)
                 https://hackernewsletter.com (#2,010,494) (Since 2010, we've put out a weekly newsletter of the best articles on startups, technology, programming, and more. All links are curated by hand from Hacker News. )
                 https://tldrsec.com (2,243,441)
-                https://sreweekly.com (2,522,079)
+                https://sreweekly.com (2,522,079) (SRE Weekly is a newsletter devoted to everything related to keeping a site or service available as consistently as possible. )
                 https://cloudseclist.com (3,016,496)
                 https://newsletter.sharjeelsayed.com (A Daily Newsletter curated by SharjeelSayed.com)
                 https://eks.news (n/a)
                 https://ipj.dreamhosters.com (n/a)
                 https://thisweekindevops.com (n/a)
-                https://www.devopsweekly.com
+                https://www.devopsweekly.com (A weekly slice of devops news brought to you by Gareth Rushgrove. )
+                https://buttondown.com/devopsish (Cloud Native, DevOps, Open Source, industry news, culture, and the ‘ish between. A newsletter by Chris Short.)
 
         Blogs:
             Sources:
