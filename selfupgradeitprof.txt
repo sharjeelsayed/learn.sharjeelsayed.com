@@ -1,7 +1,7 @@
 Curated Self Study Guide for Computer Science, DevOps, SRE, Platform Engineering & SysAdmin
 
-    The latest copy of this page is at https://Learn.SharjeelSayed.com . Star, Watch or Fork this page at https://GitHub.com/SharjeelSayed/Learn.SharjeelSayed.com
-
+    The latest copy of this page is at https://Learn.SharjeelSayed.com
+    Star, Watch or Fork this page at https://GitHub.com/SharjeelSayed/Learn.SharjeelSayed.com
     About me: SharjeelSayed.com
 
 Contents:
@@ -1295,14 +1295,15 @@ Contents:
 
             Books and Courses:
                 Tutorials:
-                https://containersfromthecouch.com (Live streams and videos featuring AWS Container Services and demos. We focus on demos and teaching people how to use different container technologies. ECS, Kubernetes, Cloud Native, and lots of open source tools and tips.)
-                https://devopswithdocker.com (DevOps with Docker Containers for Beginners by University of Helsinki)
-                https://diveintodocker.com (Dive Into Docker The Complete Docker Course for Developers by Nick Janetakis)
-                https://github.com/hexops/dockerfile (Dockerfile best-practices for writing production-worthy Docker images.)
-                https://github.com/OWASP/CheatSheetSeries (https://cheatsheetseries.owasp.org/cheatsheets/Docker_Security_Cheat_Sheet.html (OWASP Docker Security Cheat Sheet)
-                https://github.com/wsargent/docker-cheat-sheet (Docker Cheat Sheet)
-                https://sysdig.com/blog/dockerfile-best-practices (Top 20 Dockerfile best practices)
-                https://www.freecodecamp.org/news/the-docker-handbook (The Docker Handbook – Learn Docker for Beginners by Farhan Hasin Chowdhury)
+                    https://containersfromthecouch.com (Live streams and videos featuring AWS Container Services and demos. We focus on demos and teaching people how to use different container technologies. ECS, Kubernetes, Cloud Native, and lots of open source tools and tips.)
+                    https://devopswithdocker.com (DevOps with Docker Containers for Beginners by University of Helsinki)
+                    https://diveintodocker.com (Dive Into Docker The Complete Docker Course for Developers by Nick Janetakis)
+                    https://github.com/hexops/dockerfile (Dockerfile best-practices for writing production-worthy Docker images.)
+                    https://github.com/OWASP/CheatSheetSeries (https://cheatsheetseries.owasp.org/cheatsheets/Docker_Security_Cheat_Sheet.html (OWASP Docker Security Cheat Sheet)
+                    https://github.com/wsargent/docker-cheat-sheet (Docker Cheat Sheet)
+                    https://sysdig.com/blog/dockerfile-best-practices (Top 20 Dockerfile best practices)
+                    https://www.freecodecamp.org/news/the-docker-handbook (The Docker Handbook – Learn Docker for Beginners by Farhan Hasin Chowdhury)
+                    https://youtu.be/ObhdD49AEYw?si=Owt5d0WqVpYRLXcG (Docker Core Concepts Every Developer Should Know by LearnThatStack)
 
                 Docker Official Documentation:
                     https://docs.docker.com/get-started/overview
@@ -2189,7 +2190,6 @@ Contents:
                 https://blog.martinhujer.cz/dont-put-idea-vscode-directories-to-projects-gitignore (Don't put .idea and .vscode directories to project's .gitignore)
                 https://docs.github.com/en/repositories/releasing-projects-on-github/linking-to-releases (Linking to the latest release)
                 https://git-stars.org (Uncover the most trending GitHub repositories, explore programming languages, and connect with top developers in the open source ecosystem.)
-                https://gitexplorer.com (Find the right commands you need without digging through the web)
                 https://github.com/AndreMiras/gitpop2 (Find the most popular fork on GitHub)
                 https://github.com/EvanLi/Github-Ranking (⭐Github Ranking⭐ Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily.)
                 https://github.com/topics/git?o=desc&s=stars
@@ -2203,8 +2203,6 @@ Contents:
                 https://nvie.com/posts/a-successful-git-branching-model (A successful Git branching model)
                 https://ossinsight.io (SELECT insights FROM GitHub events 🔥 Trending Repos)
                 https://relatedrepos.com (Discover related open source projects)
-                https://sourcegraph.com/search (Search your code and 2M+ open source repositories)
-                https://stackoverflow.com/questions/tagged/git
                 https://useful-forks.github.io (It aims at increasing the discoverability of useful forks of open-source projects.)
                 https://www.garyrobinson.net/2014/10/git-in-two-minutes-for-a-solo-developer.html (Git In Two Minutes (for a solo developer))
                 https://www.reddit.com/r/git/top/?sort=top&t=all (Top posts in r/git)
@@ -2243,6 +2241,7 @@ Contents:
                 https://grep.app (Search across a half million git repos)
                 https://mrshu.github.io/github-statuses (The Missing GitHub Status Page)
                 https://mshibanami.github.io/GitHubTrendingRSS (GitHub Trending RSS)
+                https://sourcegraph.com/search (Search your code and 2M+ open source repositories)
                 https://www.sourcetreeapp.com (A free Git client for Windows and Mac)
                 https://www.sublimemerge.com (Git Client, done Sublime)
                 https://www.toptal.com/developers/gitignore (Create useful .gitignore files for your project)
@@ -2255,6 +2254,7 @@ Contents:
                     https://blog.gitbutler.com/how-git-core-devs-configure-git (How Core Git Developers Configure Git by Scott Chacon)
                     https://firstaidgit.io (A searchable collection of the most frequently asked Git Questions)
                     https://git-scm.com/book/en/v2/Git-Tools-Reset-Demystified (Reset vs Checkout)
+                    https://gitexplorer.com (Find the right commands you need without digging through the web)
                     https://github.com/FAQGURU/FAQGURU/blob/master/topics/en/git.md (A list of Git interview questions)
                     https://github.com/Gazler/githug (Githug is designed to give you a practical way of learning git. It has a series of levels, each requiring you to use git commands to arrive at a correct answer.)
                     https://github.com/git-learning-game/oh-my-git (https://ohmygit.org An open source game about learning Git!)
@@ -2274,7 +2274,6 @@ Contents:
                     https://www.shortcutfoo.com/app/dojos/git (Choose shortcuts to practice)
                     https://youtu.be/1ffBJ4sVUb4 ([Linux.conf.au 2013] - Git For Ages 4 And Up)
                     https://youtu.be/2sjqTHE0zok (Lecture 6: Version Control (git) (2020) by Missing Semester)
-                    https://youtu.be/Ala6PHlYjmw?si=egxhojfiwjgr76D1 (Git Will Finally Make Sense After This)
                     https://youtu.be/aolI_Rz0ZqY?si=RcI9i3Ku2fWD8PbI (So You Think You Know Git - FOSDEM 2024 by Scott Chacon's from GitButler)
 
                 Pro Git
@@ -2284,8 +2283,10 @@ Contents:
                     https://learngitbranching.js.org (https://github.com/pcottle/learnGitBranching An interactive git visualization and tutorial. Aspiring students of git can use this app to educate and challenge themselves towards mastery of git! )
 
                 Git Concepts:
+                    https://stackoverflow.com/questions/3528245/whats-the-difference-between-git-reset-mixed-soft-and-hard/59675191#59675191 (What's the difference between git reset --mixed, --soft and --hard? (with diagrams))
                     https://think-like-a-git.net (Think Like (a) Git A Guide for the Perplexed)
                     https://www.cduan.com/technical/git (Understanding Git Conceptually)
+                    https://youtu.be/Ala6PHlYjmw?si=egxhojfiwjgr76D1 (Git Will Finally Make Sense After This by LearnThatStack)
 
                 Git Internals:
                     https://bakkenbaeck.github.io/a-random-walk-through-git (This tutorial is an in-depth look at how Git works)
@@ -2923,9 +2924,11 @@ Contents:
                 https://news.ycombinator.com/item?id=28017289 (Ask HN: Do you have a process or a framework to learn specific skills quickly?)
                 https://news.ycombinator.com/item?id=34591291 (Ask HN: What's the best lecture series you've seen?)
                 https://news.ycombinator.com/item?id=35536042 (Ask HN: What are some of the best university courses available online for free?)
+                https://rankings.ft.com/rankings/3007/online-mba-2026 (FT Online MBA Rankings 2026)
                 https://www.classcentral.com/collection/top-free-online-courses (The Best Free Online Courses of All Time)
                 https://www.classcentral.com/starting-this-month
                 https://www.cram.com (Find flashcards to study)
+                https://www.domestika.org (Best online courses for creatives)
                 https://www.freecodecamp.org/news/best-online-courses
                 https://www.masterclass.com
                 https://www.nirfindia.org/Rankings/2025/OverallRanking.html (National Institutional Ranking Framework Ministry of Education Government of India College and University Ranking)
@@ -2946,7 +2949,6 @@ Contents:
                 https://www.udemy.com/featured-topics (Popular and trending topics)
                 https://www.youtube.com/@BroCodez (This channel is dedicated to providing free education to those that can't afford college, bootcamps, and whatever crap coding gurus try to sell you.)
                 https://yahnd.com (Best courses , talks and videos recommended on Hacker News)
-                https://www.domestika.org (Best online courses for creatives)
 
             Online Course Portals: (Sorted by Alexa Rank)
                 https://www.linkedin.com/learning (14)
