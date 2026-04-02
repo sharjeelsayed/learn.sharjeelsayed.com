@@ -945,6 +945,7 @@ Contents:
                 https://github.com/canonical/multipass (Multipass orchestrates virtual Ubuntu instances)
                 https://github.com/ChrisTitusTech/linutil (Chris Titus Tech's Linux Toolbox - Linutil is a distro-agnostic toolbox designed to simplify everyday Linux tasks. )
                 https://github.com/desbma/shh (Systemd Hardening Helper - Automatic systemd service hardening guided by strace profiling )
+                https://github.com/fastfetch-cli/fastfetch (A maintained, feature-rich and performance oriented, neofetch like system information tool. )
                 https://github.com/google/perfetto (https://perfetto.dev Performance instrumentation and tracing for Android, Linux and Chrome )
                 https://github.com/linuxmint/timeshift (System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB. )
                 https://github.com/microsoft/ProcMon-for-Linux (A Linux version of the Procmon Sysinternals tool )
@@ -1216,6 +1217,7 @@ Contents:
                 https://github.com/DavidXanatos/TaskExplorer (https://xanasoft.com Power full Task Manager )
                 https://github.com/dockur/windows (Windows inside a Docker container.)
                 https://github.com/eythaann/Seelen-UI (The Fully Customizable Desktop Environment for Windows 10/11.)
+                https://github.com/fastfetch-cli/fastfetch (A maintained, feature-rich and performance oriented, neofetch like system information tool. )
                 https://github.com/flick9000/winscript (https://winscript.cc Open-source tool to build your Windows script from scratch. It includes debloat, privacy, performance & app installing scripts.)
                 https://github.com/HotCakeX/Harden-Windows-Security (Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels)
                 https://github.com/massgravel/Microsoft-Activation-Scripts (https://massgrave.dev A Windows and Office activator using HWID / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.)
@@ -1299,6 +1301,7 @@ Contents:
                     https://devopswithdocker.com (DevOps with Docker Containers for Beginners by University of Helsinki)
                     https://diveintodocker.com (Dive Into Docker The Complete Docker Course for Developers by Nick Janetakis)
                     https://github.com/hexops/dockerfile (Dockerfile best-practices for writing production-worthy Docker images.)
+                    https://github.com/LeCoupa/awesome-cheatsheets/blob/master/tools/docker.sh (Docker Cheat Sheet by LeCoupa)
                     https://github.com/OWASP/CheatSheetSeries (https://cheatsheetseries.owasp.org/cheatsheets/Docker_Security_Cheat_Sheet.html (OWASP Docker Security Cheat Sheet)
                     https://github.com/wsargent/docker-cheat-sheet (Docker Cheat Sheet)
                     https://sysdig.com/blog/dockerfile-best-practices (Top 20 Dockerfile best practices)
@@ -1515,6 +1518,16 @@ Contents:
                     https://www.youtube.com/playlist?list=PL2We04F3Y_41lFKy19ig_9u-5Sj_RWTDL (JSON PATH)
                     https://youtu.be/XuSQU5Grv1g?si=nKr79YJYpDjAcRMs (Kubernetes Crash Course: Learn the Basics and Build a Microservice Application by Mumshad Mannambeth)
 
+                Kubernetes in Action, Second Edition by Marko Lukša and Kevin Conner:
+                    https://www.amazon.com/Kubernetes-Action-Second-Marko-Luk%C5%A1a/dp/1617297615
+                    https://www.manning.com/books/kubernetes-in-action-second-edition
+                    https://livebook.manning.com/book/kubernetes-in-action-second-edition
+                    https://wangwei1237.github.io/Kubernetes-in-Action-Second-Edition
+                    https://github.com/luksa/kubernetes-in-action-2nd-edition
+                    https://www.manning.com/books/kubernetes-in-action
+                    https://livebook.manning.com/book/kubernetes-in-action
+                    https://github.com/luksa/kubernetes-in-action
+
                 Kubernetes Up and Running Dive into the Future of Infrastructure 3rd Edition (2022) by Brendan Burns, Joe Beda, Kelsey Hightower and Lachlan Evenson:
                     https://www.oreilly.com/library/view/kubernetes-up-and/9781098110192
                     https://www.amazon.com/Kubernetes-Up-Running-Brendan-Burns-ebook/dp/B0B8G22T5L
@@ -1584,16 +1597,6 @@ Contents:
                     https://leanpub.com/thekubernetesbook
                     https://github.com/nigelpoulton/TheK8sBook (YAML files for use with The Kubernetes Book)
                     https://nigelpoulton.com/for-individuals (Nigel's learning Roadmap:7 Steps to learn Kubernetes and Docker)
-
-                Kubernetes in Action, Second Edition by Marko Lukša:
-                    https://www.amazon.com/Kubernetes-Action-Second-Marko-Luk%C5%A1a/dp/1617297615
-                    https://www.manning.com/books/kubernetes-in-action-second-edition
-                    https://livebook.manning.com/book/kubernetes-in-action-second-edition
-                    https://wangwei1237.github.io/Kubernetes-in-Action-Second-Edition
-                    https://github.com/luksa/kubernetes-in-action-2nd-edition
-                    https://www.manning.com/books/kubernetes-in-action
-                    https://livebook.manning.com/book/kubernetes-in-action
-                    https://github.com/luksa/kubernetes-in-action
 
                 Argo CD Essential Guide for End Users with Practice by Muhammad Abusaa:
                     https://www.udemy.com/course/argo-cd-essential-guide-for-end-users-with-practice
@@ -2764,6 +2767,7 @@ Contents:
                 https://github.com/artginzburg/sudo-touchid ( Permanent TouchID support 👆 for `sudo`.)
                 https://github.com/caldis/mos (A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS )
                 https://github.com/exelban/stats (macOS system monitor in your menu bar)
+                https://github.com/fastfetch-cli/fastfetch (A maintained, feature-rich and performance oriented, neofetch like system information tool. )
                 https://github.com/iCHAIT/awesome-macOS ( A curated list of awesome applications, softwares, tools and shiny things for macOS.)
                 https://github.com/jaywcjlove/awesome-mac (https://wangchujiang.com/awesome-mac awesome macOS software in various categories)
                 https://github.com/kerma/defaultbrowser (Command line tool for getting and setting a default browser (HTTP handler) in macOS)
@@ -5119,6 +5123,7 @@ Contents:
                     https://www.youtube.com/channel/UCF0pVplsI8R5kcAqgtoRqoA (YouTube Worldwide Popular Right Now)
                     https://www.youtube.com/channel/UCAh9DbAZny_eoGFsYlH2JZw (YouTube India Popular Right Now)
                     https://www.youtube.com/user/SayedSharjeel/channels
+                    https://www.youtube.com/premium/annual (YouTube Premium Annual Subscription)
 
                 Bookmarks:
                     Import http://Bookmarks.SharjeelSayed.com into your Browser or view online at https://pinboard.in/u:SharjeelSayed
