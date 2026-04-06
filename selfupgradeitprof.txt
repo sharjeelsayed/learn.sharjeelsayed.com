@@ -792,6 +792,8 @@ Contents:
             Sources:
                 http://www.devopsbookmarks.com (Discover tools and frameworks in the DevOps landscape.)
                 https://aws.amazon.com/blogs/devops/the-most-visited-devops-and-developer-productivity-blog-posts-in-2024-copy (The most visited DevOps and Developer Productivity blog posts in 2024)
+                https://chrisshort.net/devops-news (DevOps Newsletters recommended by Chris Short)
+                https://chrisshort.net/devops-readme (What books 📚 to read to learn more about DevOps .Recommended by Chris Short)
                 https://devopsengineers.com (Slack Channel)
                 https://devopsnewsletters.com (DevOps Newsletters)
                 https://docs.google.com/spreadsheets/d/1QT2iUlLlt9R44U4lsTL0u5rOC_Cr_zuYLYAazp-2oA8 (DevOps Skills ScroreCard)
@@ -806,7 +808,7 @@ Contents:
                 https://github.com/jersonmartinez/DevOps-YouTube-Channels (DevOps YouTube Channels)
                 https://github.com/MichaelCade/90DaysOfDevOps (This repository is my documenting repository for learning the world of DevOps)
                 https://github.com/microsoft/code-with-engineering-playbook (This is the playbook for "code-with" customer or partner engagements)
-                https://github.com/milanm/DevOps-Roadmap (https://newsletter.techworld-with-milan.com DevOps Roadmap for 2023. with learning resources )
+                https://github.com/milanm/DevOps-Roadmap (https://newsletter.techworld-with-milan.com DevOps Roadmap for 2026. with learning resources)
                 https://github.com/nmarus/docker-devops-box (Portable DevOps environment in Docker)
                 https://github.com/Pradumnasaraf/DevOps (https://devops.pradumnasaraf.dev I created this repository to keep my learning, notes, and code in one place for various tools in DevOps. Now, it's helping thousands of learners, practitioners, and professionals every day in their DevOps journey.)
                 https://github.com/Tikam02/DevOps-Guide (Development to Production all configurations with basic notes to debug efficiently.)
@@ -823,6 +825,8 @@ Contents:
                 https://prepare.sh/engineering/devops (I scraped all DevOps Interview Questions for Meta, Amazon, Google, Yahoo.)
                 https://roadmap.sh/devops (Step by step guide for DevOps, SRE or any other Operations Role in 2025)
                 https://slack.cloudposse.com https://sweetops.slack.com https://slack.sweetops.com (SweetOps Slack Group)
+                https://tldr.tech/devops (Improve your DevOps skills in 5 minutes Get our free daily newsletter with curated tools 💻, trends 📈, and insights 💡, for DevOps Engineers 👨‍💻)
+                https://www.devopsbulletin.com (DevOps Bulletin is a weekly newsletter for engineers who care about building reliable systems, controlling cloud costs, and staying ahead of what is changing in DevOps.)
                 https://www.devopscommunity.in
                 https://www.linkedin.com/groups/2825397 (DevOps Group)
                 https://www.reddit.com/r/devops/comments/1ahd072/most_intelligent_engineers_on_youtube (Most intelligent engineers on YouTube)
@@ -1492,6 +1496,7 @@ Contents:
                     https://www.udemy.com/topic/kubernetes/?ratings=4.5&sort=popularity (Udemy Courses rated 4.5 stars and above)
                     https://ymmt2005.hatenablog.com/entry/k8s-things (47 Things To Become a Kubernetes Expert)
                     https://youtu.be/0Omvgd7Hg1I (Life of a Packet [I] - Michael Rubin, Google)
+                    https://youtu.be/iVj5vEnbFr0?si=DF-xB6m8rY4wjNRg ( Kubernetes Is Not a Deployment Tool by LearnThatStack)
 
                 Kubernetes Documentation:
                     https://kubernetes.io/docs/concepts (The Concepts section helps you learn about the parts of the Kubernetes system and the abstractions Kubernetes uses to represent your cluster, and helps you obtain a deeper understanding of how Kubernetes works.)
@@ -1729,6 +1734,7 @@ Contents:
                     https://aws.amazon.com/education/awseducate (Build your cloud skills at your own pace, on your own time, and completely for free)
                     https://aws.amazon.com/solutions (AWS Solutions Library Vetted solutions and guidance for business and technical use cases)
                     https://aws.amazon.com/training/digital/aws-security-fundamentals (AWS Security Fundamentals (Second Edition))
+                    https://github.com/Hacking-the-Cloud/hackingthe.cloud (https://hackingthe.cloud An encyclopedia for offensive and defensive security knowledge in cloud native technologies. )
                     https://notes.kodekloud.com/docs/AWS-Networking-Fundamentals (AWS Networking Fundamentals Notes by KodeKloud)
                     https://www.freecodecamp.org/news/free-107-hour-aws-cloud-project-bootcamp (Free 107-Hour AWS Cloud Project Bootcamp)
 
@@ -2616,6 +2622,7 @@ Contents:
                     https://github.com/0xsyr0/OSCP (OSCP Cheat Sheet)
                     https://github.com/farhanashrafdev/90DaysOfCyberSecurity (This repository contains a 90-day cybersecurity study plan, along with resources and materials for learning various cybersecurity concepts and technologies. The plan is organized into daily tasks, covering topics such as Network+, Security+, Linux, Python, Traffic Analysis, Git, ELK, AWS, Azure, and Hacking. The repository also includes a `LEARN.md )
                     https://github.com/gracenolan/Notes (Security Engineering at Google: My Interview Study Notes)
+                    https://github.com/Hacking-the-Cloud/hackingthe.cloud (https://hackingthe.cloud An encyclopedia for offensive and defensive security knowledge in cloud native technologies. )
                     https://github.com/HadessCS/Red-team-Interview-Questions (Red team Interview Questions)
                     https://github.com/hahwul/DevSecOps ( 🔱 Collection and Roadmap for everyone who wants DevSecOps. Hope your DevOps are more safe 😎)
                     https://github.com/imthenachoman/How-To-Secure-A-Linux-Server (An evolving how-to guide for securing a Linux server.)
@@ -5140,6 +5147,7 @@ Contents:
 
         NewsLetters:
             Sources:
+                https://chrisshort.net/devops-readme (What books 📚 to read to learn more about DevOps .Recommended by Chris Short)
                 https://devopsnewsletters.com
                 https://github.com/TalEliyahu/awesome-security-newsletters (Periodic cyber security newsletters that capture the latest news, summaries of conference talks, research, best practices, tools, events, vulnerabilities, and analysis of trending threats and attacks)
                 https://github.com/topics/newsletter?o=desc&s=stars
@@ -5153,32 +5161,33 @@ Contents:
                 https://www.sans.org/newsletters (SANS offers three newsletters to keep you up-to-date on the latest cybersecurity news, cyber attacks and vulnerabilities, and security awareness tips and stories.)
 
             Newsletters: (Sorted by Alexa Rank)
-                https://www.morningbrew.com/it (9,035)
-                https://thenewstack.io/newsletter-archive (24,975) (No RSS feed available)
-                https://finshots.in (41,149)
-                https://stratechery.com (49,773)
-                https://blog.bytebytego.com (70,838)
-                https://lwn.net (73,553)
-                https://danielmiessler.com/newsletter (96,519)
-                https://www.ben-evans.com/newsletter (107,535) (No RSS feed available)
-                https://www.schneier.com/crypto-gram (171,909)
-                https://tldr.tech (275,317) (Get the free daily email with summaries of the most interesting stories in startups 🚀, tech 📱, and programming 💻)
-                https://thebrowser.com (301,904)
-                https://www.lastweekinaws.com (359,464) (Chief Cloud Economist Corey Quinn goes through the torrent of news about Amazon’s cloud ecosystem and strains out the noise. Then he takes what’s left and gently and lovingly makes fun of it.)
-                https://www.emergingtechbrew.com (1,131,395)
-                https://softwareleadweekly.com (1,692,604) (No RSS feed available)
-                https://app.mailbrew.com/unreadit/tech-Rrjzlxqyv6Q1 (1,877,598)
                 https://app.mailbrew.com/unreadit/apple-IrGlTkMnbO9o (1,877,598)
-                https://hackernewsletter.com (#2,010,494) (Since 2010, we've put out a weekly newsletter of the best articles on startups, technology, programming, and more. All links are curated by hand from Hacker News. )
-                https://tldrsec.com (2,243,441)
-                https://sreweekly.com (2,522,079) (SRE Weekly is a newsletter devoted to everything related to keeping a site or service available as consistently as possible. )
-                https://cloudseclist.com (3,016,496)
-                https://newsletter.sharjeelsayed.com (A Daily Newsletter curated by SharjeelSayed.com)
-                https://eks.news (n/a)
-                https://ipj.dreamhosters.com (n/a)
-                https://thisweekindevops.com (n/a)
-                https://www.devopsweekly.com (A weekly slice of devops news brought to you by Gareth Rushgrove. )
+                https://app.mailbrew.com/unreadit/tech-Rrjzlxqyv6Q1 (1,877,598)
+                https://blog.bytebytego.com (70,838)
                 https://buttondown.com/devopsish (Cloud Native, DevOps, Open Source, industry news, culture, and the ‘ish between. A newsletter by Chris Short.)
+                https://cloudseclist.com (3,016,496)
+                https://danielmiessler.com/newsletter (96,519)
+                https://eks.news (n/a)
+                https://finshots.in (41,149)
+                https://hackernewsletter.com (#2,010,494) (Since 2010, we've put out a weekly newsletter of the best articles on startups, technology, programming, and more. All links are curated by hand from Hacker News. )
+                https://ipj.dreamhosters.com (n/a)
+                https://lwn.net (73,553)
+                https://newsletter.sharjeelsayed.com (A Daily Newsletter curated by SharjeelSayed.com)
+                https://softwareleadweekly.com (1,692,604) (No RSS feed available)
+                https://sreweekly.com (2,522,079) (SRE Weekly is a newsletter devoted to everything related to keeping a site or service available as consistently as possible. )
+                https://stratechery.com (49,773)
+                https://thebrowser.com (301,904)
+                https://thenewstack.io/newsletter-archive (24,975) (No RSS feed available)
+                https://thisweekindevops.com (n/a)
+                https://tldr.tech (275,317) (Get the free daily email with summaries of the most interesting stories in startups 🚀, tech 📱, and programming 💻)
+                https://tldr.tech/devops (Improve your DevOps skills in 5 minutes Get our free daily newsletter with curated tools 💻, trends 📈, and insights 💡, for DevOps Engineers 👨‍💻)
+                https://tldrsec.com (2,243,441)
+                https://www.ben-evans.com/newsletter (107,535) (No RSS feed available)
+                https://www.devopsbulletin.com (DevOps Bulletin is a weekly newsletter for engineers who care about building reliable systems, controlling cloud costs, and staying ahead of what is changing in DevOps.)
+                https://www.emergingtechbrew.com (1,131,395)
+                https://www.lastweekinaws.com (359,464) (Chief Cloud Economist Corey Quinn goes through the torrent of news about Amazon’s cloud ecosystem and strains out the noise. Then he takes what’s left and gently and lovingly makes fun of it.)
+                https://www.morningbrew.com/it (9,035)
+                https://www.schneier.com/crypto-gram (171,909)
 
         Blogs:
             Sources:
@@ -5211,6 +5220,7 @@ Contents:
                 https://wiki.nikitavoloboev.xyz/research/blogs#favorite-blogs
                 https://www.allthingsdistributed.com (Werner Vogels on building scalable and robust distributed systems)
                 https://www.discoverdev.io (Discover dev brings you a daily digest of the best engineering blogs from across the web! Handpicked by AI and a network of globally distributed nerds!)
+                https://blogosphere.app (Aggregating the best blogs across the web )
 
         Podcasts:
             Sources:
@@ -5252,6 +5262,7 @@ Contents:
                 https://github.com/disposable-email-domains/disposable-email-domains (a list of disposable and temporary email address domains )
                 https://github.com/nicanorflavier/spf-dkim-dmarc-simplified (Email security is a key part of internet communication. But what are SPF, DKIM, and DMARC, and how do they work? This guide will explain it all in simple terms to make these concepts clearer. )
                 https://nomoregoogle.com
+                https://spencermortensen.com/articles/email-obfuscation (Email address obfuscation: What works in 2026?)
                 https://stackoverflow.com/questions/9807909/are-email-addresses-case-sensitive
                 https://www.gov.uk/guidance/protect-domains-that-dont-send-email (Protect domains that do not send email)
                 https://www.learndmarc.com (Learn and Test DMARC)
