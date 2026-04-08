@@ -11,6 +11,7 @@
       <outline text="mid-day Mumbai News" title="mid-day Mumbai News" type="rss" xmlUrl="https://www.mid-day.com/Resources/midday/rss/mumbai-news.xml" htmlUrl="https://www.mid-day.com/mumbai/mumbai-news"/>
     </outline>
     <outline text="MustRead" title="MustRead">
+      <outline text="DevOps Bulletin" title="DevOps Bulletin" type="rss" xmlUrl="https://www.devopsbulletin.com/feed" htmlUrl="https://www.devopsbulletin.com/"/>
       <outline text="Hacker News 400+ points posts" title="Hacker News 400+ points posts" type="rss" xmlUrl="https://hnrss.org/newest?points=400" htmlUrl="https://news.ycombinator.com/newest"/>
       <outline text="Last Week in AWS" title="Last Week in AWS" type="rss" xmlUrl="https://www.lastweekinaws.com/feed/" htmlUrl="https://www.lastweekinaws.com/"/>
       <outline text="News from wikipedia events" title="News from wikipedia events" type="rss" xmlUrl="https://news.vinc.cc/search.atom?q=wikipedia+events" htmlUrl="https://news.vinc.cc/"/>
@@ -27,7 +28,6 @@
       <outline text="Nature" title="Nature" type="rss" xmlUrl="https://www.nature.com/nature.rss" htmlUrl="http://feeds.nature.com/nature/rss/current"/>
       <outline text="GitHub All Languages Daily Trending" title="GitHub All Languages Daily Trending" type="rss" xmlUrl="https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml" htmlUrl="http://mshibanami.github.io/GitHubTrendingRSS"/>
       <outline text="LWN.net" title="LWN.net" type="rss" xmlUrl="https://lwn.net/headlines/newrss" htmlUrl="https://lwn.net/"/>
-      <outline text="GitHub Status - Incident History" title="GitHub Status - Incident History" type="rss" xmlUrl="https://www.githubstatus.com/history.atom" htmlUrl="https://www.githubstatus.com/"/>
       <outline text="The Hacker News" title="The Hacker News" type="rss" xmlUrl="https://thehackernews.com/feeds/posts/default" htmlUrl="https://thehackernews.com/"/>
       <outline text="Slashdot" title="Slashdot" type="rss" xmlUrl="https://rss.slashdot.org/Slashdot/slashdotMain" htmlUrl="https://slashdot.org/"/>
       <outline text="FastMail Status" title="FastMail Status" type="rss" xmlUrl="https://www.fastmailstatus.com/feed" htmlUrl="http://www.fastmailstatus.com/feed"/>
@@ -35,6 +35,7 @@
       <outline text="SRE WEEKLY" title="SRE WEEKLY" type="rss" xmlUrl="https://sreweekly.com/feed/" htmlUrl="https://sreweekly.com/"/>
       <outline text="Schneier on Security" title="Schneier on Security" type="rss" xmlUrl="https://www.schneier.com/feed/atom" htmlUrl="https://www.schneier.com/"/>
       <outline text="The GitHub Blog" title="The GitHub Blog" type="rss" xmlUrl="https://github.blog/feed/" htmlUrl="https://github.blog/"/>
+      <outline text="GitHub Status - Incident History" title="GitHub Status - Incident History" type="rss" xmlUrl="https://www.githubstatus.com/history.atom" htmlUrl="https://www.githubstatus.com/"/>
       <outline text="Google Apps Status Dashboard" title="Google Apps Status Dashboard" type="rss" xmlUrl="https://www.google.com/appsstatus/rss/en" htmlUrl="http://www.google.com/appsstatus/rss/en"/>
       <outline text="Krebs on Security" title="Krebs on Security" type="rss" xmlUrl="https://krebsonsecurity.com/feed/" htmlUrl="https://krebsonsecurity.com/"/>
       <outline text="Kubernetes" title="Kubernetes" type="rss" xmlUrl="https://kubernetes.io/feed.xml" htmlUrl="https://kubernetes.io/"/>
@@ -72,6 +73,7 @@
       <outline text="Techmeme" title="Techmeme" type="rss" xmlUrl="https://www.techmeme.com/index.xml" htmlUrl="https://www.techmeme.com/"/>
     </outline>
     <outline text="Newsletters" title="Newsletters">
+      <outline text="DevOps Bulletin" title="DevOps Bulletin" type="rss" xmlUrl="https://www.devopsbulletin.com/feed" htmlUrl="https://www.devopsbulletin.com/"/>
       <outline text="Last Week in AWS" title="Last Week in AWS" type="rss" xmlUrl="https://www.lastweekinaws.com/feed/" htmlUrl="https://www.lastweekinaws.com/"/>
       <outline text="tl;dr sec" title="tl;dr sec" type="rss" xmlUrl="https://rss.beehiiv.com/feeds/xgTKUmMmUm.xml" htmlUrl="https://tldrsec.com/"/>
       <outline text="Unsupervised Learning" title="Unsupervised Learning" type="rss" xmlUrl="https://rss.beehiiv.com/feeds/gQxaV1KHkQ.xml" htmlUrl="https://danielmiessler.com/"/>
@@ -87,6 +89,7 @@
       <outline text="Pinboard (popular bookmarks)" title="Pinboard (popular bookmarks)" type="rss" xmlUrl="https://feeds.pinboard.in/rss/popular/" htmlUrl="https://pinboard.in/popular/"/>
     </outline>
     <outline text="DevOps" title="DevOps">
+      <outline text="DevOps Bulletin" title="DevOps Bulletin" type="rss" xmlUrl="https://www.devopsbulletin.com/feed" htmlUrl="https://www.devopsbulletin.com/"/>
       <outline text="Hacker News 400+ points posts" title="Hacker News 400+ points posts" type="rss" xmlUrl="https://hnrss.org/newest?points=400" htmlUrl="https://news.ycombinator.com/newest"/>
       <outline text="Last Week in AWS" title="Last Week in AWS" type="rss" xmlUrl="https://www.lastweekinaws.com/feed/" htmlUrl="https://www.lastweekinaws.com/"/>
       <outline text="Amazon Web Services Service Status" title="Amazon Web Services Service Status" type="rss" xmlUrl="https://status.aws.amazon.com/rss/all.rss" htmlUrl="https://status.aws.amazon.com/"/>
