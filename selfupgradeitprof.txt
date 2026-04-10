@@ -959,6 +959,7 @@ Contents:
                 https://github.com/Xfennec/progress (Linux tool to show progress for cp, mv, dd, ... (formerly known as cv) )
                 https://github.com/xpipe-io/xpipe (https://xpipe.io Access your entire server infrastructure from your local desktop )
                 https://ikrima.dev/dev-notes/linux/linux-modern-tools Modern Linux Tools https://github.com/ikrima/gamedevguide )
+                https://obdev.at/products/littlesnitch-linux (Every time an application on your computer opens a network connection, it does so quietly, without asking. Little Snitch for Linux makes that activity visible and gives you the option to do something about it. )
 
             Tutorials:
                 https://0xax.gitbooks.io/linux-insides (A book-in-progress about the linux kernel and its insides.)
