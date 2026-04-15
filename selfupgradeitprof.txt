@@ -3699,7 +3699,9 @@ Contents:
                     https://maheshba.bitbucket.io/blog/2023/07/12/Design.html (What we talk about when we talk about System Design)
                     https://www.amazon.com/System-Design-Interview-Insiders-Guide/dp/1736049119 (System Design Interview – An Insider's Guide: Volume 2 by Alex Xu)
                     https://www.swequiz.com/blog/every-caching-strategy-explained-in-5-minutes (Every Caching Strategy Explained in 5 Minutes)
+                    https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX (System Design Playlist by Gaurav Sen)
                     https://youtu.be/bUHFg8CZFws (System Design Interview – Step By Step Guide by System Design Interview)
+                    https://youtu.be/F2FmTdLtb_4?si=kl0ClblEVPlrB7W7 (System Design Concepts Course and Interview Prep by freeCodeCamp.org)
                     https://youtu.be/Ru54dxzCyD0?si=8MVAswVeYWO1kcFm (How to Prepare for System Design Interviews w/ Meta Staff Engineer by Hello Interview - SWE Interview Preparation)
 
                 System Design by Ashish Pratap Singh:
@@ -3715,7 +3717,7 @@ Contents:
                     https://bytes.usc.edu/~saty/courses/docs/data/SystemDesignInterview.pdf (System Design Interview by Alex Xu)
 
                 Grokking the System Design Interview:
-                    https://designgurus.org/course/grokking-the-system-design-interview
+                    https://designgurus.org/course/grokking-the-system-design-interview (Grokking the System Design Interview)
                     https://github.com/Jeevan-kumar-Raj/Grokking-System-Design (Systems design is the process of defining the architecture, modules, interfaces, and data for a system to satisfy specified requirements. Systems design could be seen as the application of systems theory to product development.)
 
                 An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?":
