@@ -728,9 +728,10 @@ Contents:
             Books and Courses:
                 Distributed Systems 3rd Edition by Maarten van Steen and Andrew S. Tanenbaum (Feb 2017)
                     https://news.ycombinator.com/item?id=26534819 (Distributed Systems: A free online class (distributedsystemscourse.com))
-                    https://www.amazon.com/Distributed-Systems-Maarten-van-Steen/dp/1543057381
+                    https://www.amazon.com/Distributed-Systems-Maarten-van-Steen/dp/1543057381 (Distributed Systems 3rd Edition by Maarten van Steen and Andrew S. Tanenbaum)
                     https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB (MIT 6.824 Distributed Systems (Spring 2020))
                     https://pdos.csail.mit.edu/6.824/schedule.html (MIT 6.824 Schedule: Spring 2020 )
+                    https://www.youtube.com/playlist?list=PLOE1GTZ5ouRPbpTnrZ3Wqjamfwn_Q5Y9A (Distributed Systems by Distributed Systems Course)
                     https://www.distributedsystemscourse.com
 
                 Understanding Distributed Systems: What every developer should know about large distributed applications by Roberto Vitillo ,Second Edition (Feb 2022)
@@ -740,8 +741,8 @@ Contents:
                 Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems 1st Edition by Martin Kleppmann (May 2017)
                     https://dataintensive.net
                     https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321
-                    https://youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB (MIT 6.824 Distributed Systems (Spring 2020) by by Robert Morris)
-                    https://youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB (Distributed Systems lecture series)
+                    https://youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB (MIT 6.824 Distributed Systems (Feb 2, 2022) by MIT 6.824: Distributed Systems Robert Morris)
+                    https://youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB (Distributed Systems lecture series (Oct 13, 2021) by Martin Kleppmann)
                     https://github.com/ept/ddia-references (Literature references for “Designing Data-Intensive Applications” by Ept)
 
         Electronics:
@@ -3679,7 +3680,7 @@ Contents:
                 https://pinboard.in/u:SharjeelSayed/t:interview
                 https://pinboard.in/u:SharjeelSayed/t:jobs
 
-            Material:
+            Tutorials:
                 System Design Interview:
                     https://github.com/ashishps1/awesome-low-level-design (Learn Low Level Design (LLD) and prepare for interviews using free resources.)
                     https://github.com/ashishps1/awesome-system-design-resources (This repository contains System Design resources which are useful while preparing for interviews and learning Distributed Systems)
@@ -3700,7 +3701,10 @@ Contents:
                     https://www.swequiz.com/blog/every-caching-strategy-explained-in-5-minutes (Every Caching Strategy Explained in 5 Minutes)
                     https://youtu.be/bUHFg8CZFws (System Design Interview – Step By Step Guide by System Design Interview)
                     https://youtu.be/Ru54dxzCyD0?si=8MVAswVeYWO1kcFm (How to Prepare for System Design Interviews w/ Meta Staff Engineer by Hello Interview - SWE Interview Preparation)
+
+                System Design by Ashish Pratap Singh:
                     https://youtu.be/s9Qh9fWeOAk?si=Mn3bzrQ_21L0WpKv (System Design was HARD until I Learned these 30 Concepts by Ashish Pratap Singh)
+                    https://blog.algomaster.io/t/system-design?sort=top (System Design by Ashish Pratap Singh)
 
                 System Design Interview – An insider's guide by Alex Xu:
                     https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF/ (System Design Interview - An Insider's Guide (Volume 1) by Alex Xu)
