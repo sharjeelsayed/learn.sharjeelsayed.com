@@ -565,11 +565,17 @@ Contents:
                 https://www.reddit.com/r/sysadmin/comments/4ux166/do_you_know_a_site_to_learn_more_about_networking
 
             Tools:
+                https://fast.com (Fast.com - Internet speed test by Netflix)
                 https://github.com/gchq/CyberChef https://gchq.github.io/CyberChef (The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis)
                 https://github.com/GyulyVGC/sniffnet (https://sniffnet.net Comfortably monitor your Internet traffic 🕵️‍♂️ )
                 https://github.com/kffl/speedbump (TCP proxy for simulating variable, yet predictable network latency 🌐⏳)
                 https://github.com/traviscross/mtr (mtr combines the functionality of the 'traceroute' and 'ping' programs in a single network diagnostic tool.)
+                https://speed.cloudflare.com (Cloudflare Speed Test - Check your Internet connection speed with Cloudflare's global network)
+                https://speed.measurementlab.net (Measurement Lab (M-Lab) provides the largest collection of open Internet performance data on the planet.)
+                https://speedof.me (SpeedOf.Me - HTML5 internet speed test)
                 https://www.davidc.net/sites/default/subnets/subnets.html (Visual Subnet Calculator)
+                https://www.nperf.com (nPerf - Internet speed test and network performance measurement tool)
+                https://www.speedtest.net (Speedtest by Ookla - Global broadband speed testing tool)
 
             Books and Courses:
                 Tutorials:
