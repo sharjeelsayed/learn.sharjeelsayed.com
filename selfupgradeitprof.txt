@@ -1504,6 +1504,7 @@ Contents:
                     https://www.udemy.com/topic/kubernetes/?ratings=4.5&sort=popularity (Udemy Courses rated 4.5 stars and above)
                     https://ymmt2005.hatenablog.com/entry/k8s-things (47 Things To Become a Kubernetes Expert)
                     https://youtu.be/0Omvgd7Hg1I (Life of a Packet [I] - Michael Rubin, Google)
+                    https://youtu.be/21onkZfL2yM?si=RcZQTecxn9GwVtzf (Docker vs Containerd: Understanding the Differences and Choosing the Right Containerization Tool by KodeKloud)
                     https://youtu.be/iVj5vEnbFr0?si=DF-xB6m8rY4wjNRg ( Kubernetes Is Not a Deployment Tool by LearnThatStack)
 
                 Kubernetes Documentation:
@@ -3706,6 +3707,7 @@ Contents:
 
                 System Design by Ashish Pratap Singh:
                     https://youtu.be/s9Qh9fWeOAk?si=Mn3bzrQ_21L0WpKv (System Design was HARD until I Learned these 30 Concepts by Ashish Pratap Singh)
+                    https://blog.algomaster.io/p/30-system-design-concepts (System Design was HARD until I Learned these 30 Concepts by Ashish Pratap Singh)
                     https://blog.algomaster.io/t/system-design?sort=top (System Design by Ashish Pratap Singh)
 
                 System Design Interview – An insider's guide by Alex Xu:
@@ -5760,11 +5762,12 @@ Contents:
                 Rolex GMT-Master II:
                     https://en.wikipedia.org/wiki/Rolex_GMT_Master_II#Ceramic_bezel_models
                     https://watchcharts.com/watch_model/733-rolex-gmt-master-ii-pepsi-126710blro/overview (Rolex Pepsi 126710BLRO Overview)
+                    https://www.reddit.com/r/rolex/comments/18681e0/comment/kb7p6zc (Anyone know why red on the Pepsi bezel is soo hard to manufacture?)
+                    https://www.reddit.com/r/rolex/comments/1skpnz5/pepsi_discontinued (Pepsi discontinued)
                     https://www.rolex.com/watches/gmt-master-ii/m126710blro-0001 (Oyster, 40 mm, Oystersteel, Red and blue bezel, Oyster bracelet, Black dial Reference 126710BLRO) # Rolex Pepsi
                     https://youtu.be/GJDTvzbozrM?si=MLlVZrJts7y3b5RK (Rolex GMT-Master II Buyers Guide - Ranked Worst to Best by Watchtrader & Co)
                     https://youtu.be/hklL3MtuJGo?si=1ZteG6x5VBMLJ8Ip (How to set your Rolex GMT-Master II )
-                    https://www.reddit.com/r/rolex/comments/18681e0/comment/kb7p6zc (Anyone know why red on the Pepsi bezel is soo hard to manufacture?)
-                    https://www.reddit.com/r/rolex/comments/1skpnz5/pepsi_discontinued (Pepsi discontinued)
+                    https://youtu.be/Hqc8YhPUZoQ?si=4hYg5gDx8rXlUvwm (Rolex GMT-Master: A Tool Of The Military, Spies, & Pilots by Watches of Espionage )
 
                 Rolex Submariner:
                     https://en.wikipedia.org/wiki/Diving_watch (Diving watch)
