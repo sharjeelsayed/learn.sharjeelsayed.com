@@ -828,8 +828,8 @@ Contents:
                 https://news.ycombinator.com/item?id=29251343 (Ask HN: What is the fastest way to ramp up on DevOps, k8 and GCP?)
                 https://octopus.com/blog/devops-reading-list ( The DevOps reading list: Choosing your next DevOps book )
                 https://prepare.sh/articles/devops-job-market-trends-2025 (DevOps Job Market Trends [2025])
-                https://prepare.sh/articles/devops-job-market-trends-2025 (DevOps Job Market Trends [2025])
                 https://prepare.sh/engineering/devops (I scraped all DevOps Interview Questions for Meta, Amazon, Google, Yahoo.)
+                https://prepare.sh/trends?category=devops (Job Market Trends for DevOps)
                 https://roadmap.sh/devops (Step by step guide for DevOps, SRE or any other Operations Role in 2025)
                 https://slack.cloudposse.com https://sweetops.slack.com https://slack.sweetops.com (SweetOps Slack Group)
                 https://tldr.tech/devops (Improve your DevOps skills in 5 minutes Get our free daily newsletter with curated tools 💻, trends 📈, and insights 💡, for DevOps Engineers 👨‍💻)
@@ -876,6 +876,7 @@ Contents:
                 https://github.com/dastergon/awesome-sre (https://sre.xyz A curated list of Site Reliability and Production Engineering resources. )
                 https://github.com/linkedin/school-of-sre (https://linkedin.github.io/school-of-sre At LinkedIn, we are using this curriculum for onboarding our entry-level talents into the SRE role.)
                 https://github.com/topics/sre?o=desc&s=stars
+                https://github.com/Tracer-Cloud/opensre (https://www.opensre.com Build your own AI SRE agents. The open source toolkit for the AI era ✨ )
                 https://github.com/upgundecha/howtheysre (A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE))
                 https://gitlab.com/gitlab-com/runbooks (Run books for the stressed on call )
                 https://news.ycombinator.com/item?id=14153545 (What Is ‘Site Reliability Engineering’?)
@@ -1318,6 +1319,7 @@ Contents:
                     https://github.com/wsargent/docker-cheat-sheet (Docker Cheat Sheet)
                     https://sysdig.com/blog/dockerfile-best-practices (Top 20 Dockerfile best practices)
                     https://www.freecodecamp.org/news/the-docker-handbook (The Docker Handbook – Learn Docker for Beginners by Farhan Hasin Chowdhury)
+                    https://youtu.be/DUgzXX2_aDQ?si=LDt358VHsA4BhJOa (Containers Don't Exist - Your Kernel Is Lying to You by LearnThatStack)
                     https://youtu.be/ObhdD49AEYw?si=Owt5d0WqVpYRLXcG (Docker Core Concepts Every Developer Should Know by LearnThatStack)
 
                 Docker Official Documentation:
@@ -1731,6 +1733,7 @@ Contents:
                 https://github.com/Netflix/consoleme (A Central Control Plane for AWS Permissions and Access)
                 https://github.com/prowler-cloud/prowler (https://prowler.pro Prowler is an Open Source Security tool for AWS, Azure and GCP to perform Cloud Security best practices assessments, audits, incident response, compliance, continuous monitoring, hardening and forensics readiness. Includes CIS, NIST 800, NIST CSF, CISA, FedRAMP, PCI-DSS, GDPR, HIPAA, FFIEC, SOC2, GXP, Well-Architected Security, ENS and more.)
                 https://github.com/servian/aws-auto-cleanup (Programmatically delete AWS resources based on an allowlist and time to live (TTL) settings)
+                https://github.com/sivchari/kumo (A lightweight AWS service emulator written in Go )
                 https://github.com/toniblyx/my-arsenal-of-aws-security-tools (List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.)
                 https://github.com/turbot/steampipe (Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required.)
                 https://github.com/wallix/awless (A Mighty CLI for AWS)
@@ -1743,6 +1746,10 @@ Contents:
                     https://aws.amazon.com/education/awseducate (Build your cloud skills at your own pace, on your own time, and completely for free)
                     https://aws.amazon.com/solutions (AWS Solutions Library Vetted solutions and guidance for business and technical use cases)
                     https://aws.amazon.com/training/digital/aws-security-fundamentals (AWS Security Fundamentals (Second Edition))
+                    https://awsfundamentals.com/animations (AWS Service Animations Discover the magic behind AWS services through captivating visual stories that bring cloud concepts to life.)
+                    https://awsfundamentals.com/free (Free AWS Resources Unlock a curated collection of free AWS infographics, animations, open source tools, and resources to supercharge your cloud journey.)
+                    https://awsfundamentals.com/hot-tips (Hot Tips Actionable AWS tips, each explained in a single infographic.)
+                    https://awsfundamentals.com/infographics (AWS Services Infographics Visual guides to understand AWS services)
                     https://github.com/Hacking-the-Cloud/hackingthe.cloud (https://hackingthe.cloud An encyclopedia for offensive and defensive security knowledge in cloud native technologies. )
                     https://notes.kodekloud.com/docs/AWS-Networking-Fundamentals (AWS Networking Fundamentals Notes by KodeKloud)
                     https://www.freecodecamp.org/news/free-107-hour-aws-cloud-project-bootcamp (Free 107-Hour AWS Cloud Project Bootcamp)
@@ -3917,6 +3924,7 @@ Contents:
                 https://www.reddit.com/r/recruitinghell/top (This subreddit is for all of those recruiters and candidates who really don't get it. Post your horror stories and show us those amazing job offers!)
                 https://www.statista.com/statistics/199999/worldwide-tech-layoffs-covid-19 (Number of tech employees laid off worldwide from 2020 to 2024, by quarter)
                 https://www.statista.com/statistics/217837/average-duration-of-unemployment-in-the-in-the-us (Average duration of unemployment in the United States from 1990 to 2024)
+                https://prepare.sh/trends (Job Market Trends )
                 https://pinboard.in/u:SharjeelSayed/t:jobs
 
         Job Sites: (Sorted by Alexa Rank)
@@ -4956,6 +4964,7 @@ Contents:
                         https://github.com/AboutRSS/ALL-about-RSS (A list of RSS related stuff: tools, services, communities and tutorials, etc. )
                         https://github.com/DIYgod/RSSHub (🍰 Everything is RSSible)
                         https://github.com/iliane5/meridian (Meridian cuts through news noise by scraping hundreds of sources, analyzing stories with AI, and delivering concise, personalized daily briefs. )
+                        https://github.com/koala73/worldmonitor (https://www.worldmonitor.app Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface )
                         https://github.com/mratmeyer/rsslookup (https://www.rsslookup.com A free, open-source tool to find RSS feeds on any URL)
                         https://github.com/mshibanami/GitHubTrendingRSS (https://mshibanami.github.io/GitHubTrendingRSS Unofficial RSS feed generator for GitHub Trending)
                         https://github.com/osmoscraft/osmosfeed (A web-based RSS reader running entirely from your GitHub repo.)
