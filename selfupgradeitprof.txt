@@ -75,7 +75,7 @@ Contents:
         JavaScript
         Node.js
         Regex
-        iOS/Android
+        Mobile
         AI and Machine Learning
         IDE
     Career:
@@ -2609,6 +2609,7 @@ Contents:
                 https://github.com/qeeqbox/social-analyzer (API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites)
                 https://github.com/robertdavidgraham/masscan (TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.)
                 https://github.com/sherlock-project/sherlock (🔎 Hunt down social media accounts by username across social networks https://sherlock-project.github.io)
+                https://github.com/soxoj/maigret (https://maigret.readthedocs.io/en/latest 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites )
                 https://github.com/stamparm/maltrail (Malicious traffic detection system )
                 https://github.com/Stanford-Trinity/ARTEMIS (ARTEMIS is an autonomous agent created by the Stanford Trinity project to automate vulnerability discovery.)
                 https://github.com/steveiliop56/tinyauth (https://tinyauth.app The simplest way to protect your apps with a login screen. )
@@ -3340,36 +3341,41 @@ Contents:
                 Learn RegEx step by step, from zero to advanced
                 https://github.com/aykutkardas/regexlearn.com ( regexlearn.com)
 
-        iOS/Android:
+        Mobile:
             Sources:
                 https://counterpointresearch.com/en/insights/iphone-16-worlds-best-selling-smartphone-in-2025-apple-takes-7-spots-in-top-10-models (iPhone 16 World’s Best-selling Smartphone in 2025; Apple Takes 7 Spots in Top 10 Models)
                 https://esimdb.com (Find the best prepaid eSIM plans for your travel destination)
-                https://github.com/FifiTheBulldog/ios-settings-urls (A collection of iOS Settings URLs )
-                https://github.com/Psyhackological/AAA (📱 Curated list of THE BEST FOSS Android apps to maximize your freedom & privacy!  https://codeberg.org/Psyhackological/AAA)
                 https://jpsapi.wirelesspowerconsortium.com/products/qi (Products that have been certified to meet the Qi standard for safety and interoperability are issued a certified ID number and are included in the Wireless Power Consortium Product Database. The best way to ensure that a product is certified is to check to see if it’s in this database.)
                 https://receive-sms-free.cc (Receive SMS online anonymously and fast, without register or a mobile phone)
-                https://routinehub.co (RoutineHub is a growing community around automating Apple iPhones and iPads with Siri Shortcuts. )
-                https://www.chargerlab.com/apple-iphone-15-pro-max-charging-test-chargerlab-compatibility-100 (Apple iPhone 15 Pro Max Charging Test - ChargerLAB Compatibility 100) https://youtu.be/gHO7G7TzPAI?si=LEZUo6d-JOiRhDsx (How Fast Apple iPhone 15 Pro Max Is Charged? - ChargerLAB Compatibility 100)
-                https://www.reddit.com/r/Android+GalaxyS24Ultra+androidapps+samsung (Android, Galaxy S24 Ultra, Android Apps, Samsung Subreddits)
-                https://www.theverge.com/23674658/best-android-phone (The best Android phones)
+                https://www.kodeco.com (Learn iOS and Swift, Android and Kotlin & Dart and Flutter development with the largest and highest-quality catalog of video courses and books on the Internet.)
                 https://youtu.be/sfyL4BswUeE?si=FYws2nUrsemB-Y8f (Smartphone Awards 2025! by Marques Brownlee)
                 https://youtu.be/ZdO82BBni0M?si=4iElP5SXg9fIRqHS (Which SMARTPHONES Do We Actually Use? 2025/26 Edition ft. MKBHD, Linus Tech Tips + More by SuperSaf)
 
-            Books and Courses:
-                https://github.com/ax/apk.sh (apk.sh makes reverse engineering Android apps easier, automating some repetitive tasks like pulling, decoding, rebuilding and patching an APK.)
-                https://github.com/sindresorhus/Actions (https://sindresorhus.com/actions ⚙️ Supercharge your shortcuts )
-                https://github.com/skydoves/android-developer-roadmap (🗺 The Android Developer Roadmap offers comprehensive learning paths to help you understand Android ecosystems.)
-                https://www.kodeco.com (Learn iOS and Swift, Android and Kotlin & Dart and Flutter development with the largest and highest-quality catalog of video courses and books on the Internet.)
+            iOS:
+                Sources:
+                    https://github.com/FifiTheBulldog/ios-settings-urls (A collection of iOS Settings URLs)
+                    https://github.com/sindresorhus/Actions (https://sindresorhus.com/actions ⚙️ Supercharge your shortcuts )
+                    https://routinehub.co (RoutineHub is a growing community around automating Apple iPhones and iPads with Siri Shortcuts.)
+                    https://www.chargerlab.com/apple-iphone-15-pro-max-charging-test-chargerlab-compatibility-100 (Apple iPhone 15 Pro Max Charging Test - ChargerLAB Compatibility 100) https://youtu.be/gHO7G7TzPAI?si=LEZUo6d-JOiRhDsx (How Fast Apple iPhone 15 Pro Max Is Charged? - ChargerLAB Compatibility 100)
 
-            Samsung Galaxy S24 Ultra:
-                https://youtu.be/seFmhKVmzbg?si=WEA5pytUB5_pSs_E (17 Killer Features Only PRO Galaxy Users Know! ( One Ui6.1 )) by WhatGear
-                https://youtu.be/unNeWXBIqos?si=YzjiDfmt9vgZ8Enn (Galaxy S24 - First Things To Do! ( Tips & Tricks )) by WhatGear
-                https://youtu.be/qKC2tlsfBSg?si=aJ1viRSHwZAYn65J (Galaxy S24 Ultra - Change These Settings Immediately) by Jimmy is Promo
-                https://youtu.be/2z4kmas8ztM?si=1a8mXWmiSHZzF89n (TOP 24+ SAMSUNG GALAXY S24, S24 PLUS & S24 ULTRA Tips, Tricks - Hidden & Advanced Features) by This is Tech Today
-                https://www.reddit.com/r/GalaxyS24Ultra+samsung (Galaxy S24 Ultra Samsung Subreddits)
-                https://youtu.be/xr6-FJJiXHI?si=Ts-ryjEKgSV6Aueq (Galaxy S24 Ultra - First Things to Do! (Tips & Tricks)) by Pete Matheson
+            Android:
+                Sources:
+                    https://github.com/ax/apk.sh (apk.sh makes reverse engineering Android apps easier, automating some repetitive tasks like pulling, decoding, rebuilding and patching an APK.)
+                    https://github.com/localsend/localsend (https://localsend.org An open-source cross-platform alternative to AirDrop )
+                    https://github.com/Psyhackological/AAA (📱 Curated list of THE BEST FOSS Android apps to maximize your freedom & privacy!  https://codeberg.org/Psyhackological/AAA)
+                    https://github.com/skydoves/android-developer-roadmap (🗺 The Android Developer Roadmap offers comprehensive learning paths to help you understand Android ecosystems.)
+                    https://www.reddit.com/r/Android+GalaxyS24Ultra+androidapps+samsung (Android, Galaxy S24 Ultra, Android Apps, Samsung Subreddits)
+                    https://www.theverge.com/23674658/best-android-phone (The best Android phones)
 
-        AI and Machine Learning:
+                Samsung Galaxy S24 Ultra:
+                    https://www.reddit.com/r/GalaxyS24Ultra+samsung (Galaxy S24 Ultra Samsung Subreddits)
+                    https://youtu.be/2z4kmas8ztM?si=1a8mXWmiSHZzF89n (TOP 24+ SAMSUNG GALAXY S24, S24 PLUS & S24 ULTRA Tips, Tricks - Hidden & Advanced Features) by This is Tech Today
+                    https://youtu.be/qKC2tlsfBSg?si=aJ1viRSHwZAYn65J (Galaxy S24 Ultra - Change These Settings Immediately) by Jimmy is Promo
+                    https://youtu.be/seFmhKVmzbg?si=WEA5pytUB5_pSs_E (17 Killer Features Only PRO Galaxy Users Know! ( One Ui6.1 )) by WhatGear
+                    https://youtu.be/unNeWXBIqos?si=YzjiDfmt9vgZ8Enn (Galaxy S24 - First Things To Do! ( Tips & Tricks )) by WhatGear
+                    https://youtu.be/xr6-FJJiXHI?si=Ts-ryjEKgSV6Aueq (Galaxy S24 Ultra - First Things to Do! (Tips & Tricks)) by Pete Matheson
+
+         AI and Machine Learning:
             Sources:
                 http://nlp.seas.harvard.edu/annotated-transformer (The Annotated Transformer Attention is All You Need)
                 https://danielmiessler.com/p/get-samantha-tars-interstellar-iphoneandroid (How to Get Samantha from Her or TARS from Interstellar on Your iPhone/Android)
