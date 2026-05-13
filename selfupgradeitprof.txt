@@ -173,6 +173,7 @@ Contents:
                 https://docs.google.com/spreadsheets/d/1zfw8nPvJeewxcFUBpKUKmAVE8PjnJI7H0CKimdQXxr0/htmlview (Stanford CS Curriculum)
                 https://github.com/cs-books/influential-cs-books (Most influential books on Computer Science/programming)
                 https://github.com/Developer-Y/cs-video-courses (List of Computer Science courses with video lectures.)
+                https://github.com/ForrestKnight/open-source-cs (https://www.youtube.com/watch?v=NyOvFSP_IpQ This is a curated list of free courses from reputable universities like MIT, Stanford, and Princeton that satisfy the same requirements as an undergraduate Computer Science degree, minus general education.)
                 https://github.com/mvillaloboz/open-source-cs-degree (The Open-Source Computer Science Degree)
                 https://github.com/nushackers/notes-to-cs-freshmen-from-the-future (https://docs.google.com/document/d/1FbCWcnnajHWk594dKmN35b_we50WZf_-cwxqg-cYaRY/edit#heading=h.fnzhav8ixuki Notes to (NUS) Computer Science Freshmen, From The Future (Original by @ejamesc))
                 https://github.com/ossu/computer-science (🎓 Path to a free self-taught education in Computer Science! )
@@ -576,6 +577,7 @@ Contents:
                 https://www.davidc.net/sites/default/subnets/subnets.html (Visual Subnet Calculator)
                 https://www.nperf.com (nPerf - Internet speed test and network performance measurement tool)
                 https://www.speedtest.net (Speedtest by Ookla - Global broadband speed testing tool)
+                https://github.com/kavehtehrani/cloudflare-speed-cli (CLI for internet speed test via Cloudflare)
 
             Books and Courses:
                 Tutorials:
@@ -2227,6 +2229,7 @@ Contents:
                 https://news.ycombinator.com/item?id=43169435 (How Core Git Developers Configure Git (gitbutler.com))
                 https://nvie.com/posts/a-successful-git-branching-model (A successful Git branching model)
                 https://ossinsight.io (SELECT insights FROM GitHub events 🔥 Trending Repos)
+                https://red-squares.cian.lol (The contribution graph nobody asked for. Each red square is a day GitHub broke; the darker the square, the longer it stayed broken.)
                 https://relatedrepos.com (Discover related open source projects)
                 https://useful-forks.github.io (It aims at increasing the discoverability of useful forks of open-source projects.)
                 https://www.garyrobinson.net/2014/10/git-in-two-minutes-for-a-solo-developer.html (Git In Two Minutes (for a solo developer))
@@ -2709,10 +2712,14 @@ Contents:
             Sources:
                 https://github.com/alexellis/awesome-baremetal (Bare-metal is awesome. Let's share our favourite tools.)
                 https://github.com/bluewave-labs/Checkmate (https://checkmate.so Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations. Don't be shy, join here)
+                https://github.com/darrylmorley/whatcable (macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do)
                 https://github.com/inventree/InvenTree (https://docs.inventree.org Open Source Inventory Management System )
                 https://linuxblog.io/home-lab-beginners-guide-hardware (Home Lab Beginners Guide - Hardware)
                 https://news.ycombinator.com/item?id=14123394 (Ask HN: What's the Hacker News of hardware?)
                 https://news.ycombinator.com/item?id=15733760 (What are hardware development learning web tutorials?)
+                https://youtu.be/1jAeEPHvDyA?si=edLDDDoPhg1HfwF3 (I've Never Seen A USB-C Charger This Good! by Project Farm)
+                https://youtu.be/cH2_RNs-uCU?si=1b10tpKUi5O4KNgW (Charging Compatibility Test of Apple MacBook Pro M5 by ChargerLAB)
+                https://youtu.be/YnuDkZ9UM6U?si=RXrxYeHkggFPZ8Tu (Charging Compatibility Test of iPhone 17 Pro Max (Complete Version) by ChargerLAB)
 
             Books and Courses:
                 Professor Messer’s CompTIA 220-1001 and 220-1002 A+ Training Course
@@ -2770,6 +2777,7 @@ Contents:
                 https://thesweetsetup.com/picks
                 https://www.bugsappleloves.com ( Bugs Apple Loves Why else would they keep them around for so long?)
                 https://www.reddit.com/r/apple+mac+macapps
+                https://youtu.be/cH2_RNs-uCU?si=1b10tpKUi5O4KNgW (Charging Compatibility Test of Apple MacBook Pro M5 by ChargerLAB)
                 https://youtu.be/H3hUk0zsxc4 (How To Use Multiple Desktops On Your Mac by macmostvideo)
                 https://youtu.be/HPQobUOx17o (Amazing Mac Tips You've Never Used! by Snazzy Labs)
                 https://youtu.be/STLnca2hjwc (Mac Window Positioning Tips And Tricks by macmostvideo)
@@ -2794,6 +2802,7 @@ Contents:
                 https://github.com/fastfetch-cli/fastfetch (A maintained, feature-rich and performance oriented, neofetch like system information tool. )
                 https://github.com/iCHAIT/awesome-macOS ( A curated list of awesome applications, softwares, tools and shiny things for macOS.)
                 https://github.com/jaywcjlove/awesome-mac (https://wangchujiang.com/awesome-mac awesome macOS software in various categories)
+                https://github.com/kavehtehrani/cloudflare-speed-cli (CLI for internet speed test via Cloudflare)
                 https://github.com/kerma/defaultbrowser (Command line tool for getting and setting a default browser (HTTP handler) in macOS)
                 https://github.com/koekeishiya/yabai (A tiling window manager for macOS based on binary space partitioning)
                 https://github.com/mangerlahn/Latest (https://max.codes/latest A small utility app for macOS that makes sure you know about all the latest updates to the apps you use.)
@@ -3356,7 +3365,7 @@ Contents:
                     https://github.com/FifiTheBulldog/ios-settings-urls (A collection of iOS Settings URLs)
                     https://github.com/sindresorhus/Actions (https://sindresorhus.com/actions ⚙️ Supercharge your shortcuts )
                     https://routinehub.co (RoutineHub is a growing community around automating Apple iPhones and iPads with Siri Shortcuts.)
-                    https://www.chargerlab.com/apple-iphone-15-pro-max-charging-test-chargerlab-compatibility-100 (Apple iPhone 15 Pro Max Charging Test - ChargerLAB Compatibility 100) https://youtu.be/gHO7G7TzPAI?si=LEZUo6d-JOiRhDsx (How Fast Apple iPhone 15 Pro Max Is Charged? - ChargerLAB Compatibility 100)
+                    https://youtu.be/YnuDkZ9UM6U?si=RXrxYeHkggFPZ8Tu (Charging Compatibility Test of iPhone 17 Pro Max (Complete Version) by ChargerLAB)
 
             Android:
                 Sources:
