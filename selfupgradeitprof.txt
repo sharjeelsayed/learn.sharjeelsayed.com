@@ -2717,6 +2717,7 @@ Contents:
                 https://linuxblog.io/home-lab-beginners-guide-hardware (Home Lab Beginners Guide - Hardware)
                 https://news.ycombinator.com/item?id=14123394 (Ask HN: What's the Hacker News of hardware?)
                 https://news.ycombinator.com/item?id=15733760 (What are hardware development learning web tutorials?)
+                https://www.ankersindiastore.com/p/black-anker-prime-charger-160w-3-ports-smart-display (Black Anker Prime Charger (160W, 3 Ports, Smart Display))
                 https://youtu.be/1jAeEPHvDyA?si=edLDDDoPhg1HfwF3 (I've Never Seen A USB-C Charger This Good! by Project Farm)
                 https://youtu.be/cH2_RNs-uCU?si=1b10tpKUi5O4KNgW (Charging Compatibility Test of Apple MacBook Pro M5 by ChargerLAB)
                 https://youtu.be/YnuDkZ9UM6U?si=RXrxYeHkggFPZ8Tu (Charging Compatibility Test of iPhone 17 Pro Max (Complete Version) by ChargerLAB)
@@ -5130,7 +5131,7 @@ Contents:
 
                 News Aggregators:
                     https://allinfosecnews.com (Aggregates all of the top news, podcasts and more about Cyber Security, InfoSec, Cryptography, Online Privacy, Hacking, Vulnerability and Threat Research into one place.)
-                    https://en.wikipedia.org/wiki/Portal:Current_events
+                    https://en.wikipedia.org/wiki/Portal:Current_events (Worldwide current events)
                     https://lobste.rs (https://lobste.rs/top/1w to get the top stories of the last week, use 1d for the last day, 1h for the last hour, etc.)
                     https://pinboard.in/popular
                     https://techurls.com
