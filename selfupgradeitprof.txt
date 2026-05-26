@@ -1496,6 +1496,7 @@ Contents:
                     https://learnk8s.io/troubleshooting-deployments (A visual guide on troubleshooting Kubernetes deployments)
                     https://mjarosie.github.io/dev/2021/09/15/iam-roles-for-kubernetes-service-accounts-deep-dive.html (IAM roles for Kubernetes service accounts - deep dive)
                     https://roadmap.sh/kubernetes (Kubernetes Roadmap)
+                    https://samof76.space/kubernetes-in-anger.html (A comprehensive operational guide for diagnosing and fixing production EKS failures fast, covering failure domain identification, platform-specific failure modes, and incident response runbooks.)
                     https://snyk.io/blog/10-kubernetes-security-context-settings-you-should-understand (10 Kubernetes Security Context settings you should understand)
                     https://tldrsec.com/p/kubernetes-security-threat-informed-defense (Keep Hackers Out of Your Kubernetes Cluster with These 5 Simple Tricks!)
                     https://www.linode.com/content/kubernetes-guide (Understanding Kubernetes A Guide to Modernizing Your Cloud Infrastructure)
@@ -1688,7 +1689,6 @@ Contents:
                 https://github.com/awsdocs (Amazon Web Services - Documentation)
                 https://github.com/donnemartin/awesome-aws (A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources)
                 https://github.com/jassics/awesome-aws-security (Curated list of links, references, books videos, tutorials (Free or Paid), Exploit, CTFs, Hacking Practices etc. which are related to AWS Security)
-                https://github.com/localstack/localstack (A fully functional local AWS cloud stack)
                 https://github.com/nccgroup/aws-inventory (Discover resources created in an AWS account)
                 https://github.com/open-guides/og-aws (Amazon Web Services — a practical guide)
                 https://github.com/serverless/serverless (⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more!)
@@ -1701,7 +1701,6 @@ Contents:
                 https://news.ycombinator.com/item?id=39313623 (Almost every infrastructure decision I endorse or regret (cep.dev))
                 https://news.ycombinator.com/item?id=44962844 (AWS in 2025: Stuff you think you know that's now wrong (lastweekinaws.com))
                 https://serverlesshorrors.com (ServerlessHorrors is a simple blog where you can read all the horror stories of serverless. Yikes!)
-                https://start.jcolemorrison.com/aws-vpc-core-concepts-analogy-guide (AWS VPC Core Concepts in an Analogy and Guide)
                 https://trustoncloud.com/the-last-s3-security-document-that-well-ever-need (The last S3 security document that we’ll ever need, and how to use it)
                 https://www.chrisfarris.com/post/aws-organizations-in-2021 (AWS Organizations - Checklist for 2021)
                 https://www.cisecurity.org/benchmark/amazon_web_services (A step-by-step checklist to secure Amazon Web Services)
@@ -1753,7 +1752,6 @@ Contents:
                     https://awsfundamentals.com/hot-tips (Hot Tips Actionable AWS tips, each explained in a single infographic.)
                     https://awsfundamentals.com/infographics (AWS Services Infographics Visual guides to understand AWS services)
                     https://github.com/Hacking-the-Cloud/hackingthe.cloud (https://hackingthe.cloud An encyclopedia for offensive and defensive security knowledge in cloud native technologies. )
-                    https://notes.kodekloud.com/docs/AWS-Networking-Fundamentals (AWS Networking Fundamentals Notes by KodeKloud)
                     https://www.freecodecamp.org/news/free-107-hour-aws-cloud-project-bootcamp (Free 107-Hour AWS Cloud Project Bootcamp)
 
                 Ultimate AWS Certified Solutions Architect Associate 2026 by Stephane Maarek:
@@ -1790,6 +1788,17 @@ Contents:
                     https://discord.com/channels/1191146976847351970 (TechStudyDiscord by Adrian Cantrill)
                     https://talk.cantrill.io
                     https://cantrill.io.i-aws.cloud (Statistics about Adrian Cantrill's courses)
+
+                VPC:
+                    https://notes.kodekloud.com/docs/AWS-Networking-Fundamentals (AWS Networking Fundamentals Notes by KodeKloud)
+                    https://tutorialsdojo.com/amazon-vpc (Amazon VPC Cheat Sheet)
+                    https://youtu.be/jZAvKgqlrjY?si=TnIp-msta3wnKj9o (AWS re:Invent 2018: Your Virtual Data Center: VPC Fundamentals and Connectivity Options (NET201) by Gina Maris Amazon Web Services)
+
+                IAM:
+                    https://aws.permissions.cloud (AWS IAM Policy Generator)
+                    https://docs.aws.amazon.com/service-authorization/latest/reference/reference_policies_actions-resources-contextkeys.html (Actions, resources, and condition keys for AWS services)
+                    https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_aws-services-that-work-with-iam.html (AWS services that work with IAM)
+                    https://www.effectiveiam.com (Effective IAM for Amazon Web Services by Stephen Kuenzli )
 
             AWS Certification Resources:
                 Sources:
@@ -1836,12 +1845,6 @@ Contents:
                     https://explore.skillbuilder.aws/learn/course/external/view/elearning/14776/exam-prep-aws-certified-solutions-architect-associate-saa-c03-with-practice-material (Exam Prep Enhanced Course: AWS Certified Solutions Architect - Associate (SAA-C03))
                     https://skillbuilder.aws (Learn from AWS experts and build in-demand cloud skills your way)
                     https://www.aws.training (The only set of training programs and offerings built by the experts at AWS.)
-
-            IAM:
-                https://aws.permissions.cloud (AWS IAM Policy Generator)
-                https://docs.aws.amazon.com/service-authorization/latest/reference/reference_policies_actions-resources-contextkeys.html (Actions, resources, and condition keys for AWS services)
-                https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_aws-services-that-work-with-iam.html (AWS services that work with IAM)
-                https://www.effectiveiam.com (Effective IAM for Amazon Web Services by Stephen Kuenzli )
 
             Free AWS Labs:
                 https://run.qwiklabs.com/catalog?keywords=introduction&locale=&cloud%5B%5D=AWS&format%5B%5D=any&level%5B%5D=any&duration%5B%5D=any&price%5B%5D=free&modality%5B%5D=any&language%5B%5D=any
@@ -2021,6 +2024,8 @@ Contents:
         Terraform:
             Sources:
                 https://developer.hashicorp.com/terraform/cli (Terraform CLI Documentation)
+                https://developer.hashicorp.com/terraform/docs (Terraform Documentation)
+                https://developer.hashicorp.com/terraform/internals (Terraform internals overview)
                 https://en.wikipedia.org/wiki/Snake_case (Snake case naming convention)
                 https://github.com/antonbabenko/terraform-best-practices (https://www.terraform-best-practices.com Terraform Best Practices free ebook translated into 🇬🇧🇦🇪🇧🇦🇧🇷🇫🇷🇬🇪🇩🇪🇬🇷🇮🇱🇮🇳🇮🇩🇮🇹🇯🇵🇰🇷🇵🇱🇷🇴🇨🇳🇪🇸🇹🇷🇺🇦🇵🇰 )
                 https://github.com/nsriram/lambda-the-terraform-way (AWS Lambda using Terraform., an Introductory Cookbook)
@@ -2028,6 +2033,7 @@ Contents:
                 https://github.com/shuaibiyy/awesome-terraform (Curated list of resources on HashiCorp's Terraform )
                 https://github.com/topics/infrastructure-as-code?o=desc&s=stars
                 https://github.com/topics/terraform?o=desc&s=stars
+                https://opentofu.org/docs (OpenTofu Documentation)
                 https://www.ansible.com/blog/providing-terraform-with-that-ansible-magic (Providing Terraform with that Ansible Magic)
                 https://www.reddit.com/r/Terraform (Terraform discussion, resources, and other HashiCorp news.)
                 https://www.terraform-best-practices.com (Terraform Best Practices by Anton Babenko)
@@ -6022,6 +6028,7 @@ Contents:
             https://www.reddit.com/r/india/wiki/useful_posts (r/india Useful Posts)
             https://www.thisiswhyimbroke.com (ThisIsWhyImBroke is where you'll find cool gift ideas, unique products, and awesome birthday and Christmas gift ideas.)
             https://www.visionofhumanity.org/maps (Global Peace Index Maps)
+            https://youtu.be/pGG2MykcM0g?si=h7ogIkIMr20URx77 (How to Use Omron HEM 7361 T by Omron Healthcare India)
 
     Support this project with these referral links:
         https://m.do.co/c/d3160b5e33e8 (DigitalOcean Credits)
