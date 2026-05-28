@@ -11,6 +11,7 @@
       <outline text="mid-day Mumbai News" title="mid-day Mumbai News" type="rss" xmlUrl="https://www.mid-day.com/Resources/midday/rss/mumbai-news.xml" htmlUrl="https://www.mid-day.com/mumbai/mumbai-news"/>
     </outline>
     <outline text="MustRead" title="MustRead">
+      <outline text="r/Ultrahuman, r/ouraring : top scoring links" title="r/Ultrahuman, r/ouraring : top scoring links" type="rss" xmlUrl="https://burkybang.com/reddit_rss/?rss=r/Ultrahuman%2Bouraring/top/.rss" htmlUrl="https://www.reddit.com/r/Ultrahuman+ouraring/top/?_=1780005635"/>
       <outline text="DevOps Bulletin" title="DevOps Bulletin" type="rss" xmlUrl="https://www.devopsbulletin.com/feed" htmlUrl="https://www.devopsbulletin.com/"/>
       <outline text="Hacker News 400+ points posts" title="Hacker News 400+ points posts" type="rss" xmlUrl="https://hnrss.org/newest?points=400" htmlUrl="https://news.ycombinator.com/newest"/>
       <outline text="Last Week in AWS" title="Last Week in AWS" type="rss" xmlUrl="https://www.lastweekinaws.com/feed/" htmlUrl="https://www.lastweekinaws.com/"/>
@@ -18,7 +19,6 @@
       <outline text="Mumbai News, News in Mumbai, Mumbai City News | Cities News - Times of India" title="Mumbai News, News in Mumbai, Mumbai City News | Cities News - Times of India" type="rss" xmlUrl="https://timesofindia.indiatimes.com/rssfeeds/-2128838597.cms" htmlUrl="https://timesofindia.indiatimes.com/articlelist/-2128838597.cms"/>
       <outline text="Mumbai News, Latest Mumbai News, Mumbai News Today and Headlines | Hindustan Times" title="Mumbai News, Latest Mumbai News, Mumbai News Today and Headlines | Hindustan Times" type="rss" xmlUrl="https://www.hindustantimes.com/feeds/rss/cities/mumbai-news/rssfeed.xml" htmlUrl="https://www.hindustantimes.com/cities/mumbai-news"/>
       <outline text="The Indian Express » Section » Mumbai" title="The Indian Express » Section » Mumbai" type="rss" xmlUrl="https://indianexpress.com/section/cities/mumbai/feed/" htmlUrl="https://indianexpress.com/"/>
-      <outline text="r/Ultrahuman : top scoring links" title="r/Ultrahuman : top scoring links" type="rss" xmlUrl="https://www.reddit.com/r/Ultrahuman/top/.rss?_=1760551634" htmlUrl="https://www.reddit.com/r/Ultrahuman/top/?_=1760551634"/>
       <outline text="Amazon Web Services Service Status" title="Amazon Web Services Service Status" type="rss" xmlUrl="https://status.aws.amazon.com/rss/all.rss" htmlUrl="https://status.aws.amazon.com/"/>
       <outline text="Slack System Status" title="Slack System Status" type="rss" xmlUrl="https://slack-status.com/feed/atom" htmlUrl="https://slack-status.com"/>
       <outline text="Unsupervised Learning" title="Unsupervised Learning" type="rss" xmlUrl="https://rss.beehiiv.com/feeds/gQxaV1KHkQ.xml" htmlUrl="https://danielmiessler.com/"/>
@@ -119,7 +119,7 @@
       <outline text="SRE WEEKLY" title="SRE WEEKLY" type="rss" xmlUrl="https://sreweekly.com/feed/" htmlUrl="https://sreweekly.com/"/>
     </outline>
     <outline text="Leisure" title="Leisure">
-      <outline text="r/Ultrahuman : top scoring links" title="r/Ultrahuman : top scoring links" type="rss" xmlUrl="https://www.reddit.com/r/Ultrahuman/top/.rss?_=1760551634" htmlUrl="https://www.reddit.com/r/Ultrahuman/top/?_=1760551634"/>
+      <outline text="r/Ultrahuman, r/ouraring : top scoring links" title="r/Ultrahuman, r/ouraring : top scoring links" type="rss" xmlUrl="https://burkybang.com/reddit_rss/?rss=r/Ultrahuman%2Bouraring/top/.rss" htmlUrl="https://www.reddit.com/r/Ultrahuman+ouraring/top/?_=1780005635"/>
       <outline text="Slack System Status" title="Slack System Status" type="rss" xmlUrl="https://slack-status.com/feed/atom" htmlUrl="https://slack-status.com"/>
       <outline text="r/bangalore, r/delhi, r/hyderabad, r/india, r/mumbai :top scoring links" title="r/bangalore, r/delhi, r/hyderabad, r/india, r/mumbai :top scoring links" type="rss" xmlUrl="https://burkybang.com/reddit_rss/?rss=r/bangalore%2Bdelhi%2Bhyderabad%2Bindia%2Bmumbai/top/.rss" htmlUrl="https://www.reddit.com/r/bangalore+delhi+hyderabad+india+mumbai/top/?_=1745575981"/>
       <outline text="r/AskHistorians, r/history : top scoring links" title="r/AskHistorians, r/history : top scoring links" type="rss" xmlUrl="https://burkybang.com/reddit_rss/?rss=r/AskHistorians%2Bhistory/top/.rss" htmlUrl="https://www.reddit.com/r/AskHistorians+history/top/?_=1743632850"/>
@@ -148,3 +148,5 @@
     </outline>
   </body>
 </opml>
+
+
