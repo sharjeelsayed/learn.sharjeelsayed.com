@@ -269,6 +269,7 @@ Contents:
                 https://google.github.io/eng-practices (Google Engineering Practices Documentation)
                 https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=every%20programmer&sort=byPopularity&type=story (Things every programmer should know)
                 https://innovationgraph.github.com/global-metrics/programming-languages (Top 50 Programming Languages Globally)
+                https://lawsofsoftwareengineering.com (A collection of principles and patterns that shape software systems, teams, and decisions.)
                 https://madnight.github.io/githut/#/pull_requests/2023/3 (This website shows the popularity of programming languages on GitHub over time)
                 https://mapfilterfold.com/?genre=programming
                 https://news.ycombinator.com/item?id=12702651 (Ask HN: What is your favorite YouTube channel for developers?)
@@ -3444,6 +3445,7 @@ Contents:
                 https://github.com/langgenius/dify (https://dify.ai Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production. )
                 https://github.com/linexjlin/GPTs (leaked prompts of GPTs )
                 https://github.com/lobehub/lobe-chat (https://chat-preview.lobehub.com/chat 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / DeepSeek / Qwen), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Plugins/Artifacts) and Thinking. One-click FREE deployment of your private ChatGPT/ Claude / DeepSeek application. )
+                https://github.com/Lum1104/Understand-Anything (https://understand-anything.com You just joined a new team. The codebase is 200,000 lines of code. Where do you even start? Understand Anything is a Claude Code Plugin that analyzes your project with a multi-agent pipeline, builds a knowledge graph of every file, function, class, and dependency, then gives you an interactive dashboard to explore it all visually. Stop reading code blind. Start seeing the big picture.)
                 https://github.com/microsoft/markitdown (Python tool for converting files and office documents to Markdown. )
                 https://github.com/Mintplex-Labs/anything-llm (https://anythingllm.com The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more.)
                 https://github.com/ml-tooling/best-of-ml-python (🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.)
@@ -5197,6 +5199,11 @@ Contents:
 
                 Tech News Notifications (iOS/Android):
                     Turn on the applet https://IFTTT.com/applets/456148p in the IFTTT Mobile app and add https://www.techmeme.com/feed.xml into the 'Feed URL' field of the applet.
+
+                Google Alerts:
+                    https://www.google.com/alerts (Google Alerts)
+                    Search Term:
+                    aws | kubernetes | devops | sre | platform engineering | ansible | git | linux | "ci/cd" | docker | gitops | opentofu | "Argo CD" | prometheus | grafana | "elk stack" | opensearch | jenkins | "github actions" | vscode | github | "AWS Cloud Development Kit" | "AWS CDK"
 
                 Cross-Posting Social Media:
                     https://ifttt.com/applets/rnvTEjV9-automatically-share-new-links-you-post-on-facebook-to-twitter
