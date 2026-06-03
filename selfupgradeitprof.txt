@@ -533,6 +533,7 @@ Contents:
                 https://news.ycombinator.com/item?id=18448942 (A book list for OS kernel developers and device driver writers (2006) (jdebp.eu))
                 https://news.ycombinator.com/item?id=20809666 (Ask HN: Recommended resources to learn the Linux kernel and OS theory?)
                 https://www.jmeiners.com/lc3-vm (Write your Own Virtual Machine)
+                https://virtualosmuseum.org (This is a virtual museum of operating systems (and standalone applications) running under emulation, implemented as a Linux VM for QEMU, VirtualBox, or UTM.)
 
             Books and Courses:
                 Operating Systems: Three Easy Pieces:
