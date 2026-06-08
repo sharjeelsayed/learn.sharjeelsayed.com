@@ -118,6 +118,7 @@ Contents:
         BitTorrent
         BackPacks
         Survival
+        Health Trackers
         History
         Games
         Chess
@@ -2319,6 +2320,7 @@ Contents:
                     https://learngitbranching.js.org (https://github.com/pcottle/learnGitBranching An interactive git visualization and tutorial. Aspiring students of git can use this app to educate and challenge themselves towards mastery of git! )
 
                 Git Concepts:
+                    https://devops-daily.com/games/git-concepts-simulator (Git Concepts Simulator: A fun way to learn Git concepts through interactive simulations)
                     https://stackoverflow.com/questions/3528245/whats-the-difference-between-git-reset-mixed-soft-and-hard/59675191#59675191 (What's the difference between git reset --mixed, --soft and --hard? (with diagrams))
                     https://think-like-a-git.net (Think Like (a) Git A Guide for the Perplexed)
                     https://www.cduan.com/technical/git (Understanding Git Conceptually)
@@ -2806,6 +2808,7 @@ Contents:
                 https://github.com/agrinman/tunnelto (https://tunnelto.dev Expose your local web server to the internet with a public URL. )
                 https://github.com/apple/container (https://apple.github.io/container/documentation A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It's written in Swift, and optimized for Apple silicon. )
                 https://github.com/artginzburg/sudo-touchid ( Permanent TouchID support 👆 for `sudo`.)
+                https://github.com/Axorax/awesome-free-apps (Curated list of the best free apps for PC and mobile)
                 https://github.com/caldis/mos (A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS )
                 https://github.com/exelban/stats (macOS system monitor in your menu bar)
                 https://github.com/fastfetch-cli/fastfetch (A maintained, feature-rich and performance oriented, neofetch like system information tool. )
@@ -3883,6 +3886,7 @@ Contents:
                 https://github.com/rendercv/rendercv (https://docs.rendercv.com Typst-based CV/resume generator for academics and engineers )
                 https://github.com/saadq/resumake.io (https://resumake.io 📝 A website for automatically generating elegant LaTeX resumes.)
                 https://github.com/salomonelli/best-resume-ever (https://salomonelli.github.io/best-resume-ever 👔 💼 Build fast 🚀 and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.)
+                https://github.com/santifer/career-ops (https://career-ops.org AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing. )
                 https://github.com/xitanggg/open-resume (https://open-resume.com OpenResume is a powerful open-source resume builder and resume parser)
                 https://luckyresumemaker.com (Make a professional resume in minutes)
                 https://resuai.io/dashboard/templates (Create a resume that will land you an interview)
@@ -5627,6 +5631,12 @@ Contents:
 
                 Bushcraft 101: A Field Guide to the Art of Wilderness Survival
                 https://www.amazon.com/Bushcraft-101-Field-Wilderness-Survival/dp/1440579776
+
+        Health Trackers:
+            Sources:
+                https://www.ultrahuman.com/in/ring (Ultrahuman Ring)
+                https://www.whoop.in/pages/peak (Whoop Peak)
+                https://github.com/NoopApp/noop (Offline WHOOP companion — pair your strap over Bluetooth, keep all data on your own device. No cloud, no account, no subscription. )
 
         History:
             Sources:
