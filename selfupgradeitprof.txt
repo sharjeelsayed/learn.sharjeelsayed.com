@@ -381,17 +381,18 @@ Contents:
                     https://www.youtube.com/@TheCodingTrain (The Coding Train is on its way with creative coding video tutorials on subjects ranging from the basics of programming languages like JavaScript to algorithmic art, machine learning, simulation, generative poetry, and more.)
 
                 CS50 Introduction to Computer Science , Harvard University:
-                    https://cs50.harvard.edu
+                    https://cdn.cs50.net/guide/guide-20.pdf (Unofficial Guide to CS at Harvard)
                     https://cs50.edx.org
+                    https://cs50.harvard.edu
+                    https://cs50.harvard.edu/sql/2024/courses (CS50 offers 11 different courses)
                     https://cs50.stackexchange.com
                     https://cs50x.slack.com
                     https://discord.gg/cs50
                     https://www.facebook.com/groups/cs50
                     https://www.linkedin.com/groups/7437240
                     https://www.reddit.com/r/cs50
-                    https://cdn.cs50.net/guide/guide-20.pdf (Unofficial Guide to CS at Harvard)
                     https://www.youtube.com/c/cs50 (cs50 YouTube channel)
-                    https://cs50.harvard.edu/sql/2024/courses (CS50 offers 11 different courses)
+                    https://youtu.be/gmuTjeQUbTM?si=ac2VSl15lkONkbjZ (Harvard CS50 (2026) – Full Computer Science University Course by freeCodeCamp.org and CS50)
 
                 Introduction to Computer Science and Programming Using Python , MIT
                     https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11
@@ -3533,6 +3534,7 @@ Contents:
                     https://www.mlsysbook.ai (Principles and Practices of Engineering Artificially Intelligent Systems by Vijay Janapa Reddi)
                     https://www.youtube.com/playlist?app=desktop&list=PLoROMvodv4rNyWOpJg_Yh4NSqI4Z4vOYy (Stanford CS229: Machine Learning I Spring 2022)
                     https://youtu.be/kCc8FmEb1nY?si=mhTGB4fgUbg1B9Pq (Let's build GPT: from scratch, in code, spelled out. by Andrej Karpathy)
+                    https://youtu.be/vksyLZ6dZoI?si=O5-w9t-SmYECxV8K (If I have to learn AI in 2026, This is the roadmap I would follow.  by Abhishek.Veeramalla)
 
                 Machine Learning by Andrew Ng
                     https://www.coursera.org/learn/machine-learning
