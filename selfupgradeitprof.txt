@@ -122,6 +122,7 @@ Contents:
         History
         Games
         Chess
+        Air Conditioner
         Weather
         Movies, TV and Documentaries
         Wrist Watch
@@ -1239,6 +1240,7 @@ Contents:
                 https://github.com/fastfetch-cli/fastfetch (A maintained, feature-rich and performance oriented, neofetch like system information tool. )
                 https://github.com/flick9000/winscript (https://winscript.cc Open-source tool to build your Windows script from scratch. It includes debloat, privacy, performance & app installing scripts.)
                 https://github.com/HotCakeX/Harden-Windows-Security (Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels)
+                https://github.com/itsfatduck/optimizerDuck (https://optimizerduck.vercel.app Free, open-source Windows optimization tool for performance, privacy, and simplicity. )
                 https://github.com/massgravel/Microsoft-Activation-Scripts (https://massgrave.dev A Windows and Office activator using HWID / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.)
                 https://github.com/microsoft/PowerToys (Windows system utilities to maximize productivity)
                 https://github.com/microsoft/terminal (The new Windows Terminal and the original Windows console host, all in the same place! )
@@ -5419,7 +5421,6 @@ Contents:
                 https://github.com/ArchiveBox/ArchiveBox (https://archivebox.io 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...)
                 https://github.com/gilbertchen/benchmarking (A performance comparison of Duplicacy, restic, Attic, and duplicity )
                 https://github.com/gilbertchen/cloud-storage-comparison (Performance comparisons of cloud backup storages as Duplicacy backends)
-                https://github.com/restic/others (Exhaustive list of backup solutions for Linux)
                 https://github.com/schollz/croc (Easily and securely send things from one computer to another 🐊 📦)
                 https://github.com/shadowmoose/RedditDownloader (Scrapes Reddit to download media of your choice.)
                 https://github.com/simon987/awesome-datahoarding (List of data-hoarding related tools )
@@ -5446,12 +5447,12 @@ Contents:
                 https://github.com/mikf/gallery-dl (Command-line program to download image galleries and collections from several image hosting sites)
                 https://github.com/nexmoe/VidBee (https://vidbee.org Download videos from almost any website worldwide through the powerful yt-dlp engine )
                 https://github.com/nicotsx/zerobyte (Backup automation for self-hosters. Built on top of restic )
+                https://github.com/restic/restic (https://restic.net Restic is a fast, efficient and secure backup program)
                 https://github.com/soimort/you-get (https://you-get.org ⏬ Dumb downloader that scrapes the web)
                 https://github.com/Y2Z/monolith (⬛️ CLI tool for saving complete web pages as a single HTML file )
                 https://github.com/yt-dlp/yt-dlp (A youtube-dl fork with additional features and fixes)
                 https://indown.io/insta-dp-viewer (Instagram DP Download)
                 https://rclone.org (Rclone syncs your files to cloud storage)
-                https://restic.net (Restic is a fast, efficient and secure backup program)
                 https://syncthing.net (Syncthing is a continuous file synchronization program.)
                 https://wasabi.com (Wasabi Hot Cloud Storage)
                 https://www.backblaze.com/cloud-storage (Backblaze B2 Cloud Storage)
@@ -5619,9 +5620,10 @@ Contents:
 
         Health Trackers:
             Sources:
+                https://github.com/NoopApp/noop (Offline WHOOP companion — pair your strap over Bluetooth, keep all data on your own device. No cloud, no account, no subscription. )
                 https://www.ultrahuman.com/in/ring (Ultrahuman Ring)
                 https://www.whoop.in/pages/peak (Whoop Peak)
-                https://github.com/NoopApp/noop (Offline WHOOP companion — pair your strap over Bluetooth, keep all data on your own device. No cloud, no account, no subscription. )
+                https://youtu.be/pGG2MykcM0g?si=h7ogIkIMr20URx77 (How to Use Omron HEM 7361 T by Omron Healthcare India)
 
         History:
             Sources:
@@ -5669,6 +5671,16 @@ Contents:
                 https://lichess.org (1,737)
                 https://chesstempo.com/chess-tactics (51,565)
                 https://stockfishchess.org (58,390)
+
+        Air Conditioner:
+            Sources:
+                https://www.amazon.in/gp/bestsellers/kitchen/3474656031 (Amazon India Best Sellers in Air Conditioners)
+                https://www.amazon.com/Best-Sellers-Home-Kitchen-Room-Air-Conditioners/zgbs/home-garden/14554126011 (Amazon US Best Sellers in Air Conditioners)
+
+            Mitsubishi Heavy Industries:
+                https://kenielectronics.com/product/mitsubishi-heavy-srk13yym-w6-1-ton-3s/ # Mitsubishi Heavy (SRK13YYM-W6) – 1 Ton 3 Star Inverter Split AC
+                https://share.google/aimode/duYQJIgv0nRHHYiBS # Mitsubishi Haru Series – Standard Inverter Series SRK13YYM-W1
+                https://share.google/aimode/duYQJIgv0nRHHYiBS # Google AI on Mitsubishi SRK13YYM-W6
 
         Weather:
             Sites: (Sorted by Alexa Rank)
@@ -6031,7 +6043,6 @@ Contents:
             https://www.reddit.com/r/india/wiki/useful_posts (r/india Useful Posts)
             https://www.thisiswhyimbroke.com (ThisIsWhyImBroke is where you'll find cool gift ideas, unique products, and awesome birthday and Christmas gift ideas.)
             https://www.visionofhumanity.org/maps (Global Peace Index Maps)
-            https://youtu.be/pGG2MykcM0g?si=h7ogIkIMr20URx77 (How to Use Omron HEM 7361 T by Omron Healthcare India)
 
     Support this project with these referral links:
         https://m.do.co/c/d3160b5e33e8 (DigitalOcean Credits)
