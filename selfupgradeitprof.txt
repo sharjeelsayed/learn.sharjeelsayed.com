@@ -647,10 +647,11 @@ Contents:
                 https://youtu.be/tsxjNsFu_2g (RubyConf Mini 2022: Keynote: Learning DNS by Julia Evans)
 
             Tools:
+                https://addr.tools (possibly useful tools for the Internet)
+                https://bunny.net (Brings together CDN, security, and compute into a single lightning-fast platform)
                 https://dns-lookup.jvns.ca (a simple DNS lookup tool)
                 https://messwithdns.net
                 https://www.dns.toys (Useful utilities and services over DNS)
-                https://addr.tools (possibly useful tools for the Internet)
 
         Data Engineering:
             Sources:
@@ -5679,9 +5680,10 @@ Contents:
                 https://www.amazon.com/Best-Sellers-Home-Kitchen-Room-Air-Conditioners/zgbs/home-garden/14554126011 (Amazon US Best Sellers in Air Conditioners)
 
             Mitsubishi Heavy Industries:
-                https://kenielectronics.com/product/mitsubishi-heavy-srk13yym-w6-1-ton-3s/ # Mitsubishi Heavy (SRK13YYM-W6) – 1 Ton 3 Star Inverter Split AC
-                https://share.google/aimode/duYQJIgv0nRHHYiBS # Mitsubishi Haru Series – Standard Inverter Series SRK13YYM-W1
-                https://share.google/aimode/duYQJIgv0nRHHYiBS # Google AI on Mitsubishi SRK13YYM-W6
+                https://kenielectronics.com/product/mitsubishi-heavy-srk13yym-w6-1-ton-3s ( Mitsubishi Heavy (SRK13YYM-W6) – 1 Ton 3 Star Inverter Split AC )
+                https://share.google/aimode/duYQJIgv0nRHHYiBS ( Google AI on Mitsubishi SRK13YYM-W6 )
+                https://www.mhi-mth.co.jp/en/products/pdf/rlf012a102b_english.pdf (Mitsubishi Heavy Industries Air Conditioner User Manual. Remote Control Model:RLA502A705F )
+                https://www.mitsuheavythai.com/en/residential-products-details.php?Id=149 ( Mitsuishi Haru Series – Standard Inverter SERIES SRK13YYM-W1 )
 
         Weather:
             Sites: (Sorted by Alexa Rank)
