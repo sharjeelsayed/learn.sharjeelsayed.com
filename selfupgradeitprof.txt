@@ -5158,6 +5158,7 @@ Contents:
                     https://apps.apple.com/us/app/hack-for-hacker-news-developer/id1464477788
                     https://github.com/minimaxir/hacker-news-undocumented (Some of the hidden norms about Hacker News not otherwise covered in the Guidelines and the FAQ.)
                     https://hackernewsletter.com (Since 2010, we've put out a weekly newsletter of the best articles on startups, technology, programming, and more. All links are curated by hand from Hacker News. )
+                    https://hackernewstrends.com (Charts how often any topic, tool, or person has come up on Hacker News.)
                     https://hakkernieuws.vercel.app/top (Hakkernieuws strips HN down to just stories and favicons)
                     https://hckrnews.com (an unofficial alternative hacker news interface)
                     https://hn.algolia.com ((HackerNews Search))
