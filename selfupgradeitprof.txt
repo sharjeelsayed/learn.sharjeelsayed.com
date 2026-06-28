@@ -1727,6 +1727,7 @@ Contents:
                 https://github.com/AndrewGuenther/fck-nat (https://fck-nat.dev Feasible cost konfigurable NAT: An AWS NAT Instance AMI)
                 https://github.com/aramalipoor/aws-cost-saver (A tiny CLI tool to help save costs in development environments when you're asleep and don't need them!)
                 https://github.com/aws-samples/hardeneks (Runs checks to see if an EKS cluster follows EKS Best Practices.)
+                https://github.com/aws/agent-toolkit-for-aws (Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS )
                 https://github.com/awslabs/aws-break-glass-role (Create a break glass role for emergency use in order to limit AWS production account access. Configure automatic alerts and logging of activities in the role to secure its use in production environments.)
                 https://github.com/awslabs/mcp (https://awslabs.github.io/mcp AWS MCP Servers — helping you get the most out of AWS, wherever you use MCP. )
                 https://github.com/bash-my-aws/bash-my-aws (Simple but powerful CLI commands for managing AWS resources)
@@ -2626,6 +2627,7 @@ Contents:
                 https://github.com/qeeqbox/social-analyzer (API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites)
                 https://github.com/robertdavidgraham/masscan (TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.)
                 https://github.com/sherlock-project/sherlock (🔎 Hunt down social media accounts by username across social networks https://sherlock-project.github.io)
+                https://github.com/smicallef/spiderfoot (https://www.intel471.com SpiderFoot automates OSINT for threat intelligence and mapping your attack surface. )
                 https://github.com/soxoj/maigret (https://maigret.readthedocs.io/en/latest 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites )
                 https://github.com/stamparm/maltrail (Malicious traffic detection system )
                 https://github.com/Stanford-Trinity/ARTEMIS (ARTEMIS is an autonomous agent created by the Stanford Trinity project to automate vulnerability discovery.)
@@ -3405,8 +3407,10 @@ Contents:
                 http://nlp.seas.harvard.edu/annotated-transformer (The Annotated Transformer Attention is All You Need)
                 https://danielmiessler.com/p/get-samantha-tars-interstellar-iphoneandroid (How to Get Samantha from Her or TARS from Interstellar on Your iPhone/Android)
                 https://en.wikipedia.org/wiki/Large_language_model (Large language model)
+                https://github.com/aishwaryanr/awesome-generative-ai-guide (A one stop repository for generative AI research updates, interview resources, notebooks and much more! )
                 https://github.com/appcypher/awesome-mcp-servers (Awesome MCP Servers - A curated list of Model Context Protocol servers )
                 https://github.com/GoogleCloudPlatform/generative-ai (https://cloud.google.com/vertex-ai/docs/generative-ai/learn/overview Sample code and notebooks for Generative AI on Google Cloud)
+                https://github.com/owainlewis/awesome-artificial-intelligence (A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers. )
                 https://github.com/topics/llm (Large Language Model GitHub Repos)
                 https://lmarena.ai/leaderboard (Chatbot Arena LLM Leaderboard: Community-driven Evaluation for Best LLM and AI chatbots.See how leading models stack up across text, image, vision, and beyond. )
                 https://openrouter.ai/state-of-ai (An Empirical 100 Trillion Token Study with OpenRouter)
@@ -3426,6 +3430,7 @@ Contents:
                 https://github.com/asgeirtj/system_prompts_leaks (system_prompts_leaks)
                 https://github.com/ashishpatel26/500-AI-Agents-Projects (The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more. )
                 https://github.com/AsyncFuncAI/deepwiki-open (Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab Repositories)
+                https://github.com/aws/agent-toolkit-for-aws (Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS )
                 https://github.com/aws/amazon-q-developer-cli (https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/command-line-installing.html ✨ Agentic chat experience in your terminal. Build applications using natural language.)
                 https://github.com/awslabs/mcp (https://awslabs.github.io/mcp AWS MCP Servers — helping you get the most out of AWS, wherever you use MCP. )
                 https://github.com/bodo-run/yek (A fast tool to read text-based files in a repository or directory, chunk them, and serialize them for LLM consumption. )
@@ -3446,6 +3451,7 @@ Contents:
                 https://github.com/Hannibal046/Awesome-LLM (Awesome-LLM: a curated list of Large Language Model)
                 https://github.com/hesreallyhim/awesome-claude-code (A curated list of awesome commands, files, and workflows for Claude Code )
                 https://github.com/HKUDS/nanobot ("🐈 nanobot: The Ultra-Lightweight Clawdbot" )
+                https://github.com/hugohe3/ppt-master (https://hugohe3.github.io/ppt-master AI generates a real, editable PowerPoint from any document — native shapes & animations, speaker notes voiced as audio narration, and the option to follow your own .pptx template, not slide images · by Hugo He )
                 https://github.com/humanloop/awesome-chatgpt (Curated list of awesome tools, demos, docs for ChatGPT and GPT-3 )
                 https://github.com/idosal/git-mcp (https://gitmcp.io Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project )
                 https://github.com/Jeffallan/claude-skills (66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.)
@@ -3886,6 +3892,7 @@ Contents:
                 https://github.com/AmruthPillai/Reactive-Resume (https://rxresu.me A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!)
                 https://github.com/BartoszJarocki/cv (Print-friendly, minimalist CV page)
                 https://github.com/emmabostian/developer-portfolios (A list of developer portfolios for your inspiration)
+                https://github.com/interviewstreet/hiring-agent (AI agent to evaluate and score resumes. )
                 https://github.com/jankapunkt/latexcv (👔 A collection of cv and resume templates written in LaTeX. Leave an issue if your language is not supported!)
                 https://github.com/posquit0/Awesome-CV (📄 Awesome CV is LaTeX template for your outstanding job application)
                 https://github.com/rendercv/rendercv (https://docs.rendercv.com Typst-based CV/resume generator for academics and engineers )
@@ -3895,7 +3902,6 @@ Contents:
                 https://github.com/xitanggg/open-resume (https://open-resume.com OpenResume is a powerful open-source resume builder and resume parser)
                 https://luckyresumemaker.com (Make a professional resume in minutes)
                 https://resuai.io/dashboard/templates (Create a resume that will land you an interview)
-                https://resumetopdf.com
 
             Online Profile:
                 https://about.me (5,086)
@@ -4197,6 +4203,7 @@ Contents:
                 https://www.scu.edu/ethics/focus-areas/business-ethics/resources/seven-signs-of-ethical-collapse (Seven Signs of Ethical Collapse)
                 https://www.themarginalian.org/2014/01/03/baloney-detection-kit-carl-sagan (Baloney Detection Kit: Carl Sagan's Rules for Bullshit-Busting and Critical Thinking)
                 https://youtu.be/NViqHCrljf8 (The Briefcase Technique by Ramit Sethi .Money Negotiation technique)
+                https://github.com/phuryn/pm-skills (https://www.productcompass.pm/p/pm-skills-2-red-team-ship  PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth. )
 
             Books and Courses:
                 The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change 1st Edition May 2017 by Camille Fournier
@@ -4750,6 +4757,7 @@ Contents:
     Miscellaneous:
         Microsoft Excel:
             Sources:
+                https://github.com/hugohe3/ppt-master (https://hugohe3.github.io/ppt-master AI generates a real, editable PowerPoint from any document — native shapes & animations, speaker notes voiced as audio narration, and the option to follow your own .pptx template, not slide images · by Hugo He )
                 https://github.com/saulpw/visidata (https://www.visidata.org A terminal spreadsheet multitool for discovering and arranging data)
                 https://news.ycombinator.com/item?id=12448545 (You Suck at Excel with Joel Spolsky (2015) [video])
                 https://news.ycombinator.com/item?id=38666340 (	Sydney man dubbed the 'Annihilator' wins spreadsheet world championship (theguardian.com))
