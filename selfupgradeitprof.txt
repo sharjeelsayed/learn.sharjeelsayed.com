@@ -935,6 +935,7 @@ Contents:
                 https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools (A list of new(ish) command line tools)
                 https://linuxcommandlibrary.com
                 https://lpc.events (The Linux Plumbers Conference is the premier event for developers working at all levels of the plumbing layer and beyond)
+                https://mareksuppa.com/til/bash-dev-tcp-http-without-curl (Making HTTP requests from a container that has no curl, using bash /dev/tcp)
                 https://netfilter.org/documentation (Documentation about the netfilter/iptables project)
                 https://news.ycombinator.com/item?id=22564665 (Linux Kernel Teaching (linux-kernel-labs.github.io))
                 https://news.ycombinator.com/item?id=24027366 (	Low latency tuning guide)
@@ -1087,6 +1088,7 @@ Contents:
                 https://github.com/ibraheemdev/modern-unix (A collection of modern/faster/saner alternatives or complements to common unix commands.)
                 https://github.com/rothgar/awesome-tuis (List of projects that provide terminal user interfaces )
                 https://github.com/topics/bash?o=desc&s=stars
+                https://mareksuppa.com/til/bash-dev-tcp-http-without-curl (Making HTTP requests from a container that has no curl, using bash /dev/tcp)
                 https://news.ycombinator.com/item?id=14634964 (Ask HN: How can I get better at bash?)
                 https://news.ycombinator.com/item?id=22975437 (Shell Productivity Tips and Tricks (balthazar-rouberol.com))
                 https://news.ycombinator.com/item?id=24880170 (/.bashrc VS –/.profile VS –/.bash_profile (leimao.github.io))
@@ -1188,6 +1190,7 @@ Contents:
                 https://goteleport.com/blog/security-hardening-ssh-bastion-best-practices (SSH Bastion Host Best Practices)
                 https://grahamhelton.com/blog/ssh-cheatsheet (An Excruciatingly Detailed Guide To SSH (But Only The Things I Actually Find Useful))
                 https://iximiuz.com/en/posts/ssh-tunnels (A Visual Guide to SSH Tunnels: Local and Remote Port Forwarding)
+                https://labs.iximiuz.com/tutorials/ssh-tunnels (A Practical Guide to SSH Tunnels: Local and Remote Port Forwarding)
                 https://susam.in/blog/file-transfer-with-ssh-tee-and-base64.html (File Transfer with SSH, Tee, and Base64)
                 https://unix.stackexchange.com/questions/2857/copy-a-file-back-to-local-system-with-ssh/2869#2869 (Download or Upload files using SSH)
                 https://unix.stackexchange.com/questions/46235/how-does-reverse-ssh-tunneling-work/118650#118650 (How does reverse SSH tunneling work?)
@@ -1291,6 +1294,7 @@ Contents:
                 https://github.com/veggiemonk/awesome-docker (🐳 A curated list of Docker resources and projects https://awesome-docker.netlify.app)
                 https://man7.org/linux/man-pages/man7/cgroups.7.html
                 https://man7.org/linux/man-pages/man7/namespaces.7.html
+                https://mareksuppa.com/til/bash-dev-tcp-http-without-curl (Making HTTP requests from a container that has no curl, using bash /dev/tcp)
                 https://news.ycombinator.com/item?id=15822583 (Ask HN: Good resources on learning how docker works under the hood?)
                 https://www.fb.com/groups/devopsdocker (DevOps Docker Kubernetes Terraform Helm Public Group)
                 https://www.reddit.com/r/docker
@@ -1394,6 +1398,7 @@ Contents:
                 https://kubenews.net (Kubernetes and Cloud Native Computing Foundation News Sources)
                 https://kubernetes.io/docs/concepts/security/security-checklist (Kubernetes Security Checklist)
                 https://kubernetesbyexample.com (KBE lessons emphasize an ‘absorb by doing’ approach so you can practices skills as they are explored and explained to learn Kubernetes By Example)
+                https://medium.com/@f8010/how-to-become-ridiculously-good-at-kubernetes-00538d4e8627 (How to Become Ridiculously Good at Kubernetes)
                 https://news.ycombinator.com/item?id=29251343 (Ask HN: What is the fastest way to ramp up on DevOps, k8 and GCP?)
                 https://sdk.operatorframework.io (The Operator SDK makes it easier to build Kubernetes native applications, a process that can require deep, application-specific operational knowledge)
                 https://sysdig.com/blog/top-owasp-kubernetes (The OWASP Kubernetes Top 10 puts all possible risks in an order of overall commonality or probability.)
@@ -2272,6 +2277,7 @@ Contents:
                 https://github.com/initialcommit-com/git-sim (Visually simulate Git operations in your own repos with a single terminal command.)
                 https://github.com/jesseduffield/lazygit (simple terminal UI for git commands)
                 https://github.com/jonas/tig (https://jonas.github.io/tig text-mode interface for Git)
+                https://github.com/kunchenguid/no-mistakes (https://kunchenguid.github.io/no-mistakes git push no-mistakes )
                 https://github.com/LeCoupa/awesome-cheatsheets/blob/master/tools/git.sh
                 https://github.com/Legit-Labs/legitify (https://legitify.dev Detect and remediate misconfigurations and security risks across all your GitHub and GitLab assets)
                 https://github.com/martinvonz/jj (A Git-compatible DVCS that is both simple and powerful)
@@ -2596,6 +2602,7 @@ Contents:
                 https://github.com/aquasecurity/trivy (https://trivy.dev Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more )
                 https://github.com/armosec/kubescape (kubescape is the first tool for testing if Kubernetes is deployed securely as defined in Kubernetes Hardening Guidance by to NSA and CISA)
                 https://github.com/bettercap/bettercap (The Swiss Army knife for 802.11, BLE, IPv4 and IPv6 networks reconnaissance and MITM attacks.)
+                https://github.com/bikini/exploitarium (A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way. )
                 https://github.com/BishopFox/cloudfox (Open source command line tool created to help penetration testers and other offensive security professionals find exploitable  attack paths in cloud infrastructure)
                 https://github.com/BushidoUK/Ransomware-Tool-Matrix (https://blog.bushidotoken.net/2024/08/the-ransomware-tool-matrix.html A resource containing all the tools each ransomware gangs uses)
                 https://github.com/Cryakl/Ultimate-RAT-Collection (For educational purposes only, exhaustive samples of 450+ classic/modern trojan builders including screenshots. )
@@ -2816,6 +2823,7 @@ Contents:
                 https://github.com/artginzburg/sudo-touchid ( Permanent TouchID support 👆 for `sudo`.)
                 https://github.com/Axorax/awesome-free-apps (Curated list of the best free apps for PC and mobile)
                 https://github.com/caldis/mos (A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS )
+                https://github.com/darrylmorley/whatcable (macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do)
                 https://github.com/exelban/stats (macOS system monitor in your menu bar)
                 https://github.com/fastfetch-cli/fastfetch (A maintained, feature-rich and performance oriented, neofetch like system information tool. )
                 https://github.com/iCHAIT/awesome-macOS ( A curated list of awesome applications, softwares, tools and shiny things for macOS.)
