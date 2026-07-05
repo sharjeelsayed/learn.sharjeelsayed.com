@@ -4031,6 +4031,7 @@ Contents:
                 https://www.fossjobs.net (This is a job board exclusively for paid free & open source jobs: We only list jobs at organizations that improve and involve FOSS or open hardware projects. )
                 https://map.stapply.ai (Map of Jobs at Top AI Companies | Stapply Job Map)
                 https://internshala.com (Internship and Training in India)
+                https://devnetjobs.org
 
             Arab League Countries Job Sites:
                 https://ae.indeed.com (66)
@@ -4986,6 +4987,8 @@ Contents:
                 https://pageviews.wmcloud.org/topviews/?project=en.wikipedia.org&platform=all-access&date=yesterday&excludes= (Wikipedia daily most viewed pages)
                 https://prashantbarahi.com.np/read-in-public (Software blog articles : The #ReadInPublic is my attempt at sharing what I have learned with the world.)
                 https://pressgazette.co.uk/paywalls/biggest-subscription-news-websites-2026/#h-biggest-paywalled-news-publishers-in-the-world-in-2026 (Biggest paywalled news publishers in the world in 2026)
+                https://share.google/aimode/BllFl5Wc3Q8DUgNXA (Google AI Mode :Major news events in India in the last 24 hours)
+                https://share.google/aimode/BllFl5Wc3Q8DUgNXA (Google AI Mode :Major news events in Mumbai in the last 24 hours)
                 https://twitter.com/SharjeelSayed
                 https://www.reddit.com/r/AskReddit/comments/9nggyv/what_is_a_great_youtube_channel_to_binge_watch
                 https://www.reddit.com/r/AskReddit/comments/aa7zs9/what_youtube_channels_are_genuinely_worth_watching
@@ -5594,7 +5597,7 @@ Contents:
                 https://nyaa.si (1,080 similarweb.com))
                 https://eztvx.to (3,713 similarweb.com))
                 https://rutracker.org (537)
-                https://www.limetorrents.lol (2,951)
+                https://www.limetorrents.fun (2,951)
                 https://www.qbittorrent.org (32,011)
                 https://www.myanonamouse.net (42,501)
                 https://put.io (45,131)
