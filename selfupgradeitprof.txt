@@ -990,6 +990,7 @@ Contents:
                 https://github.com/trimstray/the-practical-linux-hardening-guide (This guide details creating a secure Linux production system. OpenSCAP (C2S/CIS, STIG).)
                 https://livesys.se/posts/the-chroot-technique (The chroot Technique - a Swiss army multitool for Linux systems)
                 https://netfilter.org/documentation (Documentation about the netfilter/iptables project)
+                https://peteris.rocks/blog/htop (Explanation of everything you can see in htop/top on Linux)
                 https://roguesecurity.dev/blog/systemd-hardening (SystemD Service Hardening)
                 https://wiki.archlinux.org (Arch Linux documentation on the web.)
 
@@ -1672,6 +1673,8 @@ Contents:
                 https://www.amazon.com/OpenStack-Cloud-Computing-Cookbook-networking/dp/1788398769
 
         Data Center:
+            Sources:
+                https://www.cbre.com/insights/reports/global-data-center-trends-2026 (Global Data Center Trends 2026 )
             Books and Courses:
                 Data Center Fundamentals (Jan 2003) by Mauricio Arregoces
                 https://www.amazon.com/Data-Center-Fundamentals-Mauricio-Arregoces/dp/1587050234
