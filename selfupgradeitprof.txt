@@ -1321,6 +1321,7 @@ Contents:
                 https://github.com/remorses/docker-phobia (Analyze Docker images size)
                 https://github.com/tiangolo/dockerswarm.rocks (https://dockerswarm.rocks Docker Swarm mode rocks! Ideas, tools and recipes. Get a production-ready, distributed, HTTPS served, cluster in minutes, not weeks. )
                 https://github.com/wagoodman/dive (A tool for exploring each layer in a docker image)
+                https://github.com/smol-machines/smolvm (https://smolmachines.com (Fast, isolated Linux VMs — the same smol machine on your laptop, in the cloud, or self-hosted.)
 
             Books and Courses:
                 Tutorials:
@@ -1875,6 +1876,7 @@ Contents:
                 https://kodekloud.com/playgrounds (KodeKloud Playgrounds. Playgrounds are sandboxed Cloud and DevOps environments for you to experience without fear of failure)
                 https://learn.acloud.guru/cloud-playground/cloud-sandboxes (Build skills across hundreds of cloud services in real AWS, Azure and GCP sandboxes Cloud along with courses, )
                 https://portal.tutorialsdojo.com/product/playcloud-sandbox-aws (The PlayCloud Sandbox is an isolated AWS environment where you can confidently experiment and run applications.)
+                https://www.localstack.cloud (LocalStack simulates cloud environments on your own infrastructure so software teams and AI agents can validate security, quality, and reliability faster and more safely than the cloud allows.)
                 https://www.whizlabs.com/labs/sandbox (A secure, isolated, contained environment.)
 
             AWS Support Groups:
@@ -2109,9 +2111,10 @@ Contents:
                     https://www.oreilly.com/library/view/terraform-up-and/9781098116736
                     https://www.terraformupandrunning.com
 
-                Terraform in Depth Infrastructure as Code with Terraform and OpenTofu by Robert Hafner
+                Terraform in Depth Infrastructure as Code with Terraform and OpenTofu ,February 2025 , by Robert Hafner
                     https://www.manning.com/books/terraform-in-depth
-                    https://www.amazon.com/Terraform-Depth-Robert-Hafner/dp/1633438007
+                    https://www.amazon.com/Terraform-Depth-Robert-Hafner/dp/1633438007 (April 8, 2025 Release)
+                    https://blog.tedivm.com (The blog of Robert Hafner)
 
                 Amazon EKS Terraform Workshop
                     https://tf-eks-workshop.workshop.aws
@@ -3094,6 +3097,7 @@ Contents:
                 https://github.com/tuvtran/project-based-learning#python
                 https://github.com/vinta/awesome-python (A curated list of awesome Python frameworks, libraries, software and resources)
                 https://lp.jetbrains.com/python-developers-survey-2024 (Python Developers Survey 2024 Results)
+                https://medium.com/javarevisited/ive-read-20-python-books-and-here-are-my-top-5-recommendations-for-2026-973f0a487e88 (My favorite Python Programming books for beginners and experienced)
                 https://news.ycombinator.com/item?id=16622038 (At full speed with Python: a book for self-learners)
                 https://news.ycombinator.com/item?id=21054462 (Ask HN: How do you handle/maintain local Python environments?)
                 https://news.ycombinator.com/item?id=30980813 (	Ask HN: Python Programming Books)
@@ -3102,6 +3106,7 @@ Contents:
                 https://pythonbooks.org (Find the best Python books Ranked by popularity. Grouped intelligently. Updated monthly!)
                 https://realpython.com/courses/python-boto3-aws-s3 (Python, Boto3, and AWS S3: Demystified)
                 https://research.google.com/colaboratory/local-runtimes.html (Local Runtimes in Google Colab)
+                https://www.amazon.com/gp/bestsellers/books/285856 (Best Sellers in Python Programming)
                 https://www.cosmicpython.com https://www.amazon.com/Architecture-Patterns-Python-Domain-Driven-Microservices/dp/1492052205 (Architecture Patterns with Python: Enabling Test-Driven Development, Domain-Driven Design, and Event-Driven Microservices)
                 https://www.reddit.com/r/learnprogramming/wiki/online#wiki_python
                 https://www.reddit.com/r/Python+learnpython
@@ -3115,15 +3120,12 @@ Contents:
                     https://www.reddit.com/r/learnpython/comments/53z5p4/how_to_start_learning_python_the_complete_guide (How to start learning Python ? The Complete guide.)
                     https://www.udemy.com/topic/python/?ratings=4.5&sort=popularity (Udemy Courses rated 4.5 stars and above)
 
-                Think Python, 3rd edition by Allen B. Downey September 3, 2024
-                https://allendowney.github.io/ThinkPython
-                https://www.amazon.com/_/dp/1098155432
-
                 Python Crash Course, 3rd Edition: A Hands-On, Project-Based Introduction to Programming 3rd Edition by Eric Matthes January 10, 2023
-                https://ehmatthes.github.io/pcc
+                https://ehmatthes.github.io/pcc_3e
                 https://nostarch.com/python-crash-course-3rd-edition
                 https://www.amazon.com/Python-Crash-Course-Eric-Matthes/dp/1718502702
-                https://github.com/ehmatthes/pcc (Resources for Python Crash Course, from No Starch Press. )
+                https://github.com/ehmatthes/pcc_3e (Online resources for Python Crash Course, 3rd edition, from No Starch Press. )
+                https://ehmatthes.github.io/pcc_3e/updates (Updates and Errata)
 
                 Fluent Python: Clear, Concise, and Effective Programming by Luciano Ramalho 2nd Edition May 10, 2022
                 https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1492056359
@@ -3141,10 +3143,11 @@ Contents:
                 https://github.com/dabeaz-course/python-mastery
 
                 Automate the Boring Stuff with Python by Al Sweigart
-                https://automatetheboringstuff.com/2e
-                https://www.udemy.com/course/automate
+                https://automatetheboringstuff.com/3e
                 https://automatetheboringstuff.com/eval
                 https://inventwithpython.com/automateudemy (Coupon)
+                https://www.amazon.com/Automate-Boring-Stuff-Python-3rd/dp/1718503407
+                https://www.udemy.com/course/automate
 
                 Learn Python 3 the Hard Way by Zed A. Shaw
                 https://learnpythonthehardway.org/python3
@@ -3164,6 +3167,10 @@ Contents:
 
                 Python Programming MOOC 2026 by the University of Helsinki
                 https://programming-26.mooc.fi
+
+                Think Python, 3rd edition by Allen B. Downey September 3, 2024
+                https://allendowney.github.io/ThinkPython
+                https://www.amazon.com/_/dp/1098155432
 
         Go:
             Sources:
@@ -4384,7 +4391,6 @@ Contents:
             https://apps.ankiweb.net (Powerful, intelligent flash cards)
             https://collegeinfogeek.com/spaced-repetition-memory-technique
             https://cse.buffalo.edu/~rapaport/howtostudy.html (How to Study: A Brief Guide by William J. Rapaport Department of Computer Science and Engineering, Department of Philosophy,and Center for Cognitive Science State University of New York at Buffalo, Buffalo, NY 14260-2000)
-            https://en.wikipedia.org/wiki/52/17_rule (52/17 rule)
             https://en.wikipedia.org/wiki/Pomodoro_Technique (Pomodoro Technique)
             https://news.ycombinator.com/item?id=12209446 (How to Read a Book [pdf])
             https://news.ycombinator.com/item?id=14218408 (Ask HN: How do you keep improving?)
@@ -4397,6 +4403,7 @@ Contents:
             https://news.ycombinator.com/item?id=30473322 (Ask HN: Any scientifically proven techniques to boost concentration?)
             https://news.ycombinator.com/item?id=44201901 (	4-7-8 Breathing (breathbelly.com))
             https://oneminutefocus.com (Studies in brain science (neuroscience) has shown that focusing visually actually can help our brain focus on a task (Dr. Andrew Huberman))
+            https://www.amazon.in/Pomodoro-Countdown-Rechargeable-Vibration-Productivity/dp/B0GW8P7L24 (F4 Gravity Timer )
             https://www.comptia.org/testing/online-testing-interest-form
             https://www.coursera.org/learn/learning-how-to-learn
             https://x.com/Hesamation/status/1899191612854702578 (Andrej Karpathy’s bombshells on how to learn https://x.com/karpathy/status/1756380066580455557)
@@ -4460,13 +4467,11 @@ Contents:
                 https://darkreader.org (Dark Reader is an open source eye-care browser extension)
                 https://github.com/aaronraimist/DontFuckWithPaste (Google Chrome and Firefox extension that prevents the blocking of pasting into input fields)
                 https://github.com/ACK-J/Port_Authority (https://addons.mozilla.org/en-US/firefox/addon/port-authority Blocks websites from using javascript to port scan your computer/network and dynamically blocks all LexisNexis endpoints from running their invasive data collection scripts)
-                https://github.com/ClearURLs/Addon (ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy. )
                 https://github.com/Cookie-AutoDelete/Cookie-AutoDelete (Firefox and Chrome WebExtension that deletes cookies and other browsing site data as soon as the tab closes, domain changes, browser restarts, or a combination of those events. )
                 https://github.com/deanishe/alfred-firefox (Search and control Firefox from Alfred )
                 https://github.com/dessant/web-archives (Web Archives is a browser extension that enables you to find archived and cached versions of web pages, and comes with support for various search engines.)
                 https://github.com/gorhill/uBlock (uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. )
                 https://github.com/itsecurityco/to-google-translate
-                https://github.com/josh-berry/tab-stash (Firefox extension to save and restore tabs as bookmarks)
                 https://github.com/mozilla/contain-facebook (Facebook Container isolates your Facebook activity from the rest of your web activity in order to prevent Facebook from tracking you outside of the Facebook website via third party cookies. )
                 https://github.com/mozilla/multi-account-containers (Firefox Multi-Account Containers lets you keep parts of your online life separated into color-coded tabs that preserve your privacy. Cookies are separated by container, allowing you to use the web with multiple identities or accounts simultaneously. )
                 https://github.com/philc/vimium
@@ -5902,6 +5907,7 @@ Contents:
                 https://leathertainment.notion.site (Tanner’s Club - Leather Brand Guide)
                 https://realstyle.therealreal.com/trr-full-resale-report-2024 (The RealReal’s FULL 2024 Resale Report)
                 https://www.cushmanwakefield.com/en/belgium/news/2025/11/londons-new-bond-street-most-expensive-retail-destination-in-the-world (most expensive retail destination in the world,)
+                https://www.juliusbaer.com/en/media/news-portal/julius-baer-publishes-global-wealth-and-lifestyle-report-2026 (Julius Baer publishes Global Wealth and Lifestyle Report 2026)
                 https://www.looria.com/reddit/BuyItForLife/brand-popularity (The most popular brands on r/BuyItForLife)
                 https://www.reddit.com/r/dataisbeautiful/comments/ujuui4/oc_the_most_discussed_brands_on_rbuyitforlife (OC: The most discussed brands on r/BuyItForLife)
                 https://www.reddit.com/r/dataisbeautiful/comments/vsp9yu/oc_the_most_and_least_popular_brands_on ([OC] The most and least popular brands on r/BuyItForLife)
