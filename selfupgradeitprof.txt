@@ -839,6 +839,7 @@ Contents:
                 https://prepare.sh/engineering/devops (I scraped all DevOps Interview Questions for Meta, Amazon, Google, Yahoo.)
                 https://prepare.sh/trends?category=devops (Job Market Trends for DevOps)
                 https://roadmap.sh/devops (Step by step guide for DevOps, SRE or any other Operations Role in 2025)
+                https://share.google/aimode/J21iFyJhcu2OtCpI4 (Gemini AI : What to learn for devops engineer)
                 https://slack.cloudposse.com https://sweetops.slack.com https://slack.sweetops.com (SweetOps Slack Group)
                 https://tldr.tech/devops (Improve your DevOps skills in 5 minutes Get our free daily newsletter with curated tools 💻, trends 📈, and insights 💡, for DevOps Engineers 👨‍💻)
                 https://www.devopsbulletin.com (DevOps Bulletin is a weekly newsletter for engineers who care about building reliable systems, controlling cloud costs, and staying ahead of what is changing in DevOps.)
@@ -1084,6 +1085,7 @@ Contents:
         Bash:
             Sources:
                 https://en.wikipedia.org/wiki/Snake_case (Snake case naming convention)
+                https://evanhahn.com/scripts-i-wrote-that-i-use-all-the-time (Scripts I wrote that I use all the time)
                 https://github.com/alexanderepstein/Bash-Snippets (A collection of small bash scripts for heavy terminal users)
                 https://github.com/Bash-it/bash-it (Bash-it is a collection of community Bash commands and scripts for Bash 3.2+.)
                 https://github.com/ibraheemdev/modern-unix (A collection of modern/faster/saner alternatives or complements to common unix commands.)
@@ -2071,6 +2073,7 @@ Contents:
                 https://registry.terraform.io (Terraform Registry )
                 https://serverlessland.com/patterns (Use serverless patterns to quickly build integrations using AWS SAM and CDK templates. )
                 https://terraform-docs.io (Generate Terraform modules documentation in various formats.)
+                https://terraform-online-console.com (Terraform online console)
                 https://terragrunt.gruntwork.io (Terragrunt is a flexible orchestration tool that allows Infrastructure as Code to scale. )
                 https://terratest.gruntwork.io (Terratest is a Go library that provides patterns and helper functions for testing infrastructure, with 1st-class support for Terraform, Packer, Docker, Kubernetes, AWS, GCP, and more. )
                 https://www.reddit.com/r/Terraform/comments/x09dlm/list_of_most_useful_terraform_opensource_tools (List of most useful Terraform open-source tools)
@@ -2092,6 +2095,12 @@ Contents:
                     https://www.youtube.com/c/NedintheCloud (Ned in the Cloud YouTube Channel)
                     https://youtu.be/V4waklkBC38 (HashiCorp Terraform Associate Certification Course - Pass the Exam! by  Andrew Brown (reeCodeCamp.org))
 
+                Terraform in Depth Infrastructure as Code with Terraform and OpenTofu ,February 2025 , by Robert Hafner
+                    https://www.manning.com/books/terraform-in-depth
+                    https://www.amazon.com/Terraform-Depth-Robert-Hafner/dp/1633438007 (April 8, 2025 Release)
+                    https://blog.tedivm.com (The blog of Robert Hafner)
+                    https://github.com/TerraformInDepth (Projects from the book Terraform in Depth)
+
                 HashiCorp Certified Terraform Associate 004 Exam Prep Course - The complete Terraform Associate (TA-004) training course - lectures, hands-on labs, quizzes, and full practice exams by Bryan Krausen
                     https://www.udemy.com/course/hashicorp-certified-terraform-associate-004
                     https://github.com/btkrausen/hashicorp/tree/master/terraform
@@ -2110,11 +2119,6 @@ Contents:
                     https://www.oreilly.com/catalog/errata.csp?isbn=9781098116743 (Errata for Terraform: Up and Running, Third Edition)
                     https://www.oreilly.com/library/view/terraform-up-and/9781098116736
                     https://www.terraformupandrunning.com
-
-                Terraform in Depth Infrastructure as Code with Terraform and OpenTofu ,February 2025 , by Robert Hafner
-                    https://www.manning.com/books/terraform-in-depth
-                    https://www.amazon.com/Terraform-Depth-Robert-Hafner/dp/1633438007 (April 8, 2025 Release)
-                    https://blog.tedivm.com (The blog of Robert Hafner)
 
                 Amazon EKS Terraform Workshop
                     https://tf-eks-workshop.workshop.aws
@@ -3925,6 +3929,7 @@ Contents:
                 https://about.me (5,086)
                 https://arturssmirnovs.github.io/github-profile-readme-generator
                 https://github.com/abhisheknaiidu/awesome-github-profile-readme
+                https://github.com/anuraghazra/github-readme-stats (⚡ Dynamically generated stats for your github readmes)
                 https://github.com/arturssmirnovs/github-profile-readme-generator
                 https://github.com/coderjojo/creative-profile-readme (A Collection of GitHub Profiles with awesome readme)
                 https://github.com/ikatyang/emoji-cheat-sheet
@@ -3932,11 +3937,11 @@ Contents:
                 https://github.com/rahuldkjain/github-profile-readme-generator (🚀 Generate GitHub profile README easily with the latest add-ons like visitors count,GitHub stats, etc using minimal UI.)
                 https://github.com/topics/github-profile-readme?o=desc&s=stars
                 https://github.com/topics/github-readme?o=desc&s=stars
+                https://gravatar.com (Your Free Profile For The Web)
                 https://linktr.ee (304)
                 https://www.qrcode-monkey.com/#vcard
                 https://www.vistaprint.in/business-cards
                 https://youtu.be/n6d4KHSKqGk (UPDATE: Next Level GitHub Profile README (NEW) | GitHub Actions | Vercel | Spotify)
-                https://github.com/anuraghazra/github-readme-stats (⚡ Dynamically generated stats for your github readmes)
 
         Jobs:
             Sources:
@@ -4389,21 +4394,20 @@ Contents:
             https://80000hours.org/career-guide/how-to-be-successful
             https://alexvermeer.com/8760hours (8,760 Hours: How to get the most out of next year)
             https://apps.ankiweb.net (Powerful, intelligent flash cards)
-            https://collegeinfogeek.com/spaced-repetition-memory-technique
+            https://collegeinfogeek.com/spaced-repetition-memory-technique (How to Remember More of What You Learn with Spaced Repetition)
             https://cse.buffalo.edu/~rapaport/howtostudy.html (How to Study: A Brief Guide by William J. Rapaport Department of Computer Science and Engineering, Department of Philosophy,and Center for Cognitive Science State University of New York at Buffalo, Buffalo, NY 14260-2000)
-            https://en.wikipedia.org/wiki/Pomodoro_Technique (Pomodoro Technique)
             https://news.ycombinator.com/item?id=12209446 (How to Read a Book [pdf])
             https://news.ycombinator.com/item?id=14218408 (Ask HN: How do you keep improving?)
             https://news.ycombinator.com/item?id=14637859 (Ask HN: What's your process for learning?)
             https://news.ycombinator.com/item?id=16202123 (How to Study: A Brief Guide (buffalo.edu))
             https://news.ycombinator.com/item?id=20007108 (Ask HN: Do you keep a personal knowledge repository?)
             https://news.ycombinator.com/item?id=21310030 (Ask HN: How do you share/organize knowledge at work and life?)
+            https://news.ycombinator.com/item?id=23265518 (Firefox extensions to make remote work and school a little better (blog.mozilla.org))
             https://news.ycombinator.com/item?id=23596471 (Ask HN: How do you take notes when reading a book?)
             https://news.ycombinator.com/item?id=28482726 (	Ask HN: How Do You Learn?)
             https://news.ycombinator.com/item?id=30473322 (Ask HN: Any scientifically proven techniques to boost concentration?)
             https://news.ycombinator.com/item?id=44201901 (	4-7-8 Breathing (breathbelly.com))
             https://oneminutefocus.com (Studies in brain science (neuroscience) has shown that focusing visually actually can help our brain focus on a task (Dr. Andrew Huberman))
-            https://www.amazon.in/Pomodoro-Countdown-Rechargeable-Vibration-Productivity/dp/B0GW8P7L24 (F4 Gravity Timer )
             https://www.comptia.org/testing/online-testing-interest-form
             https://www.coursera.org/learn/learning-how-to-learn
             https://x.com/Hesamation/status/1899191612854702578 (Andrej Karpathy’s bombshells on how to learn https://x.com/karpathy/status/1756380066580455557)
@@ -4413,35 +4417,31 @@ Contents:
             https://github.com/logseq/logseq (https://logseq.com A privacy-first, open-source platform for knowledge management and collaboration)
             https://karpathy.bearblog.dev/the-append-and-review-note (The append-and-review note by Andrej Karpathy)
             https://obsidian.md (Obsidian – A knowledge base that works on local Markdown files.)
-            https://obsidian.md/blog/2024-goty-winners (2024 Gems of the year winners)
 
-        Productivity Tools:
+        Pomodoro Technique:
             Sources:
-                https://news.ycombinator.com/item?id=15696056 (Ask HN: What are your favorite browser extensions/add-ons for Firefox or chrome?)
-                https://news.ycombinator.com/item?id=23265518 (Firefox extensions to make remote work and school a little better (blog.mozilla.org))
+                https://en.wikipedia.org/wiki/Pomodoro_Technique (Pomodoro Technique)
 
-            Sites/Apps:
-                Todoist:
-                    https://todoist.com/r/Sharjeel_Sayed_pndvuw (Todoist Premium free for 2 months)
-                    https://github.com/Hoffelhas/autodoist
-                    https://www.leightonprice.com/todoist/dates.html
-                    https://www.youtube.com/playlist?list=PLAzfmm1gS2_WoaNc01a5WlQdUueHe9Ryd (Beginners Guide To Todoist by Carl Pullein)
+            Tools:
+                https://www.forestapp.cc
+                https://pomofocus.io
+                https://www.amazon.in/Pomodoro-Countdown-Rechargeable-Vibration-Productivity/dp/B0GW8P7L24 (F4 Gravity Timer )
 
-                TomatoTimer
-                    https://tomato-timer.com
+        Todoist:
+            https://todoist.com/r/Sharjeel_Sayed_pndvuw (Todoist Premium free for 2 months)
+            https://github.com/Hoffelhas/autodoist
+            https://www.leightonprice.com/todoist/dates.html
+            https://www.youtube.com/playlist?list=PLAzfmm1gS2_WoaNc01a5WlQdUueHe9Ryd (Beginners Guide To Todoist by Carl Pullein)
 
-                Forest:
-                    https://www.forestapp.cc
-
-                Focusmate:
-                    https://www.focusmate.com
-                    https://www.fb.com/groups/focusmate/files
-                    https://www.fb.com/notes/focusmate-official-community/about-focusmate-private-groups/3040676082683663
-                    https://writingmomentum.com/focusmate (Writing Momentum)
-                    https://www.fb.com/groups/focusmate/?post_id=2422778307949925 (lindabrandtmph@gmail.com https://www.fb.com/lindabrandtmph ) (Lean In Together)
-                    https://www.fb.com/groups/focusmate/?post_id=2607180786176342 (Ph.D. Community Group)
-                    https://www.fb.com/groups/focusmate/?post_id=2664504997110587 (lindabrandtmph@gmail.com https://www.fb.com/lindabrandtmph ) (Inspiring Health Leadership)
-                    https://www.linkedin.com/groups/12355283 (lindabrandtmph@gmail.com https://www.fb.com/lindabrandtmph ) (Getting Things Done Together)
+        Focusmate:
+            https://www.focusmate.com
+            https://www.fb.com/groups/focusmate/files
+            https://www.fb.com/notes/focusmate-official-community/about-focusmate-private-groups/3040676082683663
+            https://writingmomentum.com/focusmate (Writing Momentum)
+            https://www.fb.com/groups/focusmate/?post_id=2422778307949925 (lindabrandtmph@gmail.com https://www.fb.com/lindabrandtmph ) (Lean In Together)
+            https://www.fb.com/groups/focusmate/?post_id=2607180786176342 (Ph.D. Community Group)
+            https://www.fb.com/groups/focusmate/?post_id=2664504997110587 (lindabrandtmph@gmail.com https://www.fb.com/lindabrandtmph ) (Inspiring HealtLeadership)
+            https://www.linkedin.com/groups/12355283 (lindabrandtmph@gmail.com https://www.fb.com/lindabrandtmph ) (Getting Things Done Together)
 
         Web Browser:
             Sources:
@@ -4459,7 +4459,6 @@ Contents:
             Extensions:
                 https://1blocker.com (The Fastest & Most Powerful Blocker for Safari)
                 https://addons.mozilla.org/en-GB/firefox/addon/foxytab (Collection of Tab Related Actions e.g. Duplicate, Close Duplicates, Close to the Left, Copy Title, Merge Windows, Save as PDF, Copy Urls Tab/All/Left/Right, Host keep/close/close other, Sort by URL/Title, Asce/Desc, Move, Reload, Reload Timer)
-                https://addons.mozilla.org/en-US/firefox/addon/honey (Automatically find and try coupon codes with 1-click. )
                 https://addons.mozilla.org/en-US/firefox/addon/similarweb-sites-recommendatio (SimilarWeb - Website Traffic Sources and Ranking)
                 https://addons.mozilla.org/en-US/firefox/addon/to-google-translate (To Google Translate)
                 https://addons.mozilla.org/en-US/firefox/addon/wayback-machine_new (Go back in time to see how a website has changed through the history of the Web. )
@@ -4471,7 +4470,6 @@ Contents:
                 https://github.com/deanishe/alfred-firefox (Search and control Firefox from Alfred )
                 https://github.com/dessant/web-archives (Web Archives is a browser extension that enables you to find archived and cached versions of web pages, and comes with support for various search engines.)
                 https://github.com/gorhill/uBlock (uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. )
-                https://github.com/itsecurityco/to-google-translate
                 https://github.com/mozilla/contain-facebook (Facebook Container isolates your Facebook activity from the rest of your web activity in order to prevent Facebook from tracking you outside of the Facebook website via third party cookies. )
                 https://github.com/mozilla/multi-account-containers (Firefox Multi-Account Containers lets you keep parts of your online life separated into color-coded tabs that preserve your privacy. Cookies are separated by container, allowing you to use the web with multiple identities or accounts simultaneously. )
                 https://github.com/philc/vimium
@@ -4486,7 +4484,6 @@ Contents:
                 https://tabliss.io (A beautiful, customisable New Tab page for Firefox, Chrome, and Edge. )
                 https://underpassapp.com/StopTheMadness (StopTheMadness is a Safari extension for Mac that stops web sites from making your browser harder to use.)
                 https://unhook.app (Watch YouTube free of distractions. Block suggestion feeds, comments, and more)
-                https://www.eff.org/https-everywhere
                 https://www.fbpurity.com (F.B. Purity - Clean Up and Customize Facebook)
                 https://www.forbesconrad.com/blog/enable-password-pasting (Enable Password Pasting in Firefox)
                 https://www.mrfdev.com/enhancer-for-youtube (Enhancer for YouTube)
@@ -5224,7 +5221,7 @@ Contents:
                 Google Alerts:
                     https://www.google.com/alerts (Google Alerts)
                     Search Term:
-                    aws | kubernetes | devops | sre | platform engineering | ansible | git | linux | "ci/cd" | docker | gitops | opentofu | "Argo CD" | prometheus | grafana | "elk stack" | opensearch | jenkins | "github actions" | vscode | github | "AWS Cloud Development Kit" | "AWS CDK"
+                    aws | kubernetes | devops | sre | "platform engineering" | ansible | git | linux | "ci/cd" | docker | gitops | opentofu | "Argo CD" | prometheus | grafana | "elk stack" | opensearch | jenkins | "github actions" | vscode | github | "AWS Cloud Development Kit" | "AWS CDK" | bash | powershell | gitlab | terraform | Elasticsearch | Logstash | Kibana | OpenTelemetry | "AWS CloudFormation" | azure | GCP | python | "site reliability engineering" | "cloud computing" | "infrastructure as code" | DevSecOps | FinOps | AIOps | MLOps
 
                 Cross-Posting Social Media:
                     https://ifttt.com/applets/rnvTEjV9-automatically-share-new-links-you-post-on-facebook-to-twitter
