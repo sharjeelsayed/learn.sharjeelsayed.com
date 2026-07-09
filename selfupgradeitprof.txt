@@ -1753,7 +1753,6 @@ Contents:
                 https://github.com/Netflix/consoleme (A Central Control Plane for AWS Permissions and Access)
                 https://github.com/prowler-cloud/prowler (https://prowler.pro Prowler is an Open Source Security tool for AWS, Azure and GCP to perform Cloud Security best practices assessments, audits, incident response, compliance, continuous monitoring, hardening and forensics readiness. Includes CIS, NIST 800, NIST CSF, CISA, FedRAMP, PCI-DSS, GDPR, HIPAA, FFIEC, SOC2, GXP, Well-Architected Security, ENS and more.)
                 https://github.com/servian/aws-auto-cleanup (Programmatically delete AWS resources based on an allowlist and time to live (TTL) settings)
-                https://github.com/sivchari/kumo (A lightweight AWS service emulator written in Go )
                 https://github.com/toniblyx/my-arsenal-of-aws-security-tools (List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.)
                 https://github.com/turbot/steampipe (Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required.)
                 https://github.com/wallix/awless (A Mighty CLI for AWS)
@@ -1878,8 +1877,13 @@ Contents:
                 https://kodekloud.com/playgrounds (KodeKloud Playgrounds. Playgrounds are sandboxed Cloud and DevOps environments for you to experience without fear of failure)
                 https://learn.acloud.guru/cloud-playground/cloud-sandboxes (Build skills across hundreds of cloud services in real AWS, Azure and GCP sandboxes Cloud along with courses, )
                 https://portal.tutorialsdojo.com/product/playcloud-sandbox-aws (The PlayCloud Sandbox is an isolated AWS environment where you can confidently experiment and run applications.)
-                https://www.localstack.cloud (LocalStack simulates cloud environments on your own infrastructure so software teams and AI agents can validate security, quality, and reliability faster and more safely than the cloud allows.)
                 https://www.whizlabs.com/labs/sandbox (A secure, isolated, contained environment.)
+
+            AWS Emulators:
+                https://github.com/ministackorg/ministack (https://ministack.org Free, open-source local AWS emulator - 55+ services, Terraform compatible, real databases. Free forever. MIT licensed.)
+                https://www.localstack.cloud (LocalStack simulates cloud environments on your own infrastructure so software teams and AI agents can validate security, quality, and reliability faster and more safely than the cloud allows.)
+                https://github.com/getmoto/moto (https://docs.getmoto.org/en/latest A library that allows you to easily mock out tests based on AWS infrastructure. )
+                https://github.com/floci-io (https://floci.io Run AWS, Azure, and GCP locally in milliseconds)
 
             AWS Support Groups:
                 https://discord.com/channels/1191146976847351970 (TechStudyDiscord by Adrian Cantrill)
@@ -3427,16 +3431,16 @@ Contents:
          AI and Machine Learning:
             Sources:
                 http://nlp.seas.harvard.edu/annotated-transformer (The Annotated Transformer Attention is All You Need)
-                https://danielmiessler.com/p/get-samantha-tars-interstellar-iphoneandroid (How to Get Samantha from Her or TARS from Interstellar on Your iPhone/Android)
+                https://arena.ai/leaderboard (See how leading AI models stack up across text, image, vision, and more. )
+                https://artificialanalysis.ai/leaderboards/models (LLM Leaderboard - Comparison of over 100 AI models)
                 https://en.wikipedia.org/wiki/Large_language_model (Large language model)
                 https://github.com/aishwaryanr/awesome-generative-ai-guide (A one stop repository for generative AI research updates, interview resources, notebooks and much more! )
                 https://github.com/appcypher/awesome-mcp-servers (Awesome MCP Servers - A curated list of Model Context Protocol servers )
                 https://github.com/GoogleCloudPlatform/generative-ai (https://cloud.google.com/vertex-ai/docs/generative-ai/learn/overview Sample code and notebooks for Generative AI on Google Cloud)
                 https://github.com/owainlewis/awesome-artificial-intelligence (A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers. )
                 https://github.com/topics/llm (Large Language Model GitHub Repos)
-                https://lmarena.ai/leaderboard (Chatbot Arena LLM Leaderboard: Community-driven Evaluation for Best LLM and AI chatbots.See how leading models stack up across text, image, vision, and beyond. )
+                https://labs.scale.com/leaderboard (Benchmarks for frontier, agentic, and safety capabilities)
                 https://openrouter.ai/state-of-ai (An Empirical 100 Trillion Token Study with OpenRouter)
-                https://scale.com/leaderboard (SEAL LLM Leaderboards evaluate agentic, frontier, safety, and public-sentiment of the latest LLMs.)
                 https://wuu73.org/blog/aiguide1.html (How I Code with AI on a budget/free)
                 https://www.reddit.com/r/LocalLLaMA (Subreddit to discuss about Llama, the large language model created by Meta AI.)
                 https://www.semrush.com/blog/most-cited-domains-ai (The Most-Cited Domains in AI)
@@ -4715,6 +4719,7 @@ Contents:
                     https://music.apple.com/us/playlist/pure-ambient/pl.a9bd89e7b22e45cbaac40b58c9d3d09b
                     https://music.apple.com/us/playlist/pure-focus/pl.dbd712beded846dca273d5d3259d28aa
                     https://music.apple.com/us/playlist/rain-sounds/pl.e79d63bcaead407fb44a0c19380822e6
+                    https://github.com/librepods-org/librepods (AirPods liberated from Apple's ecosystem.)
 
                 myNoise : Custom Background Noise Machines
                     https://mynoise.net
@@ -5204,10 +5209,11 @@ Contents:
                     https://www.daemonology.net/hn-daily (Daily top stories from Hacker News)
 
                 YouTube:
-                    https://www.youtube.com/channel/UCF0pVplsI8R5kcAqgtoRqoA (YouTube Worldwide Popular Right Now)
+                    https://github.com/Chocobozzz/PeerTube (https://joinpeertube.org ActivityPub-federated video streaming platform using P2P directly in your web browser )
                     https://www.youtube.com/channel/UCAh9DbAZny_eoGFsYlH2JZw (YouTube India Popular Right Now)
-                    https://www.youtube.com/user/SayedSharjeel/channels
+                    https://www.youtube.com/channel/UCF0pVplsI8R5kcAqgtoRqoA (YouTube Worldwide Popular Right Now)
                     https://www.youtube.com/premium/annual (YouTube Premium Annual Subscription)
+                    https://www.youtube.com/user/SayedSharjeel/channels
 
                 Bookmarks:
                     Import http://Bookmarks.SharjeelSayed.com into your Browser or view online at https://pinboard.in/u:SharjeelSayed
@@ -5274,6 +5280,8 @@ Contents:
         Blogs:
             Sources:
                 https://bloggingfordevs.com/trends (Discover the best developer blogs on any tech stack)
+                https://blogosphere.app (Aggregating the best blogs across the web )
+                https://bubbles.town (Somewhere out there, someone wrote a really good blog post today. You'll probably never find it. Google won't show it to you. Social media buried it under engagement bait. )
                 https://danluu.com/programming-blogs (Some programming blogs to consider reading)
                 https://fraidyc.at (Fraidycat is a desktop app or browser extension for Firefox or Chrome used to follow people on Twitter, a blog, YouTube, even on a public TiddlyWiki)
                 https://github.com/crispgm/awesome-engineering-blogs (A curated list of engineering blogs)
@@ -5302,7 +5310,6 @@ Contents:
                 https://wiki.nikitavoloboev.xyz/research/blogs#favorite-blogs
                 https://www.allthingsdistributed.com (Werner Vogels on building scalable and robust distributed systems)
                 https://www.discoverdev.io (Discover dev brings you a daily digest of the best engineering blogs from across the web! Handpicked by AI and a network of globally distributed nerds!)
-                https://blogosphere.app (Aggregating the best blogs across the web )
 
         Podcasts:
             Sources:
