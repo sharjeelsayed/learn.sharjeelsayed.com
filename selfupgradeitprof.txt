@@ -2050,6 +2050,7 @@ Contents:
                 https://developer.hashicorp.com/terraform/cli (Terraform CLI Documentation)
                 https://developer.hashicorp.com/terraform/docs (Terraform Documentation)
                 https://developer.hashicorp.com/terraform/internals (Terraform internals overview)
+                https://developer.hashicorp.com/terraform/language/style (Terraform Style Guide)
                 https://en.wikipedia.org/wiki/Snake_case (Snake case naming convention)
                 https://github.com/antonbabenko/terraform-best-practices (https://www.terraform-best-practices.com Terraform Best Practices free ebook translated into 🇬🇧🇦🇪🇧🇦🇧🇷🇫🇷🇬🇪🇩🇪🇬🇷🇮🇱🇮🇳🇮🇩🇮🇹🇯🇵🇰🇷🇵🇱🇷🇴🇨🇳🇪🇸🇹🇷🇺🇦🇵🇰 )
                 https://github.com/nsriram/lambda-the-terraform-way (AWS Lambda using Terraform., an Introductory Cookbook)
@@ -2059,6 +2060,7 @@ Contents:
                 https://github.com/topics/terraform?o=desc&s=stars
                 https://opentofu.org/docs (OpenTofu Documentation)
                 https://www.ansible.com/blog/providing-terraform-with-that-ansible-magic (Providing Terraform with that Ansible Magic)
+                https://www.hashicorp.com/en/blog/products/terraform (Terraform Blog by HashiCorp)
                 https://www.reddit.com/r/Terraform (Terraform discussion, resources, and other HashiCorp news.)
                 https://www.terraform-best-practices.com (Terraform Best Practices by Anton Babenko)
 
@@ -2072,6 +2074,7 @@ Contents:
                 https://github.com/infracost/infracost (Cloud cost estimates for Terraform in pull requests💰📉 Love your cloud bill!)
                 https://github.com/infracost/vscode-infracost ( See cost estimates for Terraform right in your editor💰📉 www.infracost.io )
                 https://github.com/JamesWoolfenden/pike (Pike is a tool for determining the permissions or policy required for IAC code)
+                https://github.com/terraform-linters/tflint (A Pluggable Terraform Linter)
                 https://github.com/tfutils/tfenv (Terraform version manager)
                 https://github.com/warrensbox/terraform-switcher (A command line tool to switch between different versions of terraform)
                 https://registry.terraform.io (Terraform Registry )
@@ -2144,14 +2147,14 @@ Contents:
                     https://techstudyslack.slack.com/archives/C01E7UKHR34
 
                 Deploy Infra in the Cloud using Terraform by Houssem Dellai
-                https://www.udemy.com/course/deploy-infra-in-the-cloud-using-terraform
+                    https://www.udemy.com/course/deploy-infra-in-the-cloud-using-terraform
 
                 Terraform Tutorial by Will Brock
-                https://www.youtube.com/playlist?list=PL8HowI-L-3_9bkocmR3JahQ4Y-Pbqs2Nt
-                https://github.com/WillBrock/terraform-course-examples
+                    https://www.youtube.com/playlist?list=PL8HowI-L-3_9bkocmR3JahQ4Y-Pbqs2Nt
+                    https://github.com/WillBrock/terraform-course-examples
 
                 Terraform Full Course for Beginners | Hashicorp Terraform Associate Certification Exam Prep course by Sandip Das
-                https://youtu.be/EJ3N-hhiWv0
+                    https://youtu.be/EJ3N-hhiWv0
 
         Vagrant:
             Sources:
@@ -4427,9 +4430,9 @@ Contents:
                 https://en.wikipedia.org/wiki/Pomodoro_Technique (Pomodoro Technique)
 
             Tools:
-                https://www.forestapp.cc
                 https://pomofocus.io
                 https://www.amazon.in/Pomodoro-Countdown-Rechargeable-Vibration-Productivity/dp/B0GW8P7L24 (F4 Gravity Timer )
+                https://www.forestapp.cc
 
         Todoist:
             https://todoist.com/r/Sharjeel_Sayed_pndvuw (Todoist Premium free for 2 months)
@@ -4651,6 +4654,7 @@ Contents:
         Study Music:
             Sources:
                 https://askubuntu.com/questions/789465/generate-white-noise-to-calm-a-baby
+                https://clideo.com/cut-audio (Online Audio Cutter)
                 https://en.wikipedia.org/wiki/AFI%27s_100_Years...100_Songs (AFI's 100 Years...100 Songs)
                 https://en.wikipedia.org/wiki/Apple_Music_100_Best_Albums (Apple Music 100 Best Albums)
                 https://en.wikipedia.org/wiki/Rolling_Stone%27s_500_Greatest_Albums_of_All_Time (Rolling Stone's 500 Greatest Albums of All Time)
@@ -4660,7 +4664,6 @@ Contents:
                 https://github.com/th-ch/youtube-music (https://th-ch.github.io/youtube-music YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader) )
                 https://lifehacker.com/the-ultimate-list-of-work-and-study-music-1836284255
                 https://news.ycombinator.com/item?id=11146712 (	AI generated music to improve focus, relaxation and sleep (brain.fm))
-                https://news.ycombinator.com/item?id=11146712 (AI generated music to improve focus, relaxation and sleep (brain.fm))
                 https://news.ycombinator.com/item?id=12844434 (Music for Programming (musicforprogramming.net))
                 https://news.ycombinator.com/item?id=17118269 (Ask HN: What, if anything, do you listen to while coding?)
                 https://news.ycombinator.com/item?id=18493075 (Brain.fm: Music to improve focus, meditation and sleep)
@@ -4671,74 +4674,69 @@ Contents:
                 https://news.ycombinator.com/item?id=33019781 (Can brown noise turn off your brain?)
                 https://news.ycombinator.com/item?id=9767943 (Do Binaural Beats Really Affect Brainwaves? (autodidacts.io))
                 https://open.spotify.com/user/22jszrk35ji6sm6qewxzsly4a?si=DVuJ0DSLQ7mLqfXy4nkLTQ
+                https://www.brain.fm/blog/best-music-for-studying-complete-guide (Best Music for Studying: The Complete Science backed Guide)
                 https://www.musicforprogramming.net
                 https://www.reddit.com/r/ambientmusic/comments/3tuiu7/ambientmusic_voted_your_top_25_ambient_albums
                 https://www.reddit.com/r/ambientmusic/top
                 https://www.reddit.com/r/medicalschool/comments/9m4afb/serious_spotify_playlists_to_listen_to_while
                 https://youtu.be/7uMW2XsMx8Q?si=2zAXoZYQdOAO_prE (Most recognizable song of each year (1950-2022))
-                https://clideo.com/cut-audio (Online Audio Cutter)
+                https://www.reddit.com/r/Music/comments/5nu2vt/112_hour_playlist_of_the_most_recognizable_songs
+                https://www.reddit.com/r/spotify/comments/aj7wkz/the_perfect_playlist_from_the_askreddit_thread
+                https://www.reddit.com/r/spotify/comments/gu81es/my_collection_of_spotify_and_other_music_related
                 https://pinboard.in/u:SharjeelSayed/t:music+study
 
-            Sites:
-                soma fm's Drone Zone Channel
-                    https://somafm.com/player/#/now-playing/dronezone
-                    https://music.apple.com/station/somafm-drone-zone/ra.1460960905
-                    https://open.spotify.com/playlist/1raR4ZD2jZH65dbw5wzfnl (SomaFM Drone Zone)
-                    https://open.spotify.com/playlist/6buS3xfirKekKanY53l2fN (Soma FM Drone Zone & Deep Space One)
+            Spotify:
+                https://github.com/spotDL/spotify-downloader (https://spotdl.readthedocs.io/en/latest Download your Spotify playlists and songs along with album artand metadata (from YouTube if a match is found). )
+                https://open.spotify.com/album/6035JmOXELaAUjbaCzq7bu (Studying Music: Binaural Beats Sounds For Studying, Focus, Concentration and Ambient StudyMusic)
+                https://open.spotify.com/album/6XRukyQYxofq4QbPirgtpc (Brown Noise DLX)
+                https://open.spotify.com/album/6YxOJgSL1EQONuJgyBIPhg (Ambient World by David Arkenstone)
+                https://open.spotify.com/episode/1zbqQ4QcCVTZsEQgbZGAiP (Celestial White Noise | Sleep Better, Reduce Stress, Calm Your Mind or Improve Focus)
+                https://open.spotify.com/genre/asmr-page
+                https://open.spotify.com/genre/study-page
+                https://open.spotify.com/playlist/1raR4ZD2jZH65dbw5wzfnl (SomaFM Drone Zone)
+                https://open.spotify.com/playlist/37i9dQZF1DWXUpC6mczRpA (Mozart Study)
+                https://open.spotify.com/playlist/37i9dQZF1DWZd79rJ6a7lp (Sleep)
+                https://open.spotify.com/playlist/37i9dQZF1DWZhzMp90Opmn (Pink Noise)
+                https://open.spotify.com/playlist/37i9dQZF1DWZwtERXCS82H (Reading Soundtrack)
+                https://open.spotify.com/playlist/37i9dQZF1DX3Ogo9pFvBkY (Ambient Relaxation)
+                https://open.spotify.com/playlist/37i9dQZF1DX4PP3DA4J0N8 (Nature Sounds)
+                https://open.spotify.com/playlist/37i9dQZF1DX4sWSpwq3LiO (Peaceful Piano)
+                https://open.spotify.com/playlist/37i9dQZF1DX7EF8wVxBVhG (Binaural Beats: Focus)
+                https://open.spotify.com/playlist/37i9dQZF1DX8NTLI2TtZa6 (Intense Studying)
+                https://open.spotify.com/playlist/37i9dQZF1DX8ymr6UES7vc (Rain Sounds)
+                https://open.spotify.com/playlist/4EhmWNBIY0eXfIiPFGExvR (r/ambientmusic Top 25)
+                https://open.spotify.com/playlist/51GTWGAMzL5zt7oUPcxwne (The Perfect Playlist from the AskReddit thread)
+                https://open.spotify.com/playlist/6buS3xfirKekKanY53l2fN (Soma FM Drone Zone & Deep Space One)
+                https://open.spotify.com/playlist/6UvxOYk0PE78QicUlv0V8t (The 50 Best Ambient Albums of All Time)
+                https://open.spotify.com/search/binaural/playlists
+                https://open.spotify.com/search/study/playlists
+                https://open.spotify.com/show/2bAmrw0xKnOhOx4hqSL7vF (Relaxing White Noise Podcast)
 
-                Spotify:
-                    https://github.com/spotDL/spotify-downloader (https://spotdl.readthedocs.io/en/latest Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found). )
-                    https://open.spotify.com/album/6035JmOXELaAUjbaCzq7bu (Studying Music: Binaural Beats Sounds For Studying, Focus, Concentration and Ambient Study Music)
-                    https://open.spotify.com/album/6XRukyQYxofq4QbPirgtpc (Brown Noise DLX)
-                    https://open.spotify.com/album/6YxOJgSL1EQONuJgyBIPhg (Ambient World by David Arkenstone)
-                    https://open.spotify.com/episode/1zbqQ4QcCVTZsEQgbZGAiP (Celestial White Noise | Sleep Better, Reduce Stress, Calm Your Mind or Improve Focus)
-                    https://open.spotify.com/genre/asmr-page
-                    https://open.spotify.com/genre/study-page
-                    https://open.spotify.com/playlist/37i9dQZF1DWXUpC6mczRpA (Mozart Study)
-                    https://open.spotify.com/playlist/37i9dQZF1DWZd79rJ6a7lp (Sleep)
-                    https://open.spotify.com/playlist/37i9dQZF1DWZhzMp90Opmn (Pink Noise)
-                    https://open.spotify.com/playlist/37i9dQZF1DWZwtERXCS82H (Reading Soundtrack)
-                    https://open.spotify.com/playlist/37i9dQZF1DX3Ogo9pFvBkY (Ambient Relaxation)
-                    https://open.spotify.com/playlist/37i9dQZF1DX4PP3DA4J0N8 (Nature Sounds)
-                    https://open.spotify.com/playlist/37i9dQZF1DX4sWSpwq3LiO (Peaceful Piano)
-                    https://open.spotify.com/playlist/37i9dQZF1DX7EF8wVxBVhG (Binaural Beats: Focus)
-                    https://open.spotify.com/playlist/37i9dQZF1DX8NTLI2TtZa6 (Intense Studying)
-                    https://open.spotify.com/playlist/37i9dQZF1DX8ymr6UES7vc (Rain Sounds)
-                    https://open.spotify.com/playlist/4EhmWNBIY0eXfIiPFGExvR (r/ambientmusic Top 25)
-                    https://open.spotify.com/playlist/6UvxOYk0PE78QicUlv0V8t (The 50 Best Ambient Albums of All Time)
-                    https://open.spotify.com/search/binaural/playlists
-                    https://open.spotify.com/search/study/playlists
-                    https://open.spotify.com/show/2bAmrw0xKnOhOx4hqSL7vF (Relaxing White Noise Podcast)
+            Apple Music:
+                https://music.apple.com/gb/playlist/sleep-sounds/pl.0ef59752c0cd457dbf1391f08cbd936f
+                https://music.apple.com/in/activity/focus/976439521
+                https://music.apple.com/in/playlist/nature-sounds/pl.040f99fdd83542a79b28fc4c13f773bd
+                https://music.apple.com/in/playlist/the-50-best-ambient-albums-of-all-time/pl.ba18e2bcf63048248256a1b5f387f08f
+                https://music.apple.com/station/somafm-drone-zone/ra.1460960905 (Drone Zone on Apple Music)
+                https://music.apple.com/us/playlist/pure-ambient/pl.a9bd89e7b22e45cbaac40b58c9d3d09b
+                https://music.apple.com/us/playlist/pure-focus/pl.dbd712beded846dca273d5d3259d28aa
+                https://music.apple.com/us/playlist/rain-sounds/pl.e79d63bcaead407fb44a0c19380822e6
 
-                Apple Music:
-                    https://music.apple.com/gb/playlist/sleep-sounds/pl.0ef59752c0cd457dbf1391f08cbd936f
-                    https://music.apple.com/in/activity/focus/976439521
-                    https://music.apple.com/in/playlist/mozart-study/pl.012c3e58dc7b4a6890b9777dd3f4323e
-                    https://music.apple.com/in/playlist/nature-sounds/pl.040f99fdd83542a79b28fc4c13f773bd
-                    https://music.apple.com/in/playlist/the-50-best-ambient-albums-of-all-time/pl.ba18e2bcf63048248256a1b5f387f08f
-                    https://music.apple.com/us/playlist/pure-ambient/pl.a9bd89e7b22e45cbaac40b58c9d3d09b
-                    https://music.apple.com/us/playlist/pure-focus/pl.dbd712beded846dca273d5d3259d28aa
-                    https://music.apple.com/us/playlist/rain-sounds/pl.e79d63bcaead407fb44a0c19380822e6
-                    https://github.com/librepods-org/librepods (AirPods liberated from Apple's ecosystem.)
-
-                myNoise : Custom Background Noise Machines
-                    https://mynoise.net
-
-                Additional Sources:
-                    https://ambiph.one (Ambient Music Generator)
-                    https://hypem.com (Hype Machine)
-                    https://jetsetradio.live (LO-FI)
-                    https://neal.fun (The Deep Sea)
-                    https://open.spotify.com/playlist/51GTWGAMzL5zt7oUPcxwne (The Perfect Playlist from the AskReddit thread)
-                    https://www.reddit.com/r/Music/comments/5nu2vt/112_hour_playlist_of_the_most_recognizable_songs
-                    https://www.reddit.com/r/spotify/comments/aj7wkz/the_perfect_playlist_from_the_askreddit_thread
-                    https://www.reddit.com/r/spotify/comments/gu81es/my_collection_of_spotify_and_other_music_related
-                    https://www.reddit.com/r/spotify/top
-                    https://youtu.be/jfKfPfyJRdk (lofi hip hop radio - beats to relax/study to)
+            Additional Sources:
+                https://ambiph.one (Ambient Music Generator)
+                https://hypem.com (Hype Machine)
+                https://jetsetradio.live (LO-FI)
+                https://mynoise.net/NoiseMachines/paulNagleSequenceGenerator.php (Take It Easy: Paul Nagle Sequence Generator)
+                https://neal.fun (The Deep Sea)
+                https://somafm.com/player/#/now-playing/dronezone (soma fm's Drone Zone Channel)
+                https://www.brain.fm
+                https://www.reddit.com/r/spotify/top
+                https://youtu.be/jfKfPfyJRdk (lofi hip hop radio - beats to relax/study to)
 
         Headphones:
             Sources:
                 https://crinacle.com/guide/tws (crinacle's Buyer's Guide Best (sounding) True Wireless Earphones)
+                https://github.com/librepods-org/librepods (AirPods liberated from Apple's ecosystem.)
                 https://www.amazon.com/Best-Sellers-Electronics-Audio-Headphones/zgbs/electronics/172541 (Amazon Best Sellers in Headphones & Earbuds)
                 https://www.audiocheck.net/soundtests_headphones.php (The Ultimate Headphones (and Earphones) Test)
                 https://www.nytimes.com/wirecutter/reviews/best-noise-cancelling-headphones (The Best Noise-Cancelling Headphones by Wirecutter)
@@ -5227,7 +5225,7 @@ Contents:
                 Google Alerts:
                     https://www.google.com/alerts (Google Alerts)
                     Search Term:
-                    aws | kubernetes | devops | sre | "platform engineering" | ansible | git | linux | "ci/cd" | docker | gitops | opentofu | "Argo CD" | prometheus | grafana | "elk stack" | opensearch | jenkins | "github actions" | vscode | github | "AWS Cloud Development Kit" | "AWS CDK" | bash | powershell | gitlab | terraform | Elasticsearch | Logstash | Kibana | OpenTelemetry | "AWS CloudFormation" | azure | GCP | python | "site reliability engineering" | "cloud computing" | "infrastructure as code" | DevSecOps | FinOps | AIOps | MLOps
+                    aws | kubernetes | devops | sre | "platform engineering" | ansible | git | linux | "ci/cd" | docker | gitops | opentofu | "Argo CD" | prometheus | grafana | "elk stack" | opensearch | jenkins | "github actions" | vscode | github | "AWS Cloud Development Kit" | "AWS CDK" | bash | powershell | gitlab | terraform | Elasticsearch | Logstash | Kibana | OpenTelemetry | "AWS CloudFormation" | azure | GCP | python | "site reliability engineering" | "cloud computing" | "infrastructure as code" | DevSecOps | FinOps | AIOps | MLOps | "helm charts"
 
                 Cross-Posting Social Media:
                     https://ifttt.com/applets/rnvTEjV9-automatically-share-new-links-you-post-on-facebook-to-twitter
@@ -5310,6 +5308,7 @@ Contents:
                 https://wiki.nikitavoloboev.xyz/research/blogs#favorite-blogs
                 https://www.allthingsdistributed.com (Werner Vogels on building scalable and robust distributed systems)
                 https://www.discoverdev.io (Discover dev brings you a daily digest of the best engineering blogs from across the web! Handpicked by AI and a network of globally distributed nerds!)
+                https://www.hashicorp.com/en/blog/products/terraform (Terraform Blog by HashiCorp)
 
         Podcasts:
             Sources:
