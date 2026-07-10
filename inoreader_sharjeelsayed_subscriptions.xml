@@ -11,6 +11,7 @@
       <outline text="mid-day Mumbai News" title="mid-day Mumbai News" type="rss" xmlUrl="https://www.mid-day.com/Resources/midday/rss/mumbai-news.xml" htmlUrl="https://www.mid-day.com/mumbai/mumbai-news"/>
     </outline>
     <outline text="MustRead" title="MustRead">
+      <outline text="HashiCorp Blog - Terraform" title="HashiCorp Blog - Terraform" type="rss" xmlUrl="https://www.hashicorp.com/blog/products/terraform/feed.xml" htmlUrl="https://hashicorp.com/blog/products/terraform"/>
       <outline text="r/whoop, r/Ultrahuman : top scoring links" title="r/whoop, r/Ultrahuman : top scoring links" type="rss" xmlUrl="https://www.reddit.com/r/Ultrahuman+whoop/top/.rss?_=1780951243" htmlUrl="https://www.reddit.com/r/Ultrahuman+whoop/top/?_=1780951243"/>
       <outline text="DevOps Bulletin" title="DevOps Bulletin" type="rss" xmlUrl="https://www.devopsbulletin.com/feed" htmlUrl="https://www.devopsbulletin.com/"/>
       <outline text="Hacker News 400+ points posts" title="Hacker News 400+ points posts" type="rss" xmlUrl="https://hnrss.org/newest?points=400" htmlUrl="https://news.ycombinator.com/newest"/>
@@ -89,6 +90,7 @@
       <outline text="Pinboard (popular bookmarks)" title="Pinboard (popular bookmarks)" type="rss" xmlUrl="https://feeds.pinboard.in/rss/popular/" htmlUrl="https://pinboard.in/popular/"/>
     </outline>
     <outline text="DevOps" title="DevOps">
+      <outline text="HashiCorp Blog - Terraform" title="HashiCorp Blog - Terraform" type="rss" xmlUrl="https://www.hashicorp.com/blog/products/terraform/feed.xml" htmlUrl="https://hashicorp.com/blog/products/terraform"/>
       <outline text="DevOps Bulletin" title="DevOps Bulletin" type="rss" xmlUrl="https://www.devopsbulletin.com/feed" htmlUrl="https://www.devopsbulletin.com/"/>
       <outline text="Hacker News 400+ points posts" title="Hacker News 400+ points posts" type="rss" xmlUrl="https://hnrss.org/newest?points=400" htmlUrl="https://news.ycombinator.com/newest"/>
       <outline text="Last Week in AWS" title="Last Week in AWS" type="rss" xmlUrl="https://www.lastweekinaws.com/feed/" htmlUrl="https://www.lastweekinaws.com/"/>
