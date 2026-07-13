@@ -1770,6 +1770,7 @@ Contents:
                     https://awsfundamentals.com/hot-tips (Hot Tips Actionable AWS tips, each explained in a single infographic.)
                     https://awsfundamentals.com/infographics (AWS Services Infographics Visual guides to understand AWS services)
                     https://github.com/Hacking-the-Cloud/hackingthe.cloud (https://hackingthe.cloud An encyclopedia for offensive and defensive security knowledge in cloud native technologies. )
+                    https://share.google/aimode/ZqV3KLyA2TWr7jCwK (Google AI Mode: Best way to learn aws)
                     https://www.freecodecamp.org/news/free-107-hour-aws-cloud-project-bootcamp (Free 107-Hour AWS Cloud Project Bootcamp)
 
                 Ultimate AWS Certified Solutions Architect Associate 2026 by Stephane Maarek:
@@ -3962,6 +3963,7 @@ Contents:
                 https://fred.stlouisfed.org/series/CIVPART (USA Civilian Labor Force Participation Rate)
                 https://github.com/Kaustubh-Natuskar/companies-to-apply (This repository contains opportunities for you to apply to more than 150 product base companies(NOT JUST FAANG ) & good start-ups.)
                 https://github.com/lukasz-madon/awesome-remote-job (A curated list of awesome remote jobs and resources.)
+                https://github.com/MadsLorentzen/ai-job-search (The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it. )
                 https://github.com/poteto/hiring-without-whiteboards (⭐️ Companies that don't have a broken hiring process)
                 https://github.com/randallkanna/awesome-job-list (A list of the best places to job hunt. I've been curating this for the past 7 years.)
                 https://github.com/ReaVNaiL/New-Grad-2024 (👋 Hey there new grad🎉! We've put together a collection of full-time job openings for SWE, Quant, PM and tech roles in 2024! 🚀 )
@@ -3981,6 +3983,7 @@ Contents:
                 https://news.ycombinator.com/item?id=40014087 (I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA)
                 https://prepare.sh/articles/devops-job-market-trends-2025 (DevOps Job Market Trends [2025])
                 https://prepare.sh/articles/devops-job-market-trends-2025 (DevOps Job Market Trends [2025])
+                https://prepare.sh/trends (Job Market Trends )
                 https://twitter.com/jobs (X Twitter Jobs Search)
                 https://www.glassdoor.com/research/workplace-trends-2024 (Glassdoor’s 2024 Workplace Trends)
                 https://www.hiringlab.org/2023/11/15/indeeds-2024-us-jobs-hiring-trends-report (Indeed’s 2024 US Jobs & Hiring Trends Report)
@@ -3995,7 +3998,6 @@ Contents:
                 https://www.reddit.com/r/recruitinghell/top (This subreddit is for all of those recruiters and candidates who really don't get it. Post your horror stories and show us those amazing job offers!)
                 https://www.statista.com/statistics/199999/worldwide-tech-layoffs-covid-19 (Number of tech employees laid off worldwide from 2020 to 2024, by quarter)
                 https://www.statista.com/statistics/217837/average-duration-of-unemployment-in-the-in-the-us (Average duration of unemployment in the United States from 1990 to 2024)
-                https://prepare.sh/trends (Job Market Trends )
                 https://pinboard.in/u:SharjeelSayed/t:jobs
 
         Job Sites: (Sorted by Alexa Rank)
@@ -4430,6 +4432,7 @@ Contents:
                 https://en.wikipedia.org/wiki/Pomodoro_Technique (Pomodoro Technique)
 
             Tools:
+                https://chromewebstore.google.com/detail/marinara-new-pomodoro%C2%AE-as/eandalcihlejmcokgmmbkaopglpfncbo (https://www.focusapps.app Marinara New: Pomodoro® Assistant)
                 https://pomofocus.io
                 https://www.amazon.in/Pomodoro-Countdown-Rechargeable-Vibration-Productivity/dp/B0GW8P7L24 (F4 Gravity Timer )
                 https://www.forestapp.cc
@@ -5472,6 +5475,7 @@ Contents:
             Tools:
                 https://clonezilla.org (Clonezilla is a partition and disk imaging/cloning program similar to True Image® or Norton Ghost®.)
                 https://cryptomator.org (Cryptomator encrypts your data quickly and easily. Afterwards you upload them protected to your favorite cloud service)
+                https://github.com/AhmadIbrahiim/Website-downloader (https://website-downloader.onrender.com 💡 Download the complete source code of any website (including all assets). [ Javascripts, Stylesheets, Images ] using Node.js )
                 https://github.com/gilbertchen/duplicacy (https://duplicacy.com A new generation cloud backup tool)
                 https://github.com/gildas-lormeau/single-file-cli (CLI tool for saving a faithful copy of a complete web page in a single HTML file)
                 https://github.com/instaloader/instaloader (Download pictures (or videos) along with their captions and other metadata from Instagram.)
