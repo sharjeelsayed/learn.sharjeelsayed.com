@@ -879,14 +879,13 @@ Contents:
 
             DevOps Newsletters:
                 https://buttondown.com/devopsish (Cloud Native, DevOps, Open Source, industry news, culture, and the ‘ish between. A newsletter by Chris Short.)
-                https://danielmiessler.com/newsletter (96,519) (Unsupervised Learning is about the ideas and trends happening in Cybersecurity, National Security, Artificial Intelligence, Technology, and Culture—and how best to upgrade ourselves to be ready for what's coming.)
+                https://danielmiessler.com/newsletter (Unsupervised Learning is about the ideas and trends happening in Cybersecurity, National Security, Artificial Intelligence, Technology, and Culture—and how best to upgrade ourselves to be ready for what's coming.)
                 https://eks.news (The Amazon EKS newsletter provides the latest insights on all things related to Amazon Elastic Kubernetes Service (Amazon EKS), Kubernetes, and cloud-native.)
                 https://hackernewsletter.com (We've put out a weekly newsletter of the best articles on startups, technology, programming, and more. All links are curated by hand from Hacker News. )
                 https://ipj.dreamhosters.com (The Internet Protocol Journal)
                 https://lwn.net (LWN.net is a reader-supported news site dedicated to producing the best coverage from within the Linux and free software developmentcommunities. )
                 https://newsletter.sharjeelsayed.com (A Daily Newsletter curated by SharjeelSayed.com)
                 https://sreweekly.com (SRE Weekly is a newsletter devoted to everything related to keeping a site or service available as consistently as possible. )
-                https://thisweekindevops.com (This Week in DevOps is a weekly newsletter that curates the best DevOps content from around the web.)
                 https://tldr.tech/devops (Improve your DevOps skills in 5 minutes Get our free daily newsletter with curated tools 💻, trends 📈, and insights 💡,for DevOps Engineers 👨‍💻)
                 https://www.devopsbulletin.com (DevOps Bulletin is a weekly newsletter for engineers who care about building reliable systems, controlling cloudcosts, and staying ahead of what is changing in DevOps.)
                 https://www.lastweekinaws.com (Chief Cloud Economist Corey Quinn goes through the torrent of news about Amazon’s cloud ecosystem and strains out the noise. Then he takes what’s left and gently and lovingly makes fun of it.)
@@ -2348,6 +2347,7 @@ Contents:
                     https://jvns.ca/blog/2023/11/01/confusing-git-terminology (Confusing git terminology by Julia Evans)
                     https://jvns.ca/blog/2023/11/06/rebasing-what-can-go-wrong- (git rebase: what can go wrong?)
                     https://jwiegley.github.io/git-from-the-bottom-up/1-Repository/7-branching-and-the-power-of-rebase.html (Best explanation of rebase vs merge)
+                    https://learn.github.com/skills (Learn how to use GitHub with interactive courses designed for beginners and experts.)
                     https://ohshitgit.com (Bad situations I've gotten myself into, and how I eventually got myself out of them in plain english.)
                     https://techtldr.com/19-git-tips-for-everyday-use (19 Git Tips For Everyday Use)
                     https://tylercipriani.com/blog/2022/11/19/git-notes-gits-coolest-most-unloved-feature (Git's Coolest, Most Unloved Feature)
@@ -2393,6 +2393,8 @@ Contents:
         GitHub Actions:
             Sources:
                 https://docs.github.com/en/actions (GitHub Actions documentation)
+                https://github.com/marketplace/actions/debugging-with-tmate (This GitHub Action offers you a direct way to interact with the host system on which the actual scripts (Actions) will run.)
+                https://github.com/nektos/act (https://nektosact.com Run your GitHub Actions locally 🚀)
                 https://www.actionsbyexample.com (GitHub Actions by Example is an introduction to the service through annotated examples.)
 
             Books and Courses:
@@ -2406,9 +2408,16 @@ Contents:
                     https://github.com/academind/github-actions-course-resources (Resources (code, slides) for our GitHub Actions course (https://acad.link/gh-actions))
                     https://academind.com/community
 
-                GitHub Actions by Andrew Brown ExamPro
-                    https://www.exampro.co/github-actions
-                    https://youtu.be/Tz7FsunBbfQ?si=6XZSSMHuyNfvOmdl (GitHub Actions Certification – Full Course to PASS the Exam by freeCodeCamp (✏️ Course developed by Andrew Brown of ExamProm ))
+                Complete GitHub Actions Course - From BEGINNER to PRO by DevOps Directive (Sep 24, 2025)
+                    https://youtu.be/Xwpi0ITkL3U?si=-gfT0UnRhB8b2PCl
+                    https://courses.devopsdirective.com/github-actions-beginner-to-pro
+                    https://github.com/sidpalas/devops-directive-github-actions-course
+
+                Mastering GitHub Actions by Eric Chapman (Packt) ( March 22, 2024)
+                    https://www.amazon.com/Mastering-GitHub-Actions-automation-integration/dp/1805128620
+
+                Learning GitHub Actions by Brent Laster (O'Reilly)  (September 26, 2023)
+                    https://www.amazon.com/Learning-GitHub-Actions-Automation-Integration/dp/109813107
 
         Jenkins:
             Sources:
@@ -5088,6 +5097,7 @@ Contents:
                     https://scroll.in (11,329)
                     https://thewire.in (11,901)
                     https://www.mid-day.com (15,023)
+                    https://inshorts.com
 
                 Tech News: (Sorted by Alexa Rank)
                     https://www.cnet.com (501)
@@ -5283,7 +5293,6 @@ Contents:
                 https://stratechery.com (49,773) (Stratechery provides analysis of the strategy and business side of technology and media, and the impact of technology on society.)
                 https://thebrowser.com (301,904) (Every day we read hundreds of articles and recommend five outstanding stories for you to enjoy, so you'll always have interesting things to ponder and fascinating ideas to discuss at dinner)
                 https://thenewstack.io/newsletter-archive (24,975) (No RSS feed available) (The Tech News That Matters To You )
-                https://thisweekindevops.com (n/a)
                 https://tldr.tech (275,317) (Get the free daily email with summaries of the most interesting stories in startups 🚀, tech 📱, and programming 💻)
                 https://tldr.tech/devops (Improve your DevOps skills in 5 minutes Get our free daily newsletter with curated tools 💻, trends 📈, and insights 💡, for DevOps Engineers 👨‍💻)
                 https://tldrsec.com (2,243,441) (Keep up with Cybersecurity in 7 min/week. )
