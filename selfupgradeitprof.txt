@@ -4730,6 +4730,7 @@ Contents:
                 https://hypem.com (Hype Machine)
                 https://jetsetradio.live (LO-FI)
                 https://mynoise.net/NoiseMachines/paulNagleSequenceGenerator.php (Take It Easy: Paul Nagle Sequence Generator)
+                https://mynoise.net/NoiseMachines/whiteNoiseGenerator.php?l=62575247423733302622&a=1&am=s&title=White%20Noise%20&%20Co (Brown Noise)
                 https://neal.fun (The Deep Sea)
                 https://somafm.com/player/#/now-playing/dronezone (soma fm's Drone Zone Channel)
                 https://www.brain.fm
@@ -5656,7 +5657,10 @@ Contents:
 
         Health Trackers:
             Sources:
+                https://autosleepapp.tantsissa.com (World's First & Best Sleep Tracker for Apple Watch)
                 https://github.com/NoopApp/noop (Offline WHOOP companion — pair your strap over Bluetooth, keep all data on your own device. No cloud, no account, no subscription. )
+                https://www.bevel.health (Bevel Health – Make sense of your health data, from wearables to bloodwork, and everything in between.)
+                https://www.freestyle.abbott/en-in/products/freestyle-libre-2.html (Abbott FreeStyle Libre 2 Continuous Glucose Monitoring System)
                 https://www.ultrahuman.com/in/ring (Ultrahuman Ring)
                 https://www.whoop.in/pages/peak (Whoop Peak)
                 https://youtu.be/pGG2MykcM0g?si=h7ogIkIMr20URx77 (How to Use Omron HEM 7361 T by Omron Healthcare India)
