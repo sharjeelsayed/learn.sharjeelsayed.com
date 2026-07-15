@@ -1825,12 +1825,16 @@ Contents:
                 VPC:
                     https://notes.kodekloud.com/docs/AWS-Networking-Fundamentals (AWS Networking Fundamentals Notes by KodeKloud)
                     https://tutorialsdojo.com/amazon-vpc (Amazon VPC Cheat Sheet)
+                    https://www.ducktyped.org/p/why-is-it-called-a-cloud-if-its-not (An illustrated guide to Amazon VPCs)
                     https://youtu.be/jZAvKgqlrjY?si=TnIp-msta3wnKj9o (AWS re:Invent 2018: Your Virtual Data Center: VPC Fundamentals and Connectivity Options (NET201) by Gina Maris Amazon Web Services)
 
                 IAM:
+                    https://aws.permissions.cloud
                     https://aws.permissions.cloud (AWS IAM Policy Generator)
-                    https://docs.aws.amazon.com/service-authorization/latest/reference/reference_policies_actions-resources-contextkeys.html (Actions, resources, and condition keys for AWS services)
+                    https://awspolicygen.s3.amazonaws.com/policygen.html (The AWS Policy Generator is a tool that enables you to create policies that control access to Amazon Web Services (AWS) )
                     https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_aws-services-that-work-with-iam.html (AWS services that work with IAM)
+                    https://docs.aws.amazon.com/service-authorization/latest/reference/reference_policies_actions-resources-contextkeys.html (Actions, resources, and condition keys for AWS services)
+                    https://github.com/laythra/learn-aws-iam ( https://www.learnawsiam.com Learn AWS IAM by actually using it. 12 interactive levels in your browser covering policies, cross-account access, SCPs, TBAC, and more.)
                     https://www.effectiveiam.com (Effective IAM for Amazon Web Services by Stephen Kuenzli )
 
             AWS Certification Resources:
@@ -3158,10 +3162,11 @@ Contents:
 
                 Python Crash Course, 3rd Edition: A Hands-On, Project-Based Introduction to Programming 3rd Edition by Eric Matthes January 10, 2023
                 https://ehmatthes.github.io/pcc_3e
+                https://ehmatthes.github.io/pcc_3e/cheat_sheets (Cheat Sheets)
+                https://ehmatthes.github.io/pcc_3e/updates (Updates and Errata)
+                https://github.com/ehmatthes/pcc_3e (Online resources for Python Crash Course, 3rd edition, from No Starch Press. )
                 https://nostarch.com/python-crash-course-3rd-edition
                 https://www.amazon.com/Python-Crash-Course-Eric-Matthes/dp/1718502702
-                https://github.com/ehmatthes/pcc_3e (Online resources for Python Crash Course, 3rd edition, from No Starch Press. )
-                https://ehmatthes.github.io/pcc_3e/updates (Updates and Errata)
 
                 Fluent Python: Clear, Concise, and Effective Programming by Luciano Ramalho 2nd Edition May 10, 2022
                 https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1492056359
@@ -4526,6 +4531,7 @@ Contents:
         AdBlock:
             Sources:
                 https://byebyepaywall.com/en (This tool allows you to view URLs behind the paywall and open them in various archive and paywall bypass services. Just enter a URL in the field above and click on the desired service!)
+                https://gitflic.ru/user/magnolia1234 (https://en.wikipedia.org/wiki/Bypass_Paywalls_Clean Free and open-source web browser extension that circumvents paywalls.)
                 https://github.com/collinbarrett/FilterLists (https://filterlists.com/lists/bypass-paywalls-clean-filter Use "Bypass Paywalls Clean filter" to bypass paywalls for news sites )
                 https://github.com/hagezi/dns-blocklists (DNS-Blocklists: For a better internet - keep the internet clean! )
                 https://github.com/sjhgvr/oisd (https://oisd.nl The blocklist prevents your devices from connecting to unwanted or harmful domains.It reduces ads, decreases the risk of malware, and enhances privacy.)
