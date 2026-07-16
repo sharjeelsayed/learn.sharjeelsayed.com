@@ -3157,6 +3157,7 @@ Contents:
                     https://github.com/Asabeneh/30-Days-Of-Python (30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.)
                     https://github.com/donnemartin/interactive-coding-challenges (120+ interactive Python coding interview challenges (algorithms and data structures). Includes Anki flashcards.)
                     https://github.com/huangsam/ultimate-python (Ultimate Python study guide for newcomers and professionals alike. 🐍 🐍 🐍 )
+                    https://share.google/aimode/ccldMHXrVNbZWNpZX (Goofle AI: vscode python disable autocomplete temporary)
                     https://www.reddit.com/r/learnpython/comments/53z5p4/how_to_start_learning_python_the_complete_guide (How to start learning Python ? The Complete guide.)
                     https://www.udemy.com/topic/python/?ratings=4.5&sort=popularity (Udemy Courses rated 4.5 stars and above)
 
@@ -3682,7 +3683,7 @@ Contents:
 
                 Extensions:
                     https://marketplace.visualstudio.com/items?itemName=4ops.terraform
-                    https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks
+                    https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks (Bookmarks)
                     https://marketplace.visualstudio.com/items?itemName=aws-scripting-guy.cform
                     https://marketplace.visualstudio.com/items?itemName=bbenoist.vagrant
                     https://marketplace.visualstudio.com/items?itemName=Boto3typed.boto3-ide
@@ -4446,6 +4447,7 @@ Contents:
             https://news.ycombinator.com/item?id=30473322 (Ask HN: Any scientifically proven techniques to boost concentration?)
             https://news.ycombinator.com/item?id=44201901 (	4-7-8 Breathing (breathbelly.com))
             https://oneminutefocus.com (Studies in brain science (neuroscience) has shown that focusing visually actually can help our brain focus on a task (Dr. Andrew Huberman))
+            https://www.breathbelly.com/exercises/4-7-8-breathing (Developed by Dr. Andrew Weil, it helps reduce anxiety, manage stress, and promote better sleep by triggering your body's natural relaxation response and slowing your heart rate.)
             https://www.comptia.org/testing/online-testing-interest-form
             https://www.coursera.org/learn/learning-how-to-learn
             https://x.com/Hesamation/status/1899191612854702578 (Andrej Karpathy’s bombshells on how to learn https://x.com/karpathy/status/1756380066580455557)
@@ -4497,36 +4499,27 @@ Contents:
 
             Extensions:
                 https://1blocker.com (The Fastest & Most Powerful Blocker for Safari)
-                https://addons.mozilla.org/en-GB/firefox/addon/foxytab (Collection of Tab Related Actions e.g. Duplicate, Close Duplicates, Close to the Left, Copy Title, Merge Windows, Save as PDF, Copy Urls Tab/All/Left/Right, Host keep/close/close other, Sort by URL/Title, Asce/Desc, Move, Reload, Reload Timer)
-                https://addons.mozilla.org/en-US/firefox/addon/similarweb-sites-recommendatio (SimilarWeb - Website Traffic Sources and Ranking)
-                https://addons.mozilla.org/en-US/firefox/addon/to-google-translate (To Google Translate)
                 https://addons.mozilla.org/en-US/firefox/addon/wayback-machine_new (Go back in time to see how a website has changed through the history of the Web. )
                 https://addons.mozilla.org/en-US/firefox/search/?page=1&promoted=recommended&sort=users
                 https://darkreader.org (Dark Reader is an open source eye-care browser extension)
                 https://github.com/aaronraimist/DontFuckWithPaste (Google Chrome and Firefox extension that prevents the blocking of pasting into input fields)
                 https://github.com/ACK-J/Port_Authority (https://addons.mozilla.org/en-US/firefox/addon/port-authority Blocks websites from using javascript to port scan your computer/network and dynamically blocks all LexisNexis endpoints from running their invasive data collection scripts)
                 https://github.com/Cookie-AutoDelete/Cookie-AutoDelete (Firefox and Chrome WebExtension that deletes cookies and other browsing site data as soon as the tab closes, domain changes, browser restarts, or a combination of those events. )
-                https://github.com/deanishe/alfred-firefox (Search and control Firefox from Alfred )
-                https://github.com/dessant/web-archives (Web Archives is a browser extension that enables you to find archived and cached versions of web pages, and comes with support for various search engines.)
                 https://github.com/gorhill/uBlock (uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. )
                 https://github.com/mozilla/contain-facebook (Facebook Container isolates your Facebook activity from the rest of your web activity in order to prevent Facebook from tracking you outside of the Facebook website via third party cookies. )
                 https://github.com/mozilla/multi-account-containers (Firefox Multi-Account Containers lets you keep parts of your online life separated into color-coded tabs that preserve your privacy. Cookies are separated by container, allowing you to use the web with multiple identities or accounts simultaneously. )
                 https://github.com/philc/vimium
                 https://github.com/quenhus/uBlock-Origin-dev-filter (Filters to block and remove copycat-websites from DuckDuckGo, Google and other search engines. Specific to dev websites like StackOverflow or GitHub.)
-                https://keepa.com (Keepa - Amazon Price Tracker)
-                https://languagetoolplus.com (Grammar, Style & Spell Checker)
                 https://news.ycombinator.com/item?id=23446504 ("Remove sticky" bookmarklet)
                 https://news.ycombinator.com/item?id=38014653 ("Don't mess with paste" - for when signup forms expect you to hand-type your email address twice)
                 https://newsit.benwinding.com (Newsit - A news aggregator that lets you read the news without the clutter)
                 https://oblador.github.io/hush (Block nags to accept cookies and privacy invasive tracking in Safari on Mac, iPhone and iPad.)
                 https://privacybadger.org (Privacy Badger is a browser extension that automatically learns to block invisible trackers.)
-                https://tabliss.io (A beautiful, customisable New Tab page for Firefox, Chrome, and Edge. )
                 https://underpassapp.com/StopTheMadness (StopTheMadness is a Safari extension for Mac that stops web sites from making your browser harder to use.)
                 https://unhook.app (Watch YouTube free of distractions. Block suggestion feeds, comments, and more)
                 https://www.fbpurity.com (F.B. Purity - Clean Up and Customize Facebook)
                 https://www.forbesconrad.com/blog/enable-password-pasting (Enable Password Pasting in Firefox)
                 https://www.mrfdev.com/enhancer-for-youtube (Enhancer for YouTube)
-                https://www.tackker.com (Tackker - A tool to manage and track your tasks efficiently.)
 
         AdBlock:
             Sources:
@@ -6112,6 +6105,7 @@ Contents:
             https://www.reddit.com/r/AskReddit/comments/6q2b8x/reddit_whats_become_clear_to_you_as_youve_gotten (Reddit, what's become clear to you as you've gotten older? )
             https://www.reddit.com/r/AskReddit/comments/70q5f2/reddit_what_are_the_most_useful_askreddit_posts (Reddit, what are the most useful askreddit posts? )
             https://www.reddit.com/r/BuyItForLife/comments/vxeudm/i_analyzed_the_most_and_least_popular_brands_on (I analyzed the most and least popular brands on r/BuyItForLife)
+            https://www.reddit.com/r/dataisbeautiful/comments/1ay3vuu/oc_who_lived_when_the_overlapping_lives_of (Who Lived When? The overlapping lives of historical figures, from 1200 to present )
             https://www.reddit.com/r/dataisbeautiful/comments/1evjgxu/a_pixel_for_every_50000_people_in_the_world (A pixel for every 50,000 people in the world)
             https://www.reddit.com/r/india/wiki/useful_posts (r/india Useful Posts)
             https://www.thisiswhyimbroke.com (ThisIsWhyImBroke is where you'll find cool gift ideas, unique products, and awesome birthday and Christmas gift ideas.)
