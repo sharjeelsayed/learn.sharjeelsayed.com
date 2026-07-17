@@ -1115,6 +1115,8 @@ Contents:
             Tools:
                 https://explainshell.com (write down a command-line to see the help text that matches each argument)
                 https://gist.github.com/steinwaywhw/a4cd19cda655b8249d908261a62687f8 (One Liner to Download the Latest Release from Github Repo)
+                https://github.com/ajeetdsouza/zoxide (https://crates.io/crates/zoxide A smarter cd command. Supports all major shells. )
+                https://github.com/akinomyoga/ble.sh (Bash Line Editor―a line editor written in pure Bash with syntax highlighting, auto suggestions, vim modes, etc. for Bash interactive sessions. )
                 https://github.com/atuinsh/atuin (https://atuin.sh ✨ Magical shell history)
                 https://github.com/bgreenwell/doxx (https://bgreenwell.github.io/doxx/doxx Expose the contents of .docx files without leaving your terminal. Fast, safe, and smart — no Office required! )
                 https://github.com/BurntSushi/ripgrep (ripgrep recursively searches directories for a regex pattern while respecting your gitignore )
@@ -1122,7 +1124,6 @@ Contents:
                 https://github.com/cheat/cheat (cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not frequently enough to remember.)
                 https://github.com/ChrisBuilds/terminaltexteffects (https://chrisbuilds.github.io/terminaltexteffects Visual effects applied to text in the terminal.)
                 https://github.com/ellie/atuin (🐢 Magical shell history)
-
                 https://github.com/gleitz/howdoi (https://blog.gleitzman.com/post/43330157197/howdoi-instant-coding-answers-via-the-command instant coding answers via the command line)
                 https://github.com/jarun/nnn (n³ The unorthodox terminal file manager)
                 https://github.com/junegunn/fzf (https://junegunn.github.io/fzf A command-line fuzzy finder)
@@ -5253,7 +5254,7 @@ Contents:
                 Google Alerts:
                     https://www.google.com/alerts (Google Alerts)
                     Search Term:
-                    aws | kubernetes | devops | sre | "platform engineering" | ansible | git | linux | "ci/cd" | docker | gitops | opentofu | "Argo CD" | prometheus | grafana | "elk stack" | opensearch | jenkins | "github actions" | vscode | github | "AWS Cloud Development Kit" | "AWS CDK" | bash | powershell | gitlab | terraform | Elasticsearch | Logstash | Kibana | OpenTelemetry | "AWS CloudFormation" | azure | GCP | python | "site reliability engineering" | "cloud computing" | "infrastructure as code" | DevSecOps | FinOps | AIOps | MLOps | "helm charts"
+                    aws | kubernetes | devops | sre | "platform engineering" | ansible | git | linux | "ci/cd" | docker | gitops | opentofu | "Argo CD" | prometheus | grafana | "elk stack" | opensearch | jenkins | "github actions" | vscode | github | "AWS Cloud Development Kit" | "AWS CDK" | bash | powershell | gitlab | terraform | Elasticsearch | Logstash | Kibana | OpenTelemetry | "AWS CloudFormation" | azure | GCP | python | "site reliability engineering" | "cloud computing" | "infrastructure as code" | DevSecOps | FinOps | AIOps | MLOps | "helm charts" | "Cloud Engineering" | "Cloud Engineer" | "Cloud Infrastructure Engineer" | "Systems Architect" | "Infrastructure Architect" | "System Design" | "Systems design" | DataOps
 
                 Cross-Posting Social Media:
                     https://ifttt.com/applets/rnvTEjV9-automatically-share-new-links-you-post-on-facebook-to-twitter
@@ -5968,10 +5969,11 @@ Contents:
         Fragrance:
             Sources:
                 https://scentjourner.com/en-international/blogs/wellness/the-importance-of-fixatives-and-its-effect-on-projection-longevity-sillage (The Importance of Fixatives and Its Effect on Projection, Longevity, Sillage)
+                https://share.google/aimode/S4s1wDiKW84jPZFIA (Google AI: Most popular men's perfume in the world with longest longevity and highest sillage)
                 https://www.acharr.com/what-is-the-difference-between-edt-edp-and-parfum (What is the difference between EDT, EDP and Parfum ?)
                 https://www.fragrantica.com/awards2024/category/Best-Mens-Fragrance-2024 (Best Fragrance of 2024 - 8th Fragrantica Community Awards Best Men's Fragrance 2024)
+                https://www.fragrantica.com/perfume/Dior/Sauvage-Elixir-68415.html (Sauvage Elixir Dior for men)
                 https://www.fragrantica.com/search/?spol=male~unisex (Most popular Men's and Unisex fragrances on Fragrantica)
-                https://www.reddit.com/r/fragrance/comments/1ifqpxg/whats_the_most_complimented_fragrance_in_your (What's the most complimented fragrance in your collection?)
                 https://www.reddit.com/r/fragrance/comments/bhlszk/edc_edt_edp_and_parfum_eductationlong (EDC, EDT, EDP and Parfum - Eductation/Long)
                 https://www.reddit.com/r/malefashionadvice/comments/iqljj/a_guide_to_cologne (A Guide to Cologne)
 
