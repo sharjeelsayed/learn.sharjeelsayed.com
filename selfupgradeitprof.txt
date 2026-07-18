@@ -3151,6 +3151,7 @@ Contents:
                 https://www.cosmicpython.com https://www.amazon.com/Architecture-Patterns-Python-Domain-Driven-Microservices/dp/1492052205 (Architecture Patterns with Python: Enabling Test-Driven Development, Domain-Driven Design, and Event-Driven Microservices)
                 https://www.reddit.com/r/learnprogramming/wiki/online#wiki_python
                 https://www.reddit.com/r/Python+learnpython
+                https://en.wikipedia.org/wiki/Zen_of_Python (The Zen of Python is a collection of software design principles for the Python programming language. It was written by Tim Peters in 1999 and included as an Easter egg in the Python interpreter.)
 
             Books and Courses:
                 Tutorials:
@@ -3545,6 +3546,7 @@ Contents:
                 https://github.com/tencent/Hunyuan3D-2 (High-Resolution 3D Assets Generation with Large Scale Hunyuan3D Diffusion Models.)
                 https://github.com/The-Pocket/Tutorial-Codebase-Knowledge (https://the-pocket.github.io/Tutorial-Codebase-Knowledge Turns Codebase into Easy Tutorial with AI )
                 https://github.com/virattt/ai-hedge-fund (An AI Hedge Fund Team)
+                https://github.com/VoltAgent/awesome-design-md (https://getdesign.md  A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI. )
                 https://github.com/wshobson/agents (A collection of production-ready subagents for Claude Code )
                 https://openrouter.ai (A unified interface for LLMs)
                 https://rankclaw.com (Check any AI skill for security vulnerabilities before you install it)
@@ -3572,6 +3574,7 @@ Contents:
                     https://github.com/ed-donner/llm_engineering (Repo to accompany my mastering LLM engineering course )
                     https://github.com/ethen8181/machine-learning (🌎 machine learning tutorials (mainly in Python3))
                     https://github.com/eugeneyan/applied-ml (📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.)
+                    https://github.com/HenryNdubuaku/maths-cs-ai-compendium (Become a cracked AI/ML Research Engineer )
                     https://github.com/karpathy/llm.c (LLM training in simple, raw C/CUDA)
                     https://github.com/labmlai/annotated_deep_learning_paper_implementations ( 🧑‍🏫 60 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠 )
                     https://github.com/mlabonne/llm-course (https://mlabonne.github.io/blog Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks. )
@@ -4460,14 +4463,11 @@ Contents:
             https://obsidian.md (Obsidian – A knowledge base that works on local Markdown files.)
 
         Pomodoro Technique:
-            Sources:
-                https://en.wikipedia.org/wiki/Pomodoro_Technique (Pomodoro Technique)
-
-            Tools:
-                https://chromewebstore.google.com/detail/marinara-new-pomodoro%C2%AE-as/eandalcihlejmcokgmmbkaopglpfncbo (https://www.focusapps.app Marinara New: Pomodoro® Assistant)
-                https://pomofocus.io
-                https://www.amazon.in/Pomodoro-Countdown-Rechargeable-Vibration-Productivity/dp/B0GW8P7L24 (F4 Gravity Timer )
-                https://www.forestapp.cc
+            https://addons.mozilla.org/en-US/firefox/addon/tomato-clock (Tomato Clock - A Simple Pomodoro Timer by Samuel Jun)
+            https://chromewebstore.google.com/detail/marinara-new-pomodoro%C2%AE-as/eandalcihlejmcokgmmbkaopglpfncbo (https://www.focusapps.app Marinara New: Pomodoro® Assistant)
+            https://en.wikipedia.org/wiki/Pomodoro_Technique (Pomodoro Technique)
+            https://pomofocus.io
+            https://www.amazon.in/Pomodoro-Countdown-Rechargeable-Vibration-Productivity/dp/B0GW8P7L24 (F4 Gravity Timer Manual: https://manuals.plus/m/f195ec9a4399440bca0bd55dcad0edce47e47dc2db8c28bf58f2079915c4109f)
 
         Todoist:
             https://todoist.com/r/Sharjeel_Sayed_pndvuw (Todoist Premium free for 2 months)
@@ -5237,8 +5237,6 @@ Contents:
 
                 YouTube:
                     https://github.com/Chocobozzz/PeerTube (https://joinpeertube.org ActivityPub-federated video streaming platform using P2P directly in your web browser )
-                    https://www.youtube.com/channel/UCAh9DbAZny_eoGFsYlH2JZw (YouTube India Popular Right Now)
-                    https://www.youtube.com/channel/UCF0pVplsI8R5kcAqgtoRqoA (YouTube Worldwide Popular Right Now)
                     https://www.youtube.com/premium/annual (YouTube Premium Annual Subscription)
                     https://www.youtube.com/user/SayedSharjeel/channels
 
