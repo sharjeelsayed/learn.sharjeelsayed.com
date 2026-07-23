@@ -1005,6 +1005,7 @@ Contents:
                 https://github.com/trimstray/the-practical-linux-hardening-guide (This guide details creating a secure Linux production system. OpenSCAP (C2S/CIS, STIG).)
                 https://livesys.se/posts/the-chroot-technique (The chroot Technique - a Swiss army multitool for Linux systems)
                 https://netfilter.org/documentation (Documentation about the netfilter/iptables project)
+                https://overthewire.org/wargames/bandit (The Bandit wargame is aimed at absolute beginners. It will teach the basics needed to be able to play other wargames.)
                 https://peteris.rocks/blog/htop (Explanation of everything you can see in htop/top on Linux)
                 https://roguesecurity.dev/blog/systemd-hardening (SystemD Service Hardening)
                 https://wiki.archlinux.org (Arch Linux documentation on the web.)
@@ -1020,7 +1021,7 @@ Contents:
                 A Practical Guide to Linux Commands, Editors, and Shell Programming 4th Edition (November 9, 2017) by Mark G. Sobell
                     https://www.amazon.com/Practical-Guide-Commands-Editors-Programming/dp/0134774604
 
-                How Linux Works, 3rd Edition: What Every Superuser Should Know by Brian Ward
+                How Linux Works: What Every Superuser Should Know by Brian Ward 3rd Edition (April 19, 2021)
                     https://www.amazon.com/How-Linux-Works-Brian-Ward-ebook/dp/B07X7S1JMB
 
                 Introduction to Linux by The Linux Foundation
@@ -1084,12 +1085,15 @@ Contents:
                 https://command-not-found.com (Install any command on any operating system and in Docker)
                 https://curlconverter.com (Convert curl commands to Python, JavaScript and more)
                 https://github.com/alebcay/awesome-shell (A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.)
+                https://github.com/busyloop/lolcat (Rainbows and unicorns! A utility for rainbow coloring text in the terminal)
                 https://github.com/charmbracelet/glow (Render markdown on the CLI, with pizzazz! 💅🏻)
                 https://github.com/chubin/awesome-console-services (A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols))
                 https://github.com/ghostty-org/ghostty (https://ghostty.org 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.)
                 https://github.com/icloud-photos-downloader/icloud_photos_downloader (A command-line tool to download photos from iCloud)
+                https://github.com/jarun/nnn (n³ The unorthodox terminal file manager)
                 https://github.com/mpv-player/mpv (https://mpv.io 🎥 Command line media player )
                 https://github.com/NotJoeMartinez/yt-fts (Youtube Full Text Search - Search all of a YouTube channel's subtitles from the command line)
+                https://github.com/samwho/spacer (CLI tool to insert spacers when command output stops)
                 https://github.com/vslavik/diff-pdf (A simple tool for visually comparing two PDF files https://vslavik.github.io/diff-pdf)
                 https://muhammadraza.me/2021/Oneliners (My Favorite One Liners)
                 https://telnet.org/htm/places.htm (A list of fun destinations for telnet)
@@ -1126,7 +1130,6 @@ Contents:
                 https://github.com/ChrisBuilds/terminaltexteffects (https://chrisbuilds.github.io/terminaltexteffects Visual effects applied to text in the terminal.)
                 https://github.com/ellie/atuin (🐢 Magical shell history)
                 https://github.com/gleitz/howdoi (https://blog.gleitzman.com/post/43330157197/howdoi-instant-coding-answers-via-the-command instant coding answers via the command line)
-                https://github.com/jarun/nnn (n³ The unorthodox terminal file manager)
                 https://github.com/junegunn/fzf (https://junegunn.github.io/fzf A command-line fuzzy finder)
                 https://github.com/kaplanelad/shellfirm (Intercept any risky patterns (default or defined by you) and prompt you a small challenge for double verification)
                 https://github.com/kellyjonbrazil/jc (CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and simplifying automation scripts.)
@@ -2882,6 +2885,7 @@ Contents:
                 https://github.com/koekeishiya/yabai (A tiling window manager for macOS based on binary space partitioning)
                 https://github.com/mangerlahn/Latest (https://max.codes/latest A small utility app for macOS that makes sure you know about all the latest updates to the apps you use.)
                 https://github.com/MikeMcQuaid/strap (https://strap.mikemcquaid.com 👢 Bootstrap your macOS development system.)
+                https://github.com/moretension/duti (A command-line tool to select default applications for document types and URL schemes on Mac OS X)
                 https://github.com/nextdns/nextdns/wiki/macos (NextDNS CLI client (DoH Proxy) )
                 https://github.com/qarmin/czkawka (Multi functional app to find duplicates, empty folders, similar images etc. )
                 https://github.com/rgcr/m-cli ( Swiss Army Knife For Macos)
