@@ -2905,7 +2905,7 @@ Contents:
                 https://monodraw.helftone.com (Powerful ASCII art editor designed for the Mac)
                 https://news.ycombinator.com/item?id=19515627 (Ask HN: What are your favorite utility desktop apps?)
                 https://objective-see.com/products.html (Free Mac Security Tools)
-                https://osxfuse.github.io (macFUSE allows you to extend macOS's native file handling capabilities via third-party file systems.)
+                https://macfuse.github.io( https://github.com/macfusemac macFUSE is a software package that adds support for FUSE file systems to macOS. FUSE file systems run in user space, which makes them easier to develop, safer to run, and more flexible than conventional file systems. )
                 https://privacy.sexy (Enforce privacy & security on Windows and macOS)
                 https://renegadevi.gitlab.io/mac-app-collection (Find hidden gem apps to improve your Mac.)
                 https://roaringapps.com (Crowd-sourced application compatibility for macOS, iOS and Windows.)
@@ -2924,6 +2924,7 @@ Contents:
                 https://www.titanium-software.fr/en/onyx.html (OnyX is a multifunction utility that you can use to verify the structure of the system files)
                 https://www.usboverdrive.com (Take full advantage of any USB or Bluetooth mouse, keyboard, trackball, joystick or gamepad)
                 https://www.zeiss.co.in/vision-care/eye-care-professionals/other-products/lens-cleaning-solutions.html#overlay-benefits-1697194224 (Zeiss Pre-Moistened Lens Cloths Wipes)
+                https://github.com/macos-fuse-t/fuse-t (macFUSEhttps://www.fuse-t.org Fuse-T is a macOS library and runtime for FUSE filesystem projects that need a practical, distributable userspace implementation without a kernel extension. )
 
             HomeBrew:
                 Sources:
@@ -3559,6 +3560,7 @@ Contents:
                 https://skills.sh (Skills are reusable capabilities for AI agents. Install them with a single command to enhance your agents with access to procedural knowledge.)
                 https://sourcegraph.com/cody (Cody is a coding AI assistant that uses AI and a deep understanding of your codebase to help you write and understand code faster.)
                 https://www.phind.com (Phind is a search engine for AI models.)
+                https://github.com/alibaba/open-code-review (https://open-codereview.ai Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.)
 
             Books and Courses:
                 Tutorials:
@@ -6116,7 +6118,3 @@ Contents:
             https://www.reddit.com/r/india/wiki/useful_posts (r/india Useful Posts)
             https://www.thisiswhyimbroke.com (ThisIsWhyImBroke is where you'll find cool gift ideas, unique products, and awesome birthday and Christmas gift ideas.)
             https://www.visionofhumanity.org/maps (Global Peace Index Maps)
-
-    Support this project with these referral links:
-        https://m.do.co/c/d3160b5e33e8 (DigitalOcean Credits)
-        https://www.expressrefer.com/refer-friend?referrer_id=39360476 (ExpressVPN 30 days free)
