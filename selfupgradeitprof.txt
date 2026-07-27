@@ -3146,9 +3146,7 @@ Contents:
                 https://github.com/ml-tooling/best-of-web-python (🏆 A ranked list of awesome python libraries for web development. Updated weekly.)
                 https://github.com/pyenv/pyenv (Simple Python version management )
                 https://github.com/python-poetry/poetry (https://python-poetry.org Python packaging and dependency management made easy)
-                https://github.com/TheAlgorithms/Python (All Algorithms implemented in Python )
                 https://github.com/topics/python?o=desc&s=stars
-                https://github.com/tuvtran/project-based-learning#python
                 https://github.com/vinta/awesome-python (A curated list of awesome Python frameworks, libraries, software and resources)
                 https://lp.jetbrains.com/python-developers-survey-2024 (Python Developers Survey 2024 Results)
                 https://medium.com/javarevisited/ive-read-20-python-books-and-here-are-my-top-5-recommendations-for-2026-973f0a487e88 (My favorite Python Programming books for beginners and experienced)
@@ -3157,10 +3155,7 @@ Contents:
                 https://news.ycombinator.com/item?id=30980813 (	Ask HN: Python Programming Books)
                 https://news.ycombinator.com/item?id=39392881 (Think Python, 3rd Edition (allendowney.github.io))
                 https://opensource.com/article/19/5/python-3-default-mac (The right and wrong way to set Python 3 as default on a Mac)
-                https://pythonbooks.org (Find the best Python books Ranked by popularity. Grouped intelligently. Updated monthly!)
-                https://realpython.com/courses/python-boto3-aws-s3 (Python, Boto3, and AWS S3: Demystified)
                 https://research.google.com/colaboratory/local-runtimes.html (Local Runtimes in Google Colab)
-                https://www.amazon.com/gp/bestsellers/books/285856 (Best Sellers in Python Programming)
                 https://www.cosmicpython.com https://www.amazon.com/Architecture-Patterns-Python-Domain-Driven-Microservices/dp/1492052205 (Architecture Patterns with Python: Enabling Test-Driven Development, Domain-Driven Design, and Event-Driven Microservices)
                 https://www.reddit.com/r/learnprogramming/wiki/online#wiki_python
                 https://www.reddit.com/r/Python+learnpython
@@ -3172,62 +3167,72 @@ Contents:
                     https://github.com/Asabeneh/30-Days-Of-Python (30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.)
                     https://github.com/donnemartin/interactive-coding-challenges (120+ interactive Python coding interview challenges (algorithms and data structures). Includes Anki flashcards.)
                     https://github.com/huangsam/ultimate-python (Ultimate Python study guide for newcomers and professionals alike. 🐍 🐍 🐍 )
+                    https://github.com/TheAlgorithms/Python (All algorithms implemented in Python - for education )
+                    https://github.com/tuvtran/project-based-learning#python (Curated list of project-based tutorials)
+                    https://pythonbooks.org (Find the best Python books Ranked by popularity. Grouped intelligently. Updated monthly!)
+                    https://realpython.com/courses/python-boto3-aws-s3 (Python, Boto3, and AWS S3: Demystified)
                     https://share.google/aimode/ccldMHXrVNbZWNpZX (Goofle AI: vscode python disable autocomplete temporary)
+                    https://www.amazon.com/gp/bestsellers/books/285856 (Best Sellers in Python Programming)
                     https://www.reddit.com/r/learnpython/comments/53z5p4/how_to_start_learning_python_the_complete_guide (How to start learning Python ? The Complete guide.)
                     https://www.udemy.com/topic/python/?ratings=4.5&sort=popularity (Udemy Courses rated 4.5 stars and above)
 
                 Python Crash Course, 3rd Edition: A Hands-On, Project-Based Introduction to Programming 3rd Edition by Eric Matthes January 10, 2023
-                https://ehmatthes.github.io/pcc_3e
-                https://ehmatthes.github.io/pcc_3e/cheat_sheets (Cheat Sheets)
-                https://ehmatthes.github.io/pcc_3e/updates (Updates and Errata)
-                https://github.com/ehmatthes/pcc_3e (Online resources for Python Crash Course, 3rd edition, from No Starch Press. )
-                https://nostarch.com/python-crash-course-3rd-edition
-                https://www.amazon.com/Python-Crash-Course-Eric-Matthes/dp/1718502702
+                    https://ehmatthes.github.io/pcc_3e
+                    https://ehmatthes.github.io/pcc_3e/cheat_sheets (Cheat Sheets)
+                    https://ehmatthes.github.io/pcc_3e/updates (Updates and Errata)
+                    https://github.com/ehmatthes/pcc_3e (Online resources for Python Crash Course, 3rd edition, from No Starch Press. )
+                    https://nostarch.com/python-crash-course-3rd-edition
+                    https://www.amazon.com/Python-Crash-Course-Eric-Matthes/dp/1718502702
 
                 Fluent Python: Clear, Concise, and Effective Programming by Luciano Ramalho 2nd Edition May 10, 2022
-                https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1492056359
+                    https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1492056359
 
                 Effective Python: 135 Specific Ways to Write Better Python by Brett Slatkin 3rd edition March 28, 2024
-                https://effectivepython.com
-                https://www.amazon.com/Effective-Python-Specific-Software-Development-dp-0138172188/dp/0138172188
+                    https://effectivepython.com
+                    https://www.amazon.com/Effective-Python-Specific-Software-Development-dp-0138172188/dp/0138172188
+
+                Python for DevOps: Learn Ruthlessly Effective Automation (January 21, 2020) by Noah Gift , Kennedy Behrman and Alfredo Deza
+                    https://www.amazon.com/Python-DevOps-Ruthlessly-Effective-Automation/dp/149205769X
+                    https://www.oreilly.com/library/view/python-for-devops/9781492057680
+                    https://github.com/rohitg00/DevOps_Books/blob/main/python-for-devops-learn-ruthlessly-effective-automation-original-retailnbsped-149205769x-978-1492057697.pdf
 
                 Practical Python Programming by David Beazley
-                https://dabeaz-course.github.io/practical-python/Notes/Contents.html
-                https://github.com/dabeaz-course/practical-python
-                https://learning.oreilly.com/videos/python-programming-language/9780134217314
+                    https://dabeaz-course.github.io/practical-python/Notes/Contents.html
+                    https://github.com/dabeaz-course/practical-python
+                    https://learning.oreilly.com/videos/python-programming-language/9780134217314
 
                 Advanced Python Mastery by David Beazley
-                https://github.com/dabeaz-course/python-mastery
+                    https://github.com/dabeaz-course/python-mastery
 
                 Automate the Boring Stuff with Python by Al Sweigart
-                https://automatetheboringstuff.com/3e
-                https://automatetheboringstuff.com/eval
-                https://inventwithpython.com/automateudemy (Coupon)
-                https://www.amazon.com/Automate-Boring-Stuff-Python-3rd/dp/1718503407
-                https://www.udemy.com/course/automate
+                    https://automatetheboringstuff.com/3e
+                    https://automatetheboringstuff.com/eval
+                    https://inventwithpython.com/automateudemy (Coupon)
+                    https://www.amazon.com/Automate-Boring-Stuff-Python-3rd/dp/1718503407
+                    https://www.udemy.com/course/automate
 
                 Learn Python 3 the Hard Way by Zed A. Shaw
-                https://learnpythonthehardway.org/python3
-                http://www.informit.com/promotions/book-registration-learn-python-3-the-hard-way-141409 (Videos)
+                    https://learnpythonthehardway.org/python3
+                    http://www.informit.com/promotions/book-registration-learn-python-3-the-hard-way-141409 (Videos)
 
                 A Gentle Introduction to Programming Using Python
-                https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011
+                    https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011
 
                 Python Tutorials by Corey Schafer
-                https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU
+                    https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU
 
                 CS50's Introduction to Programming with Python
-                https://www.edx.org/course/cs50s-introduction-to-programming-with-python
+                    https://www.edx.org/course/cs50s-introduction-to-programming-with-python
 
                 100 Days of Code: The Complete Python Pro Bootcamp by Dr. Angela Yu
-                https://www.udemy.com/course/100-days-of-code
+                    https://www.udemy.com/course/100-days-of-code
 
                 Python Programming MOOC 2026 by the University of Helsinki
-                https://programming-26.mooc.fi
+                    https://programming-26.mooc.fi
 
                 Think Python, 3rd edition by Allen B. Downey September 3, 2024
-                https://allendowney.github.io/ThinkPython
-                https://www.amazon.com/_/dp/1098155432
+                    https://allendowney.github.io/ThinkPython
+                    https://www.amazon.com/_/dp/1098155432
 
         Go:
             Sources:
@@ -3336,6 +3341,7 @@ Contents:
                 https://plainvanillaweb.com (This is an overview of the major techniques used to make web sites and web applications without making use of build tools or frameworks, with just an editor, a browser, and web standards. )
                 https://rutar.org/writing/how-to-build-a-personal-webpage-from-scratch (How to Build a Personal Webpage from Scratch)
                 https://www.photopea.com (Free Online Photo Editor)
+                https://www.statista.com/statistics/1124699/worldwide-developer-survey-most-used-frameworks-web (Most used web frameworks among developers worldwide, as of 2025 )
                 https://www.udemy.com/courses/development/web-development/?ratings=4.5&sort=popularity (Udemy Courses rated 4.5 stars and above)
                 https://www.wappalyzer.com (Find out the technology stack of any website.)
                 https://www.youtube.com/c/TraversyMedia
