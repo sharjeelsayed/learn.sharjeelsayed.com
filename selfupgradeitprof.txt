@@ -3173,7 +3173,6 @@ Contents:
                     https://realpython.com/courses/python-boto3-aws-s3 (Python, Boto3, and AWS S3: Demystified)
                     https://share.google/aimode/ccldMHXrVNbZWNpZX (Goofle AI: vscode python disable autocomplete temporary)
                     https://www.amazon.com/gp/bestsellers/books/285856 (Best Sellers in Python Programming)
-                    https://www.reddit.com/r/learnpython/comments/53z5p4/how_to_start_learning_python_the_complete_guide (How to start learning Python ? The Complete guide.)
                     https://www.udemy.com/topic/python/?ratings=4.5&sort=popularity (Udemy Courses rated 4.5 stars and above)
 
                 Python Crash Course, 3rd Edition: A Hands-On, Project-Based Introduction to Programming 3rd Edition by Eric Matthes January 10, 2023
@@ -3772,6 +3771,7 @@ Contents:
                 https://blog.udemy.com/kubernetes-interview-questions (7 Kubernetes Interview Questions You Should Be Able to Answer)
                 https://cluely.com (Cluely is an undetectable AI-powered assistant built for Virtual Meetings, Sales calls, and more)
                 https://codesignal.com (Make the right hires faster, save engineering time, increase diversity, and reduce risk with our technical interview and assessment platform.)
+                https://didtheyghostyou.com (An anonymous, moderated record of companies that stop responding after interviews)
                 https://enterprisersproject.com/article/2021/3/7-top-site-reliability-engineer-sre-job-interview-questions (7 top Site Reliability Engineer (SRE) job interview questions)
                 https://github.com/alexeygrigorev/data-science-interviews (Data science interview questions and answers https://ds-interviews.org)
                 https://github.com/ibttf/interview-coder (An open-source invisible desktop application to help you pass your technical interviews.)
