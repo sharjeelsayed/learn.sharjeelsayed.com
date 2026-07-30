@@ -5237,6 +5237,7 @@ Contents:
                 Hacker News:
                     https://apps.apple.com/us/app/hack-for-hacker-news-developer/id1464477788
                     https://github.com/minimaxir/hacker-news-undocumented (Some of the hidden norms about Hacker News not otherwise covered in the Guidelines and the FAQ.)
+                    https://github.com/twalichiewicz/HNewhere (A lightweight userscript that adds Hacker News discussions to any previously submitted article.)
                     https://hackernewsletter.com (Since 2010, we've put out a weekly newsletter of the best articles on startups, technology, programming, and more. All links are curated by hand from Hacker News. )
                     https://hackernewstrends.com (Charts how often any topic, tool, or person has come up on Hacker News.)
                     https://hakkernieuws.vercel.app/top (Hakkernieuws strips HN down to just stories and favicons)
@@ -5511,6 +5512,7 @@ Contents:
                 https://github.com/simon987/awesome-datahoarding (List of data-hoarding related tools )
                 https://github.com/topics/backup?o=desc&s=stars
                 https://github.com/widevinedump (Tools to Download Netflix / Disney / Apple TV Content)
+                https://help.dropbox.com/installs/dropbox-for-macos-support#How-to-opt-out-of-Dropbox-on-File-Provider (How to opt out of Dropbox on File Provider)
                 https://mega.nz/C!vuhRiKpB (Mega.nz Extra Storage)
                 https://news.ycombinator.com/item?id=17603348 (Ask HN: How do you backup your files without depending on a third party service?)
                 https://news.ycombinator.com/item?id=18692844 (Ask HN: Best Centralized Backup Solution)
@@ -6138,5 +6140,6 @@ Contents:
             https://www.visionofhumanity.org/maps (Global Peace Index Maps)
 
     Support this project with these referral links:
+        https://db.tt/YL0e12GN (Dropbox 500 MB of bonus space)
         https://m.do.co/c/d3160b5e33e8 (DigitalOcean Credits)
         https://www.expressrefer.com/refer-friend?referrer_id=39360476 (ExpressVPN 30 days free)
