@@ -663,8 +663,7 @@ Contents:
                 https://build-your-own.org/blog/20251015_db_in_3000 (Build your own database in 3000 lines of code)
                 https://build-your-own.org/database ( Build your own database from scratch . persistence, indexing, concurrency)
                 https://datasetsearch.research.google.com (Dataset search)
-                https://db-engines.com/en/blog_post/109 (PostgreSQL is the Database Management System of the Year 2024)
-                https://db-engines.com/en/ranking (Db-engines ranking)
+                https://db-engines.com/en/ranking (The DB-Engines Ranking ranks database management systems according to their popularity. The ranking is updated monthly.)
                 https://github.com/alexeygrigorev/data-science-interviews (Data science interview questions and answers https://ds-interviews.org)
                 https://github.com/bytebase/bytebase (https://www.bytebase.com World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams. The GitLab/GitHub for database DevOps.)
                 https://github.com/DataEngineer-io/data-engineer-handbook (This is a repo with links to everything you'd ever want to learn about data engineering)
@@ -2228,21 +2227,24 @@ Contents:
                 https://news.ycombinator.com/item?id=23208181 (Ask HN: What PostgreSQL client do you use?)
                 https://pgtune.leopard.in.ua (tuning PostgreSQL config by your hardware)
                 https://postgrespro.com/blog/pgsql/5969985 ( PostgreSQL 14 Internals :A deep dive into the server mechanics)
-                https://postgrespro.com/community/books/internals (PostgreSQL Internals)
                 https://postgresqlco.nf (Manage YOUR postgresql.conf CONFIGURATIONS)
                 https://roadmap.sh/postgresql-dba (Step by step guide to becoming a modern PostgreSQL DB Administrator in 2025 )
                 https://supabase.com (Supabase is an open source Firebase alternative. Start your project with a Postgres database, Authentication, instant APIs, Edge Functions, Realtime subscriptions, Storage, and Vector embeddings.)
                 https://theartofpostgresql.com (The book that teaches SQL to developers: Learn to replace thousands of lines of code with simple queries!)
                 https://tomcam.github.io/postgres (psql command line tutorial and cheat sheet)
                 https://www.crunchydata.com/developers/tutorials (Postgres Playground: Enhance your Postgres skills)
-                https://www.interdb.jp/pg (The Internals of PostgreSQL)
-                https://www.postgresql.org/docs/current/internals.html (PostgreSQL Internals)
                 https://www.timescale.com/blog/state-of-postgresql-2022-13-tools-that-arent-psql (Top Postgresql clients and tools)
                 https://www.udemy.com/topic/postgresql/?ratings=4.5&sort=popularity (Udemy Courses rated 4.5 stars and above)
 
             Books and Courses:
-                https://www.postgresql.org/docs/current
-                https://pgexercises.com
+                Tutorials:
+                    https://pgexercises.com (PostgreSQL Exercises)
+                    https://www.interdb.jp/pg (The Internals of PostgreSQL for database administrators and system developers)
+                    https://www.postgresql.org/docs/current (PostgreSQL 18.4 Documentation)
+                    https://www.postgresql.org/docs/current/internals.html (PostgreSQL Internals)
+                    https://www.postgresql.org/docs/online-resources (Tutorials & Other Resources)
+                    https://www.w3schools.com/postgresql (PostgreSQL Tutorial)
+                    https://postgrespro.com/community/books/internals ( PostgreSQL 14 Internals A deep dive into the server mechanics)
 
                 The Complete SQL Bootcamp 2020: Go from Zero to Hero by Jose Portilla:
                     https://www.udemy.com/course/the-complete-sql-bootcamp
@@ -3114,29 +3116,22 @@ Contents:
                 https://menial.co.uk/base (The best SQLite database editor for macOS)
                 https://news.ycombinator.com/item?id=23070491 (Here are some other SQL Learning resources I have collected in my note taking Wiki (mostly from HN itself))
                 https://news.ycombinator.com/item?id=23138297 (Advanced SQL and database books and resources (neilwithdata.com))
-                https://selectstarsql.com (This is an interactive book which aims to be the best place on the internet for learning SQL.)
-                https://sqlbolt.com (A series of interactive lessons and exercises designed to help you quickly learn SQL right in your browser)
                 https://pinboard.in/u:SharjeelSayed/t:sql
 
             Books and Courses:
-                Stanford DB5 Course on SQL
-                    https://lagunita.stanford.edu/courses/DB/SQL/SelfPaced/about
-
-                Learn SQL step by step
-                    https://sqlzoo.net
-
-                SQL Teaching
-                    https://www.sqlteaching.com
-
-                SQL Tutorial
-                    https://www.w3schools.com/sql
-
-                SQL Indexing and Tuning e-Book
-                    https://use-the-index-luke.com
+                Tutorials:
+                    https://datalemur.com (Ace the SQL & Data Science Interview .Practice SQL Interview and Data Science Interview questions on DataLemur. Made by Nick Singh, Best-Selling Author of Ace the Data Science Interview)
+                    https://leetcode.com/problemset/database (LeetCode (Database Track))
+                    https://selectstarsql.com (This is an interactive book which aims to be the best place on the internet for learning SQL.)
+                    https://sqlbolt.com (A series of interactive lessons and exercises designed to help you quickly learn SQL right in your browser)
+                    https://sqlzoo.net (SQL Tutorials: Learn SQL step by step)
+                    https://use-the-index-luke.com (SQL Indexing and Tuning e-Book)
+                    https://www.sqlteaching.com (SQL Teaching )
+                    https://www.w3schools.com/sql (SQL Tutorial)
 
                 HarvardX: CS50's Introduction to Databases with SQL:
-                    https://cs50.edx.org/sql
-                    https://cs50.harvard.edu/sql/2024
+                    https://cs50.harvard.edu/sql (CS50’s Introduction to Databases with SQL)
+                    https://www.edx.org/learn/sql/harvard-university-cs50-s-introduction-to-databases-with-sql (HarvardX: CS50's Introduction to Databases with SQL An introduction to databases using a language called SQL.)
 
         Python:
             Sources:
@@ -4543,6 +4538,7 @@ Contents:
                 https://www.fbpurity.com (F.B. Purity - Clean Up and Customize Facebook)
                 https://www.forbesconrad.com/blog/enable-password-pasting (Enable Password Pasting in Firefox)
                 https://www.mrfdev.com/enhancer-for-youtube (Enhancer for YouTube)
+                https://www.tampermonkey.net (Userscripts are small JavaScript programs that can be used to add new features or modify existing ones on web pages. With Tampermonkey, you can easily create, manage, and run these userscripts on any website you visit.)
 
         AdBlock:
             Sources:
