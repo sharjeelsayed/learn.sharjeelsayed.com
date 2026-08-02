@@ -2408,13 +2408,18 @@ Contents:
                     https://www.udemy.com/course/git-and-github-bootcamp
 
         GitHub Actions:
-            Sources:
-                https://docs.github.com/en/actions (GitHub Actions documentation)
+            Tools:
                 https://github.com/marketplace/actions/debugging-with-tmate (This GitHub Action offers you a direct way to interact with the host system on which the actual scripts (Actions) will run.)
                 https://github.com/nektos/act (https://nektosact.com Run your GitHub Actions locally 🚀)
-                https://www.actionsbyexample.com (GitHub Actions by Example is an introduction to the service through annotated examples.)
 
             Books and Courses:
+                Tutorials:
+                    https://docs.github.com/en/actions (GitHub Actions documentation)
+                    https://learn.github.com/skills (GitHub Skills Learn GitHub within GitHub Learn how to use GitHub with interactive courses designed for beginners and experts.)
+                    https://www.actionsbyexample.com (GitHub Actions by Example .GitHub Actions by Example is an introduction to the service through annotated examples.)
+                    https://www.amazon.com/Learning-GitHub-Actions-Automation-Integration/dp/109813107X (Learning GitHub Actions by Brent Laster (O'Reilly)  (September 26, 2023))
+                    https://www.amazon.com/Mastering-GitHub-Actions-automation-integration/dp/1805128620 (Mastering GitHub Actions by Eric Chapman (Packt) ( March 22, 2024))
+
                 GitHub Actions by Barahalikar Siddharth Kodekloud
                     https://learn.kodekloud.com/courses/github-actions
                     https://youtu.be/E2RRxcq_08E?si=ZO1AHvGr0mYtSdc1 (GitHub Actions Tutorial: Advanced Concepts You Should Know (Part 1))
@@ -2429,12 +2434,6 @@ Contents:
                     https://youtu.be/Xwpi0ITkL3U?si=-gfT0UnRhB8b2PCl
                     https://courses.devopsdirective.com/github-actions-beginner-to-pro
                     https://github.com/sidpalas/devops-directive-github-actions-course
-
-                Mastering GitHub Actions by Eric Chapman (Packt) ( March 22, 2024)
-                    https://www.amazon.com/Mastering-GitHub-Actions-automation-integration/dp/1805128620
-
-                Learning GitHub Actions by Brent Laster (O'Reilly)  (September 26, 2023)
-                    https://www.amazon.com/Learning-GitHub-Actions-Automation-Integration/dp/109813107
 
         Jenkins:
             Sources:
