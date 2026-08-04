@@ -2103,6 +2103,7 @@ Contents:
                 https://github.com/infracost/infracost (Cloud cost estimates for Terraform in pull requests💰📉 Love your cloud bill!)
                 https://github.com/infracost/vscode-infracost ( See cost estimates for Terraform right in your editor💰📉 www.infracost.io )
                 https://github.com/JamesWoolfenden/pike (Pike is a tool for determining the permissions or policy required for IAC code)
+                https://github.com/omarismail/terraform-plan-tui (A Terminal UI for Terraform Plans)
                 https://github.com/terraform-linters/tflint (A Pluggable Terraform Linter)
                 https://github.com/tfutils/tfenv (Terraform version manager)
                 https://github.com/warrensbox/terraform-switcher (A command line tool to switch between different versions of terraform)
@@ -2420,6 +2421,11 @@ Contents:
                     https://www.amazon.com/Learning-GitHub-Actions-Automation-Integration/dp/109813107X (Learning GitHub Actions by Brent Laster (O'Reilly)  (September 26, 2023))
                     https://www.amazon.com/Mastering-GitHub-Actions-automation-integration/dp/1805128620 (Mastering GitHub Actions by Eric Chapman (Packt) ( March 22, 2024))
 
+                Complete GitHub Actions Course - From BEGINNER to PRO by DevOps Directive (Sep 24, 2025)
+                    https://youtu.be/Xwpi0ITkL3U?si=-gfT0UnRhB8b2PCl
+                    https://courses.devopsdirective.com/github-actions-beginner-to-pro
+                    https://github.com/sidpalas/devops-directive-github-actions-course (Companion repo for the DevOps Directive "Github Actions: Beginner to Pro" course Resources)
+
                 GitHub Actions by Barahalikar Siddharth Kodekloud
                     https://learn.kodekloud.com/courses/github-actions
                     https://youtu.be/E2RRxcq_08E?si=ZO1AHvGr0mYtSdc1 (GitHub Actions Tutorial: Advanced Concepts You Should Know (Part 1))
@@ -2429,11 +2435,6 @@ Contents:
                     https://www.udemy.com/course/github-actions-the-complete-guide
                     https://github.com/academind/github-actions-course-resources (Resources (code, slides) for our GitHub Actions course (https://acad.link/gh-actions))
                     https://academind.com/community
-
-                Complete GitHub Actions Course - From BEGINNER to PRO by DevOps Directive (Sep 24, 2025)
-                    https://youtu.be/Xwpi0ITkL3U?si=-gfT0UnRhB8b2PCl
-                    https://courses.devopsdirective.com/github-actions-beginner-to-pro
-                    https://github.com/sidpalas/devops-directive-github-actions-course
 
         Jenkins:
             Sources:
