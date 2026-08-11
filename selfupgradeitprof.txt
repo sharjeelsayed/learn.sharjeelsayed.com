@@ -4107,6 +4107,7 @@ Contents:
                 https://map.stapply.ai (Map of Jobs at Top AI Companies | Stapply Job Map)
                 https://internshala.com (Internship and Training in India)
                 https://devnetjobs.org
+                https://jobs.joindevops.com (Find Your Next DevOps Job.JoinDevOps job board. Connecting You to the Best DevOps Jobs.)
 
             Arab League Countries Job Sites:
                 https://ae.indeed.com (66)
@@ -4534,6 +4535,7 @@ Contents:
                 https://newsit.benwinding.com (Newsit - A news aggregator that lets you read the news without the clutter)
                 https://oblador.github.io/hush (Block nags to accept cookies and privacy invasive tracking in Safari on Mac, iPhone and iPad.)
                 https://privacybadger.org (Privacy Badger is a browser extension that automatically learns to block invisible trackers.)
+                https://sponsor.ajay.app (SponsorBlock is an open-source crowdsourced browser extension and open API for skipping sponsor segments in YouTube videos.)
                 https://underpassapp.com/StopTheMadness (StopTheMadness is a Safari extension for Mac that stops web sites from making your browser harder to use.)
                 https://unhook.app (Watch YouTube free of distractions. Block suggestion feeds, comments, and more)
                 https://www.fbpurity.com (F.B. Purity - Clean Up and Customize Facebook)
