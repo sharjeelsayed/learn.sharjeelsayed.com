@@ -1909,10 +1909,11 @@ Contents:
                 https://www.whizlabs.com/labs/sandbox (A secure, isolated, contained environment.)
 
             AWS Emulators:
-                https://github.com/ministackorg/ministack (https://ministack.org Free, open-source local AWS emulator - 55+ services, Terraform compatible, real databases. Free forever. MIT licensed.)
-                https://www.localstack.cloud (LocalStack simulates cloud environments on your own infrastructure so software teams and AI agents can validate security, quality, and reliability faster and more safely than the cloud allows.)
-                https://github.com/getmoto/moto (https://docs.getmoto.org/en/latest A library that allows you to easily mock out tests based on AWS infrastructure. )
                 https://github.com/floci-io (https://floci.io Run AWS, Azure, and GCP locally in milliseconds)
+                https://github.com/getmoto/moto (https://docs.getmoto.org/en/latest A library that allows you to easily mock out tests based on AWS infrastructure. )
+                https://github.com/ministackorg/ministack (https://ministack.org Free, open-source local AWS emulator - 55+ services, Terraform compatible, real databases. Free forever. MIT licensed.)
+                https://github.com/mulgadc/spinifex (https://mulgadc.com/spinifex Open source AWS-compatible platform for secure edge deployments. Run EC2, VPC, S3, and EBS-like services on bare metal with full control. Built for environments where running in the cloud isn’t an option. Whether you’re deploying to edge sites, private data-centers, or operating in low-connectivity or highly contested environments.)
+                https://www.localstack.cloud (LocalStack simulates cloud environments on your own infrastructure so software teams and AI agents can validate security, quality, and reliability faster and more safely than the cloud allows.)
 
             AWS Support Groups:
                 https://discord.com/channels/1191146976847351970 (TechStudyDiscord by Adrian Cantrill)
@@ -2800,7 +2801,7 @@ Contents:
                 https://linuxblog.io/home-lab-beginners-guide-hardware (Home Lab Beginners Guide - Hardware)
                 https://news.ycombinator.com/item?id=14123394 (Ask HN: What's the Hacker News of hardware?)
                 https://news.ycombinator.com/item?id=15733760 (What are hardware development learning web tutorials?)
-                https://www.ankerlndiastore.com/p/black-anker-prime-charger-160w-3-ports-smart-display (Black Anker Prime Charger (160W, 3 Ports, Smart Display))
+                https://www.ankerindiasstore.com/p/black-anker-prime-charger-160w-3-ports-smart-display (Black Anker Prime Charger (160W, 3 Ports, Smart Display))
                 https://youtu.be/1jAeEPHvDyA?si=edLDDDoPhg1HfwF3 (I've Never Seen A USB-C Charger This Good! by Project Farm)
                 https://youtu.be/cH2_RNs-uCU?si=1b10tpKUi5O4KNgW (Charging Compatibility Test of Apple MacBook Pro M5 by ChargerLAB)
                 https://youtu.be/YnuDkZ9UM6U?si=RXrxYeHkggFPZ8Tu (Charging Compatibility Test of iPhone 17 Pro Max (Complete Version) by ChargerLAB)
@@ -2939,6 +2940,7 @@ Contents:
                     https://brew.sh (The Missing Package Manager for macOS (or Linux))
                     https://docs.brew.sh/Manpage#bundle-subcommand (Homebrew Bundle)
                     https://gist.github.com/ChristopherA/a579274536aab36ea9966f301ff14f3f (Brew Bundle Brewfile Tips)
+                    https://github.com/Homebrew/BrewUI (📺 Homebrew's official macOS GUI)
                     https://github.com/Homebrew/homebrew-bundle (📦 Bundler for non-Ruby dependencies from Homebrew, Homebrew Cask and the Mac App Store.)
 
                 Essential HomeBrew packages:
@@ -3827,6 +3829,7 @@ Contents:
                     https://interviewing.io/guides/system-design-interview (A Senior Engineer's Guide to the System Design Interview)
                     https://maheshba.bitbucket.io/blog/2023/07/12/Design.html (What we talk about when we talk about System Design)
                     https://www.amazon.com/System-Design-Interview-Insiders-Guide/dp/1736049119 (System Design Interview – An Insider's Guide: Volume 2 by Alex Xu)
+                    https://www.hellointerview.com/learn/system-design/in-a-hurry/introduction (System Design in a Hurry by Hello Interview)
                     https://www.swequiz.com/blog/every-caching-strategy-explained-in-5-minutes (Every Caching Strategy Explained in 5 Minutes)
                     https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX (System Design Playlist by Gaurav Sen)
                     https://youtu.be/bUHFg8CZFws (System Design Interview – Step By Step Guide by System Design Interview)
