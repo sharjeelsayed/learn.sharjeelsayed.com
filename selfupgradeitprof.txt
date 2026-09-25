@@ -375,6 +375,7 @@ Contents:
                     https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/index.htm (Introduction to Electrical Engineering and Computer Science I)
                     https://people.freebsd.org/~lstewart/articles/cpumemory.pdf (What Every Programmer Should Know About Memory)
                     https://samwho.dev/numbers (Latency Numbers Every Programmer Should Know)
+                    https://themodernsoftware.dev (Large language models have changed software development from a primarily manual coding process into one where developers collaborate with increasingly capable coding agents. This shift requires new ways of defining intent, structuring work, and coordinating tools so that agents can contribute effectively across complex software projects. https://github.com/mihail911/modern-software-dev-assignments )
                     https://wizardzines.com/comics (programming zines by Julia Evans)
                     https://www.makingsoftware.com (A reference manual for people who design and build software.)
                     https://www.udacity.com/course/intro-to-computer-science--cs101 (Intro to Computer Science by Udacity)
@@ -2254,18 +2255,19 @@ Contents:
                     https://github.com/jmportilla/Udemy-notes (Coupon)
 
             PostgreSQL Tools and Clients: (Sorted by Alexa Rank)
-                https://www.jetbrains.com/datagrip (1,677)
+                https://dbeaver.io (57,261)
+                https://eggerapps.at/postico (433,213)
+                https://github.com/databasus/databasus (PostgreSQL backup tool with Point-In-Time-Recovery and restore verification)
+                https://github.com/dimitri/pgcopydb (Copy a Postgres database to a target Postgres server (pg_dump | pg_restore on steroids) )
                 https://tableplus.com (41,038)
+                https://www.dbvis.com (288,493)
+                https://www.heidisql.com (59,588)
+                https://www.jetbrains.com/datagrip (1,677)
+                https://www.malcolmhardie.com/sqleditor (5,931,983)
                 https://www.navicat.com (52,231)
                 https://www.pgadmin.org (54,523)
-                https://dbeaver.io (57,261)
-                https://www.heidisql.com (59,588)
-                https://www.dbvis.com (288,493)
-                https://eggerapps.at/postico (433,213)
                 https://www.pgcli.com (4,635,481)
                 https://www.valentina-db.com/en/valentina-studio-overview (626,733)
-                https://www.malcolmhardie.com/sqleditor (5,931,983)
-                https://github.com/dimitri/pgcopydb (Copy a Postgres database to a target Postgres server (pg_dump | pg_restore on steroids) )
 
         Redis:
             Sources:
@@ -2666,6 +2668,7 @@ Contents:
                 https://github.com/bikini/exploitarium (A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way. )
                 https://github.com/BishopFox/cloudfox (Open source command line tool created to help penetration testers and other offensive security professionals find exploitable  attack paths in cloud infrastructure)
                 https://github.com/BushidoUK/Ransomware-Tool-Matrix (https://blog.bushidotoken.net/2024/08/the-ransomware-tool-matrix.html A resource containing all the tools each ransomware gangs uses)
+                https://github.com/cloudflare/security-audit-skill (A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings)
                 https://github.com/Cryakl/Ultimate-RAT-Collection (For educational purposes only, exhaustive samples of 450+ classic/modern trojan builders including screenshots. )
                 https://github.com/cugu/awesome-forensics ( A curated list of awesome forensic analysis tools and resources http://cugu.github.io/awesome-forensics )
                 https://github.com/desbma/shh (Systemd Hardening Helper - Automatic systemd service hardening guided by strace profiling )
@@ -2682,6 +2685,7 @@ Contents:
                 https://github.com/iacsecurity/tool-compare (infrastructure-as-code security tools comparison)
                 https://github.com/infobyte/faraday (https://faradaysec.com Open Source Vulnerability Management Platform)
                 https://github.com/jtesta/ssh-audit (SSH server & client security auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc))
+                https://github.com/kaifcodec/user-scanner (🕵️‍♂️ (2-in-1) Email & Username OSINT suite featuring native MCP support for deep data extraction just from a single Email/Username. Analyzes 1080+ actively maintained scan vectors (200+ email / 880+ username) for security research, investigations, and digital footprinting.)
                 https://github.com/KeygraphHQ/shannon (https://keygraph.io Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.)
                 https://github.com/Kyuu-Ji/Awesome-Azure-Pentest (A collection of resources, tools and more for penetration testing and securing Microsofts cloud platform Azure.)
                 https://github.com/laramies/theHarvester (https://www.edge-security.com E-mails, subdomains and names Harvester - OSINT )
@@ -2860,6 +2864,7 @@ Contents:
                 https://support.mozilla.org/en-US/kb/keyboard-shortcuts-perform-firefox-tasks-quickly (Keyboard shortcuts - Perform common Firefox tasks quickly)
                 https://support.zoom.us/hc/en-us/articles/205683899-Hot-keys-and-keyboard-shortcuts#collapseMac (Zoom Hot keys and keyboard shortcuts)
                 https://thesweetsetup.com/picks
+                https://vettedconsumer.com/which-mac-for-local-llms-2026-buyers-guide (Which Mac Should You Buy to Run Local LLMs in 2026? A Memory-First Buyer's Guide)
                 https://www.bugsappleloves.com ( Bugs Apple Loves Why else would they keep them around for so long?)
                 https://www.reddit.com/r/apple+mac+macapps
                 https://youtu.be/cH2_RNs-uCU?si=1b10tpKUi5O4KNgW (Charging Compatibility Test of Apple MacBook Pro M5 by ChargerLAB)
@@ -2892,10 +2897,12 @@ Contents:
                 https://github.com/kavehtehrani/cloudflare-speed-cli (CLI for internet speed test via Cloudflare)
                 https://github.com/kerma/defaultbrowser (Command line tool for getting and setting a default browser (HTTP handler) in macOS)
                 https://github.com/koekeishiya/yabai (A tiling window manager for macOS based on binary space partitioning)
+                https://github.com/macos-fuse-t/fuse-t (macFUSEhttps://www.fuse-t.org Fuse-T is a macOS library and runtime for FUSE filesystem projects that need a practical, distributable userspace implementation without a kernel extension.)
                 https://github.com/mangerlahn/Latest (https://max.codes/latest A small utility app for macOS that makes sure you know about all the latest updates to the apps you use.)
                 https://github.com/MikeMcQuaid/strap (https://strap.mikemcquaid.com 👢 Bootstrap your macOS development system.)
                 https://github.com/moretension/duti (A command-line tool to select default applications for document types and URL schemes on Mac OS X)
                 https://github.com/nextdns/nextdns/wiki/macos (NextDNS CLI client (DoH Proxy) )
+                https://github.com/peetzweg/opendisplay (https://opendisplay.app Use an iPhone, iPad, or spare Mac as a true second display for your Mac without restrictions.)
                 https://github.com/qarmin/czkawka (Multi functional app to find duplicates, empty folders, similar images etc. )
                 https://github.com/rgcr/m-cli ( Swiss Army Knife For Macos)
                 https://github.com/samschott/maestral (Open-source Dropbox client for macOS and Linux)
@@ -2910,11 +2917,11 @@ Contents:
                 https://indiegoodies.com (iOS and macOS apps that enrich lives and boost productivity)
                 https://isapplesiliconready.com (The complete guide for MacOS Apps Optimized for Apple Silicon Macs and the M1 Processor)
                 https://iterm2.com/documentation-shell-integration.html (iTerm2 Shell Integration)
+                https://macfuse.github.io( https://github.com/macfusemac macFUSE is a software package that adds support for FUSE file systems to macOS. FUSE file systems run in user space, which makes them easier to develop, safer to run, and more flexible than conventional file systems. )
                 https://macmenubar.com (A curated directory of 850+ Mac menu bar apps)
                 https://monodraw.helftone.com (Powerful ASCII art editor designed for the Mac)
                 https://news.ycombinator.com/item?id=19515627 (Ask HN: What are your favorite utility desktop apps?)
                 https://objective-see.com/products.html (Free Mac Security Tools)
-                https://macfuse.github.io( https://github.com/macfusemac macFUSE is a software package that adds support for FUSE file systems to macOS. FUSE file systems run in user space, which makes them easier to develop, safer to run, and more flexible than conventional file systems. )
                 https://privacy.sexy (Enforce privacy & security on Windows and macOS)
                 https://renegadevi.gitlab.io/mac-app-collection (Find hidden gem apps to improve your Mac.)
                 https://roaringapps.com (Crowd-sourced application compatibility for macOS, iOS and Windows.)
@@ -2933,7 +2940,7 @@ Contents:
                 https://www.titanium-software.fr/en/onyx.html (OnyX is a multifunction utility that you can use to verify the structure of the system files)
                 https://www.usboverdrive.com (Take full advantage of any USB or Bluetooth mouse, keyboard, trackball, joystick or gamepad)
                 https://www.zeiss.co.in/vision-care/eye-care-professionals/other-products/lens-cleaning-solutions.html#overlay-benefits-1697194224 (Zeiss Pre-Moistened Lens Cloths Wipes)
-                https://github.com/macos-fuse-t/fuse-t (macFUSEhttps://www.fuse-t.org Fuse-T is a macOS library and runtime for FUSE filesystem projects that need a practical, distributable userspace implementation without a kernel extension. )
+
 
             HomeBrew:
                 Sources:
@@ -3020,6 +3027,7 @@ Contents:
                 https://freelearninglist.org
                 https://github.com/afontcu/awesome-learning (A curated list of awesome learning material)
                 https://github.com/ahmedtariq01/Cloud-DevOps-Learning-Resources (This repo includes Books and imp notes related to GCP, Azure, AWS, Docker, K8s, and DevOps. More, exam and interview prep notes.)
+                https://github.com/averygan/reclip (Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.)
                 https://github.com/cloudcommunity/Free-Certifications (A curated list of free courses & certifications.)
                 https://github.com/gerryguy311/CyberProfDevelopmentCovidResources
                 https://github.com/JanVanRyswyck/awesome-talks (Awesome online talks and screencasts )
@@ -3029,6 +3037,7 @@ Contents:
                 https://github.com/practical-tutorials/project-based-learning (Curated list of project-based tutorials)
                 https://github.com/r0oth3x49/udemy-dl (A cross-platform python based utility to download courses from udemy for personal offline use)
                 https://github.com/sindresorhus/awesome (😎 Awesome lists about all kinds of interesting topics)
+                https://github.com/tonhowtf/omniget (Udemy & Hotmart course downloader, YouTube downloader (yt-dlp GUI, 1,800+ sites) + desktop app for AI agents: Claude Code, Codex, Gemini CLI, Ollama. Permissions, undo, jobs, loops until tests pass, MCP server, 156 tools, course player. Free and open source for Windows, macOS and Linux. No terminal. Your files stay on your computer.)
                 https://github.com/WeMakeDevs/roadmaps ( This repository contains the list of communities and job portals you can join and apply to www.wemakedevs.org)
                 https://hackr.io
                 https://hourups.com (171 hand-picked crash courses from the best instructors on YouTube)
@@ -3494,6 +3503,7 @@ Contents:
                 https://github.com/topics/llm (Large Language Model GitHub Repos)
                 https://labs.scale.com/leaderboard (Benchmarks for frontier, agentic, and safety capabilities)
                 https://openrouter.ai/state-of-ai (An Empirical 100 Trillion Token Study with OpenRouter)
+                https://vettedconsumer.com/which-mac-for-local-llms-2026-buyers-guide (Which Mac Should You Buy to Run Local LLMs in 2026? A Memory-First Buyer's Guide)
                 https://wuu73.org/blog/aiguide1.html (How I Code with AI on a budget/free)
                 https://www.reddit.com/r/LocalLLaMA (Subreddit to discuss about Llama, the large language model created by Meta AI.)
                 https://www.semrush.com/blog/most-cited-domains-ai (The Most-Cited Domains in AI)
@@ -3502,6 +3512,7 @@ Contents:
                 https://deepwiki.com (Which repo would you like to understand?)
                 https://github.com/ai-boost/Awesome-GPTs (Curated list of awesome GPTs 👍.)
                 https://github.com/ai-collection/ai-collection ( The Generative AI Landscape - A List of Awesome Generative AI Applications Topics)
+                https://github.com/alibaba/open-code-review (https://open-codereview.ai Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.)
                 https://github.com/All-Hands-AI/OpenHands (https://www.all-hands.dev 🙌 OpenHands: Code Less, Make More )
                 https://github.com/anthropics/claude-code (https://www.anthropic.com/claude-code)
                 https://github.com/anthropics/claude-cookbooks (A collection of notebooks/recipes showcasing some fun and effective ways of using Claude. )
@@ -3560,6 +3571,7 @@ Contents:
                 https://github.com/sst/opencode (https://opencode.ai AI coding agent, built for the terminal.)
                 https://github.com/taranjeet/awesome-gpts (Collection of all the GPTs created by the community)
                 https://github.com/TecharoHQ/anubis (https://anubis.techaro.lol Weighs the soul of incoming HTTP requests to stop AI crawlers )
+                https://github.com/Tencent/BrowserSkill (Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.)
                 https://github.com/tencent/Hunyuan3D-2 (High-Resolution 3D Assets Generation with Large Scale Hunyuan3D Diffusion Models.)
                 https://github.com/The-Pocket/Tutorial-Codebase-Knowledge (https://the-pocket.github.io/Tutorial-Codebase-Knowledge Turns Codebase into Easy Tutorial with AI )
                 https://github.com/virattt/ai-hedge-fund (An AI Hedge Fund Team)
@@ -3570,7 +3582,6 @@ Contents:
                 https://skills.sh (Skills are reusable capabilities for AI agents. Install them with a single command to enhance your agents with access to procedural knowledge.)
                 https://sourcegraph.com/cody (Cody is a coding AI assistant that uses AI and a deep understanding of your codebase to help you write and understand code faster.)
                 https://www.phind.com (Phind is a search engine for AI models.)
-                https://github.com/alibaba/open-code-review (https://open-codereview.ai Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.)
 
             Books and Courses:
                 Tutorials:
@@ -3578,6 +3589,7 @@ Contents:
                     https://arc.net/folder/D0472A20-9C20-4D3F-B145-D2865C0A9FEE (Ilya Sutskever gave John Carmack this reading list of approx 30 research papers and said, ‘If you really learn all of these, you’ll know 90% of what matters today.’)
                     https://bbycroft.net/llm (A 3D animated visualization of an LLM with a walkthrough)
                     https://blog.floydhub.com/best-deep-learning-courses-updated-for-2019
+                    https://code.visualstudio.com/docs/agents/overview (Build with AI in VS Code)
                     https://course.fast.ai (Practical Deep Learning for Coders)
                     https://e2eml.school/transformers.html (Transformers from Scratch)
                     https://fleuret.org/dlc (François Fleuret's deep-learning courses 14x050 of the University of Geneva, Switzerland)
@@ -3675,6 +3687,7 @@ Contents:
 
             Visual Studio Code:
                 Sources:
+                    https://code.visualstudio.com/docs/agents/overview (Build with AI in VS Code)
                     https://code.visualstudio.com/docs/getstarted/tips-and-tricks (Visual Studio Code Tips and Tricks)
                     https://code.visualstudio.com/docs/sourcecontrol/github (Working with GitHub in VS Code)
                     https://code.visualstudio.com/docs/sourcecontrol/overview#_3way-merge-editor (Visual Studio Code 3-way merge editor)
@@ -3848,6 +3861,7 @@ Contents:
                     https://youtu.be/i7twT3x5yv8?si=4gTY34IV0a4otdSo (System Design Interview: A Step-By-Step Guide by  ByteByteGo)
                     https://github.com/ByteByteGoHq/system-design-101 (https://bytebytego.com/guides Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.)
                     https://bytes.usc.edu/~saty/courses/docs/data/SystemDesignInterview.pdf (System Design Interview by Alex Xu)
+                    https://github.com/liquidslr/system-design-notes (Notes of the book System Desgin Interview - An Insider's Guide https://pagefy-blush.vercel.app/system-design/system-design-interview-by-alex-xu)
 
                 Grokking the System Design Interview:
                     https://designgurus.org/course/grokking-the-system-design-interview (Grokking the System Design Interview)
