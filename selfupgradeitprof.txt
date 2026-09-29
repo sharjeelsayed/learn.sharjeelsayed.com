@@ -2268,6 +2268,7 @@ Contents:
                 https://www.pgadmin.org (54,523)
                 https://www.pgcli.com (4,635,481)
                 https://www.valentina-db.com/en/valentina-studio-overview (626,733)
+                https://github.com/pgrundev/pgterm (https://pgterm.dev A fast, open-source Postgres terminal written in Rust. 🦀🐘 Connect and monitor all your databases from one place with pgbot built in for deeper diagnostics.)
 
         Redis:
             Sources:
@@ -2414,6 +2415,7 @@ Contents:
 
         GitHub Actions:
             Tools:
+                https://github.com/actions/runner-images (GitHub Actions runner images)
                 https://github.com/marketplace/actions/debugging-with-tmate (This GitHub Action offers you a direct way to interact with the host system on which the actual scripts (Actions) will run.)
                 https://github.com/nektos/act (https://nektosact.com Run your GitHub Actions locally 🚀)
 
