@@ -2904,6 +2904,7 @@ Contents:
                 https://github.com/MikeMcQuaid/strap (https://strap.mikemcquaid.com 👢 Bootstrap your macOS development system.)
                 https://github.com/moretension/duti (A command-line tool to select default applications for document types and URL schemes on Mac OS X)
                 https://github.com/nextdns/nextdns/wiki/macos (NextDNS CLI client (DoH Proxy) )
+                https://github.com/omlahore/RemoveMacAI (https://omlahore.github.io/RemoveMacAI Debloat macOS: turn off Apple Intelligence, analytics, ads and pop-ups. A native app and CLI, and every change can be undone.)
                 https://github.com/peetzweg/opendisplay (https://opendisplay.app Use an iPhone, iPad, or spare Mac as a true second display for your Mac without restrictions.)
                 https://github.com/qarmin/czkawka (Multi functional app to find duplicates, empty folders, similar images etc. )
                 https://github.com/rgcr/m-cli ( Swiss Army Knife For Macos)
@@ -2942,7 +2943,6 @@ Contents:
                 https://www.titanium-software.fr/en/onyx.html (OnyX is a multifunction utility that you can use to verify the structure of the system files)
                 https://www.usboverdrive.com (Take full advantage of any USB or Bluetooth mouse, keyboard, trackball, joystick or gamepad)
                 https://www.zeiss.co.in/vision-care/eye-care-professionals/other-products/lens-cleaning-solutions.html#overlay-benefits-1697194224 (Zeiss Pre-Moistened Lens Cloths Wipes)
-
 
             HomeBrew:
                 Sources:
@@ -6143,6 +6143,7 @@ Contents:
             https://wikigrapher.com/paths (Wikipedia as a Graph. Find degrees of separation between articles. Also https://www.thewikigame.com/play)
             https://www.amazon.com/Best-Sellers-Health-Household-Power-Toothbrushes/zgbs/hpc/18065347011 (Best Sellers in Power Toothbrushes)
             https://www.cntraveller.in/story/the-best-restaurants-in-india-2025-top-restaurant-awards (The best restaurants in India, revealed at the Condé Nast Traveller x District Top Restaurant Awards 2025)
+            https://www.cntraveller.in/story/the-best-restaurants-in-mumbai-revealed (The Condé Nast Traveller x District Top Restaurant Awards 2026 just wrapped, and these are the best restaurants in Mumbai right now)
             https://www.construction-physics.com/p/why-is-it-so-hard-to-build-an-airport (Why Is It So Hard to Build an Airport?)
             https://www.isthistechdead.com (Tracking the pulse of tech that flatlined years ago)
             https://www.lifeisshort.fyi/calendar (A life calendar to remind us how much time we have left to live — Turns your lifespan into a calendar of weeks so you actually feel time passing.)
