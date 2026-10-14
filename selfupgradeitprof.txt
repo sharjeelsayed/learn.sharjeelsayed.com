@@ -914,15 +914,15 @@ Contents:
                 https://www.usenix.org/conference/srecon (SREcon is a gathering of engineers who care deeply about site reliability, systems engineering, and working with complex distributed systems at scale. )
 
             Books and Courses:
-                Site Reliability Engineering: How Google Runs Production Systems:
-                    https://sre.google/sre-book/table-of-contents
-                    https://www.amazon.com/Site-Reliability-Engineering-Production-Systems/dp/149192912X
+                Site Reliability Engineering: How Google Runs Production Systems 2nd Edition by Betsy Beyer, Chris Jones, Christof Leng, David Huska, Jennifer Petoff, Niall Richard Murphy , Sep 2026
+                    https://www.oreilly.com/library/view/site-reliability-engineering/9798341607675
+                    https://www.amazon.com/Site-Reliability-Engineering-Production-Systems/dp/B0GTYSKFKY
 
-                The Site Reliability Workbook: Practical Ways to Implement SRE:
+                The Site Reliability Workbook: Practical Ways to Implement SRE
                     https://sre.google/workbook/table-of-contents
                     https://www.amazon.com/Site-Reliability-Workbook-Practical-Implement-ebook/dp/B07FWFPMYG
 
-                Building Secure & Reliable Systems:
+                Building Secure & Reliable Systems
                     https://google.github.io/building-secure-and-reliable-systems
                     https://sre.google/static/pdf/building_secure_and_reliable_systems.pdf
 
@@ -1774,6 +1774,7 @@ Contents:
                 https://github.com/ekristen/aws-nuke (https://aws-nuke.ekristen.dev Remove all the resources from an AWS account )
                 https://github.com/elpy1/ssh-over-ssm (SSH over AWS SSM. No bastions or public-facing instances. SSH user management through IAM. No requirement to store SSH keys locally or on server.)
                 https://github.com/gofireflyio/aiac (Artificial Intelligence Infrastructure-as-Code Generator.)
+                https://github.com/gruntwork-io/cloud-nuke (A tool for cleaning up your cloud accounts by nuking (deleting) all resources within it)
                 https://github.com/jckuester/awsls (A list command for AWS resources)
                 https://github.com/Netflix/consoleme (A Central Control Plane for AWS Permissions and Access)
                 https://github.com/prowler-cloud/prowler (https://prowler.pro Prowler is an Open Source Security tool for AWS, Azure and GCP to perform Cloud Security best practices assessments, audits, incident response, compliance, continuous monitoring, hardening and forensics readiness. Includes CIS, NIST 800, NIST CSF, CISA, FedRAMP, PCI-DSS, GDPR, HIPAA, FFIEC, SOC2, GXP, Well-Architected Security, ENS and more.)
@@ -3472,6 +3473,7 @@ Contents:
                 Sources:
                     https://github.com/FifiTheBulldog/ios-settings-urls (A collection of iOS Settings URLs)
                     https://github.com/sindresorhus/Actions (https://sindresorhus.com/actions ⚙️ Supercharge your shortcuts )
+                    https://github.com/xtool-org/xtool (https://xtool.sh/documentation/xtool Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.)
                     https://routinehub.co (RoutineHub is a growing community around automating Apple iPhones and iPads with Siri Shortcuts.)
                     https://youtu.be/YnuDkZ9UM6U?si=RXrxYeHkggFPZ8Tu (Charging Compatibility Test of iPhone 17 Pro Max (Complete Version) by ChargerLAB)
 
