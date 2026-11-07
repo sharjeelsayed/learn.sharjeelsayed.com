@@ -5262,6 +5262,8 @@ Contents:
                     https://github.com/twalichiewicz/HNewhere (A lightweight userscript that adds Hacker News discussions to any previously submitted article.)
                     https://hackernewsletter.com (Since 2010, we've put out a weekly newsletter of the best articles on startups, technology, programming, and more. All links are curated by hand from Hacker News. )
                     https://hackernewstrends.com (Charts how often any topic, tool, or person has come up on Hacker News.)
+                    https://hackertube.org ( YouTube built from videos recommended by HN )
+                    https://hackertv.org (HN's most-recommended Youtube videos as 24/7 TV channels)
                     https://hakkernieuws.vercel.app/top (Hakkernieuws strips HN down to just stories and favicons)
                     https://hckrnews.com (an unofficial alternative hacker news interface)
                     https://hn.algolia.com ((HackerNews Search))
