@@ -1912,6 +1912,7 @@ Contents:
                 https://www.whizlabs.com/labs/sandbox (A secure, isolated, contained environment.)
 
             AWS Emulators:
+                https://github.com/aws/aws-emulator (https://docs.aws.amazon.com/emulator/latest/userguide/what-is-service.htm AWS Emulator is a local emulator of the AWS APIs.)
                 https://github.com/floci-io (https://floci.io Run AWS, Azure, and GCP locally in milliseconds)
                 https://github.com/getmoto/moto (https://docs.getmoto.org/en/latest A library that allows you to easily mock out tests based on AWS infrastructure. )
                 https://github.com/ministackorg/ministack (https://ministack.org Free, open-source local AWS emulator - 55+ services, Terraform compatible, real databases. Free forever. MIT licensed.)
@@ -4545,6 +4546,7 @@ Contents:
                 https://addons.mozilla.org/en-US/firefox/addon/wayback-machine_new (Go back in time to see how a website has changed through the history of the Web. )
                 https://addons.mozilla.org/en-US/firefox/search/?page=1&promoted=recommended&sort=users
                 https://darkreader.org (Dark Reader is an open source eye-care browser extension)
+                https://dearrow.ajay.app (DeArrow is an open source browser extension for crowdsourcing better titles and thumbnails on YouTube.)
                 https://github.com/aaronraimist/DontFuckWithPaste (Google Chrome and Firefox extension that prevents the blocking of pasting into input fields)
                 https://github.com/ACK-J/Port_Authority (https://addons.mozilla.org/en-US/firefox/addon/port-authority Blocks websites from using javascript to port scan your computer/network and dynamically blocks all LexisNexis endpoints from running their invasive data collection scripts)
                 https://github.com/Cookie-AutoDelete/Cookie-AutoDelete (Firefox and Chrome WebExtension that deletes cookies and other browsing site data as soon as the tab closes, domain changes, browser restarts, or a combination of those events. )
@@ -5254,7 +5256,7 @@ Contents:
                         https://www.reddit.com/r/dataisbeautiful/comments/18fvw7v/oc_top_50_subreddits_with_the_most_new_posts_per ([OC] Top 50 subreddits with the most new posts per day and most comments per post (December 2023))
 
                     Subscriptions:
-                        https://old.reddit.com/r/ABCDesis+AWSCertifications+Android+AppHookup+AppleWatch+AskHistorians+Cartier+DataHoarder+Documentaries+ExperiencedDevs+Flights+GalaxyS24Ultra+IndiaInvestments+Louisvuitton+ManyBaggers+Piracy+Terraform+TheHermesGame+Ubuntu+Watches+androidapps+announcements+ansible+apple+appletv+askscience+audemarspiguet+aws+bangalore+beta+books+booksuggestions+compsci+cybersecurity+dataisbeautiful+delhi+developersIndia+devops+diabetes+digitalnomad+docker+dubai+fragrance+geopolitics+history+hyderabad+india+ipad+iphone+jewelry+kubernetes+learnprogramming+linux+linuxadmin+mac+macapps+malefashionadvice+movies+mumbai+netsec+networking+onebag+osx+patekphilippe+programming+qatar+rolex+samsung+science+solotravel+suggestmeabook+technews+technology+television+todayilearned+travel+usefulscripts+watchesindia+webdev+whoop+worldnews
+                        https://old.reddit.com/r/ABCDesis+AWSCertifications+Android+AppHookup+AppleWatch+AskHistorians+Cartier+DataHoarder+Documentaries+ExperiencedDevs+Flights+GalaxyS24Ultra+IndiaInvestments+Louisvuitton+ManyBaggers+Piracy+Terraform+TheHermesGame+Ubuntu+Watches+androidapps+announcements+ansible+apple+appletv+askscience+audemarspiguet+aws+bangalore+beta+books+booksuggestions+compsci+cybersecurity+dataisbeautiful+delhi+developersIndia+devops+diabetes+digitalnomad+docker+dubai+fragrance+geopolitics+history+hyderabad+iPhoneDuo+india+ipad+iphone+jewelry+kubernetes+learnprogramming+linux+linuxadmin+mac+macapps+malefashionadvice+movies+mumbai+netsec+networking+onebag+osx+patekphilippe+programming+qatar+rolex+samsung+science+solotravel+suggestmeabook+technews+technology+television+todayilearned+travel+usefulscripts+watchesindia+webdev+whoop+worldnews
 
                 Hacker News:
                     https://apps.apple.com/us/app/hack-for-hacker-news-developer/id1464477788
@@ -5827,6 +5829,7 @@ Contents:
                 https://github.com/Free-TV/IPTV (M3U Playlist for free TV channels )
                 https://github.com/greybax/awesome-IT-films (https://alfilatov.com/awesome-IT-films A curated list of awesome films about IT & geek people.)
                 https://github.com/iptv-org/iptv (https://iptv-org.github.io Collection of publicly available IPTV channels from all over the world )
+                https://github.com/JulioFerrero/own-your-glass (https://www.julio.dev/#own-your-glass Harden a rooted LG webOS TV: neutralise microphones, the remote-mic voice pipeline and the screen-capture leak; block ad/telemetry/ACR endpoints (dual-stack); decline LG consents; hide ad apps; debloat. Reversible + boot-persistent.)
                 https://github.com/truelockmc/streambert (A cross-platform Electron Desktop App to stream and download any Movie, TV Series or Anime in the World. Zero Ads and Tracking )
                 https://news.ycombinator.com/item?id=16105040 (Ask HN: Great science fiction movies?)
                 https://news.ycombinator.com/item?id=24088582 (Ask HN: Films that made you see the world differently?)
