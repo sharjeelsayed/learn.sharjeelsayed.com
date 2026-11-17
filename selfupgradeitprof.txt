@@ -191,6 +191,7 @@ Contents:
                 https://www.classcentral.com/subject/cs ( Online Computer Science Courses and Certifications)
                 https://www.coursebuffet.com/sub/computer-science
                 https://www.coursera.org/browse/computer-science
+                https://www.cs.cmu.edu/learn (https://www.youtube.com/@CMULearn  Computer science from Carnegie Mellon. Free, online, at your pace.Free lectures now on YouTube.)
                 https://www.freecodecamp.org/news/free-courses-top-cs-universities (900 Free Computer Science Courses from the World’s Top Universities)
                 https://www.freecodecamp.org/news/free-online-programming-cs-courses (860+ Free Online Programming & Computer Science Courses You Can Start This New Year)
                 https://www.google.com/about/careers/students/guide-to-technical-development.html
@@ -5257,7 +5258,7 @@ Contents:
                         https://www.reddit.com/r/dataisbeautiful/comments/18fvw7v/oc_top_50_subreddits_with_the_most_new_posts_per ([OC] Top 50 subreddits with the most new posts per day and most comments per post (December 2023))
 
                     Subscriptions:
-                        https://old.reddit.com/r/ABCDesis+AWSCertifications+Android+AppHookup+AppleWatch+AskHistorians+Cartier+DataHoarder+Documentaries+ExperiencedDevs+Flights+GalaxyS24Ultra+IndiaInvestments+Louisvuitton+ManyBaggers+Piracy+Terraform+TheHermesGame+Ubuntu+Watches+androidapps+announcements+ansible+apple+appletv+askscience+audemarspiguet+aws+bangalore+beta+books+booksuggestions+compsci+cybersecurity+dataisbeautiful+delhi+developersIndia+devops+diabetes+digitalnomad+docker+dubai+fragrance+geopolitics+history+hyderabad+iPhoneDuo+india+ipad+iphone+jewelry+kubernetes+learnprogramming+linux+linuxadmin+mac+macapps+malefashionadvice+movies+mumbai+netsec+networking+onebag+osx+patekphilippe+programming+qatar+rolex+samsung+science+solotravel+suggestmeabook+technews+technology+television+todayilearned+travel+usefulscripts+watchesindia+webdev+whoop+worldnews
+                        https://old.reddit.com/r/ABCDesis+AWSCertifications+Android+AppHookup+AppleWatch+AskHistorians+Cartier+DataHoarder+Documentaries+ExperiencedDevs+Flights+GalaxyS24Ultra+IndiaInvestments+Louisvuitton+ManyBaggers+Piracy+Terraform+TheHermesGame+Ubuntu+Watches+androidapps+announcements+ansible+apple+appletv+askscience+audemarspiguet+aws+bangalore+beta+books+booksuggestions+compsci+cybersecurity+dataisbeautiful+delhi+developersIndia+devops+diabetes+digitalnomad+docker+dubai+fragrance+geopolitics+history+hyderabad+iPhoneDuo+iPhoneFold+india+ipad+iphone+jewelry+kubernetes+learnprogramming+linux+linuxadmin+mac+macapps+malefashionadvice+movies+mumbai+netsec+networking+onebag+osx+patekphilippe+programming+qatar+rolex+samsung+science+solotravel+suggestmeabook+technews+technology+television+todayilearned+travel+usefulscripts+watchesindia+webdev+whoop+worldnews
 
                 Hacker News:
                     https://apps.apple.com/us/app/hack-for-hacker-news-developer/id1464477788
